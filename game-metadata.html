@@ -6,17 +6,14 @@
   <title>OUYA game meta data</title>
  </head>
  <body>
-  <p>
-   Also see
-   <a href="https://gitlab.com/devirich/BrewyaOnOuya/blob/master/store/models.py">BrewyaOnOuya:store/models.py</a>.
-  </p>
   <table border="1">
    <thead>
     <tr>
      <th>Group</th>
      <th>Datum</th>
-     <th>Discover</th>
-     <th>App details</th>
+     <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-discover">Discover field</a></th>
+     <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-apps-xxx">App details field</a></th>
+     <th><a href="https://gitlab.com/devirich/BrewyaOnOuya/blob/master/store/models.py">BrewyaOnOuya field</a></th>
      <th>Example</th>
      <th>Description</th>
     </tr>
@@ -28,6 +25,7 @@
      <td>Game UUID</td>
      <td>uuid</td>
      <td>uuid</td>
+     <td>App.uuid</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
     </tr>
@@ -36,6 +34,7 @@
      <td>Game title</td>
      <td>title</td>
      <td>title</td>
+     <td>App.title</td>
      <td>Bloo Kid 2</td>
      <td></td>
     </tr>
@@ -44,6 +43,7 @@
      <td>Overview text</td>
      <td></td>
      <td>overview</td>
+     <td>App.overview</td>
      <td>Released in October 2015 by winterworks GmbH.</td>
      <td></td>
     </tr>
@@ -52,6 +52,7 @@
      <td>Description</td>
      <td></td>
      <td>description</td>
+     <td>App.description</td>
      <td>Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack. Run, jump and swim your way through FIVE huge worlds with TWELVE levels each. Master brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\r\n\r\nBloo Kid 2 features:\r\n- five worlds with twelve levels each\r\n- handcrafted, colorful pixel-graphics\r\n- a full chiptune soundtrack\r\n- epic boss battles\r\n- tons of secrets\r\n- achievements</td>
      <td></td>
     </tr>
@@ -60,6 +61,7 @@
      <td>Number of players</td>
      <td>gamerNumbers</td>
      <td>gamerNumbers</td>
+     <td>App.playerNumbers</td>
      <td>[1]</td>
      <td>Any combination of 1-4</td>
     </tr>
@@ -68,6 +70,7 @@
      <td>Genre list</td>
      <td>genres</td>
      <td>genres</td>
+     <td>App.genres</td>
      <td>[Platformer, Retro]</td>
      <td>
       original genre list:
@@ -102,6 +105,7 @@
      <td>Package name</td>
      <td>package</td>
      <td></td>
+     <td>App.packageName</td>
      <td>evil.corptron.DuckGame</td>
      <td></td>
     </tr>
@@ -110,6 +114,7 @@
      <td>Details URL</td>
      <td>url</td>
      <td></td>
+     <td>?</td>
      <td>ouya://launcher/details?app=evil.corptron.DuckGame</td>
      <td></td>
     </tr>
@@ -118,6 +123,7 @@
      <td>Game website</td>
      <td></td>
      <td>website</td>
+     <td>App.website</td>
      <td>http://www.winterworks.de</td>
      <td></td>
     </tr>
@@ -126,6 +132,7 @@
      <td>Content rating</td>
      <td>contentRating</td>
      <td>contentRating</td>
+     <td>App.contentRating</td>
      <td>Everyone</td>
      <td>
       <ul>
@@ -141,6 +148,7 @@
      <td>FIXME</td>
      <td>premium</td>
      <td>premium</td>
+     <td>App.premium</td>
      <td>false</td>
      <td></td>
     </tr>
@@ -149,6 +157,7 @@
      <td>When the game was published</td>
      <td></td>
      <td>firstPublishedAt</td>
+     <td>App.firstPublishedAt</td>
      <td>2015-10-09T07:53:25Z</td>
      <td></td>
     </tr>
@@ -157,6 +166,7 @@
      <td>Are there in-app purchases?</td>
      <td>inAppPurchases</td>
      <td></td>
+     <td>-</td>
      <td>true</td>
      <td></td>
     </tr>
@@ -165,6 +175,7 @@
      <td>FIXME</td>
      <td>type</td>
      <td></td>
+     <td>-</td>
      <td>app</td>
      <td>"app", "discover" or "details_page" (for bundles)</td>
     </tr>
@@ -173,6 +184,7 @@
      <td>Last update (unix timestamp)</td>
      <td>updated_at</td>
      <td></td>
+     <td>AppVersion.releaseTime</td>
      <td>1417731390</td>
      <td></td>
     </tr>
@@ -181,6 +193,7 @@
      <td>Last update</td>
      <td>updatedAt</td>
      <td></td>
+     <td>AppVersion.releaseTime</td>
      <td>2014-12-04T22:16:30Z</td>
      <td></td>
     </tr>
@@ -190,6 +203,7 @@
      <td>Number of likes?</td>
      <td></td>
      <td>likeCount</td>
+     <td>Rating.likeCount</td>
      <td>0</td>
      <td></td>
     </tr>
@@ -198,6 +212,7 @@
      <td>Average rating</td>
      <td>rating.average</td>
      <td>ratingAverage</td>
+     <td>Rating.rating</td>
      <td>4.1</td>
      <td></td>
     </tr>
@@ -206,6 +221,7 @@
      <td>Number of ratings</td>
      <td>rating.count</td>
      <td>ratingCount</td>
+     <td>Rating.reviewCount</td>
      <td>355</td>
      <td></td>
     </tr>
@@ -215,6 +231,7 @@
      <td>Promotion data</td>
      <td>promotedProduct</td>
      <td>promotedProduct</td>
+     <td>App.promotedProduct</td>
      <td>null</td>
      <td>May be "null" if none, otherwise object</td>
     </tr>
@@ -223,6 +240,7 @@
      <td>Product key</td>
      <td>promotedProduct.identifier</td>
      <td>promotedProduct.identifier</td>
+     <td>Product.identifier</td>
      <td>unlock_rockets</td>
      <td></td>
     </tr>
@@ -231,6 +249,7 @@
      <td>Product name</td>
      <td>promotedProduct.name</td>
      <td>promotedProduct.name</td>
+     <td>Product.name</td>
      <td>Unlock Full Game</td>
      <td></td>
     </tr>
@@ -239,6 +258,7 @@
      <td>Product currency</td>
      <td>promotedProduct.currency</td>
      <td>promotedProduct.currency</td>
+     <td>-</td>
      <td>EUR</td>
      <td></td>
     </tr>
@@ -247,6 +267,7 @@
      <td>Product description</td>
      <td>promotedProduct.description</td>
      <td>promotedProduct.description</td>
+     <td>Product.description</td>
      <td>Remove the 9 satellites limitation. Infinite satellites!</td>
      <td></td>
     </tr>
@@ -255,6 +276,7 @@
      <td>Saving</td>
      <td>promotedProduct.percentOff</td>
      <td>promotedProduct.percentOff</td>
+     <td>-</td>
      <td>0</td>
      <td></td>
     </tr>
@@ -263,6 +285,7 @@
      <td>Current price</td>
      <td>promotedProduct.localPrice</td>
      <td>promotedProduct.localPrice</td>
+     <td>-</td>
      <td>1.99</td>
      <td></td>
     </tr>
@@ -271,6 +294,7 @@
      <td>Previous price</td>
      <td>promotedProduct.originalPrice</td>
      <td>promotedProduct.originalPrice</td>
+     <td>Product.originalPrice</td>
      <td>1.99</td>
      <td></td>
     </tr>
@@ -280,6 +304,7 @@
      <td>versionNumber</td>
      <td>latestVersion.versionNumber</td>
      <td>versionNumber</td>
+     <td>Apk.versionName</td>
      <td>1.6</td>
      <td></td>
     </tr>
@@ -288,6 +313,7 @@
      <td>UUID of latest apk version</td>
      <td>latestVersion.uuid</td>
      <td>latestVersion</td>
+     <td>Apk.versionCode</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
     </tr>
@@ -296,6 +322,7 @@
      <td>FIXME</td>
      <td></td>
      <td>publicSize</td>
+     <td>Apk.publicSize</td>
      <td>27275</td>
      <td></td>
     </tr>
@@ -304,6 +331,7 @@
      <td>FIXME</td>
      <td></td>
      <td>nativeSize</td>
+     <td>Apk.nativeSize</td>
      <td>20292</td>
      <td></td>
     </tr>
@@ -312,6 +340,7 @@
      <td>MD5 file hash</td>
      <td>latestVersion.apk.md5sum</td>
      <td>md5sum</td>
+     <td>Apk.md5sum</td>
      <td>a5b0f82d54df5f551a64295e43771a10</td>
      <td></td>
     </tr>
@@ -320,6 +349,7 @@
      <td>APK file size</td>
      <td></td>
      <td>apkFileSize</td>
+     <td>Apk.size</td>
      <td>25507828</td>
      <td></td>
     </tr>
@@ -328,6 +358,7 @@
      <td>APK publish date</td>
      <td></td>
      <td>publishedAt</td>
+     <td>AppVersion.releaseTime</td>
      <td>2015-10-23T09:58:19Z</td>
      <td></td>
     </tr>
@@ -336,8 +367,9 @@
      <td>downloadLink</td>
      <td></td>
      <td></td>
+     <td>Apk.location</td>
      <td>https://devs-ouya-tv-prod.s3.amazonaws.com/apps/5a3fbb4d-852b-4af4-becc-324dce6a3b42/de.eiswuxe.blookid2/780688a9-95ee-429a-8755-69a8d0c88fe0/lFzMjcZyQauvWX5k8HvH_blookid2.apk</td>
-     <td></td>
+     <td>Also in download.json</td>
     </tr>
 
     <tr>
@@ -345,6 +377,7 @@
      <td>Discover image</td>
      <td>image</td>
      <td></td>
+     <td>Media</td>
      <td>https://www.filepicker.io/api/file/05y2T8cKTY6cUfX7RYFR</td>
      <td></td>
     </tr>
@@ -353,6 +386,7 @@
      <td>Large image</td>
      <td></td>
      <td>mainImageFullUrl</td>
+     <td>App.titleImage</td>
      <td>https://d3e4aumcqn8cw3.cloudfront.net/api/file/MASaiOBlTEO7GKYXsIns</td>
      <td></td>
     </tr>
@@ -361,6 +395,7 @@
      <td>Video</td>
      <td></td>
      <td>videoUrl</td>
+     <td>Media</td>
      <td>https://vimeo.com/141878938</td>
      <td></td>
     </tr>
@@ -369,6 +404,7 @@
      <td>Game screenshots</td>
      <td></td>
      <td>filepickerScreenshots</td>
+     <td>Media</td>
      <td>[urls]</td>
      <td></td>
     </tr>
@@ -377,6 +413,7 @@
      <td>FIXME</td>
      <td></td>
      <td>mobileAppIcon</td>
+     <td>App.iconImage</td>
      <td>null</td>
      <td></td>
     </tr>
@@ -386,6 +423,7 @@
      <td>Developer name</td>
      <td></td>
      <td>developer</td>
+     <td>Developer.name</td>
      <td>winterworks GmbH</td>
      <td></td>
     </tr>
@@ -394,6 +432,7 @@
      <td>Developer support mail</td>
      <td></td>
      <td>supportEmailAddress</td>
+     <td>Developer.supportEmail</td>
      <td>null</td>
      <td></td>
     </tr>
@@ -402,6 +441,7 @@
      <td>Support phone number</td>
      <td></td>
      <td>supportPhone</td>
+     <td>Developer.supportPhone</td>
      <td>null</td>
      <td></td>
     </tr>
@@ -410,6 +450,7 @@
      <td>Developer is a founder</td>
      <td></td>
      <td>founder</td>
+     <td>Developer.founder</td>
      <td>false</td>
      <td></td>
     </tr>
