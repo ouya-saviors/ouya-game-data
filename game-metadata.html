@@ -6,232 +6,414 @@
   <title>OUYA game meta data</title>
  </head>
  <body>
+  <p>
+   Also see
+   <a href="https://gitlab.com/devirich/BrewyaOnOuya/blob/master/store/models.py">BrewyaOnOuya:store/models.py</a>.
+  </p>
   <table border="1">
    <thead>
     <tr>
+     <th>Group</th>
      <th>Datum</th>
      <th>Discover</th>
      <th>App details</th>
      <th>Example</th>
+     <th>Description</th>
     </tr>
    </thead>
    <tbody>
+
     <tr>
+     <td>app</td>
+     <td>Game UUID</td>
      <td>uuid</td>
-     <td>x</td>
-     <td>x</td>
+     <td>uuid</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
+     <td></td>
     </tr>
     <tr>
+     <td>app</td>
+     <td>Game title</td>
      <td>title</td>
-     <td>x</td>
-     <td>x</td>
+     <td>title</td>
      <td>Bloo Kid 2</td>
-    </tr>
-    <tr>
-     <td>supportEmailAddress</td>
-     <td></td>
-     <td>x</td>
      <td></td>
     </tr>
     <tr>
-     <td>supportPhone</td>
+     <td>app</td>
+     <td>Overview text</td>
      <td></td>
-     <td>x</td>
-     <td></td>
-    </tr>
-    <tr>
-     <td>website</td>
-     <td></td>
-     <td>x</td>
-     <td>http://www.winterworks.de</td>
-    </tr>
-    <tr>
-     <td>founder</td>
-     <td></td>
-     <td>x</td>
-     <td>false</td>
-    </tr>
-    <tr>
-     <td>versionNumber</td>
-     <td>x</td>
-     <td>x</td>
-     <td>1.6</td>
-    </tr>
-    <tr>
-     <td>likeCount</td>
-     <td></td>
-     <td>x</td>
-     <td>0</td>
-    </tr>
-    <tr>
      <td>overview</td>
-     <td></td>
-     <td>x</td>
      <td>Released in October 2015 by winterworks GmbH.</td>
-    </tr>
-    <tr>
-     <td>contentRating</td>
-     <td>x</td>
-     <td>x</td>
-     <td>Everyone</td>
-    </tr>
-    <tr>
-     <td>publicSize</td>
      <td></td>
-     <td>x</td>
-     <td>27275</td>
     </tr>
     <tr>
-     <td>nativeSize</td>
+     <td>app</td>
+     <td>Description</td>
      <td></td>
-     <td>x</td>
-     <td>20292</td>
+     <td>description</td>
+     <td>Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack. Run, jump and swim your way through FIVE huge worlds with TWELVE levels each. Master brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\r\n\r\nBloo Kid 2 features:\r\n- five worlds with twelve levels each\r\n- handcrafted, colorful pixel-graphics\r\n- a full chiptune soundtrack\r\n- epic boss battles\r\n- tons of secrets\r\n- achievements</td>
+     <td></td>
     </tr>
     <tr>
-     <td>ratingAverage</td>
-     <td>x</td>
-     <td>x</td>
-     <td>4.1</td>
-    </tr>
-    <tr>
-     <td>ratingCount</td>
-     <td>x</td>
-     <td>x</td>
-     <td>355</td>
-    </tr>
-    <tr>
+     <td>app</td>
+     <td>Number of players</td>
      <td>gamerNumbers</td>
-     <td>x</td>
-     <td>x</td>
+     <td>gamerNumbers</td>
      <td>[1]</td>
+     <td>Any combination of 1-4</td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Genre list</td>
+     <td>genres</td>
+     <td>genres</td>
+     <td>[Platformer, Retro]</td>
+     <td>
+      original genre list:
+      <ul>
+       <li>Adventure</li>
+       <li>App</li>
+       <li>Arcade/Pinball</li>
+       <li>Card/Casino</li>
+       <li>Dual Stick</li>
+       <li>Entertainment</li>
+       <li>Fight!</li>
+       <li>FPS/Shooter</li>
+       <li>Kids List</li>
+       <li>Meditative</li>
+       <li>Multiplayer</li>
+       <li>Music</li>
+       <li>Platformer</li>
+       <li>Puzzle/Trivia</li>
+       <li>Racing</li>
+       <li>Retro</li>
+       <li>Role-Playing</li>
+       <li>Short on Time?</li>
+       <li>Sim/Strategy</li>
+       <li>Sports</li>
+       <li>Utility</li>
+       <li>Video</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Package name</td>
+     <td>package</td>
+     <td></td>
+     <td>evil.corptron.DuckGame</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Details URL</td>
+     <td>url</td>
+     <td></td>
+     <td>ouya://launcher/details?app=evil.corptron.DuckGame</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Game website</td>
+     <td></td>
+     <td>website</td>
+     <td>http://www.winterworks.de</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Content rating</td>
+     <td>contentRating</td>
+     <td>contentRating</td>
+     <td>Everyone</td>
+     <td>
+      <ul>
+       <li>Everyone</li>
+       <li>9+</li>
+       <li>12+</li>
+       <li>17+</li>
+      </ul>
+     </td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>FIXME</td>
+     <td>premium</td>
+     <td>premium</td>
+     <td>false</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>When the game was published</td>
+     <td></td>
+     <td>firstPublishedAt</td>
+     <td>2015-10-09T07:53:25Z</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Are there in-app purchases?</td>
+     <td>inAppPurchases</td>
+     <td></td>
+     <td>true</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>FIXME</td>
+     <td>type</td>
+     <td></td>
+     <td>app</td>
+     <td>"app", "discover" or "details_page" (for bundles)</td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Last update (unix timestamp)</td>
+     <td>updated_at</td>
+     <td></td>
+     <td>1417731390</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>app</td>
+     <td>Last update</td>
+     <td>updatedAt</td>
+     <td></td>
+     <td>2014-12-04T22:16:30Z</td>
+     <td></td>
+    </tr>
+
+    <tr>
+     <td>rating</td>
+     <td>Number of likes?</td>
+     <td></td>
+     <td>likeCount</td>
+     <td>0</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>rating</td>
+     <td>Average rating</td>
+     <td>rating.average</td>
+     <td>ratingAverage</td>
+     <td>4.1</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>rating</td>
+     <td>Number of ratings</td>
+     <td>rating.count</td>
+     <td>ratingCount</td>
+     <td>355</td>
+     <td></td>
+    </tr>
+
+    <tr>
+     <td>product</td>
+     <td>Promotion data</td>
+     <td>promotedProduct</td>
+     <td>promotedProduct</td>
+     <td>null</td>
+     <td>May be "null" if none, otherwise object</td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Product key</td>
+     <td>promotedProduct.identifier</td>
+     <td>promotedProduct.identifier</td>
+     <td>unlock_rockets</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Product name</td>
+     <td>promotedProduct.name</td>
+     <td>promotedProduct.name</td>
+     <td>Unlock Full Game</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Product currency</td>
+     <td>promotedProduct.currency</td>
+     <td>promotedProduct.currency</td>
+     <td>EUR</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Product description</td>
+     <td>promotedProduct.description</td>
+     <td>promotedProduct.description</td>
+     <td>Remove the 9 satellites limitation. Infinite satellites!</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Saving</td>
+     <td>promotedProduct.percentOff</td>
+     <td>promotedProduct.percentOff</td>
+     <td>0</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Current price</td>
+     <td>promotedProduct.localPrice</td>
+     <td>promotedProduct.localPrice</td>
+     <td>1.99</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>Previous price</td>
+     <td>promotedProduct.originalPrice</td>
+     <td>promotedProduct.originalPrice</td>
+     <td>1.99</td>
+     <td></td>
+    </tr>
+
+    <tr>
+     <td>apk</td>
+     <td>versionNumber</td>
+     <td>latestVersion.versionNumber</td>
+     <td>versionNumber</td>
+     <td>1.6</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>UUID of latest apk version</td>
+     <td>latestVersion.uuid</td>
+     <td>latestVersion</td>
+     <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>FIXME</td>
+     <td></td>
+     <td>publicSize</td>
+     <td>27275</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>FIXME</td>
+     <td></td>
+     <td>nativeSize</td>
+     <td>20292</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>MD5 file hash</td>
+     <td>latestVersion.apk.md5sum</td>
+     <td>md5sum</td>
+     <td>a5b0f82d54df5f551a64295e43771a10</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>APK file size</td>
+     <td></td>
+     <td>apkFileSize</td>
+     <td>25507828</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>APK publish date</td>
+     <td></td>
+     <td>publishedAt</td>
+     <td>2015-10-23T09:58:19Z</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>downloadLink</td>
+     <td></td>
+     <td></td>
+     <td>https://devs-ouya-tv-prod.s3.amazonaws.com/apps/5a3fbb4d-852b-4af4-becc-324dce6a3b42/de.eiswuxe.blookid2/780688a9-95ee-429a-8755-69a8d0c88fe0/lFzMjcZyQauvWX5k8HvH_blookid2.apk</td>
+     <td></td>
+    </tr>
+
+    <tr>
+     <td>media</td>
+     <td>Discover image</td>
+     <td>image</td>
+     <td></td>
+     <td>https://www.filepicker.io/api/file/05y2T8cKTY6cUfX7RYFR</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Large image</td>
+     <td></td>
+     <td>mainImageFullUrl</td>
+     <td>https://d3e4aumcqn8cw3.cloudfront.net/api/file/MASaiOBlTEO7GKYXsIns</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Video</td>
+     <td></td>
+     <td>videoUrl</td>
+     <td>https://vimeo.com/141878938</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Game screenshots</td>
+     <td></td>
+     <td>filepickerScreenshots</td>
+     <td>[urls]</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>FIXME</td>
+     <td></td>
+     <td>mobileAppIcon</td>
+     <td>null</td>
+     <td></td>
+    </tr>
+
+    <tr>
+     <td>developer</td>
+     <td>Developer name</td>
+     <td></td>
+     <td>developer</td>
+     <td>winterworks GmbH</td>
+     <td></td>
     </tr>
     <tr>
      <td>developer</td>
+     <td>Developer support mail</td>
      <td></td>
-     <td>x</td>
-     <td>winterworks GmbH</td>
+     <td>supportEmailAddress</td>
+     <td>null</td>
+     <td></td>
     </tr>
     <tr>
-     <td>description</td>
+     <td>developer</td>
+     <td>Support phone number</td>
      <td></td>
-     <td>x</td>
-     <td>Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack. Run, jump and swim your way through FIVE huge worlds with TWELVE levels each. Master brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\r\n\r\nBloo Kid 2 features:\r\n- five worlds with twelve levels each\r\n- handcrafted, colorful pixel-graphics\r\n- a full chiptune soundtrack\r\n- epic boss battles\r\n- tons of secrets\r\n- achievements</td>
+     <td>supportPhone</td>
+     <td>null</td>
+     <td></td>
     </tr>
     <tr>
-     <td>premium</td>
-     <td>x</td>
-     <td>x</td>
+     <td>developer</td>
+     <td>Developer is a founder</td>
+     <td></td>
+     <td>founder</td>
      <td>false</td>
-    </tr>
-    <tr>
-     <td>md5sum</td>
-     <td>x</td>
-     <td>x</td>
-     <td>a5b0f82d54df5f551a64295e43771a10</td>
-    </tr>
-    <tr>
-     <td>apkFileSize</td>
      <td></td>
-     <td>x</td>
-     <td>25507828</td>
     </tr>
-    <tr>
-     <td>filepickerScreenshots</td>
-     <td></td>
-     <td>x</td>
-     <td>[urls]</td>
-    </tr>
-    <tr>
-     <td>mainImageFullUrl</td>
-     <td></td>
-     <td>x</td>
-     <td>https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MASaiOBlTEO7GKYXsIns</td>
-    </tr>
-    <tr>
-     <td>genres</td>
-     <td>x</td>
-     <td>x</td>
-     <td>[Platformer, Retro]</td>
-    </tr>
-    <tr>
-     <td>latestVersion</td>
-     <td>x</td>
-     <td>x</td>
-     <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
-    </tr>
-    <tr>
-     <td>firstPublishedAt</td>
-     <td></td>
-     <td>x</td>
-     <td>2015-10-09T07:53:25Z</td>
-    </tr>
-    <tr>
-     <td>publishedAt</td>
-     <td></td>
-     <td>x</td>
-     <td>2015-10-23T09:58:19Z</td>
-    </tr>
-    <tr>
-     <td>videoUrl</td>
-     <td></td>
-     <td>x</td>
-     <td><a href="https://vimeo.com/">https://vimeo.com/</a>141878938</td>
-    </tr>
-    <tr>
-     <td>mobileAppIcon</td>
-     <td></td>
-     <td>x</td>
-     <td>null</td>
-    </tr>
-    <tr>
-     <td>promotedProduct</td>
-     <td>x</td>
-     <td>x</td>
-     <td>null</td>
-    </tr>
-    <tr>
-     <td>url</td>
-     <td>x</td>
-     <td></td>
-     <td>ouya://launcher/details?app=evil.corptron.DuckGame</td>
-    </tr>
-    <tr>
-     <td>inAppPurchases</td>
-     <td>x</td>
-     <td></td>
-     <td>true</td>
-    </tr>
-    <tr>
-     <td>type</td>
-     <td>x</td>
-     <td></td>
-     <td>app</td>
-    </tr>
-    <tr>
-     <td>package</td>
-     <td>x</td>
-     <td></td>
-     <td>evil.corptron.DuckGame</td>
-    </tr>
-    <tr>
-     <td>updated_at</td>
-     <td>x</td>
-     <td></td>
-     <td>1417731390</td>
-    </tr>
-    <tr>
-     <td>updatedAt</td>
-     <td>x</td>
-     <td></td>
-     <td>2014-12-04T22:16:30Z</td>
-    </tr>
-    <tr>
-     <td>image</td>
-     <td>x</td>
-     <td></td>
-     <td>https://www.filepicker.io/api/file/05y2T8cKTY6cUfX7RYFR</td>
-    </tr>
+
    </tbody>
   </table>
  </body>
