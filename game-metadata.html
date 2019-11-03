@@ -11,6 +11,7 @@
     <tr>
      <th>Group</th>
      <th>Datum</th>
+     <th>Game data field</th>
      <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-discover">Discover field</a></th>
      <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-apps-xxx">App details field</a></th>
      <th><a href="https://gitlab.com/devirich/BrewyaOnOuya/blob/master/store/models.py">BrewyaOnOuya field</a></th>
@@ -25,6 +26,7 @@
      <td>Game UUID</td>
      <td>uuid</td>
      <td>uuid</td>
+     <td>uuid</td>
      <td>App.uuid</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
@@ -34,6 +36,7 @@
      <td>Game title</td>
      <td>title</td>
      <td>title</td>
+     <td>title</td>
      <td>App.title</td>
      <td>Bloo Kid 2</td>
      <td></td>
@@ -41,6 +44,7 @@
     <tr>
      <td>app</td>
      <td>Overview text</td>
+     <td>overview (optional)</td>
      <td></td>
      <td>overview</td>
      <td>App.overview</td>
@@ -50,6 +54,7 @@
     <tr>
      <td>app</td>
      <td>Description</td>
+     <td>description</td>
      <td></td>
      <td>description</td>
      <td>App.description</td>
@@ -59,6 +64,7 @@
     <tr>
      <td>app</td>
      <td>Number of players</td>
+     <td>players</td>
      <td>gamerNumbers</td>
      <td>gamerNumbers</td>
      <td>App.playerNumbers</td>
@@ -68,6 +74,7 @@
     <tr>
      <td>app</td>
      <td>Genre list</td>
+     <td>genres</td>
      <td>genres</td>
      <td>genres</td>
      <td>App.genres</td>
@@ -104,23 +111,26 @@
      <td>app</td>
      <td>Package name</td>
      <td>package</td>
+     <td>package</td>
      <td></td>
      <td>App.packageName</td>
      <td>evil.corptron.DuckGame</td>
-     <td></td>
+     <td>Run "aapt dump badging file.apk", field "package: name"</td>
     </tr>
     <tr>
      <td>app</td>
      <td>Details URL</td>
+     <td>-</td>
      <td>url</td>
      <td></td>
-     <td>?</td>
+     <td>-</td>
      <td>ouya://launcher/details?app=evil.corptron.DuckGame</td>
      <td></td>
     </tr>
     <tr>
      <td>app</td>
      <td>Game website</td>
+     <td>website</td>
      <td></td>
      <td>website</td>
      <td>App.website</td>
@@ -130,6 +140,7 @@
     <tr>
      <td>app</td>
      <td>Content rating</td>
+     <td>contentRating (optional)</td>
      <td>contentRating</td>
      <td>contentRating</td>
      <td>App.contentRating</td>
@@ -146,6 +157,7 @@
     <tr>
      <td>app</td>
      <td>FIXME</td>
+     <td>premium (optional)</td>
      <td>premium</td>
      <td>premium</td>
      <td>App.premium</td>
@@ -155,6 +167,7 @@
     <tr>
      <td>app</td>
      <td>When the game was published</td>
+     <td>firstPublishedAt (optional)</td>
      <td></td>
      <td>firstPublishedAt</td>
      <td>App.firstPublishedAt</td>
@@ -164,6 +177,7 @@
     <tr>
      <td>app</td>
      <td>Are there in-app purchases?</td>
+     <td>inAppPurchases (optional)</td>
      <td>inAppPurchases</td>
      <td></td>
      <td>-</td>
@@ -173,6 +187,7 @@
     <tr>
      <td>app</td>
      <td>FIXME</td>
+     <td>-</td>
      <td>type</td>
      <td></td>
      <td>-</td>
@@ -182,6 +197,7 @@
     <tr>
      <td>app</td>
      <td>Last update (unix timestamp)</td>
+     <td>-</td>
      <td>updated_at</td>
      <td></td>
      <td>AppVersion.releaseTime</td>
@@ -191,6 +207,7 @@
     <tr>
      <td>app</td>
      <td>Last update</td>
+     <td>releases.*.date (when "latest")</td>
      <td>updatedAt</td>
      <td></td>
      <td>AppVersion.releaseTime</td>
@@ -201,6 +218,7 @@
     <tr>
      <td>rating</td>
      <td>Number of likes?</td>
+     <td>rating.likeCount</td>
      <td></td>
      <td>likeCount</td>
      <td>Rating.likeCount</td>
@@ -211,6 +229,7 @@
      <td>rating</td>
      <td>Average rating</td>
      <td>rating.average</td>
+     <td>rating.average</td>
      <td>ratingAverage</td>
      <td>Rating.rating</td>
      <td>4.1</td>
@@ -219,6 +238,7 @@
     <tr>
      <td>rating</td>
      <td>Number of ratings</td>
+     <td>rating.count</td>
      <td>rating.count</td>
      <td>ratingCount</td>
      <td>Rating.reviewCount</td>
@@ -229,6 +249,7 @@
     <tr>
      <td>product</td>
      <td>Promotion data</td>
+     <td>products.* (when "promoted=true")</td>
      <td>promotedProduct</td>
      <td>promotedProduct</td>
      <td>App.promotedProduct</td>
@@ -238,6 +259,7 @@
     <tr>
      <td>product</td>
      <td>Product key</td>
+     <td>products.*.identifier</td>
      <td>promotedProduct.identifier</td>
      <td>promotedProduct.identifier</td>
      <td>Product.identifier</td>
@@ -247,6 +269,7 @@
     <tr>
      <td>product</td>
      <td>Product name</td>
+     <td>products.*.name</td>
      <td>promotedProduct.name</td>
      <td>promotedProduct.name</td>
      <td>Product.name</td>
@@ -256,6 +279,7 @@
     <tr>
      <td>product</td>
      <td>Product currency</td>
+     <td>products.*.currency</td>
      <td>promotedProduct.currency</td>
      <td>promotedProduct.currency</td>
      <td>-</td>
@@ -265,6 +289,7 @@
     <tr>
      <td>product</td>
      <td>Product description</td>
+     <td>products.*.description</td>
      <td>promotedProduct.description</td>
      <td>promotedProduct.description</td>
      <td>Product.description</td>
@@ -274,6 +299,7 @@
     <tr>
      <td>product</td>
      <td>Saving</td>
+     <td>-</td>
      <td>promotedProduct.percentOff</td>
      <td>promotedProduct.percentOff</td>
      <td>-</td>
@@ -283,6 +309,7 @@
     <tr>
      <td>product</td>
      <td>Current price</td>
+     <td>products.*.localPrice</td>
      <td>promotedProduct.localPrice</td>
      <td>promotedProduct.localPrice</td>
      <td>-</td>
@@ -292,6 +319,7 @@
     <tr>
      <td>product</td>
      <td>Previous price</td>
+     <td>products.*.originalPrice</td>
      <td>promotedProduct.originalPrice</td>
      <td>promotedProduct.originalPrice</td>
      <td>Product.originalPrice</td>
@@ -301,25 +329,28 @@
 
     <tr>
      <td>apk</td>
-     <td>versionNumber</td>
+     <td>Human readable version</td>
+     <td>releases.*.name</td>
      <td>latestVersion.versionNumber</td>
      <td>versionNumber</td>
      <td>Apk.versionName</td>
      <td>1.6</td>
-     <td></td>
+     <td>Run "aapt dump badging file.apk", field "versionName"</td>
     </tr>
     <tr>
      <td>apk</td>
      <td>UUID of latest apk version</td>
+     <td>releases.*.uuid</td>
      <td>latestVersion.uuid</td>
      <td>latestVersion</td>
-     <td>Apk.versionCode</td>
+     <td>-</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
     </tr>
     <tr>
      <td>apk</td>
      <td>FIXME</td>
+     <td>releases.*.publicSize</td>
      <td></td>
      <td>publicSize</td>
      <td>Apk.publicSize</td>
@@ -329,6 +360,7 @@
     <tr>
      <td>apk</td>
      <td>FIXME</td>
+     <td>releases.*.nativeSize</td>
      <td></td>
      <td>nativeSize</td>
      <td>Apk.nativeSize</td>
@@ -338,6 +370,7 @@
     <tr>
      <td>apk</td>
      <td>MD5 file hash</td>
+     <td>releases.*.md5sum</td>
      <td>latestVersion.apk.md5sum</td>
      <td>md5sum</td>
      <td>Apk.md5sum</td>
@@ -347,6 +380,7 @@
     <tr>
      <td>apk</td>
      <td>APK file size</td>
+     <td>releases.*.size</td>
      <td></td>
      <td>apkFileSize</td>
      <td>Apk.size</td>
@@ -356,6 +390,7 @@
     <tr>
      <td>apk</td>
      <td>APK publish date</td>
+     <td>releases.*.date</td>
      <td></td>
      <td>publishedAt</td>
      <td>AppVersion.releaseTime</td>
@@ -365,6 +400,7 @@
     <tr>
      <td>apk</td>
      <td>downloadLink</td>
+     <td>releases.*.url</td>
      <td></td>
      <td></td>
      <td>Apk.location</td>
@@ -375,6 +411,7 @@
     <tr>
      <td>media</td>
      <td>Discover image</td>
+     <td>media.discover</td>
      <td>image</td>
      <td></td>
      <td>Media</td>
@@ -384,6 +421,7 @@
     <tr>
      <td>media</td>
      <td>Large image</td>
+     <td>media.large</td>
      <td></td>
      <td>mainImageFullUrl</td>
      <td>App.titleImage</td>
@@ -393,6 +431,7 @@
     <tr>
      <td>media</td>
      <td>Video</td>
+     <td>media.video</td>
      <td></td>
      <td>videoUrl</td>
      <td>Media</td>
@@ -402,6 +441,7 @@
     <tr>
      <td>media</td>
      <td>Game screenshots</td>
+     <td>media.screenshots</td>
      <td></td>
      <td>filepickerScreenshots</td>
      <td>Media</td>
@@ -411,6 +451,7 @@
     <tr>
      <td>media</td>
      <td>FIXME</td>
+     <td>-</td>
      <td></td>
      <td>mobileAppIcon</td>
      <td>App.iconImage</td>
@@ -421,6 +462,7 @@
     <tr>
      <td>developer</td>
      <td>Developer name</td>
+     <td>developer.name</td>
      <td></td>
      <td>developer</td>
      <td>Developer.name</td>
@@ -430,6 +472,7 @@
     <tr>
      <td>developer</td>
      <td>Developer support mail</td>
+     <td>developer.supportEmail</td>
      <td></td>
      <td>supportEmailAddress</td>
      <td>Developer.supportEmail</td>
@@ -439,6 +482,7 @@
     <tr>
      <td>developer</td>
      <td>Support phone number</td>
+     <td>developer.supportPhone</td>
      <td></td>
      <td>supportPhone</td>
      <td>Developer.supportPhone</td>
@@ -448,6 +492,7 @@
     <tr>
      <td>developer</td>
      <td>Developer is a founder</td>
+     <td>developer.founder</td>
      <td></td>
      <td>founder</td>
      <td>Developer.founder</td>

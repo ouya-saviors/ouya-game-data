@@ -1,0 +1,71 @@
+{
+    "uuid": "780688a9-95ee-429a-8755-69a8d0c88fe0",
+    "package": "de.eiswuxe.blookid2",
+    "title": "Bloo Kid 2",
+    "description": "A classic 2D retro-style platformer\r\nFeatures:\r\nFoo",
+    "players": [
+        1, 2
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+
+    "releases": [
+        {
+            "name": "1.6",
+            "uuid": "780688a9-95ee-429a-8755-69a8d0c88fe0",
+            "date": "2015-10-23T09:58:19Z",
+            "latest": true,
+
+            "url": "http://example.org/game-1.6.apk",
+            "size": 25507828,
+            "md5sum": "a5b0f82d54df5f551a64295e43771a10",
+            
+            "publicSize": 27275,
+            "nativeSize": 20292
+        }
+    ],
+
+    "media": {
+        "discover": "http://example.org/game-menu.jpg",
+        "large": "http://example.org/game.jpg",
+        "video": "https://vimeo.com/141878938",
+        "screenshots": [
+            "http://example.org/game-1.jpg",
+            "http://example.org/game-2.jpg"
+        ]
+    },
+
+    "developer": {
+        "name": "ACME",
+        "supportEmail": "acme@example.org",
+        "supportPhone": "+49 12345 67890",
+        "founder": false
+    },
+
+    "contentRating": "Everyone",
+    "website": "http://www.winterworks.de",
+    "firstPublishedAt": "2015-10-09T07:53:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by winterworks GmbH.",
+    "premium": false,
+
+    "rating": {
+        "likeCount": 0,
+        "average": 4.1,
+        "count": 355
+    },
+
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_version",
+            "name": "Unlock full game",
+            "description": "Remove the 9 satellites limitation",
+            "localPrice": 1.99,
+            "originalPrice": 5.00,
+            "currency": "EUR"
+        }
+    ]
+}
