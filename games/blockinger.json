@@ -1,0 +1,43 @@
+{
+    "uuid": "3068872c-ff46-11e9-95f2-cfaeaecc0c20",
+    "package": "blockinger",
+    "title": "Blockinger",
+    "description": "Tetris clone",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Open Source",
+        "Retro"
+    ],
+
+    "releases": [
+        {
+            "name": "1.9.0",
+            "uuid": null,
+            "date": "2019-11-04T21:02:23Z",
+            "latest": true,
+
+            "url": "https://github.com/cweiske/Blockinger/releases/download/v1.9.0/blockinger-1.9.0.apk",
+            "size": 12604401,
+            "md5sum": "800ca8174ebc019a94ec1767e7d92036",
+            
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+
+    "media": {
+        "discover": "https://raw.githubusercontent.com/cweiske/Blockinger/master/res/drawable-xhdpi/ouya_icon.png",
+        "large": "https://raw.githubusercontent.com/cweiske/Blockinger/master/res/drawable-xhdpi/ouya_icon.png"
+    },
+
+    "developer": {
+        "name": "vocollapse"
+    },
+
+    "contentRating": "Everyone",
+    "website": "https://github.com/cweiske/Blockinger",
+    "firstPublishedAt": "2019-11-04T21:02:23Z",
+    "inAppPurchases": false
+}
