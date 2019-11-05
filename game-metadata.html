@@ -20,7 +20,8 @@
      <th>Datum</th>
      <th>Game data field</th>
      <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-discover">Discover field</a></th>
-     <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-apps-xxx">App details field</a></th>
+     <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-apps-xxx">App field</a></th>
+     <th><a href="http://cweiske.de/ouya-store-api-docs.htm#get-https-devs-ouya-tv-api-v1-details">Details field</a></th>
      <th><a href="https://gitlab.com/devirich/BrewyaOnOuya/blob/master/store/models.py">BrewyaOnOuya field</a></th>
      <th>Example</th>
      <th>Description</th>
@@ -34,6 +35,7 @@
      <td>uuid</td>
      <td>uuid</td>
      <td>uuid</td>
+     <td>-</td>
      <td>App.uuid</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
@@ -41,6 +43,7 @@
     <tr>
      <td>app</td>
      <td>Game title</td>
+     <td>title</td>
      <td>title</td>
      <td>title</td>
      <td>title</td>
@@ -54,6 +57,7 @@
      <td>overview (optional)</td>
      <td></td>
      <td>overview</td>
+     <td>-</td>
      <td>App.overview</td>
      <td>Released in October 2015 by winterworks GmbH.</td>
      <td></td>
@@ -63,6 +67,7 @@
      <td>Description</td>
      <td>description</td>
      <td></td>
+     <td>description</td>
      <td>description</td>
      <td>App.description</td>
      <td>Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack. Run, jump and swim your way through FIVE huge worlds with TWELVE levels each. Master brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\r\n\r\nBloo Kid 2 features:\r\n- five worlds with twelve levels each\r\n- handcrafted, colorful pixel-graphics\r\n- a full chiptune soundtrack\r\n- epic boss battles\r\n- tons of secrets\r\n- achievements</td>
@@ -74,6 +79,7 @@
      <td>players</td>
      <td>gamerNumbers</td>
      <td>gamerNumbers</td>
+     <td>gamerNumbers</td>
      <td>App.playerNumbers</td>
      <td>[1]</td>
      <td>Any combination of 1-4</td>
@@ -81,6 +87,7 @@
     <tr>
      <td>app</td>
      <td>Genre list</td>
+     <td>genres</td>
      <td>genres</td>
      <td>genres</td>
      <td>genres</td>
@@ -120,6 +127,7 @@
      <td>package</td>
      <td>package</td>
      <td></td>
+     <td>apk.package</td>
      <td>App.packageName</td>
      <td>evil.corptron.DuckGame</td>
      <td>Run "aapt dump badging file.apk", field "package: name"</td>
@@ -131,6 +139,7 @@
      <td>url</td>
      <td></td>
      <td>-</td>
+     <td>-</td>
      <td>ouya://launcher/details?app=evil.corptron.DuckGame</td>
      <td></td>
     </tr>
@@ -140,6 +149,7 @@
      <td>website</td>
      <td></td>
      <td>website</td>
+     <td>-</td>
      <td>App.website</td>
      <td>http://www.winterworks.de</td>
      <td></td>
@@ -150,6 +160,7 @@
      <td>contentRating (optional)</td>
      <td>contentRating</td>
      <td>contentRating</td>
+     <td>suggestedAge</td>
      <td>App.contentRating</td>
      <td>Everyone</td>
      <td>
@@ -167,6 +178,7 @@
      <td>premium (optional)</td>
      <td>premium</td>
      <td>premium</td>
+     <td>premium</td>
      <td>App.premium</td>
      <td>false</td>
      <td></td>
@@ -177,6 +189,7 @@
      <td>firstPublishedAt (optional)</td>
      <td></td>
      <td>firstPublishedAt</td>
+     <td>firstPublishedAt (unix timestamp)</td>
      <td>App.firstPublishedAt</td>
      <td>2015-10-09T07:53:25Z</td>
      <td></td>
@@ -187,6 +200,7 @@
      <td>inAppPurchases (optional)</td>
      <td>inAppPurchases</td>
      <td></td>
+     <td>inAppPurchases</td>
      <td>-</td>
      <td>true</td>
      <td></td>
@@ -197,9 +211,13 @@
      <td>-</td>
      <td>type</td>
      <td></td>
+     <td>type</td>
      <td>-</td>
      <td>app</td>
-     <td>"app", "discover" or "details_page" (for bundles)</td>
+     <td>
+      discover: "app", "discover" or "details_page" (for bundles)<br/>
+      details: "Game", FIXME
+     </td>
     </tr>
     <tr>
      <td>app</td>
@@ -207,6 +225,7 @@
      <td>-</td>
      <td>updated_at</td>
      <td></td>
+     <td>-</td>
      <td>AppVersion.releaseTime</td>
      <td>1417731390</td>
      <td></td>
@@ -217,6 +236,7 @@
      <td>releases.*.date (when "latest")</td>
      <td>updatedAt</td>
      <td></td>
+     <td>-</td>
      <td>AppVersion.releaseTime</td>
      <td>2014-12-04T22:16:30Z</td>
      <td></td>
@@ -228,6 +248,7 @@
      <td>rating.likeCount</td>
      <td></td>
      <td>likeCount</td>
+     <td>-</td>
      <td>Rating.likeCount</td>
      <td>0</td>
      <td></td>
@@ -238,6 +259,7 @@
      <td>rating.average</td>
      <td>rating.average</td>
      <td>ratingAverage</td>
+     <td>rating.average</td>
      <td>Rating.rating</td>
      <td>4.1</td>
      <td></td>
@@ -248,6 +270,7 @@
      <td>rating.count</td>
      <td>rating.count</td>
      <td>ratingCount</td>
+     <td>rating.count</td>
      <td>Rating.reviewCount</td>
      <td>355</td>
      <td></td>
@@ -257,6 +280,7 @@
      <td>product</td>
      <td>Promotion data</td>
      <td>products.* (when "promoted=true")</td>
+     <td>promotedProduct</td>
      <td>promotedProduct</td>
      <td>promotedProduct</td>
      <td>App.promotedProduct</td>
@@ -269,6 +293,7 @@
      <td>products.*.identifier</td>
      <td>promotedProduct.identifier</td>
      <td>promotedProduct.identifier</td>
+     <td>promotedProduct.identifier</td>
      <td>Product.identifier</td>
      <td>unlock_rockets</td>
      <td></td>
@@ -277,6 +302,7 @@
      <td>product</td>
      <td>Product name</td>
      <td>products.*.name</td>
+     <td>promotedProduct.name</td>
      <td>promotedProduct.name</td>
      <td>promotedProduct.name</td>
      <td>Product.name</td>
@@ -289,6 +315,7 @@
      <td>products.*.currency</td>
      <td>promotedProduct.currency</td>
      <td>promotedProduct.currency</td>
+     <td>promotedProduct.currency</td>
      <td>-</td>
      <td>EUR</td>
      <td></td>
@@ -297,6 +324,7 @@
      <td>product</td>
      <td>Product description</td>
      <td>products.*.description</td>
+     <td>promotedProduct.description</td>
      <td>promotedProduct.description</td>
      <td>promotedProduct.description</td>
      <td>Product.description</td>
@@ -309,6 +337,7 @@
      <td>-</td>
      <td>promotedProduct.percentOff</td>
      <td>promotedProduct.percentOff</td>
+     <td>promotedProduct.percentOff</td>
      <td>-</td>
      <td>0</td>
      <td></td>
@@ -317,6 +346,7 @@
      <td>product</td>
      <td>Current price</td>
      <td>products.*.localPrice</td>
+     <td>promotedProduct.localPrice</td>
      <td>promotedProduct.localPrice</td>
      <td>promotedProduct.localPrice</td>
      <td>-</td>
@@ -329,8 +359,20 @@
      <td>products.*.originalPrice</td>
      <td>promotedProduct.originalPrice</td>
      <td>promotedProduct.originalPrice</td>
+     <td>promotedProduct.originalPrice</td>
      <td>Product.originalPrice</td>
      <td>1.99</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>product</td>
+     <td>FIXME</td>
+     <td>?</td>
+     <td>?</td>
+     <td>?</td>
+     <td>promotedProduct.type</td>
+     <td>?</td>
+     <td>"entitlement"</td>
      <td></td>
     </tr>
 
@@ -340,6 +382,7 @@
      <td>releases.*.name</td>
      <td>latestVersion.versionNumber</td>
      <td>versionNumber</td>
+     <td>version.number</td>
      <td>Apk.versionName</td>
      <td>1.6</td>
      <td>Run "aapt dump badging file.apk", field "versionName"</td>
@@ -350,6 +393,7 @@
      <td>releases.*.uuid</td>
      <td>latestVersion.uuid</td>
      <td>latestVersion</td>
+     <td>version.uuid</td>
      <td>-</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
@@ -360,6 +404,7 @@
      <td>releases.*.publicSize</td>
      <td></td>
      <td>publicSize</td>
+     <td>apk.publicSize</td>
      <td>Apk.publicSize</td>
      <td>27275</td>
      <td></td>
@@ -370,6 +415,7 @@
      <td>releases.*.nativeSize</td>
      <td></td>
      <td>nativeSize</td>
+     <td>apk.nativeSize</td>
      <td>Apk.nativeSize</td>
      <td>20292</td>
      <td></td>
@@ -380,6 +426,7 @@
      <td>releases.*.md5sum</td>
      <td>latestVersion.apk.md5sum</td>
      <td>md5sum</td>
+     <td>apk.md5sum</td>
      <td>Apk.md5sum</td>
      <td>a5b0f82d54df5f551a64295e43771a10</td>
      <td></td>
@@ -390,6 +437,7 @@
      <td>releases.*.size</td>
      <td></td>
      <td>apkFileSize</td>
+     <td>apk.fileSize</td>
      <td>Apk.size</td>
      <td>25507828</td>
      <td></td>
@@ -400,6 +448,7 @@
      <td>releases.*.date</td>
      <td></td>
      <td>publishedAt</td>
+     <td>version.publishedAt (unix timestamp)</td>
      <td>AppVersion.releaseTime</td>
      <td>2015-10-23T09:58:19Z</td>
      <td></td>
@@ -410,9 +459,29 @@
      <td>releases.*.url</td>
      <td></td>
      <td></td>
+     <td>apk.filename</td>
      <td>Apk.location</td>
-     <td>https://devs-ouya-tv-prod.s3.amazonaws.com/apps/5a3fbb4d-852b-4af4-becc-324dce6a3b42/de.eiswuxe.blookid2/780688a9-95ee-429a-8755-69a8d0c88fe0/lFzMjcZyQauvWX5k8HvH_blookid2.apk</td>
-     <td>Also in download.json</td>
+     <td>
+      url: https://devs-ouya-tv-prod.s3.amazonaws.com/apps/5a3fbb4d-852b-4af4-becc-324dce6a3b42/de.eiswuxe.blookid2/780688a9-95ee-429a-8755-69a8d0c88fe0/lFzMjcZyQauvWX5k8HvH_blookid2.apk<br/>
+      details: 1zbYKRSS1elKIYI9eseH_BombSquad-ouya-release.apk
+     </td>
+     <td>
+      Also in download.json<br/>
+      Details field: only a file name, no path/domain
+     </td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>state</td>
+     <td>-</td>
+     <td>?</td>
+     <td>?</td>
+     <td>apk.state</td>
+     <td>?</td>
+     <td>
+      "complete"
+     </td>
+     <td></td>
     </tr>
 
     <tr>
@@ -421,6 +490,7 @@
      <td>media.discover</td>
      <td>image</td>
      <td></td>
+     <td>tileImage</td>
      <td>Media</td>
      <td>https://www.filepicker.io/api/file/05y2T8cKTY6cUfX7RYFR</td>
      <td></td>
@@ -431,6 +501,7 @@
      <td>media.large</td>
      <td></td>
      <td>mainImageFullUrl</td>
+     <td>heroImage.url</td>
      <td>App.titleImage</td>
      <td>https://d3e4aumcqn8cw3.cloudfront.net/api/file/MASaiOBlTEO7GKYXsIns</td>
      <td></td>
@@ -441,6 +512,7 @@
      <td>media.video</td>
      <td></td>
      <td>videoUrl</td>
+     <td>mediaTiles.*.url (when mediaTiles.*.type=video)</td>
      <td>Media</td>
      <td>https://vimeo.com/141878938</td>
      <td></td>
@@ -451,6 +523,7 @@
      <td>media.screenshots</td>
      <td></td>
      <td>filepickerScreenshots</td>
+     <td>mediaTiles.*.urls.full, mediaTiles.*.urls.thumb, mediaTiles.*.fp_url (when mediaTiles.*.type=image)</td>
      <td>Media</td>
      <td>[urls]</td>
      <td></td>
@@ -461,8 +534,12 @@
      <td>-</td>
      <td></td>
      <td>mobileAppIcon</td>
+     <td>mobileAppIcon</td>
      <td>App.iconImage</td>
-     <td>null</td>
+     <td>
+      null<br/>
+      https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-v6tjz1
+     </td>
      <td></td>
     </tr>
 
@@ -472,6 +549,7 @@
      <td>developer.name</td>
      <td></td>
      <td>developer</td>
+     <td>developer.name</td>
      <td>Developer.name</td>
      <td>winterworks GmbH</td>
      <td></td>
@@ -482,6 +560,7 @@
      <td>developer.supportEmail</td>
      <td></td>
      <td>supportEmailAddress</td>
+     <td>-</td>
      <td>Developer.supportEmail</td>
      <td>null</td>
      <td></td>
@@ -492,6 +571,7 @@
      <td>developer.supportPhone</td>
      <td></td>
      <td>supportPhone</td>
+     <td>-</td>
      <td>Developer.supportPhone</td>
      <td>null</td>
      <td></td>
@@ -502,6 +582,7 @@
      <td>developer.founder</td>
      <td></td>
      <td>founder</td>
+     <td>developer.founder</td>
      <td>Developer.founder</td>
      <td>false</td>
      <td></td>
