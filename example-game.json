@@ -14,6 +14,7 @@
     "releases": [
         {
             "name": "1.6",
+            "versionCode": "2725",
             "uuid": "780688a9-95ee-429a-8755-69a8d0c88fe0",
             "date": "2015-10-23T09:58:19Z",
             "latest": true,
@@ -38,6 +39,7 @@
     },
 
     "developer": {
+        "uuid": "291aeae0-00a5-11ea-8d27-97acf1057970",
         "name": "ACME",
         "supportEmail": "acme@example.org",
         "supportPhone": "+49 12345 67890",
