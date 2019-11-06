@@ -243,6 +243,18 @@
     </tr>
 
     <tr>
+     <td>?</td>
+     <td>Metadata about the file</td>
+     <td>-</td>
+     <td>-</td>
+     <td></td>
+     <td>metaData</td>
+     <td>-</td>
+     <td>["key:rating.average", "key:developer.name", "key:suggestedAge", "45.29 MiB"]</td>
+     <td>Always those 4 values and in the same order (at least for apps)</td>
+    </tr>
+
+    <tr>
      <td>rating</td>
      <td>Number of likes?</td>
      <td>rating.likeCount</td>
@@ -372,7 +384,7 @@
      <td>?</td>
      <td>promotedProduct.type</td>
      <td>?</td>
-     <td>"entitlement"</td>
+     <td>"entitlement" (502x), null (758x)</td>
      <td></td>
     </tr>
 
@@ -397,6 +409,17 @@
      <td>-</td>
      <td>780688a9-95ee-429a-8755-69a8d0c88fe0</td>
      <td></td>
+    </tr>
+    <tr>
+     <td>apk</td>
+     <td>Internal version</td>
+     <td>-</td>
+     <td>-</td>
+     <td>-</td>
+     <td>apk.versionCode</td>
+     <td>Apk.versionCode</td>
+     <td>null, 120401, 11, 1001004</td>
+     <td>Run "aapt dump badging file.apk", field "versionCode"</td>
     </tr>
     <tr>
      <td>apk</td>
@@ -501,10 +524,27 @@
      <td>media.large</td>
      <td></td>
      <td>mainImageFullUrl</td>
-     <td>heroImage.url</td>
+     <td>-</td>
      <td>App.titleImage</td>
      <td>https://d3e4aumcqn8cw3.cloudfront.net/api/file/MASaiOBlTEO7GKYXsIns</td>
      <td></td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>FIXME</td>
+     <td>-</td>
+     <td>-</td>
+     <td>-</td>
+     <td>heroImage.url</td>
+     <td>?</td>
+     <td>
+      https://s3.amazonaws.com/ouya-screenshots/3d819f4e-2195-433c-81ea-c766a6f3144f/ouya-image20170118-3-i56ad1<br/>
+      null
+     </td>
+     <td>
+      Most games, had "null" here, only 14 had one set.
+      When this was set, mobileAppIcon was also set.
+     </td>
     </tr>
     <tr>
      <td>media</td>
@@ -540,7 +580,10 @@
       null<br/>
       https://s3.amazonaws.com/ouya-screenshots/3ae8fc67-f7f5-4f97-a48c-8ea2d31460fd/ouya-image20170911-3-v6tjz1
      </td>
-     <td></td>
+     <td>
+      1246x null, rest had its own URL.
+      Set when heroImage was filled.
+     </td>
     </tr>
 
     <tr>
@@ -585,6 +628,17 @@
      <td>developer.founder</td>
      <td>Developer.founder</td>
      <td>false</td>
+     <td></td>
+    </tr>
+    <tr>
+     <td>developer</td>
+     <td>Developer UUID</td>
+     <td>-</td>
+     <td>-</td>
+     <td>-</td>
+     <td>developer.url (part of)</td>
+     <td>Developer.uuid</td>
+     <td>ouya://launcher/details?developer=5b015434-8a78-4274-aa5d-0cb2e330e50e</td>
      <td></td>
     </tr>
 
