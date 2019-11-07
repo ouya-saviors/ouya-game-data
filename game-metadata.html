@@ -547,7 +547,7 @@
      <td>media.video</td>
      <td></td>
      <td>videoUrl</td>
-     <td>mediaTiles.*.url (when mediaTiles.*.type=video)</td>
+     <td></td>
      <td>Media</td>
      <td>https://vimeo.com/141878938</td>
      <td></td>
@@ -558,10 +558,49 @@
      <td>media.screenshots</td>
      <td></td>
      <td>filepickerScreenshots</td>
-     <td>mediaTiles.*.urls.full, mediaTiles.*.urls.thumb, mediaTiles.*.fp_url (when mediaTiles.*.type=image)</td>
+     <td>-</td>
      <td>Media</td>
      <td>[urls]</td>
      <td></td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Details images+videos</td>
+     <td>media.details</td>
+     <td></td>
+     <td></td>
+     <td>mediaTiles</td>
+     <td>?</td>
+     <td>
+      <pre>[
+  {
+    "type: "image",
+    "urls": [
+      "full": "http://...",
+      "thumb": "http://...",
+    ],
+    "fp_url": "http://...."
+  },
+  {
+    "type": "video",
+    "url": "https://vimeo.com/141878938"
+  }
+]</pre>
+     </td>
+     <td>
+      Allows free ordering of images and videos on the details page.<br/>
+      "fp" is probably "FilePicker".<br/>
+      fp_url is not used in OUYA's launcher.
+      The launcher loads the thumbnail at first, immediately after the full image.
+      If no mediaTile is available, the app's mainImageFullUrl
+      is used. When offline, the apk image is used.<br/>
+      <br/>
+      Game data information:
+      If details is not given or an emtpy array,
+      "mediaTile" array should automatically be created by combining
+      "media.large", "media.video" and "media.screenshots" into the
+      mediaTiles format.
+     </td>
     </tr>
     <tr>
      <td>media</td>

@@ -34,6 +34,17 @@
         "screenshots": [
             "http://example.org/game-1.jpg",
             "http://example.org/game-2.jpg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https://vimeo.com/141878938"
+            },
+            {
+                "type": "image",
+                "url": "http://example.org/game-1.jpg",
+                "thumb": "http://example.org/game-1.thumbnail.jpg"
+            }
         ]
     },
 
