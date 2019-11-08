@@ -5,7 +5,7 @@
 |app|Description|description||description|description|App.description|Bloo Kid 2 is a classic 2D retro-style platformer experience with lovely designed pixel-graphics and a full chiptune soundtrack. Run, jump and swim your way through FIVE huge worlds with TWELVE levels each. Master brutal bossfights and discover lots of secrets in the world of Bloo Kid 2.\r\n\r\nBloo Kid 2 features:\r\n- five worlds with twelve levels each\r\n- handcrafted, colorful pixel-graphics\r\n- a full chiptune soundtrack\r\n- epic boss battles\r\n- tons of secrets\r\n- achievements||
 |app|Number of players|players|gamerNumbers|gamerNumbers|gamerNumbers|App.playerNumbers|[1]|Any combination of 1-4|
 |app|Genre list|genres|genres|genres|genres|App.genres|[Platformer, Retro]|original genre list: <br><br /> Adventure<br /> App<br /> Arcade/Pinball<br /> Card/Casino<br /> Dual Stick<br /> Entertainment<br /> Fight!<br /> FPS/Shooter<br /> Kids List<br /> Meditative<br /> Multiplayer<br /> Music<br /> Platformer<br /> Puzzle/Trivia<br /> Racing<br /> Retro<br /> Role-Playing<br /> Short on Time?<br /> Sim/Strategy<br /> Sports<br /> Utility<br /> Video|
-|app|Package name|package|package||apk.package|App.packageName|evil.corptron.DuckGame|Run "aapt dump badging file.apk", field "package: name"|
+|app|Package name|packageName|package||apk.package|App.packageName|evil.corptron.DuckGame|Run "aapt dump badging file.apk", field "package: name"|
 |app|Details URL|-|url||-|-|ouya://launcher/details?app=evil.corptron.DuckGame||
 |app|Game website|website (optional)||website|-|App.website|http://www.winterworks.de||
 |app|Content rating|contentRating (optional)|contentRating|contentRating|suggestedAge|App.contentRating|Everyone|Everyone<br /> 9+<br /> 12+<br /> 17+|
