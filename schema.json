@@ -1,0 +1,257 @@
+{
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$id": "http://example.com/ouya-game.schema.json",
+    "title": "OUYA game metadata",
+    "description": "Game data importable in OUYA API servers.",
+    "type": "object",
+
+    "required": [
+        "package",
+        "title",
+        "releases",
+        "media",
+        "developer"
+    ],
+    "additionalProperties": false,    
+    "properties": {
+        "package": {
+            "description": "Java package name",
+            "type": "string"
+        },
+        
+        "title": {
+            "description": "Game name",
+            "type": "string"
+        },
+        
+        "description": {
+            "description": "Text describing the game. Newlines (CRLF) allowed",
+            "type": "string"
+        },
+        
+        "players": {
+            "description": "How many players can play this game at the same time?",
+            "type": "array",
+            "items": {
+                "type": "number",
+                "minimum": 1
+            }
+        },
+        
+        "genres": {
+            "description": "Categories",
+            "type": "array",
+            "items": {
+                "type": "string",
+                "uniqueItems": true,
+                "enum": [
+                    "Adventure",
+                    "App",
+                    "Arcade/Pinball",
+                    "Card/Casino",
+                    "Dual Stick",
+                    "Entertainment",
+                    "Fight!",
+                    "FPS/Shooter",
+                    "Kids List",
+                    "Meditative",
+                    "Multiplayer",
+                    "Music",
+                    "Platformer",
+                    "Puzzle/Trivia",
+                    "Racing",
+                    "Retro",
+                    "Role-Playing",
+                    "Short on Time?",
+                    "Sim/Strategy",
+                    "Sports",
+                    "Utility",
+                    "Video"
+                ]
+            }
+        },
+
+        "releases": {
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "name",
+                    "versionCode",
+                    "uuid",
+                    "date",
+                    "url",
+                    "size",
+                    "md5sum"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                
+                    "name": {
+                        "description": "Human readable version number ('1.6')",
+                        "type": "string"
+                    },
+
+                    "versionCode": {
+                        "description": "APK-internal version code. Run \"aapt dump badging file.apk\", field \"versionCode\"",
+                        "type": "string"
+                    },
+
+                    "uuid": {
+                        "description": "Unique ID for the release. Use uuid-gen to get one",
+                        "type": "string"
+                    },
+
+                    "date": {
+                        "description": "When the version has been released",
+                        "type": "string",
+                        "format": "date"
+                    },
+
+                    "latest": {
+                        "description": "Marker for the latest release",
+                        "type": "boolean"
+                    },
+
+                    "url": {
+                        "description": ".apk download link",
+                        "type": "string",
+                        "format": "url"
+                    },
+
+                    "size": {
+                        "description": "File size in bytes",
+                        "type": "number",
+                        "minimum": 1
+                    },
+
+                    "md5sum": {
+                        "description": "MD5 hash of the .apk file contents",
+                        "type": "string"
+                    },
+
+                    "publicSize": {
+                        "description": "FIXME",
+                        "type": "number"
+                    },
+
+                    "nativeSize": {
+                        "description": "FIXME",
+                        "type": "number"
+                    }
+                }
+            }
+        },
+
+        "media": {
+            "type": "object",
+            "FIXME": ""
+        },
+
+        "developer": {
+            "type": "object",
+            "required": [
+                "name"
+            ],
+            "additionalProperties": false,
+            "properties": {
+                
+                "uuid": {
+                    "description": "Unique ID for the developer",
+                    "type": "string"
+                },
+                
+                "name": {
+                    "description": "Developer (company or person) name",
+                    "type": "string"
+                },
+                
+                "supportEmail": {
+                    "description": "E-Mail address for support questions",
+                    "type": "string",
+                    "format": "email"
+                },
+                
+                "supportPhone": {
+                    "description": "Telephone number",
+                    "type": "string"
+                },
+                
+                "founder": {
+                    "description": "If the developer was an OUYA founder",
+                    "type": "boolean"
+                }
+            }
+        },
+
+        "contentRating": {
+            "description": "Which audience is this game for?",
+            "type": "string",
+            "enum": [
+                "Everyone",
+                "9+",
+                "12+",
+                "17+"
+            ]
+        },
+
+        "website": {
+            "description": "Game website",
+            "type": "string",
+            "format": "url"
+        },
+
+        "firstPublishedAt": {
+            "description": "When the game has first been published to the world",
+            "type": "string",
+            "format": "date|date-time"
+        },
+
+        "inAppPurchases": {
+            "description": "If you can buy things in the game",
+            "type": "boolean"
+        },
+
+        "overview": {
+            "description": "FIXME",
+            "type": "string"
+        },
+
+        "premium": {
+            "description": "FIXME",
+            "type": "boolean"
+        },
+
+        "rating": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+                
+                "likeCount": {
+                    "description": "Number of likes this game has",
+                    "type": "number",
+                    "minimum": 0
+                },
+                
+                "average": {
+                    "description": "Average rating for this game (0-5)",
+                    "type": "number",
+                    "minimum": 0
+                },
+                
+                "count": {
+                    "description": "Number of ratings",
+                    "type": "number",
+                    "minimum": 0
+                }
+            }
+        },
+
+        "products": {
+            "type": "array",
+            "items": {
+                "FIXME": ""
+            }
+        }
+    }
+}
