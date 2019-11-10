@@ -251,7 +251,8 @@
 
                 "founder": {
                     "description": "If the developer was an OUYA founder",
-                    "type": "boolean"
+                    "type": "boolean",
+                    "default": false
                 }
             }
         },
