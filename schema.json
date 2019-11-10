@@ -113,7 +113,7 @@
                     "date": {
                         "description": "When the version has been released",
                         "type": "string",
-                        "format": ["date", "datetime"]
+                        "format": "date|datetime"
                     },
 
                     "latest": {
