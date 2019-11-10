@@ -12,23 +12,23 @@
         "media",
         "developer"
     ],
-    "additionalProperties": false,    
+    "additionalProperties": false,
     "properties": {
         "packageName": {
             "description": "Java package name (\"com.vendor.gamename\")",
             "type": "string"
         },
-        
+
         "title": {
             "description": "Game name",
             "type": "string"
         },
-        
+
         "description": {
             "description": "Text describing the game. Newlines (CRLF) allowed",
             "type": "string"
         },
-        
+
         "players": {
             "description": "How many players can play this game at the same time?",
             "type": "array",
@@ -37,7 +37,7 @@
                 "minimum": 1
             }
         },
-        
+
         "genres": {
             "description": "Categories",
             "type": "array",
@@ -86,7 +86,7 @@
                 ],
                 "additionalProperties": false,
                 "properties": {
-                
+
                     "name": {
                         "description": "Human readable version number ('1.6')",
                         "type": "string"
@@ -155,28 +155,28 @@
             ],
             "additionalProperties": false,
             "properties": {
-                
+
                 "uuid": {
                     "description": "Unique ID for the developer",
                     "type": "string"
                 },
-                
+
                 "name": {
                     "description": "Developer (company or person) name",
                     "type": "string"
                 },
-                
+
                 "supportEmail": {
                     "description": "E-Mail address for support questions",
                     "type": "string",
                     "format": "email"
                 },
-                
+
                 "supportPhone": {
                     "description": "Telephone number",
                     "type": "string"
                 },
-                
+
                 "founder": {
                     "description": "If the developer was an OUYA founder",
                     "type": "boolean"
@@ -226,19 +226,19 @@
             "type": "object",
             "additionalProperties": false,
             "properties": {
-                
+
                 "likeCount": {
                     "description": "Number of likes this game has",
                     "type": "number",
                     "minimum": 0
                 },
-                
+
                 "average": {
                     "description": "Average rating for this game (0-5)",
                     "type": "number",
                     "minimum": 0
                 },
-                
+
                 "count": {
                     "description": "Number of ratings",
                     "type": "number",
