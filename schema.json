@@ -314,9 +314,57 @@
         },
 
         "products": {
+            "description": "Items that could be bought via the discover store",
             "type": "array",
             "items": {
-                "FIXME": ""
+                "type": "object",
+                "required": [
+                    "identifier",
+                    "name",
+                    "description",
+                    "localPrice",
+                    "originalPrice",
+                    "currency"
+                ],
+                "additionalProperties": false,
+                "properties": {
+
+                    "promoted": {
+                        "description": "If this product is the currently promoted/visible one",
+                        "type": "boolean"
+                    },
+
+                    "identifier": {
+                        "description": "Internal key (\"full_version\")",
+                        "type": "string"
+                    },
+
+                    "name": {
+                        "description": "Human readable name (\"Unlock full game\")",
+                        "type": "string"
+                    },
+
+                    "description": {
+                        "description": "Explanation of the features you will buy",
+                        "type": "string"
+                    },
+
+                    "localPrice": {
+                        "description": "Current price (maybe discounted)",
+                        "type": "number"
+                    },
+
+                    "originalPrice": {
+                        "description": "Previous price",
+                        "type": "number"
+                    },
+
+                    "currency": {
+                        "description": "Three-letter currency code, depending on the player that was logged in",
+                        "type": "string",
+                        "enum": ["EUR", "USD"]
+                    }
+                }
             }
         }
     }
