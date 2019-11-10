@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$id": "http://example.com/ouya-game.schema.json",
+    "$id": "http://cweiske.de/ouya-game.schema.json",
     "title": "OUYA game metadata",
     "description": "Game data importable in OUYA API servers.",
     "type": "object",
@@ -15,8 +15,11 @@
     "additionalProperties": false,
     "properties": {
         "packageName": {
-            "description": "Java package name (\"com.vendor.gamename\")",
-            "type": "string"
+            "description": "Java package names",
+            "type": "string",
+            "examples": [
+                "com.vendor.gamename"
+            ]
         },
 
         "title": {
@@ -90,13 +93,16 @@
                 "properties": {
 
                     "name": {
-                        "description": "Human readable version number ('1.6')",
-                        "type": "string"
+                        "description": "Human readable version number",
+                        "type": "string",
+                        "examples": [
+                            "1.6"
+                        ]
                     },
 
                     "versionCode": {
                         "description": "APK-internal version code. Run \"aapt dump badging file.apk\", field \"versionCode\"",
-                        "type": "string"
+                        "type": ["string", "null"]
                     },
 
                     "uuid": {
@@ -107,7 +113,7 @@
                     "date": {
                         "description": "When the version has been released",
                         "type": "string",
-                        "format": "date"
+                        "format": ["date", "datetime"]
                     },
 
                     "latest": {
@@ -300,9 +306,10 @@
                 },
 
                 "average": {
-                    "description": "Average rating for this game (0-5)",
+                    "description": "Average rating for this game",
                     "type": "number",
-                    "minimum": 0
+                    "minimum": 0,
+                    "maximum": 5
                 },
 
                 "count": {
@@ -335,13 +342,19 @@
                     },
 
                     "identifier": {
-                        "description": "Internal key (\"full_version\")",
-                        "type": "string"
+                        "description": "Internal key",
+                        "type": "string",
+                        "examples": [
+                            "full_version"
+                        ]
                     },
 
                     "name": {
-                        "description": "Human readable name (\"Unlock full game\")",
-                        "type": "string"
+                        "description": "Human readable name",
+                        "type": "string",
+                        "examples": [
+                            "Unlock full game"
+                        ]
                     },
 
                     "description": {
