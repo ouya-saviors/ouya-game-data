@@ -241,12 +241,14 @@
                 "supportEmail": {
                     "description": "E-Mail address for support questions",
                     "type": "string",
-                    "format": "email"
+                    "format": "email",
+                    "default": null
                 },
 
                 "supportPhone": {
                     "description": "Telephone number",
-                    "type": "string"
+                    "type": "string",
+                    "default": null
                 },
 
                 "founder": {
