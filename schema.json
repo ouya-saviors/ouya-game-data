@@ -147,7 +147,71 @@
 
         "media": {
             "type": "object",
-            "FIXME": ""
+            "required": [
+                "discover",
+                "large"
+            ],
+            "additionalProperties": false,
+            "properties": {
+                "discover": {
+                    "description": "Image for the OUYA discover store. FIXME: Size",
+                    "type": "string",
+                    "format": "url"
+                },
+
+                "large": {
+                    "description": "Large game cover image for the store details page.",
+                    "type": "string",
+                    "format": "url"
+                },
+
+                "video": {
+                    "description": "Video for the store details page. Vimeo and Youtube URLs supported",
+                    "type": "string",
+                    "format": "url"
+                },
+
+                "screenshots": {
+                    "description": "Additional images for the store details page.",
+                    "type": "array",
+                    "items": {
+                        "type": "string",
+                        "format": "url"
+                    }
+                },
+
+                "details": {
+                    "description": "Images and videos for the details page. Can be in any order. If no detail images and videos are given, the large image, video and screenshots are used instead",
+                    "type": "array",
+                    "items": {
+                        "type": "object",
+                        "required": [
+                            "type",
+                            "url"
+                        ],
+                        "additionalProperties": false,
+                        "properties": {
+                            "type": {
+                                "description": "Medium type: image or video",
+                                "type": "string",
+                                "enum": ["image", "video"]
+                            },
+
+                            "url": {
+                                "description": "Image URL or video URL. Vimeo and Youtube URLs supported",
+                                "type": "string",
+                                "format": "url"
+                            },
+
+                            "thumb": {
+                                "description": "Small preview image",
+                                "type": "string",
+                                "format": "url"
+                            }
+                        }
+                    }
+                }
+            }
         },
 
         "developer": {
