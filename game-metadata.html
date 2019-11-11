@@ -565,29 +565,21 @@
     </tr>
     <tr>
      <td>media</td>
-     <td>Details images+videos</td>
-     <td>media.details (optional)</td>
+     <td>Detail video</td>
+     <td>media.details.*.url</td>
      <td></td>
      <td></td>
-     <td>mediaTiles</td>
+     <td>mediaTiles.*.url (type=video)</td>
      <td>?</td>
      <td>
       <pre>[
-  {
-    "type: "image",
-    "urls": [
-      "full": "http://...",
-      "thumb": "http://...",
-    ],
-    "fp_url": "http://...."
-  },
   {
     "type": "video",
     "url": "https://vimeo.com/141878938"
   }
 ]</pre>
      </td>
-     <td>
+     <td rowspan="4">
       Allows free ordering of images and videos on the details page.<br/>
       "fp" is probably "FilePicker".<br/>
       fp_url is not used in OUYA's launcher.
@@ -600,6 +592,71 @@
       "mediaTile" array should automatically be created by combining
       "media.large", "media.video" and "media.screenshots" into the
       mediaTiles format.
+     </td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Detail image thumbnail</td>
+     <td>media.details.*.thumb</td>
+     <td></td>
+     <td></td>
+     <td>mediaTiles.*.urls.thumb (type=image)</td>
+     <td>?</td>
+     <td>
+      Thumbnails were all size 852x479
+      <pre>[
+  {
+    "type: "image",
+    "urls": [
+      "full": "http://...",
+      "thumb": "http://...",
+    ],
+    "fp_url": "http://...."
+  },
+]</pre>
+     </td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Detail image full resolution</td>
+     <td>media.details.*.url</td>
+     <td></td>
+     <td></td>
+     <td>mediaTiles.*.urls.full (type=image)</td>
+     <td>?</td>
+     <td>
+      Many detail images had a resolution of 1280x720.
+      <pre>[
+  {
+    "type: "image",
+    "urls": [
+      "full": "http://...",
+      "thumb": "http://...",
+    ],
+    "fp_url": "http://...."
+  }
+]</pre>
+     </td>
+    </tr>
+    <tr>
+     <td>media</td>
+     <td>Detail image file picker URL</td>
+     <td>-</td>
+     <td></td>
+     <td></td>
+     <td>mediaTiles.*.fp_url</td>
+     <td>?</td>
+     <td>
+      <pre>[
+  {
+    "type: "image",
+    "urls": [
+      "full": "http://...",
+      "thumb": "http://...",
+    ],
+    "fp_url": "http://...."
+  }
+]</pre>
      </td>
     </tr>
     <tr>

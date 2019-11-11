@@ -210,7 +210,7 @@
                             },
 
                             "thumb": {
-                                "description": "Small preview image",
+                                "description": "Small preview image. Size should be 852x479.",
                                 "type": "string",
                                 "format": "url"
                             }
