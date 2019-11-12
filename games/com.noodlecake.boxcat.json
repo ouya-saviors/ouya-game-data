@@ -1,0 +1,83 @@
+{
+    "packageName": "com.noodlecake.boxcat",
+    "title": "Box Cat",
+    "description": "Box Cat is a retro arcade smasher. Smash into cars and create traffic mayhem!\r\n\r\nDrive Box Cat towards oncoming cars! Progress through Adventure mode to complete achievements, unlock new Cats and discover the world of Box Cat. Battle waves of cars and trucks in the relentless Survival Mode. Enjoy life while smashing through 7 lanes of heavy traffic in Rush Hour mode.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "39b652aa-0d59-4ef1-ac4c-0c9210ec92d2",
+            "date": "2013-08-08T01:09:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4e6ea9e7-7b99-44ae-9773-40f54af32fa2\/com.noodlecake.boxcat\/39b652aa-0d59-4ef1-ac4c-0c9210ec92d2\/1kcLAPnfQwKXd7QFOFNc_boxcat-ouya-1.0-rc2.apk",
+            "size": 6778073,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.noodlecake.boxcat\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ghnzrco7SJKkZ5565qVC",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/twFFARnHRAmyM7Xcpnvs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EFodgw9fRFq3pzQrO934",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sqcDUvFVTyibaROVc5lF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2yLDdoNTUGjUuB99zQ1g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ArE6B3SRZeNOuAlaicwJ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/twFFARnHRAmyM7Xcpnvs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/twFFARnHRAmyM7Xcpnvs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EFodgw9fRFq3pzQrO934\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EFodgw9fRFq3pzQrO934\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sqcDUvFVTyibaROVc5lF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sqcDUvFVTyibaROVc5lF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2yLDdoNTUGjUuB99zQ1g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2yLDdoNTUGjUuB99zQ1g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ArE6B3SRZeNOuAlaicwJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ArE6B3SRZeNOuAlaicwJ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Noodlecake Studios",
+        "supportEmail": "support+ouya@noodlecake.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/noodlecake.com",
+    "firstPublishedAt": "2013-08-08T01:09:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Noodlecake Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 131,
+        "average": 3.77,
+        "count": 233
+    }
+}

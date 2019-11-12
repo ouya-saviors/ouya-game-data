@@ -1,0 +1,97 @@
+{
+    "packageName": "com.ghosttimegames.soulpower3",
+    "title": "Soul Power",
+    "description": "Explore the afterlife to discover more about your past. Help other ghosts recover their memories in challenging timed levels with physics-based controls.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "e1d98330-fa16-445e-a9bb-123d73ab5fc0",
+            "date": "2013-11-12T18:10:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/baabed99-6f56-4ede-bda0-595cf91e68c3\/com.ghosttimegames.soulpower3\/e1d98330-fa16-445e-a9bb-123d73ab5fc0\/R2DkWHuGT7W3ydDNEWWh_SoulPower_Ouya_iap.apk",
+            "size": 24286191,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.soulpower3\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nMJEy0VATL2I8MAIAdmh",
+        "video": "https:\/\/vimeo.com\/79130775",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PqnVLCDkSoOcCjm4UwS3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AlDudCv8Q0KNCY1ODHPm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EmEJe71JTk6tl6HG7wfG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E57axcLCQHWzLzP1bGUu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EgRKUh1RwKisTZKKhRAQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/79130775"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PqnVLCDkSoOcCjm4UwS3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PqnVLCDkSoOcCjm4UwS3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AlDudCv8Q0KNCY1ODHPm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AlDudCv8Q0KNCY1ODHPm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EmEJe71JTk6tl6HG7wfG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EmEJe71JTk6tl6HG7wfG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/E57axcLCQHWzLzP1bGUu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/E57axcLCQHWzLzP1bGUu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EgRKUh1RwKisTZKKhRAQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EgRKUh1RwKisTZKKhRAQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gabriel Koenig",
+        "supportEmail": "ghosttimegames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.ghosttimegames.com",
+    "firstPublishedAt": "2013-11-12T00:19:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Gabriel Koenig.",
+    "premium": false,
+    "rating": {
+        "likeCount": 59,
+        "average": 3.86,
+        "count": 36
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "spfull_unlock",
+            "name": "Soul Power Full Game Unlock",
+            "description": "Unlock all 8 worlds, including 30 new challenging levels.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

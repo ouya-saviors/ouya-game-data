@@ -1,0 +1,70 @@
+{
+    "packageName": "com.gamesj.lazytwo",
+    "title": "Lazy caverns 2",
+    "description": "Lazy Caverns 2 is a platform games.Guide Robby fathers again  to collect all marbles on each levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "905ac3bd-76be-4c80-8772-1fb286644b36",
+            "date": "2014-05-21T16:56:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesj.lazytwo\/905ac3bd-76be-4c80-8772-1fb286644b36\/oR4VboCSQLqtYLScE8ZU_Lazy02.apk",
+            "size": 4526652,
+            "md5sum": "07392e527a23e4840f373ff55f183eb0",
+            "publicSize": 3753898,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesj.lazytwo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1spxrNnQT3SrJa5P4PIf",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z5VwMpPS2uy5OBZ00tLA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iFQFKth4SeCIGn1MwFRE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KyGS1wuxQMeoDA2rFhxt"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/z5VwMpPS2uy5OBZ00tLA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/z5VwMpPS2uy5OBZ00tLA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iFQFKth4SeCIGn1MwFRE",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iFQFKth4SeCIGn1MwFRE"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KyGS1wuxQMeoDA2rFhxt",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KyGS1wuxQMeoDA2rFhxt"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "iosgames@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-05-21T16:56:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.06,
+        "count": 17
+    }
+}

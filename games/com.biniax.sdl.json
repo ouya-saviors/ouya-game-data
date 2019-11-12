@@ -1,0 +1,69 @@
+{
+    "packageName": "com.biniax.sdl",
+    "title": "Biniax2",
+    "description": "Match two similar fruits, and they will disappear.\r\n\r\nAre you tired of jewels? Are match-three games too complicated for you? Biniax2 to the rescue!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.4.04",
+            "versionCode": 0,
+            "uuid": "bc4c9abc-b60b-49b6-a417-d90e784023fb",
+            "date": "2013-09-13T16:06:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/99d686f2-4ccd-4bc4-997b-7de754b16a44\/com.biniax.sdl\/bc4c9abc-b60b-49b6-a417-d90e784023fb\/G9o90OHSMi51VjkqnDsQ_Biniax2-1.4.04.apk",
+            "size": 4617736,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.biniax.sdl\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tlm8kd1RDjPIGkVWhPAm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zzzyInHcRwznyv2j0CTW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ay9BivKIStukLydHQwxq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/roeDHzeqR9q3Gd9qfkF8"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zzzyInHcRwznyv2j0CTW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zzzyInHcRwznyv2j0CTW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ay9BivKIStukLydHQwxq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ay9BivKIStukLydHQwxq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/roeDHzeqR9q3Gd9qfkF8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/roeDHzeqR9q3Gd9qfkF8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "pelya",
+        "supportEmail": "x.pelya.x@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.biniax.com\/",
+    "firstPublishedAt": "2013-09-13T16:06:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by pelya.",
+    "premium": false,
+    "rating": {
+        "likeCount": 9,
+        "average": 3,
+        "count": 8
+    }
+}

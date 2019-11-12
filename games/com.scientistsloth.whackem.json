@@ -1,0 +1,70 @@
+{
+    "packageName": "com.scientistsloth.whackem",
+    "title": "Whack'em",
+    "description": "Terrible, terrible moles are coming out of their holes. And you have a Hammer. You know what to do.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "f84bc02d-0ea3-4082-942e-a53663db3581",
+            "date": "2013-09-05T15:22:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/558982c4-6083-4828-8246-b661697e6711\/com.scientistsloth.whackem\/f84bc02d-0ea3-4082-942e-a53663db3581\/njwpsRcCR7WqgeBFIBnH_WhackEm.apk",
+            "size": 7904356,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.scientistsloth.whackem\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zB4oNtQ1QkKKXYPUYmyd",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gw2mCj09ToO8UA6608st",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nUVYANQhSVGaN1bIlRQY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pXUF8iRTIcH1tL8wrUIQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Gw2mCj09ToO8UA6608st\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Gw2mCj09ToO8UA6608st\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nUVYANQhSVGaN1bIlRQY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nUVYANQhSVGaN1bIlRQY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pXUF8iRTIcH1tL8wrUIQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pXUF8iRTIcH1tL8wrUIQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Marcelo Perez \/ Scientist Sloth",
+        "supportEmail": "ios.mperez@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/www.facebook.com\/ScientistSloth",
+    "firstPublishedAt": "2013-09-03T22:40:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Marcelo Perez \/ Scientist Sloth.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 2.33,
+        "count": 12
+    }
+}

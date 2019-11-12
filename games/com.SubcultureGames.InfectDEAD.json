@@ -1,0 +1,75 @@
+{
+    "packageName": "com.SubcultureGames.InfectDEAD",
+    "title": "InfectDEAD",
+    "description": "Play as a young boy or girl in a town where a toxic spill has caused the dead to re-animate! Save your mother and get out of town while taking out as many zombies as possible.\r\n\r\nThis game was created by teens at the Boys & Girls Club of the LA Harbor as a summer OUYA project.\r\n\r\nfor more info visit:\r\nWWW.SUBCULTURE-STUDIOS.COM",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "45434543-ae56-491f-b213-abd3577bc44c",
+            "date": "2014-08-05T16:45:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/66f42ccb-86f4-4868-9f22-f97f0e5f5e82\/com.SubcultureGames.InfectDEAD\/45434543-ae56-491f-b213-abd3577bc44c\/b6V1RMApS9uR0FnCNzK2_InfectDEAD.apk",
+            "size": 15173716,
+            "md5sum": "f389cb07c3c639ad73f53ef3639c30af",
+            "publicSize": 137580,
+            "nativeSize": 149736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.subculturegames.infectdead\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eVBYGtsRZeajTcWIV5rT",
+        "video": "https:\/\/vimeo.com\/102502132",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0O6BbugRRdOmuiEzqW35",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7nz8QndFTj2z6OpgcH6V",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y6wmmo7FQXygoT4IiLGQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102502132"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/45434543-ae56-491f-b213-abd3577bc44c\/ruskrb_ouya-screenshot20140804-2-kiqlx7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/45434543-ae56-491f-b213-abd3577bc44c\/thumbnails\/thumbnail20140804-2-1sk98lh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/45434543-ae56-491f-b213-abd3577bc44c\/vpoizp_ouya-screenshot20140804-2-1upds9k.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/45434543-ae56-491f-b213-abd3577bc44c\/thumbnails\/thumbnail20140804-2-rvx52m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/45434543-ae56-491f-b213-abd3577bc44c\/796igh_ouya-screenshot20140804-2-zeb253.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/45434543-ae56-491f-b213-abd3577bc44c\/thumbnails\/thumbnail20140804-2-1bgi7lq.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Subculture Games",
+        "supportEmail": "subculture.games@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.subculture-studios.com",
+    "firstPublishedAt": "2014-08-05T16:45:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Subculture Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.06,
+        "count": 105
+    }
+}

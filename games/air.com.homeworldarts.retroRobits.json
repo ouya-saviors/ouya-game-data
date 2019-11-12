@@ -1,0 +1,86 @@
+{
+    "packageName": "air.com.homeworldarts.retroRobits",
+    "title": "Retro Robits",
+    "description": "A 1-4 player Robit Racing Platformer!\r\n\r\n3 Free Challenge Levels.\r\n3 Free Battle Levels.\r\nUnlock the full game to access all 21 Challenge Levels and 21 Battle Levels.\r\n\r\nUpdated:\r\nNow 3 free levels in both Challenge and Battle.\r\nTwo new background and tileset colors in later levels.\r\nSmoother camera following for multiplayer.\r\nAll 21 levels of Challenge mode are completed.\r\n\r\nChallenge Mode offers 21 unique levels to take on by yourself or with up to four players. Get to the end of the level to unlock the next.\r\n\r\nIn Battle Mode you can race up to four robots in a couch gaming marathon. Jump on your friends heads, collect items and utilize them wisely to get the end of the stage first. Grab item orbs to gear up with wheels, rockets, super jumps, lasers, bombs, and missiles. Even hack your opponents to steal their items. Knock your opponents off the edge of your TV to earn a star. Race through 21 unique retro style levels. Challenge your friends or family in this ultimate party couch gaming experience.\r\n\r\nRetro Robits is created by HomeWorld Arts,  the creators of Pixel Staff, Pixel Sword, and Jurassic Quest.\r\n\r\n16bit sounds\r\nLow resolution pixel graphics\r\n1-4 players\r\n21 hand-crafted battle levels\r\n7 unique challenge levels\r\n\r\nMusic by Kyle Jeremy Neidig",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.1.0",
+            "versionCode": 0,
+            "uuid": "1fa83a1c-dc86-44d8-918a-814b730a6eed",
+            "date": "2015-03-26T01:42:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/000e47bb-eddf-49f2-90ac-a45376842038\/air.com.homeworldarts.retroRobits\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/0SO382IpSzCCwV2J3yWr_retroRobits.apk",
+            "size": 24909108,
+            "md5sum": "c84bf7974fd47d2c0e99da1bc045dbde",
+            "publicSize": 316008,
+            "nativeSize": 20173095
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.homeworldarts.retrorobits\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5qLqy8cQaypkuGWsDCCt",
+        "video": "https:\/\/vimeo.com\/121710038",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NCFobqZnQBG7sWclprvN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hDkf56aR3KVjJKcGtJxf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Mlw7Ax0nT8mA6tGEpX4C"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/121710038"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/cgv0be_ouya-screenshot20150324-3-etls8a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/thumbnails\/thumbnail20150324-3-1g3j76a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/ko68ke_ouya-screenshot20150324-3-1wd07vd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/thumbnails\/thumbnail20150324-3-ncm5lr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/ccxa4d_ouya-screenshot20150324-3-ws7qn9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1fa83a1c-dc86-44d8-918a-814b730a6eed\/thumbnails\/thumbnail20150324-3-6ko9zv.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Homeworld Arts LLC",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.homeworldarts.com",
+    "firstPublishedAt": "2015-03-11T17:57:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Homeworld Arts LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.04,
+        "count": 45
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "retro_robits_unlock",
+            "name": "Retro Robits Unlock",
+            "description": "Unlocks the full game!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

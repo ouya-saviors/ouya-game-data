@@ -1,0 +1,70 @@
+{
+    "packageName": "info.hanhinen.OuyaClock",
+    "title": "Clock",
+    "description": "Digital clock for the OUYA. Perfect for when you want to tune in to internet radio and want to save your precious screen. The clock moves around to minimize screen burn-in.\r\n\r\nThere is a shortcut to Date and time settings in the app's menu.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "0.9",
+            "versionCode": 0,
+            "uuid": "a5fb7e85-8e1a-4ac2-8217-bccf6a85868f",
+            "date": "2013-06-26T19:32:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2457942e-ba7e-4240-88ac-a7852fa53417\/info.hanhinen.OuyaClock\/a5fb7e85-8e1a-4ac2-8217-bccf6a85868f\/nUlEjPTFSFWg92Xw4PVQ_OuyaClock.apk",
+            "size": 365380,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/info.hanhinen.ouyaclock\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ry4LplP1TIiYqUw6IwxA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gdIlomdvRVmcG86Qk0zZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5MuJtiGTiK4T6L9CMYgM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u3rixZRNQIizOgAJXW4D"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gdIlomdvRVmcG86Qk0zZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gdIlomdvRVmcG86Qk0zZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5MuJtiGTiK4T6L9CMYgM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5MuJtiGTiK4T6L9CMYgM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/u3rixZRNQIizOgAJXW4D\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/u3rixZRNQIizOgAJXW4D\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MrMaw",
+        "supportEmail": "positron001@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.hanhinen.info\/",
+    "firstPublishedAt": "2013-06-26T19:32:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by MrMaw.",
+    "premium": false,
+    "rating": {
+        "likeCount": 221,
+        "average": 4.22,
+        "count": 81
+    }
+}

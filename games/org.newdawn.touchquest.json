@@ -1,0 +1,95 @@
+{
+    "packageName": "org.newdawn.touchquest",
+    "title": "Legends of Yore",
+    "description": "Legends of Yore, a casual rogue like designed for mobile platforms. Choose your character and adventure through the dungeons, gaining levels and experience to eventually become a hero.\r\n\r\nThe game allows you to play until level 20 free of charge. At that point you can upgrade and continue play normally, or continue playing for free with limited gold and experience gains.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1110",
+            "versionCode": 0,
+            "uuid": "01fbd457-49f8-48a6-99b8-a64a219a88d9",
+            "date": "2013-10-01T17:46:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a7b1a0ea-18a6-4308-86f7-e4b5a629cc15\/org.newdawn.touchquest\/01fbd457-49f8-48a6-99b8-a64a219a88d9\/m06tgkdpTwCV1E5BFMNC_LegendsOfYore-android-1110-ouya.apk",
+            "size": 1652765,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.newdawn.touchquest\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RDdwagNRR360eQBbee7l",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TuQdw879TGeXZCPWQrCc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UHR4Jc8mQbmMxgedAdVi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RiShpeO0T0iR0AYABeEm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TJ7tmohpQbyAQAUj0vbp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rwINMdL5QoIqVziEpqOw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XqAUQt7QaGBjlI4rYIs2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wAbJupSRx2e3LYf8NzXI"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TuQdw879TGeXZCPWQrCc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TuQdw879TGeXZCPWQrCc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UHR4Jc8mQbmMxgedAdVi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UHR4Jc8mQbmMxgedAdVi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RiShpeO0T0iR0AYABeEm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RiShpeO0T0iR0AYABeEm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TJ7tmohpQbyAQAUj0vbp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TJ7tmohpQbyAQAUj0vbp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rwINMdL5QoIqVziEpqOw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rwINMdL5QoIqVziEpqOw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XqAUQt7QaGBjlI4rYIs2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XqAUQt7QaGBjlI4rYIs2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wAbJupSRx2e3LYf8NzXI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wAbJupSRx2e3LYf8NzXI\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Coke and Code",
+        "supportEmail": "support@legendsofyore.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.legendsofyore.com",
+    "firstPublishedAt": "2013-08-02T20:34:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Coke and Code.",
+    "premium": false,
+    "rating": {
+        "likeCount": 153,
+        "average": 3.3,
+        "count": 67
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "packageName": "com.keeplay.templeflappy",
+    "title": "Temple Flappy",
+    "description": "Up to TWO players now!!!!\r\n\r\nTemple Flappy for Ouya.\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "f2011c39-9452-44ba-83b2-d9e20841add3",
+            "date": "2014-03-14T18:44:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fa53ac77-1d43-4904-b628-c3f577342cf2\/com.keeplay.templeflappy\/f2011c39-9452-44ba-83b2-d9e20841add3\/Rt4YAn8SZIbyuXeET4zw_TempleFlappy_Ouya_v3.apk",
+            "size": 9926729,
+            "md5sum": "ecf7cf448ee523ad879d60bedfb09b63",
+            "publicSize": 406044,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.keeplay.templeflappy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fF5VAndwRBaObKJE9WLY",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1euCmip9T4iNM8xer3qC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lKAEfTym3OcpM8aYQywV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/17lqPGVRfS7JieDSQroi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4vzSLFuQtKUKDyBody6g"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1euCmip9T4iNM8xer3qC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1euCmip9T4iNM8xer3qC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lKAEfTym3OcpM8aYQywV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lKAEfTym3OcpM8aYQywV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/17lqPGVRfS7JieDSQroi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/17lqPGVRfS7JieDSQroi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4vzSLFuQtKUKDyBody6g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4vzSLFuQtKUKDyBody6g\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Keeplay Game Studios",
+        "supportEmail": "development@keeplay.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.keeplay.com",
+    "firstPublishedAt": "2014-02-17T18:15:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Keeplay Game Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 75,
+        "average": 2.88,
+        "count": 362
+    }
+}

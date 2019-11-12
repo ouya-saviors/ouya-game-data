@@ -1,0 +1,89 @@
+{
+    "packageName": "de.mayday.spaceExplorer",
+    "title": "SXP",
+    "description": "Take a seat in your cockpit and master increasingly challenging missions to earn glory, ranks, badges and money. \r\nYou start with a modest amount of the latter and a D-1 space pilot license that allows you to operate very small spacecrafts. To earn the money and the skills for larger spacecrafts and harder missions you start simple as an energy miner. But before you can do that, you need to go to the Propulsion store and get yourself a ship suited for mining.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "0.2",
+            "versionCode": 0,
+            "uuid": "f46908f8-c043-4154-b21d-495a6fdbb025",
+            "date": "2013-06-11T04:37:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/862ef5f4-aba9-411c-859d-833d4dace953\/de.mayday.spaceExplorer\/f46908f8-c043-4154-b21d-495a6fdbb025\/Q3zst2gbQnKHViIxh5sa_spaceExplorerOuya.apk",
+            "size": 60642014,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.mayday.spaceexplorer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rIrjhtcVTDOQO6ehWP2Q",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/31UWopxIQzydfraDyhm3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fpR1EWwQ6aWV9L19jS6x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RWbJvGXhSQOhk8WSywLC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tXcdgn0zRlmDD8Neh7Oy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mnJtcVlCS9iiIMk5G0k8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yf2u8LNNQ6e1EFVAc82n"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/31UWopxIQzydfraDyhm3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/31UWopxIQzydfraDyhm3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fpR1EWwQ6aWV9L19jS6x\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fpR1EWwQ6aWV9L19jS6x\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RWbJvGXhSQOhk8WSywLC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RWbJvGXhSQOhk8WSywLC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tXcdgn0zRlmDD8Neh7Oy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tXcdgn0zRlmDD8Neh7Oy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mnJtcVlCS9iiIMk5G0k8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mnJtcVlCS9iiIMk5G0k8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yf2u8LNNQ6e1EFVAc82n\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yf2u8LNNQ6e1EFVAc82n\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Hauschild",
+        "supportEmail": "h.muc.hauschild@googlemail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "https:\/\/sites.google.com\/site\/sxpforouya\/",
+    "firstPublishedAt": "2013-06-11T04:37:28Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Hauschild.",
+    "premium": false,
+    "rating": {
+        "likeCount": 39,
+        "average": 3.08,
+        "count": 13
+    }
+}

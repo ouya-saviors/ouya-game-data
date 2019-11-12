@@ -1,0 +1,94 @@
+{
+    "packageName": "com.deceasedpixel.megaworm",
+    "title": "Super Mega Worm",
+    "description": "Mother Earth is on the brink of extinction and has released her last defense, the Great Death Worm, Wojira. Wojira is on a revenge mission to destroy all the Human parasites. \r\n\r\nCrawl and eat your way through waves of humans and their robots of destruction. Grow and evolve into the ultimate weapon of destruction. You are the last line of defense, can you save the world?\r\n\r\nFeatures\r\n- Super fun, fast and furious Gameplay\r\n- Awesome Retro Art Style\r\n- 24 Action Packed Levels\r\n- 2 Different Game Modes\r\n- 3 Destructive Super Abilities\r\n- 2 Different Control Schemes\r\n- 20 Delicious Items to Eat\r\n- Multiple Controller Support (PS3 & 360)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.8",
+            "versionCode": 0,
+            "uuid": "d99695c3-be69-4682-be95-7d727fcd6049",
+            "date": "2013-08-06T16:07:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/52e7cf84-1f81-4a80-a5c5-7d36e48faee5\/com.deceasedpixel.megaworm\/d99695c3-be69-4682-be95-7d727fcd6049\/wJHhWsQPQkivBi9FZ5OT_megaworm.ouya.ver.1.0.8.apk",
+            "size": 28035720,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.deceasedpixel.megaworm\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YiBKSbsnQBKYuthuiA0O",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FUP8mO6wSXOubW1GTAiC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2yOnW3VkROKuHzez309H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V93lWSF9TCCdAHtyxdCm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zdyJ6N9rTWCeM0zcVWEI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZTYXWqfiTji9LRaKwAL6"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FUP8mO6wSXOubW1GTAiC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FUP8mO6wSXOubW1GTAiC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2yOnW3VkROKuHzez309H\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2yOnW3VkROKuHzez309H\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/V93lWSF9TCCdAHtyxdCm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/V93lWSF9TCCdAHtyxdCm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zdyJ6N9rTWCeM0zcVWEI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zdyJ6N9rTWCeM0zcVWEI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZTYXWqfiTji9LRaKwAL6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZTYXWqfiTji9LRaKwAL6\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Deceased Pixel",
+        "supportEmail": "support@deceasedpixel.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/deceasedpixel.com",
+    "firstPublishedAt": "2013-08-06T16:07:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Deceased Pixel.",
+    "premium": false,
+    "rating": {
+        "likeCount": 407,
+        "average": 4.07,
+        "count": 565
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "smw_unlockfullgame",
+            "name": "Unlock Full Game",
+            "description": "Unlock the full game!  \r\n\r\n- 25 Levels\r\n- Extended Time Attack\r\n- All 3 Super Powers",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

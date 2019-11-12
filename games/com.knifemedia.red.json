@@ -1,0 +1,87 @@
+{
+    "packageName": "com.knifemedia.red",
+    "title": "Red",
+    "description": "Update 1.2 - INFECTION! New level, new mode, new weapons and new enemies!\r\n\r\nFeeling angry?\r\n\r\nRED is the ultimate dual stick shooter - visceral, vibrant and filled to the brim with unlockables!\r\n\r\nTake the role of Rick Steele as he battles an invasion of mutants in the city. Using a variety of powerups, abilities and weapons, he will need to fend off hordes of disgusting and furious creatures dead set on consuming everything and everyone in their sight.\r\n\r\nFeaturing:\r\n\r\n- Smexy cartoon graphics\r\n- Same couch multiplayer *NEW*\r\n- Unique player abilities\r\n- Special bonuses like the powerful Bio-Shield\r\n- Competitive leaderboards\r\n- Infection infinite survival mode\r\n\r\nPLUS! - Buy the full version for even more future content!\r\n\r\n1.11 - NEW IN GAME BESTIARY + BALANCE IMPROVEMENTS!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "30ee9d54-2be3-482d-ae8d-3e332b0f8019",
+            "date": "2013-09-04T00:32:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/468943a5-0603-48a0-a8a2-e69ebd4bbfa3\/com.knifemedia.red\/30ee9d54-2be3-482d-ae8d-3e332b0f8019\/cdf0ydZSzP6tkjQ8h0Vg_Red.apk",
+            "size": 50621703,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.knifemedia.red\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CoBCGbd1QlyiwpFV12MW",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/df9jj0wRYWWMVBeFi7kG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mMXPesRGWPfysfJmsRSg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ooHvcqgDSpm17SnWimgb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/or00vepERvL5chG26Rvg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/df9jj0wRYWWMVBeFi7kG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/df9jj0wRYWWMVBeFi7kG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mMXPesRGWPfysfJmsRSg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mMXPesRGWPfysfJmsRSg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ooHvcqgDSpm17SnWimgb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ooHvcqgDSpm17SnWimgb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/or00vepERvL5chG26Rvg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/or00vepERvL5chG26Rvg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Knife Media",
+        "supportEmail": "knifemedia@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.knifemedia.com",
+    "firstPublishedAt": "2013-03-28T17:02:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Knife Media.",
+    "premium": false,
+    "rating": {
+        "likeCount": 330,
+        "average": 3.31,
+        "count": 161
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "red_full_game2",
+            "name": "Red Full Game",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

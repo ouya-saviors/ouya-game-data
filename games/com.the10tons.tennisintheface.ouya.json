@@ -1,0 +1,98 @@
+{
+    "packageName": "com.the10tons.tennisintheface.ouya",
+    "title": "Tennis in the Face",
+    "description": "Tennis in the Face is a hilarious bouncer-game where you save the city from the evil Explodz Inc. with your extraordinary tennis skills. Simply aim your shot, observe the aiming line and serve a furious tennis smash!\r\nThe ball bounces off walls and platforms, triggering Explodz-crates, ball tubes, and other objects. Your actions will set off chain reactions and you'll watch the events unfold while knocking out the enemies. The more enemies you knock out with a single serve, the higher your score!\r\nWin levels to move to the next district and towards your ultimate goal: The destruction of Explodz mega-factory. Try to earn a crown from each level!\r\nJoin ex-tennis-pro star Pete Pagassi in his quest to save the city from the grasp of Explodz!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0.6",
+            "versionCode": 0,
+            "uuid": "ae7390da-abeb-4c91-8169-5ac10b974942",
+            "date": "2013-10-17T07:26:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5781ec04-7193-4726-b1b1-6923a0f77825\/com.the10tons.tennisintheface.ouya\/ae7390da-abeb-4c91-8169-5ac10b974942\/KS1h8Z3XRtCcrNNqxGpx_tennisintheface-release.apk",
+            "size": 20206556,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.the10tons.tennisintheface.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VViP686NTZi1EaUBfvCA",
+        "video": "https:\/\/vimeo.com\/76602757",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2Ax56NBSTtO4oejm0n15",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ekEJQ0TIS66VsQ8QJDHb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ErsobYdjRKOTUYQaO9Et",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LOr7IJxiTumsYoRVGjQl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cevP7hhDRlmggoLAxtEw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76602757"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2Ax56NBSTtO4oejm0n15\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2Ax56NBSTtO4oejm0n15\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ekEJQ0TIS66VsQ8QJDHb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ekEJQ0TIS66VsQ8QJDHb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ErsobYdjRKOTUYQaO9Et\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ErsobYdjRKOTUYQaO9Et\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LOr7IJxiTumsYoRVGjQl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LOr7IJxiTumsYoRVGjQl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cevP7hhDRlmggoLAxtEw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cevP7hhDRlmggoLAxtEw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "10tons Ltd",
+        "supportEmail": "appsupport@10tons.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.tennisintheface.com",
+    "firstPublishedAt": "2013-08-22T11:19:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by 10tons Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 151,
+        "average": 4.07,
+        "count": 280
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "tennisintheface_ouya-trial_unlock",
+            "name": "Full Version",
+            "description": "Unlock the full version of Tennis in the Face.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

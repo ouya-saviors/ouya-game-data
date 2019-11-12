@@ -1,0 +1,90 @@
+{
+    "packageName": "com.Trilby.DonniesEscapade",
+    "title": "Donnie's Escapade",
+    "description": "Donnie's Escapade is a simple platformer where you guide Donnie through each level while avoiding pits and ghosts.\r\n\r\nFull game features:\r\n- 15 Levels\r\n- No game save\r\n- Challenging platforming gameplay",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42",
+            "date": "2014-11-03T17:36:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7c9b38f6-6eb7-4680-94e1-9e84b2191632\/com.Trilby.DonniesEscapade\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/IeavOzESc9bNFy3nQtQj_Donnies_Escapade_OUYA.apk",
+            "size": 20151699,
+            "md5sum": "119a96668582bdd7d5578de65348c01c",
+            "publicSize": 225958,
+            "nativeSize": 14988636
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.trilby.donniesescapade\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f2m2JPw1Q8mTvbUpaA7w",
+        "video": "https:\/\/vimeo.com\/110558070",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eF5BkIjVR4yohCCfhUCz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TlxuRaDvSA6eVZQfRCx2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zkxs6PAVSrDOw4Ms7Ylr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3wvS2jQuSAqMflPDPdD0"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/110558070"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/19vwpn_ouya-screenshot20141028-2-1jvz4r4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-gk7jyq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/xfxsa0_ouya-screenshot20141028-2-13d78sk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-1hi8fog.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/rs4vqf_ouya-screenshot20141028-2-3ne3pf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-n0tzxs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/cwxqxs_ouya-screenshot20141028-2-rishmq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-lvsg24.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "ILickAsbestos",
+        "supportEmail": "nivektang@hotmail.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.50fteyeballs.com",
+    "firstPublishedAt": "2014-11-03T17:36:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by ILickAsbestos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.62,
+        "count": 26
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DonniesEscapade_FULLGAME",
+            "name": "Donnie's Escapade",
+            "description": "The full game features all the levels of the game.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "packageName": "com.inxile.Choplifter_HD",
+    "title": "Choplifter HD",
+    "description": "In Choplifter HD\u2122, you play the role of an up-and-coming rescue pilot recruited by an elite, international helicopter rescue team. Pilots are trained to command a variety of helicopters and weapon systems deployed on more than 30 different missions. Missions range from prisoner-of-war extraction to demolition runs and even rescuing survivors of viral outbreaks. Pilots must master evasive maneuvering as well firing guns and missiles, sometimes even shaking off clinging zombies to make a rescue and complete the mission. Developed and published by inXile Entertainment, Choplifter HD\u2122 dares players to risk their lives to rescue others.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "330ebfde-eb7e-4760-bf19-b6e7eb8f90ea",
+            "date": "2013-08-27T23:52:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0634e14b-636a-4fab-b207-40cbebd49392\/com.inxile.Choplifter_HD\/330ebfde-eb7e-4760-bf19-b6e7eb8f90ea\/ChopGame-AndroidARM-Shipping_DXT_Ouya.apk",
+            "size": 851717315,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.inxile.choplifter_hd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pXfieZVpTruseF7TVOpP",
+        "video": "https:\/\/vimeo.com\/87810965",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QUsel1xmSd22EdVj5oZA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YKoFEctaSGyx4kfmFQF4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HRQYc40qTz6l1ty9fXwS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qWGaZIlTsW74xgtillMQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sJvO1GmQo6JgrRZgCxFX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jJAvGCpjScG09cdNZTkC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tr5l41E4Q7ClfaD88APh"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87810965"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QUsel1xmSd22EdVj5oZA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QUsel1xmSd22EdVj5oZA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YKoFEctaSGyx4kfmFQF4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YKoFEctaSGyx4kfmFQF4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HRQYc40qTz6l1ty9fXwS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HRQYc40qTz6l1ty9fXwS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qWGaZIlTsW74xgtillMQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qWGaZIlTsW74xgtillMQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sJvO1GmQo6JgrRZgCxFX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sJvO1GmQo6JgrRZgCxFX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jJAvGCpjScG09cdNZTkC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jJAvGCpjScG09cdNZTkC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tr5l41E4Q7ClfaD88APh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tr5l41E4Q7ClfaD88APh\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "inXile entertainment",
+        "supportEmail": "support@inxile.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/choplifterhd.com\/",
+    "firstPublishedAt": "2013-08-27T23:52:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by inXile entertainment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 277,
+        "average": 3.79,
+        "count": 150
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_inxile_ChoplifterHD_FULLGAME",
+            "name": "Unlock Full Game!",
+            "description": "Choplifter HD full game unlock!",
+            "localPrice": 6.99,
+            "originalPrice": 6.99,
+            "currency": "EUR"
+        }
+    ]
+}

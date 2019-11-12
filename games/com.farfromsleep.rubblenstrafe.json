@@ -1,0 +1,98 @@
+{
+    "packageName": "com.farfromsleep.rubblenstrafe",
+    "title": "Rubble N Strafe",
+    "description": "Machine gun, bomb and rocket your way through an infinite horde of enemy troops in this updated take on the arcade action game. Inspired by the Amstrad classic \"Harrier Attack\", see how long you can survive until you're blown out of the sky, divebomb a little too deep or just run out of gas in the middle of the sea.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.74",
+            "versionCode": 0,
+            "uuid": "86d4cbc0-5baa-4511-aa3c-bf97ec3c5767",
+            "date": "2014-10-06T23:37:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b9dc320c-d675-47f1-9207-7ecfde2b5aea\/com.farfromsleep.rubblenstrafe\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/XERiBQxWSXy09oqp70RQ_rubble_n_strafe_ouya_beta14.apk",
+            "size": 7216714,
+            "md5sum": "5326a72303364ff52af769d00034fb81",
+            "publicSize": 606328,
+            "nativeSize": 4223996
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UnMqGCXSfyCGG0yRozBT",
+        "video": "https:\/\/vimeo.com\/92102710",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nktcDbrJQfiBCpTLTcun",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xF0LA39QSbG3Xg1Jv55A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XM2Yc6HYQF2LZrlownfF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m8drkFx0TGSk7xbil5az",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kPQlSlgTOm5DjaCN0hwQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/92102710"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/8w210q_ouya-screenshot20141005-2-6kqibj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-522wpe.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/smgs8x_ouya-screenshot20141005-2-1bdemzi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-1csizj0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/9gp6lb_ouya-screenshot20141005-2-1ucncra.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-5rb0fh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/nx1vrf_ouya-screenshot20141005-2-1bciia6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-sl3x6v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/6xrg3l_ouya-screenshot20141005-2-2ptvl4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-1ixkcr0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b9dc320c-d675-47f1-9207-7ecfde2b5aea",
+        "name": "Jay Griffin",
+        "supportEmail": "farfromsleepgames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.farfromsleep.com",
+    "firstPublishedAt": "2014-04-15T22:37:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Jay Griffin.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 3.94,
+        "count": 279
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "rns_supporter",
+            "name": "VTOL Support Pack",
+            "description": "The support is seriously appreciated, cheers! Enjoy the new plane ;)",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

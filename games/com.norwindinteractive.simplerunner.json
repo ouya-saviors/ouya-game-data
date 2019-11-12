@@ -1,0 +1,70 @@
+{
+    "packageName": "com.norwindinteractive.simplerunner",
+    "title": "FP Runner",
+    "description": "FP Runner is a ferociously addicting endless runner in the first person perspective.\r\n\r\n- Run for as long as you can to obtain the highest score! \r\n- Multiple power ups to help you along the way! \r\n- Super addicting!\r\n\r\nThis game is 100% FREE!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.11",
+            "versionCode": 0,
+            "uuid": "50e0db32-0794-4c69-bef5-c9804a4e5e95",
+            "date": "2014-05-21T23:13:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/05dc46b5-ab5b-4c66-9185-57439fbebd96\/com.norwindinteractive.simplerunner\/50e0db32-0794-4c69-bef5-c9804a4e5e95\/aHKPkKiTVqtlM1aIrx01_FPRunner1.apk",
+            "size": 18677535,
+            "md5sum": "86900d5d5d30cb41fe941b58e7ab85b4",
+            "publicSize": 171597,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.norwindinteractive.simplerunner\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0SHqeIWAQMipvwesDuej",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v4IeXv06Si6VWZMsnwV6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YxzY6guLSmKyMHjIvKcg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n6uK9HqzRiad5Yx1b2TQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v4IeXv06Si6VWZMsnwV6",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v4IeXv06Si6VWZMsnwV6"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YxzY6guLSmKyMHjIvKcg",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YxzY6guLSmKyMHjIvKcg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/n6uK9HqzRiad5Yx1b2TQ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/n6uK9HqzRiad5Yx1b2TQ"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "05dc46b5-ab5b-4c66-9185-57439fbebd96",
+        "name": "Norwind Interactive Ltd.",
+        "supportEmail": "support@norwindinteractive.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/norwindinteractive.com",
+    "firstPublishedAt": "2013-06-24T22:21:19Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Norwind Interactive Ltd..",
+    "premium": false,
+    "rating": {
+        "likeCount": 66,
+        "average": 3.27,
+        "count": 67
+    }
+}

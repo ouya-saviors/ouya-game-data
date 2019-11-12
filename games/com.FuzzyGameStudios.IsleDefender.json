@@ -1,0 +1,92 @@
+{
+    "packageName": "com.FuzzyGameStudios.IsleDefender",
+    "title": "Isle Defender",
+    "description": "A full 3D tower defense game with 10 unique areas located on a single island that is to defend against various attackers and creatures. Featuring an endless mode to truly prove your strength with more and stronger enemies trying to pass through the field.\r\n\r\nUpdate (v1.1):\r\n-bugfixes\r\n-small menu changes\r\n-difficulty selection added",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "b433d4aa-cf63-4de2-96ba-38b8d19510c7",
+            "date": "2014-01-22T16:41:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b40c7824-953b-45a8-943a-485d72e2b103\/com.FuzzyGameStudios.IsleDefender\/b433d4aa-cf63-4de2-96ba-38b8d19510c7\/9C9tx0lbT5qvsTYV4BB6_IsleDefender.apk",
+            "size": 71952292,
+            "md5sum": "2615b0978c0585c8c10ddeef732af990",
+            "publicSize": 472066,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fuzzygamestudios.isledefender\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BkIxHFMsRxeIszkKgYNR",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jzQK057VQTOPHt3obVJD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lTCEnWfWR2eiFTQXRCpL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tpv4M8knRPimeITQVtn8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MJgbDJZ9RvefjhdlOjcT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3OZQ86ShSYSvSpx3jjt8"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jzQK057VQTOPHt3obVJD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jzQK057VQTOPHt3obVJD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lTCEnWfWR2eiFTQXRCpL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lTCEnWfWR2eiFTQXRCpL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Tpv4M8knRPimeITQVtn8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Tpv4M8knRPimeITQVtn8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MJgbDJZ9RvefjhdlOjcT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MJgbDJZ9RvefjhdlOjcT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3OZQ86ShSYSvSpx3jjt8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3OZQ86ShSYSvSpx3jjt8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Fuzzy Game Studios",
+        "supportEmail": "fuzzy@fuzzy-game-studios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.fuzzy-game-studios.com",
+    "firstPublishedAt": "2013-12-23T23:55:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Fuzzy Game Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 3.17,
+        "count": 18
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fgs_isledef_gamelicense",
+            "name": "Isle Defender full game access",
+            "description": "Get access to all 10 stages.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

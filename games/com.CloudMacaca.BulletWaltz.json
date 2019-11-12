@@ -1,0 +1,99 @@
+{
+    "packageName": "com.CloudMacaca.BulletWaltz",
+    "title": "BulletWaltz",
+    "description": "Enjoy the music, dance with bullets. Watch it, dodge it, catch it, crush it. What else do you expect? BULLET WALTZ.\r\n\r\n*Intense flash alert",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "5c4bbbfa-adcb-41bb-b5e7-26a6972b7a61",
+            "date": "2014-03-27T19:58:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a6f41734-8a5f-47fd-be70-96813c881821\/com.CloudMacaca.BulletWaltz\/5c4bbbfa-adcb-41bb-b5e7-26a6972b7a61\/4posTorGRSaNtPBQWGLS_BulletWaltz.apk",
+            "size": 14768873,
+            "md5sum": "1a14916b80e274e36e26110228c4afd5",
+            "publicSize": 58194,
+            "nativeSize": 22159216
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cloudmacaca.bulletwaltz\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IsHQXQ7RT3q3yKjf4hLB",
+        "video": "https:\/\/vimeo.com\/89251481",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CAOJ4SIVQqSLzT9DCbua",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V9IdpVFQTeOR6jLETlqK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O1414QsHQFaZa6D9LIGl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gkjZfYOlSSybQmbRhjNa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WIs87XKTT1yVUW3LMDXm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zbYffUDR2WIUN9cheepJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1cBoYKjSzCBIvTtNgxRw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89251481"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CAOJ4SIVQqSLzT9DCbua\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CAOJ4SIVQqSLzT9DCbua\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/V9IdpVFQTeOR6jLETlqK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/V9IdpVFQTeOR6jLETlqK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O1414QsHQFaZa6D9LIGl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O1414QsHQFaZa6D9LIGl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gkjZfYOlSSybQmbRhjNa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gkjZfYOlSSybQmbRhjNa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WIs87XKTT1yVUW3LMDXm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WIs87XKTT1yVUW3LMDXm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zbYffUDR2WIUN9cheepJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zbYffUDR2WIUN9cheepJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1cBoYKjSzCBIvTtNgxRw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1cBoYKjSzCBIvTtNgxRw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rocky Hong",
+        "supportEmail": "Cloud.Macaca@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/playrockygames.blogspot.tw\/",
+    "firstPublishedAt": "2014-03-27T19:58:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Rocky Hong.",
+    "premium": false,
+    "rating": {
+        "likeCount": 37,
+        "average": 4.23,
+        "count": 146
+    }
+}

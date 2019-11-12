@@ -1,0 +1,81 @@
+{
+    "packageName": "com.ama.puzzle2.ouyaF2P",
+    "title": "Puzzle 2HD",
+    "description": "Stretch your skills with Puzzle 2!\r\n\r\nDiscover a new gameplay experience with optimized controls for OUYA!\r\n\r\nJust move the Master Blox along the path to the yellow exit tile without getting stuck by the various obstacles. Sound simple? You will find that as you move through the levels they get more and more complex and in-turn more satisfying to complete, the slick motion control make this game is easy to play, but hard to master.\r\n\r\n100 levels of difficulty.\r\nAddictive gameplay.\r\nMaster the game and stay on top of the world rankings.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "ed8b2345-6446-41fa-b60c-73066d89dd7c",
+            "date": "2013-04-18T08:43:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/188e60f2-e940-46c9-890c-8c424bbb5007\/com.ama.puzzle2.ouyaF2P\/ed8b2345-6446-41fa-b60c-73066d89dd7c\/7TTf1KCrQw6COOY9Otoh_20130327_Puzzle2_OUYA_F2P_LiveIAP.apk",
+            "size": 21079424,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ama.puzzle2.ouyaf2p\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FBonaFAiQ6aqVippWRPX",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5qvIEYeCRPmUH5XZjhzf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rj8StmaoT6aMETfShY7z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eb9PoNTRRsGp4E01I95J",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pjMt47kiSjqggtfrMOKc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/teVosZIQsyCQj45XJwYg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5qvIEYeCRPmUH5XZjhzf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5qvIEYeCRPmUH5XZjhzf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rj8StmaoT6aMETfShY7z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rj8StmaoT6aMETfShY7z\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eb9PoNTRRsGp4E01I95J\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eb9PoNTRRsGp4E01I95J\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pjMt47kiSjqggtfrMOKc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pjMt47kiSjqggtfrMOKc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/teVosZIQsyCQj45XJwYg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/teVosZIQsyCQj45XJwYg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Advanced Mobile Applications Ltd.",
+        "supportEmail": "customersupport@ama.us",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.ama-studios.com",
+    "firstPublishedAt": "2013-03-27T15:29:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Advanced Mobile Applications Ltd..",
+    "premium": false,
+    "rating": {
+        "likeCount": 42,
+        "average": 3.78,
+        "count": 23
+    }
+}

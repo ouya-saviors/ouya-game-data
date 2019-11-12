@@ -1,0 +1,87 @@
+{
+    "packageName": "com.zombiesaurus.soulgrinder",
+    "title": "Soul Grinder",
+    "description": "Strap on your jetpack and grab your trusty hand-cannon, it's time to fly to the right and shoot stuff! Let's attack aggressively! Totally free with no in app purchases. Download n' go! \r\n\r\n\"For the hardcore shooter fan with masochistic tendencies, you need look no further than Soul Grinder\" - TouchArcade.com\r\n\r\n\"This is a must buy if you're looking for a fun game.\" - 1UpOrPoison.com\r\n\r\n\"Soul Grinder is actually a fantastic little arcade game\" - CalmDownTom.com\r\n\r\n\"Soul Grinder offers stimulating fun from beginning to end\" - MacLife.com\r\n\r\n\"Fun, charming, and loaded with replay value\" - Winner of 2D-X Excellence Award - 2D-X.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "15dac703-bff3-4749-a3c5-0c7f41568eac",
+            "date": "2013-10-31T23:46:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2cf150a4-c72b-4214-ba8e-efe6d0019d2f\/com.zombiesaurus.soulgrinder\/15dac703-bff3-4749-a3c5-0c7f41568eac\/GRO660nnRTeiluduk57u_com.zombiesaurus.soulgrinder.apk",
+            "size": 35072597,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zombiesaurus.soulgrinder\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z4LeF7v2RXy8ah9AFmM8",
+        "video": "https:\/\/vimeo.com\/77729367",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3QWpKASQQKaNzNwL9VkD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hJH9r3eQna6g7frBDzcA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PyefX70sQJC8OIhD50K6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Eme6pApFTnmNXV7eciY3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DEhRLFSZ60W9LT9UQlPA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77729367"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3QWpKASQQKaNzNwL9VkD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3QWpKASQQKaNzNwL9VkD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hJH9r3eQna6g7frBDzcA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hJH9r3eQna6g7frBDzcA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PyefX70sQJC8OIhD50K6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PyefX70sQJC8OIhD50K6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Eme6pApFTnmNXV7eciY3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Eme6pApFTnmNXV7eciY3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DEhRLFSZ60W9LT9UQlPA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DEhRLFSZ60W9LT9UQlPA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Zombiesaurus Games",
+        "supportEmail": "contact@zombiesaurusgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.zombiesaurusgames.com",
+    "firstPublishedAt": "2013-10-31T23:46:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Zombiesaurus Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 77,
+        "average": 3.76,
+        "count": 114
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "packageName": "com.sparcksoft.tomatoVSonions",
+    "title": "Tomatoes Vs Onions",
+    "description": "Survive the evil onion attack, defend yourself with the power of the tomato force. Battle hundreds of \"make you cry\" onions with a can of unlimited tomatoes.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "ea2df0b8-6cb9-4898-90ce-ddce3d0bfe2a",
+            "date": "2013-10-07T16:17:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/780e24bf-59c4-496c-b843-99128f75c4e9\/com.sparcksoft.tomatoVSonions\/ea2df0b8-6cb9-4898-90ce-ddce3d0bfe2a\/or9465TKKGyG63aPEF0g_TOMATOES%20CVS%20ONIONS.apk",
+            "size": 2438805,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sparcksoft.tomatovsonions\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PUHm4O5WRnGhVCys6WQ1",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nIX0Xq6KQiugLTxSPUYC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zDgDDqdRTte4AED72Eu3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/78vNlfFTQZWOtlTZKI9f",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zJTbl2znSPak0Kfzbov9"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nIX0Xq6KQiugLTxSPUYC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nIX0Xq6KQiugLTxSPUYC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zDgDDqdRTte4AED72Eu3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zDgDDqdRTte4AED72Eu3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/78vNlfFTQZWOtlTZKI9f\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/78vNlfFTQZWOtlTZKI9f\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zJTbl2znSPak0Kfzbov9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zJTbl2znSPak0Kfzbov9\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SparckSoft",
+        "supportEmail": "xboxradio@live.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/sparckman.weebly.com",
+    "firstPublishedAt": "2013-10-02T16:55:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by SparckSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 19,
+        "average": 3.33,
+        "count": 12
+    }
+}

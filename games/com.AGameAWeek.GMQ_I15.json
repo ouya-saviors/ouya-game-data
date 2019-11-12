@@ -1,0 +1,82 @@
+{
+    "packageName": "com.AGameAWeek.GMQ_I15",
+    "title": "Greenie's Little Adventure",
+    "description": "Guide Greenie on his quest to find his friend Dave.\r\nCan Greenie get through the dungeons?\r\nWill Dave ever see his friend?\r\nFind out!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "99b6c820-694a-44e7-9efb-451c942dbf9e",
+            "date": "2015-12-30T20:06:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.GMQ_I15\/99b6c820-694a-44e7-9efb-451c942dbf9e\/ECHQ6zj5QW6bUYpHdoF9_Greenies%20Little%20Adventure.apk",
+            "size": 5597057,
+            "md5sum": "9ec4ae17a1893002a9d680daf1b19669",
+            "publicSize": 186546,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.gmq_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PMwzL7lbTleUUq8X1u24",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0lgPlQAwRzy3F6DiO95d",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NFGcMNRgTtScUrnVmhtN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2lmecWfuSxyrEXK1uvSh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UwzKADTqe16cSOsCG7g6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FoeNWwQGOuAFQbJm5uQ5"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/jtshge_ouya-screenshot20151228-3-11o40fm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/thumbnails\/thumbnail20151228-3-nxa8sn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/awkkkr_ouya-screenshot20151228-3-11afl72.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/thumbnails\/thumbnail20151228-3-8le27j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/n5nxsp_ouya-screenshot20151228-3-1xcnptd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/thumbnails\/thumbnail20151228-3-11n0i39.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/gpgr1m_ouya-screenshot20151228-3-s2loox.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/thumbnails\/thumbnail20151228-3-1tzu834.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/ttaja8_ouya-screenshot20151228-3-1t26h7f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99b6c820-694a-44e7-9efb-451c942dbf9e\/thumbnails\/thumbnail20151228-3-isrfua.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-10-02T16:12:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.67,
+        "count": 9
+    }
+}

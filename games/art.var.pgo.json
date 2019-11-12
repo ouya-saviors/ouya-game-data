@@ -1,0 +1,92 @@
+{
+    "packageName": "art.var.pgo",
+    "title": "Pgo!",
+    "description": "Pgo! is a free and fun mobile game. Create your own dancing chicken and let it move to the music while you try to catch her eggs. You can also get some nice accessories for her and share your score and designs on your favorite social network.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "4",
+            "versionCode": 0,
+            "uuid": "541fd193-ba24-49a2-a11e-2832289354cd",
+            "date": "2014-03-19T17:01:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/08aaca6c-75df-4743-962a-6a105431e73a\/art.var.pgo\/541fd193-ba24-49a2-a11e-2832289354cd\/5a2ogFNSSCerSoL5WExX_pgoOUYA.apk",
+            "size": 22827381,
+            "md5sum": "6430984dafb6f3c2b8aaacbc0dd58edd",
+            "publicSize": 21512439,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/art.var.pgo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fTdOC5inQFutJiBeIrxN",
+        "video": "https:\/\/vimeo.com\/89464619",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/igjcxUvZS8mQpifuRscq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lcCUU0GSxerOXnGWAoKQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O3aD9hp4TCKgGHEduBpg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YNiV40jSTK72pLPfxt8Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4xPMhabhRvK76eYQRCf8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8YXwLCDSlS6NC2TUSJ2g"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89464619"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/igjcxUvZS8mQpifuRscq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/igjcxUvZS8mQpifuRscq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lcCUU0GSxerOXnGWAoKQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lcCUU0GSxerOXnGWAoKQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O3aD9hp4TCKgGHEduBpg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O3aD9hp4TCKgGHEduBpg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YNiV40jSTK72pLPfxt8Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YNiV40jSTK72pLPfxt8Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4xPMhabhRvK76eYQRCf8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4xPMhabhRvK76eYQRCf8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8YXwLCDSlS6NC2TUSJ2g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8YXwLCDSlS6NC2TUSJ2g\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "VAR",
+        "supportEmail": "pgo@var.art.br",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.var.art.br\/pgo\/",
+    "firstPublishedAt": "2014-03-19T17:01:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by VAR.",
+    "premium": false,
+    "rating": {
+        "likeCount": 8,
+        "average": 2.32,
+        "count": 25
+    }
+}

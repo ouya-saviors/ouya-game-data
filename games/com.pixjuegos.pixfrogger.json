@@ -1,0 +1,77 @@
+{
+    "packageName": "com.pixjuegos.pixfrogger",
+    "title": "PiX Frogger",
+    "description": "If this game gets 400 likes, we will release a SIXTEEN PLAYERS VERSION! :D\r\n\r\nAction-racing game for 1-8 players, inspired by Frogger.\r\n\r\nUp to 4 players in just one controller, or 8 players in 2 controllers!\r\nYou may use more controllers to split players more comfortably!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.2.3",
+            "versionCode": 0,
+            "uuid": "da80309e-0fca-4e9f-81d7-5047b6d70315",
+            "date": "2013-07-24T17:46:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e24c5d56-7f89-47bc-b446-b88a8b46d440\/com.pixjuegos.pixfrogger\/da80309e-0fca-4e9f-81d7-5047b6d70315\/vfNiwooATeyc5x3jSs0z_pixfrogger-2-ouya.apk",
+            "size": 7821930,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixjuegos.pixfrogger\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y0jDUui0TKgGColYYEVs",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iM23Y1wQRuiBKS3qUEMg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/odEZA2QGQAqffB8AFlta",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1SW5hmj2QOKZNzAnV8Qw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iKdC5nuGRleNYLIhpqYU"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iM23Y1wQRuiBKS3qUEMg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iM23Y1wQRuiBKS3qUEMg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/odEZA2QGQAqffB8AFlta\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/odEZA2QGQAqffB8AFlta\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1SW5hmj2QOKZNzAnV8Qw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1SW5hmj2QOKZNzAnV8Qw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iKdC5nuGRleNYLIhpqYU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iKdC5nuGRleNYLIhpqYU\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PiX Juegos",
+        "supportEmail": "contacto@pixjuegos.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pixjuegos.com\/?j=pixfrogger",
+    "firstPublishedAt": "2013-07-18T20:46:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by PiX Juegos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 469,
+        "average": 3.4,
+        "count": 156
+    }
+}

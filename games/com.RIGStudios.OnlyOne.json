@@ -1,0 +1,81 @@
+{
+    "packageName": "com.RIGStudios.OnlyOne",
+    "title": "Only One",
+    "description": "When you came here, you agreed to this game. Now you have to play it through to the end.\r\nOnly One is a text game, putting you in the mind of someone in a difficult situation. Will you last till the end?\r\nImportant: this game has swearing and unnerving content, you have been warned!\r\nThis is more of an experience more than a game. suggested play methods can be found at the beginning of play.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Role-Playing",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "e34f979e-c040-4437-a0be-e004f3679215",
+            "date": "2014-03-10T16:16:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5dac5022-c8f6-474b-9497-beab863e10f7\/com.RIGStudios.OnlyOne\/e34f979e-c040-4437-a0be-e004f3679215\/Fss9N26SZlm96Ut5SnLQ_OnlyOneRM.apk",
+            "size": 9526228,
+            "md5sum": "ed6327c8bb599cafb2077e863d149b5a",
+            "publicSize": 82905,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rigstudios.onlyone\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YZ7xwZC1T0Sducyfxncf",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r3zwSmIMQiKoX0YQz08y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VHhL36XIRVStOtnCMmM2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YTUuchRYQoGVHGlyvsbG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r3zwSmIMQiKoX0YQz08y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r3zwSmIMQiKoX0YQz08y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VHhL36XIRVStOtnCMmM2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VHhL36XIRVStOtnCMmM2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YTUuchRYQoGVHGlyvsbG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YTUuchRYQoGVHGlyvsbG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "RIGStudios",
+        "supportEmail": "rigamesstudios@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/developerspointofreview.blogspot.co.uk\/",
+    "firstPublishedAt": "2014-03-10T16:16:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by RIGStudios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 16,
+        "average": 2.77,
+        "count": 84
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "OnlyOne",
+            "name": "Only One",
+            "description": "This will support the developer, and unlock the epilogue of the game.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

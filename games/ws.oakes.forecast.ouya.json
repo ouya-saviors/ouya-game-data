@@ -1,0 +1,87 @@
+{
+    "packageName": "ws.oakes.forecast.ouya",
+    "title": "Foresight",
+    "description": "Designed exclusively for Ouya, Foresight allows you to view local weather forecasts directly on your television.\r\n\r\nPowered by the Forecast.io API (formally Dark Sky) it provides accurate minutely, hourly and daily forecasts. Not all levels of detail are available in all locations, however Foresight will supply the most accurate data possible.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "8dcf349a-5d42-42dc-8477-696831775104",
+            "date": "2013-07-22T17:27:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7198d57d-8b92-4684-9f07-0d09d5d7d6ee\/ws.oakes.forecast.ouya\/8dcf349a-5d42-42dc-8477-696831775104\/zgYXNmRlTpuZZeaqYwew_OuyaForecast.apk",
+            "size": 5074274,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/ws.oakes.forecast.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f1lhnLtfS0KqWFDVNtsg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N1NCBr3BTTyCTYUxze56",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7RLEhHWWT42FwiELKS6N",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/us4YpHSQ2aEl9hIxKjRD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TpG4mVRT62pjTjxlJow1"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N1NCBr3BTTyCTYUxze56\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N1NCBr3BTTyCTYUxze56\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7RLEhHWWT42FwiELKS6N\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7RLEhHWWT42FwiELKS6N\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/us4YpHSQ2aEl9hIxKjRD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/us4YpHSQ2aEl9hIxKjRD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TpG4mVRT62pjTjxlJow1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TpG4mVRT62pjTjxlJow1\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Matthew Oakes",
+        "supportEmail": "oakesm9@googlemail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/gainforesight.com\/",
+    "firstPublishedAt": "2013-07-19T17:54:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Matthew Oakes.",
+    "premium": false,
+    "rating": {
+        "likeCount": 251,
+        "average": 3.92,
+        "count": 26
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_foresight_2",
+            "name": "Full Foresight $1.99",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

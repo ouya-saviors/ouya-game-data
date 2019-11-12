@@ -1,0 +1,150 @@
+{
+    "packageName": "com.tengriprod.theroadsofapocalypse",
+    "title": "the roads of apocalypse",
+    "description": "In a post-apocalyptic world you drive a vehicle in a dangerous and fierce competition. Here everything is allowed to win! Missile, dynamite, do not hesitate to shoot at your opponents! \r\n\r\nLike racing games car with a good feeling of speed? You have the soul of a road warrior? Then this game is for you. \r\n\r\nEach race allows you to earn points, so you can buy faster and more powerful vehicles. \r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "3cce06f4-3166-498f-a3c9-314e0c0f2f33",
+            "date": "2014-04-11T11:52:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/299c3076-bfc0-4dea-906d-c95169233514\/com.tengriprod.theroadsofapocalypse\/3cce06f4-3166-498f-a3c9-314e0c0f2f33\/sUtaJCvjQm6Dy4SdeRrc_roadsofapocalypse-release-aligned.apk",
+            "size": 108721411,
+            "md5sum": "1e7cb4836efebb67d5b42569b372320b",
+            "publicSize": 461067,
+            "nativeSize": 19952216
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tengriprod.theroadsofapocalypse\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IDOEQ2NkTh2JbZZVFiaN",
+        "video": "https:\/\/vimeo.com\/90245688",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FbozCGARiyFnNEDeum5y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XZEFNHxpREm3NEfecznR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wBZRntEKTRKqzOnFj8lK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bIxOALuAS8mvBkDKwNWc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RFp3ieYRR3SM5FviqDzU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xHoQ5skSP224VJVz1ic7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sfXZ8s8JTwqbnv0bKz9P",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yPN30iCsRZOmYXEzKiHO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q5m2R3R3QA6696ROJlxO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hNxh9FZHSsal271ztFAi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HOL2TGFSuqVYu6yPJMIw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ub2ffSSWapjOAPXHUKQY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dvQDhR7mSVyCGOzHA30y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8bn9EXU1Rh6245U8e6JP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90245688"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FbozCGARiyFnNEDeum5y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FbozCGARiyFnNEDeum5y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XZEFNHxpREm3NEfecznR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XZEFNHxpREm3NEfecznR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wBZRntEKTRKqzOnFj8lK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wBZRntEKTRKqzOnFj8lK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bIxOALuAS8mvBkDKwNWc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bIxOALuAS8mvBkDKwNWc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RFp3ieYRR3SM5FviqDzU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RFp3ieYRR3SM5FviqDzU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xHoQ5skSP224VJVz1ic7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xHoQ5skSP224VJVz1ic7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sfXZ8s8JTwqbnv0bKz9P\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sfXZ8s8JTwqbnv0bKz9P\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yPN30iCsRZOmYXEzKiHO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yPN30iCsRZOmYXEzKiHO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/q5m2R3R3QA6696ROJlxO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/q5m2R3R3QA6696ROJlxO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hNxh9FZHSsal271ztFAi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hNxh9FZHSsal271ztFAi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HOL2TGFSuqVYu6yPJMIw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HOL2TGFSuqVYu6yPJMIw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ub2ffSSWapjOAPXHUKQY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ub2ffSSWapjOAPXHUKQY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dvQDhR7mSVyCGOzHA30y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dvQDhR7mSVyCGOzHA30y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8bn9EXU1Rh6245U8e6JP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8bn9EXU1Rh6245U8e6JP\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SAS LHD",
+        "supportEmail": "apocalypse_roads@outlook.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.tengriprod.com\/roads%20of%20apocalypse\/apocalypse.html",
+    "firstPublishedAt": "2014-04-11T11:52:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by SAS LHD.",
+    "premium": false,
+    "rating": {
+        "likeCount": 20,
+        "average": 2.76,
+        "count": 123
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "the_roads_of_apocalypse",
+            "name": "The roads of apocalypse",
+            "description": "Access to the complete version of the game",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

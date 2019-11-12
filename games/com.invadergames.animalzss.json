@@ -1,0 +1,104 @@
+{
+    "packageName": "com.invadergames.animalzss",
+    "title": "Animalz: Super Squad",
+    "description": "You are now a member of the super secret Animalz Super Squad! pair up your controllers and start smashing aliens!\r\n\r\nAnimalz:SS is a unique adrenaline-driven two player cooperative casual and simple platformer action game where players are encouraged to play together in order to suceed while they also fight for knowing who is the best.\r\n\r\nUnlock new animals and arenas on the way, combine them to get the most out with them, use new powers and matchups with your friends and defend t!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.34",
+            "versionCode": 0,
+            "uuid": "38023257-0bb1-4b42-952e-1ef1770860d8",
+            "date": "2014-04-12T05:07:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f8ccefac-e45d-4b08-8de6-b6132deb85d3\/com.invadergames.animalzss\/38023257-0bb1-4b42-952e-1ef1770860d8\/O6RBlO1Tti1pfYAZ7o8x_Animalz%20Super%20Squad-Default-1.0.34.apk",
+            "size": 6121747,
+            "md5sum": "41221815ae8da1e4768a8a6b69c402da",
+            "publicSize": 605406,
+            "nativeSize": 4010768
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.invadergames.animalzss\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ao5YWDxyQzamGwHFaMPS",
+        "video": "https:\/\/vimeo.com\/90683146",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dy3fYR5NSFuVyTYGg4Fw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m5Ump50iSZe3zcBJHwDS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lV4qHpfZQvKD8ZsGih9Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YdDg31J4R8ST3pvTFTuR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CNWlGSfJTdOEzZszRLCm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w0u9MKXXSMeEYEuvxLIi"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90683146"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dy3fYR5NSFuVyTYGg4Fw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dy3fYR5NSFuVyTYGg4Fw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m5Ump50iSZe3zcBJHwDS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m5Ump50iSZe3zcBJHwDS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lV4qHpfZQvKD8ZsGih9Y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lV4qHpfZQvKD8ZsGih9Y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YdDg31J4R8ST3pvTFTuR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YdDg31J4R8ST3pvTFTuR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CNWlGSfJTdOEzZszRLCm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CNWlGSfJTdOEzZszRLCm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w0u9MKXXSMeEYEuvxLIi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w0u9MKXXSMeEYEuvxLIi\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Manuel Etchegaray",
+        "supportEmail": "contact@invadergames.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/invadergames.net\/animalz\/",
+    "firstPublishedAt": "2014-04-12T05:07:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Manuel Etchegaray.",
+    "premium": false,
+    "rating": {
+        "likeCount": 19,
+        "average": 3.23,
+        "count": 35
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "animalz_unlock",
+            "name": "Animalz full unlock",
+            "description": "This will enable you to keep unlocking the rest of the game!",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

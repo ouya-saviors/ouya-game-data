@@ -1,0 +1,76 @@
+{
+    "packageName": "com.Lindholmproductions.Magball",
+    "title": "MagballOUYA",
+    "description": "Magball our first game is now fully free and will have demos for upcoming games. Magball is full of 30+ levels 3 bosses and some hidden stuff. Its a simple get to the exit of each level game but its not easy see if you can defeat the evilball. It also has one four player multiplayer game full of fun with more to come later this summer!\r\n\r\nthis is our first OUYA game so there may be a few problems with it at first please tell us if you find one by emailing lindholmproduction@hotmail.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "023b492f-a012-4fb8-ac5c-825fca3b8d60",
+            "date": "2014-06-18T23:15:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4db0a7e0-4381-42d4-9465-c569a3eec8e2\/com.Lindholmproductions.Magball\/023b492f-a012-4fb8-ac5c-825fca3b8d60\/cL6T8VGBTFybTEK4ouc5_Magball%20Beta%20OUYA%20version.apk",
+            "size": 37477783,
+            "md5sum": "85a7142577e65f6a02fcf534b283fc77",
+            "publicSize": 36215642,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lindholmproductions.magball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mF1OvN52SLaoS0FRcKTV",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6ektMKLSQyKEAy5rmfTD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/laTNxNSwSM0guxM0TmYw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kAh9xcFgSmWnJaQw1rsi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hYQBooRR4uobhtR2C9pn"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6ektMKLSQyKEAy5rmfTD",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6ektMKLSQyKEAy5rmfTD"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/laTNxNSwSM0guxM0TmYw",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/laTNxNSwSM0guxM0TmYw"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kAh9xcFgSmWnJaQw1rsi",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kAh9xcFgSmWnJaQw1rsi"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hYQBooRR4uobhtR2C9pn",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hYQBooRR4uobhtR2C9pn"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "4db0a7e0-4381-42d4-9465-c569a3eec8e2",
+        "name": "Lindholm Productions",
+        "supportEmail": "lindholmproduction@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Lindholmproductions.com",
+    "firstPublishedAt": "2014-06-11T19:04:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Lindholm Productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.33,
+        "count": 12
+    }
+}

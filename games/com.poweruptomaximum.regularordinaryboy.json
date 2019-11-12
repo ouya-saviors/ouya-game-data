@@ -1,0 +1,71 @@
+{
+    "packageName": "com.poweruptomaximum.regularordinaryboy",
+    "title": "Regular Ordinary Boy",
+    "description": "Regular Ordinary Boy is a retro action-adventure sidescroller.\r\n\r\n* Hit stuff with swords \r\n* Kill monsters, collect gold and other loot \r\n* Purchase new swords and armor at shops on your journey \r\n* Defeat epic bosses \r\n* Find hidden treasures \r\n\r\nCan you defeat the evil wizard who burned your house down? \r\n\r\n* 10 unique monsters, each with 5 levels of difficulty \r\n* 4 bosses to defeat \r\n* 7 unique levels to explore \r\n* Action based side scrolling gameplay, kill all those monsters! \r\n\r\nRetro Style \r\n\r\n* Retro graphics \r\n* Old school sound effects \r\n* Retro sounding chiptune music \r\n\r\n\"Pretty goooood\" \r\n\r\n\"Reminds me of my old school consoles!\" \r\n\r\n\"I played it, and I liked it!\"",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 0,
+            "uuid": "fa79fc79-3087-43cf-869e-a77aeed3bcdf",
+            "date": "2013-03-28T22:06:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6758018e-e14d-41dc-a1a2-5bf46226a512\/com.poweruptomaximum.regularordinaryboy\/fa79fc79-3087-43cf-869e-a77aeed3bcdf\/esuqf9fMSlGA3JjYjhJt_regular_ordinary_boy.apk",
+            "size": 36846234,
+            "md5sum": "5b45434dbc327349d88d9b93d3a8c70f",
+            "publicSize": 81562,
+            "nativeSize": 141968
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.poweruptomaximum.regularordinaryboy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NkZnWPFMTVqYPRaUfqSn",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FcfZhxr5TaqXdSdJ557Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PIGmjCMaQWu3weuHMoqd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WW40fK2xTMmRdLpENogG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FcfZhxr5TaqXdSdJ557Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FcfZhxr5TaqXdSdJ557Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PIGmjCMaQWu3weuHMoqd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PIGmjCMaQWu3weuHMoqd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WW40fK2xTMmRdLpENogG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WW40fK2xTMmRdLpENogG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Matt Dalgety",
+        "supportEmail": "poweruptomaximum@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.facebook.com\/pages\/Powerup-to-Maximum\/136060019906301",
+    "firstPublishedAt": "2013-03-28T22:06:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Matt Dalgety.",
+    "premium": false,
+    "rating": {
+        "likeCount": 119,
+        "average": 2.95,
+        "count": 81
+    }
+}

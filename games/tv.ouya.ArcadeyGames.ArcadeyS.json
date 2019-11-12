@@ -1,0 +1,102 @@
+{
+    "packageName": "tv.ouya.ArcadeyGames.ArcadeyS",
+    "title": "Arcadey Shooter: Alpha",
+    "description": "Note: This is just the alpha, there is bound to be errors and if you find any, report it to lJoshua2009@live.com\n\nThis update was released early because I felt as if I haven't updated the game in a long time. I'll add everything I was meant to add in either version 0.1, or a small patch\n\nThe car in the main menu after you finish a match is only for show. I'm not planning on releasing cars and jets soon, it probably won't come in version 0.1\n\n\"Titanfall getting BLOWN THE F*** OUT.\ufeff\" - RoboJules\n\n\"I think Rocco's going to regret peeing on his Ouya now.\ufeff\" - ClassyJ Cassidy\n\nWelcome to Arcadey Shooter, a sci-fi FPS exclusive to the OUYA. There is high amounts of maneuverability in the game, allowing you to grenade jump and even use a grappling hook to get around the map. There are multiple game modes, for example, Deathmatch, Team Deathmatch, Lucky Shots (limited magazine size, increased damage), and Robot Onslaught, and some of these modes allowing you to start at a specific level, to change the pacing of the game. More features coming soon\n\n0.0.8:\n-The ability to change the settings of ANY game mode\n-Grappling hook has been updated\n-Grappling hook can now hook onto enemies\/allies\n-Interaction when attaching a grappling hook onto an inanimate object has changed, you no longer just go to it linearly\n-Reduced size of data sent whilst networking in an attempt to make it smoother\n-New game mode released (which may not quite be ready yet)\n-Ability to do a side rolly polly\n-Boosting (or you can call it sprinting) has been removed from the game\n-In game descriptions for some main menu options\n-Adjustments to the speed increase, and animation speed gained per level\n-Pistol's damage increased, fire rate increased, spread reduced and recoil reduced. Range increased too\n-Grenade's health reduced, and adjustments to the force applied when a grenade blows up\n-Adjustment to friends list add a friend (it might work now)\n-More than one shield colour per bar of shield, instead of having the shield deplete slower if the shield goes larger than 100, 200 etc.\nAnd many more",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "0.0.8",
+            "versionCode": 1,
+            "uuid": "82bc3fab-f57a-426d-b9da-3630fa07a85c",
+            "date": "2016-05-04T03:59:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/26c2dd31-af02-4ef5-ad75-b8c82e62413a\/tv.ouya.ArcadeyGames.ArcadeyS\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/nIjbEiDNRx6OzpBu2sHd_ArcadeyS.apk",
+            "size": 195855036,
+            "md5sum": "402287937d817c7857ab18c764e3da66",
+            "publicSize": 382232,
+            "nativeSize": 27432396
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.arcadeygames.arcadeys\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nVp5DK9TTqS9mIYwYN6X",
+        "video": "https:\/\/vimeo.com\/156173897",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h98COrL3ThOpNyMk9QHI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b1TsjnrQPOC8oM1bNGcs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zvtunvZEQCOxACRVbL5X",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/63zj3EZKS76OahqpDemm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cuCWwhqRCeCdArfK7yrb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RzJyvuAkRmGRaWr9GI2m"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/156173897"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/156120621"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/115349996"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/455kkb_ouya-screenshot20160501-3-chhu56.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/thumbnails\/thumbnail20160501-3-ptuhtu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/ljvydo_ouya-screenshot20160501-3-9gbdee.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/thumbnails\/thumbnail20160501-3-8sjse5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/2uf10g_ouya-screenshot20160501-3-1urwdxe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/thumbnails\/thumbnail20160501-3-1cfzi7x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/k7o5vb_ouya-screenshot20160501-3-al3d42.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/thumbnails\/thumbnail20160501-3-3aeuke.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/4dqev_ouya-screenshot20160501-3-12znfld.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/thumbnails\/thumbnail20160501-3-1qoyirg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/250qqo_ouya-screenshot20160501-3-t2yi5y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/82bc3fab-f57a-426d-b9da-3630fa07a85c\/thumbnails\/thumbnail20160501-3-1yjuvix.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "26c2dd31-af02-4ef5-ad75-b8c82e62413a",
+        "name": "Joshua Lunsi",
+        "supportEmail": "lJoshua2009@live.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/joshua-lunsi-games.webs.com\/",
+    "firstPublishedAt": "2014-10-30T13:44:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2016 by Joshua Lunsi.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.48,
+        "count": 79
+    }
+}

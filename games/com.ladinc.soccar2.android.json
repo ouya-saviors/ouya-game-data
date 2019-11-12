@@ -1,0 +1,75 @@
+{
+    "packageName": "com.ladinc.soccar2.android",
+    "title": "Soc-Car",
+    "description": "Soccer + Cars = Soc-Car!\r\n\r\nSoc-Car is a, completely free, local multi-player game where you use cars to play soccer. Try the new \"Soc-Car Cup\" mode, take a team all the way to the final!\r\n\r\nV2.4\r\nUpdated Side select screen\r\nDe-clutter of the options screen\r\nReduction in size of app\r\nFaster initial load time\r\n\r\nV2:\r\nUpdated Graphics (1080p)\r\nBots (AI) cars\r\nAll New Menus\r\n35 Countries to pick, all with unique cars\r\n1-8 Players supported\r\n\r\nSoc-Car supports most common types of controllers.\r\n\r\nPlease get in touch if you have any suggestions or if you experience any issues",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "2.4",
+            "versionCode": 0,
+            "uuid": "68c6f37f-ab0a-488b-b985-93ff49212116",
+            "date": "2014-06-24T14:54:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b8043097-6349-4e02-8960-241c031efef3\/com.ladinc.soccar2.android\/68c6f37f-ab0a-488b-b985-93ff49212116\/dkZS8zeHRl6jI7iTFMkv_soccar-android-aligned.apk",
+            "size": 12014032,
+            "md5sum": "f9326c2cbc6c757a873e84c69bbe4856",
+            "publicSize": 515658,
+            "nativeSize": 723548
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ladinc.soccar2.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OSuEsB3RIPlVBn3bNpZw",
+        "video": "https:\/\/vimeo.com\/98886388",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q81GeVCASdqr5zy6aMKw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MDLyTPJbRSuLCXHbu702",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nupCTWoPSP2Gwd1K67sP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/98886388"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/68c6f37f-ab0a-488b-b985-93ff49212116\/zxzkel_ouya-screenshot20140623-2-ujuwrg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/68c6f37f-ab0a-488b-b985-93ff49212116\/thumbnails\/thumbnail20140623-2-1y9z3tr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/68c6f37f-ab0a-488b-b985-93ff49212116\/bx5g7b_ouya-screenshot20140623-2-12ht19s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/68c6f37f-ab0a-488b-b985-93ff49212116\/thumbnails\/thumbnail20140623-2-19vvtb9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/68c6f37f-ab0a-488b-b985-93ff49212116\/o99xj3_ouya-screenshot20140623-2-16xorng.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/68c6f37f-ab0a-488b-b985-93ff49212116\/thumbnails\/thumbnail20140623-2-v9ixe4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lad Inc",
+        "supportEmail": "bcg.ladinc@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/witnessmenow.blogspot.ie\/",
+    "firstPublishedAt": "2014-05-13T17:59:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Lad Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.33,
+        "count": 268
+    }
+}

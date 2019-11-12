@@ -1,0 +1,81 @@
+{
+    "packageName": "com.johnpdoran.culina1",
+    "title": "Culina: The Spirit of Cooking",
+    "description": "Culina is a series of games which contain elements of both visual novels and strategy games as you create your very own restaurant.\r\nThe prologue, The Spirit of Cooking, is a short visual novel where you take charge of a male character who is attending culinary school with his friends where he hopes to one day open a restaurant of his very own.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "0.91.4",
+            "versionCode": 0,
+            "uuid": "2ce52905-3836-44b9-bd6b-eb3fb5a909da",
+            "date": "2014-08-19T16:08:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f7f80a09-7b59-4a36-9bcf-9a7f6c566f09\/com.johnpdoran.culina1\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/Cm3gCSGdRK6Ax6STU1ot_CulinaTheSpiritofCooking-0.91.4-release.apk",
+            "size": 85694887,
+            "md5sum": "9f224e90379967caa99dfc731ed99c9f",
+            "publicSize": 820799,
+            "nativeSize": 3450432
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.johnpdoran.culina1\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NFxN8LxIT5SQBze6dZwI",
+        "video": "https:\/\/vimeo.com\/102619842",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7IJzDlSWQzaGZoQ7IcYo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PKPpVYGtQRWUy1RK24Tw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rbdTO8OoSS3e9nZbaaeg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S8AQchaS9GqdWDSDvOPg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102619842"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/hjrfh1_ouya-screenshot20140815-2-1gnrjbb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/thumbnails\/thumbnail20140815-2-19ej608.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/zdx60o_ouya-screenshot20140815-2-ycu4tp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/thumbnails\/thumbnail20140815-2-hw5ytg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/8fm3qn_ouya-screenshot20140815-2-1m7a2ja.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/thumbnails\/thumbnail20140815-2-10kmmpm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/7dci08_ouya-screenshot20140815-2-1mghnhn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2ce52905-3836-44b9-bd6b-eb3fb5a909da\/thumbnails\/thumbnail20140815-2-lx4kwx.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "John Doran",
+        "supportEmail": "john@johnpdoran.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/culinagame.com",
+    "firstPublishedAt": "2014-08-07T00:57:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by John Doran.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.67,
+        "count": 43
+    }
+}

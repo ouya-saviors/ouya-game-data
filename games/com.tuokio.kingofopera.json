@@ -1,0 +1,77 @@
+{
+    "packageName": "com.tuokio.kingofopera",
+    "title": "King of Opera - Multiplayer Party Game!",
+    "description": "King of Opera is a party game set in opera featuring wacky cast and game modes! \r\n\r\nGuaranteed fun with friends and family!\r\n\r\nAre you ready to party?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.12",
+            "versionCode": 0,
+            "uuid": "d28fbe0e-6d5d-4be9-89cc-ccfee8644b10",
+            "date": "2013-09-25T07:15:00Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/461b7555-8437-4207-86b0-616b511d48bc\/com.tuokio.kingofopera\/d28fbe0e-6d5d-4be9-89cc-ccfee8644b10\/QYkCyaEGSYulCaWnnIKR_KingOfOpera.apk",
+            "size": 41533525,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tuokio.kingofopera\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tg20Xa5uR0WbS698aHNm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5U3wD7d8Tpq1X1rHj9PB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xRSHD6jbRkecMpjetiJf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YpotheDZRiW5e2XuAAQu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Mv567uz7Steypm8GPBgk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5U3wD7d8Tpq1X1rHj9PB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5U3wD7d8Tpq1X1rHj9PB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xRSHD6jbRkecMpjetiJf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xRSHD6jbRkecMpjetiJf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YpotheDZRiW5e2XuAAQu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YpotheDZRiW5e2XuAAQu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Mv567uz7Steypm8GPBgk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Mv567uz7Steypm8GPBgk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tuokio",
+        "supportEmail": "info@tuokio.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tuokio.com",
+    "firstPublishedAt": "2013-09-05T10:59:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Tuokio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 81,
+        "average": 3.57,
+        "count": 106
+    }
+}

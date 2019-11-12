@@ -1,0 +1,83 @@
+{
+    "packageName": "com.PocketCake.LavaCatBundle",
+    "title": "Lava Cat Minigame Trilogy",
+    "description": "This bundle includes three minigames:\r\n\r\nLavaCat Run: You'll need split-second decision making - and many leaps of faith - if you want to survive this advanced, neverending level of LavaCat.\r\n\r\nLavaCat Jump: You'll guide Lucky up an endless series of rock platforms. Be prepared to jump for your life!\r\n\r\nLavaCat Fly: You'll pinball Lucky upward off cat treats by tilting your phone. Can you achieve a height worth purring about?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "7281f137-616c-4341-936a-7152b1dd3eb5",
+            "date": "2013-10-01T22:08:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8ccff94e-6ac3-4f99-9d29-2f21e8d881f9\/com.PocketCake.LavaCatBundle\/7281f137-616c-4341-936a-7152b1dd3eb5\/V8mtIgNXT3iLAhAaa7Ma_LavaCatBundleOuya.apk",
+            "size": 35312530,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pocketcake.lavacatbundle\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u8lOEY2fSsWVKfLJzvoy",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CrSWJzr7Souq785DwIFB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0a73RSxRZeck27BZpqmC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L3ikD5FqS22QxqkDUG8C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sLo11pISbmuKmJYsxbkA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VOOQRwNSTGHXk1jwNTnW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CrSWJzr7Souq785DwIFB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CrSWJzr7Souq785DwIFB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0a73RSxRZeck27BZpqmC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0a73RSxRZeck27BZpqmC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L3ikD5FqS22QxqkDUG8C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L3ikD5FqS22QxqkDUG8C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sLo11pISbmuKmJYsxbkA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sLo11pISbmuKmJYsxbkA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VOOQRwNSTGHXk1jwNTnW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VOOQRwNSTGHXk1jwNTnW\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PocketCake",
+        "supportEmail": "pocketcake@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.pocketcake.com",
+    "firstPublishedAt": "2013-09-26T16:30:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by PocketCake.",
+    "premium": false,
+    "rating": {
+        "likeCount": 10,
+        "average": 2,
+        "count": 11
+    }
+}

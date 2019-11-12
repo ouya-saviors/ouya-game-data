@@ -1,0 +1,126 @@
+{
+    "packageName": "com.ethanonengine.ouya.magicrampage",
+    "title": "Magic Rampage",
+    "description": "Platformer that combines the action-RPG genre with the hack 'n' slash gameplay experience. Magic Rampage features character customization, dozens of weapons to choose, from knives, swords, maces, hammers and axes to magical staves. Each dungeon introduces the player to new obstacles, enemies and secret areas to explore. 2P Versus Mode, Bonus levels and Boss fights are also included.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Adventure",
+        "Fight!",
+        "Multiplayer",
+        "Platformer",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.9.8",
+            "versionCode": 0,
+            "uuid": "2afe8b7f-7e02-4039-9115-487fca5c3d81",
+            "date": "2015-10-26T19:22:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/006ffa4f-9e8e-4952-8729-9cc1e7e75861\/com.ethanonengine.ouya.magicrampage\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/h8MF9zRyTXef1myFr4RS_MagicRampageOuya-full-aligned-1.9.8.apk",
+            "size": 121075889,
+            "md5sum": "8e4b337ee3e33821b40e8b62a96f33b9",
+            "publicSize": 1152756,
+            "nativeSize": 3976676
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ethanonengine.ouya.magicrampage\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PAKC7XGFSzS7QnXdab97",
+        "video": "http:\/\/vimeo.com\/108618699",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sVq0eN5OR9KjlX0E3n8p",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DIA07ewpRUGERgaxLTVI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EEY94f3Rw2lxkcqJBPV1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/feYP5E0iQlCrDFfqQcYt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3nMFHvc9Sy6H1nm5dcZe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OQ4O3vJkQDmsrJZA8g2b",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ryOJuRxdQqur2QvmOGcu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZeV4hgySk6XuLCvVkIZm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F9GOWWjTT2CLOwhUmzNp"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/108618699"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/4z177t_ouya-screenshot20151022-3-120valh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-13akhax.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/5txxeu_ouya-screenshot20151022-3-1wl9n48.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-1b8n7j2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/ecuhi6_ouya-screenshot20151022-3-1rs4vfq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-ntd9i4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/bmih68_ouya-screenshot20151022-3-eqespn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-1atlvyl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/jvbilz_ouya-screenshot20151022-3-s0pd1p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-1evt8tf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/7xcif2_ouya-screenshot20151022-3-uuxj9a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-18meyrm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/1z5xgq_ouya-screenshot20151022-3-l0dzf9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-1toy9na.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/lhn6n0_ouya-screenshot20151022-3-3cxzlh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-8v21a2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/hjdyla_ouya-screenshot20151022-3-1g45gcx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2afe8b7f-7e02-4039-9115-487fca5c3d81\/thumbnails\/thumbnail20151022-3-1m97tfs.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "006ffa4f-9e8e-4952-8729-9cc1e7e75861",
+        "name": "Asantee Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/asanteegames.com",
+    "firstPublishedAt": "2014-10-09T18:29:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Asantee Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.27,
+        "count": 705
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "mr_full",
+            "name": "Magic Rampage Full Upgrade",
+            "description": "Grants full access to all Dungeons, Survival scenarios and all features available in the game.",
+            "localPrice": 6.99,
+            "originalPrice": 6.99,
+            "currency": "EUR"
+        }
+    ]
+}

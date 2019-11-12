@@ -1,0 +1,81 @@
+{
+    "packageName": "air.com.thepodge.zombietoast",
+    "title": "A Zombie Stole My Toaster",
+    "description": "Why aren't these zombies interested in my brains? What - get off my stuff! My toaster... My Cactus! Noooo! Possibly the craziest, weirdest, zombie game you ever played.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "f82f5090-2a8c-44a9-b597-af6dc7173dae",
+            "date": "2013-07-15T14:37:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3741e535-247d-41d6-903c-5e5be79373f9\/air.com.thepodge.zombietoast\/f82f5090-2a8c-44a9-b597-af6dc7173dae\/tLq0YgbS5STvAoYLUy2Q_zombietoast.apk",
+            "size": 14928338,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.thepodge.zombietoast\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H8HJgzffTQqInDxJTrkA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dcQOIkd5RLS6SVyIYQbv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ndTXRQqqR9K1EzyeqmLh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8X6ZOdRp2eECcJPqDN3Q"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dcQOIkd5RLS6SVyIYQbv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dcQOIkd5RLS6SVyIYQbv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ndTXRQqqR9K1EzyeqmLh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ndTXRQqqR9K1EzyeqmLh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8X6ZOdRp2eECcJPqDN3Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8X6ZOdRp2eECcJPqDN3Q\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "thePodge",
+        "supportEmail": "enquiries@thepodge.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.thepodge.co.uk",
+    "firstPublishedAt": "2013-07-15T14:37:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by thePodge.",
+    "premium": false,
+    "rating": {
+        "likeCount": 71,
+        "average": 3.38,
+        "count": 88
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlockzombietoast",
+            "name": "Unlock A Zombie Stole My Toaster",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

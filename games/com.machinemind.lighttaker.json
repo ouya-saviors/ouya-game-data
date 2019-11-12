@@ -1,0 +1,81 @@
+{
+    "packageName": "com.machinemind.lighttaker",
+    "title": "Lighttaker",
+    "description": "Dire straits are upon the lands of dimmur vior. The dark wizard Galdramadur is leeching his strength from darkness. He has summoned his servants to take the light from the people and turn the world into darkness. In a final act of evilness he caused an eternal eclipse.\r\n\r\nYou are the last of the orden of the lios varnarmur, the defenders of the light. And you are the last warriors standing between the dark wizard and everlasting darkness. These dark times light crystals are the only source of light. Defend the last remaining crystals against the hordes of incoming demons.\r\n\r\nCredits:\r\nThanks to the community for sharing some sounds and graphics.\r\nSpecial thanks for:\r\nOriginal blood sprites by Pow Studios\r\nSpell sounds and spell impact sounds by bart at opengameart.org\r\nBlood sounds and warrior sword swing sound by artisticdude at opengameart.org\r\nDying sounds by  Mike Koenig at soundbible.com\r\nCoin sound by Secretlondon at opengameart.org",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "77d1c743-2701-4262-852e-bb2a78e6db0b",
+            "date": "2014-08-18T22:18:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/30773986-b3a1-4ac4-9bc2-a9150e8e61a9\/com.machinemind.lighttaker\/77d1c743-2701-4262-852e-bb2a78e6db0b\/YB4WyCbKQ1G2UvvWIUsw_LightTaker.apk",
+            "size": 6600055,
+            "md5sum": "2f7029573a968e0efa5adc80af12bee7",
+            "publicSize": 3543439,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BJND1gQdTNKMDRVBpkLc",
+        "video": "https:\/\/vimeo.com\/103511610",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WBTXdd3VRsCofCLgtnhw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gik4hxUpQHOEd64nKaDM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N5agsgaoT4aU3Ji1nA1D",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ByTYJHz4TLa7EIyXREsQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/103511610"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/csi291_ouya-screenshot20140816-2-5pngge.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-8uctwf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/dfenew_ouya-screenshot20140816-2-ya530h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-1wpu0q3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/u5uu11_ouya-screenshot20140816-2-iwsk32.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-18tn75y.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/hngrbe_ouya-screenshot20140816-2-1433cl6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-1dh60p5.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Machine Mind",
+        "supportEmail": "stefan.daenzer@machine-mind.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "17+",
+    "website": "www.machine-mind.com",
+    "firstPublishedAt": "2014-08-18T22:18:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Machine Mind.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.36,
+        "count": 42
+    }
+}

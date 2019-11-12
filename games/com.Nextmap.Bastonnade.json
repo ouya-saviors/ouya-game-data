@@ -1,0 +1,82 @@
+{
+    "packageName": "com.Nextmap.Bastonnade",
+    "title": "bastonnade",
+    "description": "FREE 4 players Classic Beat'em all !\r\nCome with your friends to our virtual theater and see the play everybody is talking about ! \r\nIn a theater-themed world, you are the actors, playing the role of the heroes, chosen to restore peace in the cursed world of Bastonnade.\r\nWith its non-linear level selection, and mission system, Bastonnade offers an hour long game with high-replayability, ideal for an evening with your friends !\r\nPlus, the experience system allows you to choose the way you want to play : powerful, fast, tank...\r\nCome and fight the numerous enemies in many different worlds !\r\nLegend has that the chosen hero will be able to hold both the sword of light and the sword of darkness, but are you foolish enough to risk your life doing so ?\r\n\r\nAnd, as a reward for reading the whole description, guess what ? THE WHOLE GAME IS FREE !No transaction whatsoever !",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "7946805a-4d4d-408a-812d-55aca74c6693",
+            "date": "2013-07-25T17:32:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/67ef4d5d-a673-47ee-a995-534a91b1fa8c\/com.Nextmap.Bastonnade\/7946805a-4d4d-408a-812d-55aca74c6693\/7dsobEqS12DwVxPKkSmM_Bastonnade.apk",
+            "size": 323103963,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nextmap.bastonnade\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EaoSbDcmSdWAlGAW3yPP",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RGGLOEeyTIqSgMZoQeeh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CGuJMoUdTnKy4PbpbMBF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ah3yptVUSH0qSCWeSu64",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QoTr7ii6SFKJo6kNdfmR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NIOdC2R4SRQyD2n1AIgQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RGGLOEeyTIqSgMZoQeeh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RGGLOEeyTIqSgMZoQeeh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CGuJMoUdTnKy4PbpbMBF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CGuJMoUdTnKy4PbpbMBF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ah3yptVUSH0qSCWeSu64\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ah3yptVUSH0qSCWeSu64\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QoTr7ii6SFKJo6kNdfmR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QoTr7ii6SFKJo6kNdfmR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NIOdC2R4SRQyD2n1AIgQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NIOdC2R4SRQyD2n1AIgQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nextmap Studio",
+        "supportEmail": "nextmapstudio@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/vincentpaquin.blogspot.fr\/",
+    "firstPublishedAt": "2013-06-27T17:46:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Nextmap Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 97,
+        "average": 2.66,
+        "count": 127
+    }
+}

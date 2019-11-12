@@ -1,0 +1,82 @@
+{
+    "packageName": "com.raganj.hexminer",
+    "title": "Hexminers",
+    "description": "Quick reaction flying game where you explore the depths of a planet filled with rich energy sources. Mine its resources and reach its core to get the biggest haul!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "d36d3452-5555-4eea-945a-f99b88cd560a",
+            "date": "2013-09-14T10:10:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8d49d248-126d-4297-9bde-2790ac112ccc\/com.raganj.hexminer\/d36d3452-5555-4eea-945a-f99b88cd560a\/7vKtZbnXSGClNJcMMGIZ_HexMiner.apk",
+            "size": 7935532,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.hexminer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bK012PjiT36MKKloq4Ee",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i5bhPgdsSfSP7vaxpPEu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NrEnp91jQYuzeInLd75a",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hL3reBB9T8ivJeRTTZ3N",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QoXJhEHQFuhtI3fBjhUW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1XsU28RCukJK1IuQImUw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i5bhPgdsSfSP7vaxpPEu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i5bhPgdsSfSP7vaxpPEu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NrEnp91jQYuzeInLd75a\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NrEnp91jQYuzeInLd75a\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hL3reBB9T8ivJeRTTZ3N\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hL3reBB9T8ivJeRTTZ3N\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QoXJhEHQFuhtI3fBjhUW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QoXJhEHQFuhtI3fBjhUW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1XsU28RCukJK1IuQImUw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1XsU28RCukJK1IuQImUw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "D's Games",
+        "supportEmail": "support@dragansgames.nl",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/dragansgames.nl\/",
+    "firstPublishedAt": "2013-09-09T09:11:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by D's Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 2.57,
+        "count": 21
+    }
+}

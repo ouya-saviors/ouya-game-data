@@ -1,0 +1,71 @@
+{
+    "packageName": "DeadlyDungeons.App",
+    "title": "Deadly Dungeons",
+    "description": "Deadly Dungeons is a first person RPG.  This RPG is influenced by classic dungeon crawler games such as Dungeon Hack, Eye of the Beholder, and Nethack.\r\n\r\nAfter being separated from your adventuring party, you must navigate a deadly dungeon, and fight your way through hordes of creatures in a desperate attempt to escape alive.  What first begins as a simple escape to the surface turns into a fight for survival, a confrontation with an ancient evil, and a descent to hell itself.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "2.2.2",
+            "versionCode": 0,
+            "uuid": "32e011f7-6023-4885-9538-1fe048fae8a3",
+            "date": "2013-08-05T23:12:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c07ccc32-30c1-449f-b23e-172cd7fd1ee4\/DeadlyDungeons.App\/32e011f7-6023-4885-9538-1fe048fae8a3\/x5foZfjSdiCaWf8efHta_DeadlyDungeonsOUYA222.apk",
+            "size": 43114108,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/deadlydungeons.app\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vCaVcnUQ2i44BBtKs5Uw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DUyprDqtTW2eRJw5peVy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cFqd7FQkSRmbkoonSWu0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/00H0bUnXTm2qrJakxxzQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DUyprDqtTW2eRJw5peVy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DUyprDqtTW2eRJw5peVy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cFqd7FQkSRmbkoonSWu0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cFqd7FQkSRmbkoonSWu0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/00H0bUnXTm2qrJakxxzQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/00H0bUnXTm2qrJakxxzQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "CodeZombie Games",
+        "supportEmail": "contact@deadlydungeons.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "deadlydungeons.com",
+    "firstPublishedAt": "2013-07-31T11:01:51Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by CodeZombie Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 198,
+        "average": 2.93,
+        "count": 191
+    }
+}

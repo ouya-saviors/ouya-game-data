@@ -1,0 +1,103 @@
+{
+    "packageName": "com.hightalestudios.acornassault",
+    "title": "Acorn Assault",
+    "description": "The squirrel revolution is here in ACORN ASSAULT! The Rebels are revolting against the Monarchy for control over all the acorns in the land!\r\n\r\n* A Turn-Based, match-3 combat system unlike anything you have played!\r\n* Play online, locally or against the computer.\r\n* Earn acorns to buy power-ups and crush your foes!   \r\n* Play against the computer, or against another player locally!\r\n* ...And did we mention that the characters are SQUIRRELS? How freaking adorable is that?!?!?!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.1.0",
+            "versionCode": 0,
+            "uuid": "ab493876-78d2-4842-9703-52961cb6fc5f",
+            "date": "2014-04-01T23:09:11Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/edd0d27a-f4dc-4496-ab48-1dafb4bbe66d\/com.hightalestudios.acornassault\/e9f138a2-2a6f-4a58-bc0f-8de044ca111d\/v8ElQZnTbecwr1q9JPNQ_AA_MP.apk",
+            "size": 33785049,
+            "md5sum": "7895e85ddf0791f988031d39f766494d",
+            "publicSize": 1202031,
+            "nativeSize": 14671620
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hightalestudios.acornassault\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pW4XDkHRCGhzUdj8Fr6w",
+        "video": "https:\/\/vimeo.com\/86679236",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uINFPdYTfSnYoFXQjCuC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aK92Rjn4TK1gmdnyqVQ6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NIo2JcWBTbSRnhSf60le",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Bkrf4Uk2TfyQGn5SyrB9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bBCwbEFsQihRFn9Z5sdA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SdVj4y1gShCZNPPtO0JR"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/86679236"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uINFPdYTfSnYoFXQjCuC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uINFPdYTfSnYoFXQjCuC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aK92Rjn4TK1gmdnyqVQ6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aK92Rjn4TK1gmdnyqVQ6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NIo2JcWBTbSRnhSf60le\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NIo2JcWBTbSRnhSf60le\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Bkrf4Uk2TfyQGn5SyrB9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Bkrf4Uk2TfyQGn5SyrB9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bBCwbEFsQihRFn9Z5sdA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bBCwbEFsQihRFn9Z5sdA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SdVj4y1gShCZNPPtO0JR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SdVj4y1gShCZNPPtO0JR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "High Tale Studios",
+        "supportEmail": "media@hightalestudios.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.hightalestudios.com",
+    "firstPublishedAt": "2014-02-25T16:41:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by High Tale Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 111,
+        "average": 3.89,
+        "count": 315
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "001",
+            "name": "Acorn Assault",
+            "description": "You are about unlock the full version of Acorn Assault.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

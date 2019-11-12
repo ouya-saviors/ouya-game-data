@@ -1,0 +1,80 @@
+{
+    "packageName": "com.gamesf.crystal",
+    "title": "Crystaloid",
+    "description": "Crysraloid is a breakout game.Clone of the famous  Arkanoid.\r\nFeatures:\r\n-Over 40 Levels\r\n-18 Power bonus\r\n-Continue support\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a3e913f8-6fa6-44f0-b659-b6e88a927019",
+            "date": "2014-03-20T22:51:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesf.crystal\/a3e913f8-6fa6-44f0-b659-b6e88a927019\/1wCA292IQ5GlQGan2DWA_Crystalpro9.apk",
+            "size": 9258639,
+            "md5sum": "6e5f5fabb0c2c0ab129f1bd19a71dab5",
+            "publicSize": 9350875,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesf.crystal\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KGqzrOUrSDy363QMO25J",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vzbrca49Skw6tBG9D8hh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yyfeNKEoRduJ63vtER4H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j1fbfPkTAipu1bZpYlfg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Vzbrca49Skw6tBG9D8hh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Vzbrca49Skw6tBG9D8hh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yyfeNKEoRduJ63vtER4H\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yyfeNKEoRduJ63vtER4H\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/j1fbfPkTAipu1bZpYlfg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/j1fbfPkTAipu1bZpYlfg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "musti74@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "mremakes.free.fr",
+    "firstPublishedAt": "2014-03-20T22:51:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 3.06,
+        "count": 51
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "crystal",
+            "name": "Crystaloid",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

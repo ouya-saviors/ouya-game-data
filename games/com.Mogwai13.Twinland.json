@@ -1,0 +1,93 @@
+{
+    "packageName": "com.Mogwai13.Twinland",
+    "title": "Twinland",
+    "description": "Twinland is an exploration-Platformer RPG game originally written by Sergey Obolonkov and ported to OUYA by Last Dimension.\r\n\r\nA middle-aged office worker dozes off at his desk, and suddenly finds himself in the middle of a fantasy world torn apart by the struggle of two immortal brother kings.\r\nIt is now up to you to end this conflict in one of many possible ways.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.32",
+            "versionCode": 0,
+            "uuid": "e3480e63-f4ed-4dbe-8c8a-b21435d3fea4",
+            "date": "2014-01-16T19:27:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/dc1e924e-5aa1-405b-beb5-de435ae7e88f\/com.Mogwai13.Twinland\/e3480e63-f4ed-4dbe-8c8a-b21435d3fea4\/8AcdbJ9STPhZ8vShBQgw_Twinland_OUYA.apk",
+            "size": 41091182,
+            "md5sum": "fc46ef945444f684ccdd6196d9bd7b59",
+            "publicSize": 28486994,
+            "nativeSize": 7148756
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mogwai13.twinland\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/60cBZZzWQDqG03Gh0eyY",
+        "video": "https:\/\/vimeo.com\/84229116",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wrDl66lBSmq5bcjQXwyf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wWaazytEQXCtcGe2vGak",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ntGCLxV0RUSnqfMLUsCL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GQmARN6XQsuxI8aPuqYQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GbEmG8dTNeV3dAMmsS7g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/87E6FyzBQa2DFiYw6sZw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84229116"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wrDl66lBSmq5bcjQXwyf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wrDl66lBSmq5bcjQXwyf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wWaazytEQXCtcGe2vGak\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wWaazytEQXCtcGe2vGak\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ntGCLxV0RUSnqfMLUsCL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ntGCLxV0RUSnqfMLUsCL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GQmARN6XQsuxI8aPuqYQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GQmARN6XQsuxI8aPuqYQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GbEmG8dTNeV3dAMmsS7g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GbEmG8dTNeV3dAMmsS7g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/87E6FyzBQa2DFiYw6sZw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/87E6FyzBQa2DFiYw6sZw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Andrew Bado",
+        "supportEmail": "support@lastdimension.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/darkfalzx.blogspot.com\/",
+    "firstPublishedAt": "2014-01-16T19:27:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Andrew Bado.",
+    "premium": false,
+    "rating": {
+        "likeCount": 27,
+        "average": 3.19,
+        "count": 59
+    }
+}

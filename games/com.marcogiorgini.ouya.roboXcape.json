@@ -1,0 +1,70 @@
+{
+    "packageName": "com.marcogiorgini.ouya.roboXcape",
+    "title": "roboXcape",
+    "description": "A new exciting 3D arcade game now available for your OUYA! \r\nFind your way out from each level, looking for keys, using elevators and teleports, avoiding guards, robots, spiders and lethal security systems, in order to get to the exit portal. Beware: time matters! Levels are flooding so you won\u2019t have too much time to spare. But remember, if you really want to master this game, no bonus should be left behind. \r\nThree worlds, with eight stages each, will challenge your skills, providing a fast-paced arcade\/puzzle game, meant to entertain your taste for logic and action.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c1143ceb-d2e8-4d22-bc3f-df73cd1fb48b",
+            "date": "2013-06-10T14:27:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/911935cc-0f3f-4d3a-8a04-f34ab6446aec\/com.marcogiorgini.ouya.roboXcape\/c1143ceb-d2e8-4d22-bc3f-df73cd1fb48b\/dv4HsyXgT3aAEijKuNXA_roboXcape-OUYA.apk",
+            "size": 10554035,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboxcape\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VdRystfTQBeRXEdKxEZU",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ljLAY8j7RdCgQVifBMHD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eCtqVbfKRVGvPFyhGBZ9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P0U0wV2vTdicfFBOPg5d"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ljLAY8j7RdCgQVifBMHD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ljLAY8j7RdCgQVifBMHD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eCtqVbfKRVGvPFyhGBZ9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eCtqVbfKRVGvPFyhGBZ9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P0U0wV2vTdicfFBOPg5d\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P0U0wV2vTdicfFBOPg5d\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Marco Giorgini Production",
+        "supportEmail": "ouya.support@marcogiorgini.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/marcogiorgini.com\/apps\/index.php\/roboxcape\/",
+    "firstPublishedAt": "2013-06-10T14:27:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Marco Giorgini Production.",
+    "premium": false,
+    "rating": {
+        "likeCount": 52,
+        "average": 3.21,
+        "count": 28
+    }
+}

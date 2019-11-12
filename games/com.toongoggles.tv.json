@@ -1,0 +1,84 @@
+{
+    "packageName": "com.toongoggles.tv",
+    "title": "Toon Goggles",
+    "description": "Install Toon Goggles to watch fun and educational cartoons.\r\n\r\nFinally, an entertainment destination safe for kids to watch what, when and where they want! \r\n\r\nWith the Toon Goggles - On-Demand Entertainment for Kids application, anyone can enjoy kid-safe and parent-friendly cartoons.\r\n\r\n- Parental control switch to monitor viewing \r\n- 6 show categories including boys, girls, action, comedy, preschool, and educational--allowing children to easily find what they love. \r\n- Constantly updated with new and unique content from around the world, including full series and feature-length movies! \r\n- All content is parent-friendly and reviewed extensively before being released. \r\n- Create your own Toon Goggles account, avatar and screen name through the app! \r\n- Jump! to a suggested show at the touch of a button! \r\n- Quickly get to previous and next episode in a series! \r\n- Registered users can resume videos! \r\n- Registered users can see Recently Watched shows! \r\n\r\nGo visit www.ToonGoggles.com to create your own \u201cToon Strip\u201d episode queue online and to play an unlimited number of games! \r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Kids List",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "6.01",
+            "versionCode": 0,
+            "uuid": "1c79ab74-af0d-409a-82fb-bb3bea597d6a",
+            "date": "2014-02-07T00:15:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/af97c3eb-8876-417c-a4ce-cf9864a5017b\/com.toongoggles.tv\/1c79ab74-af0d-409a-82fb-bb3bea597d6a\/DbXpQgAdTC6boWpq5VNF_ToonGoggles_TV_Ouya_6.01_Signed.apk",
+            "size": 3371239,
+            "md5sum": "a006c0f73db31f332b08eaa93c372d02",
+            "publicSize": 2943262,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.toongoggles.tv\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vHCtU2sdRQKJa7HqcnjM",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FPAilT4PTAuslkdmESfg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eyk6tlNcRbC4ufBObHNE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8UHVoMOcQb2is0F3s3p9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AYZ03C0SiKDzDHPjuyrs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8kFCY9nTQeKULxCth9vm"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FPAilT4PTAuslkdmESfg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FPAilT4PTAuslkdmESfg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eyk6tlNcRbC4ufBObHNE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eyk6tlNcRbC4ufBObHNE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8UHVoMOcQb2is0F3s3p9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8UHVoMOcQb2is0F3s3p9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AYZ03C0SiKDzDHPjuyrs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AYZ03C0SiKDzDHPjuyrs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8kFCY9nTQeKULxCth9vm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8kFCY9nTQeKULxCth9vm\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Toon Goggles, Inc.",
+        "supportEmail": "info@toongoggles.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.toongoggles.com",
+    "firstPublishedAt": "2013-12-23T23:59:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Toon Goggles, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 49,
+        "average": 3.65,
+        "count": 85
+    }
+}

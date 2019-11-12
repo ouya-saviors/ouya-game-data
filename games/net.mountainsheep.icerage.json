@@ -1,0 +1,100 @@
+{
+    "packageName": "net.mountainsheep.icerage",
+    "title": "Ice Rage",
+    "description": "Ice Rage brings the classic 8-bit hockey experience to the 21st century! Over 2 million players worldwide! There are tons of unique characters to choose from. Try out the Ice Aces, amazing special characters such as the lightning fast Rage Face or heavy-hitting Enviro-Bear. Music and sound fx from the audio designer of Alan Wake & Max Payne.\r\n\r\nFEATURES: Tournament mode. Multiplayer mode. Optimized to run at 60 fps. Awesome 3d graphics with cube map lighting. Three difficulties: easy, medium and hard. Full support for Xbox 360 and PS3 controllers.\r\n\r\nUPDATE 8: KingHunt characters Muffin King and Frozen Duke added. Unlocked characters work properly in the free version. Some minor fixes.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.8",
+            "versionCode": 0,
+            "uuid": "9ba50e67-1bb7-4ac3-8d01-36fbc8ae2566",
+            "date": "2013-10-09T12:50:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b3ded515-3fe7-428a-af64-77aaf3f93e2a\/net.mountainsheep.icerage\/9ba50e67-1bb7-4ac3-8d01-36fbc8ae2566\/0UNxzruGShCSJEI1fxhP_IceRage.apk",
+            "size": 21255918,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.mountainsheep.icerage\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JLXK36xeSLCg1Faqw67Q",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vdrOMASTKtfHIsi0goNQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U2o7wU5UTlequU49FfEv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bAXrskHlTOS8daJTPs0C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5imqxWXSkeNC0lxdLegk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8fHqfCoSp6X0vQaEiXmw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yUa8UJ71Qsytf58jqVp9"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vdrOMASTKtfHIsi0goNQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vdrOMASTKtfHIsi0goNQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/U2o7wU5UTlequU49FfEv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/U2o7wU5UTlequU49FfEv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bAXrskHlTOS8daJTPs0C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bAXrskHlTOS8daJTPs0C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5imqxWXSkeNC0lxdLegk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5imqxWXSkeNC0lxdLegk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8fHqfCoSp6X0vQaEiXmw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8fHqfCoSp6X0vQaEiXmw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yUa8UJ71Qsytf58jqVp9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yUa8UJ71Qsytf58jqVp9\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mountain Sheep, Inc.",
+        "supportEmail": "feedback@mountainsheep.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "mountainsheep.net",
+    "firstPublishedAt": "2013-03-25T18:43:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Mountain Sheep, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 1478,
+        "average": 4.1,
+        "count": 1922
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ICE_RAGE_UNLOCK_FULL_GAME",
+            "name": "Unlock Full Game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

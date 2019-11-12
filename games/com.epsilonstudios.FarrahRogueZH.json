@@ -1,0 +1,80 @@
+{
+    "packageName": "com.epsilonstudios.FarrahRogueZH",
+    "title": "Farrah Rogue - Zero Hour",
+    "description": "Farrah Rogue is a fast paced FPS couch multiplayer game. Get your friends together and kick some butt! This is still a Developer preview, there are rough edges. We\u2019re working hard on new features and content. Please support us by joining our facebook page, and commenting on our ouyaforum.com thread. Thanks!\r\n\r\n-4 levels\r\n-Deathmatch (2-4 players)\r\n-Break the targets (single player)\r\n-Ship deathmatch (2-4players) **Developer preview**",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3",
+            "date": "2014-06-26T21:27:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/254b3880-a1e8-4318-bfe6-f808292a914f\/com.epsilonstudios.FarrahRogueZH\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/HRKgOMkTe6BtBGLmatWA_FRZH_6.25.14.apk",
+            "size": 217399240,
+            "md5sum": "207bab01dffb229683f1ac45767e02a2",
+            "publicSize": 460784,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.farrahroguezh\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F7G6WTRNSzyGBjDwvl7w",
+        "video": "https:\/\/vimeo.com\/99194248",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4XMnHxeMQ6W3IQ3Da9Cp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AwtASWzsSdqbQFyOachS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KqYSZthRC27i7tFQ0kkO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TxgDsLAFR4a4sK2aje9A"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/99194248"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/efxr8w_ouya-screenshot20140625-2-184eq5w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-1m3fk1t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/kirpuy_ouya-screenshot20140625-2-1qvihzr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-bdax11.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/ss6xwo_ouya-screenshot20140625-2-1pzmzkq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-1ccxknc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/nj3khu_ouya-screenshot20140625-2-1albc06.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-6g8p9r.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Epsilon Studios",
+        "supportEmail": "jguard@epsilonstudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.epsilonstudios.com",
+    "firstPublishedAt": "2014-05-27T07:11:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Epsilon Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.89,
+        "count": 308
+    }
+}

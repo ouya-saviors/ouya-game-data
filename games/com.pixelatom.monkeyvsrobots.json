@@ -1,0 +1,92 @@
+{
+    "packageName": "com.pixelatom.monkeyvsrobots",
+    "title": "Monkey vs Robots",
+    "description": "Monkey vs Robots is a casual, old-style pixelart puzzle. Your objective is to wipe robots out of your jungle, the less shoots you use, the better reward you will get.\r\nCollecting 3 bananas per stage you can unlock more stages. Just avoid the coconuts to bounce on the walls as less possible since they'll break before destroying the robots.\r\nThe game has many different kinds of enemies and special balls with different properties like pinball-balls, bombs etc. \r\nThere are 75 stages in total (25 free to play).",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "81d44543-2f25-4a74-8ea9-df943e930467",
+            "date": "2013-10-09T15:27:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1952f3ca-cd04-4108-ac17-39d095426d49\/com.pixelatom.monkeyvsrobots\/81d44543-2f25-4a74-8ea9-df943e930467\/Uq3mCoZ0SYOmopBvsmni_MvR-release.apk",
+            "size": 6075981,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixelatom.monkeyvsrobots\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PDW8bdsSRHCZxCdk3ggQ",
+        "video": "https:\/\/vimeo.com\/76474001",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vvB80h7SWW38nQPWgy5f",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zi54j1aVQG4NXphmLJxL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eRjsdMqzRCa0UbdHhkwl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m41DCbvARoWa8GAz2m8o"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76474001"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vvB80h7SWW38nQPWgy5f\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vvB80h7SWW38nQPWgy5f\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zi54j1aVQG4NXphmLJxL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zi54j1aVQG4NXphmLJxL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eRjsdMqzRCa0UbdHhkwl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eRjsdMqzRCa0UbdHhkwl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m41DCbvARoWa8GAz2m8o\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m41DCbvARoWa8GAz2m8o\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Pixelatom",
+        "supportEmail": "contact@pixelatom.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/games.pixelatom.com\/monkey-vs-robots\/",
+    "firstPublishedAt": "2013-09-27T15:48:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Pixelatom.",
+    "premium": false,
+    "rating": {
+        "likeCount": 30,
+        "average": 3.14,
+        "count": 29
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "mvr-fullgame",
+            "name": "Monkey vs Robots Full Version",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

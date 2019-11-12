@@ -1,0 +1,71 @@
+{
+    "packageName": "com.bluebananagames.gridracer",
+    "title": "Grid Racer",
+    "description": "Grid Racer is a classic Tron style light cycle racing game for two players. And it is totally FREE!\r\n\r\nCompete against a friend in this fast paced game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "52fdbf74-f509-4ea7-8546-339fc56f3234",
+            "date": "2013-09-24T06:21:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0cec4ea9-a869-4f01-a6e8-6a52c1715568\/com.bluebananagames.gridracer\/52fdbf74-f509-4ea7-8546-339fc56f3234\/I7eoyBdPTEWiKCCVWK5O_GridRacer.apk",
+            "size": 8054616,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bluebananagames.gridracer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0NCy8PqZR8GHh7jC2cw5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kMKcYKi2TvWTvtTBtP02",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y6Wvx7NlQzO8NVt6N8Cg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IbyEx5WYTwuvAaoshEqR"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kMKcYKi2TvWTvtTBtP02\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kMKcYKi2TvWTvtTBtP02\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Y6Wvx7NlQzO8NVt6N8Cg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Y6Wvx7NlQzO8NVt6N8Cg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IbyEx5WYTwuvAaoshEqR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IbyEx5WYTwuvAaoshEqR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "blue banana games",
+        "supportEmail": "support@bluebanana-games.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.bluebanana-games.com",
+    "firstPublishedAt": "2013-09-24T06:21:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by blue banana games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 66,
+        "average": 3.51,
+        "count": 117
+    }
+}

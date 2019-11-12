@@ -1,0 +1,92 @@
+{
+    "packageName": "com.hatsproductions.OrganTrail1",
+    "title": "Organ Trail: Director's Cut by The Men Who Wear Many Hats",
+    "description": "Organ Trail is a retro zombie survival game. Travel westward in a station wagon with 4 of your friends, scavenging for supplies and fending off the undead. Members of your party might die of dysentery or you might have to put them down yourself when they get bit. Faithfully recreated it as if it were on the Apple 2, Organ Trail offers amazing 16 color art and retro beeps and boops. Packed full of zombie mechanics, themes and references; this is a must have for any zombie survival fans.\r\n\r\nCreated by a small indie team in Chicago, The Men Who Wear Many Hats are very excited to launch their first OUYA game, with support by their friends at Fun Machine!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "1af646b7-bea2-4972-be01-a5993d69a070",
+            "date": "2013-06-18T18:46:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/090ba20a-fac8-4fca-81da-c91821aee89e\/com.hatsproductions.OrganTrail1\/1af646b7-bea2-4972-be01-a5993d69a070\/5FdYxMRZSsSr03kEZ4xS_OuyaUnityApplication_June3_RC3.1.apk",
+            "size": 51233569,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hatsproductions.organtrail1\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QcwFjjftT5qeLkT6bq8g",
+        "video": "http:\/\/vimeo.com\/109536108",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LJ862zaxQZqryniPF0Yk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hnv4Blm0Rreittzm6ygW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CzswiKQ5TUah8ZNuaYBQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mipgT16QnGpUw6Qtofuf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/109536108"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LJ862zaxQZqryniPF0Yk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LJ862zaxQZqryniPF0Yk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hnv4Blm0Rreittzm6ygW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hnv4Blm0Rreittzm6ygW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CzswiKQ5TUah8ZNuaYBQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CzswiKQ5TUah8ZNuaYBQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mipgT16QnGpUw6Qtofuf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mipgT16QnGpUw6Qtofuf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "The Men Who Wear Many Hats LLC",
+        "supportEmail": "ouya-games@fun-machine.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.hatsproductions.com\/organtraildc\/",
+    "firstPublishedAt": "2013-03-27T00:12:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by The Men Who Wear Many Hats LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 624,
+        "average": 4.28,
+        "count": 501
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "organ-trail-full-game-unlock",
+            "name": "Organ Trail Full Game Unlock",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

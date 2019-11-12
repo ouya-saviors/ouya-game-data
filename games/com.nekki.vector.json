@@ -1,0 +1,81 @@
+{
+    "packageName": "com.nekki.vector",
+    "title": "Vector",
+    "description": "Vector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.\r\nGame Features:\r\n\r\n- Arcade gameplay from the makers of the hit Android game\r\n- Astoundingly lifelike Parkour-inspired moves made possible by Cascadeur animation tools\r\n- Quick to learn, challenging to master",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.7",
+            "versionCode": 0,
+            "uuid": "b9b476fc-5d04-4144-9268-d17e270c7c31",
+            "date": "2013-12-06T08:02:59Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6e6f736a-a4b1-41a1-bdb0-67b238ee081e\/com.nekki.vector\/b9b476fc-5d04-4144-9268-d17e270c7c31\/9QcPRBz3TEWV6NXJjNIs_Vector.apk",
+            "size": 74412420,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nekki.vector\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7HwbYGBT6O9onzpRud0s",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b6224B0UQ5Wpx9bkCcwV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MclfU24SKCPtpyIYDmm5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8XewGeBQS3erhjac71Wf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/b6224B0UQ5Wpx9bkCcwV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/b6224B0UQ5Wpx9bkCcwV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MclfU24SKCPtpyIYDmm5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MclfU24SKCPtpyIYDmm5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8XewGeBQS3erhjac71Wf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8XewGeBQS3erhjac71Wf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nekki GmbH",
+        "supportEmail": "info@nekki.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/nekki.com\/vector",
+    "firstPublishedAt": "2013-03-28T19:37:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Nekki GmbH.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1330,
+        "average": 4.1,
+        "count": 788
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_version",
+            "name": "Full version",
+            "description": "More tracks, no ads!\r\nGame progress preserved!\r\nExtra coins for stars!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "packageName": "com.ezone.Diversion",
+    "title": "Diversion",
+    "description": "Like platform games? Like running games? Well, you're gonna luv Diversion! 200 levels, 700 characters and 5 worlds! And just for Ouya players it's the FULL version - for FREE!\r\n\r\nPlus check out the Hover World preview level!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.46",
+            "versionCode": 0,
+            "uuid": "49ec6fd7-0faf-4bfd-af71-b2bfa76ba7d2",
+            "date": "2013-07-02T01:38:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4d52ecad-5103-49d8-bab8-da39dc1cba2f\/com.ezone.Diversion\/49ec6fd7-0faf-4bfd-af71-b2bfa76ba7d2\/XhPAx84JQQqE5sjRNny9_Diversion.apk",
+            "size": 38915814,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ezone.diversion\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p1RyeGomQJCfBSlJvtnH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h877EemcT6aRxqhg3cuW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3J9mQWCRse7FMm4p1Agg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/in3FiDjRgmNSFSjeNEjA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rkAdpykUTxtStpWcdp0U",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GobIMRRgODbKjMPXlwgV"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/h877EemcT6aRxqhg3cuW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/h877EemcT6aRxqhg3cuW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3J9mQWCRse7FMm4p1Agg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3J9mQWCRse7FMm4p1Agg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/in3FiDjRgmNSFSjeNEjA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/in3FiDjRgmNSFSjeNEjA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rkAdpykUTxtStpWcdp0U\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rkAdpykUTxtStpWcdp0U\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GobIMRRgODbKjMPXlwgV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GobIMRRgODbKjMPXlwgV\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ezone PTY LTD",
+        "supportEmail": "support@ezone.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/diversion.ezone.com",
+    "firstPublishedAt": "2013-07-02T01:38:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Ezone PTY LTD.",
+    "premium": false,
+    "rating": {
+        "likeCount": 124,
+        "average": 3.7,
+        "count": 230
+    }
+}

@@ -1,0 +1,70 @@
+{
+    "packageName": "com.kainy.ouya",
+    "title": "Kainy",
+    "description": "Kainy is a remote desktop oriented for gaming and performance. Stream your games from your PC into your OUYA.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment"
+    ],
+    "releases": [
+        {
+            "name": "1.74",
+            "versionCode": 0,
+            "uuid": "97b19880-af55-4bf0-b1f7-e7323094e661",
+            "date": "2014-03-19T04:54:15Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ecc0ff0e-cb99-4464-801a-dc4345614c38\/com.kainy.ouya\/97b19880-af55-4bf0-b1f7-e7323094e661\/h2BNIulQSHorNxEL8tg7_kainy.apk",
+            "size": 2194457,
+            "md5sum": "6b6e109b7e450f1b29a3a3a2b01a35ee",
+            "publicSize": 581195,
+            "nativeSize": 1339840
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kainy.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/38TqU0I4SwKoYvecq3KW",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9YeNgjtWQomBocjZp9AS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NFLvJm2TSvGx8WoWucCz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vcsdBfM0SdeMddG99J0g"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9YeNgjtWQomBocjZp9AS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9YeNgjtWQomBocjZp9AS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NFLvJm2TSvGx8WoWucCz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NFLvJm2TSvGx8WoWucCz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vcsdBfM0SdeMddG99J0g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vcsdBfM0SdeMddG99J0g\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Jean-Sebastien Royer",
+        "supportEmail": "support@kainy.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.kainy.com",
+    "firstPublishedAt": "2013-06-27T04:18:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Jean-Sebastien Royer.",
+    "premium": false,
+    "rating": {
+        "likeCount": 566,
+        "average": 3.39,
+        "count": 302
+    }
+}

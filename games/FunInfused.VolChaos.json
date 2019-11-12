@@ -1,0 +1,97 @@
+{
+    "packageName": "FunInfused.VolChaos",
+    "title": "VolChaos",
+    "description": "Volchaos is an ultra-challenging old school platformer. As a nameless explorer, you must navigate through dangerous volcanoes in search of precious gems you can use to pay off your mortgage, bad investments, and alimony. To further complicate matters, the lava is continuously rising and an array of enemies stands in your path. Will you become rich? Heck, you will be lucky to survive.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2cb8473e-403f-425b-9678-f342e6644539",
+            "date": "2014-01-13T14:41:12Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/91b50bba-0498-4a36-98a8-b341649ef384\/FunInfused.VolChaos\/2cb8473e-403f-425b-9678-f342e6644539\/pGKLGCoQRsW7cMAIiHVQ_FunInfused.VolChaos.apk",
+            "size": 20453164,
+            "md5sum": "54366cf75f611bb9694eef286a656b29",
+            "publicSize": 187953,
+            "nativeSize": 2908348
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/funinfused.volchaos\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/okOKkFobTWW3WAchuaj6",
+        "video": "https:\/\/vimeo.com\/83476771",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2DlVQX3cS4aIfb2jvsW8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gnsDwDdITGqmRq9EX60R",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B5rfoteKTIyvuoLNmise",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WWyp17dTQ1uYxXRSMtvp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MdzUH1lbTaKhrypL3DAL"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/83476771"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2DlVQX3cS4aIfb2jvsW8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2DlVQX3cS4aIfb2jvsW8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gnsDwDdITGqmRq9EX60R\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gnsDwDdITGqmRq9EX60R\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/B5rfoteKTIyvuoLNmise\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/B5rfoteKTIyvuoLNmise\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WWyp17dTQ1uYxXRSMtvp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WWyp17dTQ1uYxXRSMtvp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MdzUH1lbTaKhrypL3DAL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MdzUH1lbTaKhrypL3DAL\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Fun Infused Games",
+        "supportEmail": "kris@funinfused.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.funinfused.com",
+    "firstPublishedAt": "2014-01-13T14:41:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Fun Infused Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 58,
+        "average": 3.39,
+        "count": 102
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "VolChaos_FullGame",
+            "name": "VolChaos Full Game",
+            "description": "All 42 levels of VolChaos.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

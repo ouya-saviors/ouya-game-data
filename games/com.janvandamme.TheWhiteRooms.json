@@ -1,0 +1,89 @@
+{
+    "packageName": "com.janvandamme.TheWhiteRooms",
+    "title": "The White Rooms",
+    "description": "After a horrific car crash, your mind enters The White Rooms as you lay dying. You must collect the scattered memories in the recesses of your mind so that you may regain consciousness. Contemplate your perception of existence as you traverse the nine circles of the afterlife.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "FPS\/Shooter",
+        "Meditative"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "ec1bd94b-160e-4fc6-b4ed-8e8aa5294228",
+            "date": "2014-02-04T22:30:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2959265a-87d8-4ef5-8512-c3bd989fa947\/com.janvandamme.TheWhiteRooms\/ec1bd94b-160e-4fc6-b4ed-8e8aa5294228\/Kii7xmNRSu0zni4xNHZB_The%20White%20Rooms.apk",
+            "size": 44817140,
+            "md5sum": "5bc09e0fffba9e55a7991842656b82cf",
+            "publicSize": 291797,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.janvandamme.thewhiterooms\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LKkubLMNQCOI37PRIFTZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BSoZrVtZSJjp4U1iY8Fl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ndw7BAKvTkyDAxf08i4L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rj4pqfIKQUGsSPn6dCbD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LRCLmdHJTMO7r42EFGuN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ji7bZC2vRZSPmc18q7l8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j9X4HAekTb66LtgEvLI9"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BSoZrVtZSJjp4U1iY8Fl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BSoZrVtZSJjp4U1iY8Fl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ndw7BAKvTkyDAxf08i4L\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ndw7BAKvTkyDAxf08i4L\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Rj4pqfIKQUGsSPn6dCbD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Rj4pqfIKQUGsSPn6dCbD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LRCLmdHJTMO7r42EFGuN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LRCLmdHJTMO7r42EFGuN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ji7bZC2vRZSPmc18q7l8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ji7bZC2vRZSPmc18q7l8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/j9X4HAekTb66LtgEvLI9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/j9X4HAekTb66LtgEvLI9\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Jan-Luc Van Damme",
+        "supportEmail": "janlucvd@yahoo.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/nullsetgames.blogspot.com\/",
+    "firstPublishedAt": "2014-01-31T19:47:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Jan-Luc Van Damme.",
+    "premium": false,
+    "rating": {
+        "likeCount": 24,
+        "average": 2.62,
+        "count": 87
+    }
+}

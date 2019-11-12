@@ -1,0 +1,82 @@
+{
+    "packageName": "com.games.naokitales",
+    "title": "Naoki Tales",
+    "description": "Naoki Tales is an arcade adventure games.\r\n\r\nHistory:\r\nWhen Naoki came back at holidays,he's wife is captured by an Evil.Help him to save he's wife on each levels.\r\nThere are some many creatures around the world.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "32d84068-9035-42dd-b925-c47e6e15458d",
+            "date": "2014-02-25T20:32:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.games.naokitales\/32d84068-9035-42dd-b925-c47e6e15458d\/uqQGCHBQCqkE24Qkd5Fb_Naoki07.apk",
+            "size": 12084998,
+            "md5sum": "4a847687ef4982c7181046d27df8ea01",
+            "publicSize": 12395284,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.games.naokitales\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cNegXbVSsqPPRQWzl5QP",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SmYMEErSyGPE8YBQxg9W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZbOvKwNzToGfRw1s4dP3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Scjc7y8kS32Usb20zM9P"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SmYMEErSyGPE8YBQxg9W\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SmYMEErSyGPE8YBQxg9W\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZbOvKwNzToGfRw1s4dP3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZbOvKwNzToGfRw1s4dP3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Scjc7y8kS32Usb20zM9P\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Scjc7y8kS32Usb20zM9P\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "musti74@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "mremakes.free.fr",
+    "firstPublishedAt": "2014-02-25T00:20:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 20,
+        "average": 2.76,
+        "count": 42
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Naoki",
+            "name": "Naoki Tales",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

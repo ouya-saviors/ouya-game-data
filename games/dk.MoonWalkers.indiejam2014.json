@@ -1,0 +1,70 @@
+{
+    "packageName": "dk.MoonWalkers.indiejam2014",
+    "title": "Alien Resource Battle",
+    "description": "Aliens are invading Earth and battles each other for resources like nuclear waste and industrial burgers.\n\nUpdate:\nUpdated the game to a newer version of Unity and added better explosions for the dynamite boxes that push boxes around it away.",
+    "players": [
+        2
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 1,
+            "uuid": "20a9ad29-5105-481d-b89c-7b5a8c43ee65",
+            "date": "2016-01-28T10:08:43Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ac851b3c-2a92-49c4-a464-4e5c30215dbd\/dk.MoonWalkers.indiejam2014\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/5SbGQayMTkm7wOBUHjis_AlienResourceBattle_Unity5b.apk",
+            "size": 36534110,
+            "md5sum": "62f1dcf48da082afeba7636fa3a0f4ea",
+            "publicSize": 151250,
+            "nativeSize": 19242100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/dk.moonwalkers.indiejam2014\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cpxAPQlAQBe9JCuYJosH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OkV2gA4kTKe2R5sHmXNs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i4cW7rotRfq47P6XQ6Bw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WswzUOagRAOjWzIBE1NW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/5jqxu4_ouya-screenshot20160119-3-bhqzvb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/thumbnails\/thumbnail20160119-3-1jpgcdp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/b8wee8_ouya-screenshot20160119-3-1e1rexz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/thumbnails\/thumbnail20160119-3-vfo0ot.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/tmir9e_ouya-screenshot20160119-3-xeyedn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20a9ad29-5105-481d-b89c-7b5a8c43ee65\/thumbnails\/thumbnail20160119-3-ysviab.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dionysus.dk",
+        "supportEmail": "kaspersolesen@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "dionysus.dk",
+    "firstPublishedAt": "2014-08-14T21:16:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Dionysus.dk.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.41,
+        "count": 54
+    }
+}

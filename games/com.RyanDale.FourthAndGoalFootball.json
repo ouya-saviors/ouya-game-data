@@ -1,0 +1,101 @@
+{
+    "packageName": "com.RyanDale.FourthAndGoalFootball",
+    "title": "4th & Goal Football",
+    "description": "v1.3 Features:\r\n-2D Animated Players\r\n-New Team (Dragons)\r\n-Redesigned Play Selector\r\n-Broken Tackles\r\n-Gang Tackles\r\n-Updated Stadium\r\n-Bug Fixes\r\n\r\n4th and Goal Football brings the excitement of American football to the OUYA in full 1080p HD. Inspired by football classics like Tecmo Bowl, 4th and Goal football features fast paced, one or two player games. Run, pass, defend, and kick your way to the win. Choose from over 30 plays in 8 unique formations. 4th and Goal is 100% free and will be the only football game you need this year.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Retro",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "e3bac123-3b28-4c25-988b-66dfa43be506",
+            "date": "2014-06-12T17:41:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a13af8c3-b0d9-47b5-a678-2cc040c96ec1\/com.RyanDale.FourthAndGoalFootball\/e3bac123-3b28-4c25-988b-66dfa43be506\/mwn7b0euTsOzSHTenca6_com.RyanDale.FourthAndGoalFootball-Signed.apk",
+            "size": 37952819,
+            "md5sum": "bf28b314f1c8447a6adbacc1a64c7285",
+            "publicSize": 4423889,
+            "nativeSize": 2924824
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ryandale.fourthandgoalfootball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P8fmwBRBQQeZKRpieJzg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wyZOxgElSMeJpWvuhZfc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PwBQ7RNRTSqDG2QDPa6A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iPG8TD4mQii6HgpWj9Pp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZRHuQHNMSUi1BgtC6pSz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G3EvFLgJRm20ZgfcszVK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QR3H2AuR1qiDM4rRfElQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p1tozSKTXiVNlR5bKKF1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Eap5kQOrRBmMZPi0DqgF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wyZOxgElSMeJpWvuhZfc",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wyZOxgElSMeJpWvuhZfc"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PwBQ7RNRTSqDG2QDPa6A",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PwBQ7RNRTSqDG2QDPa6A"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iPG8TD4mQii6HgpWj9Pp",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iPG8TD4mQii6HgpWj9Pp"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZRHuQHNMSUi1BgtC6pSz",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZRHuQHNMSUi1BgtC6pSz"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G3EvFLgJRm20ZgfcszVK",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G3EvFLgJRm20ZgfcszVK"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QR3H2AuR1qiDM4rRfElQ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QR3H2AuR1qiDM4rRfElQ"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/p1tozSKTXiVNlR5bKKF1",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/p1tozSKTXiVNlR5bKKF1"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Eap5kQOrRBmMZPi0DqgF",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Eap5kQOrRBmMZPi0DqgF"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ryan Dale",
+        "supportEmail": "rd01748@georgiasouthern.edu",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/www.facebook.com\/4thandgoalfootball",
+    "firstPublishedAt": "2013-08-02T20:56:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Ryan Dale.",
+    "premium": false,
+    "rating": {
+        "likeCount": 61,
+        "average": 3.24,
+        "count": 119
+    }
+}

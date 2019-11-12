@@ -1,0 +1,76 @@
+{
+    "packageName": "com.gmail.issab.daniel.SHUMP",
+    "title": "SHUMP",
+    "description": "Jump, don't get crushed.\r\nJump, don't fall down.\r\nJump, don't let them jump on you.\r\nJump, push them away and win!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "2d47e194-a81f-4fa7-92ca-4b99cf0544dd",
+            "date": "2013-12-05T18:57:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/474caf8c-5ed2-4be9-ae0d-52ca0f38fb5d\/com.gmail.issab.daniel.SHUMP\/2d47e194-a81f-4fa7-92ca-4b99cf0544dd\/g75kUCS6SAOrG6Vn9Z1g_SHUMP.apk",
+            "size": 10359314,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gmail.issab.daniel.shump\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H6YQwDLrQBaDxelKkfrV",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UnCdtTIhRpu2KygVW8C1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nYXpRLDiTziKKj23zZmc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i6sX09wEQGm3IxOG6vK2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lKHTYHW3SKy7utek0zOc"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UnCdtTIhRpu2KygVW8C1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UnCdtTIhRpu2KygVW8C1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nYXpRLDiTziKKj23zZmc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nYXpRLDiTziKKj23zZmc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i6sX09wEQGm3IxOG6vK2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i6sX09wEQGm3IxOG6vK2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lKHTYHW3SKy7utek0zOc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lKHTYHW3SKy7utek0zOc\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dancorg Games",
+        "supportEmail": "daniel.issab@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/twitter.com\/NewOldDancorg",
+    "firstPublishedAt": "2013-12-04T02:38:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Dancorg Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 50,
+        "average": 3.55,
+        "count": 118
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "packageName": "com.rarebyte.LemmingRampage2",
+    "title": "Lemming Rampage 2",
+    "description": "Lemming + Rocket = Fun\r\n\r\nMount a little lemming on a rocket and unlock tons of gadgets, boosters and upgrades while accumulating frequent flyer miles.\r\n\r\nChallenge your friends and other OUYA gamers from all over the world!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "412f08be-0e73-40f7-b0d6-52a8aedcb3b7",
+            "date": "2013-05-13T21:06:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3ae1a197-6ff5-4d21-83ae-88ce021ad240\/com.rarebyte.LemmingRampage2\/412f08be-0e73-40f7-b0d6-52a8aedcb3b7\/tjZ4nsYbSpaXxuFNCqbr_LemmingRampage.apk",
+            "size": 21581532,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rarebyte.lemmingrampage2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sr5RlBLxTM6H4w7blzU7",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N5dDp1KTR7ueYyh9Hvm4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FcJCeuexRIOE4QRhkcHU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ezcRW73nRku5LBPtcpjP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vhCcienKRZqeGNTHqHsz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BlGmDV0LR0yBCEYSofZq"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N5dDp1KTR7ueYyh9Hvm4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N5dDp1KTR7ueYyh9Hvm4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FcJCeuexRIOE4QRhkcHU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FcJCeuexRIOE4QRhkcHU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ezcRW73nRku5LBPtcpjP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ezcRW73nRku5LBPtcpjP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vhCcienKRZqeGNTHqHsz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vhCcienKRZqeGNTHqHsz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BlGmDV0LR0yBCEYSofZq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BlGmDV0LR0yBCEYSofZq\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rarebyte",
+        "supportEmail": "support@rarebyte.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.rarebyte.com",
+    "firstPublishedAt": "2013-03-27T14:36:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2013 by Rarebyte.",
+    "premium": false,
+    "rating": {
+        "likeCount": 52,
+        "average": 3.46,
+        "count": 104
+    }
+}

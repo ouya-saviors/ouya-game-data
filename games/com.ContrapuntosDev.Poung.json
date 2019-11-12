@@ -1,0 +1,70 @@
+{
+    "packageName": "com.ContrapuntosDev.Poung",
+    "title": "Poung!",
+    "description": "Poung! es un gui\u00f1o para los mas veteranos jugadores, ya que recuerda a uno de los grandes arcades de todos los tiempos. Sin mas pretensiones que la de echar un buen rato.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.1.0",
+            "versionCode": 0,
+            "uuid": "9a849bb3-cc76-402b-b2e6-a16a80214ec9",
+            "date": "2015-07-23T18:15:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f1eddf40-92ca-42a4-b16f-c216c7a1311f\/com.ContrapuntosDev.Poung\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/x9515S8R3KBOsLkPrD6E_Poung.apk",
+            "size": 10783471,
+            "md5sum": "996a61fbdf7449035ea4b7a6c39e75d7",
+            "publicSize": 677296,
+            "nativeSize": 8812608
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.contrapuntosdev.poung\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iXcKZdwTQjaeZJfrlw9E",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/osIedT1mTOKsfoQuyBGi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fkf1hNZAReOLp38oFc3M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FXB6F9J5QuWrhC2axtl6"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/pxvt9_ouya-screenshot20150720-3-v5ds4l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/thumbnails\/thumbnail20150720-3-1aaukti.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/hbrjkf_ouya-screenshot20150720-3-10ypvgf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/thumbnails\/thumbnail20150720-3-obet4b.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/pn3qly_ouya-screenshot20150720-3-14d4c04.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9a849bb3-cc76-402b-b2e6-a16a80214ec9\/thumbnails\/thumbnail20150720-3-tnas7q.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f1eddf40-92ca-42a4-b16f-c216c7a1311f",
+        "name": "Contrapunto's Dev",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-07-14T05:06:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2015 by Contrapunto's Dev.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.93,
+        "count": 28
+    }
+}

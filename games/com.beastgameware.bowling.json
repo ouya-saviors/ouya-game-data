@@ -1,0 +1,108 @@
+{
+    "packageName": "com.beastgameware.bowling",
+    "title": "BeastGameware Presents: Bowling",
+    "description": "BeastGameware Presents: Bowling is a game where you can enjoy bowling right on your couch. Play the game and upload your statistics to the online cloud services !.\n\n-The JANUARY UPDATE (1.1):\nThis update removes the online account requirement and now only asks for you to make a new username , this will be saved locally on the OUYA console.\nOther changes:\n-Players can now pick a ball texture.\n-Follow camera is now following the camera better (to none movement).\n-Exchange account login has been removed.\n-Leaderboards and uploading ingame can now be viewed without logging in.\n-Pin rendering issues have been resolved.\n-Graphical updates to the interior\n-Optmization of rendering\n\n-10 frame bowling game :\nPlay a chilled 10 frame bowling match at your own pace.\nUse the sticks to direct the bowling ball in the right direction giving you a wide variety of throws !\n\n-Ingame leaderboard statistics\nYou can check the realtime leaderboards ingame via the main menu.\n\nFor more info visit the game's website at www.beastgameware.com\/bowling\n\nThis game utilizes the BeastGameware Exchange\u2122 social platform to login and keep track of gamedata , online interaction.\n\nThe Exchange platform is also a place where the devs are livestreaming or creating new exciting events !\n\nIf you have any problems or encounter bugs using our software please contact us directly at support@beastgameware.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "edbb063d-d847-436f-8c64-5bcfda6fbd49",
+            "date": "2015-01-23T12:35:12Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ad91e346-cb15-43c5-92ed-55b931415267\/com.beastgameware.bowling\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/IVPNAGmbRO2jJx0OByPe_bowling_january_1.1.0.apk",
+            "size": 48678251,
+            "md5sum": "13ea396c7831acfa4331a2bc0d3961c9",
+            "publicSize": 315169,
+            "nativeSize": 14956816
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.beastgameware.bowling\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xN8kcE3TKWFyRp6wXGGw",
+        "video": "https:\/\/vimeo.com\/117173823",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zVggdA6yS3O0EjLPVkKV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jZ6oxfpsRlWoJXg8lxpp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TPkFKxbS9G7H5UfiMwtI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7PF68yWISYe3dAe0gsLY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zSf40x8R2m814RLheDm6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8ie65LySSumTo5Mac2Ut",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Rg2k8l0QX2LUW0olP07"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/117173823"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/117122450"
+            },
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/110988167"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/wtv32a_ouya-screenshot20150117-3-17xmxro.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-19bdvsl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/ie0c5t_ouya-screenshot20150117-3-ruf9q6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-11fty7f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/j6pd82_ouya-screenshot20150117-3-lumtor.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-gqoonc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/jrhfr1_ouya-screenshot20150117-3-1e4axla.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-12hepn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/yotx70_ouya-screenshot20150117-3-umbxm8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-1em3yhn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/84n1gy_ouya-screenshot20150117-3-1ksykdu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-12gsbcd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/kyi9iz_ouya-screenshot20150117-3-57lo5q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/edbb063d-d847-436f-8c64-5bcfda6fbd49\/thumbnails\/thumbnail20150117-3-u8u80v.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "ad91e346-cb15-43c5-92ed-55b931415267",
+        "name": "BeastGameware",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.beastgameware.com",
+    "firstPublishedAt": "2014-12-29T16:47:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by BeastGameware.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.77,
+        "count": 66
+    }
+}

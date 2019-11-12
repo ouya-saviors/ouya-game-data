@@ -1,0 +1,71 @@
+{
+    "packageName": "air.BallSlapAir",
+    "title": "A Ball Slapping Good Time!",
+    "description": "A fast-paced, two-player game about outmaneuvering and outwitting an opponent, as players bounce around and try to win with superior ball handling skills!\r\n\r\n100 % Free.\r\n\r\nNOTE: Currently, only OUYA controllers are supported.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "82933819-db4f-484d-9404-7eb3292df90d",
+            "date": "2014-04-09T22:10:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/23819a4f-0071-49a3-86c5-f50b82ffed9f\/air.BallSlapAir\/82933819-db4f-484d-9404-7eb3292df90d\/O7Fabk6FQrmwpWu0fyGQ_BallSlapAir-captive-runtime.apk",
+            "size": 17961569,
+            "md5sum": "bb41b69aa6a4052bf64023085a50488e",
+            "publicSize": 357004,
+            "nativeSize": 19048003
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.ballslapair\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3c9Tfv6TOii5NiMoIxMU",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k5WkpNjtQ4y9oUNfpezL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3mXifmydRra5JRCHBreg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4mAOm0ZRvOcwtTtblY6B"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/k5WkpNjtQ4y9oUNfpezL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/k5WkpNjtQ4y9oUNfpezL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3mXifmydRra5JRCHBreg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3mXifmydRra5JRCHBreg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4mAOm0ZRvOcwtTtblY6B\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4mAOm0ZRvOcwtTtblY6B\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Hulk Handsome",
+        "supportEmail": "no@no.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "hulkhandsome.com",
+    "firstPublishedAt": "2014-01-22T23:50:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Hulk Handsome.",
+    "premium": false,
+    "rating": {
+        "likeCount": 6,
+        "average": 3.09,
+        "count": 58
+    }
+}

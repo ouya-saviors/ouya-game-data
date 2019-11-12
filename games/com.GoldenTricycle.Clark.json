@@ -1,0 +1,116 @@
+{
+    "packageName": "com.GoldenTricycle.Clark",
+    "title": "CLARC",
+    "description": "CLARC is an action-loaded puzzle adventure. It combines complex spatial puzzles with arcade style action elements and an epic storyline. As the story unfolds, the nerdy forklift robot Clarc will encounter partying robots, attractive nuclear missiles, intoxicated supercomputers, save the facility from an intruding spaceship and kill M.O.T.H.E.R. CLARC features 25 levels with 100 puzzles and more than 10 hours of gaming. Our grid-based gameplay and tight controls will give you the retro feel of your first console.\r\n\r\nAdditional language support for German, Spanish, Russian, and French.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.24",
+            "versionCode": 0,
+            "uuid": "7230ac05-d24c-4347-a990-7ac283c17063",
+            "date": "2014-04-11T08:24:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c998dad0-eb40-4346-84e5-5d4813898105\/com.GoldenTricycle.Clark\/7230ac05-d24c-4347-a990-7ac283c17063\/6cCm73aLQlSa50llZt7Q_Clark.apk",
+            "size": 275992578,
+            "md5sum": "a674b6c205502d9b4a907ade90307ba0",
+            "publicSize": 1412141,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.goldentricycle.clark\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VzCsgc3BTx2RiGpTr4Uw",
+        "video": "https:\/\/vimeo.com\/84689664",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ti1prTcaQLmRwbV74KK5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dv8uJWUbSBC4zrulYHJ2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wIOWlmIqTfmRdt7OCBcC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mnexFzMtSHmQJTEoHanB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Hbq4TZARTWtKXLBYVjRm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2bOJZS3FRZuRgQ0weMHf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fvtj7Ly4SVO5rWItuW4U",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qZ986oShRu2nRJ5RH3F3"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84689664"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ti1prTcaQLmRwbV74KK5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ti1prTcaQLmRwbV74KK5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dv8uJWUbSBC4zrulYHJ2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dv8uJWUbSBC4zrulYHJ2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wIOWlmIqTfmRdt7OCBcC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wIOWlmIqTfmRdt7OCBcC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mnexFzMtSHmQJTEoHanB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mnexFzMtSHmQJTEoHanB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Hbq4TZARTWtKXLBYVjRm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Hbq4TZARTWtKXLBYVjRm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2bOJZS3FRZuRgQ0weMHf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2bOJZS3FRZuRgQ0weMHf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Fvtj7Ly4SVO5rWItuW4U\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Fvtj7Ly4SVO5rWItuW4U\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qZ986oShRu2nRJ5RH3F3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qZ986oShRu2nRJ5RH3F3\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "GoldenTricycle \/ Hahn Film AG",
+        "supportEmail": "clarc@goldentricycle.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.goldentricycle.com",
+    "firstPublishedAt": "2013-09-10T15:00:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by GoldenTricycle \/ Hahn Film AG.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1059,
+        "average": 4.25,
+        "count": 788
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "clark_full_license_test",
+            "name": "Clarc Full Version",
+            "description": "This item unlocks the full game with 25 levels, more than 100 puzzles and more than 10 hours of gameplay.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

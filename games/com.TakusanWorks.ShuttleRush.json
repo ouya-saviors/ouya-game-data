@@ -1,0 +1,90 @@
+{
+    "packageName": "com.TakusanWorks.ShuttleRush",
+    "title": "Shuttle Rush",
+    "description": "Space Taxman Bob has punctured his oxygen-filled \"1958 My First Adventure Space Suit\".\r\nNow with little O\u00b2 left, Bob must jump and run very fast to get back aboard his friendly oxygen-filled shuttle.\r\nThe Battleship he's in, notorious for its \"shoot Taxman on sight\" policy, has payable oxygen systems set up everywhere for welcomed visitors.\r\nFortunately for Bob, the battleship's crew is bad at keeping track of their coins. With careful coin-oxygen management he can escape each zone.\r\nUnfortunately for Bob, the battleship is a complete maze. Finding his way out is going to be one challenging adventure.\r\n\r\nGood luck Bob and do Rush it!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.3.2",
+            "versionCode": 0,
+            "uuid": "57c2709f-ae7e-4120-9c34-1af1bd957e8d",
+            "date": "2014-06-18T09:55:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/27e68752-7e60-4384-ab07-2f1fe5daaf60\/com.TakusanWorks.ShuttleRush\/57c2709f-ae7e-4120-9c34-1af1bd957e8d\/5hStY4NjQWGKHMVVGHAk_Shuttle%20Rush%201.3.2.apk",
+            "size": 121443851,
+            "md5sum": "f2274b4e47b91110ff79391ccd86d221",
+            "publicSize": 913788,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.takusanworks.shuttlerush\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O2zewgyGRwyl3b8AeW3d",
+        "video": "http:\/\/vimeo.com\/104248161",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IjsmzJTKR5SVCbOCeyvp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BRfJrfBFR0G9XXKAvbOv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VlWFf77QHSsoLf31H4gG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IsD7XEgRJiygMDHo5ttl"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/104248161"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IjsmzJTKR5SVCbOCeyvp",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IjsmzJTKR5SVCbOCeyvp"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BRfJrfBFR0G9XXKAvbOv",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BRfJrfBFR0G9XXKAvbOv"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VlWFf77QHSsoLf31H4gG",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VlWFf77QHSsoLf31H4gG"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IsD7XEgRJiygMDHo5ttl",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IsD7XEgRJiygMDHo5ttl"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Takusan Works",
+        "supportEmail": "staff@takusanworks.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.takusanworks.com",
+    "firstPublishedAt": "2013-03-26T17:05:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Takusan Works.",
+    "premium": false,
+    "rating": {
+        "likeCount": 122,
+        "average": 3.66,
+        "count": 164
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "1",
+            "name": "Shuttle Rush",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

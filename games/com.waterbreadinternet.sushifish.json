@@ -1,0 +1,80 @@
+{
+    "packageName": "com.waterbreadinternet.sushifish",
+    "title": "Sushi the Fish",
+    "description": "What happens if a fish from aquarium gets out to the wild waters. Well - it dies. But...\nWhat happens if scientifically enhanced fish escapes from aquarium of a mad scientist laboratory. Well it struggles every meter to survive its way, using more and more enhancements from laboratory only to get as further as possible away, without being captured. This is the story of our little hero named - Sushi.\n\n\u2022 Running away from the lab\n\u2022 Using and upgrading gadgets\n\u2022 Collecting coins\n\u2022 Shooting and dodging enemies\n\nAdded support for different controllers, as xbox, playstation, moga, etc",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "ec9c8a01-2e9b-46a5-8eb2-f74624469557",
+            "date": "2014-11-25T16:12:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bb4ae5cb-6bd7-4c5e-af1e-643b4dcf7199\/com.waterbreadinternet.sushifish\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/oIHiZ72cTVKVETE6ghIL_SushiFish.apk",
+            "size": 24652505,
+            "md5sum": "ea0fb194e0d1191b05bfa98d03defe56",
+            "publicSize": 2091807,
+            "nativeSize": 7096188
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qAzzBZjRQ9yoICjWaXyC",
+        "video": "https:\/\/vimeo.com\/102745886",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JWhhj9inR4ib8Kf9Qv8B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P2LGOU7rSnWt2HjAAJ2Z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/giWBWflOTMOLg64LPBUq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xP5dqA3WT8elXTcYXhqf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102745886"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/bxv9m2_ouya-screenshot20141123-2-l3024u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-1sho4ol.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/4qramv_ouya-screenshot20141123-2-12nuu60.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-1j5k7a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/kmfzwm_ouya-screenshot20141123-2-o6b8ng.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-11wn1ds.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/qovsea_ouya-screenshot20141123-2-110fryl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-iyxkvp.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bb4ae5cb-6bd7-4c5e-af1e-643b4dcf7199",
+        "name": "Water Bread Internet",
+        "supportEmail": "waterbreadinternet@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/waterbreadinternet.com\/games\/sushi-the-fish",
+    "firstPublishedAt": "2014-08-13T18:47:43Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Water Bread Internet.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.22,
+        "count": 50
+    }
+}

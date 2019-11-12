@@ -1,0 +1,97 @@
+{
+    "packageName": "com.doublefine.cave",
+    "title": "The Cave",
+    "description": "Descend into the mysterious depths of The Cave in this adventure game from Monkey Island creator Ron Gilbert and Double Fine Productions. \r\n\r\nAssemble a team of unlikely adventurers \u2013 each with their own unique personalities and stories\u2013 and descend into the heart of a sprawling, sentient cave in order to find that which is most important to each of them. The Cave has had millennia to spruce up the place so prepare to dive deep and solve the puzzles hidden within exotic locations including a subterranean amusement park, medieval castle, and fully armed nuclear research facility. The Cave is waiting. \r\n\r\nSeven Adventurers, Multiple Paths: \r\nChoose a team of three out of seven explorers and descend into the depths of The Cave. From the Hillbilly to the Time Traveler, all 7 characters have their own unique personalities, special talents, and mysterious motivations for descending into The Cave. \r\n\r\nProlific Pedigree: \r\nExperience the detailed, stunning art style and humor that only Double Fine and Ron Gilbert can dream up. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "612c4958-e3e3-4546-a2a6-364a97f07848",
+            "date": "2013-12-02T23:15:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/dafe7832-c73c-4ee2-8ef5-b1bd6c50040e\/com.doublefine.cave\/612c4958-e3e3-4546-a2a6-364a97f07848\/P5hXMWYoRLWXYb9Tuj3H_Cave-release.apk",
+            "size": 1267073132,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.doublefine.cave\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dgYV2x8rQEix7Qb9Figg",
+        "video": "https:\/\/vimeo.com\/80410901",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/03ECyWw7SfedJjV9OLw7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5aHqR7uTUm59a1ZP3pAP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g0uE3dtRCaA0uMCHZOB4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gJQw3D8aQzCLFljK9vnM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cUMA74BoThSx9dOCyPoX"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/80410901"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/03ECyWw7SfedJjV9OLw7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/03ECyWw7SfedJjV9OLw7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5aHqR7uTUm59a1ZP3pAP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5aHqR7uTUm59a1ZP3pAP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/g0uE3dtRCaA0uMCHZOB4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/g0uE3dtRCaA0uMCHZOB4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gJQw3D8aQzCLFljK9vnM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gJQw3D8aQzCLFljK9vnM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cUMA74BoThSx9dOCyPoX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cUMA74BoThSx9dOCyPoX\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Double Fine Productions",
+        "supportEmail": "support@doublefine.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.doublefine.com",
+    "firstPublishedAt": "2013-12-02T23:15:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Double Fine Productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 962,
+        "average": 4.46,
+        "count": 806
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DFPCaveOuya",
+            "name": "The Cave",
+            "description": "Descend into the mysterious depths of The Cave in this adventure game from Monkey Island creator Ron Gilbert and Double Fine Productions.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

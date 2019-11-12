@@ -1,0 +1,87 @@
+{
+    "packageName": "air.kaleidogames.Beekyr",
+    "title": "Beekyr: Eco shoot em up",
+    "description": "Beekyr is a hardcore cute shmup (also bullet hell) that leads our angry bee through 23 amazing levels in 4 worlds through fields, forests, rivers,jungles and caves to avenge his queen and hive from the nasty wasp queens and their soldiers... Very similar to space shooters but set in the world of bugs.\r\n\r\n-CONTROLS\r\nCompatible with gamepads, keyboards & X-ARCADE.\r\n\r\n-ENVIRONMENT\r\nThe games contains all sort of nasty bugs like wasps, hornets, spiders, flies, cockroaches, fleas, mosquitoes, scorpions, praying mantis...  along with some natural bee enemies like bee-eaters.\r\n\r\nEnjoy the amazing soundtrack, beautiful visuals and fun but hard game.\r\n\r\n-TOURNAMENT\r\nFinish the game in \"madness\" mode and get a present from KaleidoGames.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.3.12 OUYA",
+            "versionCode": 0,
+            "uuid": "f288bcec-7815-4641-ab2e-04b3c95e368f",
+            "date": "2014-12-01T18:58:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/73b8d0f0-2359-4140-80f2-d660148c280a\/air.kaleidogames.Beekyr\/f288bcec-7815-4641-ab2e-04b3c95e368f\/rYeTZ4oyQNuBOgfnqqL0_BeekyrOUYA-1_3_12.apk",
+            "size": 62641740,
+            "md5sum": "355af551ec87cf2805671c1c43544346",
+            "publicSize": 954718,
+            "nativeSize": 19648279
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.beekyr\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q5M92cRjK01Uj5KYWBAC",
+        "video": "http:\/\/vimeo.com\/99190150",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zlX8Tq7TeCptG6BfoY3B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/agmqSh4kQCutTfdCOy2q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OitG7BxrR1epBnhRwXQw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LaICAtBsSnOhsNx8AEMy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PhRNov1nSZW4fe3NdwkR"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/99190150"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/lkete8_ouya-screenshot20140625-2-b7modr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-1f5j6zu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/ebgm3s_ouya-screenshot20140625-2-18z8msv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-11716u3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/f6i4y9_ouya-screenshot20140625-2-1578py6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-1hpcgo3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/povna2_ouya-screenshot20140625-2-s134kx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-204crz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/3dgbbc_ouya-screenshot20140625-2-2lumtq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-1fx6myy.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "KaleidoGames",
+        "supportEmail": "info@kaleidogames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.kaleidogames.com",
+    "firstPublishedAt": "2013-11-11T17:01:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by KaleidoGames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 49,
+        "average": 3.82,
+        "count": 117
+    }
+}

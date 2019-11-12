@@ -1,0 +1,70 @@
+{
+    "packageName": "air.com.distractionware.american",
+    "title": "American Dream",
+    "description": "A collaboration with Stephen Lavelle (increpare), Jasper Byrne and Tom Morgan-Jones.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "6e2fa865-3d0d-4dbb-925d-678d61bde89f",
+            "date": "2013-06-28T23:12:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2f6df1a7-c222-4a6d-b683-ad00c6b80889\/air.com.distractionware.american\/6e2fa865-3d0d-4dbb-925d-678d61bde89f\/PDW6UcAHQsOU67jS2cdq_americandreamouya.apk",
+            "size": 18133220,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.distractionware.american\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qCKHoe2RfGO67euwJaDh",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qgu0prq1TqSFGsXdA22s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/reMkVZXuQHeRlYBnC7ET",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y62GoeQTRvCU9bo83Ww0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Qgu0prq1TqSFGsXdA22s\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Qgu0prq1TqSFGsXdA22s\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/reMkVZXuQHeRlYBnC7ET\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/reMkVZXuQHeRlYBnC7ET\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y62GoeQTRvCU9bo83Ww0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y62GoeQTRvCU9bo83Ww0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "2f6df1a7-c222-4a6d-b683-ad00c6b80889",
+        "name": "Terry Cavanagh",
+        "supportEmail": "terry@maths.tcd.ie",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/www.distractionware.com",
+    "firstPublishedAt": "2013-06-28T23:12:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Terry Cavanagh.",
+    "premium": false,
+    "rating": {
+        "likeCount": 569,
+        "average": 3.89,
+        "count": 500
+    }
+}

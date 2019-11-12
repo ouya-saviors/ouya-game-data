@@ -1,0 +1,71 @@
+{
+    "packageName": "com.headupgames.experiment",
+    "title": "Experiment",
+    "description": "Your help is needed in this extremely diverse Match 3 game! One day Sophie, the heroine of Experiment, awakes suddenly to find herself in an empty room. Her memory is totally blank and she cannot understand how she got there. Now it is up to you to guide amnesiac Sophie through this unique Match 3 game \u2013 She is depending on you and your help!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a58e098d-c74b-4740-adfa-37d37860fc78",
+            "date": "2013-06-25T07:46:20Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fe12754d-9da2-444c-a1d2-a95e859756dc\/com.headupgames.experiment\/a58e098d-c74b-4740-adfa-37d37860fc78\/ksKX537ERTCtjRNGj4HT_Experiment_OUYA_1_0.apk",
+            "size": 60182280,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.headupgames.experiment\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o5rRrWpWQZqPKRiaNdCN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TFq3rwH0TASgqPRjMYvQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cY60FjWbS6QkCqYSfVSg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kMWzonCtTbwLNVHkqg8m"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TFq3rwH0TASgqPRjMYvQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TFq3rwH0TASgqPRjMYvQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cY60FjWbS6QkCqYSfVSg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cY60FjWbS6QkCqYSfVSg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kMWzonCtTbwLNVHkqg8m\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kMWzonCtTbwLNVHkqg8m\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Headup Games GmbH & Co. KG",
+        "supportEmail": "support@headupgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.headupgames.com",
+    "firstPublishedAt": "2013-06-25T07:46:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Headup Games GmbH & Co. KG.",
+    "premium": false,
+    "rating": {
+        "likeCount": 57,
+        "average": 2.43,
+        "count": 58
+    }
+}

@@ -1,0 +1,94 @@
+{
+    "packageName": "com.ariahstudios.callsign",
+    "title": "Command Crisis: Callsign",
+    "description": "Command Crisis: Callsign is a top-down scrolling shooter.\r\n\r\nFeatures:\r\n- Up to 4 player co-op\r\n- Story mode missions\r\n- Endless \"Endurance Mode\"\r\n- Multiple mission types\r\n- Online high scores\r\n\r\nAdditional content will be added over the next few months, but start playing now so you can get in early on the leaderboards and get your first ship completely upgraded.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.32",
+            "versionCode": 0,
+            "uuid": "7ddd48b1-3275-40bc-a85e-483fe779fdd9",
+            "date": "2013-06-19T19:24:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/29565962-8a2c-424e-9b9b-8ae292e41b4e\/com.ariahstudios.callsign\/7ddd48b1-3275-40bc-a85e-483fe779fdd9\/u41E5OvkR6idMNkl6AA5_callsign_ouya_1032.apk",
+            "size": 52722691,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ariahstudios.callsign\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L90PohpZSUyMmkSycTvE",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YzwjwDx8TWWlguZdjU39",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mzHeHAaQ9uM5dEOEmLoU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CBqKGwuQTHLt1ZQeGubA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ErAMw7QTfs7B4BDmS7Av",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yLloBfBuTRmgPNJSzswK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YzwjwDx8TWWlguZdjU39\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YzwjwDx8TWWlguZdjU39\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mzHeHAaQ9uM5dEOEmLoU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mzHeHAaQ9uM5dEOEmLoU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CBqKGwuQTHLt1ZQeGubA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CBqKGwuQTHLt1ZQeGubA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ErAMw7QTfs7B4BDmS7Av\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ErAMw7QTfs7B4BDmS7Av\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yLloBfBuTRmgPNJSzswK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yLloBfBuTRmgPNJSzswK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ariah Studios LLC",
+        "supportEmail": "support@ariahstudios.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.ariahstudios.com",
+    "firstPublishedAt": "2013-03-25T22:24:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Ariah Studios LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 62,
+        "average": 2.69,
+        "count": 36
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "CCCASFG_12199",
+            "name": "Command Crisis: Callsign Full Game",
+            "description": "Unlock the full version of Command Crisis: Callsign for additional ships, story missions and the random mission mode.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "packageName": "com.ludometrics.gridlock",
+    "title": "Gridlock",
+    "description": "Gridlock is an arena-based shooter that sees you take control of four gun emplacements. In the middle of the grid, a variety of abstract yet lethal geometric shapes emerge which will destroy your turrets. Unless, of course, you can shoot the shapes first. Game over comes when\/if all your turrets are destroyed.\r\n \r\nGridlock harkens back to a time when games were about beating your own high-score and also about shooting abstract shapes. Nothing more, nothing less. Supports XBox 360 and PlayStation 3 controllers!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "cd36457f-7707-448d-8698-bb93e40510c0",
+            "date": "2013-10-19T07:34:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e5050b88-a297-4fe0-9312-b90610563fcc\/com.ludometrics.gridlock\/cd36457f-7707-448d-8698-bb93e40510c0\/W8F3uPVyQAygFHnSbseZ_gridlock.apk",
+            "size": 15152467,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/diOkVnfFSCW3EFCCSA86",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/givWUKqaRwupueco8J8D",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gKUvSqffQ9S5DDpQ8ElQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ji2vW2BCRAC03pLcYubX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/70ZH6nRSaeURS26VzJeQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bTJWKREIQbAEgjY5qHKu"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/givWUKqaRwupueco8J8D\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/givWUKqaRwupueco8J8D\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gKUvSqffQ9S5DDpQ8ElQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gKUvSqffQ9S5DDpQ8ElQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ji2vW2BCRAC03pLcYubX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ji2vW2BCRAC03pLcYubX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/70ZH6nRSaeURS26VzJeQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/70ZH6nRSaeURS26VzJeQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bTJWKREIQbAEgjY5qHKu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bTJWKREIQbAEgjY5qHKu\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ludometrics Ltd",
+        "supportEmail": "support@ludometrics.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ludometrics.com\/game\/gridlock\/",
+    "firstPublishedAt": "2013-08-28T14:18:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Ludometrics Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 28,
+        "average": 3.9,
+        "count": 10
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "gridlock-unlock",
+            "name": "Gridlock Unlimited",
+            "description": "This removes the 60 second time out on play, so you'll be able to play for as long as you keep your turrets alive!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

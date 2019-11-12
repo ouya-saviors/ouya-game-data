@@ -1,0 +1,97 @@
+{
+    "packageName": "com.ncot.dotshooter",
+    "title": "DotShooter DX",
+    "description": "Put on your trance trousers, open your third eye and defend the temporal dimension!\r\n\r\nTake a trip back to 1992 where all that mattered was a high score, plenty of noise and graphics that made your eyes bleed*\r\n\r\nGrab a controller, fire up your OUYA and shoot all the moving things!\r\n\r\n* Bleeding eyes not guaranteed",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "2b763922-ac63-405e-b403-e5b3d9dfddd3",
+            "date": "2014-06-03T06:07:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/cf921076-d279-4f32-ae3e-e5cd1b8df682\/com.ncot.dotshooter\/2b763922-ac63-405e-b403-e5b3d9dfddd3\/CPpZIkQYmh0ccWImipZA_ncot-1gam-may-release.apk",
+            "size": 20076427,
+            "md5sum": "0f9092654d3e8d1713a33c5cd0ca18b9",
+            "publicSize": 277195,
+            "nativeSize": 7794216
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cXFQ7FIRiyRNU8cdtcYD",
+        "video": "https:\/\/vimeo.com\/97004406",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PEAMYkamS62npNg5XmUw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vyOR79wRrK9yRPPplYjg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2uPo3QryStihyxUd5uTR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u7lqT3WMTn25i8oAOUgc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/brnT7D0uQeCLgRb5zYGh"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/97004406"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PEAMYkamS62npNg5XmUw",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PEAMYkamS62npNg5XmUw"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vyOR79wRrK9yRPPplYjg",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vyOR79wRrK9yRPPplYjg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2uPo3QryStihyxUd5uTR",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2uPo3QryStihyxUd5uTR"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/u7lqT3WMTn25i8oAOUgc",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/u7lqT3WMTn25i8oAOUgc"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/brnT7D0uQeCLgRb5zYGh",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/brnT7D0uQeCLgRb5zYGh"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "NCOT Software",
+        "supportEmail": "james@ncotsoftware.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ncotsoftware.co.uk",
+    "firstPublishedAt": "2014-06-03T06:07:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by NCOT Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.92,
+        "count": 26
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock_full",
+            "name": "Unlock Full Game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

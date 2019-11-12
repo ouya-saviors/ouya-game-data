@@ -1,0 +1,83 @@
+{
+    "packageName": "com.levire.curves",
+    "title": "Curves",
+    "description": "Curves is a great game for all ages. Play Curves with up to three friends on parties, in lectures or at school - Everywhere! Curves is as brilliant as it is simple: Cut off the way of the other players and survive as long as you can, without hitting an obstacle yourself. \r\n\r\n+ Instantly addictive\r\n+ Super multiplayer fun for the OUYA\r\n+ Exciting power-ups, which make every match unpredictable\r\n+ Share your best matches witch your friends instantly and show off who's the boss\r\n\r\nCurves is a competitve snake like game. There are no In-App-Purchases or other catches in the game - just pure fun!\r\n\r\nGet Curves now and compete with up to three friends on your OUYA!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "bbc963d3-74d2-41e8-a7de-ffa4a6eaed64",
+            "date": "2013-07-08T15:32:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/57550203-c3e9-46f6-9d05-2c954e9a07f2\/com.levire.curves\/bbc963d3-74d2-41e8-a7de-ffa4a6eaed64\/qG8WRCiSkm3qFyEksKaQ_Curves-ouya-1.1.apk",
+            "size": 6223152,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.levire.curves\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5IbRuYClQ0uY97jVqOsc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wlUbIsYSREaKY9PsS1QJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ivWO9Hi7QSC6dlZgAmRN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PFHdzTQQmLghgafbidBA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/18W2v7olTxu11nL1MQEb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cERr3Nz4QSOjZbfdLc8S"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wlUbIsYSREaKY9PsS1QJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wlUbIsYSREaKY9PsS1QJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ivWO9Hi7QSC6dlZgAmRN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ivWO9Hi7QSC6dlZgAmRN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PFHdzTQQmLghgafbidBA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PFHdzTQQmLghgafbidBA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/18W2v7olTxu11nL1MQEb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/18W2v7olTxu11nL1MQEb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cERr3Nz4QSOjZbfdLc8S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cERr3Nz4QSOjZbfdLc8S\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Levire UG (haftungsbeschraenkt) & Co. KG",
+        "supportEmail": "info@levire.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/curves.levire.com",
+    "firstPublishedAt": "2013-06-06T22:45:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Levire UG (haftungsbeschraenkt) & Co. KG.",
+    "premium": false,
+    "rating": {
+        "likeCount": 171,
+        "average": 3.83,
+        "count": 195
+    }
+}

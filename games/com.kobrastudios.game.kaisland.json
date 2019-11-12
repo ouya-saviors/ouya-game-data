@@ -1,0 +1,95 @@
+{
+    "packageName": "com.kobrastudios.game.kaisland",
+    "title": "Peaces in KaIsland",
+    "description": "Peaces in KaIsland is a Fun-Game Shooter. Every Player needs to defend his onw Island and try to demolate the Island of other Players. In Single Player Mode you need to tear down Islands in a given time. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e8470135-5087-472b-8447-5ae22f48822c",
+            "date": "2013-08-12T16:34:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/726a6701-ec68-4368-8423-59f20cf4bb08\/com.kobrastudios.game.kaisland\/e8470135-5087-472b-8447-5ae22f48822c\/9KxZScKSkmNd9UEJsJVp_KaIsland_v1_3_1.apk",
+            "size": 7278593,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kobrastudios.game.kaisland\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TbZQQ02RsN39kJeXh4Tw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F027usLkRdyJdMSdfn1Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6QDvLOApQsismMjB15qI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Nbo7B5vSyOYHyIW6jYA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9l6t2a8T2mzBbMS4YVxg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xqfwEzKMTHWa2E0CprqR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/raIClWGnTwutwiIePdTa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0LkmI7EQPmsLd5QY1SZO"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/F027usLkRdyJdMSdfn1Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/F027usLkRdyJdMSdfn1Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6QDvLOApQsismMjB15qI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6QDvLOApQsismMjB15qI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8Nbo7B5vSyOYHyIW6jYA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8Nbo7B5vSyOYHyIW6jYA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9l6t2a8T2mzBbMS4YVxg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9l6t2a8T2mzBbMS4YVxg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xqfwEzKMTHWa2E0CprqR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xqfwEzKMTHWa2E0CprqR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/raIClWGnTwutwiIePdTa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/raIClWGnTwutwiIePdTa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0LkmI7EQPmsLd5QY1SZO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0LkmI7EQPmsLd5QY1SZO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "KobraStudios",
+        "supportEmail": "kai@kobrastudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.kaisland.net",
+    "firstPublishedAt": "2013-08-12T16:34:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by KobraStudios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 31,
+        "average": 2.9,
+        "count": 49
+    }
+}

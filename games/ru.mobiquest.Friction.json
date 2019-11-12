@@ -1,0 +1,70 @@
+{
+    "packageName": "ru.mobiquest.Friction",
+    "title": "Blob",
+    "description": "Blob is just a fraction of energy that woke up one day and found itself sentient, feeling and parted from the Current, it once was whole with. \r\n\r\nGuide Blob through challenging levels using just the two buttons on your gamepad in this VERY SHORT demo.\r\n\r\nWe need your Likes to complete the full version of this adventure!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4af508d8-1e3e-4dca-8a49-5b605ae62a44",
+            "date": "2013-09-10T23:20:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b1630058-3c9c-417a-a4a1-78dbac4e7397\/ru.mobiquest.Friction\/4af508d8-1e3e-4dca-8a49-5b605ae62a44\/tiFRgI4QcKZS14iNmKPe_OuyaUnityApplication.apk",
+            "size": 43125584,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/ru.mobiquest.friction\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S353m6iqQoavFnqa1G2W",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ByFJLjzKTfmfCzshTrrM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3sP9WFZEQvGlaJNfo5mw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lQBctvUZSPKGeeRvmjnf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ByFJLjzKTfmfCzshTrrM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ByFJLjzKTfmfCzshTrrM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3sP9WFZEQvGlaJNfo5mw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3sP9WFZEQvGlaJNfo5mw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lQBctvUZSPKGeeRvmjnf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lQBctvUZSPKGeeRvmjnf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Denis Kolesnichenko",
+        "supportEmail": "denis@mobiquest.ru",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mobiquest.ru",
+    "firstPublishedAt": "2013-09-10T23:20:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Denis Kolesnichenko.",
+    "premium": false,
+    "rating": {
+        "likeCount": 38,
+        "average": 3.59,
+        "count": 27
+    }
+}

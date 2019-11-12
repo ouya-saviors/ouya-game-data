@@ -1,0 +1,83 @@
+{
+    "packageName": "air.com.rustymoyher.SHAARK",
+    "title": "SHAARK!",
+    "description": "A game about being a bird. A bird needs to fly. To eat. To think on it's feet. But most of all: to avoid being eaten!\r\n\r\nNightmare mode features \"Above Slumberland\" by Tadpole.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "1752cf71-693b-4bf4-a442-18a34bf57720",
+            "date": "2014-02-04T18:33:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9d10984e-f15e-4ae6-ad3d-d4e7aac0f74c\/air.com.rustymoyher.SHAARK\/1752cf71-693b-4bf4-a442-18a34bf57720\/WXj2VbfeTYeLVlPF2Nd1_SHAARK.apk",
+            "size": 12900433,
+            "md5sum": "54eccae7ca017683183a594ad57a4eb3",
+            "publicSize": 355928,
+            "nativeSize": 19646951
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.rustymoyher.shaark\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jH9nxoOlTxeZZcOTM7nH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xsU1xyvNRyqXehPeF3OQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qWfJMWHCRuiK0SllWvUr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8upyDlv6QX2R1TKF9j4v",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QKxPGZhbSRa4a4DW6vMz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3ETs1u2Td6x9UxOiSljf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xsU1xyvNRyqXehPeF3OQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xsU1xyvNRyqXehPeF3OQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qWfJMWHCRuiK0SllWvUr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qWfJMWHCRuiK0SllWvUr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8upyDlv6QX2R1TKF9j4v\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8upyDlv6QX2R1TKF9j4v\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QKxPGZhbSRa4a4DW6vMz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QKxPGZhbSRa4a4DW6vMz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3ETs1u2Td6x9UxOiSljf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3ETs1u2Td6x9UxOiSljf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rusty Moyher",
+        "supportEmail": "support@rustymoyher.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/rustymoyher.com",
+    "firstPublishedAt": "2014-02-04T18:33:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Rusty Moyher.",
+    "premium": false,
+    "rating": {
+        "likeCount": 37,
+        "average": 3.54,
+        "count": 206
+    }
+}

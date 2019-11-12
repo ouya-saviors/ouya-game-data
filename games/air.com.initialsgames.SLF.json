@@ -1,0 +1,104 @@
+{
+    "packageName": "air.com.initialsgames.SLF",
+    "title": "Super Lemonade Factory",
+    "description": "Post World War II, a region in political turmoil. Andre\u2019s father offers to give him his lemonade factory \u2013 but on one condition; he and his wife, Liselot, must journey through the entire factory, a task that is easier said than done. Andre and Liselot must combine their unique abilities to make it through each room together. Along the way they\u2019ll meet a cast of characters including the foreman, the chef, a food inspector and a general who wants the factory to supply drinks to the military, now engaged in a new war. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.9",
+            "versionCode": 0,
+            "uuid": "1fceb9ba-38f3-4d54-ab5d-ec59fa2be44a",
+            "date": "2014-01-30T22:14:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1524df9e-c5bf-426d-86e9-2194298858c6\/air.com.initialsgames.SLF\/1fceb9ba-38f3-4d54-ab5d-ec59fa2be44a\/RIC2ExwR4ao57kv2oXhJ_Super%20Lemonade%20Factory-captive-runtime.apk",
+            "size": 23595124,
+            "md5sum": "7bf3bcc19efda79047c709d074689a38",
+            "publicSize": 440047,
+            "nativeSize": 19368691
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.initialsgames.slf\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1DCCEpySeBmU1YqnUw65",
+        "video": "https:\/\/vimeo.com\/78707892",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G00FpwzSC2WKBLtqHkk9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EHyYIbjYQ1ub9yvjuMV3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/K4PVJoFRNZcUXX5MIUg4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rRYOiWfMTY69iURkvtwf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mRAyHQt5Sv2yiO020yXf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MDBfWy7XQFOW4InVi3HL"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/78707892"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G00FpwzSC2WKBLtqHkk9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G00FpwzSC2WKBLtqHkk9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EHyYIbjYQ1ub9yvjuMV3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EHyYIbjYQ1ub9yvjuMV3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/K4PVJoFRNZcUXX5MIUg4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/K4PVJoFRNZcUXX5MIUg4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rRYOiWfMTY69iURkvtwf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rRYOiWfMTY69iURkvtwf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mRAyHQt5Sv2yiO020yXf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mRAyHQt5Sv2yiO020yXf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MDBfWy7XQFOW4InVi3HL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MDBfWy7XQFOW4InVi3HL\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Initials",
+        "supportEmail": "support@initialsgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/superlemonadefactory.initialsgames.com",
+    "firstPublishedAt": "2013-11-26T20:48:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Initials.",
+    "premium": false,
+    "rating": {
+        "likeCount": 124,
+        "average": 3.43,
+        "count": 133
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SLF",
+            "name": "Super Lemonade Factory",
+            "description": "Buy Super Lemonade Factory",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

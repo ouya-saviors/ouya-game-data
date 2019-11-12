@@ -1,0 +1,71 @@
+{
+    "packageName": "com.unfoil.followme",
+    "title": "Follow Me",
+    "description": "This is a Simon game. Remember the pattern.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0e3f7bd2-68b0-441b-819d-acc24ae72330",
+            "date": "2013-08-02T19:57:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/026cac21-3217-4f24-a8e2-ac33b9a7a755\/com.unfoil.followme\/0e3f7bd2-68b0-441b-819d-acc24ae72330\/ygYOPCToQ12siWSlDv8A_FollowMe.apk",
+            "size": 69937,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.unfoil.followme\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A1p44g2MT7yMJGCXb3I6",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sSzsVCL5QJmtDB7NDbTg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KvaafprLRKGLbtRO66pC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ueMnDxYvTBe68vu2NoHQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sSzsVCL5QJmtDB7NDbTg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sSzsVCL5QJmtDB7NDbTg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KvaafprLRKGLbtRO66pC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KvaafprLRKGLbtRO66pC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ueMnDxYvTBe68vu2NoHQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ueMnDxYvTBe68vu2NoHQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Unfoil.com",
+        "supportEmail": "unfoil.com@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.unfoil.com\/",
+    "firstPublishedAt": "2013-08-02T19:57:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Unfoil.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 2.64,
+        "count": 11
+    }
+}

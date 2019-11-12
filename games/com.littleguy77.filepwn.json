@@ -1,0 +1,88 @@
+{
+    "packageName": "com.littleguy77.filepwn",
+    "title": "FilePwn",
+    "description": "FilePwn is a simple, no-frills file manager optimized for the OUYA controller.  Browse, install, view, copy, move, rename, and delete local files and folders with minimum hassle.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.2.1",
+            "versionCode": 0,
+            "uuid": "6543cf48-029b-4d7e-9cf0-ad3926505150",
+            "date": "2014-03-04T21:37:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/44b7f9d1-e86d-4fb9-b95e-b870c45cc9c6\/com.littleguy77.filepwn\/6543cf48-029b-4d7e-9cf0-ad3926505150\/nFU5wCJKQ9uZ7lFcfsH9_FilePwn.apk",
+            "size": 141328,
+            "md5sum": "8e3fdea7b4087c86719bb8d7266c600b",
+            "publicSize": 108969,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.littleguy77.filepwn\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/girl0Y6tSXi21AuuvCqq",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/On8kDZXtQBqvNv38l8LF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y8tHFa6T6iiLfkN4q8o6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PKtD9OFTNmjQfobfzsCg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6uCt41aGRlqNouDOtf95",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AiAl8OjFRqutb8Cwt67V",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x4HgatS4TeC7xoA9aTPe"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/On8kDZXtQBqvNv38l8LF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/On8kDZXtQBqvNv38l8LF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y8tHFa6T6iiLfkN4q8o6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y8tHFa6T6iiLfkN4q8o6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PKtD9OFTNmjQfobfzsCg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PKtD9OFTNmjQfobfzsCg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6uCt41aGRlqNouDOtf95\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6uCt41aGRlqNouDOtf95\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AiAl8OjFRqutb8Cwt67V\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AiAl8OjFRqutb8Cwt67V\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/x4HgatS4TeC7xoA9aTPe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/x4HgatS4TeC7xoA9aTPe\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "littleguy77",
+        "supportEmail": "littleguy77@live.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ouyaforum.com\/showthread.php?4523-FilePwn-littleguy77",
+    "firstPublishedAt": "2013-07-15T21:29:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by littleguy77.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1525,
+        "average": 4.63,
+        "count": 1737
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "packageName": "air.com.homeworldarts.jurassicQuest",
+    "title": "Jurassic Quest",
+    "description": "Enter a prehistoric jurassic world filled with dinosaurs and play as a Dilophosaurus in this 2D platformer. Battle Compsognathus, Pachycephalosaurus, Velociraptor, and the mighty Tyrannosaurus Rex. Jump on platforms and avoid lava pits. Collect three dinosaur eggs in each level and advance through the island. Collect hearts from defeated dinosaurs to refill your life. Time jumps to land on moving platforms and avoid attacking dinos. You will be able to jump much higher if you are running. Good luck and beware of the mighty T-Rex.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "Compy",
+            "versionCode": 0,
+            "uuid": "3a5aba19-bc2f-4c93-aa36-4cbe640e0939",
+            "date": "2014-04-29T23:18:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/000e47bb-eddf-49f2-90ac-a45376842038\/air.com.homeworldarts.jurassicQuest\/3a5aba19-bc2f-4c93-aa36-4cbe640e0939\/9bptqUv4TzW5cOTuHSds_jurassicQuest.apk",
+            "size": 29130462,
+            "md5sum": "4dcdc2251c6b112221c6cbf1180d2c45",
+            "publicSize": 895107,
+            "nativeSize": 19372131
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.homeworldarts.jurassicquest\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/33T1GPwMSau4ckvyKzno",
+        "video": "https:\/\/vimeo.com\/93038805",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8ZW8UCKKRnS2aGXKY0Jz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8mEQ0WvORFuXGX1qMhZw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PnzY3ny9Q5CMKcYnxPBg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IDwS1hV4RDmqsWgCT3f3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/67w2BQQlRnKxAGYbZX2F"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/93038805"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8ZW8UCKKRnS2aGXKY0Jz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8ZW8UCKKRnS2aGXKY0Jz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8mEQ0WvORFuXGX1qMhZw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8mEQ0WvORFuXGX1qMhZw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PnzY3ny9Q5CMKcYnxPBg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PnzY3ny9Q5CMKcYnxPBg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IDwS1hV4RDmqsWgCT3f3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IDwS1hV4RDmqsWgCT3f3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/67w2BQQlRnKxAGYbZX2F\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/67w2BQQlRnKxAGYbZX2F\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Homeworld Arts LLC",
+        "supportEmail": "homeworldarts@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.homeworldarts.com",
+    "firstPublishedAt": "2014-04-29T23:18:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Homeworld Arts LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.05,
+        "count": 20
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "jurassic_quest_unlock",
+            "name": "Jurassic Quest Unlock",
+            "description": "Unlocks the full game.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

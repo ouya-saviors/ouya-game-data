@@ -1,0 +1,92 @@
+{
+    "packageName": "com.Studio17.slenderlastsleep",
+    "title": "Slender Last Sleep",
+    "description": "He is the monster. The forest walker. Only a few in this world are unfortunate enough to meet him, but none can escape his wicked stare. He is Slenderman, the ghastly kidnapper.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "8e36b8ea-6fc9-4a52-b9c4-78997c14e5ec",
+            "date": "2013-12-24T09:23:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e83909e1-b237-41f6-b176-bfcc2b2083b6\/com.Studio17.slenderlastsleep\/8e36b8ea-6fc9-4a52-b9c4-78997c14e5ec\/KCdZX6LqRUqEbXeEPs5m_Slender%20Last%20Sleep.apk",
+            "size": 43959498,
+            "md5sum": "cc4ff0399fc4f1c07f55839262dbac2b",
+            "publicSize": 1525186,
+            "nativeSize": 3767652
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.studio17.slenderlastsleep\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dmOz8TTDSeqYq2hiCN8r",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iC2KWkawQ7mOCrZZv2zH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rAcN7dyCSpm5v9HSzT7D",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7gxdpRQ0TyaRfj6yGSdi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DgeeYUVS46qulYoon7RQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SyA5LBkQQKxr9JKKvVOG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iC2KWkawQ7mOCrZZv2zH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iC2KWkawQ7mOCrZZv2zH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rAcN7dyCSpm5v9HSzT7D\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rAcN7dyCSpm5v9HSzT7D\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7gxdpRQ0TyaRfj6yGSdi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7gxdpRQ0TyaRfj6yGSdi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DgeeYUVS46qulYoon7RQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DgeeYUVS46qulYoon7RQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SyA5LBkQQKxr9JKKvVOG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SyA5LBkQQKxr9JKKvVOG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Anton Vazhinsky",
+        "supportEmail": "gamingstudio17@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/17studio.tumblr.com",
+    "firstPublishedAt": "2013-12-24T09:23:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Anton Vazhinsky.",
+    "premium": false,
+    "rating": {
+        "likeCount": 89,
+        "average": 3.39,
+        "count": 110
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Slender_Last_Sleep",
+            "name": "Slender Last Sleep",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

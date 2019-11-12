@@ -1,0 +1,94 @@
+{
+    "packageName": "air.com.pixeljam.potatomanTroof",
+    "title": "Potato Man Seeks the Troof",
+    "description": "***Official Selection of IndieCade 2013!***\r\n\r\nIn a world where the Troof is an unanswered question, Potatoman quests through the riddle. Through desert wastelands, thick forests, and dystopian cities, nothing is what it seems. With only his wits, his jump, and a question, Potatoman must potato forth through quirky and challenging platforming puzzles! Jump, run, and engage in humorous potatosophical debate as your avatar dies a thousand deaths...  dont end up a potato pancake... go forward and seek the Troof!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "076f83a8-c7bc-46ed-baa2-ce5a7be0d110",
+            "date": "2013-10-03T21:33:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/aa85e857-9715-442c-a6a9-3e2be529002c\/air.com.pixeljam.potatomanTroof\/076f83a8-c7bc-46ed-baa2-ce5a7be0d110\/eIkWLmNRTZW4PyIdacuH_Potatoman.apk",
+            "size": 24163785,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.pixeljam.potatomantroof\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kuVRu3YDTF6Iq7YxsbhO",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/92YO18bvSVOTMQ703Euf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dFJ2PpvbQ8yEY94tH1bL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ixjUUuiFS8uJFDJmAYqR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SmKf5NLbTqGvQ2fTzeon",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KtUHb0nARHuwmNG84sB7"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/92YO18bvSVOTMQ703Euf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/92YO18bvSVOTMQ703Euf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dFJ2PpvbQ8yEY94tH1bL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dFJ2PpvbQ8yEY94tH1bL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ixjUUuiFS8uJFDJmAYqR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ixjUUuiFS8uJFDJmAYqR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SmKf5NLbTqGvQ2fTzeon\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SmKf5NLbTqGvQ2fTzeon\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KtUHb0nARHuwmNG84sB7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KtUHb0nARHuwmNG84sB7\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Pixeljam",
+        "supportEmail": "pixeljamgames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.pixeljam.com",
+    "firstPublishedAt": "2013-10-02T05:37:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Pixeljam.",
+    "premium": false,
+    "rating": {
+        "likeCount": 302,
+        "average": 3.99,
+        "count": 450
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "UnlockFullGame",
+            "name": "Unlock Full game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "packageName": "tv.ouya.AmpGear",
+    "title": "AmpGear",
+    "description": "a platformer with a transformable robot! adventures of a pilot searching the missing piece of his robot on a strange planet",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "77aa5bec-c41f-4532-842b-ac50a53b4ffb",
+            "date": "2013-06-26T18:26:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c5491d60-7ab9-414e-82cd-84e86fa1ee68\/tv.ouya.AmpGear\/77aa5bec-c41f-4532-842b-ac50a53b4ffb\/UOJUknsvRdyq2WOSlOIp_AMPGEAR.apk",
+            "size": 23994352,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.ampgear\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yzJhAOrNRZOmjhmBQLaW",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9Hphei6dRda9oFo1AMUA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EPcl7o89QxepTIhRqhLm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HWVdZABbTuOx6gsN9D0o",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ww9z1FsSTRadPShIJUoV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yn0fWl4TT4ylEsxXymOe"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9Hphei6dRda9oFo1AMUA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9Hphei6dRda9oFo1AMUA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EPcl7o89QxepTIhRqhLm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EPcl7o89QxepTIhRqhLm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HWVdZABbTuOx6gsN9D0o\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HWVdZABbTuOx6gsN9D0o\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ww9z1FsSTRadPShIJUoV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ww9z1FsSTRadPShIJUoV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yn0fWl4TT4ylEsxXymOe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yn0fWl4TT4ylEsxXymOe\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "treeCL",
+        "supportEmail": "treeclcontact@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/treecl.wordpress.com\/",
+    "firstPublishedAt": "2013-03-27T18:53:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by treeCL.",
+    "premium": false,
+    "rating": {
+        "likeCount": 58,
+        "average": 1.83,
+        "count": 175
+    }
+}

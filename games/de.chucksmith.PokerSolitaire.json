@@ -1,0 +1,92 @@
+{
+    "packageName": "de.chucksmith.PokerSolitaire",
+    "title": "Poker Solitaire",
+    "description": "This addictive and easy-to-learn solitaire game will have you making poker hands all over the place. Watch your strategy evolve as you discover better ways to play your cards and obtain higher scores! Choose between the default scoring system, which rewards you for the difficulty of making hands in the game and the American scoring system based on traditional poker hand ranking.\r\n\r\nCan you outwit your friends and stay on top of your local high score lists?\r\n\r\n\u2022 Traditional, simple and 4-color playing cards\r\n\u2022 2 scoring systems\r\n\u2022 5 eye-popping backgrounds\r\n\u2022 4 mind-blowing music tracks\r\n\u2022 Xbox 360 and PS3 controller support\r\n\u2022 English, Esperanto, French, German, Spanish",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card\/Casino",
+        "Kids List",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4c40f00f-df16-4167-a199-8c67585c632a",
+            "date": "2013-10-07T19:47:18Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/793a2e4b-bbf8-4393-9a54-ce14fd6db8bf\/de.chucksmith.PokerSolitaire\/4c40f00f-df16-4167-a199-8c67585c632a\/CRPetTvGFc0P0d7fzAOE_Poker_Solitaire.apk",
+            "size": 50353755,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.chucksmith.pokersolitaire\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nNNtpxmCQ3K91bB6PW06",
+        "video": "https:\/\/vimeo.com\/76130513",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vVmUhPNgSKahq1fPxXeh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mEqmtXQRtObTP6r0mmVM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l7Y3aibFSRWFVWwZ1sWs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q4dcP6TS02QWgUAwcuzR"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76130513"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vVmUhPNgSKahq1fPxXeh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vVmUhPNgSKahq1fPxXeh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mEqmtXQRtObTP6r0mmVM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mEqmtXQRtObTP6r0mmVM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l7Y3aibFSRWFVWwZ1sWs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l7Y3aibFSRWFVWwZ1sWs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Q4dcP6TS02QWgUAwcuzR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Q4dcP6TS02QWgUAwcuzR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "793a2e4b-bbf8-4393-9a54-ce14fd6db8bf",
+        "name": "Ludisto",
+        "supportEmail": "chuck@chucksmith.de",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.chucksmith.de\/",
+    "firstPublishedAt": "2013-10-07T19:47:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Ludisto.",
+    "premium": false,
+    "rating": {
+        "likeCount": 59,
+        "average": 3.81,
+        "count": 43
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "poker_sol_full",
+            "name": "Poker Solitaire - Full Game",
+            "description": "- Unlimited Play\r\n- Undo (once per game)\r\n- American Scoring Option\r\n- More Music and Backgrounds",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

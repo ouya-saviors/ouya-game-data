@@ -1,0 +1,94 @@
+{
+    "packageName": "com.neuralentertainment.MarbleMasters_ThePit",
+    "title": "Marble Masters: The Pit",
+    "description": "Destroy the other marbles in 50 challenging levels. Battle your friends in a 4 player arena. Do you have what it takes to become a Marble Master?\r\n\r\nVersion 1.1 Patch Notes:\r\n* Improved performance\r\n* Graphic enhancements\r\n* Minor feature fixes\r\n\r\nNote: Version 1.0 users, please delete and reinstall to enjoy version 1.1 content\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "701b65bb-f576-4fba-b2bc-18b1e668ecd7",
+            "date": "2014-03-08T05:11:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c8b6d90d-5475-46a2-a972-b428bf9826d3\/com.neuralentertainment.MarbleMasters_ThePit\/701b65bb-f576-4fba-b2bc-18b1e668ecd7\/nzgqWWoQx661M2b5o4bk_MarbleMasters_ThePit_Release.apk",
+            "size": 264134570,
+            "md5sum": "35b07a47b82a310e8af10c2105188ba3",
+            "publicSize": 597779,
+            "nativeSize": 14671620
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.neuralentertainment.marblemasters_thepit\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aRH03ESvRAYsgbJqRGoN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1660fxvgQEeVkwv84brq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MAVDTxQDmBtfP8VRDZNg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e3eFTa9NQsWatVgGn5tf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FCSCV4RRGzypy2UABnws",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m1BBYaG7TCijQ4Ne5MWR"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1660fxvgQEeVkwv84brq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1660fxvgQEeVkwv84brq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MAVDTxQDmBtfP8VRDZNg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MAVDTxQDmBtfP8VRDZNg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/e3eFTa9NQsWatVgGn5tf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/e3eFTa9NQsWatVgGn5tf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FCSCV4RRGzypy2UABnws\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FCSCV4RRGzypy2UABnws\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m1BBYaG7TCijQ4Ne5MWR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m1BBYaG7TCijQ4Ne5MWR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Neural Entertainment",
+        "supportEmail": "NeuralEntertainment@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "NeuralEntertainment.com",
+    "firstPublishedAt": "2014-01-02T21:12:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Neural Entertainment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 54,
+        "average": 4.08,
+        "count": 38
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MarbleMasters_ThePit-Unlock",
+            "name": "Marble Masters: The Pit  - Unlock",
+            "description": "Unlock the Full Game\r\n* Master all 50 levels\r\n* Challenge friends in Multiplayer Arenas",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

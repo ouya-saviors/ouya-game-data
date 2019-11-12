@@ -1,0 +1,99 @@
+{
+    "packageName": "com.dogpigfish.SuperPuzzleGuyAdventure",
+    "title": "Super Puzzle Guy Adventure",
+    "description": "Super Puzzle Guy Adventure is an exciting new adventure with classical platform gameplay!  Follow Puzzle Guy as he collects puzzle coins and defeats crazy bad guys.  Super Puzzle Guy includes 6 major boss battles, multiple world paths, and many secrets.  Level up Puzzle guy by collecting puzzle coins and join him as he works to uncover the land's secrets!  Created by the minds of a 5 year old girl and 7 year boy.  ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Puzzle\/Trivia",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4",
+            "date": "2014-08-11T22:53:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ca91a90e-2a73-45b2-a6cf-3c4b456ed958\/com.dogpigfish.SuperPuzzleGuyAdventure\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/RZu8lQAdS6qwvlgRFMIM_SuperPuzzleGuyAdventure1.apk",
+            "size": 34688835,
+            "md5sum": "2d2e14a4b26bf2684e0f52d2cbd867c2",
+            "publicSize": 89257,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dogpigfish.superpuzzleguyadventure\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W8mF9uLmSnybtU0VPFc8",
+        "video": "https:\/\/vimeo.com\/90551984",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QzfxPwFDREmKcerKn0ku",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/juyckieRTzqL0O09Z146",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EfWrB3uXQB2qI7TGsV7E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4NVD4USSTr2YwPK3mWTl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rStVOYFTHeLGQ2hsJqxE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90551984"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/fosj7s_ouya-screenshot20140809-2-1dog92j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/thumbnails\/thumbnail20140809-2-1fm75rj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/glwsae_ouya-screenshot20140809-2-1m1mgrg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/thumbnails\/thumbnail20140809-2-b5mr39.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/1oyjyw_ouya-screenshot20140809-2-wbsmvq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/thumbnails\/thumbnail20140809-2-9awosz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/gskfwn_ouya-screenshot20140809-2-wbcnpb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/thumbnails\/thumbnail20140809-2-15vrqm1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/ae2awx_ouya-screenshot20140809-2-yzkwr3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0be32fde-ffc5-4dff-b4c7-4216ab3f8ed4\/thumbnails\/thumbnail20140809-2-n6je9x.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "dogpigfish",
+        "supportEmail": "support@dogpigfish.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "dogpigfish.com",
+    "firstPublishedAt": "2014-04-03T16:53:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by dogpigfish.",
+    "premium": false,
+    "rating": {
+        "likeCount": 15,
+        "average": 2.98,
+        "count": 40
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "superpuzzleguypurchase",
+            "name": "Buy Super Puzzle Guy",
+            "description": "You are about to purchase the exciting Super Puzzle Guy Adventure game!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

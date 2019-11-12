@@ -1,0 +1,69 @@
+{
+    "packageName": "com.Company3DiVi.JellyBounce",
+    "title": "Jelly Bounce",
+    "description": "Jelly Bounce is a classic platformer game for the next generation game console OUYA.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 0,
+            "uuid": "fd2a7f14-a846-4502-82aa-41270327053a",
+            "date": "2013-08-03T05:59:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3ce3d88c-5d24-4460-aeed-0c89a42f2e1a\/com.Company3DiVi.JellyBounce\/fd2a7f14-a846-4502-82aa-41270327053a\/ZyEGncNPQdCwoPMAz0Zs_JellyBounce.apk",
+            "size": 11957720,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.company3divi.jellybounce\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XDDflqiGTRWYLk4QtgUu",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ixoGzS9Qu6U6ZVQs9d2L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mR4BL2xHR2SS2u8GwkcR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CN18ZBHJSvmHDsat1HVf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ixoGzS9Qu6U6ZVQs9d2L\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ixoGzS9Qu6U6ZVQs9d2L\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mR4BL2xHR2SS2u8GwkcR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mR4BL2xHR2SS2u8GwkcR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CN18ZBHJSvmHDsat1HVf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CN18ZBHJSvmHDsat1HVf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3DiVi Company",
+        "supportEmail": "info@3divi.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.3divi.com",
+    "firstPublishedAt": "2013-03-28T03:30:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by 3DiVi Company.",
+    "premium": false,
+    "rating": {
+        "likeCount": 63,
+        "average": 2.95,
+        "count": 102
+    }
+}

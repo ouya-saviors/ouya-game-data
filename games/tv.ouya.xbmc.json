@@ -1,0 +1,83 @@
+{
+    "packageName": "tv.ouya.xbmc",
+    "title": "XBMC on OUYA",
+    "description": "XBMC on OUYA is OUYA's version of the award-wining, free and open-source software media player.\r\n\r\nIt is equivalent to the 12.2 official version, with added accelerated video decoding and support for multichannel audio passthrough.\r\n\r\nNote: To provide a vanilla XBMC experience, the app hasn't been altered to compensate for overscan. This can be adjusted in-app as shown on the screenshots.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "12.4.1 (Ouya)",
+            "versionCode": 120401,
+            "uuid": "aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca",
+            "date": "2016-11-07T22:42:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/558fbfcc-4f4e-4f45-b1c5-554791dd3fa3\/tv.ouya.xbmc\/356fcb87-1a8b-49a2-816e-3274a121e942\/i9JKwDCCRzGeMKMROlZj_xbmcouya-armeabi-v7a.apk",
+            "size": 53974295,
+            "md5sum": "e2d6f1f1e66dac0046819c62216e1fe1",
+            "publicSize": 97421,
+            "nativeSize": 58290048
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RgYQYky6RrC0jAWD5dK5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n76gMAshQwaqk6z9Atb3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0IeBv4TSmK59WxEgEN4V",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1Q2Q82tZTjya4ufzNsqH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EW6Z1nxRmK4RHZsq94Og",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3EimurFRYeuGKkMCLmTM"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-351jh6",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-1b0jmxj.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-1eoj8cw",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-1npenqw.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-17jjz6f",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-1qc10bw.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-1gqslgh",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-7803aj.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-x0fh22",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-c8igjd.png"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "OUYA, Inc.",
+        "supportEmail": "xbmc-support@ouya.tv",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.ouya.tv\/",
+    "firstPublishedAt": "2013-08-20T23:06:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2016 by OUYA, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 6337,
+        "average": 4.23,
+        "count": 10242
+    }
+}

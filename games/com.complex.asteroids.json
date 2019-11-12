@@ -1,0 +1,71 @@
+{
+    "packageName": "com.complex.asteroids",
+    "title": "Fancy Asteroids",
+    "description": "Fly your shippy around, blow up the asteroids!  Classic arcade game with beautiful artistic backgrounds and five nifty power-ups.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c8e458a2-1850-4568-84c2-130a8ef00b1f",
+            "date": "2014-10-30T18:07:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ac97382c-f8e2-421d-a1ec-43ccf7e92629\/com.complex.asteroids\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/DoxOv4eZSKGzrvSIHtFn_AsteroidsActivity.apk",
+            "size": 9015567,
+            "md5sum": "2438405f67edc8aece5e9dd1b78cdf05",
+            "publicSize": 231680,
+            "nativeSize": 406628
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cXPcNLLQSyagpp4qV1nY",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PKV3ioJ9RV2PRdhcSOiJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hWjRRMEiRXmhbfD60XWQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GuKQt8sVS9ebwXNJYllR"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/4gksij_ouya-screenshot20141029-2-gis9z9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/thumbnails\/thumbnail20141029-2-1heueie.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/ky1a3o_ouya-screenshot20141029-2-1w3ix5d.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/thumbnails\/thumbnail20141029-2-uxugj5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/c8vmag_ouya-screenshot20141029-2-e2w493.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/thumbnails\/thumbnail20141029-2-ur8t4b.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "2-Complex",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "2-complex.com",
+    "firstPublishedAt": "2014-10-30T18:07:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by 2-Complex.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.47,
+        "count": 98
+    }
+}

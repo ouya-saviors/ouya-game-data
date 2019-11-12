@@ -1,0 +1,76 @@
+{
+    "packageName": "com.Stop4Sanity.LowriderCarGame",
+    "title": "Lowrider Car Game Premium",
+    "description": "Build your own custom car.\r\n\r\nCreate a custom lowrider car from your OUYA console. Play one of the 3 different game modes to earn money and unlock more cars and parts to customize any way you want.\r\n\r\nWith over 180 different upgrades on any of the 6 in game cars the possibilities are endless. We will also be adding more cars and features with future updates.\r\n\r\nSome of the features we have available include:\r\nCar Hopping\r\nCar Dancing\r\nCustom wheels and your choice of Knock Offs\r\nBumper Kits\r\nSkirts\r\nEuro Lights\r\nShaved Door Handles\r\nConvertible Tops\r\nSunroofs\r\nBillet Grills\r\nPlus 180 More parts available to upgrade your cars performance and look.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.02",
+            "versionCode": 0,
+            "uuid": "af627fba-43ec-4684-967c-561a86799ae3",
+            "date": "2013-09-04T13:59:34Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/58890442-2763-4232-9264-eeacab5a5703\/com.Stop4Sanity.LowriderCarGame\/af627fba-43ec-4684-967c-561a86799ae3\/QXgmFBKJQJGXfqZL8Nt3_tlg.apk",
+            "size": 19212095,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.stop4sanity.lowridercargame\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iISU6R8REys50iVqCTBA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sXEJLYfURXerpJdfeVVH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wjL5wVT6R4G3kKy2Vq3u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/epeT9ZiUTjWzNd18GDZt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IQMJQEaRSUmlgDxFt80w"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sXEJLYfURXerpJdfeVVH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sXEJLYfURXerpJdfeVVH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wjL5wVT6R4G3kKy2Vq3u\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wjL5wVT6R4G3kKy2Vq3u\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/epeT9ZiUTjWzNd18GDZt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/epeT9ZiUTjWzNd18GDZt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IQMJQEaRSUmlgDxFt80w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IQMJQEaRSUmlgDxFt80w\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Stop4Sanity Games",
+        "supportEmail": "support@lowridercargame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.lowridercargame.com",
+    "firstPublishedAt": "2013-08-30T22:10:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Stop4Sanity Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 47,
+        "average": 2.11,
+        "count": 64
+    }
+}

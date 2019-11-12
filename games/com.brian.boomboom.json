@@ -1,0 +1,107 @@
+{
+    "packageName": "com.brian.boomboom",
+    "title": "BoomBoom",
+    "description": "A classic local multiplayer brawler based on the addictive gameplay mechanics of Bomberman, but with some unique twists of its own. 2-4 players. Now supports Xbox360 controllers.  All of BoomBoom is FREE. No in-app-purchases, nag screens, spyware, or advertisements.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "a84472f4-8d61-4e2b-9e60-83267e416436",
+            "date": "2013-08-21T14:28:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c2a03802-4e51-4b31-b251-1576dda98c42\/com.brian.boomboom\/a84472f4-8d61-4e2b-9e60-83267e416436\/e9IoLLwYT2CZNXmiob56_BoomBoom.apk",
+            "size": 34720818,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.brian.boomboom\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hX7EbmEeSwu8utSvwDAr",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xYX5FOlKTHGCBy7p56ml",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R0XsRiLaQqqWuysbMnXT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fEUotXrbR6WK8X4gfRoQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iaVoeOCbRzKTCeFo5nuh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r1H8AwTFQAealRiYd3m6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jbLGnyfJQlyNv1tWUYl0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HSRiy3SwQ1SpbboTwzZB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dWMcRNlgQ4Oth1RcoFr2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BkNdm0HRcyVMWKxCFvjK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xYX5FOlKTHGCBy7p56ml\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xYX5FOlKTHGCBy7p56ml\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R0XsRiLaQqqWuysbMnXT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R0XsRiLaQqqWuysbMnXT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fEUotXrbR6WK8X4gfRoQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fEUotXrbR6WK8X4gfRoQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iaVoeOCbRzKTCeFo5nuh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iaVoeOCbRzKTCeFo5nuh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r1H8AwTFQAealRiYd3m6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r1H8AwTFQAealRiYd3m6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jbLGnyfJQlyNv1tWUYl0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jbLGnyfJQlyNv1tWUYl0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HSRiy3SwQ1SpbboTwzZB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HSRiy3SwQ1SpbboTwzZB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dWMcRNlgQ4Oth1RcoFr2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dWMcRNlgQ4Oth1RcoFr2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BkNdm0HRcyVMWKxCFvjK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BkNdm0HRcyVMWKxCFvjK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Brian's Games",
+        "supportEmail": "info@briansgames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/briansgames.com\/",
+    "firstPublishedAt": "2013-08-19T15:34:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Brian's Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 26,
+        "average": 2.15,
+        "count": 26
+    }
+}

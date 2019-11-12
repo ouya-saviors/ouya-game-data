@@ -1,0 +1,102 @@
+{
+    "packageName": "com.tastypoisongames.neonshadow",
+    "title": "Neon Shadow",
+    "description": "Multiplayer update!\r\n* 5 New maps.\r\n* Mutant Mode (Kill the mutant to be the mutant!)\r\n* Insta Gib Mode. (One shot mayhem!)\r\n* Bot Match (All the modes against Bots!)\r\n* Controller fixes and adjustments.\r\n\r\nNeon Shadow is a fast paced Cyber Punk FPS inspired by classic shooters. Suit up and grab your shotgun. Your mission: Save humanity from the dark mechanoids who have taken control of your space station and soon the rest of the galaxy!\r\n\r\nDemo includes: single player campaign (3 levels), online and split screen deathmatch (1 map)\r\n\r\nFeatures:\r\n\u2022 Old school first person shooter game-play\r\n\u2022 Single player campaign\r\n\u2022 2 Player co-op campaign  \r\n\u2022 Online and LAN multiplayer deathmatch mode\r\n\u2022 Up to 4 player split screen for local multiplayer deathmatch \r\n\u2022 Cyberpunk soundtrack from Abducted by Sharks. (http:\/\/abductedbysharks.com\/)\r\n\u2022 Support for multiple control layouts: south paw and legacy\r\n\u2022 PS3 and Xbox 360 controllers supported\r\n\r\nFollow @tasty_poison on Twitter for news and updates!",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Fight!",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.34",
+            "versionCode": 0,
+            "uuid": "831c26eb-9b1c-428a-b6c8-96a86395a085",
+            "date": "2015-12-15T23:49:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/369ed0ae-35ee-429e-a96a-ddfa58f5d49f\/com.tastypoisongames.neonshadow\/831c26eb-9b1c-428a-b6c8-96a86395a085\/aEXeZJ7LQv68UFCs1ePk_NeonShadow.apk",
+            "size": 113571663,
+            "md5sum": "f014492c01aff6da3d349dc7f668a813",
+            "publicSize": 633609,
+            "nativeSize": 15039000
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tastypoisongames.neonshadow\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/etLlarTWRdCp72F8X0hl",
+        "video": "https:\/\/vimeo.com\/78607831",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hc5bxRrRfuRV4eoveOIZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XACXOHPzTT6cOjyxMay0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bYrCBclyRCmhuVZdAjo4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Aov3GKGRaqC8LTWxHMkI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GaRAsmj4RPiRkjajjF2o"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/78607831"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/gsrpxi_ouya-screenshot20151204-3-k9go23.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/thumbnails\/thumbnail20151204-3-1siwjn4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/uvgq1f_ouya-screenshot20151204-3-1b33gqp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/thumbnails\/thumbnail20151204-3-1tvg05u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/2wapl0_ouya-screenshot20151204-3-1ibsn3l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/thumbnails\/thumbnail20151204-3-q752in.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/w7efgm_ouya-screenshot20151204-3-7rmoch.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/thumbnails\/thumbnail20151204-3-1t0aqrj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/aq1z2i_ouya-screenshot20151204-3-1udfjq3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/831c26eb-9b1c-428a-b6c8-96a86395a085\/thumbnails\/thumbnail20151204-3-oygxxe.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tasty Poison Games",
+        "supportEmail": "info@tastypoisongames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/tastypoisongames.com",
+    "firstPublishedAt": "2013-11-04T21:03:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Tasty Poison Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1233,
+        "average": 4.01,
+        "count": 1972
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "neonshadow_iap_full_game_unlock",
+            "name": "Neon Shadow Game Unlock",
+            "description": "",
+            "localPrice": 5.99,
+            "originalPrice": 5.99,
+            "currency": "EUR"
+        }
+    ]
+}

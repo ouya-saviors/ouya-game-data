@@ -1,0 +1,95 @@
+{
+    "packageName": "net.gustavdahl.suctioncoop",
+    "title": "Suction Co-Op",
+    "description": "Have you ever wondered how life would be as a suction cup? Now is your chance! Bring a friend \u2013 and let the sucking fun begin!\r\n\r\n*Requires two OUYA controllers to play*\r\n\r\nDeveloped at Exile Game Jam 2011 (Denmark).\r\n\r\nCredits:\r\nGustav Dahl\r\nJakob Kj\u00e6r-Galle\r\nMichael Skjaldgaard",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "646687a4-f7c6-4823-afe5-a84c28a2b57c",
+            "date": "2013-07-12T12:21:00Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ed71ca45-0386-455c-bdfd-1cb15b6340e2\/net.gustavdahl.suctioncoop\/646687a4-f7c6-4823-afe5-a84c28a2b57c\/o6vnUyoQRGGhhiWclzOe_suctioncoop.apk",
+            "size": 13546106,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.gustavdahl.suctioncoop\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j8eN2vAsQjX1RSCF7qV6",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DyA8eyg2Rj6jqXv6AS5b",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9BkpfxtTCaY9geElbFwa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1IzJCCPQ2Cyd20nws3sX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fz2MWvm1SpizKVqygXwg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N5jQ4EyJQaedWAwQSm8M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c3UOYubQeKja1LLwsCDi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q08EfFyeQiO7nx7UOGuG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DyA8eyg2Rj6jqXv6AS5b\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DyA8eyg2Rj6jqXv6AS5b\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9BkpfxtTCaY9geElbFwa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9BkpfxtTCaY9geElbFwa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1IzJCCPQ2Cyd20nws3sX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1IzJCCPQ2Cyd20nws3sX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fz2MWvm1SpizKVqygXwg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fz2MWvm1SpizKVqygXwg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N5jQ4EyJQaedWAwQSm8M\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N5jQ4EyJQaedWAwQSm8M\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/c3UOYubQeKja1LLwsCDi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/c3UOYubQeKja1LLwsCDi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/q08EfFyeQiO7nx7UOGuG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/q08EfFyeQiO7nx7UOGuG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gak Amok Games",
+        "supportEmail": "GustavDahl@wikzo.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/gustavdahl.net\/suction-co-op\/",
+    "firstPublishedAt": "2013-07-09T18:58:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Gak Amok Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 84,
+        "average": 3.47,
+        "count": 98
+    }
+}

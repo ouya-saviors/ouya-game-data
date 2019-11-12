@@ -1,0 +1,76 @@
+{
+    "packageName": "com.Locomalito.Gaurodan",
+    "title": "Gaurodan",
+    "description": "Long forgotten is the legend of Gaurodan, the bird of thunder, and his fight with Guayota, the fire beast. But now mankind has discovered the egg of Guayota within Mount Teide, and it is only a matter of time until Guarodan returns from the sky to fight the beast and punish us for awakening his ancient enemy.\r\n\r\nFly around the Canary Islands as Gaurodan, and destroy cities, armies and colossal creatures in your path throught this frantic shmup, created for the lovers of classic games that require mastering.\r\n\r\nGuarodan is a free game inspired by early titles like Defender, Choplifter or Sky Kid in terms of gameplay, and has a similar production style to other arcade games like Commando, Gyrodine or 1942.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.6",
+            "versionCode": 0,
+            "uuid": "c3e9e64f-0704-47ea-ab4d-07ce1f167d71",
+            "date": "2014-12-31T00:43:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/19e645f2-6f70-469a-bcee-9002b86548b6\/com.Locomalito.Gaurodan\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/vCExfcAQR1apVGVtg1Fc_Gaurodan_1_1.apk",
+            "size": 40905169,
+            "md5sum": "1e34950b186442a115235039e8dd3c59",
+            "publicSize": 891070,
+            "nativeSize": 9289280
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.gaurodan\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xSss39JtRmextUHvAP3n",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fu3FMwlQKSjlXEV9Pvw5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EmuGKEF9QkCxpTjpC3UK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NzcIPJlVSFinP3r7EhHe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oSJvnFnBRnCWNphsZefQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/iew513_ouya-screenshot20141227-2-1361g2v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-13x4ezl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/y9baws_ouya-screenshot20141227-2-d6kg4g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-1m0nmao.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/w1n2mt_ouya-screenshot20141227-2-myrpy4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-am1clx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/kbuk4i_ouya-screenshot20141227-2-tdk1l9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-118kssr.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Locomalito",
+        "supportEmail": "info@locomalito.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.locomalito.com\/gaurodan.php",
+    "firstPublishedAt": "2013-07-31T16:30:19Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Locomalito.",
+    "premium": false,
+    "rating": {
+        "likeCount": 455,
+        "average": 4.41,
+        "count": 725
+    }
+}

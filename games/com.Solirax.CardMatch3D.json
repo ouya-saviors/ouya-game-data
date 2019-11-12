@@ -1,0 +1,98 @@
+{
+    "packageName": "com.Solirax.CardMatch3D",
+    "title": "CardMatch 3D",
+    "description": "The AAA title of card matching games! (but actually indie :) ) offering following unique features:\r\n- Power-Ups and Power-Downs\r\n- Customizable game rules\r\n- Online Multiplayer\r\n- Artificial Intelligence Opponents\r\n- 4 different themes and interactive environments!\r\n- and of course, fully in 3D!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "c6b33724-93e7-4fcd-b0c0-b679a544f229",
+            "date": "2014-02-27T21:23:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/861f398a-2655-4352-a14d-2c242a4c92a8\/com.Solirax.CardMatch3D\/c6b33724-93e7-4fcd-b0c0-b679a544f229\/lq68HEwRaWJgNLExFSU4_CardMatch3D.apk",
+            "size": 18546139,
+            "md5sum": "129f84e33311be2499f052de17e35f48",
+            "publicSize": 356671,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.solirax.cardmatch3d\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2CBkShEHSe2iN0O7OtYT",
+        "video": "https:\/\/vimeo.com\/83851760",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pyDYNRTFmwlPrjen9Qfl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MDzPAiXKTBaMl54CkUgM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MckgUozHTH2FCgql4HFm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mbunWlcwTWcRZ4tYmzMA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dRMIzixFRkCWvc1KpUAY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/83851760"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pyDYNRTFmwlPrjen9Qfl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pyDYNRTFmwlPrjen9Qfl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MDzPAiXKTBaMl54CkUgM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MDzPAiXKTBaMl54CkUgM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MckgUozHTH2FCgql4HFm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MckgUozHTH2FCgql4HFm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mbunWlcwTWcRZ4tYmzMA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mbunWlcwTWcRZ4tYmzMA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dRMIzixFRkCWvc1KpUAY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dRMIzixFRkCWvc1KpUAY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tomas Mariancik",
+        "supportEmail": "tomas.mariancik@solirax.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/cardmatch3d.com",
+    "firstPublishedAt": "2014-01-13T17:51:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Tomas Mariancik.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 3.67,
+        "count": 21
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "cardmatch3d_full",
+            "name": "CardMatch 3D - Unlock Full Version",
+            "description": "Unlocks all features of the game - 3 extra themes, custom game mode and all special modes. Also makes the authors slightly less poor :)",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

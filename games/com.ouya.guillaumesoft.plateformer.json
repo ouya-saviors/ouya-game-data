@@ -1,0 +1,74 @@
+{
+    "packageName": "com.ouya.guillaumesoft.plateformer",
+    "title": "Plateformer",
+    "description": "I am learning Android, Ouya and Java programming. This is my first attempt at it.  This game is a demo which you can play the first two levels without purchase.  To play the remaining 7 levels you will have to purchase the game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "25ffc1af-b3fc-4967-bbda-f8f2a7e9733c",
+            "date": "2015-03-31T23:41:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ab58c9eb-0774-4cfc-8309-0c24895fc58f\/com.ouya.guillaumesoft.plateformer\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/XEnaoJsqSUi5fTHeA4gL_app-release.apk",
+            "size": 13327078,
+            "md5sum": "a29d236a3d3cce3a2d06cb1aae4600dd",
+            "publicSize": 689907,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ouya.guillaumesoft.plateformer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MYTojVnqTzaFWB0x5SZy",
+        "video": "https:\/\/vimeo.com\/111694542",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iERzXESHQo2WpWRBUNfY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yicTZZS1RiyDLnIEsXVA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qstzBVnRkCAgQwf511Ku"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/111694542"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/zpk1q4_ouya-screenshot20150326-3-7yg4hm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/thumbnails\/thumbnail20150326-3-m8syj9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/udlcuu_ouya-screenshot20150326-3-1rj64c7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/thumbnails\/thumbnail20150326-3-1narf34.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/d79zz7_ouya-screenshot20150326-3-1v84aua.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/25ffc1af-b3fc-4967-bbda-f8f2a7e9733c\/thumbnails\/thumbnail20150326-3-1avavo7.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Guillaume Swolfs  Guillaumesoft",
+        "supportEmail": "guillaumesoft@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/guillaumesoft.x10.mx\/home.php",
+    "firstPublishedAt": "2015-03-31T23:41:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Guillaume Swolfs  Guillaumesoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 1.57,
+        "count": 23
+    }
+}

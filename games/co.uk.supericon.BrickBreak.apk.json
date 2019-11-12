@@ -1,0 +1,98 @@
+{
+    "packageName": "co.uk.supericon.BrickBreak.apk",
+    "title": "Brick Break Blitz",
+    "description": "With jaw droppingly beautiful 3D graphics full of particle loveliness, this is Brick Breaking done in a classic style but executed with flair and imagination.\r\n\r\n\u2022 Easy and fun to play, testing your Brick Breaking skills as you progress\r\n\u2022 Over 80 levels with 4 different themes \u2013 Space\/Underwater\/Retro\/Candy Box\r\n\u2022 19 different power-ups and numerous types of ball from fast, to big, to lasers, to the ultimate Bomb Ball!\r\n\u2022 Bricks which not only look beautiful but have hidden secrets\r\n\u2022 Online leader boards \u2013 notch up that massive high score with the score multipliers\r\n\u2022 Enemies \u2013 huge moving Boss Blitz Bricks and more\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c1d63aba-49d4-474a-b8f1-f72b672fe7c2",
+            "date": "2014-02-19T21:08:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8c05d37d-ea1b-4254-9076-f6d5ac5378bd\/co.uk.supericon.BrickBreak.apk\/fcb84c2a-420c-4df2-92cf-74e9cf759e01\/1ufyOQQVRCCNjSMXdO51_co.uk.supericon.BrickBreak.apk",
+            "size": 78174356,
+            "md5sum": "0fe16b58b0cf4189628da5e3b8cf0f4d",
+            "publicSize": 460274,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/co.uk.supericon.brickbreak.apk\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kEs9xhaTpOZhCxghZpyR",
+        "video": "https:\/\/vimeo.com\/87030077",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g6yBy3hmSVidWl74JZal",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WQy92BbxSbm6nhpI4DZm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PPP32tjnRMaDniGawB6g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MvmeUuvlTwGTlKtTW8MJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MgYFBAsVSJuLZgG4AM9R",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w9kKIXMWRjuU00yxaEMV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s710cAKTDinm6dD48Ino"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87030077"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/g6yBy3hmSVidWl74JZal\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/g6yBy3hmSVidWl74JZal\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WQy92BbxSbm6nhpI4DZm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WQy92BbxSbm6nhpI4DZm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PPP32tjnRMaDniGawB6g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PPP32tjnRMaDniGawB6g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MvmeUuvlTwGTlKtTW8MJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MvmeUuvlTwGTlKtTW8MJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MgYFBAsVSJuLZgG4AM9R\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MgYFBAsVSJuLZgG4AM9R\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w9kKIXMWRjuU00yxaEMV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w9kKIXMWRjuU00yxaEMV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s710cAKTDinm6dD48Ino\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s710cAKTDinm6dD48Ino\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Super Icon Ltd",
+        "supportEmail": "support@supericon.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.supericon.co.uk",
+    "firstPublishedAt": "2014-01-21T20:09:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Super Icon Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 72,
+        "average": 3.91,
+        "count": 217
+    }
+}

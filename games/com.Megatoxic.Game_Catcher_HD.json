@@ -1,0 +1,75 @@
+{
+    "packageName": "com.Megatoxic.Game_Catcher_HD",
+    "title": "Game Catcher",
+    "description": "You're an average guy just trying to buy a few video games for your game console, when all of a sudden, a swarm of picky customers come flying in and steal all the games! Your objective is simple: get more games than they do without running outta money! \r\n\r\nVERSION 2.0 UPDATES:\r\n\r\n- Modified UI elements so there's more space between them and the edges of the screen.\r\n\r\n- ALL 2-Player modes are now fully functional\r\n\r\n- Added a built-in screen-saver feature to prevent screen burn-in.\r\n\r\n- Made a new Help section.\r\n\r\n- Fixed a serious glitch at the title screen regarding the touchpad being tapped.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.0.2",
+            "versionCode": 0,
+            "uuid": "7aad59f6-2219-4dae-acf3-92645cad48c3",
+            "date": "2013-07-19T16:42:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/106b0137-0b6f-4c81-b5f9-af26cf57703e\/com.Megatoxic.Game_Catcher_HD\/7aad59f6-2219-4dae-acf3-92645cad48c3\/m34pShVaSUWX1DU1hNAS_GameCatcher-2.0.2-Final.apk",
+            "size": 43733915,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.megatoxic.game_catcher_hd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hWzAvL5FTgCnB8e7Y1m8",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H01e9GytQC634ulmhlb5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EtyvVm1SGqU968tFB2X1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kz5GV6LAQguJCNQv7Dyu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7pAcWyQfTGCvZKlYrY9i"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/H01e9GytQC634ulmhlb5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/H01e9GytQC634ulmhlb5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EtyvVm1SGqU968tFB2X1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EtyvVm1SGqU968tFB2X1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kz5GV6LAQguJCNQv7Dyu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kz5GV6LAQguJCNQv7Dyu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7pAcWyQfTGCvZKlYrY9i\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7pAcWyQfTGCvZKlYrY9i\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Megatoxic",
+        "supportEmail": "lodmot347@aol.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.megatoxic.com",
+    "firstPublishedAt": "2013-06-24T22:24:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Megatoxic.",
+    "premium": false,
+    "rating": {
+        "likeCount": 35,
+        "average": 1.75,
+        "count": 12
+    }
+}

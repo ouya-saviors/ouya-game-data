@@ -1,0 +1,80 @@
+{
+    "packageName": "com.JumpOrFall.WashingtonVsZombies",
+    "title": "Washington Vs Zombies",
+    "description": "Washington vs Zombies is exactly as the title says it - President Washington slashing, hacking and shooting up zombies as he travels through worlds and gets progressively better equipment on the way to match the strengthening zombie hordes. - fun concept - vast weapon choice - terrifying zombie sounds (they will haunt you in your sleep)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2786d9c0-97da-4d41-bb63-f4c889f4bef6",
+            "date": "2013-12-06T19:59:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/da5a25ac-aeb2-40bf-a61e-4f60789ff8d6\/com.JumpOrFall.WashingtonVsZombies\/2786d9c0-97da-4d41-bb63-f4c889f4bef6\/C5SQhMzAQcCbtz8gT0Gr_WashingtonVsZombies.apk",
+            "size": 38280052,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jumporfall.washingtonvszombies\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ElarvMkmRkuHc76BGk9r",
+        "video": "https:\/\/vimeo.com\/78810647",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FstflVmsRcJ0ADhm9BuQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C5X96wjQsqQfoGRPFMXs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o6edICMEQx696bbmvk9i",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qicCv6cjT66edcOPpmeO"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/78810647"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FstflVmsRcJ0ADhm9BuQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FstflVmsRcJ0ADhm9BuQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C5X96wjQsqQfoGRPFMXs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C5X96wjQsqQfoGRPFMXs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/o6edICMEQx696bbmvk9i\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/o6edICMEQx696bbmvk9i\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qicCv6cjT66edcOPpmeO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qicCv6cjT66edcOPpmeO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Sandro Gakhokidze",
+        "supportEmail": "info@jumporfall.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "jumporfall.com",
+    "firstPublishedAt": "2013-11-17T21:00:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Sandro Gakhokidze.",
+    "premium": false,
+    "rating": {
+        "likeCount": 45,
+        "average": 3.26,
+        "count": 81
+    }
+}

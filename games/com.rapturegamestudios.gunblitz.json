@@ -1,0 +1,98 @@
+{
+    "packageName": "com.rapturegamestudios.gunblitz",
+    "title": "Gunblitz",
+    "description": "Gunblitz is an exciting retro space-shooter 'shmup' with a playstyle all its own.  Old-school challenge coupled with a blockbuster soundtrack promise to enthrall the action-craving arcade enthusiast inside everyone. The novel 'heat' \r\nmechanic and the slag-strafe ability are sure to add a depth not before seen in a shmup. \r\n\r\n- Four difficulty levels \r\n- Eleven fast-paced and intense levels \r\n- Five amazing offensive and defensive abilities \r\n- Unique heat-based weapon mechanic \r\n- Insane enemies that just keep coming at you \r\n- Four challenging boss fights \r\n- Unique music for each level and each boss fight \r\n- Vibrant and expressive graphics and visual effects ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 0,
+            "uuid": "c7526b83-4387-48eb-86f4-0b55448d8bc9",
+            "date": "2014-01-03T01:29:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ad9fe0a9-4265-4ef7-8920-b2f0e968dcf0\/com.rapturegamestudios.gunblitz\/c7526b83-4387-48eb-86f4-0b55448d8bc9\/FHFqmHbFRI2wLslzuWjh_Gunblitz.apk",
+            "size": 71691082,
+            "md5sum": "d75bfe37ddeb498fc68ee465a609e016",
+            "publicSize": 280603,
+            "nativeSize": 149736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rapturegamestudios.gunblitz\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AI8pSlb7R5SSLgYuQ4oN",
+        "video": "https:\/\/vimeo.com\/82414957",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F6xlJ8bRASWHHTNaGVkl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oSyc74rJSqa6KAQpSmUa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J33qQR9dQKKlE0W3OIBl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z8PjCVuvToqYPbSydkPT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DPXIy0hyQ7WaJvenQD0B"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82414957"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/F6xlJ8bRASWHHTNaGVkl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/F6xlJ8bRASWHHTNaGVkl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oSyc74rJSqa6KAQpSmUa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oSyc74rJSqa6KAQpSmUa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/J33qQR9dQKKlE0W3OIBl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/J33qQR9dQKKlE0W3OIBl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Z8PjCVuvToqYPbSydkPT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Z8PjCVuvToqYPbSydkPT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DPXIy0hyQ7WaJvenQD0B\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DPXIy0hyQ7WaJvenQD0B\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rapture Game Studios",
+        "supportEmail": "contact.us@rapturegamestudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.rapturegamestudios.com\/",
+    "firstPublishedAt": "2013-12-21T02:41:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Rapture Game Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 47,
+        "average": 2.67,
+        "count": 57
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "gunblitz_full",
+            "name": "Gunblitz Full Game",
+            "description": "Thanks for buying the game and supporting our development.  Keep an eye out for exciting future titles from Rapture Game Studios!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

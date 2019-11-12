@@ -1,0 +1,69 @@
+{
+    "packageName": "com.resetgame.vegasbowling",
+    "title": "Vegas Bowling",
+    "description": "Hungry for cash, casino hustlers have fled the moribund Vegas Strip and now haunt the humble bowling alleys of North Las Vegas. \r\n\r\nWhile Lisa and Beth seem nice (maybe too nice), and Doc in his grandpa cardigan appears benign, you best beware. About five frames in you will wish you were back on the farm with the seed money still in your bib overall pocket. Because you ain't just bowling now, baby -- you're Vegas Bowling.\r\n\r\n- Four opponents of increasing difficulty\r\n- Realistic physics\r\n- Adjustable curve balls\r\n- Score history\r\n- Resume game",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "555bd55b-2365-49a6-a9cd-00d69607bc78",
+            "date": "2013-07-23T14:54:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/721daae1-df4a-4520-998f-812720d420c1\/com.resetgame.vegasbowling\/555bd55b-2365-49a6-a9cd-00d69607bc78\/0knzFBOMTwqtpmMUbz5e_bowling_ouya.apk",
+            "size": 3419570,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.resetgame.vegasbowling\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3USUDB80Te2re5ndTQw1",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1EtHSHjRHqO2LFaIWHUw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4g7IvvoQSkKabmgq5dLK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xIUlq0VcTBOocv0TWZDd"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1EtHSHjRHqO2LFaIWHUw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1EtHSHjRHqO2LFaIWHUw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4g7IvvoQSkKabmgq5dLK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4g7IvvoQSkKabmgq5dLK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xIUlq0VcTBOocv0TWZDd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xIUlq0VcTBOocv0TWZDd\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "RESETgame",
+        "supportEmail": "support@resetgame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.resetgame.com",
+    "firstPublishedAt": "2013-07-23T14:54:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by RESETgame.",
+    "premium": false,
+    "rating": {
+        "likeCount": 80,
+        "average": 2.95,
+        "count": 64
+    }
+}

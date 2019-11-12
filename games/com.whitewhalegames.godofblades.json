@@ -1,0 +1,97 @@
+{
+    "packageName": "com.whitewhalegames.godofblades",
+    "title": "God of Blades",
+    "description": "The dead king rises! Become a spectral warrior who has returned to defend his planet against a rampaging doom-cult and the devouring touch of the cosmic horrors they serve. Wrenching this world from the grasp of oblivion, the Nameless King wields phantom blades forged from the legends and heritage of a dying world.\r\n\r\nRaise your blade, and rush into the darkness!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "6423d1d0-be07-4bd8-83e0-72e87fd03bca",
+            "date": "2013-03-27T14:28:22Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5f3e7c2a-915c-4d22-a4ce-c487e505dd79\/com.whitewhalegames.godofblades\/6423d1d0-be07-4bd8-83e0-72e87fd03bca\/xlGKkTYgT6SPGk1OkAEJ_god_of_blades.apk",
+            "size": 218593391,
+            "md5sum": "4f31144f396efad0bde9c2e9af89ccc8",
+            "publicSize": 431349,
+            "nativeSize": 149736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.whitewhalegames.godofblades\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p5X5tYKhQoeX5JTriizj",
+        "video": "https:\/\/vimeo.com\/111435940",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W1jaI2kFQiaTcIQMePi0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/53zY3fIPSP26vbg6xnxQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZVnSvS3MS7e65wDPxvJc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uB89nxQlSwI98gJWnOgA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GPS7FjqPQgi0IHhtIPLx"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/111435940"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/W1jaI2kFQiaTcIQMePi0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/W1jaI2kFQiaTcIQMePi0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/53zY3fIPSP26vbg6xnxQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/53zY3fIPSP26vbg6xnxQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZVnSvS3MS7e65wDPxvJc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZVnSvS3MS7e65wDPxvJc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uB89nxQlSwI98gJWnOgA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uB89nxQlSwI98gJWnOgA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GPS7FjqPQgi0IHhtIPLx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GPS7FjqPQgi0IHhtIPLx\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "White Whale Games, LLC",
+        "supportEmail": "adrian@whitewhalegames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/whitewhalegames.com\/",
+    "firstPublishedAt": "2013-03-27T14:28:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by White Whale Games, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 252,
+        "average": 3.57,
+        "count": 218
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "gob_full_game_unlock",
+            "name": "God of Blades - Full Game",
+            "description": "God of Blades Full Game!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "packageName": "com.SummerDoor.MonocleMan",
+    "title": "Monocle Man",
+    "description": "You are Monocle Man, and you are stuck in a giant hourglass. In this 3d puzzle platformer, jump your way up falling blocks and to the other side before the sand buries you.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "be8a9fa0-89b2-435a-aa2b-7fb97923cd55",
+            "date": "2013-06-27T20:31:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a12f17c7-c7a6-4e34-b921-d413797f88a9\/com.SummerDoor.MonocleMan\/be8a9fa0-89b2-435a-aa2b-7fb97923cd55\/lHocdQu7TfaDXbEaCevK_Monocle%20Man.apk",
+            "size": 24107077,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.summerdoor.monocleman\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xUSnJCdQIS8tmz9xHGBy",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EPgx2YNQJKs9wcG4d4Fm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JcF9Uz7RSRK16vDz2beC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L0zYJbXR5i63W2PoIuhk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EPgx2YNQJKs9wcG4d4Fm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EPgx2YNQJKs9wcG4d4Fm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JcF9Uz7RSRK16vDz2beC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JcF9Uz7RSRK16vDz2beC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L0zYJbXR5i63W2PoIuhk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L0zYJbXR5i63W2PoIuhk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Team Monocle",
+        "supportEmail": "fspade@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.facebook.com\/monoclemangame",
+    "firstPublishedAt": "2013-03-26T02:03:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Team Monocle.",
+    "premium": false,
+    "rating": {
+        "likeCount": 207,
+        "average": 3.8,
+        "count": 94
+    }
+}

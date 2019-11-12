@@ -1,0 +1,92 @@
+{
+    "packageName": "com.headupgames.scifighters",
+    "title": "Sci-Fighters",
+    "description": "Originally developed by FlukeDude (the creator of XBox 360 Indie-hit The Impossible Game) comes a fast-paced actiongame for up to 4 players. \r\n\r\nUse 7 different weapons to defend yourself and get away from the monster while trying to urge your opponents towards it.\r\n\r\nWith awesome music and a one-of-a-kind artwork Sci-Fighters is fully playable without buying any In-App-Purchases. Donate if you like the game - or not, whatever.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4121445a-411f-4fdf-933e-cbf3a655583a",
+            "date": "2013-04-12T08:59:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fe12754d-9da2-444c-a1d2-a95e859756dc\/com.headupgames.scifighters\/4121445a-411f-4fdf-933e-cbf3a655583a\/cl2fye6QSPeJgVdPBxbk_Submission_SciFighters_1_0.apk",
+            "size": 30956719,
+            "md5sum": "bd8ba28014d20067a02178e377e5aa9e",
+            "publicSize": 335351,
+            "nativeSize": 149736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.headupgames.scifighters\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UuKEwaiKQNOMKyZsuOhz",
+        "video": "http:\/\/vimeo.com\/108895849",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zmtayJuTkGtUiaGnAy8P",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0IU1tEELTmCYx7Iw1q85",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y84avplzRnay0YvCKEkI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y79U4hjdRO6zRV3nsrnQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pVgmY3MeQnyZTQb8qRLP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5l0F5LVQRju1KS49l4sj"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/108895849"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zmtayJuTkGtUiaGnAy8P\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zmtayJuTkGtUiaGnAy8P\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0IU1tEELTmCYx7Iw1q85\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0IU1tEELTmCYx7Iw1q85\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Y84avplzRnay0YvCKEkI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Y84avplzRnay0YvCKEkI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y79U4hjdRO6zRV3nsrnQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y79U4hjdRO6zRV3nsrnQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pVgmY3MeQnyZTQb8qRLP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pVgmY3MeQnyZTQb8qRLP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5l0F5LVQRju1KS49l4sj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5l0F5LVQRju1KS49l4sj\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Headup Games GmbH & Co. KG",
+        "supportEmail": "support@headupgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.headupgames.com",
+    "firstPublishedAt": "2013-04-12T08:59:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Headup Games GmbH & Co. KG.",
+    "premium": false,
+    "rating": {
+        "likeCount": 163,
+        "average": 3.54,
+        "count": 101
+    }
+}

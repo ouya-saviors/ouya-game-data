@@ -1,0 +1,97 @@
+{
+    "packageName": "com.burningthumb.mobile.AD2442",
+    "title": "A.D. 2442",
+    "description": "The year is 2442.  Your encounter with a star going super nova has left you stranded in hostile space and short on the resources you need to power your weapons and shields.  In this retro 2D \/ 2.5D top to bottom scroller you'll collect resources while avoiding hazards.  Did I mention the enemy mother ship?  Good luck.  You'll need it.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.3.1",
+            "versionCode": 0,
+            "uuid": "0bc7e48a-5a82-49e0-9cdf-6b3f850230ad",
+            "date": "2014-03-19T20:03:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f838f697-b415-4d84-ba3d-4211f9b53cc1\/com.burningthumb.mobile.AD2442\/0bc7e48a-5a82-49e0-9cdf-6b3f850230ad\/3SphvTbT0mZF13mvO33i_AD2442.apk",
+            "size": 40703148,
+            "md5sum": "9f293a0ad8dbd9ab06b45c2b99d8381c",
+            "publicSize": 272346,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.burningthumb.mobile.ad2442\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sEGuT2fQXSFdziWL0ABQ",
+        "video": "https:\/\/vimeo.com\/89357059",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HzZNgHaTToaXSY4k4xrO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z4jBvpVSyyc9WvCTbiQw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gWSea74hSoYNiBEFeAqa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YSsAivYxRaCAtDkZBFCn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2sbtGQDSKnzq1RbfJ7gV"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89357059"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HzZNgHaTToaXSY4k4xrO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HzZNgHaTToaXSY4k4xrO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/z4jBvpVSyyc9WvCTbiQw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/z4jBvpVSyyc9WvCTbiQw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gWSea74hSoYNiBEFeAqa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gWSea74hSoYNiBEFeAqa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YSsAivYxRaCAtDkZBFCn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YSsAivYxRaCAtDkZBFCn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2sbtGQDSKnzq1RbfJ7gV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2sbtGQDSKnzq1RbfJ7gV\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BurningThumb Studios",
+        "supportEmail": "support@burningthumb.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.burningthumb.com",
+    "firstPublishedAt": "2014-03-05T18:52:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by BurningThumb Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 16,
+        "average": 2.53,
+        "count": 66
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "AD2442_v1",
+            "name": "A.D. 2442",
+            "description": "The Anno Domini 2442 game.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

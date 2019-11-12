@@ -1,0 +1,77 @@
+{
+    "packageName": "com.afksoft.WordShakerOuya",
+    "title": "Word Shaker",
+    "description": "The word search game with a twist. Play solo or as a team of up to 4 local players against other players around the world and\/or against each other. Choose from various board sizes and time limits. Stuck? Just shake up the board.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "25e0e1a8-d720-4f2a-8c79-437f0e548b82",
+            "date": "2013-03-28T08:30:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e4dc8aae-0b67-4b81-87e2-237d7e7143d6\/com.afksoft.WordShakerOuya\/25e0e1a8-d720-4f2a-8c79-437f0e548b82\/eq4XrD8TT2d4jmCxdJIr_WordShakerOuya.apk",
+            "size": 11583004,
+            "md5sum": "dda49fc0d4426e77be340b4c3cfef9aa",
+            "publicSize": 10253745,
+            "nativeSize": 540148
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.afksoft.wordshakerouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/49DS8D2jROi5jBGwHNfl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cnSqDdhwSYOnnjf4HC25",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JfZxcBbgTnOGguQ9aHqP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eB5YKyWsSEiK3AOL0lZF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vEQcros0S0m2Mg4WNZYg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cnSqDdhwSYOnnjf4HC25\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cnSqDdhwSYOnnjf4HC25\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JfZxcBbgTnOGguQ9aHqP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JfZxcBbgTnOGguQ9aHqP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eB5YKyWsSEiK3AOL0lZF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eB5YKyWsSEiK3AOL0lZF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vEQcros0S0m2Mg4WNZYg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vEQcros0S0m2Mg4WNZYg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AFKSoft",
+        "supportEmail": "support@afksoft.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.afksoft.com",
+    "firstPublishedAt": "2013-03-28T08:30:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by AFKSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 88,
+        "average": 3.67,
+        "count": 76
+    }
+}

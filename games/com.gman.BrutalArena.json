@@ -1,0 +1,86 @@
+{
+    "packageName": "com.gman.BrutalArena",
+    "title": "Brutal Arena",
+    "description": "Brutal Arena is a fun, lowest-common-denominator, local multiplayer action arena. Simply have your character grab a weapon as fast as possible and blow the other players away!\r\n\r\nCurrently supports up to 4 human players, 9 playable characters, 4 game types, 8 levels, 6 weapons, and built in controller mapper.\r\n\r\nMore characters and levels to come!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.3.7",
+            "versionCode": 0,
+            "uuid": "51cedeec-c76f-4020-9ba3-68fa7b369d69",
+            "date": "2014-08-16T00:36:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/02a18b0b-8154-4c29-9db8-d1c3fce11c8b\/com.gman.BrutalArena\/2957843f-b598-464e-a2be-c4c241af2996\/A5Kun6izQKqcECNR4QIu_BrutalArena1.3.7.apk",
+            "size": 35501890,
+            "md5sum": "4a7f6bd5df9695507e87b8ac6417c3a6",
+            "publicSize": 412176,
+            "nativeSize": 269296
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.brutalarena\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OBCuKICRuqcDvTi3puEA",
+        "video": "https:\/\/vimeo.com\/102710916",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oyGyOWOtQnmaE0Z5aWD4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6A2DNGTGSeuptpu23WQZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AB9qe68AT7GDA7b474Ma",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QXxktdTLWdofetohNF0A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rcgqeYiySmCkgr4miBdJ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102710916"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/u5fnfl_ouya-screenshot20140806-2-ibf1h0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-16dz0uk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/y1cry_ouya-screenshot20140806-2-9949vr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-15ulr7w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/a7sl4c_ouya-screenshot20140806-2-wsiv1u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-kkmtk9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/s3r834_ouya-screenshot20140806-2-6pm6ro.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-u3ftwk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/li6ev0_ouya-screenshot20140806-2-1xvg6c1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-yp51p4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gareth Lockett",
+        "supportEmail": "gman@iinet.net.au",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/brutalarena.com\/",
+    "firstPublishedAt": "2013-10-03T03:35:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Gareth Lockett.",
+    "premium": false,
+    "rating": {
+        "likeCount": 121,
+        "average": 3.07,
+        "count": 215
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "packageName": "com.marcogiorgini.ouya.OneOnOne",
+    "title": "Street Basket: One on One",
+    "description": "A must have for every Basketball fan who want some true arcade rush!\r\nStreet Basket: One on One is a 3d game that will take the pleasure of the street version of this sport directly to your OUYA.\r\n\r\nFour players with different skills and attitude, two game modes (first to score 21 or five minutes matches), replay, 1 or 2 player support (to challenge your friends, once you feel you\u2019re good enough), all in just one side of a court.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "e3bb84d5-edd2-4ac1-b10b-b53a31b6c6ef",
+            "date": "2013-07-12T04:40:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/911935cc-0f3f-4d3a-8a04-f34ab6446aec\/com.marcogiorgini.ouya.OneOnOne\/e3bb84d5-edd2-4ac1-b10b-b53a31b6c6ef\/eRZe28k1TkGz0OZqTdx1_OneOnOne-OUYA.apk",
+            "size": 7553433,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.oneonone\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FLqD2OhnTBC0WEJ39otE",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/67LKiD1hRkmP1ecjgfjj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9OkyYNqZS4W19Amm0rq3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B2EPagcpQIqQAri987cN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YPfQXhApRNGI4nbqeP80"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/67LKiD1hRkmP1ecjgfjj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/67LKiD1hRkmP1ecjgfjj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9OkyYNqZS4W19Amm0rq3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9OkyYNqZS4W19Amm0rq3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/B2EPagcpQIqQAri987cN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/B2EPagcpQIqQAri987cN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YPfQXhApRNGI4nbqeP80\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YPfQXhApRNGI4nbqeP80\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Marco Giorgini Production",
+        "supportEmail": "ouya.support@marcogiorgini.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/marcogiorgini.com\/apps\/index.php\/street-basket-one-on-one\/",
+    "firstPublishedAt": "2013-07-12T04:40:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Marco Giorgini Production.",
+    "premium": false,
+    "rating": {
+        "likeCount": 89,
+        "average": 2.48,
+        "count": 79
+    }
+}

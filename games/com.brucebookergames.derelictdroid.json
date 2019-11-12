@@ -1,0 +1,94 @@
+{
+    "packageName": "com.brucebookergames.derelictdroid",
+    "title": "Derelict Droid in Droneland",
+    "description": "Derelict Droid is an adventure game reminiscent of mech and robot games of the past.  \r\n\r\nThe player awakens in an antique battle mech with no memories.  He learns that he has been recruited into a rebellion against oppressive government drones and robots.  As he fights, he discovers his past and reveals his future.  ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "bd18e846-f3cf-4d40-b71a-19a0ba98597a",
+            "date": "2013-11-18T23:22:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7be0c82c-2a1b-4f17-80d2-1e56c413ca53\/com.brucebookergames.derelictdroid\/bd18e846-f3cf-4d40-b71a-19a0ba98597a\/AHwYehvESTyhPR84hB6L_DerelictDroid.apk",
+            "size": 46193233,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.brucebookergames.derelictdroid\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/24vv07zuQTGl8xwZra3v",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JgCcrIGsQpKhj8dPMUQO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IhoRYNAdTl60kvxPNnCh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gPatfuWEQpWjuJH663TF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SBYmIonSQjGlSEHYd1nI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ykfOEFTsSse67UvCc3mG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JgCcrIGsQpKhj8dPMUQO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JgCcrIGsQpKhj8dPMUQO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IhoRYNAdTl60kvxPNnCh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IhoRYNAdTl60kvxPNnCh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gPatfuWEQpWjuJH663TF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gPatfuWEQpWjuJH663TF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SBYmIonSQjGlSEHYd1nI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SBYmIonSQjGlSEHYd1nI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ykfOEFTsSse67UvCc3mG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ykfOEFTsSse67UvCc3mG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Self",
+        "supportEmail": "bruce.booker01@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "brucebookergames.com",
+    "firstPublishedAt": "2013-11-18T23:22:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Self.",
+    "premium": false,
+    "rating": {
+        "likeCount": 11,
+        "average": 1.5,
+        "count": 8
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DD1_Full_Version",
+            "name": "Unlock Levels 5 to 15",
+            "description": "Unlock additional levels.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

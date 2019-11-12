@@ -1,0 +1,82 @@
+{
+    "packageName": "com.CorbomiteGames.Rose",
+    "title": "Rose",
+    "description": "Rose is a 1st person point and click atmospheric adventure game, in the tradition of \"Scratches\", \"Dark fall\", \"Blackstone chronicles\" and more.\r\n\r\nThe game is devleoped by Cellar door interactive,  established in 2013 by Leonid Haitov, Doron Kanaan, and Saiphan Bruner, with the goal of delivering high quality adventure games for all major platforms. Cellar door interactive's offices are located in Tel-aviv, Israel. The game is published by Corbomite Games - a veteran adventure game company with multiple released titles.\r\n\r\nThe game:\r\nAbandoned for nearly 30 years, the house on the edge of aevus street has long been the center of local myth and legend. The mystery surrounding the death of Gilda Gudjonsen, and the disappearance of her husband Henry has caused many to believe that something sinister lurks behind the fence with the aging \"keep out\" sign...\r\nAssume the role of Rose, a 12 years old girl who unwittingly enters the house with a group of friends, and discover the truth behind Dr. Henry Gudjonsen's obsession.\r\n* an atmospheric 1st person point and click adventure game in the tradition of \"Dark fall\" and \"Scratches\".\r\n* solve challenging puzzles and learn the history of the house.\r\n* Explore the house beautifully rendered in 3d.\r\n\r\nCreated by:\r\nProgramming, writing and game design: Doron Kanaan\r\n2D Artist: Leonid Haitov\r\n3D modeling and animation: Saiphan Bruner\r\nExecutive producer: Oded Sharon\r\n\r\nRose is being developed  by \"Cellar Door Interactive\" and published by Corbomite Games.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.03",
+            "versionCode": 0,
+            "uuid": "f40a3bef-4893-4fd5-a50e-97e1760ebb2f",
+            "date": "2014-02-20T22:14:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8ea74ce0-f454-4cf3-9042-762558468fad\/com.CorbomiteGames.Rose\/f40a3bef-4893-4fd5-a50e-97e1760ebb2f\/43D86nIQau0qT0Dqd0wk_RoseOuya-04-02-14_1.03_2.apk",
+            "size": 298679732,
+            "md5sum": "e3031dcd312c727110c929ad74476f2f",
+            "publicSize": 495042,
+            "nativeSize": 251364
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.corbomitegames.rose\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XYmt3fphRI9hr7zVqJGw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lv1H22yQQO1wptlecGIA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XYUxsHeXSWWXeYCTtRo6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yOZo4Y8SgKJQMm2ZHeAA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lv1H22yQQO1wptlecGIA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lv1H22yQQO1wptlecGIA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XYUxsHeXSWWXeYCTtRo6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XYUxsHeXSWWXeYCTtRo6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yOZo4Y8SgKJQMm2ZHeAA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yOZo4Y8SgKJQMm2ZHeAA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8ea74ce0-f454-4cf3-9042-762558468fad",
+        "name": "Corbomite Games",
+        "supportEmail": "support@corbomitegames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/cellardoorinteractive.com\/Rose\/homepage.html",
+    "firstPublishedAt": "2013-03-29T22:34:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Corbomite Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 120,
+        "average": 3,
+        "count": 29
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "RoseUnlock1",
+            "name": "Pre-order Rose Episode 1",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

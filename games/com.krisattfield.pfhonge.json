@@ -1,0 +1,95 @@
+{
+    "packageName": "com.krisattfield.pfhonge",
+    "title": "Pfhonge",
+    "description": "Pfhonge (pronounced by combining \u201cfong\u201d with \u201csponge\u201d) is a ball and paddle game where there is no score kept - there is only a winner and a loser. In order to win, the player must get the ball to hit the blocks behind his opponent\u2019s paddle. The two different colors behind each paddle indicate the type of bonus the player receives - either the opponent\u2019s paddle will decrease top movement speed a bit or the player\u2019s paddle will have an increased amount of space to move his\/her own paddle in. After at least three blocks in a row have been hit, if the ball passes the paddle and enters the yellow end zone, the player wins!\r\n\r\nNEW in version 2.2.0:::: Optimized for Android TV 6.0.1. Either completely ended or made less frequent the bug where the game would start with unresponsive controls. Increased number of free plays to 15 for both score mode and original.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.2.0",
+            "versionCode": 33,
+            "uuid": "515bda00-ce88-4d17-ae69-0dfb3eb690bd",
+            "date": "2017-07-11T18:01:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9de3ccdc-f6e8-49d3-900a-217dc0867bd7\/com.krisattfield.pfhonge\/515bda00-ce88-4d17-ae69-0dfb3eb690bd\/hvpAgqxYQAqZo4lffew7_Pfhonge-release.apk",
+            "size": 1287572,
+            "md5sum": "cf14e3f771eed0318909ee09e37f7afa",
+            "publicSize": 687888,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1dIswyZoSSGR8xlfFQKc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YGJ8jVmzRa2iB8rt7ypS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eXwTKMSOQjuQ1DKmXa3E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nopubmfqSaO6GF4lkaoj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LiMttFLjTBKtteiziL9q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XDWKu9wKShKskVbP2rG2"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/e3hygn_ouya-screenshot20160112-3-k6dk6a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-1ll4wzi.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/wru6au_ouya-screenshot20160112-3-pj27kh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-1e5rac.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/8nam9w_ouya-screenshot20160112-3-10zy77i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-fash22.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/3s24tc_ouya-screenshot20160112-3-1kfmjkp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-vn71h6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/dmpn06_ouya-screenshot20160112-3-ygd8uu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-19bu116.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kris Attfield",
+        "supportEmail": "krisa@icloud.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.krisattfield.com",
+    "firstPublishedAt": "2013-07-15T14:55:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2017 by Kris Attfield.",
+    "premium": false,
+    "rating": {
+        "likeCount": 53,
+        "average": 3.31,
+        "count": 42
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "pfhonge_score_mode",
+            "name": "Unlimited Pfhonge Score Mode",
+            "description": "Allows you by yourself or with a friend to compete in a traditional count-to-five ball and paddle game.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "packageName": "com.santaragione.FOTONICA",
+    "title": "FOTONICA",
+    "description": "FOTONICA is a first person game about jumping, sense of speed and discovery. \r\nThe key is timing, the goal is exploring and traveling flawlessly through the environment. The setting is an abstract - mainly duotone - outlined world, with a look referring to the geometrical abstractions from the 50s and the 3D low-poly gaming era.\r\n\r\n\u201cIt\u2019s a remarkable game, and unlike anything else I\u2019ve played. - John Walker\u201d \r\nRock, Paper, Shotgun! \r\n\r\n\u201cUsain Bolt trapped in a feverish Tron daydream. - Kristan Reed\u201d \r\n8\/10 \u2013 EuroGamer \r\n\r\n\u201cStriking and instantly impressive. - Ben Kuchera\u201d \r\nArsTechnica ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "05071faa-0010-4da6-88b5-49ae3c2f91ba",
+            "date": "2013-12-03T17:08:34Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d769efba-e7ab-4cae-b94a-fee60dc9f462\/com.santaragione.FOTONICA\/05071faa-0010-4da6-88b5-49ae3c2f91ba\/HupxEoqQ6eePXFmnY0JX_FOTONICA.apk",
+            "size": 61291389,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.santaragione.fotonica\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qFlgPdUcRb6K3Gl4etEn",
+        "video": "https:\/\/vimeo.com\/80728733",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zKw7CHSSey1GKjy8k7Ox",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nvg8mhOTraMzzW8v9y2E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x5EoMLl2R3eMLuGqXXg2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y9TI71qR0KtpKEYablxW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TDvC2bMQW505hwNNfuvw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fv427CLDTFi0JUNvzdlK"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/80728733"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zKw7CHSSey1GKjy8k7Ox\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zKw7CHSSey1GKjy8k7Ox\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nvg8mhOTraMzzW8v9y2E\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nvg8mhOTraMzzW8v9y2E\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/x5EoMLl2R3eMLuGqXXg2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/x5EoMLl2R3eMLuGqXXg2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Y9TI71qR0KtpKEYablxW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Y9TI71qR0KtpKEYablxW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TDvC2bMQW505hwNNfuvw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TDvC2bMQW505hwNNfuvw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Fv427CLDTFi0JUNvzdlK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Fv427CLDTFi0JUNvzdlK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Santa Ragione",
+        "supportEmail": "info@santaragione.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.fotonica-game.com\/",
+    "firstPublishedAt": "2013-12-03T17:08:34Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Santa Ragione.",
+    "premium": false,
+    "rating": {
+        "likeCount": 288,
+        "average": 3.96,
+        "count": 956
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "FOTONICA",
+            "name": "FOTONICA",
+            "description": "FOTONICA full version: 5 levels + endless level, online scoreboards, 4players split-screen multiplayer, 3 difficulty settings & achievements",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

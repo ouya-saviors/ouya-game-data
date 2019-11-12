@@ -1,0 +1,83 @@
+{
+    "packageName": "RetroRacerCombat.RetroRacerCombat",
+    "title": "Retro Racer Combat",
+    "description": "Say hello to Retro Racer Combat, our little love letter to the 8-bit combat racing genre.\r\n\r\nRace through 6 different levels, avoiding traffic and taking down the level bosses with your cannons.\r\n\r\nCreated by Paul Marrable with music from Dylan Barry",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "ba2e2414-9ae7-4b89-b640-6bd5d0a41590",
+            "date": "2013-08-20T21:16:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/63d49a0c-3d4c-4715-80ae-6d85fa82c80e\/RetroRacerCombat.RetroRacerCombat\/ba2e2414-9ae7-4b89-b640-6bd5d0a41590\/gQflOSQxToBh70PxOGzw_RetroRacerCombat.RetroRacerCombat.apk",
+            "size": 18590496,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/retroracercombat.retroracercombat\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c2VImAfRNChmX0Iz1bLg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0JE6FkbETM63GWdc5Cbx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6BJp0qFQRmaaIJ1XWKdg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ijhiS9K8RlmsGPwlQYjq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jsWKllAdSxyjovQDCpLP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2iSUOfbS12c06DJHALMZ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0JE6FkbETM63GWdc5Cbx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0JE6FkbETM63GWdc5Cbx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6BJp0qFQRmaaIJ1XWKdg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6BJp0qFQRmaaIJ1XWKdg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ijhiS9K8RlmsGPwlQYjq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ijhiS9K8RlmsGPwlQYjq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jsWKllAdSxyjovQDCpLP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jsWKllAdSxyjovQDCpLP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2iSUOfbS12c06DJHALMZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2iSUOfbS12c06DJHALMZ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Paul Marrable",
+        "supportEmail": "paulmarrable@yahoo.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.flumpstudios.com",
+    "firstPublishedAt": "2013-08-19T17:16:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Paul Marrable.",
+    "premium": false,
+    "rating": {
+        "likeCount": 52,
+        "average": 2.84,
+        "count": 25
+    }
+}

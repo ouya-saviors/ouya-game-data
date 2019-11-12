@@ -1,0 +1,80 @@
+{
+    "packageName": "eric.ironShell.ouyaCubed",
+    "title": "OUYA Cubed",
+    "description": "Update!  \"Lock out\" glitch was targetted and confirmed as destroyed... at least the one I knew about. Keep letting me know about the bugs for ALPHA!\r\n\r\nJump into the world of OUYA Cubed, a 3D cube based sandbox with limitless worlds to explore. Uncover magical artifacts to help in your adventure, mine minerals from the mountains, or salvage materials from civilizations lost to the sands. \r\n\r\nThis is ALPHA for the game that was successfully Kickstarted. Where suggestions will have a large impact on the direction of the game and future progress.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "0.0.7",
+            "versionCode": 0,
+            "uuid": "f8f9f031-a681-4bdc-a6df-d0ac20e6a898",
+            "date": "2014-03-17T20:29:18Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c51abba0-1de7-4200-84d7-b64887a97531\/eric.ironShell.ouyaCubed\/f8f9f031-a681-4bdc-a6df-d0ac20e6a898\/Qe0fYgGRt6DXOC8fDP58_CurrentOuyaCubed-Default-0.0.7.apk",
+            "size": 20672791,
+            "md5sum": "14a3a2e5c862cbe35236ccad15d6d296",
+            "publicSize": 876623,
+            "nativeSize": 7820628
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/eric.ironshell.ouyacubed\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y2bA0beDRxylWKd3A75n",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TrXcvPIjTQqSgfoGqBSF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1K4hWdogTNOUZPgoyLhQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zt0VDGL2TZqY2hRoFDoD"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TrXcvPIjTQqSgfoGqBSF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TrXcvPIjTQqSgfoGqBSF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1K4hWdogTNOUZPgoyLhQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1K4hWdogTNOUZPgoyLhQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Zt0VDGL2TZqY2hRoFDoD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Zt0VDGL2TZqY2hRoFDoD\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Eric Blackburn",
+        "supportEmail": "eric.r.blackburn@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ironshellgames.webs.com\/",
+    "firstPublishedAt": "2014-03-04T00:28:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Eric Blackburn.",
+    "premium": false,
+    "rating": {
+        "likeCount": 80,
+        "average": 2.44,
+        "count": 336
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ewrqwerqa",
+            "name": "donation",
+            "description": "A donation to earn my love and affection! ",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

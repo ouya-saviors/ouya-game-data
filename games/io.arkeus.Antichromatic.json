@@ -1,0 +1,77 @@
+{
+    "packageName": "io.arkeus.Antichromatic",
+    "title": "Antichromatic",
+    "description": "Use the power of the chromatic armor to swap between two dimensions as you explore the facility in an attempt to find the source of the fracture that split the world in two. Warning: The difficulty of this game is very high.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "173eb47f-9846-4ab0-bcef-e3369324a10f",
+            "date": "2013-07-15T22:04:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/02947534-badf-4377-bcfe-0a054f650266\/io.arkeus.Antichromatic\/173eb47f-9846-4ab0-bcef-e3369324a10f\/brUwLS7jRuWyK5m611Ls_AntichromaticOuya.apk",
+            "size": 13592312,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/io.arkeus.antichromatic\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G6HVLB29SyqE77YzzKRA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w4l1RGcZQGKdJbMKsqJW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r4e3rmzT7S9SIpgbBjet",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hJ19NT4CTEKBaIWy7ksK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QFNziQZaSL1Er3A4wANU"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w4l1RGcZQGKdJbMKsqJW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w4l1RGcZQGKdJbMKsqJW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r4e3rmzT7S9SIpgbBjet\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r4e3rmzT7S9SIpgbBjet\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hJ19NT4CTEKBaIWy7ksK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hJ19NT4CTEKBaIWy7ksK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QFNziQZaSL1Er3A4wANU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QFNziQZaSL1Er3A4wANU\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lee Miller",
+        "supportEmail": "iarkeus@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/arkeus.io",
+    "firstPublishedAt": "2013-07-15T22:04:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Lee Miller.",
+    "premium": false,
+    "rating": {
+        "likeCount": 373,
+        "average": 4.26,
+        "count": 410
+    }
+}

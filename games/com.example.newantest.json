@@ -1,0 +1,69 @@
+{
+    "packageName": "com.example.newantest",
+    "title": "Swindler",
+    "description": "Swindler is a fast-paced, arcade-style adventure game, made with Lucid, a two-dimensional Android exclusive, OpenGL game engine. As the dusk is setting in the Land of Aventyr, you glide through a sea of clouds, steering higher and higher into the High Skies. As captain of your crew, you mercilessly kidnap peasants and princesses to sell them for slave labor, a hefty bounty, or as a food ingredient, amassing ludicrous amounts of loot. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2ee0c081-1c0e-4b6f-ade9-b086a986919a",
+            "date": "2013-03-27T14:35:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/158be098-7cee-4e28-b7dc-9ebf5ea37bc5\/com.example.newantest\/2ee0c081-1c0e-4b6f-ade9-b086a986919a\/OXoDAr0SG2VeCGz4qbP3_SwindlerBare2.apk",
+            "size": 9660303,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.example.newantest\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SxdMNIJGRGc94a8BssLy",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6Wk2bpHGS8ic7GdMAezx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eztzQjd4RgaNQp6ueGAA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EkB7l9CtRw2rM9xsN3Wk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6Wk2bpHGS8ic7GdMAezx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6Wk2bpHGS8ic7GdMAezx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eztzQjd4RgaNQp6ueGAA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eztzQjd4RgaNQp6ueGAA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EkB7l9CtRw2rM9xsN3Wk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EkB7l9CtRw2rM9xsN3Wk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Open Mind Gaming",
+        "supportEmail": "contact@swindlerthegame.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.swindlerthegame.com",
+    "firstPublishedAt": "2013-03-27T14:35:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Open Mind Gaming.",
+    "premium": false,
+    "rating": {
+        "likeCount": 34,
+        "average": 3.15,
+        "count": 27
+    }
+}

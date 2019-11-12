@@ -1,0 +1,69 @@
+{
+    "packageName": "com.disableInterrupt.gc2",
+    "title": "Genocide Circuit rebuild",
+    "description": "[O] Shot\r\n[U] Bomber\r\n[L1\/R1] Change Shot-type",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0126b921-bf71-408c-b1fb-9a6b9d6ff7d2",
+            "date": "2013-08-23T00:22:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b5f2773d-589a-4f43-a887-3ea4b07a96af\/com.disableInterrupt.gc2\/0126b921-bf71-408c-b1fb-9a6b9d6ff7d2\/OrreECf1TDiDhPjrDD9C_gcr.apk",
+            "size": 650036,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.disableinterrupt.gc2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sA9OOa3kQVy863zeR8JA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v8ssSBimQcZ8Ee0khDqw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ikPOyURTXe6gWMevZrEV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h8NbDGAR8aXsPZePJM9t"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v8ssSBimQcZ8Ee0khDqw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v8ssSBimQcZ8Ee0khDqw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ikPOyURTXe6gWMevZrEV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ikPOyURTXe6gWMevZrEV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/h8NbDGAR8aXsPZePJM9t\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/h8NbDGAR8aXsPZePJM9t\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "disableInterrupt",
+        "supportEmail": "koumotsh@yahoo.co.jp",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/disableinterrupt.com\/",
+    "firstPublishedAt": "2013-08-23T00:22:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by disableInterrupt.",
+    "premium": false,
+    "rating": {
+        "likeCount": 56,
+        "average": 3.62,
+        "count": 65
+    }
+}

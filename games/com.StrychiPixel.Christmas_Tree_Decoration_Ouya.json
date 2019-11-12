@@ -1,0 +1,82 @@
+{
+    "packageName": "com.StrychiPixel.Christmas_Tree_Decoration_Ouya",
+    "title": "Christmas Tree Decoration",
+    "description": "It's that time of the year again, Christmas! \r\nYour christmas tree is ready to decorated!\r\nBut be carefull that the christmas tree doesnt fall!\r\n\r\n\r\nWe wish you and your family a nice christmas and a happy new year!\r\n@StrychiPixel - StrychiPixel@gmail.com - 2015",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Meditative",
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "5.4.9",
+            "versionCode": 0,
+            "uuid": "1336bd29-1d63-40c0-ada3-8c8d35947bd6",
+            "date": "2014-12-23T11:02:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a5cafc0-0b46-4ef8-94e4-915a2d332167\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/9WWhu7GRSkuP3NTJtTNS_Christmas%20Tree%20Decoration-ouya5.4.9.apk",
+            "size": 11624510,
+            "md5sum": "d06dce573c7f86971658d5b684b1c700",
+            "publicSize": 1423031,
+            "nativeSize": 8607772
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.strychipixel.christmas_tree_decoration_ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yn9FKWQOTAWdyUhHEzMz",
+        "video": "https:\/\/vimeo.com\/114897197",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YyBpRZbiTHu8ONhV0DDJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fx0kDUPyTW2ZeSvYZ95C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G85yYPgFTpmfdygYMJDW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xkULlSm1S0qudctuvRjc"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/114897197"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/23efa7_ouya-screenshot20141218-2-1kltu9v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-oxgffg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/rb69st_ouya-screenshot20141218-2-1p8h26q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-gvslqs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/cx25ft_ouya-screenshot20141218-2-14jzoba.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-19w5t7j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/6i8o5x_ouya-screenshot20141218-2-1x6ezl2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-1c1x1qr.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a5cafc0-0b46-4ef8-94e4-915a2d332167",
+        "name": "Strychi Pixel",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.strychipixel.webs.com",
+    "firstPublishedAt": "2014-12-23T11:02:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Strychi Pixel.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.35,
+        "count": 43
+    }
+}

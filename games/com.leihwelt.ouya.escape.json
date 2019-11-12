@@ -1,0 +1,95 @@
+{
+    "packageName": "com.leihwelt.ouya.escape",
+    "title": "Escape from Space",
+    "description": "Escape from Space is a endless sidescrolling game like all the Helicopter flash games with a new twist.\r\nYou are a space invader and are set to escape from an imminent supernova. Escape in time while facing endless stages with new obstacles like space trash, meteors or even the supernova itself.\r\n\r\nNew version features enhanced graphics, gameplay and a public test phase for Multiplayer.\r\n\r\nThe current version includes the Multiplayer mode for free right now - for a limited test time. It will be an upgrade later on using IAP.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "50acd98e-735b-438a-b46d-9f4d2e5b7598",
+            "date": "2013-07-24T20:42:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c6acb292-ea2e-4cfb-856c-e312eaf589db\/com.leihwelt.ouya.escape\/50acd98e-735b-438a-b46d-9f4d2e5b7598\/Dea44lXpQEqQ9H3UW6kr_EscapeFromSpace.apk",
+            "size": 16845721,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.leihwelt.ouya.escape\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KhVdF7tQLKhac1aNWWji",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9ka4WlQSH9IDXJr4ECwS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b7WPqh4MQCqrJ3xZ209B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wZ2L7QdeQ8CcRVOxFWer",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Bbf0uH8TpiMN5L8X8cCw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VznxBId7RYOEl2GW8sN3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mQeeXrDFTqexpcgqebMK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b3C8C8lqSOu1XeYKUMiQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9ka4WlQSH9IDXJr4ECwS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9ka4WlQSH9IDXJr4ECwS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/b7WPqh4MQCqrJ3xZ209B\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/b7WPqh4MQCqrJ3xZ209B\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wZ2L7QdeQ8CcRVOxFWer\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wZ2L7QdeQ8CcRVOxFWer\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Bbf0uH8TpiMN5L8X8cCw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Bbf0uH8TpiMN5L8X8cCw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VznxBId7RYOEl2GW8sN3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VznxBId7RYOEl2GW8sN3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mQeeXrDFTqexpcgqebMK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mQeeXrDFTqexpcgqebMK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/b3C8C8lqSOu1XeYKUMiQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/b3C8C8lqSOu1XeYKUMiQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "leihwelt games",
+        "supportEmail": "leihweltsupport@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/plus.google.com\/b\/117804064944623058935\/117804064944623058935\/posts",
+    "firstPublishedAt": "2013-07-15T17:31:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by leihwelt games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 2.26,
+        "count": 39
+    }
+}

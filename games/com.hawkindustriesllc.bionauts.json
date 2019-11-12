@@ -1,0 +1,82 @@
+{
+    "packageName": "com.hawkindustriesllc.bionauts",
+    "title": "Bionauts Online",
+    "description": "Bionauts is a thrilling multiplayer game of projectile strategy. Start by building your own avatar to give you the stats you want to bring to battle. Then go to battle in one of our exciting destructible levels against other players from all over the world (and even other operating systems). Launch missiles to damage other players or bunge them through the map into the abyss.\r\n\r\nDid I mention it's free?\r\n\r\nDownload Bionauts now and join the fight!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "2.01",
+            "versionCode": 0,
+            "uuid": "3a27305b-faca-4465-8c78-3799c4ace209",
+            "date": "2013-04-03T22:20:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0d4ba3fe-3678-4e94-aafe-b5c4caa21948\/com.hawkindustriesllc.bionauts\/3a27305b-faca-4465-8c78-3799c4ace209\/AloaDrpFQIah7ODj1jSS_bionauts.apk",
+            "size": 39486696,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hawkindustriesllc.bionauts\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GXl17gZkTkWYSU5k0yOY",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aBCBb3nEQPi0PysvIxhx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C10S04wORhCjYnTXnCTy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FW9J6PD0TKiQBo3CEJqc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LmIDUi9KTWnOzWMeWL6g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S7R0RHNGQ68JFVXyKigH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aBCBb3nEQPi0PysvIxhx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aBCBb3nEQPi0PysvIxhx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C10S04wORhCjYnTXnCTy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C10S04wORhCjYnTXnCTy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FW9J6PD0TKiQBo3CEJqc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FW9J6PD0TKiQBo3CEJqc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LmIDUi9KTWnOzWMeWL6g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LmIDUi9KTWnOzWMeWL6g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/S7R0RHNGQ68JFVXyKigH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/S7R0RHNGQ68JFVXyKigH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Hawk-i Games",
+        "supportEmail": "support@hawkindustriesllc.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.hawkindustriesllc.com\/",
+    "firstPublishedAt": "2013-04-03T22:20:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Hawk-i Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 45,
+        "average": 2,
+        "count": 10
+    }
+}

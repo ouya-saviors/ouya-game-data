@@ -1,0 +1,81 @@
+{
+    "packageName": "com.xteamsoftware.bubbleshunter2",
+    "title": "Bubbles Hunter 2",
+    "description": "You are the new \"Bubbles Hunter\".\r\n\r\nTest your speed and reflexes, hit the bubbles before they get away but look out! The time changes colors.\r\n\r\nA colorful game, fun and fast between bubbles and fruits.\r\n\r\n4 levels ( easy, normal, hard, hunter ) for increasingly difficult challenges.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.50",
+            "versionCode": 0,
+            "uuid": "e2ae4409-62fc-4f66-87cc-6b2c2070eacc",
+            "date": "2014-01-21T13:48:18Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b15b0165-4eaa-44d1-9008-c259ec6092b6\/com.xteamsoftware.bubbleshunter2\/e2ae4409-62fc-4f66-87cc-6b2c2070eacc\/68QQIGbgQYG4SrN7SEPE_bubbleshunter2.apk",
+            "size": 2007649,
+            "md5sum": "0df497044f7d425dc72550b49bb327f0",
+            "publicSize": 290950,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.xteamsoftware.bubbleshunter2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4lOXvtQARKqyFdtZ52Hh",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZmcpakIQxCi2AtSK86nQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C1KDHnhRpiVY5ejdlst4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jJVO64FTdmSCwvtF5gw9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5kShllMURiuAl6KmNcsw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Pq14uwdsQ4WFTLEyzLjm"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZmcpakIQxCi2AtSK86nQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZmcpakIQxCi2AtSK86nQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C1KDHnhRpiVY5ejdlst4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C1KDHnhRpiVY5ejdlst4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jJVO64FTdmSCwvtF5gw9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jJVO64FTdmSCwvtF5gw9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5kShllMURiuAl6KmNcsw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5kShllMURiuAl6KmNcsw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Pq14uwdsQ4WFTLEyzLjm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Pq14uwdsQ4WFTLEyzLjm\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "XTeam Software Solutions SRLS",
+        "supportEmail": "xteam@xteamsoftware.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.xteamsoftware.com",
+    "firstPublishedAt": "2014-01-21T13:48:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by XTeam Software Solutions SRLS.",
+    "premium": false,
+    "rating": {
+        "likeCount": 5,
+        "average": 1.91,
+        "count": 11
+    }
+}

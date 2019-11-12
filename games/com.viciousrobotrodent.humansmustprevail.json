@@ -1,0 +1,98 @@
+{
+    "packageName": "com.viciousrobotrodent.humansmustprevail",
+    "title": "Humans Must Prevail",
+    "description": "Be the monster and destroy a city. Wreak havoc but know that the humans will always prevail.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "3.0",
+            "versionCode": 0,
+            "uuid": "2713e562-304b-4317-b15f-b0126b2bd51a",
+            "date": "2014-01-08T20:07:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/44994fae-881b-4446-b386-a50981de2ebe\/com.viciousrobotrodent.humansmustprevail\/2713e562-304b-4317-b15f-b0126b2bd51a\/dZiyr6KxTdurUWqY5Sy4_BattleMon.apk",
+            "size": 21516948,
+            "md5sum": "2421ed0d6e584142da358e0e269def4a",
+            "publicSize": 148384,
+            "nativeSize": 14634740
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.viciousrobotrodent.humansmustprevail\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fIhYbCcyRXgDC9gaKR10",
+        "video": "https:\/\/vimeo.com\/83225119",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8YAvau0ySNOOTdFOYRCl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d85GxBEeRUKyLtaemvo9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/voKtJIngR1SYXKTDufiq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NokfeZzuSuFOqNHGaQyj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R5SjMGC0Roud9i4Ieu5a"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/83225119"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8YAvau0ySNOOTdFOYRCl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8YAvau0ySNOOTdFOYRCl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/d85GxBEeRUKyLtaemvo9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/d85GxBEeRUKyLtaemvo9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/voKtJIngR1SYXKTDufiq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/voKtJIngR1SYXKTDufiq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NokfeZzuSuFOqNHGaQyj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NokfeZzuSuFOqNHGaQyj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R5SjMGC0Roud9i4Ieu5a\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R5SjMGC0Roud9i4Ieu5a\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "ViciousRobotRodent.com",
+        "supportEmail": "johnvillarzavatti@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.viciousrobotrodent.com",
+    "firstPublishedAt": "2013-12-13T17:49:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by ViciousRobotRodent.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 55,
+        "average": 3,
+        "count": 45
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "hmp_full_version",
+            "name": "Full Version",
+            "description": "Unlocks new skills, parts and buildings.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

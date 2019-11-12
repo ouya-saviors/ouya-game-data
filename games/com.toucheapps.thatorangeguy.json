@@ -1,0 +1,82 @@
+{
+    "packageName": "com.toucheapps.thatorangeguy",
+    "title": "That Orange Guy",
+    "description": "Guide That Orange Guy through 50 levels shooting and igniting everything in your path.\r\n\r\nSpot a scary monster? No problem! Just shoot it in the face!\r\nFearsome robot? Light it on fire!\r\n\r\nFeatures:\r\n-50 levels spanning 5 worlds!\r\n-Over 30 enemies!\r\n-Comrades to rescue!\r\n-Boss fights!\r\n-3 stars to earn on each level!\r\n-Flamethrowers!\r\n-Riding on the back of maniac sheep!\r\n-Zombie teddy bears!\r\n-Explosions!\r\n-And more!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 0,
+            "uuid": "91f3e639-9c8a-414b-83ed-c350c2d67642",
+            "date": "2013-10-28T17:49:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c7b162b0-6c31-4628-9f3c-72cc366fb59c\/com.toucheapps.thatorangeguy\/91f3e639-9c8a-414b-83ed-c350c2d67642\/gqx0kazrTnyQ6wKrJc7P_com.toucheapps.thatorangeguy1.0.2.apk",
+            "size": 35383544,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.toucheapps.thatorangeguy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/69tjcI1EQw6QjAv2zzA4",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4TcGYgHjRwKwlznFNlkM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sGuv0M2HRHydfGBApcbV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d2eDkOh1QpOOP83nzIX2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kyP9LCxRkCoxiDrTfeFg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ugLq7B78SdqiAWJ8lce7"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4TcGYgHjRwKwlznFNlkM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4TcGYgHjRwKwlznFNlkM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sGuv0M2HRHydfGBApcbV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sGuv0M2HRHydfGBApcbV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/d2eDkOh1QpOOP83nzIX2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/d2eDkOh1QpOOP83nzIX2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kyP9LCxRkCoxiDrTfeFg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kyP9LCxRkCoxiDrTfeFg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ugLq7B78SdqiAWJ8lce7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ugLq7B78SdqiAWJ8lce7\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Touche Apps",
+        "supportEmail": "help.toucheapps@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.toucheapps.com",
+    "firstPublishedAt": "2013-10-07T15:47:19Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Touche Apps.",
+    "premium": false,
+    "rating": {
+        "likeCount": 65,
+        "average": 3.57,
+        "count": 70
+    }
+}

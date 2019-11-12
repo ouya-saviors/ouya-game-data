@@ -1,0 +1,87 @@
+{
+    "packageName": "danielnordstrom.mrmike",
+    "title": "Mr. Mike",
+    "description": "Mr. Mike is a straightforward platform game with retro-style gameplay.\r\n\r\nJump and shoot your way through six exciting levels filled with enemies and hidden cakes.\r\n\r\n- PS3 controller supported.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "85339df0-c6e3-4616-92b1-38907647afaa",
+            "date": "2014-11-24T18:06:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/cfd5897e-fb5e-4f0d-9119-838883f9519f\/danielnordstrom.mrmike\/85339df0-c6e3-4616-92b1-38907647afaa\/SgR8emPJSDuhcV4JJLaL_MrMike-release.apk",
+            "size": 3221197,
+            "md5sum": "36a9720bb1756a064f9bfb9c8681ab46",
+            "publicSize": 49275,
+            "nativeSize": 7104528
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/danielnordstrom.mrmike\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RzfZMk04Qyw2xXWLh0cq",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/83GSiSzcRPyvfYTdrUIL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vHgZ18lTIKE1nphfUZTQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1iEtKqVPSVqiI71VSq4w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MEu4MOSKattNcfF7nY7Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/blFiHUZKRmaCzoGMveUc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3DjHsnJ1RwiNyJtm7m78"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/20ohjr_ouya-screenshot20141122-2-k0pdfc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/thumbnails\/thumbnail20141122-2-ffn1p4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/6s85a4_ouya-screenshot20141122-2-yt6ryu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/thumbnails\/thumbnail20141122-2-ghyjl3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/cibw9a_ouya-screenshot20141122-2-1cauq5q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/thumbnails\/thumbnail20141122-2-1ukzpvd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/jhxzl2_ouya-screenshot20141122-2-ppt6yb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/thumbnails\/thumbnail20141122-2-bwexcd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/rime4k_ouya-screenshot20141122-2-i71hpr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/thumbnails\/thumbnail20141122-2-18jq4sf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/jdd8hw_ouya-screenshot20141122-2-18s2uiq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85339df0-c6e3-4616-92b1-38907647afaa\/thumbnails\/thumbnail20141122-2-3enp1q.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Daniel Nordstr\u00f6m",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "",
+    "firstPublishedAt": "2014-11-24T18:06:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Daniel Nordstr\u00f6m.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.66,
+        "count": 53
+    }
+}

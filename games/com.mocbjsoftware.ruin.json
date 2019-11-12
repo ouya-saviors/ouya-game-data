@@ -1,0 +1,73 @@
+{
+    "packageName": "com.mocbjsoftware.ruin",
+    "title": "Macabre",
+    "description": "Macabre is a post-apocalyptic, old-school JRPG in a medieval setting. It also features some modern mechanics, such as in-game achievements, crafting, and a unique random encounter system. \r\n\r\nFeatures:\r\n\r\n-Classic JRPG gameplay.\r\n-A refreshing take on the random battle system that rewards grinding, or allows you to skip fighting altogether.\r\n-Over a dozen side quests, many of which utilize a \u201cfast travel\u201d turn-in system.\r\n-Over 40 in-game achievements.\r\n-A simple, but tiered crafting system with over 100 craftable items.\r\n-Some customizable stat growth via the augment system.\r\n-Semi-randomized loot that encourages exploration.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.13",
+            "versionCode": 0,
+            "uuid": "353b596c-d7a4-4957-80b6-56e89e01be0a",
+            "date": "2015-07-21T18:43:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fb374ba0-185c-4972-979b-23701055c3a0\/com.mocbjsoftware.ruin\/353b596c-d7a4-4957-80b6-56e89e01be0a\/fqqNmnzQzilEiDIp3OQw_macabre-release-signed%281%29.apk",
+            "size": 37889855,
+            "md5sum": "1f4d2226042632838cc50c96fc89f5c3",
+            "publicSize": 579960,
+            "nativeSize": 2593568
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mocbjsoftware.ruin\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oiniLxURb2lkx1ShEHh1",
+        "video": "https:\/\/vimeo.com\/133359206",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SsgRzufYRKK4mIJXcfif",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MJsZdamFQKKuTVTTnxp9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1Ky41xMRRNmIkBx7iOLr"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/133359206"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/353b596c-d7a4-4957-80b6-56e89e01be0a\/ysetnw_ouya-screenshot20150716-3-163fouf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/353b596c-d7a4-4957-80b6-56e89e01be0a\/thumbnails\/thumbnail20150716-3-iam0lc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/353b596c-d7a4-4957-80b6-56e89e01be0a\/336x2w_ouya-screenshot20150716-3-19clcws.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/353b596c-d7a4-4957-80b6-56e89e01be0a\/thumbnails\/thumbnail20150716-3-dxlsfz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/353b596c-d7a4-4957-80b6-56e89e01be0a\/edyl9h_ouya-screenshot20150716-3-s39s7w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/353b596c-d7a4-4957-80b6-56e89e01be0a\/thumbnails\/thumbnail20150716-3-2yu6hs.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "fb374ba0-185c-4972-979b-23701055c3a0",
+        "name": "MOCBJ Software",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "mocbjsoftware.com",
+    "firstPublishedAt": "2015-06-08T23:25:43Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2015 by MOCBJ Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.88,
+        "count": 49
+    }
+}

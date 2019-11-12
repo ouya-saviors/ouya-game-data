@@ -1,0 +1,94 @@
+{
+    "packageName": "com.ci.bermudadash",
+    "title": "Bermuda Dash",
+    "description": "Welcome to the Bermuda Triangle! Fly a water jetpack in the most mysterious place on earth!\r\nCan you make your way home before the last whirlpool closes forever?\r\nBe sure to have a look around, things are not always what they seem.\r\nAnd above all have fun, it's the journey not the destination!\r\n\r\nBermuda Dash is made by a small indie group, the motion in the game is physics based and almost all of the geometry is procedurally generated.\r\n\r\nCredits:\r\nProgramming and Game Design: Shawn Kendall, Lou Hayt\r\nVisual Art: Chad Kendall\r\nSound Effects: Chris Davis\r\nMusic: Jeff Rankin\r\n\r\nPowered by the Cosmic Engine",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.28",
+            "versionCode": 0,
+            "uuid": "c23b47d0-fe69-423f-b321-d3f26c9adffa",
+            "date": "2013-11-29T01:10:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/624d5361-403a-46ba-8bc3-6628c3fff576\/com.ci.bermudadash\/c23b47d0-fe69-423f-b321-d3f26c9adffa\/l5HzCUDWTjKtSRVfrnHO_PelagoDash-release.apk",
+            "size": 27862943,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ci.bermudadash\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aew8Eb6VQ7KlkajSUwRw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2tJF9SGrRbKCEJEZo05k",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kDisdxp3TzeKvlznTKEl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mOcF1xFR56mPGxzyOWDJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6u2yiecQfaJHdQGR7Msl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uPXWlLxvStibNGRjgs39"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2tJF9SGrRbKCEJEZo05k\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2tJF9SGrRbKCEJEZo05k\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kDisdxp3TzeKvlznTKEl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kDisdxp3TzeKvlznTKEl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mOcF1xFR56mPGxzyOWDJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mOcF1xFR56mPGxzyOWDJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6u2yiecQfaJHdQGR7Msl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6u2yiecQfaJHdQGR7Msl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uPXWlLxvStibNGRjgs39\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uPXWlLxvStibNGRjgs39\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Cosmic Interactive",
+        "supportEmail": "BermudeDash@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.facebook.com\/BermudaDash",
+    "firstPublishedAt": "2013-10-21T23:23:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Cosmic Interactive.",
+    "premium": false,
+    "rating": {
+        "likeCount": 26,
+        "average": 3.4,
+        "count": 40
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "bermudadash_levelpack1",
+            "name": "Bermuda Dash Levels 1-10",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

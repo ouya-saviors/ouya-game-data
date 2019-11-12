@@ -1,0 +1,82 @@
+{
+    "packageName": "com.studioevil.syderarcadeouya",
+    "title": "Syder Arcade",
+    "description": "Syder Arcade HD is a free scrolling multi directional shoot 'em up. A love letter to '90 classics for the Amiga and PC. Designed as an uncompromised old-school experience, Syder arcade is a furious and challenging action game that will bring you back in time, when games were all about skill and perseverance. \r\n\r\nOur retro-inspired shmup is a simple game, just shoot aliens and be awesome in space with bullets made of neon. Syder Arcade has no grind, no player exploiting multi-layered upgrade systems, no IAPs. Just 6 levels of fast paced challenge, featuring beautiful visuals and retro-electronic soundtack. \r\n\r\nV1.31 release notes\r\n- Added analog stick support\r\n- Added xbox 360 joypad support\r\n- Mule shield back to 100%\r\n- Minimum speed increase (10%) to match pc\/mac version\r\n- Better memory management\r\n- Better music quality",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "2dcca117-1c10-4af9-a800-5464250f6036",
+            "date": "2013-07-12T05:37:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/58897b57-010f-48a7-a76f-ef9c433fe9eb\/com.studioevil.syderarcadeouya\/2dcca117-1c10-4af9-a800-5464250f6036\/Kn7pHscqQDyNrs6gWnbc_SyderArcadeOUYA_134.apk",
+            "size": 120786857,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.studioevil.syderarcadeouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o3pIMCAyTRU5ORwiGM6i",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4FNkbvBeRF69CkgfdHwc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r0zkJDoVT0mhxUK4LsNh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G0gYi1vhRUWPnUK9QOgh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t8EKleRSTb2nyljX0MI0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wtpKnZTzSQhwlsRokaNA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4FNkbvBeRF69CkgfdHwc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4FNkbvBeRF69CkgfdHwc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r0zkJDoVT0mhxUK4LsNh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r0zkJDoVT0mhxUK4LsNh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G0gYi1vhRUWPnUK9QOgh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G0gYi1vhRUWPnUK9QOgh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/t8EKleRSTb2nyljX0MI0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/t8EKleRSTb2nyljX0MI0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wtpKnZTzSQhwlsRokaNA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wtpKnZTzSQhwlsRokaNA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Studio Evil",
+        "supportEmail": "team@studioevil.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.studioevil.com",
+    "firstPublishedAt": "2013-03-24T04:51:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Studio Evil.",
+    "premium": false,
+    "rating": {
+        "likeCount": 434,
+        "average": 3.98,
+        "count": 211
+    }
+}

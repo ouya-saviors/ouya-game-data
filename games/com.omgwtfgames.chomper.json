@@ -1,0 +1,69 @@
+{
+    "packageName": "com.omgwtfgames.chomper",
+    "title": "Chomper Deluxe",
+    "description": "Chomper Deluxe is a frenetic neo-retro videogame inspired by classic dot munching games of the early 80's.\r\n\r\nTest your reflexes and skills in strategic pattern play to clear levels, using multipliers to rack up a high score.\r\n\r\nPowerups ! Score multipliers ! Retro arcade sounds ! It's got all that.\r\n\r\nYour name in lights ! There are daily, weekly, monthly and all-time leaderboards, so there is a good chance to get your name in the top ten .. at least for a day :)\r\n\r\nLatest update: XBox, PS3, etc controller support. Minor bugfixes and performance improvements. Tweaked visuals. Added donate button.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.11",
+            "versionCode": 0,
+            "uuid": "8e087424-61a1-4898-8047-3fa2391b7982",
+            "date": "2013-07-17T23:03:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d85caf76-f735-4ff3-a398-460a6dd19192\/com.omgwtfgames.chomper\/8e087424-61a1-4898-8047-3fa2391b7982\/Q098aIqwQuahmqGSBb9j_chomper_ouya_v1.11.apk",
+            "size": 12038862,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.omgwtfgames.chomper\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r1IELWvTVaP8hjweVMyU",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nmfGbQB6qbmKXZng9vwA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VIvBVKtQVGglJhRGessy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1Ahv7vFRdKU2sp0eYFIA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nmfGbQB6qbmKXZng9vwA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nmfGbQB6qbmKXZng9vwA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VIvBVKtQVGglJhRGessy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VIvBVKtQVGglJhRGessy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1Ahv7vFRdKU2sp0eYFIA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1Ahv7vFRdKU2sp0eYFIA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "d85caf76-f735-4ff3-a398-460a6dd19192",
+        "name": "OMGWTFGAMES !1!!",
+        "supportEmail": "chomper.ouya@omgwtfgames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/omgwtfgames.com\/games\/chomper\/",
+    "firstPublishedAt": "2013-03-23T06:11:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by OMGWTFGAMES !1!!.",
+    "premium": false,
+    "rating": {
+        "likeCount": 33,
+        "average": 3.75,
+        "count": 40
+    }
+}

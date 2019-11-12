@@ -1,0 +1,88 @@
+{
+    "packageName": "net.evgiz.cubeandcreature",
+    "title": "Cube and Creature",
+    "description": "You are lost in space. A mysterious talking Cube is trying to connect with you. Can you trust it?\r\n\r\nPush yours skills and reflexes to their limits in this skillbased platformer. A challenge lies around every corner, and new hazards are constantly blocking your path. Do you have what it takes to get to the end?\r\n\r\nThe entire game was made by a single person, with the exception of the original music created by Andrea Giachini.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.9",
+            "versionCode": 0,
+            "uuid": "05cb258a-68a2-4302-b289-d49b8c0ee5fc",
+            "date": "2013-07-31T15:04:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bf7befac-343c-44e4-ab99-b3bcda847d13\/net.evgiz.cubeandcreature\/05cb258a-68a2-4302-b289-d49b8c0ee5fc\/I2x9FalROSMf1gDOIG9w_c%26c.apk",
+            "size": 11599446,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.evgiz.cubeandcreature\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Mvz3sBqxTemlDtS3f8OU",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EVbQ9ssEQZGRheln4ose",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0DxtiTr8Rleay0iLHBIO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zgsJNVQyS4OJJse8tTji",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HmJLlc2aTXmoZWU5Mei1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XSOlMUKvS1pOsLilAFLA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IfCDigpuTWyIXAbC1xmi"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EVbQ9ssEQZGRheln4ose\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EVbQ9ssEQZGRheln4ose\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0DxtiTr8Rleay0iLHBIO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0DxtiTr8Rleay0iLHBIO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zgsJNVQyS4OJJse8tTji\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zgsJNVQyS4OJJse8tTji\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HmJLlc2aTXmoZWU5Mei1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HmJLlc2aTXmoZWU5Mei1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XSOlMUKvS1pOsLilAFLA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XSOlMUKvS1pOsLilAFLA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IfCDigpuTWyIXAbC1xmi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IfCDigpuTWyIXAbC1xmi\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Evgiz",
+        "supportEmail": "me@evgiz.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "evgiz.net",
+    "firstPublishedAt": "2013-07-12T20:59:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Evgiz.",
+    "premium": false,
+    "rating": {
+        "likeCount": 158,
+        "average": 3.82,
+        "count": 112
+    }
+}

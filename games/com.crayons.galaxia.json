@@ -1,0 +1,93 @@
+{
+    "packageName": "com.crayons.galaxia",
+    "title": "Otra Galaxia",
+    "description": "Otra Galaxia is a dual stick arcade shooter featuring both story mode and survival mode.\r\n\r\nChallenging level designs, great graphic and inspiring soundtracks.. all embed in the most worth-to-play game of the year.\r\n\r\nChoose your Ship, get upgrades, buckle up and take down all the enemy.\r\n\r\nCompleted the story mode yet? Congratulation! You are a skilled player. Try to beat the worldscore in the survival mode with all otra players around the world and get your name into the Highscore Board.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 0,
+            "uuid": "ea266e3e-54a5-4157-a581-cf276862bc37",
+            "date": "2014-01-20T23:38:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/19a3e61c-3211-40ab-9750-c8d8c32523ca\/com.crayons.galaxia\/ea266e3e-54a5-4157-a581-cf276862bc37\/Nq7165yTDSntUUdFGQLw_Otra_Galaxia_v102.apk",
+            "size": 165760054,
+            "md5sum": "8137440e96038afc86aa54aab29b8173",
+            "publicSize": 416471,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.crayons.galaxia\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F3xxB3BGTxa7lSwUkP4y",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UuVyJ9wuQMSmjNDgAIfQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VpD0okOsS16NlbgurjEk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z8gQStkNQuuAUaOFHIvi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vthp1QEBS42hwFN5v0dj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HAmhxawkQGiCmFlX6w5z"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UuVyJ9wuQMSmjNDgAIfQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UuVyJ9wuQMSmjNDgAIfQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VpD0okOsS16NlbgurjEk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VpD0okOsS16NlbgurjEk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Z8gQStkNQuuAUaOFHIvi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Z8gQStkNQuuAUaOFHIvi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vthp1QEBS42hwFN5v0dj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vthp1QEBS42hwFN5v0dj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HAmhxawkQGiCmFlX6w5z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HAmhxawkQGiCmFlX6w5z\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Crayons Game Studio",
+        "supportEmail": "support@crayonsgame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "crayonsgame.com",
+    "firstPublishedAt": "2014-01-14T00:17:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Crayons Game Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 53,
+        "average": 2.8,
+        "count": 65
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "otragalaxia_gameUnlock",
+            "name": "Full version of Otra Galaxia",
+            "description": "Full version of Otra Galaxia for unlocked mission, shop and survival mode.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

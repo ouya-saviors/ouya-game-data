@@ -1,0 +1,83 @@
+{
+    "packageName": "com.ATG.MB",
+    "title": "Mathy Bird",
+    "description": "It's the game you hate with the maths you love! \r\n\r\nOr vice-versa! \r\n\r\nThis is Mathy Bird - A game where you have to fly past as many mathematical functions and\/or relationships as possible! \r\n\r\nAre you into maths? This is the game for you! \r\n\r\nDo you need to learn the shape of some graphs for school? This is the game for you too! \r\n\r\nIncludes a massive sixteen of your favourite graphs, including \r\n*Linear \r\n*Sine Wave \r\n*Cubic \r\n*Hyperbola \r\n*Co-Secant \r\n*Normal Distribution (bell shaped curve) \r\n*And more! \r\n\r\nSo what are you waiting for, it's free after all!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "59c0654c-772c-489d-aa62-c65626a8438d",
+            "date": "2014-04-14T23:36:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b0dc197b-9259-4f42-9890-e68f66c19cf8\/com.ATG.MB\/59c0654c-772c-489d-aa62-c65626a8438d\/ULGMXxVZSZ2TAV19mHsv_MB1b.apk",
+            "size": 6969767,
+            "md5sum": "2d5ae37ee1a279633040c8cffbbc14b6",
+            "publicSize": 505252,
+            "nativeSize": 7820628
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.atg.mb\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tUTCwkMETwGGgHjkX7wr",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h4eE7s1fRJqm0rqScU8V",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4DbaAdj4SqmljCiSKLnF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4AJITewaTzuMJYfRzOrd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w4SQTgQbToWsN95sOeKa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nS8RedSnTf65RqMRaIfQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/h4eE7s1fRJqm0rqScU8V\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/h4eE7s1fRJqm0rqScU8V\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4DbaAdj4SqmljCiSKLnF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4DbaAdj4SqmljCiSKLnF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4AJITewaTzuMJYfRzOrd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4AJITewaTzuMJYfRzOrd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w4SQTgQbToWsN95sOeKa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w4SQTgQbToWsN95sOeKa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nS8RedSnTf65RqMRaIfQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nS8RedSnTf65RqMRaIfQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Alex Tritt Games",
+        "supportEmail": "nujuat@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "alextrittgames.com",
+    "firstPublishedAt": "2014-04-14T23:36:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Alex Tritt Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 8,
+        "average": 2.48,
+        "count": 71
+    }
+}

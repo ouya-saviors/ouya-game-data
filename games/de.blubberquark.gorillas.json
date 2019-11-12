@@ -1,0 +1,83 @@
+{
+    "packageName": "de.blubberquark.gorillas",
+    "title": "Flappy Gorillas",
+    "description": "The DOS classic GORILLA.BAS meets Flappy Bird - Two players throw bananas at each other. You can aim the bananas with well timed flapping.\r\n\r\nThis game features\r\n - Graphics\r\n - Sound\r\n - Gorillas\r\n - Bananas\r\n - Multiplayer\r\n - Fully Destructible Terrain\r\n\r\nFlappy Gorillas was originally created during the Flappy Jam 2014.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.2.0",
+            "versionCode": 0,
+            "uuid": "e4f61ff5-f738-46d6-9fcd-15f1e49743dc",
+            "date": "2014-04-25T21:17:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d73675e6-1720-469d-aa85-50d8c0b9dc96\/de.blubberquark.gorillas\/e4f61ff5-f738-46d6-9fcd-15f1e49743dc\/E5BRla8zRauj3IohO9Ft_FlappyGorillas-0.0.1-release.apk",
+            "size": 6750648,
+            "md5sum": "5fbe714c1137e7722d88ef6d751ad643",
+            "publicSize": 86713,
+            "nativeSize": 3671272
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.gorillas\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6XIb28TtOvVStG4qYPQK",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KGPCgf8KQ8iNncpLM2YI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Hkz5JUSRGKSyza1VHHhE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hfzGhJLQTRaKAK7aeeZN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QxSaR5XAQDq5vui9JJVd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t8CTGSupRkWj0BPJVdhp"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KGPCgf8KQ8iNncpLM2YI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KGPCgf8KQ8iNncpLM2YI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Hkz5JUSRGKSyza1VHHhE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Hkz5JUSRGKSyza1VHHhE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hfzGhJLQTRaKAK7aeeZN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hfzGhJLQTRaKAK7aeeZN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QxSaR5XAQDq5vui9JJVd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QxSaR5XAQDq5vui9JJVd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/t8CTGSupRkWj0BPJVdhp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/t8CTGSupRkWj0BPJVdhp\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "d73675e6-1720-469d-aa85-50d8c0b9dc96",
+        "name": "Blubberquark Software",
+        "supportEmail": "bob@blubberquark.de",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "blubberquark.itch.io",
+    "firstPublishedAt": "2014-04-25T21:17:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Blubberquark Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.65,
+        "count": 172
+    }
+}

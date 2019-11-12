@@ -1,0 +1,97 @@
+{
+    "packageName": "com.gamequad.templarssword",
+    "title": "Templars' Sword",
+    "description": "After the fall of the Order of the Temple in 14th century, the monks hid their vast riches. They had accumulated enormous wealth which consequently contributed to their downfall. After so many years in France the main character sees a ghost of a killed Templar who gives her valuable hints concerning the hidden treasure.The character gets in touch with her old friend to solve the riddle.\r\n\r\nDiscover the mystery of the hidden Templars' treasure.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0408",
+            "versionCode": 0,
+            "uuid": "d6e7d932-8fd1-4856-8273-da7a85588bf6",
+            "date": "2014-04-09T06:43:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1654afcf-ec40-4350-8992-e41e638119c1\/com.gamequad.templarssword\/d6e7d932-8fd1-4856-8273-da7a85588bf6\/aBWWnFEbRuekC2azp6C8_Templars%20Sword.apk",
+            "size": 52121357,
+            "md5sum": "3c052999158bcc0d28d7e0ee07ffe825",
+            "publicSize": 1186323,
+            "nativeSize": 4431996
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamequad.templarssword\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SnMdYXm0Rt2AlSMfg3dT",
+        "video": "https:\/\/vimeo.com\/87774265",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xA3gszQXRieal6MXaRox",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qP0IsJLlTt2vxc1fpmFM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lU067y8pT9mqBUToDDjD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MNAniq8TzqSCOs1vXBqQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bmrNmejkTKpQCjJtTyIE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87774265"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xA3gszQXRieal6MXaRox\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xA3gszQXRieal6MXaRox\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qP0IsJLlTt2vxc1fpmFM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qP0IsJLlTt2vxc1fpmFM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lU067y8pT9mqBUToDDjD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lU067y8pT9mqBUToDDjD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MNAniq8TzqSCOs1vXBqQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MNAniq8TzqSCOs1vXBqQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bmrNmejkTKpQCjJtTyIE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bmrNmejkTKpQCjJtTyIE\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "GAMEQUAD",
+        "supportEmail": "support@gamequad.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/gamequad.com",
+    "firstPublishedAt": "2014-04-09T06:43:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by GAMEQUAD.",
+    "premium": false,
+    "rating": {
+        "likeCount": 15,
+        "average": 2.48,
+        "count": 23
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock",
+            "name": "Unlock Full Game",
+            "description": "Discover the mystery of the hidden Templars' treasure. ",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

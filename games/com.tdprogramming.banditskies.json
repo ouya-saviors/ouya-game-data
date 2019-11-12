@@ -1,0 +1,70 @@
+{
+    "packageName": "com.tdprogramming.banditskies",
+    "title": "Bandit Skies",
+    "description": "Bandit Skies is a simple, accessible retro shoot-em-up with loot-gathering, RPG elements. Take to the air to put a stop to the bandits, grab their loot and use it to help out the people you meet on your travels!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "ef026026-9992-488f-9d8e-f23c381a3d93",
+            "date": "2013-07-31T17:01:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c99c54e3-2b0b-44fd-8274-10facb5a0dc5\/com.tdprogramming.banditskies\/ef026026-9992-488f-9d8e-f23c381a3d93\/k8Uh1FhgThyencsZHXwT_banditskies.apk",
+            "size": 66160819,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tdprogramming.banditskies\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3aJef67FTcqBbScJjnq8",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tQMOcWoMRpSVBbLhMNqx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/70OqrpUERvmB8YXSzys2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ira4L5TTjWw9JjiQc0OA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tQMOcWoMRpSVBbLhMNqx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tQMOcWoMRpSVBbLhMNqx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/70OqrpUERvmB8YXSzys2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/70OqrpUERvmB8YXSzys2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ira4L5TTjWw9JjiQc0OA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ira4L5TTjWw9JjiQc0OA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TD Programming Ltd",
+        "supportEmail": "timdiggle2000@yahoo.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.banditskies.com",
+    "firstPublishedAt": "2013-07-31T17:01:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by TD Programming Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 61,
+        "average": 3.62,
+        "count": 77
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "packageName": "net.robysoft.justrain",
+    "title": "Just Rain",
+    "description": "Just Rain is a soothing audiovisual rain simulator. Listen to varying degrees of rain sounds from gentle drizzle to intense downpour -- controlled by the LS. Just Rain also features stereo audio panning and a visual rain simulation. Use it to relax, to study, or to sleep!\r\n\r\nThis app uses many sounds from freesound.org. Visit http:\/\/www.robysoft.net\/justrain to see the full list.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Meditative"
+    ],
+    "releases": [
+        {
+            "name": "2.0",
+            "versionCode": 0,
+            "uuid": "389e6969-f941-4a16-a12f-34c6fd251642",
+            "date": "2014-06-03T23:41:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7750f484-f49d-4a4d-8e37-5ef3efbf5eba\/net.robysoft.justrain\/389e6969-f941-4a16-a12f-34c6fd251642\/jMIYsTH2RwK20jyMFLie_Just%20Rain.apk",
+            "size": 24377418,
+            "md5sum": "bda5479f54d14c3fe8ee3ad728267f55",
+            "publicSize": 2382367,
+            "nativeSize": 3860592
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.robysoft.justrain\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6YwyRQ5S6KWrCOE58TjL",
+        "video": "https:\/\/vimeo.com\/96948343",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GunYKcFgQOq4qDBJ2H3M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lkZwWGfASoC8RstDBHkV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rBCCu6GqTe6PNqlHltpL"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/96948343"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GunYKcFgQOq4qDBJ2H3M",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GunYKcFgQOq4qDBJ2H3M"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lkZwWGfASoC8RstDBHkV",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lkZwWGfASoC8RstDBHkV"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rBCCu6GqTe6PNqlHltpL",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rBCCu6GqTe6PNqlHltpL"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Robysoft",
+        "supportEmail": "nick@robysoft.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.robysoft.net",
+    "firstPublishedAt": "2013-07-03T14:37:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Robysoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 561,
+        "average": 4.18,
+        "count": 1582
+    }
+}

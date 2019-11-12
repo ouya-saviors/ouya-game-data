@@ -1,0 +1,70 @@
+{
+    "packageName": "net.robysoft.igloodeluxe",
+    "title": "Igloo Command DELUXE",
+    "description": "The old-school, arcade-style romp from Robysoft comes to OUYA! Defend your igloo colony from the arctic bombers with your mega snowball cannons! Can you survive to post the high score in this classic action title?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "9fae5e3a-f669-4d2c-bc17-296b22df8eff",
+            "date": "2013-07-01T22:22:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7750f484-f49d-4a4d-8e37-5ef3efbf5eba\/net.robysoft.igloodeluxe\/9fae5e3a-f669-4d2c-bc17-296b22df8eff\/VfvonieQTsU5yBcuK1KB_IglooCommandDELUXE.apk",
+            "size": 11291896,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.robysoft.igloodeluxe\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rhSrRljS0SWJYTw0rijO",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mWN6MQYXSpS7e8HgqUfH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fnBDvBWkST6NGrDg5YYc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hVXToW26QzCXkw8mPWaf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mWN6MQYXSpS7e8HgqUfH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mWN6MQYXSpS7e8HgqUfH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fnBDvBWkST6NGrDg5YYc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fnBDvBWkST6NGrDg5YYc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hVXToW26QzCXkw8mPWaf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hVXToW26QzCXkw8mPWaf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Robysoft",
+        "supportEmail": "nick@nicksantan.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.igloocommand.com",
+    "firstPublishedAt": "2013-07-01T22:22:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Robysoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 53,
+        "average": 3.61,
+        "count": 28
+    }
+}

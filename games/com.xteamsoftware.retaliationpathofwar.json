@@ -1,0 +1,81 @@
+{
+    "packageName": "com.xteamsoftware.retaliationpathofwar",
+    "title": "Retaliation Path of War",
+    "description": " Retaliation: Path of War is a new and original hex-and-counter turn based wargame. It has been designed and developed with the main purpose of offering a fun and easy to learn wargame, without the complexity and hyper realism of traditional simulation wargames while at the same time keeping all the interesting and challenging elements of tactical reasoning.\r\n\r\nHave you enjoyed playing many matches of Risk\u2122 with your friends but often felt limited by its simplicity and yearned for something more? Have you been engaged in realistic battle simulations lasting several hours (or days!) and wished you could just get to the point and vanquish your enemies?\r\nThen you've come to the right place: whether you are a seasoned strategist or a casual gamer, you will love crushing tanks and conquering bases in Retaliation!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.25",
+            "versionCode": 0,
+            "uuid": "951a22b1-0bb7-460a-87d4-da21cb00ada2",
+            "date": "2014-08-08T15:56:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b15b0165-4eaa-44d1-9008-c259ec6092b6\/com.xteamsoftware.retaliationpathofwar\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/ED1yW24XROKNlkz9Jg2z_retaliation_pow.apk",
+            "size": 29491741,
+            "md5sum": "a62664c56c1ec32587b8c804393a57b0",
+            "publicSize": 436529,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.xteamsoftware.retaliationpathofwar\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Jq5UK8sTRCm5xWq95uQg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2AkGRcLJQ3C59A0Zf0q1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m0g3o2g9S6C6syQeg2W6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lLgyTLdWSwaTzypRtfaF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fptvOqlrTAiP868hqnV5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QEt0rt7FQ8q7neGMFcDW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/tv2v91_ouya-screenshot20140806-2-97geh8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/thumbnails\/thumbnail20140806-2-12zoaf9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/sx844u_ouya-screenshot20140806-2-ugemkn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/thumbnails\/thumbnail20140806-2-1a5ti4v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/x9lwwg_ouya-screenshot20140806-2-1vjotz5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/thumbnails\/thumbnail20140806-2-htmsrd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/28xsj0_ouya-screenshot20140806-2-ajk1vo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/thumbnails\/thumbnail20140806-2-1bvweo5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/ssgfa1_ouya-screenshot20140806-2-tl8d3p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/951a22b1-0bb7-460a-87d4-da21cb00ada2\/thumbnails\/thumbnail20140806-2-13tynhm.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "XTeam Software Solutions SRLS",
+        "supportEmail": "xteam@xteamsoftware.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.retaliationgame.com\/",
+    "firstPublishedAt": "2014-03-11T16:22:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by XTeam Software Solutions SRLS.",
+    "premium": false,
+    "rating": {
+        "likeCount": 20,
+        "average": 3,
+        "count": 84
+    }
+}

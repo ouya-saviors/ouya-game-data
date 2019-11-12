@@ -1,0 +1,100 @@
+{
+    "packageName": "com.nyaalabs.endlessmaze",
+    "title": "Endless Maze",
+    "description": "Just maze solving, nothing more, nothing less.\r\n\r\nEvery level is bigger then the previous one. Endless!\r\n\r\nAll level are procedurally generated with changing color scheme.\r\n\r\nThe game is till level 20 free. After that you are able to unlock the full game for only $1.99.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c13b6271-6cc1-4403-9c5a-a4439796cace",
+            "date": "2013-07-31T15:06:15Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e50178ec-2b75-46d1-bbcd-908a1465418e\/com.nyaalabs.endlessmaze\/c13b6271-6cc1-4403-9c5a-a4439796cace\/cVxwIK3xSOvV4AfUoy4T_EndlessMaze.apk",
+            "size": 6760994,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nyaalabs.endlessmaze\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N7nwnVHvRdK5rMh6BgAw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3BS07peRV2Q4cRRkQPbt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UzYbqA0ASVKSyxJHhH4u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cGh6ZvwwRPuNXsKEUpWI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sJo5ZkVbQNUQDpWCxa5S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TQDI8UfvQXC7xuBUJIey",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w3KqAw7yQRWjqQc1CmWZ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3BS07peRV2Q4cRRkQPbt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3BS07peRV2Q4cRRkQPbt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UzYbqA0ASVKSyxJHhH4u\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UzYbqA0ASVKSyxJHhH4u\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cGh6ZvwwRPuNXsKEUpWI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cGh6ZvwwRPuNXsKEUpWI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sJo5ZkVbQNUQDpWCxa5S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sJo5ZkVbQNUQDpWCxa5S\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TQDI8UfvQXC7xuBUJIey\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TQDI8UfvQXC7xuBUJIey\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w3KqAw7yQRWjqQc1CmWZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w3KqAw7yQRWjqQc1CmWZ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nyaa Labs",
+        "supportEmail": "support@nyaalabs.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.nyaalabs.com",
+    "firstPublishedAt": "2013-07-31T15:06:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Nyaa Labs.",
+    "premium": false,
+    "rating": {
+        "likeCount": 63,
+        "average": 3.11,
+        "count": 84
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "endless_maze_full",
+            "name": "Endless Maze - Full Game",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

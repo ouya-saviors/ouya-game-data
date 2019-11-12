@@ -1,0 +1,98 @@
+{
+    "packageName": "com.SpookyFishGames.p99waves",
+    "title": "99 Waves to Die",
+    "description": "99 Waves to Die is a twin stick arcade shooter, inspired by the arcade games, and 8-bit home consoles\/computers, of the 1980\u2032s.\r\n\r\nRemember when video games used to be insanely difficult?\r\nWhen you used to spend \u00a3\u2019s in the local arcade trying to get the high score?\r\nWhen having your three letter initials\/acronym at the top of the table meant you were the king?\r\nWell we do, and that is why we have created 99 Waves to Die.\r\nA ship, 3 lives, limited smart-bombs and scarce power-ups is all you have to try and survive the waves of enemies that rally against you.\r\nWith voxel based graphics, inspired by 80\u2032s video game classics & excellent 8-bit audio fx, 99 Waves to Die will take you back to those seedy, dark, smoke filled arcades of your childhood. Re-live the 80\u2032s heyday of the arcade, but without the 10p\u2019s.\r\nCan you survive to see Wave 99?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.21",
+            "versionCode": 0,
+            "uuid": "e4a7736c-77c3-437c-ac1b-4d9febf89c33",
+            "date": "2014-07-09T19:12:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/30670339-4b52-4149-ac13-da466875b4fa\/com.SpookyFishGames.p99waves\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/DqevPEGSk6H0wgAMTBTF_99waves_Ouya_release_1_21.apk",
+            "size": 17677608,
+            "md5sum": "998b33b28cd93693231dcdd9d12db96f",
+            "publicSize": 115737,
+            "nativeSize": 14803016
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spookyfishgames.p99waves\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sKNvDvHgSkmktFYbrrNV",
+        "video": "https:\/\/vimeo.com\/86134841",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/otBI92i8TQGBvhInx9rc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vHtsL4frRySZsJKgSMdw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IYoVmJt1SSm4rnW010EQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Iqgy0gaYSNedQJVEd7Ps",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VFKq65NRSsO2ejYoXHfY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/86134841"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/4qelly_ouya-screenshot20140701-2-t361z6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-8i7rco.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/2v87l1_ouya-screenshot20140701-2-1fcchhg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1ux1o9c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/hw63ev_ouya-screenshot20140701-2-1h9ltwl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1q6836m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/8iow1g_ouya-screenshot20140701-2-1isgaqv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1h0zqhs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/2xn7fw_ouya-screenshot20140701-2-t28202.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1pt2wkt.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "30670339-4b52-4149-ac13-da466875b4fa",
+        "name": "SpookyFish Games",
+        "supportEmail": "support@spookyfishgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.spookyfishgames.com\/",
+    "firstPublishedAt": "2013-10-24T21:31:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by SpookyFish Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 67,
+        "average": 3.76,
+        "count": 170
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "99waves_full_game",
+            "name": "99 Waves to Die (Full Game)",
+            "description": "Unlock 99 Waves to Die Full Game.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

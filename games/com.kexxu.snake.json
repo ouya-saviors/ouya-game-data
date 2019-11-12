@@ -1,0 +1,74 @@
+{
+    "packageName": "com.kexxu.snake",
+    "title": "Mega Snake Coin DESTROYER",
+    "description": "I wanted to make snake for OUYA, and got a little caried away. Now, I intoduce to you:\r\n\r\nMega Snake Coin DESTROYER.\r\n\r\nIt is fun and addictive with online scoring system so you can try to be the best in the WHOLE WORLD.\r\n\r\nI don't want to say this is the absolute best snake in the world, but it IS definetly without any doubt the BEST SNAKE EVER IN THE WHOLE WIDE WORLD, without being cocky.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a2d76753-3168-4d73-8fa1-a9b81b855437",
+            "date": "2013-10-23T17:24:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7c3da6d3-3b3c-449d-822c-8e7606018860\/com.kexxu.snake\/a2d76753-3168-4d73-8fa1-a9b81b855437\/eKjGFSRQTaMaEHU6gKa6_Snake.apk",
+            "size": 1599369,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kexxu.snake\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4OGNPEYQQi5CcR5X2W4s",
+        "video": "https:\/\/vimeo.com\/77210969",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c4mNKPyuQ9qqZ9Nifs6D",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kmotmNHaRv6zbXOxNfp9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/laqDFOZERYWPkUonvMGQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77210969"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/c4mNKPyuQ9qqZ9Nifs6D\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/c4mNKPyuQ9qqZ9Nifs6D\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kmotmNHaRv6zbXOxNfp9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kmotmNHaRv6zbXOxNfp9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/laqDFOZERYWPkUonvMGQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/laqDFOZERYWPkUonvMGQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "kexxu",
+        "supportEmail": "info@kexxu.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/kexxu.com",
+    "firstPublishedAt": "2013-10-23T17:24:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by kexxu.",
+    "premium": false,
+    "rating": {
+        "likeCount": 30,
+        "average": 3.46,
+        "count": 56
+    }
+}

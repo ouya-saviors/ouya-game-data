@@ -1,0 +1,73 @@
+{
+    "packageName": "com.spoonweaver.clamdigger",
+    "title": "Clam Digger",
+    "description": "Tyrone calls you up, you know, in the game, and he says, \"I can dig more clams than you, stupid!\" And you've got to say, \"Nuh-uh, boy!\" And then y'all gotta race down to the beach with your buckets and your shovels. And the object of the game... is to find parking. It's a difficult game!\r\n This game is modeled after a game description from a popular cartoon. The game was never really meant to be playable when they described it in the show and was in fact meant as a jokingly bad game. However, here it is. Have Fun!\r\nThis game is completely free.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing",
+        "Retro",
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 0,
+            "uuid": "5e700b75-5e62-412a-a2e8-6728cd95307e",
+            "date": "2015-01-16T00:27:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ba4bbb6b-5626-42e6-a40e-ae8a9d91e687\/com.spoonweaver.clamdigger\/5e700b75-5e62-412a-a2e8-6728cd95307e\/djnVmj1zSc6XsIJFfkYW_clamdigger-release-signed.apk",
+            "size": 4177863,
+            "md5sum": "f273a2095958f854824e22b379ee93e5",
+            "publicSize": 783750,
+            "nativeSize": 2507500
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spoonweaver.clamdigger\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LzADwZ2Qt2fhZdkdken4",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rMUA4x0sStur2h0UoZzb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ktizAC1TayaL3hapdpaA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Blf1ZyG3Ts62stn8qUsS"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rMUA4x0sStur2h0UoZzb",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rMUA4x0sStur2h0UoZzb"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ktizAC1TayaL3hapdpaA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ktizAC1TayaL3hapdpaA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Blf1ZyG3Ts62stn8qUsS",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Blf1ZyG3Ts62stn8qUsS"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Spoonweaver Studios",
+        "supportEmail": "rupchurc@mail.usf.edu",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/spoonweaver.blogspot.com\/",
+    "firstPublishedAt": "2013-08-13T02:09:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by Spoonweaver Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 65,
+        "average": 3.9,
+        "count": 39
+    }
+}

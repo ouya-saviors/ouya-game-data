@@ -1,0 +1,87 @@
+{
+    "packageName": "foxysgames.QuickColors",
+    "title": "Quick Colors 1.0",
+    "description": "Quick Colors is an awesome casual\/arcade game where quickness is the key to winning. The objective is to change the center ball to match the incoming ball when they collide. The game starts out slow but then revs up fast as your score increases. There is also several different modes to try you quickness act eg. speedrun 5x where balls comes flying in at almost impossible speed or streak mode where there is no room for error to see how many successful hits you can get in a row. Overall its a game for all ages.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e21190fb-a246-44b1-a891-87110bb2be5a",
+            "date": "2014-03-20T19:40:11Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3f5e7416-3c44-4eae-9a0c-e7411030892d\/foxysgames.QuickColors\/e21190fb-a246-44b1-a891-87110bb2be5a\/OF1WJ4gQT0qCjTPTi4kA_foxysgames.QuickColors.apk",
+            "size": 60049838,
+            "md5sum": "cd9d3648d7ea6b54fe5a5c661c1ed257",
+            "publicSize": 366401,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/foxysgames.quickcolors\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9HA8YWVYQDqH9hfHmRXm",
+        "video": "http:\/\/vimeo.com\/89614899",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ce7hGW4bSZeL3E72RWst",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Wgo1Opx8QxydLZhTRiC6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eZuQPt3ZQqstzcgXKPw8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bxbRAPs3Th2ubyEbN2lR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yaOqF2pfTEOni4E1G8bL"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/89614899"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ce7hGW4bSZeL3E72RWst\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ce7hGW4bSZeL3E72RWst\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Wgo1Opx8QxydLZhTRiC6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Wgo1Opx8QxydLZhTRiC6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eZuQPt3ZQqstzcgXKPw8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eZuQPt3ZQqstzcgXKPw8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bxbRAPs3Th2ubyEbN2lR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bxbRAPs3Th2ubyEbN2lR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yaOqF2pfTEOni4E1G8bL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yaOqF2pfTEOni4E1G8bL\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "FoxysGames",
+        "supportEmail": "foxysgames@icloud.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.foxysgames.com",
+    "firstPublishedAt": "2014-03-20T19:40:11Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by FoxysGames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 50,
+        "average": 3.97,
+        "count": 61
+    }
+}

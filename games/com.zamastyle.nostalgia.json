@@ -1,0 +1,100 @@
+{
+    "packageName": "com.zamastyle.nostalgia",
+    "title": "Nostalgia",
+    "description": "Have you been looking for a single app to unify all of your android emulators? Wish there was a way to show all of your different games with cover art and descriptions instead of just titles?Nostalgia is your answer. Nostalgia is a user interface compatible with many android emulators (check the list further down). You install the emulators and then use Nostalgia's configuration menu to set the emulator to use and the rom directory AND go out and fetch the best shot at the cover art and descriptions for the games. Once those steps are done you will have a fancy new menu for each of your emulated systems with cover art and all. \n\nNostalgia is still in development. Ideas are always welcome! \n\nAs always, Nostalgia only costs $1 to unlock fully and permanently.\n\nThe ONLY limitation in demo mode is that you can only select one game system to launch an emulator. You can still use all the other features and fully populate all of the menus for any system you have so you can see what it will look like.\n\nCurrent supported Emulators:\n\u2022Mupen64 Plus AE\n\u2022Fpse\n\u2022MD.EMU (no gamegear)\n\u2022NES.EMU\n\u2022SNES9x EX+\n\u2022GBC.EMU\n\u2022GBA.EMU\n\u2022PCE.EMU\n\u2022C64.EMU\n\u20222600.EMU\n\u2022NEO.EMU\n\u2022NESoid\n\u2022SNESoid\n\u2022N64oid\n\u2022Gensoid\n\u2022Gearoid\n\u2022GBCoid\n\u2022Gameboid\n\u2022ePSXe (If it works)\n\u2022MSX.EMU (colecovision)\n\u2022Retroarch\n\u2022Reicast\n\u2022Drastic\n\u2022SuperGnes (ouy version is broken atm)\n\u2022PPSSPP (download latest version from their site)\n\u2022Mame4droid\n\nChange log for Nostalgia v2.5.10\n\u2022 Bug fixes\n\u2022 IAP code reverted to support Ouya Everywhere\nChange log for Nostalgia v2.5.9\n\u2022 Fixed Purchase validation for Ouya Everywhere users\n\u2022 Fixed intent for mame4droid from the Ouya Store\n\u2022 Added emulator intent validation to prevent crashes when you don't have the emulator installed\n\u2022 Fixed metadata bug that would cause ignored files to show up again. Refresh metadata to resolve this\n\u2022 Added touch controls (does that apply to any discover devices?)\n\u2022 Added a controller re-mapper to support new controllers\n\n\nNostalgia is now on google play!\n\nFollow @zamastyle on twitter for updates on all things nostalgia\nPlease report bugs and errors by email to zamastyle.development@gmail.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Retro",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "2.5.10",
+            "versionCode": 24,
+            "uuid": "11123b0c-92fc-4be1-a795-c6b440107e43",
+            "date": "2016-05-17T21:31:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/56688f36-7869-4800-a24e-bf6b2a85d659\/com.zamastyle.nostalgia\/11123b0c-92fc-4be1-a795-c6b440107e43\/3jaMR2bYToWV5TnhTtjP_Nostalgia-OUYARELEASE.apk",
+            "size": 4015909,
+            "md5sum": "697a76bae886e8e1e6240f172506d11c",
+            "publicSize": 2833617,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zamastyle.nostalgia\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UzTqDMvQ9if1TfhUeh94",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PbqjuHBBQjArOiDta4S4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YtpU1U1TD6JO5T46mewo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8lvLeYxIR5axMAcxetY0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ql3ylD9S3auyao3EA0L3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T8XZQgSzTEOyJYY34Tnj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c2FHcObTTQAPn8gXM9ct"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/5u2es0_ouya-screenshot20160513-3-1k9xmgu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/thumbnails\/thumbnail20160513-3-1luzhe9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/psbot8_ouya-screenshot20160513-3-1stoby1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/thumbnails\/thumbnail20160513-3-1qdklci.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/kehnzb_ouya-screenshot20160513-3-1qilf9l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/thumbnails\/thumbnail20160513-3-16foh5e.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/xbtv5o_ouya-screenshot20160513-3-nna6zz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/thumbnails\/thumbnail20160513-3-9rsqc9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/qjhznh_ouya-screenshot20160513-3-1axfmp2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/thumbnails\/thumbnail20160513-3-149ywq6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/a2k9k7_ouya-screenshot20160513-3-12tqjs4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11123b0c-92fc-4be1-a795-c6b440107e43\/thumbnails\/thumbnail20160513-3-1i1icm4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Zamastyle",
+        "supportEmail": "Zamastyle.Development@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ouyaforum.com\/showthread.php?4536-Nostalgia-Zamastyle",
+    "firstPublishedAt": "2013-07-16T15:01:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2016 by Zamastyle.",
+    "premium": false,
+    "rating": {
+        "likeCount": 648,
+        "average": 4.35,
+        "count": 1029
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "NostalgiaUnlock",
+            "name": "Unlock Nostalgia",
+            "description": "Unlocking Nostalgia will let you select emulators for all of your game systems in the config menu instead of just one.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

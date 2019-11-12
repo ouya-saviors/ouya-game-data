@@ -1,0 +1,87 @@
+{
+    "packageName": "com.AGameAWeek.DiscBlaster_I15",
+    "title": "Disc Blaster",
+    "description": "The Microbes are coming.\r\nProtect your disc from the growing swarms of Microbes as best you can.\r\nBattle through disc after disc of creatures, and obliterate them all.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "98e2a421-0b0b-44ec-a37a-8688a8f8a526",
+            "date": "2015-12-29T23:43:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.DiscBlaster_I15\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/bFaHzulnQtKTzj6dgbDO_DiscBlaster.apk",
+            "size": 10187757,
+            "md5sum": "a4d5c953499ed158d4f66c9e7264ffa3",
+            "publicSize": 163103,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.discblaster_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/37mmX4AoTRG2C3xxAY7Z",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T5sZCdrR9CxXLjf5Jy9I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fFzYza71Q0GH8ll3VWIA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WyuWPWezSL2aiPL77s7u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AMCbt9vQXGBNBx7c4oQI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3T2e2X7Qwm9p3SCTWQHr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ss4K5KU8RbDRkMQ4tGv1"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/flwdhq_ouya-screenshot20151228-3-92yseu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/thumbnails\/thumbnail20151228-3-1ajac6d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/1wyzdc_ouya-screenshot20151228-3-77q5wz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/thumbnails\/thumbnail20151228-3-1vuu2he.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/59g57z_ouya-screenshot20151228-3-n9p0e9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/thumbnails\/thumbnail20151228-3-4w3471.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/6mnbwv_ouya-screenshot20151228-3-zbl6d8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/thumbnails\/thumbnail20151228-3-104wvu1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/q1rmps_ouya-screenshot20151228-3-18cv8zk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/thumbnails\/thumbnail20151228-3-6h1vdf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/u884yb_ouya-screenshot20151228-3-y7nim1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/98e2a421-0b0b-44ec-a37a-8688a8f8a526\/thumbnails\/thumbnail20151228-3-1hpp0cj.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-09-29T21:11:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.5,
+        "count": 4
+    }
+}

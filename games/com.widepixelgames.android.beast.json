@@ -1,0 +1,81 @@
+{
+    "packageName": "com.widepixelgames.android.beast",
+    "title": "Broken Pearl",
+    "description": "Long ago we settled down on this planet, the three of us. We each formed our own country, as we always do, and we always named them after ourselves.\r\nThe minerals of this particular planet had a different structure than what we were used to. It was more powerful and had an extra shine to them, we called them Pearls.\r\nOur offspring all had this shimmering with a slightly different hue resembling the natural form of each of us. We'd never been so complete or happy before.\r\nBut then, one day one of us attacked the others.\r\n\r\nFly something resembling a space ship and defend yourself from the opposing forces and destroy air and land based creatures. A retro shooter as it was made in the 80s.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "e48088d3-c67c-417f-8828-7764c5496986",
+            "date": "2014-12-19T06:35:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c4f97a39-6e83-4c05-a37f-e34c1396892f\/com.widepixelgames.android.beast\/e48088d3-c67c-417f-8828-7764c5496986\/j7sex9JkQTqZe3wFqn2D_Beast-release.apk",
+            "size": 41852788,
+            "md5sum": "c46bcf0a6a054683709fd724a63bb97f",
+            "publicSize": 640305,
+            "nativeSize": 604502
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iSCVfRMzQy7ChvEfI2BI",
+        "video": "https:\/\/vimeo.com\/114487458",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FWdEctNQlCTnlj5Xk9Zp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M03pYPQRy06t9cl4bkyQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iownEIDRKuUtHdIvda4w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qjQ3ts8ZTEmsk5X6Dbnl"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/114487458"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/ogs6jj_ouya-screenshot20141215-2-1ahduq6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-gyfl3d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/drpt6a_ouya-screenshot20141215-2-1vcpsku.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-pqdrzy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/tvnqxk_ouya-screenshot20141215-2-9f743y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-1k47wk6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/37igf6_ouya-screenshot20141215-2-1u5yrep.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-1mddvum.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c4f97a39-6e83-4c05-a37f-e34c1396892f",
+        "name": "Wide Pixel Games",
+        "supportEmail": "mix256@widepixelgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.widepixelgames.com",
+    "firstPublishedAt": "2014-12-19T06:35:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Wide Pixel Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.34,
+        "count": 114
+    }
+}

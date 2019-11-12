@@ -1,0 +1,96 @@
+{
+    "packageName": "biz.protofactor.StellarGhosts",
+    "title": "STELLAR GHOSTS",
+    "description": "Stellar ghosts is a team of veteran mercenaries accepting all kind of missions from the most official to the dirtiest. Choose among 6 playable characters and fight your way to the end!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "2.032",
+            "versionCode": 0,
+            "uuid": "1cfc1048-bf0a-44ab-baa9-a0e273c4e8fb",
+            "date": "2014-06-18T16:16:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/04bc8ff0-1513-48fe-981f-2068dc19e9d9\/biz.protofactor.StellarGhosts\/1cfc1048-bf0a-44ab-baa9-a0e273c4e8fb\/RSTPvWagT2immRAzaZNE_StellarGhosts.apk",
+            "size": 445168274,
+            "md5sum": "d2160878177bdd183a61d98d152f5a9e",
+            "publicSize": 646286,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/biz.protofactor.stellarghosts\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XM9ArLHcTUSmAPReWxhO",
+        "video": "https:\/\/vimeo.com\/87814725",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YetJdMAoSJSWvPH2RZFy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QPvrYE44TueCh0rmGlqH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P5i4RDvQTw2VZ6rjgYKl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R9yJWBiTQxSpfHFswQvI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bJc8TRjiSwWHodYzE9mn"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87814725"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YetJdMAoSJSWvPH2RZFy",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YetJdMAoSJSWvPH2RZFy"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QPvrYE44TueCh0rmGlqH",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QPvrYE44TueCh0rmGlqH"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P5i4RDvQTw2VZ6rjgYKl",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P5i4RDvQTw2VZ6rjgYKl"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R9yJWBiTQxSpfHFswQvI",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R9yJWBiTQxSpfHFswQvI"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bJc8TRjiSwWHodYzE9mn",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bJc8TRjiSwWHodYzE9mn"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PROTOFACTOR",
+        "supportEmail": "contact@protofactor.biz",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "https:\/\/www.facebook.com\/pages\/Stellar-Ghosts\/720085878022026",
+    "firstPublishedAt": "2014-04-01T17:30:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by PROTOFACTOR.",
+    "premium": false,
+    "rating": {
+        "likeCount": 62,
+        "average": 3.37,
+        "count": 150
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "UNLOCK_ALL",
+            "name": "UNLOCK FULL GAME",
+            "description": "Unlocks all the features of the game: characters, missions, modes and all future episodes.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

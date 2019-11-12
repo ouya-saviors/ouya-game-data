@@ -1,0 +1,103 @@
+{
+    "packageName": "com.SneakyDigit.ApophisRisingOuya",
+    "title": "Apophis Rising",
+    "description": "Many feared the great asteroid Apophis. It was once believed this Goliath of the sky would collide with Earth, destroying it and all it's inhabitants. Thankfully it became a near miss...but this was too far away for one alien race which saw the 'accidental' destruction of earth as the perfect opportunity to eliminate a future enemy. Breaking up the asteroid they began using worm holes to send the rocks towards their target.\r\n\r\nAs one of earth's newest space fighter commanders, you control a choice of galactic space ships, armed with the newest weapon technology. But first you must learn to wield it, hold back the alien invasion from Earth's key strategic placements and stop the alien invasion from assisting their asteroids reach their target. Their final goal...EARTH's DESTRUCTION!\r\n\r\nThis game contains In App Purchasing, well it contains one IAP, Section 1 is free, section 2-5 and Survival mode can be yours for just $1.99!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "0657433d-7c2c-4e6b-a43e-c8da673af01c",
+            "date": "2014-05-30T11:58:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1dd4720a-e155-4cf9-9871-6d03b3ae2582\/com.SneakyDigit.ApophisRisingOuya\/0657433d-7c2c-4e6b-a43e-c8da673af01c\/JjNEcdqbT2qoqoxB3ZNI_Apophis%20Rising.apk",
+            "size": 40667280,
+            "md5sum": "ad6925d6d8166e6fec1661a1297c666b",
+            "publicSize": 302193,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sneakydigit.apophisrisingouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/biv2Ww8GS3a73Vemaq0g",
+        "video": "https:\/\/vimeo.com\/92770435",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XI0X4ikXTEOLNhtWbwFR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zgSHFyLhSuWfQ7SAsjvB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/deE7wf21RLqKjZLBlBmg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0CQ5ZxLJRbizoc5TZAEL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AISkwdeSQ9Sf2P1ahr7j",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wIwinV3RuSbO4vVLlxhS"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/92770435"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XI0X4ikXTEOLNhtWbwFR",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XI0X4ikXTEOLNhtWbwFR"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zgSHFyLhSuWfQ7SAsjvB",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zgSHFyLhSuWfQ7SAsjvB"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/deE7wf21RLqKjZLBlBmg",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/deE7wf21RLqKjZLBlBmg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0CQ5ZxLJRbizoc5TZAEL",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0CQ5ZxLJRbizoc5TZAEL"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AISkwdeSQ9Sf2P1ahr7j",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AISkwdeSQ9Sf2P1ahr7j"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wIwinV3RuSbO4vVLlxhS",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wIwinV3RuSbO4vVLlxhS"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gravitas Games",
+        "supportEmail": "gravitasgamesltd@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.gravitasgames.co.uk",
+    "firstPublishedAt": "2014-05-30T11:58:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Gravitas Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.61,
+        "count": 28
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ARFullUnlock",
+            "name": "Apophis Rising Game Unlock",
+            "description": "Unlock the full game, including 4 more sections (20 levels), more ship types, more powerups and a whole new game type, Survival Mode.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

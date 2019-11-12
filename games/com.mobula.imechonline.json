@@ -1,0 +1,84 @@
+{
+    "packageName": "com.mobula.imechonline",
+    "title": "Mech Battle Arena",
+    "description": "Fight in real-time online mech combat. Customize your mechs, each with unique abilities to get an edge in a skirmish. Battle in competitive 8 player multiplayer combat in an arena full of surprises and strategy! Apply Upgrades or improve your Tech to your play style!\r\n\r\nPlay Mech Battle Arena!\r\n\r\nNote: A network connection is required to play\r\n\r\nFor support please email support@mobulagames.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Fight!",
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.6.5",
+            "versionCode": 0,
+            "uuid": "6c30441c-9100-400a-9cb8-385ed0cb7757",
+            "date": "2014-08-13T02:39:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f13d26a9-d244-40e0-a4a0-0a097b7f6c0f\/com.mobula.imechonline\/9176539b-f217-40e0-96ec-34d7cef37b9f\/1Od6Kl1RIySYUm9fgp9N_MBA_1_6_5_Release.apk",
+            "size": 111773879,
+            "md5sum": "be6701b7fb6514825f558fd0667fecef",
+            "publicSize": 477305,
+            "nativeSize": 14802632
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d48fORjtTDWbwvtfsLNi",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MNZxCMCoSB2xiDAQH2ri",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vqUhVCSYRYi3oKP1lu7m",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/THoY1amJQirHTAHPhiTA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xcjUcCI5SAO8lyTCQ87e",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6tf9lZYkRMmuYbmNJAas"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/f72fxq_ouya-screenshot20140811-2-1yow8m4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-1ogzh8x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/5xm3st_ouya-screenshot20140811-2-1vyt8ag.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-c9mnc4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/ix2fgg_ouya-screenshot20140811-2-f6fibi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-hghem6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/a1yfn6_ouya-screenshot20140811-2-wg67gm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-15uqjzn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/g8c7i9_ouya-screenshot20140811-2-ac0uju.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-zf0vv4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mobula, Inc.",
+        "supportEmail": "support@mobulagames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.mobulagames.com",
+    "firstPublishedAt": "2013-03-23T19:42:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Mobula, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 361,
+        "average": 3.4,
+        "count": 371
+    }
+}

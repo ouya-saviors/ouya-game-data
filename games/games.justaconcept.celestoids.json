@@ -1,0 +1,87 @@
+{
+    "packageName": "games.justaconcept.celestoids",
+    "title": "Celestoids",
+    "description": "Celestoids are party competetive multiplayer physics game. \r\nYou take control of a clumsy creature on two legs in low gravity and try your best to navigate it through one of 16 levels.\r\nPlay with friends or try to beat the scoreboard on your own.\r\nHINT: The simulation engine is clumsy and the physics are bad, which is always a good explanation for why you lost the round.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.11",
+            "versionCode": 0,
+            "uuid": "47568efe-1a6a-44c4-8e02-2b2efc8da52d",
+            "date": "2014-08-28T16:10:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/340a50ed-c3e8-4922-8d48-9797dccb3613\/games.justaconcept.celestoids\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/BgkU2KwSj207EYxpGLsd_Celestoids.apk",
+            "size": 79213755,
+            "md5sum": "ab0dfa85145d67017df102de7e9a55d3",
+            "publicSize": 279434,
+            "nativeSize": 14769280
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mLRhax2RQ62LhcO2wWze",
+        "video": "https:\/\/vimeo.com\/103930378",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MX9CHIsCQLmh2sdrHAS6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AI1em3nRASpvuA28uPNQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k1OYuGcS0OGL0F6hdEng",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9ROIx9irSDmtv1QPhOrj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fq7kLRqxTnasHjCP0n9k"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/103930378"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/tquujh_ouya-screenshot20140820-2-29xua0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-ucw96i.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/x6ea5i_ouya-screenshot20140820-2-1ep9foq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-kxrvsu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/ac8mzf_ouya-screenshot20140820-2-1dzcdmy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-1iqu8vs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/pn5hvx_ouya-screenshot20140820-2-141f2h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-r1rewl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/w0b6i_ouya-screenshot20140820-2-6esn4c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-1nnwg2q.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "JustAConcept",
+        "supportEmail": "admin@justaconcept.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.justaconcept.org\/Games\/Celestoids\/index.html",
+    "firstPublishedAt": "2014-02-27T22:34:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by JustAConcept.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 3.17,
+        "count": 63
+    }
+}

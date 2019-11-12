@@ -1,0 +1,82 @@
+{
+    "packageName": "com.AGameAWeek.PiABOAD_I15",
+    "title": "Platdude in A Bit of a Do",
+    "description": "Gather up all the fruit in Platdude's garden, but beware of the Bats that are flying around.\r\nGuide Platdude around the garden, scrunching the grass under his feet.\r\nCollect the Sphere and throw it at the Bats!\r\nAnd then get home before you get nibbled at.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "dd4d9743-9dd1-421e-9b66-b555ac4943e0",
+            "date": "2015-12-30T20:06:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.PiABOAD_I15\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/JR4nvESYSMy2aoQyxEBf_Platdude%20in%20A%20Bit%20of%20A%20Do.apk",
+            "size": 6018722,
+            "md5sum": "5737b7b7b5aac562a3b6a0c0be5a5b7b",
+            "publicSize": 207652,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.piaboad_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t2UiKia2RMSh5XJpA8U2",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rIY1XaTsqWqgE84KDBAv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L8yTin08RFOLn1j9xWch",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xwNMgz5mT0VaabXl8JJl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JFEbntZRLCSYOxz5WUSE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4CnAOc28RhmHdPz0vUeF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/6w3f4_ouya-screenshot20151229-3-16zhtvl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1x65yn8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/o48mrk_ouya-screenshot20151229-3-1td1rs0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1mcnjin.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/tfrsdc_ouya-screenshot20151229-3-1bjr3jq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-mnryh2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/svp2mv_ouya-screenshot20151229-3-1i38i0g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1kl257o.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/abq3ac_ouya-screenshot20151229-3-12anrmd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1mjq9qc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-10-08T12:23:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.33,
+        "count": 3
+    }
+}

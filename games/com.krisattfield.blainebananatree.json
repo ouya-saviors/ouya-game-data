@@ -1,0 +1,98 @@
+{
+    "packageName": "com.krisattfield.blainebananatree",
+    "title": "Blaine Bananatree",
+    "description": "\"This is your best game yet!\" - My sister.\n\nYou are stuck on a small tropical island. You are Blaine Bananatree.\n\nEat bananas, grow banana trees.\n\nBeware of rotting bananas!\n\nGet a high score! (paid)\n\nYou have only FIVE minutes.\n\nOne player, unless you want to take turns competing with friends.\n\nE-mail comments, suggestions and bug reports to krisa@icloud.com.\n\nUPDATED in 1.0.5::: Made button images OUYA-Everywhere compatible. Attempted to make text easier to read. Slowed down rotation\/look speed as per request.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 0,
+            "uuid": "e63fe0db-3483-4b82-8786-5fff49fb368b",
+            "date": "2015-12-23T17:35:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9de3ccdc-f6e8-49d3-900a-217dc0867bd7\/com.krisattfield.blainebananatree\/54effd82-6b82-4772-8e18-9bd34d66296a\/BqYlXiAdS5GRdB0TRjXz_BlaineBananatree.apk",
+            "size": 28302377,
+            "md5sum": "88de45a8ede3fe9708c2ea99334632a8",
+            "publicSize": 629682,
+            "nativeSize": 15035248
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IXQd8OLSn2PlBHX7hO5v",
+        "video": "https:\/\/vimeo.com\/131838412",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/no3JVq5EQRqsaHeKo4dJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NUMkQ8TnKZwDpXl6W83Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vF8YvHmtQnaHUxZRiKxo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aankE1jRSqrN8Nck8MbQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eEpKvSWTTmOV9NkChfyd"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/131838412"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/jfoyr9_ouya-screenshot20151219-3-o1sk18.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-18x8fu8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/3sxw49_ouya-screenshot20151219-3-jkoz2p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-1qi88zt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/kvr2c6_ouya-screenshot20151219-3-1mumozm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-1uwwcwo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/mwjfql_ouya-screenshot20151219-3-pt3bp8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-mh1kdo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/bh3xxc_ouya-screenshot20151219-3-19kglpw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-1nq3jhw.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kris Attfield",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.krisattfield.com",
+    "firstPublishedAt": "2015-07-01T06:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Kris Attfield.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.96,
+        "count": 26
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "blainebananatree_enable_highscore",
+            "name": "Enable High Score in Blaine Bananatree",
+            "description": "Enables High Score record keeping in Blaine Bananatree.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

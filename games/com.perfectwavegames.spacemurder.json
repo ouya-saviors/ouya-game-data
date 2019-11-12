@@ -1,0 +1,98 @@
+{
+    "packageName": "com.perfectwavegames.spacemurder",
+    "title": "Space Murder",
+    "description": "NOW WITH BOTS!\r\n\r\nSpace Murder is a game about collecting stars and lancing, bashing, and macing your friends to death. Compete in five minigames, each with crazy random modifiers like super boost and slow motion! More modes and modifiers will be added on a continuous basis.\r\n\r\nThe demo includes all modes for 30 minutes of play. When the time is up single game Bashing and Death Walls will be the only modes available.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "0.6",
+            "versionCode": 0,
+            "uuid": "38320018-530b-414d-b4a4-4329be0cb8f9",
+            "date": "2014-08-27T20:21:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1273ef97-9ff2-461a-81ad-efc9739d7f43\/com.perfectwavegames.spacemurder\/38320018-530b-414d-b4a4-4329be0cb8f9\/nUi56AHbQjyjsXWTAM7L_SpaceMurder.apk",
+            "size": 56509668,
+            "md5sum": "a36b68f1ee664e2a6ed3fd79e9486627",
+            "publicSize": 233721,
+            "nativeSize": 14802632
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.perfectwavegames.spacemurder\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JQtIn5wjTGaTV9TRifIZ",
+        "video": "https:\/\/vimeo.com\/103784088",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b5ECtk8dRC6GoQPsd98n",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7D36Ht9rTNKQFx8gJLDQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QVodhQj0Ttu8yOKeoDaE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x3ohyDQaQDGXVLBoTYau",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V5S8wEBJQkm9iC6c6ifB"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/103784088"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/rkppum_ouya-screenshot20140825-2-iwxxok.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/thumbnails\/thumbnail20140825-2-3jsfey.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/aa19u5_ouya-screenshot20140825-2-ab9tx6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/thumbnails\/thumbnail20140825-2-fmcovu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/k1wa06_ouya-screenshot20140825-2-1jkyyq2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/thumbnails\/thumbnail20140825-2-ldywca.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/zny58r_ouya-screenshot20140825-2-pyd3ln.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/thumbnails\/thumbnail20140825-2-yi9jv9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/w2c98d_ouya-screenshot20140825-2-1mhv8ne.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/38320018-530b-414d-b4a4-4329be0cb8f9\/thumbnails\/thumbnail20140825-2-1adl0re.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Perfect Wave Games",
+        "supportEmail": "perfectwavegames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/perfectwavegames.com",
+    "firstPublishedAt": "2014-08-14T23:07:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Perfect Wave Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.36,
+        "count": 33
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "pwg-sm-full-unlock",
+            "name": "Space Murder",
+            "description": "Unlimited play in all modes of Space Murder.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

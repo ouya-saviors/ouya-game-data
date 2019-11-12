@@ -1,0 +1,94 @@
+{
+    "packageName": "com.ElusiveByte.HellsHospital",
+    "title": "Hell's Hospital",
+    "description": "Welcome to Hell's Hospital where you will undergo strange and usually painful psychotropic experimentation.\r\n\r\nSurvive your way through 30 levels of pain, torture, humiliation and death to escape this deranged medical establishment.\r\n\r\nUpdates with new levels added often",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.03",
+            "versionCode": 0,
+            "uuid": "5472f107-5606-42ea-9053-53239c895463",
+            "date": "2014-01-28T17:30:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/242bc483-d267-4742-9c94-0a770ca99d3e\/com.ElusiveByte.HellsHospital\/5472f107-5606-42ea-9053-53239c895463\/VoJ1e95QSkutNtjZ1TDS_HellsHospital.apk",
+            "size": 76631355,
+            "md5sum": "83772bd07b43a32db1a2702b6cfcbddd",
+            "publicSize": 198124,
+            "nativeSize": 153864
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.elusivebyte.hellshospital\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q7FcAQthTiuIeA6WYUO1",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hVy5L20ISSyYRJTULP3H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n0iZ77XgQCqvXQSe4XL8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FoWWoK9Twy3LmP21Kz1A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S7JYETTQqDxcfLInl9Ag",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Hkl2zyIhRyepzv6u9YF6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XIBNhPC5RyGZ2zHS8NWX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fCD8XLSJTdO4vysLbpBS"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hVy5L20ISSyYRJTULP3H\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hVy5L20ISSyYRJTULP3H\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/n0iZ77XgQCqvXQSe4XL8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/n0iZ77XgQCqvXQSe4XL8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FoWWoK9Twy3LmP21Kz1A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FoWWoK9Twy3LmP21Kz1A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/S7JYETTQqDxcfLInl9Ag\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/S7JYETTQqDxcfLInl9Ag\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Hkl2zyIhRyepzv6u9YF6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Hkl2zyIhRyepzv6u9YF6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XIBNhPC5RyGZ2zHS8NWX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XIBNhPC5RyGZ2zHS8NWX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fCD8XLSJTdO4vysLbpBS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fCD8XLSJTdO4vysLbpBS\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Elusive Byte",
+        "supportEmail": "elusivebytegames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.elusivebyte.com",
+    "firstPublishedAt": "2014-01-06T20:28:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Elusive Byte.",
+    "premium": false,
+    "rating": {
+        "likeCount": 43,
+        "average": 2.81,
+        "count": 57
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "packageName": "com.Popsaur.SuperCrateLifting",
+    "title": "SUPER CRATE LIFTING Party Edition",
+    "description": "Crate lifting on an unexplored beach as a crab\r\n\r\n+ Multiplayer mode for 2-4 players\r\n+ Also playable with other controllers\r\n+ Also playable with keyboard maybe\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "392db7d1-4c43-44ae-854b-3029ffd9b775",
+            "date": "2014-07-29T08:06:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/30a52ce9-00f8-42de-936f-5214b47f3147\/com.Popsaur.SuperCrateLifting\/392db7d1-4c43-44ae-854b-3029ffd9b775\/NUUc25YdTcyrYEqUNZcH_SuperCrateLiftingOUYA.apk",
+            "size": 13759825,
+            "md5sum": "ed0718355cfdbd8586f285489d91d5fb",
+            "publicSize": 9101,
+            "nativeSize": 182552
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.popsaur.supercratelifting\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ezDPFjg8RAWkXbKdaN9M",
+        "video": "https:\/\/vimeo.com\/101792807",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eKhcRKSS2nEoJ0tW0mHA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3q54F9QWSKSB1JyIxSIA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5WviFhi0TiqwIE6cVKwQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CuQoOqPwSqKAN5zvADHT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sHNYNMEtTRmhdSvOP3pr"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/101792807"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/s64t4z_ouya-screenshot20140726-2-xey43g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-ldp843.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/k04xxe_ouya-screenshot20140726-2-1dktyrd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-1uq1hgt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/4wnsb2_ouya-screenshot20140726-2-5jj5nx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-nob658.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/ci1ug4_ouya-screenshot20140726-2-2ohf9n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-v8xhrc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/sh9o7c_ouya-screenshot20140726-2-g5zgl0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-may41d.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "30a52ce9-00f8-42de-936f-5214b47f3147",
+        "name": "POPSAUR",
+        "supportEmail": "POPSAUR@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "POPSAUR.com",
+    "firstPublishedAt": "2013-11-19T18:01:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by POPSAUR.",
+    "premium": false,
+    "rating": {
+        "likeCount": 16,
+        "average": 3.27,
+        "count": 41
+    }
+}

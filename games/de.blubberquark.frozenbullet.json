@@ -1,0 +1,71 @@
+{
+    "packageName": "de.blubberquark.frozenbullet",
+    "title": "Frozen Bullet",
+    "description": "Frozen Bullet is a simultaneous turn-based tactics platformer for two players. When you create your strategy, you can rewind time to revise fine-tune your plan.\r\n\r\nFrozen Bullet features four game modes, seven unit types and over ten purchasable hats.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "0.1.8",
+            "versionCode": 0,
+            "uuid": "f192c599-19c4-4e1c-a991-07b428499175",
+            "date": "2014-11-15T08:06:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d73675e6-1720-469d-aa85-50d8c0b9dc96\/de.blubberquark.frozenbullet\/f192c599-19c4-4e1c-a991-07b428499175\/8JulzlRZQ9O0aONeqR5O_FrozenBullet-0.1.8-release.apk",
+            "size": 11866675,
+            "md5sum": "1023794eddf21f96aaa6607df8d1f4dc",
+            "publicSize": 107734,
+            "nativeSize": 3671272
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xyX5wNAbTiqC8yqpe7Hs",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/38mf5Og9RoiTp2e8T8yg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5DBKmYgAQH6G35ih8nEw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xBJj5RGxR72AdtcDPbbA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/q978u1_ouya-screenshot20141114-2-1csvxxi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/thumbnails\/thumbnail20141114-2-gstpoy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/3zwbsc_ouya-screenshot20141114-2-1k3ah3x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/thumbnails\/thumbnail20141114-2-1flmnyw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/3oir97_ouya-screenshot20141114-2-qyov6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/thumbnails\/thumbnail20141114-2-1t46bbi.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "d73675e6-1720-469d-aa85-50d8c0b9dc96",
+        "name": "Blubberquark Software",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "",
+    "firstPublishedAt": "2014-11-07T09:46:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Blubberquark Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.05,
+        "count": 38
+    }
+}

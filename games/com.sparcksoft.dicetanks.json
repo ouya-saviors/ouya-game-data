@@ -1,0 +1,88 @@
+{
+    "packageName": "com.sparcksoft.dicetanks",
+    "title": "Dice Tanks",
+    "description": "Roll the dice and see how your luck is doing today. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card\/Casino",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1",
+            "versionCode": 0,
+            "uuid": "eae377d9-39f6-4e72-8057-33a4bf28054d",
+            "date": "2014-01-20T19:17:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/780e24bf-59c4-496c-b843-99128f75c4e9\/com.sparcksoft.dicetanks\/eae377d9-39f6-4e72-8057-33a4bf28054d\/yDcC9L8bR5OMg8iKveKQ_DICE_4.apk",
+            "size": 8771189,
+            "md5sum": "1f793b1a2cb5cd3c34a2340ba484821a",
+            "publicSize": 7529691,
+            "nativeSize": 976712
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sparcksoft.dicetanks\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HXEvEU1Q8GbVbMV9raGN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yQSyDYvHQGO6adOboi7K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y7tpftAERyeHj6po6oso",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iKAOM4gKSuGPWdt4RVkX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8FQNRHHRBeydnpCp23Ar",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RPKmoOWfR8GdnhHroCG5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/McDXfGEFR1KZmNKf4PT1"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yQSyDYvHQGO6adOboi7K\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yQSyDYvHQGO6adOboi7K\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y7tpftAERyeHj6po6oso\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y7tpftAERyeHj6po6oso\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iKAOM4gKSuGPWdt4RVkX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iKAOM4gKSuGPWdt4RVkX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8FQNRHHRBeydnpCp23Ar\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8FQNRHHRBeydnpCp23Ar\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RPKmoOWfR8GdnhHroCG5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RPKmoOWfR8GdnhHroCG5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/McDXfGEFR1KZmNKf4PT1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/McDXfGEFR1KZmNKf4PT1\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SparckSoft",
+        "supportEmail": "xboxradio@live.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.sparckman.net",
+    "firstPublishedAt": "2014-01-20T19:17:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by SparckSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 14,
+        "average": 2.22,
+        "count": 23
+    }
+}

@@ -1,0 +1,105 @@
+{
+    "packageName": "com.firststarsoftware.bdtc",
+    "title": "Boulder Dash\u00ae-The FULL Collection\u2122",
+    "description": "The ultimate action-puzzle game, your challenge is to collect the required number of diamonds in each cave before time runs out in order to open the exit all while avoiding falling boulders and enemies! Leave through the exit in time and you\u2019ll advance to the next cave.\r\n\r\nBoulder Dash\u00ae-The FULL Collection\u2122 includes 5 Boulder Dash\u00ae games including the well know, much loved, multimillion-unit selling original game from 1984. Play the first 10 caves in Boulder Dash\u00ae-M.E.2\u2122 for free! In total there are more than 250 cave permutations ready to be unlocked.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.5.1",
+            "versionCode": 0,
+            "uuid": "4e0caef0-e30e-4408-a5d5-3ca2c22864c2",
+            "date": "2014-01-17T06:11:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0b4f9e44-d654-4309-bd9a-4114879ccc89\/com.firststarsoftware.bdtc\/d7d68812-f178-4a69-af34-492538b62936\/nBDxkLHUSjauyimlaXzC_BDTC-ouya-release.apk",
+            "size": 17389582,
+            "md5sum": "47866bd11ef4c352a4274175841a184a",
+            "publicSize": 16270516,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.firststarsoftware.bdtc\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8AlIFTI8QCGWXYPpming",
+        "video": "https:\/\/vimeo.com\/80356845",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TyD8GnTQG2xwNfCkQSHO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G4BFJedTICpNHttmMipO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UvjHuPusR2erCkivSKGb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZPBsXgcsS4iCkAEPcG7s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/twhOHOhTTCeHkwBxcAmF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/74eLT4ZTDO86oGQRmxrA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/80356845"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TyD8GnTQG2xwNfCkQSHO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TyD8GnTQG2xwNfCkQSHO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G4BFJedTICpNHttmMipO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G4BFJedTICpNHttmMipO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UvjHuPusR2erCkivSKGb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UvjHuPusR2erCkivSKGb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZPBsXgcsS4iCkAEPcG7s\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZPBsXgcsS4iCkAEPcG7s\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/twhOHOhTTCeHkwBxcAmF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/twhOHOhTTCeHkwBxcAmF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/74eLT4ZTDO86oGQRmxrA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/74eLT4ZTDO86oGQRmxrA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "First Star Software, Inc.",
+        "supportEmail": "support@instantcom.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/bdtc.instantcom.net\/",
+    "firstPublishedAt": "2013-12-06T08:58:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by First Star Software, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 59,
+        "average": 3.51,
+        "count": 73
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "bdtcallpacks",
+            "name": "All 5 Games",
+            "description": "This unlocks ALL 5 cave packs (level sets) from Boulder Dash\u00ae-The Collection\u2122 series, including the well know original game from 1984.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

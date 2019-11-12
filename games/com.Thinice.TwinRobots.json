@@ -1,0 +1,98 @@
+{
+    "packageName": "com.Thinice.TwinRobots",
+    "title": "Twin Robots",
+    "description": "Rescue your twin and find the way out of each level together!\r\nSwitch control between the two robots at any time, or even better: play with a friend in local multiplayer!\r\nYou'll be running, jumping & solving puzzles together, but beware: Both robots are battery-powered so they consume energy in everything they do. Watch out for their battery levels!\r\n\r\nNew in this update:\r\n- Changed leaderboards to a self-hosted solution.\r\n- Fixed a bug that made the robots fall through the floor when jumping from a moving platform.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.83",
+            "versionCode": 0,
+            "uuid": "d6192b56-9ca9-4f06-901c-e6b585b76091",
+            "date": "2014-09-09T17:41:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4e1f8b52-f417-4f85-a747-8dca9b5a0a5a\/com.Thinice.TwinRobots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/85FgBc3kT2kLXRFBuPEg_TwinRobots_1.83.apk",
+            "size": 24079916,
+            "md5sum": "8f7b2014d649297df255ef6ddf0380b5",
+            "publicSize": 1238114,
+            "nativeSize": 14769772
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.thinice.twinrobots\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yHSrQGsSTSGBodBUnvss",
+        "video": "https:\/\/vimeo.com\/82265024",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XSwH3RKJS8af979DAASh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ovBetdHNSmyck5fMEA8K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lgfzHmxYTX6eKGpeSqqn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JOBXmzg7TH6wL9KYYIzV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/93YMZQm7T76cOKKeKd24"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82265024"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/6zu4i_ouya-screenshot20140908-2-v6sagk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-169l4ba.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/hf5wb9_ouya-screenshot20140908-2-1ek29cp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-2tsn7r.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/y2ncgr_ouya-screenshot20140908-2-x291ta.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-1nfpjdo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/rzf28u_ouya-screenshot20140908-2-2heq7w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-x1df53.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/y7qxu5_ouya-screenshot20140908-2-17ozzyd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-g9gjmo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "4e1f8b52-f417-4f85-a747-8dca9b5a0a5a",
+        "name": "Thinice",
+        "supportEmail": "info@thinicegames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.thinicegames.com",
+    "firstPublishedAt": "2013-12-21T08:37:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Thinice.",
+    "premium": false,
+    "rating": {
+        "likeCount": 99,
+        "average": 3.58,
+        "count": 214
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "TwinRobots_Unlock",
+            "name": "Twin Robots - Unlock all levels",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

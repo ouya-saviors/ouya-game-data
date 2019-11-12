@@ -1,0 +1,83 @@
+{
+    "packageName": "com.jenots.mashballs",
+    "title": "Mashballs",
+    "description": "Have fun and mash some annoying balls! \r\nGreat entertainment for everybody!\r\nUltimate MashBall leader \u2013 the great Baller - has to stand up to mash all the annoying balls. Help him!\r\nBecame the leader yourself. Have some fight, have some fun and mash some annoying balls!\r\nCollect points, overcome obstacles, accelerate on super bouncers, switch gravity and even use magnetic fields from your own finger tips, all to smash the mocking balls.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2516c61c-db41-4416-8442-867416ce5954",
+            "date": "2013-09-09T17:15:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bbab3a03-0dff-48fb-97db-ec3e8cd9a6f9\/com.jenots.mashballs\/2516c61c-db41-4416-8442-867416ce5954\/rbndFCJSyODwZ6VbSSXt_MashballsOUYA.apk",
+            "size": 14429371,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.mashballs\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sNjO1WO1SiKQCeK76dJN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OfjjoWfAR3hwR6vfXWI4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oH2BgEOnTjqA94B9AQM4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3ntpml63QXqTWm5Qk0Zm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PhZhPud3RIWZck9Q4Bdn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Buf8ajPRTW9Giqnudfuw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OfjjoWfAR3hwR6vfXWI4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OfjjoWfAR3hwR6vfXWI4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oH2BgEOnTjqA94B9AQM4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oH2BgEOnTjqA94B9AQM4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3ntpml63QXqTWm5Qk0Zm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3ntpml63QXqTWm5Qk0Zm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PhZhPud3RIWZck9Q4Bdn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PhZhPud3RIWZck9Q4Bdn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Buf8ajPRTW9Giqnudfuw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Buf8ajPRTW9Giqnudfuw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bbab3a03-0dff-48fb-97db-ec3e8cd9a6f9",
+        "name": "JenotsCom",
+        "supportEmail": "jenotsapps@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/jenots.com\/mashballs",
+    "firstPublishedAt": "2013-09-09T17:15:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by JenotsCom.",
+    "premium": false,
+    "rating": {
+        "likeCount": 11,
+        "average": 3.88,
+        "count": 8
+    }
+}

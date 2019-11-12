@@ -1,0 +1,81 @@
+{
+    "packageName": "de.blubberquark.gnomefortress",
+    "title": "Gnome Fortress",
+    "description": "In this game you play four garden gnomes who mine deep below the surface of the garden. Try to dig up diamonds!\r\n\r\nGnome Fortress was written for during the 29th Ludum Dare Jam. The theme was \"Beneath the surface\"",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "0.1.0",
+            "versionCode": 0,
+            "uuid": "3bb36563-abdf-4622-ab52-26d75c316ba2",
+            "date": "2014-05-01T04:43:15Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d73675e6-1720-469d-aa85-50d8c0b9dc96\/de.blubberquark.gnomefortress\/3bb36563-abdf-4622-ab52-26d75c316ba2\/POBPJshlTuKuCk6LRMyU_GnomeFortress-0.1.0-release.apk",
+            "size": 6826418,
+            "md5sum": "fcd15800520f3e5291eb4b8339428612",
+            "publicSize": 132169,
+            "nativeSize": 3671272
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.gnomefortress\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Pxv9h4aESamh1LqtGAVl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mwvLP6qJS5umV67xIauq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1ZMKZCJZRY68SOWVekRo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uIq1wcJBQ6qwzswXialW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iACkL4bBRm6KHsT9K4Em",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o34HotrxTE2GseJRIbwP"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mwvLP6qJS5umV67xIauq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mwvLP6qJS5umV67xIauq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1ZMKZCJZRY68SOWVekRo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1ZMKZCJZRY68SOWVekRo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uIq1wcJBQ6qwzswXialW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uIq1wcJBQ6qwzswXialW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iACkL4bBRm6KHsT9K4Em\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iACkL4bBRm6KHsT9K4Em\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/o34HotrxTE2GseJRIbwP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/o34HotrxTE2GseJRIbwP\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "d73675e6-1720-469d-aa85-50d8c0b9dc96",
+        "name": "Blubberquark Software",
+        "supportEmail": "bob@blubberquark.de",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "blubberquark.itch.io\/gnome-fortress",
+    "firstPublishedAt": "2014-05-01T04:43:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Blubberquark Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.4,
+        "count": 227
+    }
+}

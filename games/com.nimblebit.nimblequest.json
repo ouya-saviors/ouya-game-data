@@ -1,0 +1,94 @@
+{
+    "packageName": "com.nimblebit.nimblequest",
+    "title": "Nimble Quest",
+    "description": "From the creators of Tiny Tower, Sky Burger and Pocket Planes comes Nimble Quest! Lead a conga line of heroes to glory against hordes of enemies across an endless number of stages. How many enemies can you defeat? Steer your unstoppable (seriously, you can\u2019t stop) party as they cut a path of destruction through levels filled with different enemies and power-ups.  Unlock and level up heroes to increase the size of your party and make them more powerful. Can your party make it from the tranquility of the Forest to the fire and brimstone of the Depths?\r\n\r\nTired of competing alone? Join a guild and compete with other players in special time-limited Guild Quests. Is your guild skilled enough to top the global leaderboards?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 0,
+            "uuid": "d5a9ce28-b100-4a88-9919-6130ade95112",
+            "date": "2013-07-08T15:32:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/301690bb-a339-41fa-af31-fb249d721409\/com.nimblebit.nimblequest\/d5a9ce28-b100-4a88-9919-6130ade95112\/LU6GMU4sSNWz1PcV2ZsU_NimbleQuest-Android-Ouya.apk",
+            "size": 24853943,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nimblebit.nimblequest\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4bSEtiXyT9O4sGchwbuW",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZNSBCulAT1ii2cw7aigW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/89iCTYa4RamRpqvfgTcd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nnbhcTGQ9uJ05rjhQuiX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Wx29zdZyQVqYTBX1PcRE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wObsiaYrTrGPGV7OxZ15"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZNSBCulAT1ii2cw7aigW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZNSBCulAT1ii2cw7aigW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/89iCTYa4RamRpqvfgTcd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/89iCTYa4RamRpqvfgTcd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nnbhcTGQ9uJ05rjhQuiX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nnbhcTGQ9uJ05rjhQuiX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Wx29zdZyQVqYTBX1PcRE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Wx29zdZyQVqYTBX1PcRE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wObsiaYrTrGPGV7OxZ15\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wObsiaYrTrGPGV7OxZ15\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nimblebit LLC",
+        "supportEmail": "support@nimblebit.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "nimblebit.com",
+    "firstPublishedAt": "2013-07-08T15:32:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Nimblebit LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 806,
+        "average": 4.29,
+        "count": 667
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ouya_nimblequest_iap_unlock",
+            "name": "Unlock Full Game",
+            "description": "Unlocks Red Gems and removes the daily play limit.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

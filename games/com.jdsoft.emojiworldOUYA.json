@@ -1,0 +1,70 @@
+{
+    "packageName": "com.jdsoft.emojiworldOUYA",
+    "title": "Emoji World",
+    "description": "After have used them a lot of times in messenger programs, now it's time to play with those icons!! \nEmoji World is a platformer created using exclusively Emoji icons. Play through more than 15 levels (and try to discover the secret one), beat all enemies and bosses, and collect every rubies. Have an Emoji Day! \n\nUPDATE: Icons pack changed. Now you play with EmojiOne icons design (http:\/\/emojione.com)\nUPDATE2: New animations included, some bug fixed.\nUPDATE3: Now the game saves in every level",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 0,
+            "uuid": "6ce1edbc-6acd-4aa1-a794-020b5296e990",
+            "date": "2016-08-29T18:20:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6081cbf4-b732-4896-9604-f92351f97056\/com.jdsoft.emojiworldOUYA\/5009ec76-01c6-498e-a30f-18e4328682a9\/bq4ODOtzTFybW1fDNNY0_EmojiWorldOUYA_1.2.0.apk",
+            "size": 25206305,
+            "md5sum": "cf804d96dbb7162e84991116fbc2938a",
+            "publicSize": 747880,
+            "nativeSize": 8821100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C58Pjf0zTfWYgKtYzroc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hXzgn0pYRqe2WLu5HCwS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hWIITNuOSdefFdPKmsKX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fwN5urJTTOIJsbkMWRBM"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/2bj87l_ouya-screenshot20160817-3-lzz5vg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/thumbnails\/thumbnail20160817-3-1uy2hjc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/ob3uz5_ouya-screenshot20160817-3-1efxvq5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/thumbnails\/thumbnail20160817-3-1inii0n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/dnhvqv_ouya-screenshot20160817-3-1jpoyqf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/thumbnails\/thumbnail20160817-3-4y8wva.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "6081cbf4-b732-4896-9604-f92351f97056",
+        "name": "JDSoft",
+        "supportEmail": "jdcaste@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.emojiworld.tk",
+    "firstPublishedAt": "2014-05-20T22:24:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2016 by JDSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.3,
+        "count": 37
+    }
+}

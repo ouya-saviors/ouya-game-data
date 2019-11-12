@@ -1,0 +1,94 @@
+{
+    "packageName": "com.NostaticSoftware.QuietPleaseXmas",
+    "title": "Quiet Christmas",
+    "description": "It is Christmas Eve and you just want to go to bed and wake up on Christmas morning. But the tree is broken, the house it too cold, Mr. Peabody's tacky Xmas display is annoying and as always your brother won't go to bed. Explore, interact with your environment and solve puzzles in this old-school adventure game.\r\n\r\n- Classic adventure game fun on your Ouya.\r\n- Colorful retro-styled graphics.\r\n- Explore a lighthearted and humorous environment.\r\n- Use your wits and the items you find to get the house ready for Christmas.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "a9d3d3e6-be51-43ca-8aec-836b7eb67f7b",
+            "date": "2013-12-11T21:21:12Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3fb494e3-e77a-4a83-82a0-7d3f51221ca3\/com.NostaticSoftware.QuietPleaseXmas\/a9d3d3e6-be51-43ca-8aec-836b7eb67f7b\/gZMqqDKqRFK4zXUGXKEN_QuietXmas.apk",
+            "size": 11416799,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nostaticsoftware.quietpleasexmas\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7S7AkGV6S1O31wtiTepC",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LKEVKqE8QgSf6hU0taqU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5ICQ2LEqRCmU7Z3a9BGg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aAb4bIjxRnukimUtanGe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7IOYhs96TAiwhysMeA4r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Xut6AyvTSBO6fojrZqTY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LKEVKqE8QgSf6hU0taqU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LKEVKqE8QgSf6hU0taqU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5ICQ2LEqRCmU7Z3a9BGg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5ICQ2LEqRCmU7Z3a9BGg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aAb4bIjxRnukimUtanGe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aAb4bIjxRnukimUtanGe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7IOYhs96TAiwhysMeA4r\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7IOYhs96TAiwhysMeA4r\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Xut6AyvTSBO6fojrZqTY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Xut6AyvTSBO6fojrZqTY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nostatic Software",
+        "supportEmail": "contact@nostatic.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/nostaticsoftware.com",
+    "firstPublishedAt": "2013-12-11T21:21:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Nostatic Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 70,
+        "average": 3.9,
+        "count": 67
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "quiet_christmas_full_game",
+            "name": "Quiet Christmas Full Game Unlock",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

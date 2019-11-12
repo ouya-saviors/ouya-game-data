@@ -1,0 +1,82 @@
+{
+    "packageName": "com.ETeeskiTutorials.Inbotrination",
+    "title": "Inbotrination Alpha",
+    "description": "100% Free adventure! But not only is it a videogame, but soon it will also be a tutorial series on how to make a video game using Unity3D and other great free software. To learn more, check out ETeeskiTutorials.com, youtube.com\/ETeeskiTutorials, and twitter.com\/ETeeski. Feel free to contact me, I always try to respond quickly. Also, there's gonna be a kickstarter campaign for this project in the near future!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 0,
+            "uuid": "c1e8593a-1b22-4356-ab67-7a4ae6f5c7bd",
+            "date": "2013-12-02T21:05:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b792f200-c606-4483-b212-2c760f06ee6d\/com.ETeeskiTutorials.Inbotrination\/c1e8593a-1b22-4356-ab67-7a4ae6f5c7bd\/EURm7s3QTKuFLLs4aQkQ_Inbotrination%20alpha%200_1.apk",
+            "size": 25864097,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.eteeskitutorials.inbotrination\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QTPM3r6RnHWotqeraVAQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1lLM6eAfSHWH2jcsHSdJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JUS4bW6ORPm0RNTn9D6z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FUEHWYNySDSIE5BhmKc7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YUuJW9ZRQdeYMCxKU3a1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ia6FOChFRpysng027dyg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1lLM6eAfSHWH2jcsHSdJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1lLM6eAfSHWH2jcsHSdJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JUS4bW6ORPm0RNTn9D6z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JUS4bW6ORPm0RNTn9D6z\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FUEHWYNySDSIE5BhmKc7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FUEHWYNySDSIE5BhmKc7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YUuJW9ZRQdeYMCxKU3a1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YUuJW9ZRQdeYMCxKU3a1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ia6FOChFRpysng027dyg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ia6FOChFRpysng027dyg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "ETeeski",
+        "supportEmail": "ETeeskiMail@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/eteeskitutorials.com\/inbotrination\/",
+    "firstPublishedAt": "2013-12-02T21:05:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by ETeeski.",
+    "premium": false,
+    "rating": {
+        "likeCount": 70,
+        "average": 3.39,
+        "count": 82
+    }
+}

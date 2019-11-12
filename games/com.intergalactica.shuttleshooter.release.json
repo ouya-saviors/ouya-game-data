@@ -1,0 +1,83 @@
+{
+    "packageName": "com.intergalactica.shuttleshooter.release",
+    "title": "Shuttle Shooter",
+    "description": "Defeat your friends in this 8-bit style space shooter! Collect and use the powerups to emerge victorious. Up to four players can compete at the same time, so invite some friends over for an evening of retro gaming. \r\n\r\n* Retro style multiplayer console gaming\r\n\r\n* Fast pace action: bullets, mines, and explosions everywhere\r\n\r\n* Snatching that powerup and using it to obliterate the competition never felt this good! \r\n\r\nFEATURES:\r\n- Multiplayer action for two, three or four players\r\n- Heavy action: flying bullets, weapons, enemies, and explosions everywhere!\r\n- Space mines and Time Bombs for strategic attacks\r\n- Double and triple guns to own the battlefield\r\n- Shield powerups to outsmart your friends\r\n- Energetic soundtrack and soundeffects",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "02280393-8f27-404f-91f5-8563696e03f3",
+            "date": "2014-05-13T17:54:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e6a75fb6-02ac-4ce0-a585-d95ad1dbd7f5\/com.intergalactica.shuttleshooter.release\/02280393-8f27-404f-91f5-8563696e03f3\/YhuBSIPgS2yo2L2Qnmrz_Shuttle%20Shooter.apk",
+            "size": 19521427,
+            "md5sum": "e7cdd187d89240eb4812e3d48e9a570d",
+            "publicSize": 822559,
+            "nativeSize": 4394852
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.intergalactica.shuttleshooter.release\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3YJjxQtISfa50ZEV6CbQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YcLPFIeTGGr28RT2UoQA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nABtyotNTeXGfQnHoBdC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dfMsWJRqumE6w2WTbNjw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e767MhSwSJSdN6a3gEW2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VFRo30AzTMCAGcn0j1d9"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/ijd8gk_ouya-screenshot20140511-2-xxtejg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/thumbnails\/thumbnail20140511-2-xnvtvz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/fd4ge6_ouya-screenshot20140511-2-1ep9or1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/thumbnails\/thumbnail20140511-2-1f0e0qq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/op2vb_ouya-screenshot20140511-2-znbqrr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/thumbnails\/thumbnail20140511-2-o1el3v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/gnpb00_ouya-screenshot20140511-2-scucjh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/thumbnails\/thumbnail20140511-2-1jjyzic.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/6nxdoc_ouya-screenshot20140511-2-59m0fb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/02280393-8f27-404f-91f5-8563696e03f3\/thumbnails\/thumbnail20140511-2-c1jveo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Haplo games",
+        "supportEmail": "thomasvg50@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2014-05-13T17:54:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Haplo games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.53,
+        "count": 30
+    }
+}

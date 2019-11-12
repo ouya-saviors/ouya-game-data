@@ -1,0 +1,97 @@
+{
+    "packageName": "com.clockwatchers.galaxy",
+    "title": "Galactic Hero",
+    "description": "In Galactic Hero, the fate of the galaxy is in your hands. In this epic match 3 puzzle adventure, you will serve as a guardian of the galaxy and battle alien invaders by matching three or more gems, jewels and alien artifacts in a row. \r\n\r\nCan you outwit your alien challengers and thwart their invasion?\r\n\r\nAs this star saga unfolds, you will need to improve your matching strategy as your alien challengers become smarter and more powerful the further you travel through space. \r\n\r\nAlong the way, you will engage enemy aliens in laser gun battles, mine colorful gems and jewels on distant planets and race alien spaceships through space gates and portals.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "70c694fa-5970-4337-8ee9-a2ee95007eb0",
+            "date": "2014-10-23T10:07:08Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f90aa07f-7a75-4462-b02c-f1abafa57e01\/com.clockwatchers.galaxy\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/Vllph9SGRsSgZUQESNpG_Galaxy-ouya.apk",
+            "size": 24592230,
+            "md5sum": "db036a61dc308a491fde3286719f1630",
+            "publicSize": 607736,
+            "nativeSize": 723548
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h3AIngnRP2GauGak8L29",
+        "video": "https:\/\/vimeo.com\/109466185",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/79WywPlSj606UHMGCYbk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BW1fxz5QOmY64w4WB3dG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yqvMY8GSSQmup5GIgVP1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1GAyAEmnQtqyYbJ4YQbC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y6AYiLSOQ9SDCVjeSWQq"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/109466185"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/94pcwf_ouya-screenshot20141020-2-3t963b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-rzfo33.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/t3yor1_ouya-screenshot20141020-2-npz5o2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-1jkpchx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/1h1nnw_ouya-screenshot20141020-2-10ldlxz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-9iqihf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/oawgxy_ouya-screenshot20141020-2-1hv69rh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-9b0u8m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/s0oz5l_ouya-screenshot20141020-2-dz3dhd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-vdaqy1.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Clockwatchers Inc",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.cwigames.com",
+    "firstPublishedAt": "2014-10-23T10:07:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Clockwatchers Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.24,
+        "count": 17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "galactichero",
+            "name": "Galactic Hero",
+            "description": "This purchase unlocks the full game.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

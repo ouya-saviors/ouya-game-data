@@ -1,0 +1,71 @@
+{
+    "packageName": "com.unfoil.matchmaker",
+    "title": "Match Maker",
+    "description": "This is a memory game. Remember where the other match is.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a71216be-f275-4996-835a-199bddb987bc",
+            "date": "2013-08-02T20:28:34Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/026cac21-3217-4f24-a8e2-ac33b9a7a755\/com.unfoil.matchmaker\/a71216be-f275-4996-835a-199bddb987bc\/G9uHoUFQtKcfIGe9ciuh_MatchMaker.apk",
+            "size": 104907,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.unfoil.matchmaker\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z9DqpAXBTCGltPIOVLO6",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EPdWiILtQvuuPK3PqY9Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EPRXflRvQWmgPDnermT9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pKamDgsQmW6qs8pwkv4X"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EPdWiILtQvuuPK3PqY9Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EPdWiILtQvuuPK3PqY9Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EPRXflRvQWmgPDnermT9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EPRXflRvQWmgPDnermT9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pKamDgsQmW6qs8pwkv4X\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pKamDgsQmW6qs8pwkv4X\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Unfoil.com",
+        "supportEmail": "unfoil.com@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.unfoil.com\/",
+    "firstPublishedAt": "2013-08-02T20:28:34Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Unfoil.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 5,
+        "average": 1.71,
+        "count": 7
+    }
+}

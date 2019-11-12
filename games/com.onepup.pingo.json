@@ -1,0 +1,71 @@
+{
+    "packageName": "com.onepup.pingo",
+    "title": "Pingo Puzzle Poker",
+    "description": "A simple, but addicting puzzle game. How high can you score, in this new original indie puzzler? If you've ever played a game of cards, you'll love Pingo!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card\/Casino",
+        "Kids List",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "p.4.2",
+            "versionCode": 0,
+            "uuid": "62d108cd-0bab-480e-ab30-c33ae5344bf1",
+            "date": "2013-04-08T16:58:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d985f88a-643c-4038-960f-a69d9437e84e\/com.onepup.pingo\/62d108cd-0bab-480e-ab30-c33ae5344bf1\/zgda1DgDSOaLBrT5W0E8_PingoPuzzlePokerP4.apk",
+            "size": 12973004,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.onepup.pingo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pG6PKmFzQBeTaRcsBPNC",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HlNPxV7bSdaXSEkIpnJC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2CbRfb8T0S8QWepxWJwv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YDq8WrfgQM26O2Ouacwn"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HlNPxV7bSdaXSEkIpnJC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HlNPxV7bSdaXSEkIpnJC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2CbRfb8T0S8QWepxWJwv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2CbRfb8T0S8QWepxWJwv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YDq8WrfgQM26O2Ouacwn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YDq8WrfgQM26O2Ouacwn\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "1-Pup Games",
+        "supportEmail": "support@1-pup.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "1-Pup.com",
+    "firstPublishedAt": "2013-03-20T01:40:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by 1-Pup Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 69,
+        "average": 3.24,
+        "count": 63
+    }
+}

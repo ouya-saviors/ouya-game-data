@@ -1,0 +1,79 @@
+{
+    "packageName": "com.bradpearce.hufuo",
+    "title": "HUFU",
+    "description": "Match the colours to remove bricks as they fall onto the ground; if the colours don't match others they touch, they are added.  Try this fast-paced twist on an arcade classic.\r\n\r\nHufu starts slow and ambient, but soon turns into colour kung-fu.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "8fb9ee47-b748-416b-9df2-f334bfcab1bf",
+            "date": "2014-10-27T20:13:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e962baba-ae5e-4730-833b-f5cfc910c609\/com.bradpearce.hufuo\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/H3vzM3IUSK2vXvVddCgV_chromatapOUYA-Default-1.0.3.apk",
+            "size": 16849239,
+            "md5sum": "28d88aa4a25ad7a775deaf51a898f46c",
+            "publicSize": 545605,
+            "nativeSize": 8620060
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bradpearce.hufuo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HPBgcnkR7uzp6uDHDUHB",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QSOZK2ARumcCiIMsIzgF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9c0BVq5fShmgoZZTuIfb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H3JKq7NSAWG9C8wP2eEK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5UMYdojRJHFBkToPccgl"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/cdbikc_ouya-screenshot20141025-2-1x6pwp7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/thumbnails\/thumbnail20141025-2-gu7v2s.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/59upmp_ouya-screenshot20141025-2-1fezqem.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/thumbnails\/thumbnail20141025-2-nj9fm0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/j1oeq9_ouya-screenshot20141025-2-1o13fz8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/thumbnails\/thumbnail20141025-2-hb1cvq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/a9h4w6_ouya-screenshot20141025-2-1lqubuc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8fb9ee47-b748-416b-9df2-f334bfcab1bf\/thumbnails\/thumbnail20141025-2-jhy5z2.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "bradpearce",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2014-10-27T20:13:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by bradpearce.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.05,
+        "count": 62
+    }
+}

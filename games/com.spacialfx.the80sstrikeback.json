@@ -1,0 +1,76 @@
+{
+    "packageName": "com.spacialfx.the80sstrikeback",
+    "title": "The 80's Strike Back!",
+    "description": "Re-imagine the 80's how they could have been. Pilot your Snow-go-fast-fighter-ship through waves of parody and 80's inspired characters, and see if you can keep your memory banks safe from their evil intents.\r\nCompletely free, but miniscule donations accepted.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "662a2db0-8e95-4608-94c0-76f5566f0330",
+            "date": "2014-07-21T23:43:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/97ec2952-258b-4413-a6b7-eed2e290cb09\/com.spacialfx.the80sstrikeback\/662a2db0-8e95-4608-94c0-76f5566f0330\/D6q0MwwMTaSltAmw7OBL_80sStrikeBack.apk",
+            "size": 9661676,
+            "md5sum": "fc7eee5d9bae4dec92d450bd72bceef5",
+            "publicSize": 21327,
+            "nativeSize": 182552
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OTCXgxAWRhCi793kGwKk",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wVmJVP1RN2g9iZgMZsQn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y4l3kwWXS0a5Z5yxGh4S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YGY2XiPnTFCteOVu8I7e",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wQ4CvX7TQ2mt3u9bzjUA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/xxt2mp_ouya-screenshot20140721-2-1fmlqqp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1i68xbb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/1m6iyz_ouya-screenshot20140721-2-i10s5c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1mzasla.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/pl0sf5_ouya-screenshot20140721-2-1in2iru.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1qp7ll8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/geemvv_ouya-screenshot20140721-2-12bcqlv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1oqa75t.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Jason Brown",
+        "supportEmail": "info@spacialfx.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.spacialfx.com",
+    "firstPublishedAt": "2014-07-21T23:43:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Jason Brown.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.22,
+        "count": 51
+    }
+}

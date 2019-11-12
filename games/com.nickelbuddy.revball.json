@@ -1,0 +1,75 @@
+{
+    "packageName": "com.nickelbuddy.revball",
+    "title": "Revball",
+    "description": "Revball is an exciting new paddle ball game for the OUYA!  Part pinball, part ping-pong, but completely unique, Revball is a fast paced game of skill. It's Blue versus Green in a single or multi-player competition.\r\n\r\nThe object is to strategically hit the ball with your paddle to keep it from escaping the circular arena. Miss the ball, and your opponent gets a point.  Grab the powerups when they appear to fire at your opponent, but move fast or you'll miss your turn to hit the ball!\r\n\r\nFeatures:\r\n- Simple to learn, but hard to master.\r\n- One player against the computer, or two players with a friend.\r\n- Try to beat the computer on all 20 tables in the single player campaign.\r\n- Choose the table for your competition, or select random, and the table changes after every point.\r\n- Use powerups to fire at your opponent and shrink or freeze their paddle.\r\n- Use the different styles of bumpers to send the ball where your opponent least expects.\r\n- Lots of multi-player fun!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "636ce2f3-6857-4b7a-adf8-43223f4c1b68",
+            "date": "2014-10-07T15:09:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b4fe27c9-c518-4472-af7f-d35e036ea204\/com.nickelbuddy.revball\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/T1sjq4VZT5iOv9pMq8jL_Revball.apk",
+            "size": 8465644,
+            "md5sum": "c1a7b55d53a9f2e141f006516d6d9799",
+            "publicSize": 8005816,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AteKXoPSJK8x6t9N28mK",
+        "video": "http:\/\/vimeo.com\/108171948",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qGnmhT14T2STeyz3s6Sr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7YcDBHIfSTisTtEUX0ir",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AZ5jer2zSQej8Dfyilqu"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/108171948"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/ry5312_ouya-screenshot20141006-2-154tbrz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/thumbnails\/thumbnail20141006-2-8x9ek2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/4nk7jm_ouya-screenshot20141006-2-fh1kzg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/thumbnails\/thumbnail20141006-2-6xptx0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/zf9963_ouya-screenshot20141006-2-p67tak.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/thumbnails\/thumbnail20141006-2-1png9w5.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b4fe27c9-c518-4472-af7f-d35e036ea204",
+        "name": "Nickel Buddy, LLC",
+        "supportEmail": "info@nickelbuddy.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.nickelbuddy.com",
+    "firstPublishedAt": "2014-09-22T18:52:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Nickel Buddy, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.82,
+        "count": 34
+    }
+}

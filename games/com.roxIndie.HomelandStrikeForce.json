@@ -1,0 +1,93 @@
+{
+    "packageName": "com.roxIndie.HomelandStrikeForce",
+    "title": "Homeland Strike Force",
+    "description": "Multiplayer beta (v.0.71)\r\n\r\nHomeland Strike Force is a newly established Special Operations Group set to assist in tactical operations involving homeland security.\r\n\r\nThe player is given the role as a team leader that quickly gets his team in the middle of a serious threat to national security and civilian lives.\r\n\r\nThe game is based on a slower pacing than most FPS games, with more focus on realism and tactics.\r\n\r\nHSF is currently in beta, featuring four of the eight campaign missions, where two of them are free to try. It also features four multiplayer deathmatch maps.\r\n\r\nDuring the beta the full game can be purchased at an 70% discount!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "0.72",
+            "versionCode": 0,
+            "uuid": "325de208-967e-4d5c-8ba4-63957db5cc3b",
+            "date": "2014-04-15T22:57:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3a095477-7fcc-4fe2-94bb-4f227b5abef5\/com.roxIndie.HomelandStrikeForce\/325de208-967e-4d5c-8ba4-63957db5cc3b\/4bYSpfooQneG83x62bBN_HSF.apk",
+            "size": 240521731,
+            "md5sum": "1acb437fa586a9b7f73c2af1dce94579",
+            "publicSize": 589907,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.roxindie.homelandstrikeforce\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RiCHgkeRhuMvtQTIzzvm",
+        "video": "https:\/\/vimeo.com\/81641692",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X5I8Rd28QIKf2vKLVbu9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mpiGu9i7T3GjamJ0RzIL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6Lsx2wqnTJS7blFrIgmJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w9xxSFJXSqxBV2piu6gb"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/81641692"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/X5I8Rd28QIKf2vKLVbu9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/X5I8Rd28QIKf2vKLVbu9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mpiGu9i7T3GjamJ0RzIL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mpiGu9i7T3GjamJ0RzIL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6Lsx2wqnTJS7blFrIgmJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6Lsx2wqnTJS7blFrIgmJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w9xxSFJXSqxBV2piu6gb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w9xxSFJXSqxBV2piu6gb\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "roxIndie",
+        "supportEmail": "beta@homelandstrikeforce.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.homelandstrikeforce.com",
+    "firstPublishedAt": "2013-12-10T00:35:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by roxIndie.",
+    "premium": false,
+    "rating": {
+        "likeCount": 259,
+        "average": 2.91,
+        "count": 662
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fullaccess04",
+            "name": "Beta Deal",
+            "description": "Gives beta access now and the full game when released, with a 70% discount.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

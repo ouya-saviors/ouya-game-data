@@ -1,0 +1,71 @@
+{
+    "packageName": "com.locomalito.verminiantrap",
+    "title": "Verminian Trap",
+    "description": "Your space pod has been forced to land on a planet infested with giant insects from Verminest. Fight with your companions and survive the incoming waves of enemy bugs for as long as you can.\r\n\r\nFREEWARE GAME\r\nMore info at\r\nwww.locomalito.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.49",
+            "versionCode": 0,
+            "uuid": "0861a54f-63d5-4b2c-afcc-02ddf13e8e5f",
+            "date": "2013-09-27T03:34:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/19e645f2-6f70-469a-bcee-9002b86548b6\/com.locomalito.verminiantrap\/0861a54f-63d5-4b2c-afcc-02ddf13e8e5f\/dIhNr4MVTAarmGL7tc54_Verminian_Trap_1_1.apk",
+            "size": 10837664,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.verminiantrap\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iaiwTqkTX6maztiXJGLA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v6zvbJ4gSMW7aAbRkJ2v",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R1GDSOsiTx2SZ52GaTKe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O170YpbTvy5j9cWoSJPH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v6zvbJ4gSMW7aAbRkJ2v\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v6zvbJ4gSMW7aAbRkJ2v\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R1GDSOsiTx2SZ52GaTKe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R1GDSOsiTx2SZ52GaTKe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O170YpbTvy5j9cWoSJPH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O170YpbTvy5j9cWoSJPH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Locomalito",
+        "supportEmail": "info@locomalito.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.locomalito.com\/verminian_trap.php",
+    "firstPublishedAt": "2013-09-09T16:36:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Locomalito.",
+    "premium": false,
+    "rating": {
+        "likeCount": 172,
+        "average": 4.31,
+        "count": 338
+    }
+}

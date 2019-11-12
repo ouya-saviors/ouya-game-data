@@ -1,0 +1,88 @@
+{
+    "packageName": "com.future.ifoodtvOuya",
+    "title": "iFood.tv",
+    "description": "iFood.tv has over 40,000 trustworthy and practical food videos for all tastes. Enjoy recipes for Holidays,  Desserts, Drinks, Appetizers, Entrees, Kids, Healthy, Easy, Vegetarian, Cake, Salad, Pizza, Pasta, Indian, Chinese, Mexican, Italian, Thai, Gourmet and many other foods you will love.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "f44fcbc1-046a-444a-8fb4-975f17a2b96d",
+            "date": "2015-11-17T18:22:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7ff6abdd-57c3-45a9-8036-2e2aa7e408de\/com.future.ifoodtvOuya\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/cRlqueIQRuoJ8YYlRbJg_app-release.apk",
+            "size": 1729159,
+            "md5sum": "a21067abdf0804044bfff38e1a72377d",
+            "publicSize": 755982,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.future.ifoodtvouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iLC39uaZQlR8fbWUq3NJ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q6DBX1zQ5OImFubSrm6g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tdt70MADR6KwcAB2Q1Va",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rAD1lxAURzKaOSUauKTR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DJbaCjTQOUjEgWzZbHVg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KA1hgTkZR0iusvQi799r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uTPyHffVRHelwJffjrW7"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/mx3apn_ouya-screenshot20151102-3-by2ndq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/thumbnails\/thumbnail20151102-3-vaw3yo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/ymiwr6_ouya-screenshot20151102-3-28zyet.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/thumbnails\/thumbnail20151102-3-1sfru2q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/11q6z2_ouya-screenshot20151102-3-8sw5kj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/thumbnails\/thumbnail20151102-3-vaisws.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/zvxm4n_ouya-screenshot20151102-3-181ex9s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/thumbnails\/thumbnail20151102-3-ek1j37.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/comatm_ouya-screenshot20151102-3-1iqayou.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/thumbnails\/thumbnail20151102-3-veywfc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/sz2wv0_ouya-screenshot20151102-3-tn05of.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f44fcbc1-046a-444a-8fb4-975f17a2b96d\/thumbnails\/thumbnail20151102-3-114emqb.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "7ff6abdd-57c3-45a9-8036-2e2aa7e408de",
+        "name": "Future Today Inc",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.futuretodayinc.com",
+    "firstPublishedAt": "2015-10-09T15:00:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2015 by Future Today Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.67,
+        "count": 9
+    }
+}

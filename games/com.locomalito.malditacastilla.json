@@ -1,0 +1,87 @@
+{
+    "packageName": "com.locomalito.malditacastilla",
+    "title": "Maldita Castilla",
+    "description": "The lament of a young witch has been turned into a key for demons. Guide Don Ramiro through the cursed lands of Tolomera and expel the evil that entered the Kingdom of Castile.\r\n\r\nMaldita Castilla (Cursed\/damn Castile) is an action arcade game full of myths from Spain and the rest of Europe. The graphic style is raw, made pixel by pixel with a limited color palette, like in the old days, and displayed through a dirty old monitor effect. Also, Gryzor87 composed the music emulating the Yamaha YM2203 sound chip, so that the game has real arcade sound.\r\n\r\nIt pays homage to classic arcade games from 1985-1987 like Ghost'n'Goblins, Tiger Road, Black Tiger, Shinobi, Rygar, Karnov, Trojan and many others\u2026 taking influences from medieval paintings and places, and inspired by the best chivalry book ever: The Amadis of Gaul.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.20",
+            "versionCode": 0,
+            "uuid": "eaef10a1-b61d-4b38-856f-249b2568838c",
+            "date": "2013-10-23T18:15:00Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/19e645f2-6f70-469a-bcee-9002b86548b6\/com.locomalito.malditacastilla\/eaef10a1-b61d-4b38-856f-249b2568838c\/tOOOuQ5Rlm8SEqDOjndk_Maldita_Castilla.apk",
+            "size": 58088866,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.malditacastilla\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V98www5iTryNwaPDKP3b",
+        "video": "https:\/\/vimeo.com\/53208801",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f8VmmPTPSCP9URN7VxuO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q8tQ5f7BQCibCsp39NGi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z1O6enfgRYGz1j6Ie1up",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/po7MCfqzRfOVcbgCahRZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I9gDT7lQqyaW7I6nHvoq"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/53208801"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/f8VmmPTPSCP9URN7VxuO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/f8VmmPTPSCP9URN7VxuO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Q8tQ5f7BQCibCsp39NGi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Q8tQ5f7BQCibCsp39NGi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Z1O6enfgRYGz1j6Ie1up\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Z1O6enfgRYGz1j6Ie1up\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/po7MCfqzRfOVcbgCahRZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/po7MCfqzRfOVcbgCahRZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/I9gDT7lQqyaW7I6nHvoq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/I9gDT7lQqyaW7I6nHvoq\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Locomalito",
+        "supportEmail": "info@locomalito.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.locomalito.com\/maldita_castilla.php",
+    "firstPublishedAt": "2013-10-23T18:15:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Locomalito.",
+    "premium": false,
+    "rating": {
+        "likeCount": 652,
+        "average": 4.45,
+        "count": 2302
+    }
+}

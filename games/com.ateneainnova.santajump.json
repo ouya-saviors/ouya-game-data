@@ -1,0 +1,86 @@
+{
+    "packageName": "com.ateneainnova.santajump",
+    "title": "Santa Jump 3D",
+    "description": "Santa Jump 3D, now the JUMP genre knows 3D and it\u2019s extremely addictive. \r\n\r\n\u201cYou will be amazed while you escape from Gr\u00f6nch, dodge snowballs and break your records\u201d - Dark V\u00f6der\r\n\r\n\u201cA spectacle of lights and sounds, it\u2019s a joy to play it in 3D\u201d \u2013 Sausage de Cantimpalo\r\n\r\n\"Catch same-colored storks and get Jump Boots\u201d - Robocop de Utrera\r\n\r\nPrepare to go on an epic jumping journey with Santa! \r\nCollect coins, keep the Gr\u00f6nch from catching you, catch crazy storks to launch yourself to infinity, and beyond!\r\n\r\nWhat are you waiting for? \r\nDownload Santa Jump 3D now and begin jumping!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "SJ201312170",
+            "versionCode": 0,
+            "uuid": "c2a9c4ca-5d91-4890-aa36-655452dddc0a",
+            "date": "2013-12-23T20:41:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/104ace0e-9ac7-4ee3-8f47-f522da6dc3bf\/com.ateneainnova.santajump\/c2a9c4ca-5d91-4890-aa36-655452dddc0a\/QtSf4lo8RgmUkKuCxspP_SantaJump3D_OUYA_Signed.apk",
+            "size": 42931954,
+            "md5sum": "91c9c39243d3a01d356aa2dbe80f951c",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ateneainnova.santajump\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ntHFwXmBTHGcZWaQYQXP",
+        "video": "https:\/\/vimeo.com\/82495418",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5OPd39JqSWDtjK87NufX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zr0k5A46RTS8b1HyHGkM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/THP4qQcSFyErxZBmJUyg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fHJ5L3C4SoivGq0g6cDs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wTge1qvdRYygg8myAF56"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82495418"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5OPd39JqSWDtjK87NufX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5OPd39JqSWDtjK87NufX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Zr0k5A46RTS8b1HyHGkM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Zr0k5A46RTS8b1HyHGkM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/THP4qQcSFyErxZBmJUyg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/THP4qQcSFyErxZBmJUyg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fHJ5L3C4SoivGq0g6cDs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fHJ5L3C4SoivGq0g6cDs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wTge1qvdRYygg8myAF56\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wTge1qvdRYygg8myAF56\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Atenea Innova",
+        "supportEmail": "ateneainnovadev@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.santajump3d.com",
+    "firstPublishedAt": "2013-12-23T20:41:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Atenea Innova.",
+    "premium": false,
+    "rating": {
+        "likeCount": 43,
+        "average": 3.72,
+        "count": 158
+    }
+}

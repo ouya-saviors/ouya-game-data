@@ -1,0 +1,77 @@
+{
+    "packageName": "com.CFM.OuyaATA",
+    "title": "Avoid This Asteroid!",
+    "description": "Enjoy couch-multiplayer? Miss those simpler times when games used to be all about fun? Well, then your are in for a treat with 'Avoid this Asteroid!', a game to bring friends together -or tear them apart in a banter battle!\r\n\r\nCommand your spaceship skillfully, avoid dangerous asteroids and collect items to help you score more points than your rivals -but hurry, the last one will get axed at the end of every round!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "7450304d-4a7d-48de-8a05-b9882fedf5d2",
+            "date": "2013-07-31T16:00:58Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/74be28a8-da6a-476c-8f13-f271c46b1c89\/com.CFM.OuyaATA\/7450304d-4a7d-48de-8a05-b9882fedf5d2\/NlJa7sRtQVGZJAQ0kVIw_AvoidThisAsteroid.apk",
+            "size": 7490351,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cfm.ouyaata\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mQ5ZbVTbSTamUwb60ZeQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/651oougRduMll5SsTeeA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YAnlvnz1TYm6ejXIcklU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KaxAfcckRqCDRouHbh2Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AhLwwtBpSY6v2jgP6ZaQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/651oougRduMll5SsTeeA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/651oougRduMll5SsTeeA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YAnlvnz1TYm6ejXIcklU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YAnlvnz1TYm6ejXIcklU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KaxAfcckRqCDRouHbh2Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KaxAfcckRqCDRouHbh2Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AhLwwtBpSY6v2jgP6ZaQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AhLwwtBpSY6v2jgP6ZaQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Atomized Ltd",
+        "supportEmail": "carlos.fernandez.musoles@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "carlosfernandezmusoles.blogspot.co.uk",
+    "firstPublishedAt": "2013-07-31T07:42:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Atomized Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 44,
+        "average": 3.14,
+        "count": 64
+    }
+}

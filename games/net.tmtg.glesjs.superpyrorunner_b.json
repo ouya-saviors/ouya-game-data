@@ -1,0 +1,77 @@
+{
+    "packageName": "net.tmtg.glesjs.superpyrorunner_b",
+    "title": "Super Pyro Runner",
+    "description": "Endless runner + flamethrower = platform shooting mayhem! \r\nThis game is open source and written in HTML5 using jgame.js and gles.js.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "044f58c6-3c6c-49a1-a051-75725861d01c",
+            "date": "2014-08-14T15:05:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f2ab665e-217f-41fc-98d6-bbdaa6ced57c\/net.tmtg.glesjs.superpyrorunner_b\/044f58c6-3c6c-49a1-a051-75725861d01c\/JGi6UnOtSTWO7eHt2cMm_SuperPyroRunner-ouya-v1d.apk",
+            "size": 3335155,
+            "md5sum": "6cba760367f6a764f2b94548619b51a7",
+            "publicSize": 97392,
+            "nativeSize": 3432196
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k6Pk2PSjQ4awLrbn1uVO",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UfEuxTlQAuo1JjAcIqdA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oboq3h0GQ5KxFjELMmfL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AR5kO0Y4SNmlaiF9AFnF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CoDU4PrHTaWgA3EIsemA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/f7gjzi_ouya-screenshot20140811-2-1aimdkd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-dbxt7g.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/plbp5l_ouya-screenshot20140811-2-b42s1h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-8mq30v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/e12c2y_ouya-screenshot20140811-2-1b0n4jr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-1mszvto.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/bxq13_ouya-screenshot20140811-2-s1ffvv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-1cdg7ll.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f2ab665e-217f-41fc-98d6-bbdaa6ced57c",
+        "name": "Boris van Schooten",
+        "supportEmail": "info@tmtg.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/tmtg.net\/",
+    "firstPublishedAt": "2014-08-14T15:05:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Boris van Schooten.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.69,
+        "count": 72
+    }
+}

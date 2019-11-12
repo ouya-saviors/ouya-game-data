@@ -1,0 +1,92 @@
+{
+    "packageName": "com.gamesp.muffy",
+    "title": "Muffy Boy",
+    "description": "Muffy boy is an arcade platform game.Style of the best retro game Jetset Willy.Roby kid has lost all Marbles,you must collect all 80 Marbles,and Roby leave your computer. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "bacbcf5b-fe19-4610-adcf-1bd39baf405f",
+            "date": "2014-07-18T16:29:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesp.muffy\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/xsYeQAnESgCF7FAkDjSG_Muffy03.apk",
+            "size": 5835898,
+            "md5sum": "96501da8ca730d80d847c69da57dfb27",
+            "publicSize": 3993429,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XQM49OVTHO9vASgEVuNi",
+        "video": "https:\/\/vimeo.com\/100889267",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xGhPtVoJTrifsIE01F6Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aAX0MoSMTQyQmh7tGxkT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lHzRimy6Q9eGxAdAxqHf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IdCbUxfbSo2Xh2Cbhbaw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100889267"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/rr83og_ouya-screenshot20140718-2-36jtym.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-1dbwf99.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/fbcc7r_ouya-screenshot20140718-2-1cf3oyx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-cuwcrk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/i692tv_ouya-screenshot20140718-2-e1u7fh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-hkrztf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/2i48jc_ouya-screenshot20140718-2-hvbu82.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-1du1wh3.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "iosgames@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-07-17T17:00:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.95,
+        "count": 20
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "muffy",
+            "name": "Muffy Boy",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

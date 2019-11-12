@@ -1,0 +1,71 @@
+{
+    "packageName": "com.mb.littlePong",
+    "title": "TEWOBall",
+    "description": "Just a ball bouncing game for two Players.\r\nQuick little battles.\r\n\r\nYou need two controllers to play it.\r\n\r\nFeel free to send feedback to:\r\nouya.mb.games@gmail.com\r\n\r\nVersion 1.1.1 =============\r\n- scoring bug fixed\r\n\r\nVersion 1.1.0 =============\r\n- all new physics\r\n\r\nVersion 1.0.1 =============\r\n- fixed game crash at start up",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "4e32a20f-0468-4580-a5ea-337c1ec5876b",
+            "date": "2015-02-05T07:02:48Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fff063f6-1c11-48ec-a484-04a0642ff865\/com.mb.littlePong\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/EgP2MlEHTMezf6uGfGpy_LittlePong.apk",
+            "size": 1555250,
+            "md5sum": "4557f56d4369e9324007917eed992227",
+            "publicSize": 40010,
+            "nativeSize": 766720
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mb.littlepong\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YeE4RmJrS4apsyeTvQrL",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2gNZ25MRLGF2QlDp8iDQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oJ2Y2h9HQienU4SXwXTW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/84e0WeRbSgSpyAnVH3mD"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/edml2u_ouya-screenshot20150203-3-1hy34fr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/thumbnails\/thumbnail20150203-3-bbge0g.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/ourb91_ouya-screenshot20150203-3-yflg33.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/thumbnails\/thumbnail20150203-3-1br0e7j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/gkqiku_ouya-screenshot20150203-3-1ljor6o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e32a20f-0468-4580-a5ea-337c1ec5876b\/thumbnails\/thumbnail20150203-3-8ohnq0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Martin Blankenstein",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-01-19T16:43:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2015 by Martin Blankenstein.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.42,
+        "count": 43
+    }
+}

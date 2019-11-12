@@ -1,0 +1,94 @@
+{
+    "packageName": "com.amoraleite.raceforyourlife",
+    "title": "Race for Your Life",
+    "description": "Race! Stay alive and win! This cross platform game is online realtime, async and local multiplayer! Take the control of the super cars, machines developed to win! But be smart because the other player has the same technology and will not want to stay behind! \n\nFeatures:\n\u2022 Multiplayer online cross platform up to 4 players , severs around the world;\n\u2022 Multiplayer local up to 4 players;\n\u2022 New async mode, play with other player even if he\u2019s offline;\n\u2022 Online ranked match with all platforms together; \n\u2022 7 great tracks to race;\n\u2022 Simple gameplay and very addictive; \n\u2022 8 bits retro visual, but poisoned with technology; \n\u2022 Use the power-up boost and vacuum and surely you will win! \n\nWe are working on updates, we'd love to hear your suggestions write to us!\n\nRACE Vr. 2.1",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Racing",
+        "Retro",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "2.1",
+            "versionCode": 0,
+            "uuid": "f7271acd-9ccf-41da-9f75-e43889caa9fc",
+            "date": "2015-02-09T09:34:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d2b4125d-8c63-45b6-9b62-b11744c25ca4\/com.amoraleite.raceforyourlife\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/uHNh8BgiRRuJMuf3ajME_race.apk",
+            "size": 24576805,
+            "md5sum": "b9bf54fe503068c44f65de83e5f7c4b2",
+            "publicSize": 283027,
+            "nativeSize": 14993772
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.amoraleite.raceforyourlife\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rF2QwRjNTynZGUd7UCnO",
+        "video": "https:\/\/vimeo.com\/107299578",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gbwUGwMTLik8mdNUhMnS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gptCTh8xSWEUvEDb3fmw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jr5TYpJqT3e2WibUHj4u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F0NpJZ1nSLNPbqZphvzJ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/107299578"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/gilzlw_ouya-screenshot20150206-3-183gdpe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/thumbnails\/thumbnail20150206-3-1376gij.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/s58ygc_ouya-screenshot20150206-3-15qny9g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/thumbnails\/thumbnail20150206-3-v0w3km.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/fwefl3_ouya-screenshot20150206-3-1lc9o35.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/thumbnails\/thumbnail20150206-3-ty376x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/swsteg_ouya-screenshot20150206-3-17s8jwx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7271acd-9ccf-41da-9f75-e43889caa9fc\/thumbnails\/thumbnail20150206-3-1vh09l6.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "d2b4125d-8c63-45b6-9b62-b11744c25ca4",
+        "name": "Secret Weapon",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.amoraleite.com",
+    "firstPublishedAt": "2014-10-20T22:59:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2015 by Secret Weapon.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.6,
+        "count": 146
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fullgamerace",
+            "name": "Race For Your Life",
+            "description": "It's time to have fun with friends!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

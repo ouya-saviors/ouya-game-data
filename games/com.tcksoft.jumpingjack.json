@@ -1,0 +1,82 @@
+{
+    "packageName": "com.tcksoft.jumpingjack",
+    "title": "Jumping Jack",
+    "description": "Jumping Jack is quick and bold.\r\nWith skill his story will unfold.\r\n\r\nIf you had a ZX Spectrum 16K then you probably remember this game as there were not a whole lot of games for this machine, they were mostly for its big brother with its whopping 48K of memory.\r\n\r\nOne of the original jumping games - before those Doodles were a twinkle in the author's eye.\r\n\r\nFeatures: BEEP style sound effects, single colour graphics, 80s style addictive game-play.\r\n\r\nDoesn't Feature: Colour clash. :(",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c7befd33-678e-4db4-aec1-cb21e496be1f",
+            "date": "2013-10-16T20:42:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b0d56674-9b5a-4785-a3b1-88acbd1aff69\/com.tcksoft.jumpingjack\/c7befd33-678e-4db4-aec1-cb21e496be1f\/aY4X1iLQY6NM6yCd2v6A_JumpingJack-release.apk",
+            "size": 467320,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.jumpingjack\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rEXL4BSW6x0yvR4u5ifw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qimY68LAR6OsRZMz28Sl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eIJBEbiLT5GdJsRSBWUq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OGI06c5ZS1asabyvVZ7n"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qimY68LAR6OsRZMz28Sl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qimY68LAR6OsRZMz28Sl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eIJBEbiLT5GdJsRSBWUq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eIJBEbiLT5GdJsRSBWUq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OGI06c5ZS1asabyvVZ7n\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OGI06c5ZS1asabyvVZ7n\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b0d56674-9b5a-4785-a3b1-88acbd1aff69",
+        "name": "TCKSOFT",
+        "supportEmail": "caffeinekid@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tcksoft.co.uk",
+    "firstPublishedAt": "2013-10-16T20:42:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by TCKSOFT.",
+    "premium": false,
+    "rating": {
+        "likeCount": 30,
+        "average": 3.73,
+        "count": 22
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "jumpingjackunlock1",
+            "name": "Unlock Full Game",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

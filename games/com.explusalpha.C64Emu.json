@@ -1,0 +1,70 @@
+{
+    "packageName": "com.explusalpha.C64Emu",
+    "title": "C64.emu",
+    "description": "Advanced open-source Commodore 64 computer emulator based on VICE. Before using, please see the guide on my site for initial setup instructions.\r\n\r\nNo ROMs are included with this app and must be supplied by the user. A number of free games\/demos are available at www.rgcd.co.uk. Load ROM files located on your internal or external USB storage using the in-app file browser (.crt, .prg, .d64, .tap, and other formats).\r\n\r\nFollow me on Twitter for updates about my apps:\r\nhttps:\/\/twitter.com\/rakashazi\r\n\r\nVisit the homepage at explusalpha.com for more info, ports for other platforms, and my other apps.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.5.28",
+            "versionCode": 0,
+            "uuid": "0adc9edd-2f2c-4d55-82c0-e013d08db304",
+            "date": "2015-06-07T22:03:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e0a3541d-2cce-4eb0-bd07-5b3f4e717efc\/com.explusalpha.C64Emu\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/xaiQt3gCTTayY8pDAFXg_C64Emu-16-1.5.28.apk",
+            "size": 926292,
+            "md5sum": "8455b06e62be50dc74a4cdf28df862f1",
+            "publicSize": 61514,
+            "nativeSize": 1557524
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.c64emu\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I7ACPfvbSeiKe8aHkYvm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Np3Mll9TT66PtAVxH6i2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k4w0xjrHR7ujr3DAfAjN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XALYcIP1QfuMony2JO28"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/3ubho3_ouya-screenshot20150518-3-1abuei.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/thumbnails\/thumbnail20150518-3-9pbwlo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/cb23hx_ouya-screenshot20150518-3-15zy91m.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/thumbnails\/thumbnail20150518-3-12mjqfz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/5g8ms7_ouya-screenshot20150518-3-1vuyszo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/thumbnails\/thumbnail20150518-3-wfb5d4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Robert Broglia",
+        "supportEmail": "info@explusalpha.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.explusalpha.com\/home\/c64-emu",
+    "firstPublishedAt": "2013-06-22T03:16:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2015 by Robert Broglia.",
+    "premium": false,
+    "rating": {
+        "likeCount": 243,
+        "average": 4.35,
+        "count": 140
+    }
+}

@@ -1,0 +1,103 @@
+{
+    "packageName": "com.percipient24.cgc",
+    "title": "Chain Gang Chase",
+    "description": "Beta Release!\r\n\r\nUp to eight players are convicts chained together, trying to escape. Work together, fight the law, and win! Make your own maps for free online!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.9.2",
+            "versionCode": 0,
+            "uuid": "0f3b2792-02f3-42d1-a4a9-cdeced3dc854",
+            "date": "2014-05-23T17:19:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/65299407-0e54-4fcd-88d7-75ef2dc8ca71\/com.percipient24.cgc\/0f3b2792-02f3-42d1-a4a9-cdeced3dc854\/ym7yEfZLRseaMlbAAT9o_chain-gang-chase-android_v090_5.apk",
+            "size": 11972129,
+            "md5sum": "126a046b2adaa4014bef26e5c25db321",
+            "publicSize": 135395,
+            "nativeSize": 846310
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.percipient24.cgc\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RiCrcRnTdW7Fbek1BK1x",
+        "video": "https:\/\/vimeo.com\/95355236",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bGGhYpFBTMWGIY3Os8Tn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uViWGnTHahwuci84GY4A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P3IoGUJRoOrEbC7MBxGF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x3wmv4rXT6l5lMZB1FEG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SJFiN61Q8uQfchhbdp2q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fsYJddhRgqDsqUi8g8hu"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/95355236"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bGGhYpFBTMWGIY3Os8Tn",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bGGhYpFBTMWGIY3Os8Tn"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uViWGnTHahwuci84GY4A",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uViWGnTHahwuci84GY4A"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P3IoGUJRoOrEbC7MBxGF",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P3IoGUJRoOrEbC7MBxGF"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/x3wmv4rXT6l5lMZB1FEG",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/x3wmv4rXT6l5lMZB1FEG"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SJFiN61Q8uQfchhbdp2q",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SJFiN61Q8uQfchhbdp2q"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fsYJddhRgqDsqUi8g8hu",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fsYJddhRgqDsqUi8g8hu"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MAGIC Spell Studios, LLC",
+        "supportEmail": "joe@chaingangchase.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.chaingangchase.com\/",
+    "firstPublishedAt": "2014-05-23T17:19:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by MAGIC Spell Studios, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.59,
+        "count": 66
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MAGICSpell_CGC_Map_Download",
+            "name": "All Maps Forever",
+            "description": "This allows you to download all maps created by the Chain Gang Chase community, past, present, and future!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

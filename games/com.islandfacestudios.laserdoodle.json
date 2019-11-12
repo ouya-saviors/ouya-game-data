@@ -1,0 +1,72 @@
+{
+    "packageName": "com.islandfacestudios.laserdoodle",
+    "title": "LaserDoodle",
+    "description": "Update 1.2 - Can now take a screenshot an upload it to Twitter and now it is much quicker to change line settings!\r\n\r\nLaserDoodle's only objective is to be creative and create anything you can possibly think of in 3D space only with lasers\/lines. You have 8 color options, can change the laser length, and change the width of the lasers.\r\n\r\nI discovered the basic gameplay on accident while making another game and thought this would be great to just have a game on the Ouya since my other game will take longer. If you guys like it, let me know @iSlandFace on twitter or islandfacestudios@yahoo.com and I will continue work on it.\r\n\r\nI have many plans for this game including saving, sharing, multiplayer, social network integration, objective based gameplay, and more. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Kids List",
+        "Meditative"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "2fcdfd3e-5e12-4fae-ade6-4f1f00752d3d",
+            "date": "2013-06-04T19:44:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/16a8965a-9dee-4e77-9dcc-277d9f267bc5\/com.islandfacestudios.laserdoodle\/2fcdfd3e-5e12-4fae-ade6-4f1f00752d3d\/T7yON1G5SjuMn66mCUoI_laserDoodle.apk",
+            "size": 49565821,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.islandfacestudios.laserdoodle\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qUql5tQduEkfJfRTlHQ3",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lVjIlC7R7aaRr6Qy2eCA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i0Rw4xT9TM6mWKUVESR5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GQdoIAzKTHac3jwlB3GO"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lVjIlC7R7aaRr6Qy2eCA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lVjIlC7R7aaRr6Qy2eCA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i0Rw4xT9TM6mWKUVESR5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i0Rw4xT9TM6mWKUVESR5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GQdoIAzKTHac3jwlB3GO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GQdoIAzKTHac3jwlB3GO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "iSlandFace Studios",
+        "supportEmail": "islandfacestudios@yahoo.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.facebook.com\/pages\/ISlandface-Studios\/327277954051866?ref=stream",
+    "firstPublishedAt": "2013-04-29T18:47:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by iSlandFace Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 91,
+        "average": 3.33,
+        "count": 102
+    }
+}

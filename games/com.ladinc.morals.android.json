@@ -1,0 +1,75 @@
+{
+    "packageName": "com.ladinc.morals.android",
+    "title": "Morals Are Optional",
+    "description": "Multiplayer fun, where Morals Are Optional! \r\n\r\nGrab some friends and use your phones as the controllers. Enjoy the excitement of \"Cards Against Humanity\" on a digital platform. \r\n\r\nThe game is easy, just submit a white card to try complete the funniest statement. Setup takes seconds, just start the app and have all players go to mcp.rocks to join the game on any device with a browser. Its that simple!\r\n\r\nMinimum of 3 players required. Players must all be connected to the same Wi-Fi network.\r\n\r\nThe cards in the game are from the US version of \"Cards Against Humanity\" (Base pack and expansions 1-5). The content of the Cards Against Humanity Cards are available for use under the Creative Commons BY-NC-SA 2.0 License.\r\n\r\nMorals Are Optional is an open source project, search for \"Morals-Are-Optional\" on github.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card\/Casino",
+        "Multiplayer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "ffe7ca10-b937-438f-8f7d-c185f7b6a3ab",
+            "date": "2015-04-28T19:47:43Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b8043097-6349-4e02-8960-241c031efef3\/com.ladinc.morals.android\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/NhdX9GklRUCZtqvMQvOA_Morals-Are-Optional-V1.2.apk",
+            "size": 2552858,
+            "md5sum": "c083c73bfa418e1763208bbf7bebc07e",
+            "publicSize": 77685,
+            "nativeSize": 481688
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ladinc.morals.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KRiQdbCoSG0S1NxsTHx6",
+        "video": "https:\/\/vimeo.com\/125325265",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rtekNs0eSGWrF7MywoA2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5qSwBRLgQRSSk79WF6tr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xE1OrIAYRGiEJy3XHLiw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/125325265"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/x38sbn_ouya-screenshot20150425-3-1mxhkjv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/thumbnails\/thumbnail20150425-3-40vfgk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/l6awqx_ouya-screenshot20150425-3-wx24xe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/thumbnails\/thumbnail20150425-3-yzs3xj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/3h82la_ouya-screenshot20150425-3-12eiysi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ffe7ca10-b937-438f-8f7d-c185f7b6a3ab\/thumbnails\/thumbnail20150425-3-1s1oj5h.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lad Inc",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "17+",
+    "website": "",
+    "firstPublishedAt": "2015-04-28T19:47:43Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by Lad Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.09,
+        "count": 65
+    }
+}

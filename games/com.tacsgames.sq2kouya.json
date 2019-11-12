@@ -1,0 +1,101 @@
+{
+    "packageName": "com.tacsgames.sq2kouya",
+    "title": "Shuttle Quest 2000",
+    "description": "As the pilot of the unique 'Battle Shuttle' join the fight against the evil General Xzarod and save the galaxy in this RETRO Action-RPG-Shooter!\r\n\r\n* Battle in 30 story missions over six chapters\r\n* Fight 6 giant Megaship bosses\r\n* Collect resources and use them to craft new items\r\n* Equip weapons and drones in one of thousands combinations\r\n* Meet all sorts of characters on 'Shuttle Station 8'\r\n* Play unlimited random missions with 'Custom Flight Plans'",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.32",
+            "versionCode": 0,
+            "uuid": "992bdd15-8b1c-4ac4-9257-c9e2c2a9dfb8",
+            "date": "2013-12-12T22:35:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1c95b6ae-4005-4541-bd20-2fff4d78f79e\/com.tacsgames.sq2kouya\/992bdd15-8b1c-4ac4-9257-c9e2c2a9dfb8\/Z4WbkOCyTOmnrTc27cMJ_SQ2kOuya.apk",
+            "size": 42105039,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tacsgames.sq2kouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/um9Os55S769J1QxqGGlp",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N7ehHVBRQ2qDGrOUFWRr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c2YCOTiMSfudFM7jJ2KQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N2j15dnHRaZQPmsjX5lU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MLkQN9OSK2GhSqHq7tIE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0qqMIygKQuS7ynnFJlJQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hjvFeyIJSASyShKRhVPU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QhvhErvhTumQlDcQIS1K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yrT0MOQ8OlU7MpfMbTAA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N7ehHVBRQ2qDGrOUFWRr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N7ehHVBRQ2qDGrOUFWRr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/c2YCOTiMSfudFM7jJ2KQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/c2YCOTiMSfudFM7jJ2KQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N2j15dnHRaZQPmsjX5lU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N2j15dnHRaZQPmsjX5lU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MLkQN9OSK2GhSqHq7tIE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MLkQN9OSK2GhSqHq7tIE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0qqMIygKQuS7ynnFJlJQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0qqMIygKQuS7ynnFJlJQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hjvFeyIJSASyShKRhVPU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hjvFeyIJSASyShKRhVPU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QhvhErvhTumQlDcQIS1K\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QhvhErvhTumQlDcQIS1K\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yrT0MOQ8OlU7MpfMbTAA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yrT0MOQ8OlU7MpfMbTAA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TACS Games",
+        "supportEmail": "thom@thom.mobi",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/tacsgames.com",
+    "firstPublishedAt": "2013-12-12T22:35:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by TACS Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 80,
+        "average": 3.68,
+        "count": 112
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "packageName": "com.NostaticSoftware.QuietPlease",
+    "title": "Quiet, Please!",
+    "description": "After an annoying day at school, you just want some peace and quiet. But everything at home is so noisy! Mr. Peabody is obsessively mowing his lawn, Dad is channel surfing and Mom is yapping on the phone. Your pesky kid brother won't go to bed, and even your pet kittens are driving you crazy! Explore, interact with your environment and solve puzzles. Three kittens included with every purchase!\r\n\r\n- Classic adventure game fun.\r\n\r\n- Explore a lighthearted and humorous environment.\r\n\r\n- Use your wits and the items you find to solve puzzles.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.8",
+            "versionCode": 0,
+            "uuid": "575b0480-1fd6-448f-865b-5a1dcac1bbe0",
+            "date": "2013-07-23T18:09:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3fb494e3-e77a-4a83-82a0-7d3f51221ca3\/com.NostaticSoftware.QuietPlease\/575b0480-1fd6-448f-865b-5a1dcac1bbe0\/GS6sMJISdWh7GuHf170H_QuietPlease.apk",
+            "size": 13168744,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nostaticsoftware.quietplease\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3dXsbmQWafmv3SdImn5Q",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FJaOUrKSXyIJFAheZQ7w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M05tuQnYRgSY56f1viRs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m9LruTDVRP6GFbK23vlI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Yz2Yyl2vR9SBuh4SHAOQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FJaOUrKSXyIJFAheZQ7w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FJaOUrKSXyIJFAheZQ7w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/M05tuQnYRgSY56f1viRs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/M05tuQnYRgSY56f1viRs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m9LruTDVRP6GFbK23vlI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m9LruTDVRP6GFbK23vlI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Yz2Yyl2vR9SBuh4SHAOQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Yz2Yyl2vR9SBuh4SHAOQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nostatic Software",
+        "supportEmail": "contact@nostatic.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/nostaticsoftware.com",
+    "firstPublishedAt": "2013-07-23T18:09:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Nostatic Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 162,
+        "average": 3.85,
+        "count": 68
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "quiet_please_full_game",
+            "name": "Quiet, Please! Full Game Unlock",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

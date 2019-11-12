@@ -1,0 +1,81 @@
+{
+    "packageName": "com.superxstudios.fob",
+    "title": "Fields of Battle",
+    "description": "The #1 Extreme Sports FPS franchise is back!  Take your carnage anywhere as Greg Hastings Paintball presents Fields of Battle.\r\n\r\nWhether you're a paintball player or a first-person shooter fan, Fields of Battle will satisfy your desire to blast the competition!  With ground-breaking motion and gesture based controls including sliding, diving, leaning out from cover, throwing grenades, and more, Fields of Battle takes the mobile shooter experience to the next level.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.61",
+            "versionCode": 0,
+            "uuid": "60765f8c-515e-41dc-b933-f97bf0293f9c",
+            "date": "2014-09-17T18:40:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5b015434-8a78-4274-aa5d-0cb2e330e50e\/com.superxstudios.fob\/60765f8c-515e-41dc-b933-f97bf0293f9c\/VaGf7a3rS9SAunlqNhwk_FOBAndroid-release.apk",
+            "size": 47493667,
+            "md5sum": "fdc17cb8227155070907caed4fd979cf",
+            "publicSize": 667931,
+            "nativeSize": 8712008
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lQnD7GlYSiiDp4Oha1rL",
+        "video": "https:\/\/vimeo.com\/106300140",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y26nMILnQoqT2dLP6qwQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4WXqmNU1SqSpvg3fV4Nb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YwBok628QQeJEKkCMRts",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FIR0X1SQAmWsODcXqPo2"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/106300140"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/mvkokn_ouya-screenshot20140916-2-19mkff5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-1n36qb3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/lpscsk_ouya-screenshot20140916-2-74hx9g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-lqzxpo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/n370gg_ouya-screenshot20140916-2-1s6jrau.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-c2ab48.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/rg0nty_ouya-screenshot20140916-2-o6agju.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-qpp15v.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "5b015434-8a78-4274-aa5d-0cb2e330e50e",
+        "name": "Super X Studios LLC",
+        "supportEmail": "support@superxstudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.gregredhastings.com",
+    "firstPublishedAt": "2014-03-20T11:07:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Super X Studios LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 197,
+        "average": 4.01,
+        "count": 1124
+    }
+}

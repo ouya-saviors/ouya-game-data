@@ -1,0 +1,71 @@
+{
+    "packageName": "com.ATG.DU",
+    "title": "Drawing Universe",
+    "description": "Oh No! An evil comet is headed towards Earth for a head on collision! Can you stop it?\r\n\r\nDrawing Universe is a 2D platformer with 360 degree gravity. Not only do you jump from planet to planet, but you can draw your own with the touch pad or right stick!\r\n\r\nDRAWING UNIVERSE IS GRAVITY!\r\n360 degree phisics is the name of the game!\r\n\r\nDRAWING UNIVERSE IS DRAWINGS!\r\nDraw planets on to the screen! You can also draw fire, water, ice and more kinds of planets!\r\n\r\nDRAWING UNIVERSE IS MULTIPLAYER!\r\nPlay against all of your friends! If you don't have enough controllers, you can use your phone or iPod as a gamepad! This means over 4 players parties!!!\r\n\r\nDRAWING UNIVERSE IS HUGE!\r\nIt has 100 normal levels + 100 Drawing Galaxy levels! There are also special levels for guest characters!\r\n\r\nDRAWING UNIVERSE HAS GUEST STARS!\r\nPlay as your favourite characters from other games and more!\r\n\r\nDRAWING UNIVERSE IS COMPLETELY FREE!\r\nThat's right, you don't have to pay a cent for Drawing Universe! Ever! Just my gift to you. Have a go, why not!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "9a6bb6fc-0da1-46e9-934e-8df4dea8bc9c",
+            "date": "2013-10-19T03:45:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b0dc197b-9259-4f42-9890-e68f66c19cf8\/com.ATG.DU\/9a6bb6fc-0da1-46e9-934e-8df4dea8bc9c\/YS2nFBoIRriv0w2xhB9W_DU1.0.0.apk",
+            "size": 18099132,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.atg.du\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pqDfbhURTB3H9a5RzBgG",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ntm6lFosQ3eqEqeOvarc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HPgCsyQsmYhhfAGJ6Hwa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xCTAS1fSEWyNVy4BLdjw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ntm6lFosQ3eqEqeOvarc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ntm6lFosQ3eqEqeOvarc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HPgCsyQsmYhhfAGJ6Hwa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HPgCsyQsmYhhfAGJ6Hwa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xCTAS1fSEWyNVy4BLdjw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xCTAS1fSEWyNVy4BLdjw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Alex Tritt Games",
+        "supportEmail": "nujuat@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.alextrittgames.com",
+    "firstPublishedAt": "2013-10-19T03:45:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Alex Tritt Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 42,
+        "average": 3.26,
+        "count": 98
+    }
+}

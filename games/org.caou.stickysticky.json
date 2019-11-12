@@ -1,0 +1,76 @@
+{
+    "packageName": "org.caou.stickysticky",
+    "title": "Sticky Sticky",
+    "description": "Control a sticky blob that doesn't suffer from gravity. Avoid unfriendly robots and reach the flag of each stage.\r\n\r\nChallenge friends in 2 players arenas.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "ef885b37-c221-4ddc-b1c6-58155a06b852",
+            "date": "2013-08-13T17:19:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/68967b51-87fc-409e-a3fe-bf23dba295ab\/org.caou.stickysticky\/ef885b37-c221-4ddc-b1c6-58155a06b852\/xQ3hxC9rT92uAlJOIGlD_v1.1%20StickySticky.apk",
+            "size": 6174937,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.caou.stickysticky\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fLADbVzR667JrfLdUauo",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5hhByPbuTPKAOifodsJs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/79Oc8jaSUKwp0IIoR7zg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/InST17bbQuWGOyVCQNVA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uKHEDAd0RQS1vpmpf9pV"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5hhByPbuTPKAOifodsJs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5hhByPbuTPKAOifodsJs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/79Oc8jaSUKwp0IIoR7zg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/79Oc8jaSUKwp0IIoR7zg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/InST17bbQuWGOyVCQNVA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/InST17bbQuWGOyVCQNVA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uKHEDAd0RQS1vpmpf9pV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uKHEDAd0RQS1vpmpf9pV\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "caou",
+        "supportEmail": "info@caou.org",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.caou.org",
+    "firstPublishedAt": "2013-08-06T16:14:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by caou.",
+    "premium": false,
+    "rating": {
+        "likeCount": 50,
+        "average": 3.34,
+        "count": 35
+    }
+}

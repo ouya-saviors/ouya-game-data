@@ -1,0 +1,93 @@
+{
+    "packageName": "com.spacefractal.greedymouse",
+    "title": "Genius Greedy Mouse",
+    "description": "GENIUS GREEDY MOUSE is a clay based puzzle game featuring a host of fun and challenging levels.\r\n\r\nYou are a mouse, a very, very hungry mouse, living in a large underground world. Luckily, your world is filled with the delightful cheeses that you so desire. If only you could just reach out and eat to your hearts content. \r\n\r\nv3.4: Removed Scoring system. You can now complete the levels on your own pacing. Stars is still rewarded on completed the levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "16.01.13",
+            "versionCode": 207,
+            "uuid": "36b86a11-91f8-4b5e-926e-28c1e7c9c254",
+            "date": "2016-01-15T20:34:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e10fd03d-9ec9-4caa-a3c0-fb27d5a7d196\/com.spacefractal.greedymouse\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/GMOBarxaRfKQsXz7wqYY_glbasic-release-for-market.apk",
+            "size": 34838985,
+            "md5sum": "9bacad8cc95bbb12c5223727701e7aa0",
+            "publicSize": 546793,
+            "nativeSize": 2900635
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GflATbQ4yTyd2xgRm0Qs",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qnEhj8XHQQ2fFFKsK123",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jesyM0vQUe5WCZEbG3l8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wNqGvyPbQBqr6schRz9S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a49o3tJYRrmmfgRbscMf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4llhrxbRXakxwWumQKCl"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/75yccx_ouya-screenshot20160114-3-1yawrp6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-1q4b6h6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/1im1x0_ouya-screenshot20160114-3-160ijm2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-14xy89t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/g728hq_ouya-screenshot20160114-3-1d2plfu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-hyhufg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/c56fwj_ouya-screenshot20160114-3-3skwrm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-1oso25n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/ft6sl4_ouya-screenshot20160114-3-n30vla.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-1ank6kg.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Space Fractal",
+        "supportEmail": "aibs@spacefractal.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/blog.spacefractal.com\/mobile-apps\/greedy-mouse\/",
+    "firstPublishedAt": "2013-09-10T18:44:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Space Fractal.",
+    "premium": false,
+    "rating": {
+        "likeCount": 81,
+        "average": 3.66,
+        "count": 137
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "greedymouse-premiumkey",
+            "name": "Unlock All Levels (Premium Key)",
+            "description": "This will unlock all levels. so you can access any levels in the game.\r\n\r\nThis was previous \"The Premium Key\"",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

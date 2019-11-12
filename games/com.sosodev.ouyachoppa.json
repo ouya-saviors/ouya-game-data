@@ -1,0 +1,71 @@
+{
+    "packageName": "com.sosodev.ouyachoppa",
+    "title": "GET TO THA CHOPPA!!1",
+    "description": "** THE XBOX 360 HIT NOW ON OUYA **\r\n\r\n* Join thousands of players already playing on OUYA\r\n* Show everyone your skill as you climb the online highscores\r\n* Controller support for OUYA, Xbox 360 and PS3\r\n\r\nZombie apocalypse has come to OUYA!!1 The Xbox 360 hit GET TO THA CHOPPA!!1 is now available on your new favorite console. Can you survive zombie hordes, landmines and heat seeking missiles to safely get to tha choppa in this twisted and addictive reaction game? Global highscores will put your skill to the ultimate test!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "c0fc4e34-d28d-4364-9467-54701b18cbe1",
+            "date": "2013-07-02T01:57:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1a76833b-29e0-48e9-a6e9-f4c415dddca5\/com.sosodev.ouyachoppa\/c0fc4e34-d28d-4364-9467-54701b18cbe1\/1kgTZZ6R5W63ilTy1tC1_com.sosodev.ouyachoppa-Signed.apk",
+            "size": 22331422,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sosodev.ouyachoppa\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w2kxG8SSE66tyUPKeNTs",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jq3UnP7qSRSsfzVsHcAa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pxEs2ORnTB6kTO1ke8M9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sKRkfT1yRo2FhKdQJNZM"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jq3UnP7qSRSsfzVsHcAa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jq3UnP7qSRSsfzVsHcAa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pxEs2ORnTB6kTO1ke8M9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pxEs2ORnTB6kTO1ke8M9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sKRkfT1yRo2FhKdQJNZM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sKRkfT1yRo2FhKdQJNZM\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SO SO DEV Games",
+        "supportEmail": "team@sosodev.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.sosodev.com",
+    "firstPublishedAt": "2013-06-14T22:43:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by SO SO DEV Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 197,
+        "average": 3.97,
+        "count": 243
+    }
+}

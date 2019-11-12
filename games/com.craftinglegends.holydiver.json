@@ -1,0 +1,75 @@
+{
+    "packageName": "com.craftinglegends.holydiver",
+    "title": "Holy Diver",
+    "description": "\u201cOne Grail is not enough.\u201d\r\n\r\nNow updated with new Grailcounter and even better gameplay.\r\n\r\nUpdate 1.1: \"There's more fish on the plate\"\r\n\r\n- adjusted difficulty\r\n- added second level\r\n- added more fish, bigger fish and faster fish\r\n- fixed some camera issues\r\n- grails are more shiny now\r\n- the old man still has no real life\r\n\r\nUse a Gamepad with Left Control Stick and \u2018O\u2019.\r\n\r\nThe game is pretty hard and has only this one level. But that\u2019s part of the design.\r\n\r\nWe were a team of three on the Ludum Dare 29 Jam and hope that you have as much fun playing this as we had building this.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "bc5e6fff-a8ee-4ba7-a1ce-29a137e25ad7",
+            "date": "2014-05-22T10:31:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ca658d93-f417-429d-81ed-92928e0bd28f\/com.craftinglegends.holydiver\/bc5e6fff-a8ee-4ba7-a1ce-29a137e25ad7\/WaqmxzZRpqV9p5PLmX68_holydiver.apk",
+            "size": 13386266,
+            "md5sum": "724895752150e6439b463ec620c4d951",
+            "publicSize": 223459,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.craftinglegends.holydiver\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qJNcOrcRem4Um0jKpCBw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7psY2pd1QJKpLgwvmVyP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zXJWC7UQ1OxQrGuFHidA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hjoxcn32T5WF7gHJpcnk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/etrR5fNRSaPvxW3GC2aX"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7psY2pd1QJKpLgwvmVyP",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7psY2pd1QJKpLgwvmVyP"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zXJWC7UQ1OxQrGuFHidA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zXJWC7UQ1OxQrGuFHidA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hjoxcn32T5WF7gHJpcnk",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hjoxcn32T5WF7gHJpcnk"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/etrR5fNRSaPvxW3GC2aX",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/etrR5fNRSaPvxW3GC2aX"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "New Media Games",
+        "supportEmail": "support@craftinglegends.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.craftinglegends.com\/games\/holy-diver\/",
+    "firstPublishedAt": "2014-05-05T20:00:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by New Media Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.03,
+        "count": 79
+    }
+}

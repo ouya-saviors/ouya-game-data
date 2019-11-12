@@ -1,0 +1,82 @@
+{
+    "packageName": "com.warnerskoch.vertexblaster",
+    "title": "Vertex Blaster",
+    "description": "Blast your way through a never-ending onslaught of relentless enemies in this addicting, action-packed arcade shooter! \r\n\r\nEarn points to upgrade your weapon and beat your high score in Arcade Mode! \r\n\r\nVaporize asteroids to protect your colonies from destruction in Meteor Shower Mode! \r\n\r\nDistract enemies with decoy bombs and see how long you can last in Survival Mode! \r\n\r\nUse the Time Warp special power to help you collect ammo pellets in Scavenger Mode!\r\n\r\nMake no mistake, you *will* die... The question is, how long can you last?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "2c3fd08e-598c-475c-a941-1459f0fe1f66",
+            "date": "2013-12-18T02:25:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/78799fce-036c-4657-9ed9-2cad3568f4bb\/com.warnerskoch.vertexblaster\/2c3fd08e-598c-475c-a941-1459f0fe1f66\/eg3yBHdjQAWIrR7fy9uM_VertexBlaster.apk",
+            "size": 39211905,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.warnerskoch.vertexblaster\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gCwIk2FnQsex3SaUOfE4",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/clZsaU8lRHeHOWPW2paQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xaV6Pl6nSv6g8lZAscPG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BAEyL4gxQLamMAcJpL3S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5ZOIfTdiPf2JKUUtXAAQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LWnlKj0RnijM1gQm2QTv"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/clZsaU8lRHeHOWPW2paQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/clZsaU8lRHeHOWPW2paQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xaV6Pl6nSv6g8lZAscPG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xaV6Pl6nSv6g8lZAscPG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BAEyL4gxQLamMAcJpL3S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BAEyL4gxQLamMAcJpL3S\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5ZOIfTdiPf2JKUUtXAAQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5ZOIfTdiPf2JKUUtXAAQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LWnlKj0RnijM1gQm2QTv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LWnlKj0RnijM1gQm2QTv\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Warner Skoch",
+        "supportEmail": "support@vertexblaster.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.vertexblaster.com",
+    "firstPublishedAt": "2013-12-03T02:03:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Warner Skoch.",
+    "premium": false,
+    "rating": {
+        "likeCount": 106,
+        "average": 4.02,
+        "count": 202
+    }
+}

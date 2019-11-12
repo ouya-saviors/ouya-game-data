@@ -1,0 +1,92 @@
+{
+    "packageName": "com.joystick.smrpg",
+    "title": "Saturday Morning RPG",
+    "description": "Saturday Morning RPG is an episodic role-playing game set in world heavily inspired by 1980s Saturday morning cartoons. Players take the role of Martin \"Marty\" Michael Hall, an average high-school student who has just been granted an incredible power. This power leads him to attract the ire of the world's most notorious villain, Commander Hood. \r\n\r\nTech Specs:\r\n\r\n    \u2022    Episodic Gameplay: The story and gameplay of Saturday Morning RPG takes place across several episodes, each of which tells a complete self-contained story. Players can play any episode in any order, at any time! All of your stats and items carry between episodes. It\u2019s a unique spin on the tried and true New Game Plus mode. On top of that, small decisions made in some episodes will carry forth into others \u2013 adding a layer of replay to each episode. \u2028\r\n\r\n    \u2022    Active Turn-Based Combat: Saturday Morning RPG draws quite a bit of inspiration of games like Nintendo\u2019s Paper Mario series. Battles in the game are turn-based, but the player is always participating by actively defending against attacks and completing reflex tests to power up their own assaults. \u2028\r\n\r\n    \u2022    Defeat Enemies With Regular Stuff: Marty fights all his battles in the game by channeling magic through everyday objects. Use a pack of striped gum to summon rainbow zebras that trample your foes \u2013 or call upon a transforming action figure to morph you into a semi-truck! \u2028\r\n\r\n    \u2022    Nostalgia Fueled Everything: Everything in Saturday Morning RPG centers on nostalgia. Marty receives his magical abilities thanks to a certain kind of garish plastic notebook, he can equip scratch \u2018n sniff stickers to get statistical boosts, and he\u2019ll traverse worlds inspired by the entire gamut of Saturday morning cartoons. \u2028\r\n\r\n    \u2022    Endless Battle Mode: Take on wave after wave of enemies in an endless survival mode where resource management becomes everything! \u2028\r\n\r\n    \u2022    Quests: Each episode of the game features several optional side-quests that the player can complete to earn extra items and experience. \u2028\r\n\r\n    \u2022    Radical Soundtrack: Saturday Morning RPG features a full soundtrack from legendary composers Vince DiCola (Rocky IV, Transformers: The Movie) and Kenny Meriedeth (contributor for Duck Tales, Power Rangers, X-Men, and more).",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.3.3",
+            "versionCode": 0,
+            "uuid": "b2606592-153d-428d-82cf-47d928203a05",
+            "date": "2013-08-19T20:00:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/dce17c0d-4431-48ab-bffb-0a4238ceb4e5\/com.joystick.smrpg\/b2606592-153d-428d-82cf-47d928203a05\/2VNS8hPkSi6Zp7M2mdTS_SMRPG_Ouya_August16.apk",
+            "size": 109591561,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.joystick.smrpg\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sg8NCqVjSmuNRqLUxGLZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XxQnJImQzeTSHVPp6HOA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FpCtlk62R0ucwJBm13jx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EzKc6ApsRRq6CDc9Ix3C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q778uLsLRCi4ZPLVrytF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QFUZ3qxS0iWWDgzm1wox"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XxQnJImQzeTSHVPp6HOA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XxQnJImQzeTSHVPp6HOA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FpCtlk62R0ucwJBm13jx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FpCtlk62R0ucwJBm13jx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EzKc6ApsRRq6CDc9Ix3C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EzKc6ApsRRq6CDc9Ix3C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Q778uLsLRCi4ZPLVrytF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Q778uLsLRCi4ZPLVrytF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QFUZ3qxS0iWWDgzm1wox\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QFUZ3qxS0iWWDgzm1wox\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mighty Rabbit Studios",
+        "supportEmail": "mail@mightyrabbitstudios.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.mightyrabbitstudios.com",
+    "firstPublishedAt": "2013-03-27T13:58:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Mighty Rabbit Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 644,
+        "average": 4.28,
+        "count": 184
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SMRPG_Deluxe",
+            "name": "Saturday Morning RPG Full Game Unlock",
+            "description": "This unlocks the full version of Saturday Morning RPG.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

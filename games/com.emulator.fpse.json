@@ -1,0 +1,72 @@
+{
+    "packageName": "com.emulator.fpse",
+    "title": "FPse",
+    "description": "FPse is the most advanced PSone emulator.\r\nIt support hundreds of PSone games and includes many exclusive features.\r\nFPse is able to run many games in OpenGL high resolution.\r\nIt emulates sound like the original console, rendering at full speed on Tegra 3 or above.\r\nGames are not provided with Emulator.\r\nScreenshot are just an example of what your will have with FPse by running your games.",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "0.11.190",
+            "versionCode": 720,
+            "uuid": "afac9524-d1fd-413c-a184-36350a1be5e7",
+            "date": "2017-09-14T16:58:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b7c69efa-dd2e-406f-b571-0876d4fb5843\/com.emulator.fpse\/afac9524-d1fd-413c-a184-36350a1be5e7\/xqQ9adOuSg2W6fRzceEb_FPse0.11.190_ouya.apk",
+            "size": 7116866,
+            "md5sum": "818ee3fe71370ac983283926234e920e",
+            "publicSize": 4559260,
+            "nativeSize": 5302760
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k2IRsUi1R8St31Df0BFv",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HjpX5mMhQ5yiBkY75yAB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6s6pJWBQqKQNsIYyyLgA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f5Oa0CyZQh2yVrop83ZF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/ouya-image20170907-3-19vjtnt",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/thumbnail20170907-3-17lqq4q.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/ouya-image20170907-3-1xprk64",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/thumbnail20170907-3-19t6q0w.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/ouya-image20170907-3-klg5hj",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/thumbnail20170907-3-kqa1de.png"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "EDSSOFT Limited",
+        "supportEmail": "edssoftltd@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.fpsece.net",
+    "firstPublishedAt": "2013-06-17T22:38:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2017 by EDSSOFT Limited.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1726,
+        "average": 4.11,
+        "count": 1788
+    }
+}

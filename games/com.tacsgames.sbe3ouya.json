@@ -1,0 +1,87 @@
+{
+    "packageName": "com.tacsgames.sbe3ouya",
+    "title": "Super Brain Eat 3.5",
+    "description": "Guide 'Gutsy' through the dungeon mazes to eat all the hearts and brains. Avoid deadly traps and evil Jelly Monsters. Spit deadly magic and munch away! Retro action-arcade fun!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2757baac-79f4-4e48-9f6e-e10b2988669e",
+            "date": "2014-03-06T15:41:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1c95b6ae-4005-4541-bd20-2fff4d78f79e\/com.tacsgames.sbe3ouya\/2757baac-79f4-4e48-9f6e-e10b2988669e\/xrkzo3ggRdmfsvSB28WH_SBE3Ouya.apk",
+            "size": 6881036,
+            "md5sum": "dbb80c55996addc0539de1573819337c",
+            "publicSize": 225847,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tacsgames.sbe3ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zCPSjmQVSZG40U3M3c8W",
+        "video": "https:\/\/vimeo.com\/84266600",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ETBHx9TDQUGOSwRl0Kl4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OEDk3TbxSiWlfeiFMMBL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/izYtlsVgSyWAKw4uAr2h",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AvvrrX7RmpmcFdO8YOrQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VvMYlNWQRPG0JFXKo2wu"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84266600"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ETBHx9TDQUGOSwRl0Kl4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ETBHx9TDQUGOSwRl0Kl4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OEDk3TbxSiWlfeiFMMBL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OEDk3TbxSiWlfeiFMMBL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/izYtlsVgSyWAKw4uAr2h\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/izYtlsVgSyWAKw4uAr2h\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AvvrrX7RmpmcFdO8YOrQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AvvrrX7RmpmcFdO8YOrQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VvMYlNWQRPG0JFXKo2wu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VvMYlNWQRPG0JFXKo2wu\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TACS Games",
+        "supportEmail": "thom@thom.mobi",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/tacsgames.com",
+    "firstPublishedAt": "2013-12-13T17:24:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by TACS Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 3.29,
+        "count": 24
+    }
+}

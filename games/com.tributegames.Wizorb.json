@@ -1,0 +1,77 @@
+{
+    "packageName": "com.tributegames.Wizorb",
+    "title": "Wizorb",
+    "description": "The once peaceful Kingdom of Gorudo is threatened by an evil presence. The only hope for salvation is Cyrus, a wizard versed in a secret magic art called Wizorb! Explore many strange places from the derelict monster infested town of Clover to Gorudo Castle atop Cauldron Peak. Danger lurks around every corner so you'll need to keep your wits about you and have quick reflexes in order to survive.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.15",
+            "versionCode": 0,
+            "uuid": "d22ba7fc-0365-46b7-99ee-cd6ed6ecfba7",
+            "date": "2013-09-06T14:41:48Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d531b35-9f5d-42f8-86c4-5c299e3d6f37\/com.tributegames.Wizorb\/d22ba7fc-0365-46b7-99ee-cd6ed6ecfba7\/BTc2x5CCTG2gMeJNrBQW_com.tributegames.Wizorb-Signed.apk",
+            "size": 35316831,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tributegames.wizorb\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eAkjBSETTaio8JFtMVEK",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SNGqA5iRSz2I9t6dbJgz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IOv1wE7NT3ydsSNlIc7C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w9YmU1o8TXuato6Gq0cD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/caYwde4WSSC5B0AZU9Uk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SNGqA5iRSz2I9t6dbJgz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SNGqA5iRSz2I9t6dbJgz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IOv1wE7NT3ydsSNlIc7C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IOv1wE7NT3ydsSNlIc7C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w9YmU1o8TXuato6Gq0cD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w9YmU1o8TXuato6Gq0cD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/caYwde4WSSC5B0AZU9Uk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/caYwde4WSSC5B0AZU9Uk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tribute Games Inc.",
+        "supportEmail": "info@tributegames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/wizorb.com",
+    "firstPublishedAt": "2013-03-28T04:10:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Tribute Games Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 413,
+        "average": 4.01,
+        "count": 178
+    }
+}

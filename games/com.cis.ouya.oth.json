@@ -1,0 +1,88 @@
+{
+    "packageName": "com.cis.ouya.oth",
+    "title": "One Tap Hero",
+    "description": "Metacritic's score 84 and 10 best iPhone Games for August 2012!\r\nTouchArcade's Best iOS Games of August\r\nFinalist of IGF China 2011\r\nNow, we bring the game to Ouya!\r\n\r\nPlatforming has never felt so simple\u2026\r\nAn evil wizard has turned your sweetheart into a teddy bear and the only way to save her is to collect stars and use their power to change her back. Time for a top tapping adventure!\r\n\r\n\u2022 One-button control \r\nControls couldn't be simpler. Just tap any key of \"O\",\"U\",\"Y\"or\"A\" to jump, tap to climb ladders, tap to\u2026do pretty much everything! With these super simple controls this platforming game becomes all about timing and foresight! \r\n\r\n\u2022 WONDERFUL WORLDS\r\nYour adventure will take you to four unique game worlds, each with their own challenges and elements from portals to switches and more! Collect keys along your way to unlock bonus levels.\r\n\r\n\u2022 RELAXING\r\nSit back and relax with the soothing, melodic soundtrack and sound FX in One Tap Hero. It's perfect for a 5 minute blast or a long gaming session! ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "78e136ca-3d5c-4006-bc23-ed1b1882fa3e",
+            "date": "2013-04-30T06:45:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/11eea1b4-feff-4194-8560-7a794df59d1a\/com.cis.ouya.oth\/78e136ca-3d5c-4006-bc23-ed1b1882fa3e\/LYHhHTF0R7S6VagrgUUH_OneTapHero_OUYA.apk",
+            "size": 48662411,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cis.ouya.oth\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BtHHPnBRTNWeR14ZG1v3",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ugRbT3vQTpuTQzKHEVvc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UqU2Ff3ATOyXK9yLaayH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZeSAIMwSeWQoKyr4UrkY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E5OCsquSRRG4hwOyoF8H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yLIEUljmSGyPP8p89ooQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u2ylxqiTJWQN49VBd3An"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ugRbT3vQTpuTQzKHEVvc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ugRbT3vQTpuTQzKHEVvc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UqU2Ff3ATOyXK9yLaayH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UqU2Ff3ATOyXK9yLaayH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZeSAIMwSeWQoKyr4UrkY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZeSAIMwSeWQoKyr4UrkY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/E5OCsquSRRG4hwOyoF8H\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/E5OCsquSRRG4hwOyoF8H\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yLIEUljmSGyPP8p89ooQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yLIEUljmSGyPP8p89ooQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/u2ylxqiTJWQN49VBd3An\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/u2ylxqiTJWQN49VBd3An\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Coconut Island Studio",
+        "supportEmail": "support@coconutislandstudio.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.coconutislandstudio.com",
+    "firstPublishedAt": "2013-03-24T20:17:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Coconut Island Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 155,
+        "average": 3.76,
+        "count": 111
+    }
+}

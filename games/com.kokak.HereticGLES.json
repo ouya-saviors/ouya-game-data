@@ -1,0 +1,97 @@
+{
+    "packageName": "com.kokak.HereticGLES",
+    "title": "HereticGLES",
+    "description": "HereticGLES is an unofficial 3D hardware accelerated source port of the Heretic Engine.\nIn Heretic, You are one of the last Sidhe elves. D'Sparil, the Serpent Rider, with its minions destroyed your civilization. Now, you will take revenge.\n\n!!! ORIGINAL GAMES DATA ARE NOT PRESENT IN THIS RELEASE !!!\n\nIf you choose to not pay, you will have access to the full demo episode, and the first level of any other WAD. Also, only the first two maps of the demo will always have the extra features (lighting, 3D monsters, etc.). On any other map, each day, you will have about 2 minutes of gameplay with the extra features. To access the full Heretic game, please follow this link: http:\/\/kokak.free.fr\/android\/HereticGLES_Ouya.htm#install\n\nThis app is a source port released under the GPL license. \"Heretic\" is a trademark of \"Raven Software\". All trademarks are used under the terms of fair use: usage is nominative. Kokak is not connected with \"Raven Software\".",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.03",
+            "versionCode": 0,
+            "uuid": "df267250-b545-4a3a-9a78-b3def05319a5",
+            "date": "2015-05-20T18:48:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/072e635c-1d47-4636-8162-84c3564242bd\/com.kokak.HereticGLES\/df267250-b545-4a3a-9a78-b3def05319a5\/UxkdeTaQRZDDgj1dWuuX_HereticGLESV1103_Ouya.apk",
+            "size": 20164614,
+            "md5sum": "4000eab9c2b208769caa07145ab9d2b7",
+            "publicSize": 455001,
+            "nativeSize": 830956
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.hereticgles\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GvlUeTr0TSZ1KAC2Gjk7",
+        "video": "https:\/\/vimeo.com\/127816923",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P65GnCozRNqP4pCMAKVu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nRSjHiMvQ7eZdBZBQC2B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3k5su7GSAqeuwOQSEiDx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O1yY3XBcSaW5pwItKHtU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nH0mEqyRBGgeqOC429ny"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/127816923"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P65GnCozRNqP4pCMAKVu",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P65GnCozRNqP4pCMAKVu"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/dpn78e_ouya-screenshot20150516-3-1og13ky.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/thumbnails\/thumbnail20150516-3-1t1ms6l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/8c0b6z_ouya-screenshot20150516-3-dzpru2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/thumbnails\/thumbnail20150516-3-15fbiw2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/cxp08v_ouya-screenshot20150516-3-1vm24bq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/thumbnails\/thumbnail20150516-3-55p1b9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/oktqqy_ouya-screenshot20150516-3-gsxnql.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df267250-b545-4a3a-9a78-b3def05319a5\/thumbnails\/thumbnail20150516-3-xlfhen.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Michael Ryssen",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "",
+    "firstPublishedAt": "2015-05-20T18:48:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2015 by Michael Ryssen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 38
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HGLES",
+            "name": "HereticGLES",
+            "description": "You are about to purchase the full version of HereticGLES.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "packageName": "com.ianmarriottt.litl",
+    "title": "Look Into the Light",
+    "description": "The mind is a powerful place. We create worlds inside our head to escape from the truth.\r\n\r\nA first-person psychological game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Meditative",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "77f7304c-59b8-4b00-a951-6814619b7436",
+            "date": "2013-10-30T20:29:59Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e11ba3bc-63a7-4613-a84f-98cda4f4be5a\/com.ianmarriottt.litl\/77f7304c-59b8-4b00-a951-6814619b7436\/nvlI3uMBSHSPlh8zrPCb_litl014.apk",
+            "size": 34498338,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ianmarriottt.litl\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eraoGq71STSL7G50Jqgv",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qL7UG8BCS0eHlpirrcPa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hCKtDJhQYG3GbxcR41qC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aLgqYlWRUmPxYdDPgzeQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eBVOZoaLQ62Gr76jGBnA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aWApJe7DQmq3a1Z774oU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e4NTlUUQTdasxfQVq40K"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qL7UG8BCS0eHlpirrcPa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qL7UG8BCS0eHlpirrcPa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hCKtDJhQYG3GbxcR41qC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hCKtDJhQYG3GbxcR41qC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aLgqYlWRUmPxYdDPgzeQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aLgqYlWRUmPxYdDPgzeQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eBVOZoaLQ62Gr76jGBnA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eBVOZoaLQ62Gr76jGBnA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aWApJe7DQmq3a1Z774oU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aWApJe7DQmq3a1Z774oU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/e4NTlUUQTdasxfQVq40K\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/e4NTlUUQTdasxfQVq40K\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "EyeSix Games",
+        "supportEmail": "support@eyesixgames.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.eyesixgames.co.uk",
+    "firstPublishedAt": "2013-10-30T20:29:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by EyeSix Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 78,
+        "average": 2.12,
+        "count": 125
+    }
+}

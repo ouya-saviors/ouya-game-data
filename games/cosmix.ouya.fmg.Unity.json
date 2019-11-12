@@ -1,0 +1,69 @@
+{
+    "packageName": "cosmix.ouya.fmg.Unity",
+    "title": "Cosmix",
+    "description": "Cosmix is an arcade shoot 'em up. Influenced by old retro arcade machines Cosmix is just an shoot em up where you can show you skills. Try to survive as many stages as you can. Play alone or together with a friend and defend planet earth against the invaders ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "7c01e7b9-8bb9-4c28-98eb-066dfd4b942e",
+            "date": "2014-05-02T19:19:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/30c79ce0-6266-4899-9970-ecc02a0010e2\/cosmix.ouya.fmg.Unity\/7c01e7b9-8bb9-4c28-98eb-066dfd4b942e\/d5IEyYnQWuMVKH84qtOz_CosmixOuyaV3_2014.apk",
+            "size": 14850630,
+            "md5sum": "7034133bfd561139d835264bdc903053",
+            "publicSize": 64875,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/cosmix.ouya.fmg.unity\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ObYaQehvRz6b19LFQYzG",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KONr5TBISqFjvZzN76Ep",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pa9NXuWnR2SwtjcKWhgH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ae9Up5M1Tm6tP1qoo25e"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KONr5TBISqFjvZzN76Ep\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KONr5TBISqFjvZzN76Ep\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pa9NXuWnR2SwtjcKWhgH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pa9NXuWnR2SwtjcKWhgH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ae9Up5M1Tm6tP1qoo25e\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ae9Up5M1Tm6tP1qoo25e\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Freak Mind Games",
+        "supportEmail": "memorixpilgrim@yahoo.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.indiedb.com\/games\/cosmix",
+    "firstPublishedAt": "2014-05-02T19:19:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Freak Mind Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.95,
+        "count": 39
+    }
+}

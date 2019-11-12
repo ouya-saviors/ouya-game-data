@@ -1,0 +1,104 @@
+{
+    "packageName": "hardheadgames.WorldDestroyers",
+    "title": "World Destroyers",
+    "description": "World Destroyers is a fast-paced, skill-testing, multiplayer space shooter that pays homage to classic games such as Asteroids.\r\n\r\nUp to four players can team up to save Earth in Story mode, or see how far they can get in the endless Horde and Retro modes.  And of course, bring out the trash talk in fully customizable Battle mode. \r\n\r\nWhen an unusually large cluster of asteroids heads towards Earth, command sends a small fleet of spacecraft to shoot them down.  It quickly becomes clear that not all is as it seems. An alien species with sinister intentions threatens to destroy our solar system.  ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.06",
+            "versionCode": 0,
+            "uuid": "a84b5e05-c5f3-465f-9b9b-ec0ee227ef62",
+            "date": "2014-05-16T22:16:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8ec9cc51-97df-46f3-8208-324cb285923e\/hardheadgames.WorldDestroyers\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/euyh9eSlQj6K5W5xB70S_hardheadgames.WorldDestroyers.apk",
+            "size": 226484662,
+            "md5sum": "eb748239aa5cd8d6f4cdb54fe75adbee",
+            "publicSize": 543263,
+            "nativeSize": 2924816
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/hardheadgames.worlddestroyers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PS7ZBawZST64rQZYRtAE",
+        "video": "https:\/\/vimeo.com\/90471558",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cEXKyPmRHmbO3mg3XMiA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/psoCKyG6RuzxjFy2CtZ4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AMKG4NcMQTn4YOdYWOBn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kq5sGy0bREi0joo9fj9v",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HjE0fcEXSCCpubdlxoYU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AELsZ9CETLeGGruUD7xJ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90471558"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/lr22og_ouya-screenshot20140512-2-1rceidm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/thumbnails\/thumbnail20140512-2-11rqvsv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/1s4ucs_ouya-screenshot20140512-2-1ydg3ql.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/thumbnails\/thumbnail20140512-2-1swgow3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/sob509_ouya-screenshot20140512-2-zc8m3a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/thumbnails\/thumbnail20140512-2-1w9ltz1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/ww42qg_ouya-screenshot20140512-2-4jo6yz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/thumbnails\/thumbnail20140512-2-1ap7ogc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/8fm0ww_ouya-screenshot20140512-2-1w5peu0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/thumbnails\/thumbnail20140512-2-1gi50dx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/98orhn_ouya-screenshot20140512-2-pndw11.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a84b5e05-c5f3-465f-9b9b-ec0ee227ef62\/thumbnails\/thumbnail20140512-2-k4h1wi.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "HardHead Games",
+        "supportEmail": "support@hardheadgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.HardHeadGames.com",
+    "firstPublishedAt": "2014-03-15T15:45:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by HardHead Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 2.87,
+        "count": 31
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "FULLGAME",
+            "name": "World Destroyers Full Version",
+            "description": "Unlock the full version of World Destroyers and support HardHead Games.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

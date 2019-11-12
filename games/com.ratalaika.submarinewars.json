@@ -1,0 +1,81 @@
+{
+    "packageName": "com.ratalaika.submarinewars",
+    "title": "Submarine Wars",
+    "description": "The game play focuses around the idea of how a sonar works.\r\nYou control a submarine in a completely dark map. You can use your sonar to discover the map around you.\r\nBe aware of the ground!!\r\nYou have two different attacks, you can send a torpedos and leave floating mines.\r\nTry to not waste or of your batteries or you will be in complete darkness...\r\n\r\nFeatures\r\n* Unique game play\r\n* Pseudo randomly generated maps\r\n* Cool music\r\n* Local multiplayer from 2 to 4 players\r\n* Ps3 and Xbox360 controller support",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "6f505bf9-d196-4925-81ef-4fccf4d172e7",
+            "date": "2014-12-01T21:52:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3d2464b2-45c9-455a-8d0e-654ec87c74b0\/com.ratalaika.submarinewars\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/lMKSqwgZSdSqYxHZCRJl_submarinewars-ouya.apk",
+            "size": 10679483,
+            "md5sum": "f4f28ab76827845362394ac4260c527d",
+            "publicSize": 55836,
+            "nativeSize": 2027144
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CUuucfH0REuuLvf0GGdA",
+        "video": "https:\/\/vimeo.com\/113197276",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FLQmwzorRQicqm4ckzH1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MpYlOs3WT3KXzVwO25Lw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qJYZAvZlQvOKU24QifeG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bivugExJTy6jStxTNIZg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/113197276"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/ytbthn_ouya-screenshot20141129-2-1f5mmqo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-qipdbi.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/aaeczw_ouya-screenshot20141129-2-gfsfzj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-19mrbhm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/kxq2t4_ouya-screenshot20141129-2-438i0l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-xbj6ae.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/gexf98_ouya-screenshot20141129-2-ki446.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-19yhk5m.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "3d2464b2-45c9-455a-8d0e-654ec87c74b0",
+        "name": "Ratalaika Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.ratalaika.com",
+    "firstPublishedAt": "2014-12-01T21:52:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Ratalaika Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.75,
+        "count": 16
+    }
+}

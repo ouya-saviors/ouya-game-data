@@ -1,0 +1,86 @@
+{
+    "packageName": "com.mattrifiedgames.battlehigh2",
+    "title": "Battle High 2",
+    "description": "Welcome to San Bruno High School for The Elementally Advanced!\r\n\r\nA new breed of human had evolved -- one that could not only manipulate the elements of earth, fire, sky, water, and electricity, but manifest them as well. This comic-book-like phenomenon was investigated by government and scientists for years, but their work always came back inconclusive as to how or why some individuals were able to command the elements in such a way.\r\n\r\nThese individuals, dubbed Elementals, faced severe segregation and prejudice from a terrified public. Peaceful protests ensued, and soon, the fear mongering disappeared in many areas except for a few, one of which was schools. Schools were still separated between normal and elemental children because of the actual danger posed by Elementals just learning to use their powers.\r\n\r\nOne of these schools is known as San Bruno where Elementals learn all the things that normal American students do but also to harness and control their powerful abilities, known as Elemental Chi. There, a dangerous gang known as \"The Rivals\" resides. Made up of the most popular and dangerous students, they rule the school, under the radar of the faculty, striking fear into others. Some strive to stop their reign of intimidation while others just try to survive.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "2.4.1.1",
+            "versionCode": 1,
+            "uuid": "eaaab2d3-5611-4b8d-8727-a30152391610",
+            "date": "2016-01-08T17:33:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3d636e24-dfd4-42bc-a208-8fcd3d5f9b06\/com.mattrifiedgames.battlehigh2\/eaaab2d3-5611-4b8d-8727-a30152391610\/SabBqzdHRYCrlafbdqdH_OUYA_BH2_2016_01_05_Razor.apk",
+            "size": 167492843,
+            "md5sum": "d8a198937aea4ef3e4a31cc3eca6607c",
+            "publicSize": 649793,
+            "nativeSize": 18184808
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZHoFx8hEQmW53HtOs1ey",
+        "video": "https:\/\/vimeo.com\/129183089",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zOxKeRfTNOr6u88I3T6b",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Kw9JLw6WQbGBFuxvvxA6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hptFQwfnRzOblCxGiRl8"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/129183089"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/wtpxxi_ouya-screenshot20160106-3-y6po5l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/thumbnails\/thumbnail20160106-3-ikl36b.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/9uhs69_ouya-screenshot20160106-3-1y1ueuj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/thumbnails\/thumbnail20160106-3-fv76wc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/j9cset_ouya-screenshot20160106-3-1ddsjyb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/thumbnails\/thumbnail20160106-3-m9bito.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "3d636e24-dfd4-42bc-a208-8fcd3d5f9b06",
+        "name": "Mattrified Games, LLC",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.mattrifiedgames.com",
+    "firstPublishedAt": "2014-12-23T21:30:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Mattrified Games, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 246
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BH2-Full-Game",
+            "name": "Battle High 2 - Full Game",
+            "description": "Unlock the full version of Battle High 2, which includes the entire cast of characters and modes.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

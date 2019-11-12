@@ -1,0 +1,87 @@
+{
+    "packageName": "com.tuokio.raidingco",
+    "title": "Raiding Company - Co-op Arcade Shooter!",
+    "description": "Raiding Company is a classic co-op multiplayer arcade shooter game that features six characters and five missions in Egypt. Special Survival and Defense game modes provide endless fun! Are you ready to raid with friends? \r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "2.0",
+            "versionCode": 0,
+            "uuid": "6d2aa92d-c529-4903-a8c1-bdf166b6126d",
+            "date": "2013-09-20T07:04:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/461b7555-8437-4207-86b0-616b511d48bc\/com.tuokio.raidingco\/6d2aa92d-c529-4903-a8c1-bdf166b6126d\/py8HIF7xTVWe5FmXu8xw_RaidingCompany.apk",
+            "size": 32739148,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tuokio.raidingco\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LYTTFo4KSZH2CnISEAhw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4NhM8H8bREuhCobfUmen",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rn2cAWd2Qfi926AQ5w1S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mOK5Z0h0TKe5DenBQ7ig",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zgI1o7gaS56SxzGgu9ei"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4NhM8H8bREuhCobfUmen\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4NhM8H8bREuhCobfUmen\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Rn2cAWd2Qfi926AQ5w1S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Rn2cAWd2Qfi926AQ5w1S\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mOK5Z0h0TKe5DenBQ7ig\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mOK5Z0h0TKe5DenBQ7ig\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zgI1o7gaS56SxzGgu9ei\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zgI1o7gaS56SxzGgu9ei\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tuokio",
+        "supportEmail": "info@tuokio.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.tuokio.com",
+    "firstPublishedAt": "2013-09-20T07:04:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Tuokio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 151,
+        "average": 3.45,
+        "count": 285
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "raid_game_full",
+            "name": "Full Game: Raiding Company",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

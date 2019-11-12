@@ -1,0 +1,81 @@
+{
+    "packageName": "com.ama.escapeOUYA.F2P",
+    "title": "Escape",
+    "description": "Play limitless zen-like puzzles!\r\n\r\nDiscover a new gameplay experience with optimized controls for OUYA!\r\n\r\nNorm is stuck and he needs your help! Move him up, down, left and right, without retracing your steps and eliminate each stone in the sequence. This crazily addictive game will keep you going for hours and hours!\r\n\r\n\u2022Minimal and stylish graphics for maximum appeal.\r\n\u2022Simple controls for all ages.\r\n\u2022Surprisingly addictive.\r\n\u2022Dozens of levels to get you started.\r\n\u2022A unique brain teaser, complimented by relaxing audio and visual effects.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "7effb8c2-53da-4d5f-bc38-a3af4b7b31c4",
+            "date": "2013-03-27T15:29:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/188e60f2-e940-46c9-890c-8c424bbb5007\/com.ama.escapeOUYA.F2P\/7effb8c2-53da-4d5f-bc38-a3af4b7b31c4\/28Urs8eLR4CvtK0D86cn_20130326_Escape_OUYA_F2P_IAPLIVE.apk",
+            "size": 3876839,
+            "md5sum": "de1e805c194dcc5e4cdca34dd9ff45db",
+            "publicSize": 2673084,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ama.escapeouya.f2p\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fXYIrcUQr2QdmYwQBvMg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9R7DDXr2TNO28StClTC4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qASV382WSsitrc5U73q8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h1sCP0ffRhCTeAwLiDr7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FyjSChP4Qfumaku6YLhM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kqmSHqATPevJrK1cZIc9"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9R7DDXr2TNO28StClTC4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9R7DDXr2TNO28StClTC4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qASV382WSsitrc5U73q8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qASV382WSsitrc5U73q8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/h1sCP0ffRhCTeAwLiDr7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/h1sCP0ffRhCTeAwLiDr7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FyjSChP4Qfumaku6YLhM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FyjSChP4Qfumaku6YLhM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kqmSHqATPevJrK1cZIc9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kqmSHqATPevJrK1cZIc9\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Advanced Mobile Applications Ltd.",
+        "supportEmail": "customersupport@ama.us",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.ama-studios.com",
+    "firstPublishedAt": "2013-03-27T15:29:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Advanced Mobile Applications Ltd..",
+    "premium": false,
+    "rating": {
+        "likeCount": 90,
+        "average": 3.85,
+        "count": 26
+    }
+}

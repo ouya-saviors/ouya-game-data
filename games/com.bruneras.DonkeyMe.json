@@ -1,0 +1,83 @@
+{
+    "packageName": "com.bruneras.DonkeyMe",
+    "title": "Donkey Me",
+    "description": "Donkey-Me is a collection of classic movie themes that play with a Donkey Kong arcade style look.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "dca7ed6a-397c-492a-8a85-ef87c7c2ba9a",
+            "date": "2013-11-23T08:23:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ca4cc2f8-40f7-4e84-b07e-676085fb4356\/com.bruneras.DonkeyMe\/dca7ed6a-397c-492a-8a85-ef87c7c2ba9a\/NfpXiZrDSwmvcq7cEIgc_DonkeyMe_OUYA.apk",
+            "size": 17705768,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bruneras.donkeyme\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NLKnZY1pRzevSCNxqumx",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kzCop2mrRAaHJ96HAOdK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zfMjwQdSEqXQm7TtTGaA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mBYWK9NR5qMijgIgOQQ1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LuZwkBFqRk6DfonMjyYc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Oh2jLsaKRiiw0t1e0d08"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kzCop2mrRAaHJ96HAOdK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kzCop2mrRAaHJ96HAOdK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zfMjwQdSEqXQm7TtTGaA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zfMjwQdSEqXQm7TtTGaA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mBYWK9NR5qMijgIgOQQ1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mBYWK9NR5qMijgIgOQQ1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LuZwkBFqRk6DfonMjyYc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LuZwkBFqRk6DfonMjyYc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Oh2jLsaKRiiw0t1e0d08\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Oh2jLsaKRiiw0t1e0d08\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Bruno R. Marcos",
+        "supportEmail": "contact@bruneras.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.bruneras.com\/games_donkeyme.php",
+    "firstPublishedAt": "2013-11-23T08:23:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Bruno R. Marcos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 306,
+        "average": 4.17,
+        "count": 1146
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "packageName": "com.sparcksoft.msflapperbird",
+    "title": "Ms Flapper Bird",
+    "description": "Help Ms Flapper Bird get through the obstacles, she gets tired, so watch out!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "3",
+            "versionCode": 0,
+            "uuid": "cfb3ee51-27d8-426a-ba8d-76f58d241fa8",
+            "date": "2014-04-25T02:40:15Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/780e24bf-59c4-496c-b843-99128f75c4e9\/com.sparcksoft.msflapperbird\/cfb3ee51-27d8-426a-ba8d-76f58d241fa8\/LUcZDYCUTZSkm6D8KMjl_FLAPPYGIRL%20OUYA%202%20fixed.apk",
+            "size": 1489871,
+            "md5sum": "62d284d6f89b9fffbe209cb89381e4d3",
+            "publicSize": 269685,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sparcksoft.msflapperbird\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y1HFxMcQLGy6A1sxJgDe",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PNKPUR1SSWPO4OEmATxw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A6vbbDsPSWqj68kTY1zy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gxm55sHiSayPf36d5ENm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ByQlxbMWQkyfme2s973m",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RRnUFoAGTgyyrDbH6Z8l"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PNKPUR1SSWPO4OEmATxw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PNKPUR1SSWPO4OEmATxw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A6vbbDsPSWqj68kTY1zy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A6vbbDsPSWqj68kTY1zy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gxm55sHiSayPf36d5ENm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gxm55sHiSayPf36d5ENm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ByQlxbMWQkyfme2s973m\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ByQlxbMWQkyfme2s973m\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RRnUFoAGTgyyrDbH6Z8l\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RRnUFoAGTgyyrDbH6Z8l\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SparckSoft",
+        "supportEmail": "info@sparckman.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/sparckman.net",
+    "firstPublishedAt": "2014-04-25T02:40:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by SparckSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.95,
+        "count": 74
+    }
+}

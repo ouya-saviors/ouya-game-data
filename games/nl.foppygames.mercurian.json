@@ -1,0 +1,82 @@
+{
+    "packageName": "nl.foppygames.mercurian",
+    "title": "Mercurian",
+    "description": "As the Mercurian you have travelled a long way... only to find yourself confronted by a huge alien cave defense force. Use your 4-way autofire gun and special weapons to destroy as many opponents as you can. This horizontal SHMUP features rapidly increasing levels of difficulty and a monthly online high score table.\n\nNew in version 0.3:\n\n- 3d rotation on player ship and turrets\n- mushrooms in background\n- fixed small bug in score table",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "0.3",
+            "versionCode": 0,
+            "uuid": "3757fd4a-d907-4ad4-a0fd-ed7a54c3a578",
+            "date": "2015-04-24T18:16:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ad170a9c-e035-4e3a-9185-4166deec87c0\/nl.foppygames.mercurian\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/8O5tnTINQMujDXFNTpyF_Mercurian.apk",
+            "size": 30512974,
+            "md5sum": "fea18f8ee636f8157dfa47f97676c69f",
+            "publicSize": 274162,
+            "nativeSize": 20173095
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/nl.foppygames.mercurian\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HFa90o5SGuSOtVWI1Luw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NOz4JjPPQdmAHfunuHnj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9PvCkiBRDuLaXwC2KwZK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qF8Mp9smRsGI8AsjpC6D",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AKVD4Z6KT6W9oqJsZLxg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/naJ6JkQgSmCgsiBvDzDA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/oltw00_ouya-screenshot20150423-3-12xzdhr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/thumbnails\/thumbnail20150423-3-15ijuyt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/wjuqzj_ouya-screenshot20150423-3-12pc0cq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/thumbnails\/thumbnail20150423-3-j5jl4z.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/pgb9mx_ouya-screenshot20150423-3-468lsg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/thumbnails\/thumbnail20150423-3-18a8d1u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/yces19_ouya-screenshot20150423-3-1l0erg7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/thumbnails\/thumbnail20150423-3-1d2u73v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/88vw8f_ouya-screenshot20150423-3-17s3u6e.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3757fd4a-d907-4ad4-a0fd-ed7a54c3a578\/thumbnails\/thumbnail20150423-3-1tqvcdw.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "ad170a9c-e035-4e3a-9185-4166deec87c0",
+        "name": "Foppygames",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.foppygames.nl",
+    "firstPublishedAt": "2015-03-21T05:44:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by Foppygames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.94,
+        "count": 160
+    }
+}

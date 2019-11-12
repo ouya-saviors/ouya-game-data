@@ -1,0 +1,95 @@
+{
+    "packageName": "com.bossdog.boomya",
+    "title": "BoomYA!",
+    "description": "*** NEW IN 1.2 ***\r\n\r\n- Added bomb chains! Bombs now explode each other, watch out!\r\n\r\n- Added a brand new DOMINATION game mode! Control the most tiles to win!\r\n\r\n* * * * * * * * * *\r\n\r\nBoomYA!\r\n\r\nThe ultimate pick-up-and-play, frantic multiplayer game - EXCLUSIVE to OUYA!\r\n\r\nUp to four friends can battle it out in this classic boom-tastic game!\r\n\r\nPick your monkey and start dropping bombs to blow up your rivals!\r\n\r\nWage war across four Arenas and collect different power-ups to boost your bombs and stats!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "937def8d-07ef-4ce6-acee-69d5a9655bd9",
+            "date": "2013-09-03T15:16:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/89475d66-65db-4940-918a-322aade38bc4\/com.bossdog.boomya\/937def8d-07ef-4ce6-acee-69d5a9655bd9\/9KBrSlkCS2agI4O1o7B9_boomya.apk",
+            "size": 39405528,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bossdog.boomya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZNUwvWwbTuiI56Ci9GWS",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nX3CPAdIRPyYloVQGbT7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GztHC8BxRCScjWQRKjs1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nIhQWFKzQSWXlzTPc8wc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N2dtnVxR2WjyiTPOl1Bw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YmYDvMPTSUCtM2Kbo0sA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/magp19cjQsaBxpGJ12hH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zhzTkoV4ToiMVWQvLFU7"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nX3CPAdIRPyYloVQGbT7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nX3CPAdIRPyYloVQGbT7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GztHC8BxRCScjWQRKjs1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GztHC8BxRCScjWQRKjs1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nIhQWFKzQSWXlzTPc8wc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nIhQWFKzQSWXlzTPc8wc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N2dtnVxR2WjyiTPOl1Bw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N2dtnVxR2WjyiTPOl1Bw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YmYDvMPTSUCtM2Kbo0sA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YmYDvMPTSUCtM2Kbo0sA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/magp19cjQsaBxpGJ12hH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/magp19cjQsaBxpGJ12hH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zhzTkoV4ToiMVWQvLFU7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zhzTkoV4ToiMVWQvLFU7\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BOSSDOG GAMES",
+        "supportEmail": "adam@bossdoggames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.bossdoggames.com",
+    "firstPublishedAt": "2013-08-05T21:24:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by BOSSDOG GAMES.",
+    "premium": false,
+    "rating": {
+        "likeCount": 68,
+        "average": 2.98,
+        "count": 45
+    }
+}

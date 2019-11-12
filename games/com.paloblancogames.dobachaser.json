@@ -1,0 +1,89 @@
+{
+    "packageName": "com.paloblancogames.dobachaser",
+    "title": "Doba Chaser",
+    "description": "Get ready for intense arcade platforming in Doba Chaser! Use wall-jumps and your charge-kick to chase down the Doba and knock them out of the level - but watch out, because they are trying to do the same to you! Break bricks, collect coins, and defeat a mysterious villain to save the Doba in Doba Chaser!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Platformer",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "62077491-0b8f-4fa1-b6ba-45a4b6593288",
+            "date": "2015-06-06T22:39:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f170dceb-e908-4ce8-ae65-c49409c9c247\/com.paloblancogames.dobachaser\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/H3SLYwORS9KihnL9IJSF_DobaChaser_OUYA.apk",
+            "size": 9493821,
+            "md5sum": "ba306959918e84147e46912d576903e6",
+            "publicSize": 814327,
+            "nativeSize": 8706120
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1QNJRN2uSVqzXQaT6eZn",
+        "video": "https:\/\/vimeo.com\/129394540",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Hgngk0TDa2FTdznEtsw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IypzsfaIRLiHRpQvUvb8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Khtt3gYyRTS4dxYnVCBx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wj9ZvwLBR8SJwzmX7v8c",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SvEWDmkrR1eYPXILuTis"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/129394540"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/kr4yue_ouya-screenshot20150601-3-12a3ed8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-14s4kpq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/vqru14_ouya-screenshot20150601-3-1tc1ojm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-vy5cnj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/w1xjp3_ouya-screenshot20150601-3-ezwx9o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-19v5u3x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/io9kic_ouya-screenshot20150601-3-1tkorx1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-141825n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thp6lg_ouya-screenshot20150601-3-9ssdvh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-g16tg0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f170dceb-e908-4ce8-ae65-c49409c9c247",
+        "name": "Palo Blanco Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-06-06T22:39:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2015 by Palo Blanco Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.8,
+        "count": 179
+    }
+}

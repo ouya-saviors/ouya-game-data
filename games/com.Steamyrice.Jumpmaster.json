@@ -1,0 +1,77 @@
+{
+    "packageName": "com.Steamyrice.Jumpmaster",
+    "title": "Jumpmaster",
+    "description": "-- Best Mobile Game-- \r\nThe Independent Games Festival China 2012 \r\n\r\n*New game mode updated for OUYA: Two players versus mode\r\n*Support Xbox 360 and PS3 controllers\r\n\r\nPrivate Dios is a paratrooper who is on a secret assault mission. He has to survive from  enemies offensive in the sky and complete this challenging airborne operation. What he is going to face in the battlefield? You have his destiny in control. Get ready to jump, soldiers! ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.3.0",
+            "versionCode": 0,
+            "uuid": "7f9deee9-57bc-4396-bdb6-ae1ef015302b",
+            "date": "2013-08-09T22:32:11Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/75cd9049-8fb5-49d1-bcaa-777202859750\/com.Steamyrice.Jumpmaster\/7f9deee9-57bc-4396-bdb6-ae1ef015302b\/8gCvg9LSL6FpXBKL4U8L_Jumpmaster_OUYA.apk",
+            "size": 32601623,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.steamyrice.jumpmaster\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aVPHVMyUTO34T28sLDtG",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k4KsaEiRnStb14VYpkLI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KiXs7KfxQsqIDAzKlYlZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qc5eoEoTXyTGj2IrnCOh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XBW7RMqkR5WD5sV2scvY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/k4KsaEiRnStb14VYpkLI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/k4KsaEiRnStb14VYpkLI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KiXs7KfxQsqIDAzKlYlZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KiXs7KfxQsqIDAzKlYlZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qc5eoEoTXyTGj2IrnCOh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qc5eoEoTXyTGj2IrnCOh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XBW7RMqkR5WD5sV2scvY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XBW7RMqkR5WD5sV2scvY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Steamy Rice Entertainment Ltd.",
+        "supportEmail": "jumpmaster@steamyrice.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.facebook.com\/jumpmastergames",
+    "firstPublishedAt": "2013-08-09T22:32:11Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Steamy Rice Entertainment Ltd..",
+    "premium": false,
+    "rating": {
+        "likeCount": 111,
+        "average": 3.28,
+        "count": 90
+    }
+}

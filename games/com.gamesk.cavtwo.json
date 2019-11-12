@@ -1,0 +1,81 @@
+{
+    "packageName": "com.gamesk.cavtwo",
+    "title": "Caverns of Venus 2",
+    "description": "Caverns of Venus 2 is a platform game.Help Morris to collect enough fuel to leave Venus.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "01c2b947-f20c-4eb1-878c-73fd9187a12d",
+            "date": "2014-06-19T21:01:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesk.cavtwo\/01c2b947-f20c-4eb1-878c-73fd9187a12d\/iXOpXrTVTou7RkxFV10F_caverns203.apk",
+            "size": 6489075,
+            "md5sum": "471baaadba8e91addf3c44b53a5aaa2d",
+            "publicSize": 5571334,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesk.cavtwo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3HYi3j5qSsmXZ3wyUzfS",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LavGiaTTI60RUhKyreb9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EJj9Q52eTviEJFg8davd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IxWpuS9iRmGSi8IzlHxe"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LavGiaTTI60RUhKyreb9",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LavGiaTTI60RUhKyreb9"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EJj9Q52eTviEJFg8davd",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EJj9Q52eTviEJFg8davd"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IxWpuS9iRmGSi8IzlHxe",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IxWpuS9iRmGSi8IzlHxe"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "iosgames@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-06-19T21:01:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3,
+        "count": 21
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "cavtwo",
+            "name": "Caverns of Venus 2",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

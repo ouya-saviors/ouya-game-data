@@ -1,0 +1,70 @@
+{
+    "packageName": "com.unfoil.counteraction",
+    "title": "Counter Action",
+    "description": "Keep the ball from touching the wall by pressing the opposite direction.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "19dfe42c-df38-4fc8-bfdb-e9e271cbba0a",
+            "date": "2013-07-30T19:10:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/026cac21-3217-4f24-a8e2-ac33b9a7a755\/com.unfoil.counteraction\/19dfe42c-df38-4fc8-bfdb-e9e271cbba0a\/hKBkZby3R7GFaaMdAEJj_CounterAction.apk",
+            "size": 86501,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.unfoil.counteraction\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/85kn8YkIRliqcyaCHS3a",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XORQVGOKTBixVHHiDDh7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZA4CNYWtSxKwxAj4L8Oc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YNjHsbCQOKcCExBA4JfA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XORQVGOKTBixVHHiDDh7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XORQVGOKTBixVHHiDDh7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZA4CNYWtSxKwxAj4L8Oc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZA4CNYWtSxKwxAj4L8Oc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YNjHsbCQOKcCExBA4JfA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YNjHsbCQOKcCExBA4JfA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Unfoil.com",
+        "supportEmail": "unfoil.com@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.unfoil.com\/",
+    "firstPublishedAt": "2013-07-29T22:02:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Unfoil.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 16,
+        "average": 1.5,
+        "count": 4
+    }
+}

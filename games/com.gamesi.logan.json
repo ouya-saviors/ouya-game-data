@@ -1,0 +1,81 @@
+{
+    "packageName": "com.gamesi.logan",
+    "title": "Logan's Treasure",
+    "description": "Logan's Treasure is an arcade platform Game.Guide Logan to collect all 40 Keys on each levels,and go to open the treasure Chest.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c694b372-1126-478f-9100-e88870d43ee2",
+            "date": "2014-04-23T23:06:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesi.logan\/c694b372-1126-478f-9100-e88870d43ee2\/8FtCvVdiQhyDnjcuxH11_Logan05.apk",
+            "size": 2495433,
+            "md5sum": "b2b7ed820b91def90418e24b24aeaf4e",
+            "publicSize": 2027757,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesi.logan\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wm9OkQjRjS8H8SPbPGGa",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2BSv24HQtKzqXx3dbQCx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GbQ1Q9IThyx43JIwOTZK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FNiK21SYma4cAX50Pigf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2BSv24HQtKzqXx3dbQCx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2BSv24HQtKzqXx3dbQCx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GbQ1Q9IThyx43JIwOTZK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GbQ1Q9IThyx43JIwOTZK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FNiK21SYma4cAX50Pigf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FNiK21SYma4cAX50Pigf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "musti74@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "mremakes.free.fr",
+    "firstPublishedAt": "2014-04-23T23:06:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 1.95,
+        "count": 21
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "logan",
+            "name": "Logan's Treasure",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

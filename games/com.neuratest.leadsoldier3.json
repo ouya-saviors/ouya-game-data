@@ -1,0 +1,70 @@
+{
+    "packageName": "com.neuratest.leadsoldier3",
+    "title": "Lead Soldier 3D",
+    "description": "Most of Europe has been under German occupation for more than two years. On the British Isles, allied forces are building up at a furious pace in preparation for the liberation of the continent.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "d8ff82f5-6abd-4579-b986-7488d974ffc5",
+            "date": "2013-07-22T20:20:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/31947fcd-ce62-4784-94b2-a36d52788d42\/com.neuratest.leadsoldier3\/d8ff82f5-6abd-4579-b986-7488d974ffc5\/5nZTdFVoSQKK2jREYclW_LeadSoldier3.apk",
+            "size": 1334117,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.neuratest.leadsoldier3\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lBDcNTBKQZeH4pdynYNx",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cHgsJkyBTuqJsbOzAOrT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SLFIvusWRPKxI9Ugm9qn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JFrlPzoSzdMZzQs980yg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cHgsJkyBTuqJsbOzAOrT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cHgsJkyBTuqJsbOzAOrT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SLFIvusWRPKxI9Ugm9qn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SLFIvusWRPKxI9Ugm9qn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JFrlPzoSzdMZzQs980yg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JFrlPzoSzdMZzQs980yg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Benoit Hambucken",
+        "supportEmail": "ultimatum@neuratest.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.neuratest.com",
+    "firstPublishedAt": "2013-06-28T07:16:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Benoit Hambucken.",
+    "premium": false,
+    "rating": {
+        "likeCount": 62,
+        "average": 2.93,
+        "count": 29
+    }
+}

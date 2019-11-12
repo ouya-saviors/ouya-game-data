@@ -1,0 +1,99 @@
+{
+    "packageName": "com.BeardmanStudios.dotPong",
+    "title": "dotPong",
+    "description": "A simple Pong based game with some goodies. You can play alone or against another player. The title currently features clones, explosions and obstacles. Enjoy!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "de0d0fba-9c7c-4a90-9250-c4de2b09d25b",
+            "date": "2014-02-06T22:50:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fcd4327e-24b1-4d0f-bc98-1a3592439d60\/com.BeardmanStudios.dotPong\/ba7d6d98-40a1-4554-a2cb-57e14b148334\/cOGTAQ5PSHO7OaLigTBB_dotPlong1.5.apk",
+            "size": 9879337,
+            "md5sum": "640891dff0f15651fc6a84ae0e89810b",
+            "publicSize": 265808,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.beardmanstudios.dotpong\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bDVVQeXPTX2OBlWJfOxw",
+        "video": "https:\/\/vimeo.com\/83922681",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R6Cda6s8QlmVLlIziwR1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TrQ2YqvXQKuZxnd9sI6k",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XWP28Op0SAmjEtUO5jQy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nmuj0dRrTXmL4yx0X2Tv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RtBPEViQyaQtCwfIfoDC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tcQ0yrGSqS8ie4OpaIO2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GzudK2jQsOPEhSJfIQ0X"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/83922681"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R6Cda6s8QlmVLlIziwR1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R6Cda6s8QlmVLlIziwR1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TrQ2YqvXQKuZxnd9sI6k\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TrQ2YqvXQKuZxnd9sI6k\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XWP28Op0SAmjEtUO5jQy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XWP28Op0SAmjEtUO5jQy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nmuj0dRrTXmL4yx0X2Tv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nmuj0dRrTXmL4yx0X2Tv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RtBPEViQyaQtCwfIfoDC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RtBPEViQyaQtCwfIfoDC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tcQ0yrGSqS8ie4OpaIO2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tcQ0yrGSqS8ie4OpaIO2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GzudK2jQsOPEhSJfIQ0X\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GzudK2jQsOPEhSJfIQ0X\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Beardman Studios",
+        "supportEmail": "plong@beardman-studios.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.beardman-studios.com",
+    "firstPublishedAt": "2014-02-03T21:06:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Beardman Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 24,
+        "average": 2.88,
+        "count": 120
+    }
+}

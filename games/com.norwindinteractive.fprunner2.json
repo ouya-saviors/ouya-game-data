@@ -1,0 +1,82 @@
+{
+    "packageName": "com.norwindinteractive.fprunner2",
+    "title": "FP Runner 2",
+    "description": "FP Runner 2 is an action packed endless runner in the first person perspective! The game has ... \r\n\r\n- A new epic soundtrack! \r\n- New platform types! \r\n- Competitive gameplay!\r\n- 2 player local split screen (with one time $0.99 add-on)!\r\n\r\nYou can play the single player part of the game for free. If you wish to play split screen with 1 other player, you can do so by purchasing the split screen add-on! \r\n\r\nThe multiplayer split screen mode is an OUYA exclusive! You will not find this on any other platform! Game on!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.02",
+            "versionCode": 0,
+            "uuid": "82681b91-68fd-4359-80ab-93b8fe342f40",
+            "date": "2014-05-22T20:36:20Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/05dc46b5-ab5b-4c66-9185-57439fbebd96\/com.norwindinteractive.fprunner2\/82681b91-68fd-4359-80ab-93b8fe342f40\/5STsGNX9SQCYm7z96cGU_FPRunner2OUYAFinal.apk",
+            "size": 38436728,
+            "md5sum": "f8e6f41ef8ab8cde55c5ea47bb078a02",
+            "publicSize": 234029,
+            "nativeSize": 15088954
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.norwindinteractive.fprunner2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lH4LsYKYTTyXpTyIu4zr",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fBxlgBQSR6L3TlN1PeLw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rAkA0AE9S3eK7fRXPa0W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xITI2vknRlvcArx5Mz5O"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fBxlgBQSR6L3TlN1PeLw",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fBxlgBQSR6L3TlN1PeLw"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rAkA0AE9S3eK7fRXPa0W",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rAkA0AE9S3eK7fRXPa0W"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xITI2vknRlvcArx5Mz5O",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xITI2vknRlvcArx5Mz5O"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "05dc46b5-ab5b-4c66-9185-57439fbebd96",
+        "name": "Norwind Interactive Ltd.",
+        "supportEmail": "support@norwindinteractive.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/norwindinteractive.com",
+    "firstPublishedAt": "2014-02-04T23:24:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Norwind Interactive Ltd..",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 3.06,
+        "count": 98
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fprunner2_purchase",
+            "name": "FP Runner 2 Splitscreen",
+            "description": "This will allow you to play split screen with 1 other player on your OUYA!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

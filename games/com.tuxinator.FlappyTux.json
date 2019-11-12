@@ -1,0 +1,71 @@
+{
+    "packageName": "com.tuxinator.FlappyTux",
+    "title": "Flappy Tux",
+    "description": "Penguins can't fly? You've never been so wrong!\r\n\r\n \r\nFlappy Tux is a free clone of the popular \"Flappy Bird\"-Game! It uses the nice graphics and sounds known from \"SuperTux\", so you directly feel at home. Help Tux to avoid all the pipes by simply pressing one button. But beware: This game is harder than it looks!\r\n\r\nWith your support, penguins CAN fly!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0d19cbb6-f176-47a2-9609-51f80a568889",
+            "date": "2014-03-26T21:54:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/cfc72857-8098-44d6-a8d6-aeb5cdc39f57\/com.tuxinator.FlappyTux\/0d19cbb6-f176-47a2-9609-51f80a568889\/2Vs7ZnbwTeKAiK7pE2D0_FlappyTux_Ouya_1.1.apk",
+            "size": 13116187,
+            "md5sum": "ee8fbfd641301a36bead7d07e21bfe82",
+            "publicSize": 244727,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tuxinator.flappytux\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cKC9EyZ5TzeoTTDkG2JF",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FUMWbcwNTkueiAMi4tfG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ICfjmGhRHSxm7VD6dhQg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2waYBFQLSeapEMxYFdS4"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FUMWbcwNTkueiAMi4tfG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FUMWbcwNTkueiAMi4tfG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ICfjmGhRHSxm7VD6dhQg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ICfjmGhRHSxm7VD6dhQg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2waYBFQLSeapEMxYFdS4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2waYBFQLSeapEMxYFdS4\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tuxinator",
+        "supportEmail": "andreas@widmann-bl.de",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/tuxinator.bplaced.com\/ ",
+    "firstPublishedAt": "2014-03-25T16:28:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Tuxinator.",
+    "premium": false,
+    "rating": {
+        "likeCount": 24,
+        "average": 2.05,
+        "count": 201
+    }
+}

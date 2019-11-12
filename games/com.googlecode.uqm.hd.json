@@ -1,0 +1,75 @@
+{
+    "packageName": "com.googlecode.uqm.hd",
+    "title": "Ur-Quan Masters HD",
+    "description": "The Ur-Quan Hierarchy have won the war and put the Earth under slave shield.\r\nExplore galaxy, gather resources, ally with other races, battle enemies and win your freedom back.\r\n\r\nTwo-player melee is supported, using one joystick.\r\n\r\nThis game is free, and has no IAP.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "0.7.0.03",
+            "versionCode": 0,
+            "uuid": "65b130df-584b-4ef3-bbb1-a8278595a751",
+            "date": "2013-10-24T17:09:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/99d686f2-4ccd-4bc4-997b-7de754b16a44\/com.googlecode.uqm.hd\/65b130df-584b-4ef3-bbb1-a8278595a751\/4EU5dPIGRBuQivFFdANK_Ur-Quan-Masters-HD-0.7.0.03-ouya.apk",
+            "size": 1010013702,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.googlecode.uqm.hd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zt187MeeTAeT237Lc5V3",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pcjLCAeXTy2SANwtl2zs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fuqqi0yQGZXsJKqjIszg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/moCkbqC5QFens2ICGFPq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SPdEWbBJQDyOCyvWlwe7"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pcjLCAeXTy2SANwtl2zs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pcjLCAeXTy2SANwtl2zs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Fuqqi0yQGZXsJKqjIszg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Fuqqi0yQGZXsJKqjIszg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/moCkbqC5QFens2ICGFPq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/moCkbqC5QFens2ICGFPq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SPdEWbBJQDyOCyvWlwe7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SPdEWbBJQDyOCyvWlwe7\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "pelya",
+        "supportEmail": "libsdl-android-other@lists.sourceforge.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/sourceforge.net\/projects\/urquanmastershd\/",
+    "firstPublishedAt": "2013-10-24T17:09:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by pelya.",
+    "premium": false,
+    "rating": {
+        "likeCount": 101,
+        "average": 3.98,
+        "count": 61
+    }
+}

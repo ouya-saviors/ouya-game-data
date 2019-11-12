@@ -1,0 +1,76 @@
+{
+    "packageName": "com.heinousgames.game.powerupsthatkill",
+    "title": "Power Ups that Kill!",
+    "description": "Steer left and right to avoid the walls alongside the path. Watch out because \"power ups\" are placed in your way that will affect the game and purposely try to distract you!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "68918779-cc86-4a8d-997c-eeed528e5224",
+            "date": "2013-03-30T17:08:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/46733877-abbe-447f-9595-fdeb13874cca\/com.heinousgames.game.powerupsthatkill\/68918779-cc86-4a8d-997c-eeed528e5224\/nF9d6DIgTd6UzUkHapaT_OuyaPowerUpsThatKillFinal.apk",
+            "size": 7267010,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.heinousgames.game.powerupsthatkill\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fFja9EdRrKCcjHemA523",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p4jTvLliSsWh2NarwUn1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IlGo4HlZRPawg8cRQ1HW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MvfxOfBKRDKThBa3jxZW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TnrR7jJTTcSTZkfILcTH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/p4jTvLliSsWh2NarwUn1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/p4jTvLliSsWh2NarwUn1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IlGo4HlZRPawg8cRQ1HW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IlGo4HlZRPawg8cRQ1HW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MvfxOfBKRDKThBa3jxZW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MvfxOfBKRDKThBa3jxZW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TnrR7jJTTcSTZkfILcTH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TnrR7jJTTcSTZkfILcTH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Steven Hanus",
+        "supportEmail": "ministeve412@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/heinous-games.blogspot.com\/p\/power-ups-that-kill_9.html",
+    "firstPublishedAt": "2013-03-16T17:39:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Steven Hanus.",
+    "premium": false,
+    "rating": {
+        "likeCount": 50,
+        "average": 3.53,
+        "count": 15
+    }
+}

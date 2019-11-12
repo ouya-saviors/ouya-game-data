@@ -1,0 +1,95 @@
+{
+    "packageName": "com.pyesoftware.blockblasters",
+    "title": "Block Blasters",
+    "description": "Block Blasters explodes into life on the OUYA, the ultimate party multiplayer console!\r\nThe speed is chaotic, but the aim is simple: blast those blocks!\r\nOh yeah - you're blocks too, so blast each other! \r\nBlock Blasters features ever-changing game mechanics due to the ability to interact with backgrounds, meaning not one round will end up looking the same!\r\nLast block standing wins, have fun and play nice! ;-)\r\n\r\nA 100% FREE game, developed using Clickteam Fusion 2.5. Rate the game and show some love!\r\n\r\n**UPDATE 05-23-2014: NEW SELECT SCREEN; END OF GAME ACKNOWLEDGEMENT; NEW QUIT FEATURE (R3)**",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "6b63c67a-006b-49e0-b452-7e78c67352b0",
+            "date": "2014-05-24T08:44:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c2946da9-60ad-479e-9a3b-b9fc78a19a86\/com.pyesoftware.blockblasters\/6b63c67a-006b-49e0-b452-7e78c67352b0\/lFtHUzeVQHmKuF9Ge6xz_blockblasters.apk",
+            "size": 54597056,
+            "md5sum": "3ddff062bbad64c6104342749082d71c",
+            "publicSize": 53494463,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pyesoftware.blockblasters\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h8wPyF7uSxiX9DlRflHh",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ujVrHnlnRrhlpLuJQrte",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3KcVqGvPSD6uM9CxOdpA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7Be6Bv2gT2yGrlPDP0A2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q345VZLQmeBf8TfO04jI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mvjTwunySc9OZ8R1etlq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fNd4WE70ThuKpQzf025E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OpligVHbSzyOfWMs0MEA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ujVrHnlnRrhlpLuJQrte",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ujVrHnlnRrhlpLuJQrte"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3KcVqGvPSD6uM9CxOdpA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3KcVqGvPSD6uM9CxOdpA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7Be6Bv2gT2yGrlPDP0A2",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7Be6Bv2gT2yGrlPDP0A2"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/q345VZLQmeBf8TfO04jI",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/q345VZLQmeBf8TfO04jI"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mvjTwunySc9OZ8R1etlq",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mvjTwunySc9OZ8R1etlq"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fNd4WE70ThuKpQzf025E",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fNd4WE70ThuKpQzf025E"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OpligVHbSzyOfWMs0MEA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OpligVHbSzyOfWMs0MEA"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Doki Games",
+        "supportEmail": "christopherjpye@aol.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/dokigames2014.blogspot.co.uk\/",
+    "firstPublishedAt": "2014-04-14T21:06:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Doki Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 8,
+        "average": 2.83,
+        "count": 35
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "packageName": "com.locomalito.abbaye_des_morts",
+    "title": "Abbaye des Morts",
+    "description": "In the 13th century, the Cathars, who preach about good Christian beliefs, were being expelled by the Catholic Church out of the Languedoc region in France. One of them, called Jean Raymond, found an old church in which to hide, not knowing that beneath its ruins lay buried an ancient evil.\n\nA style close to Spectrum ZX, with its dark background and bright colors, proper fit with the story, because it does look old and somewhat horrifying.\n\nThis little game has been created at nights during our vacation in southern France. The whole game is spontaneous and sincere, straight out of our feelings there in the Languedoc :-)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 0,
+            "uuid": "7fad405f-fd01-4003-841f-d06f41797f3e",
+            "date": "2014-09-29T22:55:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/19e645f2-6f70-469a-bcee-9002b86548b6\/com.locomalito.abbaye_des_morts\/7fad405f-fd01-4003-841f-d06f41797f3e\/V35gNeV9QBi5YVRkzGxV_Abbaye_des_morts_ouya.apk",
+            "size": 12331527,
+            "md5sum": "d1a2aded2991fad74d2cf6847f93a599",
+            "publicSize": 1109697,
+            "nativeSize": 8607772
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ncDcifzkT5q9mCZLevvn",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5dDIxvH4RIWmQDQtwsYD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/95mFLQ4aStxQ3y55G51d",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M5kgmksnRBuMoPlRL7jh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8273296oTK6LU1p2OxiY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/st5todX3Tk2ijDtTR13b"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/8guuoo_ouya-screenshot20140928-2-vcd3es.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-p2k6ji.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/wu6vwq_ouya-screenshot20140928-2-nonzp6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-14q8a6w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/us462r_ouya-screenshot20140928-2-1ptqamb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-gnetat.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/cn73n9_ouya-screenshot20140928-2-vs0619.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-gxkr3m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/rzgpvu_ouya-screenshot20140928-2-1a247li.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-i3s89g.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Locomalito",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.locomalito.com",
+    "firstPublishedAt": "2014-09-10T17:58:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Locomalito.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.27,
+        "count": 424
+    }
+}

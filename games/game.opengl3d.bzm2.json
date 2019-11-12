@@ -1,0 +1,98 @@
+{
+    "packageName": "game.opengl3d.bzm2",
+    "title": "BattleZone Mars",
+    "description": "BattleZone Mars is a first person shooter where you fight against green dudes from Mars hell bent on conquering the earth.\r\n\r\nBattleZone Mars  features:\r\n\r\n* Amazing 3d environments\r\n* 12 types of weapons: guns canons, lasers, and more\r\n* 10 types of monsters\r\n* High quality sound\r\n* Single or multi player combat\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "3cf69ec5-0d29-4e2a-b788-95b1509d5cbf",
+            "date": "2014-02-16T02:00:22Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8acd3458-1c07-4906-b926-a454f05a48c6\/game.opengl3d.bzm2\/3cf69ec5-0d29-4e2a-b788-95b1509d5cbf\/Znq7RFgrQfCl5eTac4O6_BattleZoneMars.apk",
+            "size": 7049546,
+            "md5sum": "fcb65a3460c6cde922e1e2e3c2b00156",
+            "publicSize": 1073029,
+            "nativeSize": 828460
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/game.opengl3d.bzm2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2nbK5estQKidlRkGt3uq",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tkDsndVETHqByFv60nFy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pvQbdwnBTApCrWFHxspw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ELex3Dp6RmLTuyTCiuyQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rbGvCpW6QhODiUwS6RY8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RMzkcES2eFNmmgxethOg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sDt3FzMRqibiqUwconBC"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tkDsndVETHqByFv60nFy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tkDsndVETHqByFv60nFy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pvQbdwnBTApCrWFHxspw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pvQbdwnBTApCrWFHxspw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ELex3Dp6RmLTuyTCiuyQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ELex3Dp6RmLTuyTCiuyQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rbGvCpW6QhODiUwS6RY8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rbGvCpW6QhODiUwS6RY8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RMzkcES2eFNmmgxethOg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RMzkcES2eFNmmgxethOg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sDt3FzMRqibiqUwconBC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sDt3FzMRqibiqUwconBC\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Game Labs",
+        "supportEmail": "game.dev.labs01@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/playerx.sourceforge.net\/index1.html",
+    "firstPublishedAt": "2014-02-16T02:00:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Game Labs.",
+    "premium": false,
+    "rating": {
+        "likeCount": 23,
+        "average": 1.95,
+        "count": 63
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "bzm_001",
+            "name": "BattleZone Mars (Full Game)",
+            "description": "BattleZone Mars is a first person shooter where you fight against green dudes from Mars hell bent on conquering the earth.\r\n",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

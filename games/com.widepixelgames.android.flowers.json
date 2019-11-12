@@ -1,0 +1,77 @@
+{
+    "packageName": "com.widepixelgames.android.flowers",
+    "title": "X S.E.E.D",
+    "description": "v1.9:\r\n* New main character looks\r\n* Tweaks to Ninja Mode\r\n* Lots of bug fixes\r\n\r\nAn isolated S.E.E.D. bio-weapon research facility located on a small island has ceased all communications following a brief distress signal. Something has gone horribly wrong and S.E.E.D. Command fears the worst.\r\n\r\nAs a former S.E.E.D. scientist you have been recalled into active duty and sent to the island to deal with the problem.\r\n\r\nX-S.E.E.D. is the latest release from Wide Pixel Games, based on a design by the lead developer's 5-year-old son. A unique mash-up of dexterous platforming, frantic action and extreme botany, X-S.E.E.D. gives 'flower power' a whole new meaning! \r\n\r\n* No Nonsense! No Continues!\r\n* Unique Flower Planting Weapon System!\r\n* 8-Directional Platforming!\r\n* Epic Boss Fights!\r\n* Online Hiscores!\r\n* Multiple Endings!\r\n* Donationware!\r\n\r\nwww.widepixelgames.com \r\nmix256@widepixelgames.com\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.9",
+            "versionCode": 0,
+            "uuid": "c86231c1-a150-4707-9d10-aa18f34c3bbc",
+            "date": "2014-06-03T05:22:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c4f97a39-6e83-4c05-a37f-e34c1396892f\/com.widepixelgames.android.flowers\/c86231c1-a150-4707-9d10-aa18f34c3bbc\/wXJiI080Sz2V1QvU8M23_Flowers-release.apk",
+            "size": 45406618,
+            "md5sum": "7ea779d6ddee2974c49ea5c29da14c4e",
+            "publicSize": 161941,
+            "nativeSize": 846310
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.flowers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PNTiWGiASTCFcxvbyBjl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W8g2YYElQLCSM9H2q5kg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3rgMWEeR3u3at8yolqly",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dWWKwkOyRJKLZK0ssqWE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5phqWn2ZS9CaDJRcvrK1"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/W8g2YYElQLCSM9H2q5kg",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/W8g2YYElQLCSM9H2q5kg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3rgMWEeR3u3at8yolqly",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3rgMWEeR3u3at8yolqly"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dWWKwkOyRJKLZK0ssqWE",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dWWKwkOyRJKLZK0ssqWE"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5phqWn2ZS9CaDJRcvrK1",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5phqWn2ZS9CaDJRcvrK1"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c4f97a39-6e83-4c05-a37f-e34c1396892f",
+        "name": "Wide Pixel Games",
+        "supportEmail": "mix256@widepixelgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.widepixelgames.com",
+    "firstPublishedAt": "2013-09-24T05:50:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Wide Pixel Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 116,
+        "average": 3.73,
+        "count": 103
+    }
+}

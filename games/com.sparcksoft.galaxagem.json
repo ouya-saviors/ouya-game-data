@@ -1,0 +1,70 @@
+{
+    "packageName": "com.sparcksoft.galaxagem",
+    "title": "Galaxa Gems",
+    "description": "Play this simple turn the cube to match the colors game. Very addictive and entertain. Lots of fun only using one button.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "7994c894-2038-41b6-a657-2615fb507fe8",
+            "date": "2015-03-03T19:40:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/780e24bf-59c4-496c-b843-99128f75c4e9\/com.sparcksoft.galaxagem\/7994c894-2038-41b6-a657-2615fb507fe8\/KKTkKQxCQfCUUFjOH53x_GALAXA%20GEMS%20OUYA_final.apk",
+            "size": 4180015,
+            "md5sum": "6f3489de46de7a1be1d9d6ec8f263e02",
+            "publicSize": 1962312,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sparcksoft.galaxagem\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rrwK8eGVQPmgEArYfU3k",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J4085GfRSbaydIOT7GTX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ckSdcKzS8KF5tHsfxElq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eJlqfjSiGqtYa1daEECA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7994c894-2038-41b6-a657-2615fb507fe8\/2tjacf_ouya-screenshot20150302-3-vuhj0t.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7994c894-2038-41b6-a657-2615fb507fe8\/thumbnails\/thumbnail20150302-3-1s8mkpf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7994c894-2038-41b6-a657-2615fb507fe8\/p9nx48_ouya-screenshot20150302-3-18aspcy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7994c894-2038-41b6-a657-2615fb507fe8\/thumbnails\/thumbnail20150302-3-1hibovy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7994c894-2038-41b6-a657-2615fb507fe8\/nv5aed_ouya-screenshot20150302-3-oip6zk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7994c894-2038-41b6-a657-2615fb507fe8\/thumbnails\/thumbnail20150302-3-mgr3fl.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SparckSoft",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-03-03T19:40:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by SparckSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.95,
+        "count": 19
+    }
+}

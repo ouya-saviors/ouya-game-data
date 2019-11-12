@@ -1,0 +1,82 @@
+{
+    "packageName": "com.SharkArm.ChickenBandit",
+    "title": "The Chicken Bandit",
+    "description": "The Chicken Bandit is a western side-scrolling action game that gives you the chance to experience the age-old struggle between cowboy and robot. Play as a lone cowboy accompanied only by his over-sized chicken sidekick as you travel from land to land robbing trains and lassoing up as much loot as possible. You will face an army of robots bent on collecting the bounty on your head as you journey from the peaceful grassy plains to the depths of the dark robot city, where your chicken friends are being held prisoner. Along the way you will discover new lands, purchase items\/upgrades, encounter dangerous boss battles, and square off in high-stakes quick draw duels. So what are you waiting for partner? Saddle up and start your adventure!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.26",
+            "versionCode": 0,
+            "uuid": "e06d2eb4-c7b8-468f-bdf9-7a631d462521",
+            "date": "2013-09-03T15:36:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0586bf54-6795-4098-b0a0-cdcacf1b66d8\/com.SharkArm.ChickenBandit\/e06d2eb4-c7b8-468f-bdf9-7a631d462521\/UHomK5EsR7WPW0gpBSfw_TrainOUYA_13_9_1.apk",
+            "size": 12948807,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sharkarm.chickenbandit\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hSz9wHrQcKOrwKSsz9eC",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0to2rsVFTMOlUvFzuHBZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zlau4gRhqwtTfoI2PdDw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MEKSESWxTKCNFGvm1t8U",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G6P23cyZTXCUPWqUbNm7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dLqfwsTXQBiHbfmbIhsA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0to2rsVFTMOlUvFzuHBZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0to2rsVFTMOlUvFzuHBZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zlau4gRhqwtTfoI2PdDw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zlau4gRhqwtTfoI2PdDw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MEKSESWxTKCNFGvm1t8U\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MEKSESWxTKCNFGvm1t8U\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G6P23cyZTXCUPWqUbNm7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G6P23cyZTXCUPWqUbNm7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dLqfwsTXQBiHbfmbIhsA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dLqfwsTXQBiHbfmbIhsA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SharkArm Brothers",
+        "supportEmail": "team@sharkarmstudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.TheChickenBandit.com",
+    "firstPublishedAt": "2013-09-03T15:36:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by SharkArm Brothers.",
+    "premium": false,
+    "rating": {
+        "likeCount": 75,
+        "average": 3.31,
+        "count": 59
+    }
+}

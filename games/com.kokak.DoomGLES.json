@@ -1,0 +1,139 @@
+{
+    "packageName": "com.kokak.DoomGLES",
+    "title": "D-GLES",
+    "description": "D-GLES is an unofficial 3D hardware accelerated source port of the Doom Engine.\n\nIn D-GLES, you are a soldier who fights hordes of monsters on strange planets !\n\nD-GLES comes with Freedoom demo + \"Invasion of the damned\", Freedoom + \"Wonderful Doom\", Freedoom 2 + Requiem.\n!!! ORIGINAL GAMES DATA ARE NOT PRESENT IN THIS RELEASE !!!\n\nIf you choose to not pay, you will have access to the full demo episode, and the first level of any other WAD. Also, only the first two maps of the demo will always have the extra features (lighting, 3D monsters, etc.). On any other map, each day, you will have about 2 minutes of gameplay with the extra features.\n\nTo access Shareware, \"Ultimate Doom\", \"Doom 2\", TNT and Plutonia, please follow this link: http:\/\/kokak.free.fr\/android\/DoomGLES_Ouya.htm#install\n\nThis app is a source port released under the GPL license. \"Doom\" is a trademark of \"id software\". All trademarks are used under the terms of fair use: usage is nominative. Kokak is not connected with \"id Software\".",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2.31",
+            "versionCode": 0,
+            "uuid": "4e37499c-75ff-4ff7-b42d-6a2d6d22c170",
+            "date": "2015-03-04T19:11:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/072e635c-1d47-4636-8162-84c3564242bd\/com.kokak.DoomGLES\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/S1TdnosRMORs5OA2cCpd_DoomGLESv1231_Ouya.apk",
+            "size": 98142659,
+            "md5sum": "b76aaeee69359417494170cb26075b2b",
+            "publicSize": 539587,
+            "nativeSize": 959004
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.doomgles\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Yt22ckBkTdiF49s7a5fg",
+        "video": "https:\/\/vimeo.com\/118846028",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p2tV6CvOTiq0xe0fYA4c",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mE7Z7elLR6iBHfXfjycA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HJ7ziwsCTSWyqtjJpmFd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xCwi5tNReG4xqFvhOvAN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/swH2GEXTYylhFcQvPzct",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xtGZWrMRxOx8C9NRhpfF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2nSODJn8SDukPA9f2zSQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8UBFmq2QRbmURIqTgbYL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3EmTa5GwTbel9HTfhH09",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nAlTXvIBQT61YbEL1hLv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zioFbEkoT6e4fCSVqz2F",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ksnm27kYTGqCLRT7q96r"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/118846028"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/i59dvw_ouya-screenshot20150303-3-1e3csn4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1w2lei2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/qtt729_ouya-screenshot20150303-3-4pyer1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1ywdv0c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/uf76mt_ouya-screenshot20150303-3-1v1l4z9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-3xp329.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/6quv6b_ouya-screenshot20150303-3-du5uh3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-crfg9b.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/n8v700_ouya-screenshot20150303-3-us22lf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1acpdug.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/u0k294_ouya-screenshot20150303-3-gwpptx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-ehx4md.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/ola1ib_ouya-screenshot20150303-3-k976hz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1veduom.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/e3bfvs_ouya-screenshot20150303-3-xl7azt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1vx0haz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/pu4waw_ouya-screenshot20150303-3-pmyq39.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-ucuycq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/ui84hq_ouya-screenshot20150303-3-1afr5q8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1li3n3t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/wtq7k7_ouya-screenshot20150303-3-1sv5rj6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-1vywe4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/b9bfyy_ouya-screenshot20150303-3-cyss4u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4e37499c-75ff-4ff7-b42d-6a2d6d22c170\/thumbnails\/thumbnail20150303-3-20bwur.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Michael Ryssen",
+        "supportEmail": "kokakgames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/kokak.free.fr\/android\/DoomGLES_Ouya.htm",
+    "firstPublishedAt": "2014-06-12T19:38:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Michael Ryssen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.96,
+        "count": 660
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DGLES",
+            "name": "DoomGLES",
+            "description": "You are about to purchase \"DoomGLES\" for 3.99USD.\r\nDoomGLES is a 3D accelerated source port of the classic game Doom.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

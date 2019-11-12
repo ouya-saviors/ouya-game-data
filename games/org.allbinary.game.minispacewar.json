@@ -1,0 +1,85 @@
+{
+    "packageName": "org.allbinary.game.minispacewar",
+    "title": "MiniSpaceWar",
+    "description": "Little ships big battles. Ships, Space, Guns, Power Ups, and More..",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 0,
+            "uuid": "4c55673f-6e5d-48ab-b8c9-0bd3a3b893af",
+            "date": "2013-12-17T23:47:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f820176d-de15-481b-bdac-f17a98fdeeaa\/org.allbinary.game.minispacewar\/4c55673f-6e5d-48ab-b8c9-0bd3a3b893af\/Irk6jO3lQJOSqXJ2kKpg_MiniSpaceWarSpriteAndroidApplicationOuya.apk",
+            "size": 808179,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/egYb60MhRyyOnrlhtj1N",
+        "video": "https:\/\/vimeo.com\/81976957",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TQtsTOzEQH2nImowZ9Xm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y2aN0SmanSYSR2vJ1AXc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YzduceEPQnqIzeqvf4SX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vX3zrICXSAtUE42n0jDQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3qWxbxSUCF30JrSt1we8"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/81976957"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TQtsTOzEQH2nImowZ9Xm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TQtsTOzEQH2nImowZ9Xm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y2aN0SmanSYSR2vJ1AXc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y2aN0SmanSYSR2vJ1AXc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YzduceEPQnqIzeqvf4SX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YzduceEPQnqIzeqvf4SX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vX3zrICXSAtUE42n0jDQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vX3zrICXSAtUE42n0jDQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3qWxbxSUCF30JrSt1we8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3qWxbxSUCF30JrSt1we8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AllBinary",
+        "supportEmail": "support@allbinary.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.allbinary.com",
+    "firstPublishedAt": "2013-12-17T23:47:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by AllBinary.",
+    "premium": false,
+    "rating": {
+        "likeCount": 7,
+        "average": 3.67,
+        "count": 3
+    }
+}

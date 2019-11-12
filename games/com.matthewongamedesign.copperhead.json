@@ -1,0 +1,92 @@
+{
+    "packageName": "com.matthewongamedesign.copperhead",
+    "title": "Strike Craft Copperhead",
+    "description": "Explore infinite levels in this procedurally generated twin-stick roguelike!\r\n\r\nFight enemies that try to destroy you, take shortcuts by destroying walls, and explore each unique area.\r\n\r\nFeatures:\r\n- 2 hovercraft to chose from\r\n- Player customization\r\n- Endless uniquely created levels\r\n- Destroyable environments\r\n- Highscores",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Fight!",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0e3c7407-343b-4868-851e-b3b94ca80ac6",
+            "date": "2014-11-04T12:00:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/facfd55f-8f0b-4d4c-97a7-624a8f1e2aa6\/com.matthewongamedesign.copperhead\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/ofBrNGYZSlqXzCL8UoEG_copperhead1.0.apk",
+            "size": 17418503,
+            "md5sum": "b1921539c91b87eb50ab017652a9fad2",
+            "publicSize": 145417,
+            "nativeSize": 14992732
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.matthewongamedesign.copperhead\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J1k4qDUDSW64oWdDDiCH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JEo5YsRseZxvHB3fzmDQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8YJq4gmUSdWyfy2VmIJl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FsRaPKpoQmCxwBY4UZQZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tyiv1gySdWBxSRIsvNtL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LzhGPm1wQxytQQYogQo8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uxgCpZOpSlekwahJ2ltK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/8kuwjd_ouya-screenshot20141031-2-s6qgp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/thumbnails\/thumbnail20141031-2-1y0x0m8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/y84iqd_ouya-screenshot20141031-2-1i6bhaz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/thumbnails\/thumbnail20141031-2-1wsv3gf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/zc0zpb_ouya-screenshot20141031-2-iixgto.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/thumbnails\/thumbnail20141031-2-yjmedy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/roc7kv_ouya-screenshot20141031-2-1k82fgk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/thumbnails\/thumbnail20141031-2-vfu2ps.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/6ev6rt_ouya-screenshot20141031-2-1xt764n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/thumbnails\/thumbnail20141031-2-ofefje.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/ry9jb4_ouya-screenshot20141031-2-t8hj7r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0e3c7407-343b-4868-851e-b3b94ca80ac6\/thumbnails\/thumbnail20141031-2-3tsto.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "facfd55f-8f0b-4d4c-97a7-624a8f1e2aa6",
+        "name": "Nuclear Wombat",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.nuclearwombat.eu",
+    "firstPublishedAt": "2014-11-04T12:00:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Nuclear Wombat.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.45,
+        "count": 105
+    }
+}

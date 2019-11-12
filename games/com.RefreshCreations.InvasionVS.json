@@ -1,0 +1,73 @@
+{
+    "packageName": "com.RefreshCreations.InvasionVS",
+    "title": "Invasion VS",
+    "description": "Conduct a retro rampage on your opponents in this old-school competitive shooter for up to 4 local players.\r\n\r\nDodge and attack your way through waves of enemies whilst evading and countering your opponents stream of lasers.\r\n\r\nCompete in many different game modes, each offering different challenges to the last, with the same aim of out-scoring your opponent.\r\n\r\nSuggest other game options to me on twitter @refreshcreation and they might appear in future updates!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Multiplayer",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "a91b975c-d995-4ad2-b646-d838a1310699",
+            "date": "2014-11-17T22:56:15Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b798a7fe-6515-41cc-a227-870e53a864cb\/com.RefreshCreations.InvasionVS\/a91b975c-d995-4ad2-b646-d838a1310699\/0CMX2HnGQfqqqjKtlQLO_invasionvs.apk",
+            "size": 13273837,
+            "md5sum": "4c1dc516790c428f2ea3570d6b75a6e8",
+            "publicSize": 77228,
+            "nativeSize": 14726096
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.refreshcreations.invasionvs\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/juhfSDDTuS9CbAxEd7FS",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hZAxMp0oQX2ydbuLVyfp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BN3WsZjJSXCWqzDc1CTH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tDQNFYLDRiKAj6iqiAxd"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/8bjzp4_ouya-screenshot20141116-2-bfx6jl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/thumbnails\/thumbnail20141116-2-1n0snz9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/fmqzzw_ouya-screenshot20141116-2-23mt3y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/thumbnails\/thumbnail20141116-2-8sexlh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/vcy0s_ouya-screenshot20141116-2-1d8hxf7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/thumbnails\/thumbnail20141116-2-1ulj7o9.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b798a7fe-6515-41cc-a227-870e53a864cb",
+        "name": "Refresh Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.refreshgames.co.uk\/",
+    "firstPublishedAt": "2014-11-17T22:56:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Refresh Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.53,
+        "count": 66
+    }
+}

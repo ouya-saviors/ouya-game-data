@@ -1,0 +1,93 @@
+{
+    "packageName": "com.dotemu.raidenlegacy",
+    "title": "Raiden Legacy",
+    "description": "RAIDEN LEGACY, a four-title compilation of the mega-popular RAIDEN arcade series, includes RAIDEN, RAIDEN FIGHTERS, RAIDEN FIGHTERS 2 & RAIDEN FIGHTERS JET. Originally developed by Seibu Kaihatsu, each of these classic scrolling shooters has not only been authentically recreated for OUYA, but also enhanced with brand-new features!\r\n\r\nMORE OPTIONS!\r\nEach RAIDEN LEGACY title includes three different modes: \"Arcade Mode\" (just like the original); \"Mission Mode\", which allows you to play any unlocked stage; and \"Training Mode\", which, true to its name, allows you to excel at your favorite stages and practice the most difficult ones!\r\n\r\nMORE SHIPS!\r\n15+ different ships, each with their own characteristics, stats, weapons, and specials! Also, some ships come complete with \"charged shots\" \u2013 useful for when the screen is 90% covered with enemies!\r\n\r\nMORE FEATURES!\r\n- Play in full-screen, or keep the game's original screen ratio thanks to \"Original Mode\".\r\n- AutoFire: ON\/OFF.\r\n- Two difficulty modes: Medium and Hard.\r\n- Nine languages available: English, French, German, Italian, Spanish, Russian, Japanese, Korean and Portuguese.\r\n- Video filtering (for rich, smooth graphics).\r\n\r\nGET READY TO ROCK 'N FIRE: RAIDEN LEGACY IS HERE!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.9",
+            "versionCode": 0,
+            "uuid": "48d67b35-55f5-446e-adce-d1f08bfcedfe",
+            "date": "2015-05-20T09:07:34Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a25ff919-ed9e-4e80-b06d-f0d53f5a367b\/com.dotemu.raidenlegacy\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/OZWcQ2jNRFuUQ0dHeKnN_RaidenLegacy_OUYA_2015_05_18.apk",
+            "size": 53184647,
+            "md5sum": "c1457142e7ed54ed1de448a74b8646a3",
+            "publicSize": 44571101,
+            "nativeSize": 8025992
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.raidenlegacy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rXnRBikETlK74usm1U7t",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HITT8rLR4OW53TuQLaSC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fju1sr7YS7aIxS3cO3ZO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PtfR0uYpSaOypw4dq9zA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XattRoRPQGl4Y04qt0Dq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sHxrK2rRE6ioWaBILsJw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/3kuvc2_ouya-screenshot20150518-3-1hjg3c2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/thumbnails\/thumbnail20150518-3-zy0mij.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/c4fopq_ouya-screenshot20150518-3-sydop7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/thumbnails\/thumbnail20150518-3-1c3svz2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/nnexug_ouya-screenshot20150518-3-1ild3wa.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/thumbnails\/thumbnail20150518-3-15qby2y.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/yo7jny_ouya-screenshot20150518-3-1k8i2nc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/thumbnails\/thumbnail20150518-3-m9sot1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/ar1ywy_ouya-screenshot20150518-3-dsd2n5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/48d67b35-55f5-446e-adce-d1f08bfcedfe\/thumbnails\/thumbnail20150518-3-17wura0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
+        "name": "DotEmu SAS",
+        "supportEmail": "dotemu@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.dotemu.com",
+    "firstPublishedAt": "2013-07-31T09:20:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2015 by DotEmu SAS.",
+    "premium": false,
+    "rating": {
+        "likeCount": 447,
+        "average": 4.13,
+        "count": 554
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "raidenlegacy_ouya",
+            "name": "Raiden Legacy",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

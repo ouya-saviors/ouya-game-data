@@ -1,0 +1,82 @@
+{
+    "packageName": "com.direrpg.direrpg",
+    "title": "DireRPG",
+    "description": "Top-down view dungeon crawler & world explorer RPG with skill based characters. DarkDIRE has features commonly found in rogue-like and sandbox mmorpg genres.  Single-player game play or multi-player game play through player-hosted game worlds.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.13.107",
+            "versionCode": 107,
+            "uuid": "4b08fadd-294b-4deb-9160-4654bd65af2d",
+            "date": "2017-06-19T21:12:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d323863e-f067-438c-8b27-209933913667\/com.direrpg.direrpg\/4b08fadd-294b-4deb-9160-4654bd65af2d\/MlG3hNtQROiEwC3vnQl8_DireRPGOUYA.apk",
+            "size": 26141767,
+            "md5sum": "a2ca3ae2c29f30697d5e227d4dc1d0ea",
+            "publicSize": 348507,
+            "nativeSize": 18535228
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.direrpg.direrpg\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/euO16gb0SoiiTIocDRFQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/srNZdTJ9QX66C2kalnmc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fpRhUzKSVm06KpqZ3N48",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V5PkxcHqQx28FC4bQdWy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MiEZha9RjyG8RwI5Ogiw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C4ZH8XuFS5ive7jaadxw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/ouya-image20170606-3-13ilqu2",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/thumbnail20170606-3-1efv17f.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/ouya-image20170606-3-rg4yid",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/thumbnail20170606-3-1glcbd5.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/ouya-image20170606-3-toknip",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/thumbnail20170606-3-e84nu0.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/ouya-image20170606-3-9ut7k1",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/thumbnail20170606-3-1vlo8ea.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/ouya-image20170606-3-byxzo2",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4b08fadd-294b-4deb-9160-4654bd65af2d\/thumbnail20170606-3-1ifke0m.png"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "CounterParry",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "direrpg.com",
+    "firstPublishedAt": "2015-05-31T03:13:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2017 by CounterParry.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.33,
+        "count": 12
+    }
+}

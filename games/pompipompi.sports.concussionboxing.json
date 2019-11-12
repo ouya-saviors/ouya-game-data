@@ -1,0 +1,81 @@
+{
+    "packageName": "pompipompi.sports.concussionboxing",
+    "title": "Concussion Boxing",
+    "description": "Concussion Boxing is a 1 vs 1 mixed martial arts fighting game.\r\nPlay against the Neural Network AI with one of 3 different play styles.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.17",
+            "versionCode": 0,
+            "uuid": "15ce0c10-1f2d-4158-80f5-5af62b789ff7",
+            "date": "2014-03-07T21:32:18Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2cd2d02e-62c5-4651-abcd-0988a3e8d8e9\/pompipompi.sports.concussionboxing\/15ce0c10-1f2d-4158-80f5-5af62b789ff7\/22Yu7u9DRnKb1rGo1uN3_ConcussionBoxing.apk",
+            "size": 24393473,
+            "md5sum": "36a11c996c74d41897a725e99ed0da2b",
+            "publicSize": 549343,
+            "nativeSize": 1402144
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.sports.concussionboxing\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WZKkuy9GSC20Apndo7T5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bdCyJrVYRRCnRlByRpQt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KrwkPGDbQvuWfUuC2qWJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2LAwAS7TACQfuOaSmZ9A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SxXq4dOsQri7mBPiZDmh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SQeiGWTlR6aXdn4JBBin"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bdCyJrVYRRCnRlByRpQt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bdCyJrVYRRCnRlByRpQt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KrwkPGDbQvuWfUuC2qWJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KrwkPGDbQvuWfUuC2qWJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2LAwAS7TACQfuOaSmZ9A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2LAwAS7TACQfuOaSmZ9A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SxXq4dOsQri7mBPiZDmh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SxXq4dOsQri7mBPiZDmh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SQeiGWTlR6aXdn4JBBin\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SQeiGWTlR6aXdn4JBBin\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Pompi Pompi Entertainment",
+        "supportEmail": "support@pompipompi.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.pompipompi.net\/",
+    "firstPublishedAt": "2014-01-21T17:55:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Pompi Pompi Entertainment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 1.97,
+        "count": 60
+    }
+}

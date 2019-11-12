@@ -1,0 +1,92 @@
+{
+    "packageName": "doe2.android.free",
+    "title": "Defile of Eden 2 - Demo",
+    "description": "Zelda meets Team Fortress, Tank Jr from Quake III meets a child's coloring book. Defile of Eden 2 is a fast paced, 2D multiplayer action game. Players can team up or battle against each other (or bots) over the Internet or local network to either defend or defile the world in which they currently reside. Each team's main goal is to destroy each others objective whilst keeping their own from peril.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "469471c8-d242-4d49-9cdb-292bd83c4a9f",
+            "date": "2014-05-22T08:07:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/808f13cf-3e3a-4f05-a438-718b314cbe3e\/doe2.android.free\/469471c8-d242-4d49-9cdb-292bd83c4a9f\/U8fSKG8ETgFoShsvIFrw_doe2-demo-release.apk",
+            "size": 45650919,
+            "md5sum": "7fb38c8c0cd793b861a6828bf032299a",
+            "publicSize": 82222,
+            "nativeSize": 2390756
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/doe2.android.free\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YWGeq1LESgql67mrNq1y",
+        "video": "https:\/\/vimeo.com\/94832003",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AdKD1a5FRBKJE8yFENba",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jt3JH6cQlaIEviJvHBTm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pjlEROYRTSKMag1YuIvg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FBVGZfTnQMqygZlnfHM0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rSfSSOFIRY2hyxIOH6bE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wo1lKIuvQ0qlgNBMipir"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/94832003"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AdKD1a5FRBKJE8yFENba",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AdKD1a5FRBKJE8yFENba"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jt3JH6cQlaIEviJvHBTm",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jt3JH6cQlaIEviJvHBTm"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pjlEROYRTSKMag1YuIvg",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pjlEROYRTSKMag1YuIvg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FBVGZfTnQMqygZlnfHM0",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FBVGZfTnQMqygZlnfHM0"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rSfSSOFIRY2hyxIOH6bE",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rSfSSOFIRY2hyxIOH6bE"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wo1lKIuvQ0qlgNBMipir",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wo1lKIuvQ0qlgNBMipir"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Sanguine Laboratories",
+        "supportEmail": "contact@sanguinelabs.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/www.sanguinelabs.co.uk\/doe2",
+    "firstPublishedAt": "2014-05-22T08:07:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Sanguine Laboratories.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2,
+        "count": 18
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "packageName": "com.StrychiPixel.GiftScape_Ouya",
+    "title": "Gift Scape",
+    "description": "Gifts Are Escaping!\r\n\r\nYour Mission Is To Get Gifts Back To Color Matching Rings!\r\nPress Up And Down On The Dpad To Move Rings!\r\n\r\nGood Luck To Bring The Gifts Back!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Meditative",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "4.4.8",
+            "versionCode": 0,
+            "uuid": "ef8c7c6d-c0d1-4d49-b944-407d6351e845",
+            "date": "2014-12-18T11:07:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a5cafc0-0b46-4ef8-94e4-915a2d332167\/com.StrychiPixel.GiftScape_Ouya\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/tboguTJnSOuNbR0wNAag_Giftscape%20ouya%204.4.8.apk",
+            "size": 17028665,
+            "md5sum": "30ad05d041b2279e4b717c3afc745421",
+            "publicSize": 6896339,
+            "nativeSize": 8607772
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.strychipixel.giftscape_ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tRpy9B9bR6iyIbMSJy9d",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wfEjF5IDSjqfPJY6AxOE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SMtO14jSTeeJqMtXzA48",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T3BLExrhSzmqbvWRyxBS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6nQ8lKs5Ryy3jtneRCno",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3g1KkWgQY6v3e8RFHzHs"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/20z0tz_ouya-screenshot20141212-2-76qqr4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/thumbnails\/thumbnail20141212-2-1dzth5i.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/9uve0c_ouya-screenshot20141212-2-1ciypdg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/thumbnails\/thumbnail20141212-2-34f6e4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/czsadn_ouya-screenshot20141212-2-o8nk20.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/thumbnails\/thumbnail20141212-2-wxnwsj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/kv71hh_ouya-screenshot20141212-2-1fzmj6p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/thumbnails\/thumbnail20141212-2-1pne59k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/fxwg9b_ouya-screenshot20141212-2-i1x8cl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ef8c7c6d-c0d1-4d49-b944-407d6351e845\/thumbnails\/thumbnail20141212-2-1059ejp.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a5cafc0-0b46-4ef8-94e4-915a2d332167",
+        "name": "Strychi Pixel",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.strychipixel.webs.com",
+    "firstPublishedAt": "2014-12-18T11:07:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Strychi Pixel.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.69,
+        "count": 13
+    }
+}

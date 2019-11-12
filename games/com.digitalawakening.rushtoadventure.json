@@ -1,0 +1,93 @@
+{
+    "packageName": "com.digitalawakening.rushtoadventure",
+    "title": "Rush to Adventure",
+    "description": "PAX version:\r\nThis one got stars, hearts and powerups to pick up on the level as well as minor updates.\r\n\r\nRush to Adventure is a retro style 2D action adventure platforming game, inspired by old 8-bit Nintendo classics like the original Zelda games. You arrive on an island, only to discover it is almost overrun by monsters. Assist the islanders, level up your hero, find new weapons and uncover the secrets of the island. Can you rid the island of its curse?\r\n\r\nThis alpha release contains about 20-30 minutes of content but offers a lot of replayability. Containing 10 short, action packed levels and 4 difficulties. You are also scored and ranked at the end of each level. Trying to S-rank every level is quite a challenge. Play on insane difficulty at your own risk.\r\n\r\n\"The feeling of running through a level, nailing every hit, getting perfect jumps, and navigating it perfectly. It becomes a dance. I really, really enjoy that. It's quite a hard thing to achieve in game design. You've done it, and I love it. Can't get enough of this game.\" @greenlig",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "0.1.2",
+            "versionCode": 0,
+            "uuid": "6760de30-bfcb-4f1e-bb28-6f8b9dee7a19",
+            "date": "2014-08-29T06:25:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/722dde2e-33b0-4028-a60d-eafd95024a5b\/com.digitalawakening.rushtoadventure\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/Ls42Xp6SYmzz8x4cF4S9_com.digitalawakening.rushtoadventure.apk",
+            "size": 20948439,
+            "md5sum": "ace60f6739c6991598a0bbbbf58818c9",
+            "publicSize": 17099,
+            "nativeSize": 6709192
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.digitalawakening.rushtoadventure\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iB4DHAKQT233sFd3CeHe",
+        "video": "https:\/\/vimeo.com\/102864583",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XCTkc7RSweBvCT5VuBT9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bDBUP09gQKKB5Xkbg0fa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nMRz7bYZSsWNkfs0fQAe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WFcGctBwRNSiBMHdVWoE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sYk6blUTq23IIQUU3ofF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z9OTLNAUSSXZLbzSNlQQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102864583"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/57wdu5_ouya-screenshot20140821-2-1h7muhk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/thumbnails\/thumbnail20140821-2-1j29q27.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/xyj0gz_ouya-screenshot20140821-2-d1t8y2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/thumbnails\/thumbnail20140821-2-1kidy6m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/4su4x6_ouya-screenshot20140821-2-1krvmrj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/thumbnails\/thumbnail20140821-2-1d0r5it.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/mq2gmj_ouya-screenshot20140821-2-13bsncc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/thumbnails\/thumbnail20140821-2-u4yofx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/ipbogg_ouya-screenshot20140821-2-1uhu4u4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/thumbnails\/thumbnail20140821-2-19hdm9y.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/egad2x_ouya-screenshot20140821-2-m5wmdr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6760de30-bfcb-4f1e-bb28-6f8b9dee7a19\/thumbnails\/thumbnail20140821-2-13fp7sl.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Magnus Esko",
+        "supportEmail": "digawse@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.digitalawakening.se",
+    "firstPublishedAt": "2014-08-03T19:03:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Magnus Esko.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.94,
+        "count": 216
+    }
+}

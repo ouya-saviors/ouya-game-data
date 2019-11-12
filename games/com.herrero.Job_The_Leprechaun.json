@@ -1,0 +1,70 @@
+{
+    "packageName": "com.herrero.Job_The_Leprechaun",
+    "title": "Job the Leprechaun",
+    "description": "Retro style platformer and action game!\r\nHelp Job the Leprechaun to save Eri through more than 30 levels full of monsters and puzzles.\r\nUse your green hat to crush the enemies!\r\nBased on classic 80\u00b4s-90\u00b4s platformer games, Alex Kidd, Snow Bros, Sonic the Hedgeogh, Super Mario Bros, Solomon\u00b4s Club...\r\nPixl-art and 8-bit retro chip-music.\r\n\r\n\r\n---Super Game Droid: \"Many indie devs try to make fun retro themed platformers but many miss the mark by once the game is released. That isn\u2019t the case in Job the Leprechaun\"\r\n\r\n---Google Play comment: \"This very unexpected little gem easily sits among the best 8-bit classics. It has great music, precise controls, and fantastic level design.\"",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.3.2",
+            "versionCode": 0,
+            "uuid": "d296ed2b-69e9-417a-9fdf-5747e71cf5b8",
+            "date": "2016-03-25T12:31:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e2e3f60f-802e-452c-97ca-aa55b7799319\/com.herrero.Job_The_Leprechaun\/ba7c08d9-2081-4c6c-ae0e-2e079bbc0b8d\/ixvb4ajuTnegJvw9PsNX_job_ouya_1.3.2.apk",
+            "size": 15425039,
+            "md5sum": "b726ff2bdd3aab503e565b71b1bddff9",
+            "publicSize": 1018151,
+            "nativeSize": 8706120
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.job_the_leprechaun\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9zw4wCqNTycWBSNGaBBk",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HHLpchfuRuOLqMe2Gfg7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DXk21rSkSPKTBXYCpR7f",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sJW64StTAaz2OAYrwuGy"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/hhwoi0_ouya-screenshot20151225-3-dxtv2i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/thumbnails\/thumbnail20151225-3-1isno6d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/p0fr5d_ouya-screenshot20151225-3-i0peb4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/thumbnails\/thumbnail20151225-3-jbe7v8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/2tnx8q_ouya-screenshot20151225-3-120jk2b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/thumbnails\/thumbnail20151225-3-13v05zl.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "e2e3f60f-802e-452c-97ca-aa55b7799319",
+        "name": "Herrero Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.alvaroherrero.es\/",
+    "firstPublishedAt": "2015-01-28T19:22:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2016 by Herrero Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.8,
+        "count": 128
+    }
+}

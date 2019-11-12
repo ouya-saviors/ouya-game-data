@@ -1,0 +1,83 @@
+{
+    "packageName": "com.monsterfingergames.colourcombat",
+    "title": "Colour Combat",
+    "description": "v1.1 Now with Xtreme mode!\r\n\r\nfull update log below description\r\n\r\nA space shooter with a twist!\r\n\r\nColour Combat is a shooter were changing the colour of your ship is paramount to your survival.\r\n\r\nDepending on your colour will depend on which colour shots you can absorb and which enemies you can destroy.\r\n\r\nv1.1 \r\n\r\nU now fires special\r\nL1 also changes form now\r\nasteroids are now different sizes\r\nXtreme mode now included for those who donate twice\r\nDRM free",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Puzzle\/Trivia",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "5c63b2f5-8b22-4058-a97d-3220c710f089",
+            "date": "2015-01-02T20:49:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a4ac8f4f-1c28-4f2a-9190-b06d525266bf\/com.monsterfingergames.colourcombat\/5c63b2f5-8b22-4058-a97d-3220c710f089\/n5WEikHlS4WzKY2IVsN5_Colour%20Combat%20ouya.apk",
+            "size": 14508091,
+            "md5sum": "6081a1585c695721b680595a1467dd51",
+            "publicSize": 12481134,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9hI1yPf4QlqJ0KULI2Qr",
+        "video": "http:\/\/vimeo.com\/115631291",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EJC5QBgTkSbP4kSzpJdM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GQDhBLzQYSaU0x3k1c8w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rRBGsQVAQ6aaGlE6iZxw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dzPFxNi7QeuZLS7G8KWJ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/115631291"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/ql63ee_ouya-screenshot20141230-2-18qjnx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-1jdvj3k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/jqm5hr_ouya-screenshot20141230-2-ll5ttk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-1c3yovd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/qz2266_ouya-screenshot20141230-2-1xfwvbx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-fyo31y.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/4yk6et_ouya-screenshot20141230-2-15mt69c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-1yhch7e.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "a4ac8f4f-1c28-4f2a-9190-b06d525266bf",
+        "name": "Monster Finger Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2014-12-22T23:05:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by Monster Finger Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.2,
+        "count": 50
+    }
+}

@@ -1,0 +1,115 @@
+{
+    "packageName": "com.runestonegames.mysterycastle.ouya",
+    "title": "Mystery Castle",
+    "description": "The award-winning Mystery Castle series has arrived on the OUYA. \r\n\r\nJoin Monty the Wizard as he explores the Castles of Mystery and outwits the evil Monster Barons.\r\n\r\nCan you solve all the puzzles and defeat the boss monsters?\r\n\r\nMystery Castle is suitable for players of all ages with sharp wits that enjoy brainteasers, puzzles and adventure.\r\n\r\n32 free stages from 5 castles.\r\n\r\n\u2022 Hint system to help players progress further.\r\n\u2022 New gameplay and puzzle features in every castle.\r\n\u2022 Humorous dialogue.\r\n\r\nJoin us at http:\/\/facebook.com\/RunestoneGames",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "cf852492-2351-47cd-8f92-6895acb92b8c",
+            "date": "2013-11-23T09:08:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6c9840ee-e02a-4fbd-a4f9-97acda4761e9\/com.runestonegames.mysterycastle.ouya\/cf852492-2351-47cd-8f92-6895acb92b8c\/uFuk2NuSMaYasEYAg9qJ_MCHD_OUYA.apk",
+            "size": 26890221,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.runestonegames.mysterycastle.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8jDBY852TcSS6IvNxfzF",
+        "video": "https:\/\/vimeo.com\/85714513",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BlrMGLnvSXm6MwBcZPtO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vo0dJZTWRyeHbh5hNeMj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Uv4FxcVpT2SAkcSO1HZI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S1iKt4NfSiqudEmedsyA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x8LsT1zMTMhPx4WSf6gl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DVOZbp9SGS8BJJDiYRBA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7syooAMRXSnoDXJ4C6Sz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AyutZiPRTQ2Zp53vkAmO"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/85714513"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BlrMGLnvSXm6MwBcZPtO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BlrMGLnvSXm6MwBcZPtO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Vo0dJZTWRyeHbh5hNeMj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Vo0dJZTWRyeHbh5hNeMj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Uv4FxcVpT2SAkcSO1HZI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Uv4FxcVpT2SAkcSO1HZI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/S1iKt4NfSiqudEmedsyA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/S1iKt4NfSiqudEmedsyA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/x8LsT1zMTMhPx4WSf6gl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/x8LsT1zMTMhPx4WSf6gl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DVOZbp9SGS8BJJDiYRBA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DVOZbp9SGS8BJJDiYRBA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7syooAMRXSnoDXJ4C6Sz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7syooAMRXSnoDXJ4C6Sz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AyutZiPRTQ2Zp53vkAmO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AyutZiPRTQ2Zp53vkAmO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Runestone Games Limited",
+        "supportEmail": "monty@runestone-games.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.runestone-games.com\/index.php?newsID=335",
+    "firstPublishedAt": "2013-11-23T09:08:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Runestone Games Limited.",
+    "premium": false,
+    "rating": {
+        "likeCount": 226,
+        "average": 3.89,
+        "count": 286
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MCHDEPISODE1",
+            "name": "Mystery Castle - The Fortress Underground",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

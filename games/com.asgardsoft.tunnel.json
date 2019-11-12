@@ -1,0 +1,83 @@
+{
+    "packageName": "com.asgardsoft.tunnel",
+    "title": "Speed Tube 3D",
+    "description": "Speed Tube 3D is a racing game in which you have to navigate your ship through a three-dimensional space tunnel.\r\nFaster and faster becoming gates, which you need to dodge skillfully to unlock level by level.\r\nThe difficulty increases with each level, new gates are added, the tube curved, during everything is getting faster.\r\nAt the end of each theme you can earn points and play with your friends to race in the endless games.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.4.5",
+            "versionCode": 0,
+            "uuid": "d793eb25-61f0-44b9-986a-9d509a519b03",
+            "date": "2014-07-25T19:01:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0677e9cd-6b61-4115-be2b-0aaee0582f18\/com.asgardsoft.tunnel\/d793eb25-61f0-44b9-986a-9d509a519b03\/WG2GGtWRtyWxWqaps2DI_Tunnel145_ouya.apk",
+            "size": 18524423,
+            "md5sum": "ac823ddd5117fa90f44dd6a8c705d026",
+            "publicSize": 18436681,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.asgardsoft.tunnel\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rkh4ioZRCeDcCr3kQKGD",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JVBD2ACzRhGeTNbMeDOD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tDVChDPiQ1GbZgxyKqx0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2JElLPrTJ2hQF6wdcEkj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yXVncWmZRYCZ2yxDXmY4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/swmXlZrXRMyJB5Td8wSe"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/9ab295_ouya-screenshot20140725-2-tsfubm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/thumbnails\/thumbnail20140725-2-1s1nwaj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/6y61tj_ouya-screenshot20140725-2-djv1va.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/thumbnails\/thumbnail20140725-2-1sgsdrj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/ictixn_ouya-screenshot20140725-2-ej5drl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/thumbnails\/thumbnail20140725-2-iouno1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/3qz1s0_ouya-screenshot20140725-2-t5lhpf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/thumbnails\/thumbnail20140725-2-prsu04.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/bk8i8_ouya-screenshot20140725-2-zettgt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d793eb25-61f0-44b9-986a-9d509a519b03\/thumbnails\/thumbnail20140725-2-7z8n89.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AsgardSoft",
+        "supportEmail": "Ronald.Geisler@AsgardSoft.de",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "AsgardSoft.com",
+    "firstPublishedAt": "2013-09-20T03:01:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by AsgardSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 55,
+        "average": 3.52,
+        "count": 138
+    }
+}

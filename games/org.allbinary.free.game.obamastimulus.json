@@ -1,0 +1,85 @@
+{
+    "packageName": "org.allbinary.free.game.obamastimulus",
+    "title": "Obama Stimulus",
+    "description": "Tired of the government. Well now you can collect stimulus money like those too big to fail. Levels progress faster and harder as you collect the stimulus money. This is a parody\/satire action game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 0,
+            "uuid": "c2978d7a-5c9d-4225-a903-a5f32141f7e5",
+            "date": "2013-12-20T05:11:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f820176d-de15-481b-bdac-f17a98fdeeaa\/org.allbinary.free.game.obamastimulus\/c2978d7a-5c9d-4225-a903-a5f32141f7e5\/aFJcrHOlQCGsMJJd4wlx_ObamaStimulusAndroidApplicationOuya.apk",
+            "size": 2617701,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.free.game.obamastimulus\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WZTgiF0vSGCawkPKE4tY",
+        "video": "https:\/\/vimeo.com\/82175211",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mozuuITJupGfNZGi3xjA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/583i4egdSiWpRsHkFl6w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HIgmjXHTTPqShiOstHg7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nxNSVY2StpygLPxUWH9w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i3nwZhTeRdKsXTmxEiir"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82175211"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mozuuITJupGfNZGi3xjA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mozuuITJupGfNZGi3xjA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/583i4egdSiWpRsHkFl6w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/583i4egdSiWpRsHkFl6w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HIgmjXHTTPqShiOstHg7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HIgmjXHTTPqShiOstHg7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nxNSVY2StpygLPxUWH9w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nxNSVY2StpygLPxUWH9w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i3nwZhTeRdKsXTmxEiir\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i3nwZhTeRdKsXTmxEiir\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AllBinary",
+        "supportEmail": "support@allbinary.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.allbinary.com",
+    "firstPublishedAt": "2013-12-20T05:11:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by AllBinary.",
+    "premium": false,
+    "rating": {
+        "likeCount": 13,
+        "average": 2.11,
+        "count": 18
+    }
+}

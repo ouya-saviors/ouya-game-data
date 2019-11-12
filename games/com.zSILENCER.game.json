@@ -1,0 +1,83 @@
+{
+    "packageName": "com.zSILENCER.game",
+    "title": "SILENCER",
+    "description": "Multiplayer CTF sidescroller.  Competitive team play.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Fight!",
+        "Multiplayer",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "00022",
+            "versionCode": 0,
+            "uuid": "cbca2630-8def-44de-9989-666c1800a2a5",
+            "date": "2014-10-01T17:57:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bd7532f8-82db-45d0-b969-0f9236045d43\/com.zSILENCER.game\/cbca2630-8def-44de-9989-666c1800a2a5\/Plhm5lQr3Nund2giFABu_SDLActivity-debug.apk",
+            "size": 7163416,
+            "md5sum": "6351d8f4bf1bc7818a952f385f26a5f9",
+            "publicSize": 210818,
+            "nativeSize": 1898596
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zsilencer.game\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C5irOXL9SgOJVH5B824U",
+        "video": "http:\/\/vimeo.com\/107626781",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IzXzlU74QyqiKoSdMD18",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rViIalmMRQOkfQzNPdCa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aUGF84QXRcq4zw66xWFP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0P8EhJyrRiZ2E1U6I5wb"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/107626781"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/uo0vdi_ouya-screenshot20140930-2-11d6aeq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-158rf6q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/k7rtyg_ouya-screenshot20140930-2-19ikdu2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-pmfpzi.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/gi1zjb_ouya-screenshot20140930-2-oahgj8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-1xbvufb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/58pr5t_ouya-screenshot20140930-2-1b5qhfy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-udpz3t.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "zsilencer",
+        "supportEmail": "zsilencergame@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/zsilencer.com",
+    "firstPublishedAt": "2014-10-01T17:57:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by zsilencer.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 3.9,
+        "count": 67
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "packageName": "com.dishmoth.miniquests",
+    "title": "Mini Quests",
+    "description": "Explore dungeons, solve puzzles, fight monsters, be a hero!\r\n\r\nThis isometric adventure is brought to life in an ultra-low resolution of 40-by-30 pixels and 16 colours.\r\n\r\nThe game currently features four challenging, Zelda-esque dungeons.  More will be added over time.\r\n\r\nCost: Free",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "4.0.0",
+            "versionCode": 0,
+            "uuid": "6cfc7a61-bae8-414f-bbe8-cc3bdde882ae",
+            "date": "2014-12-01T20:00:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/971cd446-41f4-4e44-bbc8-902d4e078b85\/com.dishmoth.miniquests\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/yl5VBaeQNmPu6xZvcFWt_MiniQuests-android.apk",
+            "size": 1932120,
+            "md5sum": "2bc74e670880bbab232b4ac9df5fac87",
+            "publicSize": 9160,
+            "nativeSize": 723548
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DI7AIEr8R8md9zrxn4na",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wQ3uc8O4T4y2UJOve3Ig",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7MCinB1EQ3GuQKtkCKar",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mkV6FO4TbG9ODAXJq7vP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J4jIeH3NQ6eFW8FPYowF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/zxpsel_ouya-screenshot20141130-2-1gkhxpo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-15p0al1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/wqmpjz_ouya-screenshot20141130-2-1kjv0j2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-efwx3f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/fw15m6_ouya-screenshot20141130-2-9530cx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-enzs4u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/nwk3ns_ouya-screenshot20141130-2-epr8rz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-ndi8hx.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "dishmoth",
+        "supportEmail": "dishmoth@yahoo.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/dishmoth.com\/games\/mini-quests\/",
+    "firstPublishedAt": "2013-08-27T19:33:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by dishmoth.",
+    "premium": false,
+    "rating": {
+        "likeCount": 118,
+        "average": 3.57,
+        "count": 99
+    }
+}

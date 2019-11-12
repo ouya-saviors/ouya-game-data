@@ -1,0 +1,77 @@
+{
+    "packageName": "com.EthanRedd.BitNinjas",
+    "title": "8Bit Ninjas",
+    "description": "Become the Unnamed ninja and begin your quest to greatness in 8Bit Ninjas!\r\n8Bit Ninjas captures the essence of what made early 90's-era games so much fun: from simple but deep mechanics, to airtight platforming controls, to fierce 4 player free-for-all and cooperative multiplayer, 8Bit Ninjas is a throwback to days long past. Genre-bending mechanics, a quirky story, and a unique aesthetic will keep you coming back for more!\r\n\r\nFull version includes additional content, as well as future updates and improvements :D",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Kids List",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": ".154fix",
+            "versionCode": 0,
+            "uuid": "add6ae84-c1ec-44ff-841a-ee86b65bf80a",
+            "date": "2013-06-28T15:57:56Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/787bdc18-5475-43f7-b28f-657f49d48105\/com.EthanRedd.BitNinjas\/add6ae84-c1ec-44ff-841a-ee86b65bf80a\/RZMzwPHbSaiHzrUbBSsg_8bnv0154.apk",
+            "size": 61896633,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ethanredd.bitninjas\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q96vPWtCT82f7TkfS1Io",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gLGuhkFMRfGX6vCD3Zx8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hGUXpPr4RruE30cF8E3S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gNc2RLzRR8GwaSCxflsK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C4Rdni6NTC64mSVSXYYk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gLGuhkFMRfGX6vCD3Zx8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gLGuhkFMRfGX6vCD3Zx8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hGUXpPr4RruE30cF8E3S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hGUXpPr4RruE30cF8E3S\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gNc2RLzRR8GwaSCxflsK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gNc2RLzRR8GwaSCxflsK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C4Rdni6NTC64mSVSXYYk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C4Rdni6NTC64mSVSXYYk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ethan Redd",
+        "supportEmail": "service@gotenrg.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.8BitNinjasGame.com",
+    "firstPublishedAt": "2013-06-23T21:54:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Ethan Redd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 95,
+        "average": 2.69,
+        "count": 121
+    }
+}

@@ -1,0 +1,109 @@
+{
+    "packageName": "com.krisattfield.icbm",
+    "title": "The Inter-Continental Brink of Madness",
+    "description": "\"The Inter-Continental Brink of Madness\" is a 2-4 player turn-based strategy board-like game that takes place in the not-too-distant future. The players are world leaders who are led by the inner circles of their societies to declare war on each other. So, they'd like nothing more than to control the other player nations. The goal of the game is not world domination, but just to dominate the other players.\n\nYou can engage in diplomacy, trade, building and conventional and nuclear warfare.\n\nThis game can be played in \"hotseat mode\" (1 controller, multiple players).\n\nIf you have comments, suggestions or bug reports, feel free to email the developer at krisa@icloud.com.\n\nNEW in version 1.5.5: Finally fixed the game so it works properly with Android TV 6.0.1 - The game no longer restarts when unwanted. When it goes down, it stays down! Added \"Exit\" button to the main menu.\nNEW in version 1.5.8: Pausing the game and pressing B on Serval and A on the OUYA controller will exit the game. Many numerous bug fixes - runs much better and smoother now.\nFINAL in version 1.6.0: Fixed offline-DRM. Fixed the limit of only 3 saves upon restarting the game -- you get the counter of saves set back to zero upon restarting the game.\n\nTHANK YOU, EVERYONE, FOR ALL THE FUN.",
+    "players": [
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Dual Stick",
+        "Meditative",
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.6.0",
+            "versionCode": 17,
+            "uuid": "f42210b0-e51e-4e53-9d03-6c081134f444",
+            "date": "2017-12-27T19:55:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9de3ccdc-f6e8-49d3-900a-217dc0867bd7\/com.krisattfield.icbm\/f42210b0-e51e-4e53-9d03-6c081134f444\/0caMGSBiQl2Z79AQixJ5_ICBM-release.apk",
+            "size": 32329506,
+            "md5sum": "60464d16fae62d4723b78fc3a90a1dc8",
+            "publicSize": 25463584,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.icbm\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EY1HE1PRnm4bF9LwsBeX",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dm8R9DgvQ3We7boBGgCn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/STVnHvQwCG17S9KGIadQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PhYD5b24T6XmJOip3H4n",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9nIUgAISIifbrfmtRoB1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qv5zpqRjS2fGOvmxtfgN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eOZMSqEjSFmkbN567fvg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6NQvPgooT6h8qpZzf79p"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/8gh0fh_ouya-screenshot20160523-3-meyhas.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-11mw9fa.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/7ze1s_ouya-screenshot20160523-3-1nl0pkk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-vyq7hz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/pq86bn_ouya-screenshot20160523-3-sxomqn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-1pt1fwu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/cz1nw7_ouya-screenshot20160523-3-1846b7p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-199zocf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/jkkek0_ouya-screenshot20160523-3-8k1k88.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-10kfr61.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/tsa8ww_ouya-screenshot20160523-3-whu0lx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-ta3wpl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/tc5eyo_ouya-screenshot20160523-3-1c1k9c7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40fb9276-1157-4b32-8c78-e5badd4f3da7\/thumbnails\/thumbnail20160523-3-1c9gbhb.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kris Attfield",
+        "supportEmail": "krisa@icloud.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.krisattfield.com",
+    "firstPublishedAt": "2013-11-22T19:59:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2017 by Kris Attfield.",
+    "premium": false,
+    "rating": {
+        "likeCount": 9,
+        "average": 2.33,
+        "count": 18
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock_paid_icbm",
+            "name": "Unlock 3 or 4 players and more countries",
+            "description": "Unlocks 3 and 4 player games, and opens up the option to possibly start the game as any country. Allows for changing game options.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

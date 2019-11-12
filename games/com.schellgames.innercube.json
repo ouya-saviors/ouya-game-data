@@ -1,0 +1,81 @@
+{
+    "packageName": "com.schellgames.innercube",
+    "title": "InnerCube",
+    "description": "Think, roll, match, survive!\r\n\r\nGet ready for InnerCube, an action-packed puzzle game where your very survival depends on the swiftness of your reflexes and the dexterity of your mind. Deftly control a multi-colored cube across a three dimensional grid to capture colored tiles. \r\n\r\nChoose from two tantalizing modes: a challenging Puzzle Mode where every move counts or a fast and frantic Survival Mode where combos score you huge points.\r\n \r\nFor just $0.99, you get 105 incredible puzzles and unlimited survival play. That\u2019s less than a penny a puzzle.\r\n \r\nPlay today!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "139830fe-2057-4fa9-bc5f-3d9065c29be8",
+            "date": "2013-08-15T19:55:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/34821f85-62dc-48c2-9f88-e7534799f218\/com.schellgames.innercube\/139830fe-2057-4fa9-bc5f-3d9065c29be8\/ygY9KrYWRcSgJYE8v1ry_InnerCubeOuya-06-13-17-05.apk",
+            "size": 38613905,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.schellgames.innercube\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RYumrwDTX6uIIkwUihpA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fgm0OomxQwGSWFheImCt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ca03QonlRtyb6gvbKh6k",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pJXjkmQGSU6LGoGwXTaQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fKWhB0gvRAGcl43IFN9w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ghr5WkhQMePkuBzXpyXH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fgm0OomxQwGSWFheImCt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fgm0OomxQwGSWFheImCt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ca03QonlRtyb6gvbKh6k\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ca03QonlRtyb6gvbKh6k\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pJXjkmQGSU6LGoGwXTaQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pJXjkmQGSU6LGoGwXTaQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fKWhB0gvRAGcl43IFN9w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fKWhB0gvRAGcl43IFN9w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ghr5WkhQMePkuBzXpyXH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ghr5WkhQMePkuBzXpyXH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Schell Games",
+        "supportEmail": "innercube-support@schellgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.schellgames.com\/",
+    "firstPublishedAt": "2013-08-15T19:55:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Schell Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 57,
+        "average": 4.15,
+        "count": 40
+    }
+}

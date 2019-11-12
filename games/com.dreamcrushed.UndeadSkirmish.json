@@ -1,0 +1,94 @@
+{
+    "packageName": "com.dreamcrushed.UndeadSkirmish",
+    "title": "Undead Skirmish",
+    "description": "Undead Skirmish is an arena style dual joystick action game. All of the fighting is done completely with the two joysticks. Fight wave after wave of undead in the arena. Need a little more adventure in your life? In dungeon mode you can search the randomly generated dungeons for the key to the next level. See how far down you can get. Be cautious though, the necromancers minions will be hot on your heels every step of the way.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "2.0",
+            "versionCode": 0,
+            "uuid": "142db26e-88ce-4fd8-833d-3013d6e20575",
+            "date": "2014-07-18T22:46:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c8fbe834-b43b-44a0-ad71-15d4368eae9c\/com.dreamcrushed.UndeadSkirmish\/142db26e-88ce-4fd8-833d-3013d6e20575\/24HLSsnLRiC98Auo1JeJ_UndeadSkirmishRelease.apk",
+            "size": 108875541,
+            "md5sum": "271bd43fd34ebfb522c91afb0b7d4b5c",
+            "publicSize": 437915,
+            "nativeSize": 14770156
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dreamcrushed.undeadskirmish\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Xk8p28xUTuKuI6aNp8Ts",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zNzbaNkCSs2YTlr6qpW4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6qV9xNfOT8ORLAxeSk2u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BB67OGhfRQeS5K6qDgt7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4faP62wzSBa2Da05t2cV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rrT5R2EcSSWV1hwECH8L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NRZdE9BbS1CSnMKvhy3H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P8q3luX6SdinMNAAdIde"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/zi4jts_ouya-screenshot20140718-2-1utrfr3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-ovayk8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/8xzldj_ouya-screenshot20140718-2-1n8cpo7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-1w6ih58.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/xx6c3l_ouya-screenshot20140718-2-1cv6asw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-3v1jhg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/isdwjw_ouya-screenshot20140718-2-1p4zbse.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-wy2de9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/sn96ux_ouya-screenshot20140718-2-zombh2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-e3hy6k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/54zdnr_ouya-screenshot20140718-2-1xgr2ro.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-13rq9bj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/ziq468_ouya-screenshot20140718-2-1gnyj9b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/142db26e-88ce-4fd8-833d-3013d6e20575\/thumbnails\/thumbnail20140718-2-138nqv7.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dream-Crusher Labs, LLC",
+        "supportEmail": "apps@dream-crushed.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.dreamcrusherlabs.com",
+    "firstPublishedAt": "2014-07-18T22:46:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Dream-Crusher Labs, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.11,
+        "count": 45
+    }
+}

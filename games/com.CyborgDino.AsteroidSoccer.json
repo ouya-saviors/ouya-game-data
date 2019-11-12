@@ -1,0 +1,98 @@
+{
+    "packageName": "com.CyborgDino.AsteroidSoccer",
+    "title": "Asteroid Soccer 2014",
+    "description": "In the future, scientists have scientifically created Asteroid Soccer! Designed to be the absolutely perfect sport, it has rendered all other sports obsolete in the year 2014. The rules are simple. Pilot your Viper Fighter XJ42 and push the giant space ball into your opponent's goal by any means possible. Equip yourself with the most overpowered weapons, thrusters, bombs, and anything you can find on the space-field so that you can dodge, crash, blast, and explode your way to victory.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "e087fe7b-9544-4640-aa4b-fb81967b56ea",
+            "date": "2014-01-09T23:23:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d50f73f2-a258-4952-98a9-82da0ff1be1a\/com.CyborgDino.AsteroidSoccer\/e087fe7b-9544-4640-aa4b-fb81967b56ea\/XKHwgrOvQgiZgV0FRFQH_AsteroidSoccer2014_beta.apk",
+            "size": 23112096,
+            "md5sum": "3cde52ebd80af344fce193ff5abac2f9",
+            "publicSize": 400578,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cyborgdino.asteroidsoccer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i35TthdQQSEcn8XJ0A8y",
+        "video": "https:\/\/vimeo.com\/79648886",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PvfarPWR9TzUfZ4ifHHg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eo5cytHeRc0mO6i1MRFG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8khUzoQwONMndD2c6PbA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/orixoL5JQeW2clzYxUrw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RfwDFxyARgm7ZKfb2ni7"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/79648886"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PvfarPWR9TzUfZ4ifHHg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PvfarPWR9TzUfZ4ifHHg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eo5cytHeRc0mO6i1MRFG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eo5cytHeRc0mO6i1MRFG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8khUzoQwONMndD2c6PbA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8khUzoQwONMndD2c6PbA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/orixoL5JQeW2clzYxUrw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/orixoL5JQeW2clzYxUrw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RfwDFxyARgm7ZKfb2ni7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RfwDFxyARgm7ZKfb2ni7\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Cyborg Dino Inc.",
+        "supportEmail": "contact@cyborgdino.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.cyborgdino.com",
+    "firstPublishedAt": "2013-11-20T19:20:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Cyborg Dino Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 26,
+        "average": 3.79,
+        "count": 53
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "asteroidsoccer_early",
+            "name": "Asteroid Soccer 2014 Early Access",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

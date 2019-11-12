@@ -1,0 +1,88 @@
+{
+    "packageName": "com.Zebralightning.CycloneFrenzy",
+    "title": "Cyclone Frenzy!",
+    "description": "Cyclone Frenzy! Action-packed Tornado Destruction Mayhem! \r\n\r\nControl your tornado to outrun the mad scientists that created you! Find a balance between destruction and speed! Use boosts to gain distance from the pursuing scientists and avoid the Storm Chasers and Drones to keep speed! Spend the money gained from destruction to upgrade your tornado and play in endlessly generated levels! This game auto-generates it's levels. As a result, the game will load occasionally (the screen may freeze for a second) during gameplay. We are working to solve this issue in the future, donations appreciated! \r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "2.2",
+            "versionCode": 0,
+            "uuid": "4b81f28a-569e-4b43-bc50-32d7ba8fcf0d",
+            "date": "2013-08-21T19:39:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bb220ddf-26b8-43da-a301-65848093e005\/com.Zebralightning.CycloneFrenzy\/4b81f28a-569e-4b43-bc50-32d7ba8fcf0d\/ob0CbCXSTMi5Fl4zWPKM_cycloneOUYA.apk",
+            "size": 38665681,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zebralightning.cyclonefrenzy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ULpimO3gSj29ThtyMjGV",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LFodZcQuSruRTYa4fmhk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dytxw0aaQlA7jn3VHH2Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GgTUkjmTNOi9dInmYENL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IHNvcn4cRLa0aFOp2xbh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l03yYvegSpaS50Ctg333",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/agrv008HSHyfxh3OvA55"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LFodZcQuSruRTYa4fmhk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LFodZcQuSruRTYa4fmhk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dytxw0aaQlA7jn3VHH2Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dytxw0aaQlA7jn3VHH2Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GgTUkjmTNOi9dInmYENL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GgTUkjmTNOi9dInmYENL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IHNvcn4cRLa0aFOp2xbh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IHNvcn4cRLa0aFOp2xbh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l03yYvegSpaS50Ctg333\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l03yYvegSpaS50Ctg333\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/agrv008HSHyfxh3OvA55\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/agrv008HSHyfxh3OvA55\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Zebralightning Studios",
+        "supportEmail": "support@zebralightning.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.zebralightning.com\/",
+    "firstPublishedAt": "2013-08-21T19:39:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Zebralightning Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 44,
+        "average": 3.92,
+        "count": 25
+    }
+}

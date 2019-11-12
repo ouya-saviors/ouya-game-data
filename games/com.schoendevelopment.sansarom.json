@@ -1,0 +1,77 @@
+{
+    "packageName": "com.schoendevelopment.sansarom",
+    "title": "Sansarom 3D",
+    "description": "100 levels in 4 different worlds! Completly free!\r\n\r\nWith over 10000 downloads \"Sansarom\" is one of the most famous marble games on android.\r\n\r\nCan you get the ball to the goal or will you fall down or  die before? You have to avoid many obstacles like canons, catapults, traps, ... Each world has its own thrilling actions, moving or breaking platforms, slippery ground or mechanisms.\r\n\r\n- 4 worlds: ocean - desert - artic - space\r\n- 100 levels\r\n- over 20 different obstacles\r\n- no inapp purchase, its completely free!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.51",
+            "versionCode": 0,
+            "uuid": "fc71bafd-bc00-4dcb-a691-a8d27c8827c6",
+            "date": "2015-12-16T16:14:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/97a59574-c8b8-4064-a7cc-e75f40591ebc\/com.schoendevelopment.sansarom\/fc71bafd-bc00-4dcb-a691-a8d27c8827c6\/FcFBEvVKQs6iuZjLsF2N_Sansarom.apk",
+            "size": 32327792,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.schoendevelopment.sansarom\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wz7FQTRTWWUmjPVhHAf5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ehIJgtC6RUSxK8KzE0CG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W2tpB0uBQtOVBGbzs8ev",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QmApJhBeQCDHijaxVeYR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dv6nqS1VRv2LTFwB6Ahu"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ehIJgtC6RUSxK8KzE0CG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ehIJgtC6RUSxK8KzE0CG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/W2tpB0uBQtOVBGbzs8ev\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/W2tpB0uBQtOVBGbzs8ev\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QmApJhBeQCDHijaxVeYR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QmApJhBeQCDHijaxVeYR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dv6nqS1VRv2LTFwB6Ahu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dv6nqS1VRv2LTFwB6Ahu\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "schoendevelopment",
+        "supportEmail": "contact@schoendevelopment.de",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.schoendevelopment.de",
+    "firstPublishedAt": "2013-06-17T18:32:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by schoendevelopment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 128,
+        "average": 3.68,
+        "count": 171
+    }
+}

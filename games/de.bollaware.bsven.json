@@ -1,0 +1,101 @@
+{
+    "packageName": "de.bollaware.bsven",
+    "title": "Bollaware's SVEN",
+    "description": "Bollaware's SVEN is a classic retro 2D jump'n'run adventure. Guide the Friendly Restless Explorer Sven through the mysterious caves, find secret levels, collect gold coins and awards! You'll walk in dangerous caves, have to pass the darkness and ride in a lorry. Will you find the secret passage ways?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "6.1",
+            "versionCode": 0,
+            "uuid": "b61d782a-c81d-4716-b323-c881523e7833",
+            "date": "2014-10-14T21:18:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/776bb7ec-225d-4a97-ab50-4c90fb9a4130\/de.bollaware.bsven\/b61d782a-c81d-4716-b323-c881523e7833\/O51HA0NCSemA9b98dX8k_Sven-release.apk",
+            "size": 68336125,
+            "md5sum": "0b97120c5df1f5819082b562a85e8208",
+            "publicSize": 427673,
+            "nativeSize": 481740
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QcCvpEaRBK2aJX5tPHhg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4AYPavyJT7qlAfeRjMcB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rDaQWJBSR12XUAW4lgpB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8LGuAikrRRubkEOhcCGY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MXoaon3DQXKau9WsFkau",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4MkLzbKNSpa4eCNI2vkR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yK7mctcXSEqwKDUAIXuS"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/poxymv_ouya-screenshot20141012-2-3c6n1v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-16tinkw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/etobcs_ouya-screenshot20141012-2-kkxh3r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-1jfpv7v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/fulkzh_ouya-screenshot20141012-2-126me76.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-bsxog9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/97c99g_ouya-screenshot20141012-2-j8yhlx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-1v4l4s5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/559efz_ouya-screenshot20141012-2-1lge75i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-1spl684.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/83mjj_ouya-screenshot20141012-2-1q5d1rp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-18pnj4b.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "776bb7ec-225d-4a97-ab50-4c90fb9a4130",
+        "name": "Bollaware",
+        "supportEmail": "docbartoc@googlemail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.bollaware.de",
+    "firstPublishedAt": "2014-01-13T19:04:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Bollaware.",
+    "premium": false,
+    "rating": {
+        "likeCount": 25,
+        "average": 2.69,
+        "count": 108
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sven_all_levels",
+            "name": "Sven All Levels",
+            "description": "Unlock the full game to get access to all levels and trophies. Now 40% discount!",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

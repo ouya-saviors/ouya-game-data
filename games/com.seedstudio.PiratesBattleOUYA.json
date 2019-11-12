@@ -1,0 +1,83 @@
+{
+    "packageName": "com.seedstudio.PiratesBattleOUYA",
+    "title": "Pirate's Battle",
+    "description": "The Seed Studio hit is now available for OUYA!  Play up to 4 players with new customizable Battle Modes!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "996372f2-4cb2-469c-aab1-e6a0fd258e04",
+            "date": "2014-01-06T01:50:59Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ec3b0530-2735-4c02-9371-5f229dad70b6\/com.seedstudio.PiratesBattleOUYA\/996372f2-4cb2-469c-aab1-e6a0fd258e04\/JHpZGpHDSpe2BbnKFgZw_piratesbattle_ouya.apk",
+            "size": 55973091,
+            "md5sum": "decb671f3a335ee461e493fa166a89f8",
+            "publicSize": 677558,
+            "nativeSize": 5061840
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.seedstudio.piratesbattleouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0fipoNsRSn2FXATdQGNe",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gmWro0ztRiKIs8zdWOZ3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NayDXmmlS0ynP6yNoVJd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xn6fcPSY60PJFxcGvevQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tE0H2vzzRZ6yRexMnwnv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fkDMMakQkGUV6ubuykNQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gmWro0ztRiKIs8zdWOZ3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gmWro0ztRiKIs8zdWOZ3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NayDXmmlS0ynP6yNoVJd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NayDXmmlS0ynP6yNoVJd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xn6fcPSY60PJFxcGvevQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xn6fcPSY60PJFxcGvevQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tE0H2vzzRZ6yRexMnwnv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tE0H2vzzRZ6yRexMnwnv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fkDMMakQkGUV6ubuykNQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fkDMMakQkGUV6ubuykNQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Seed Studio Inc.",
+        "supportEmail": "help@seedstudio.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.seedstudio.com",
+    "firstPublishedAt": "2014-01-06T01:50:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Seed Studio Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 77,
+        "average": 3.68,
+        "count": 157
+    }
+}

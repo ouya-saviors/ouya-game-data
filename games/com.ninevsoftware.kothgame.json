@@ -1,0 +1,86 @@
+{
+    "packageName": "com.ninevsoftware.kothgame",
+    "title": "King of the Hill",
+    "description": "King of the Hill is essentially a dirt bike influenced racing game, but with several interesting addons:\r\n\r\n* Endless gameplay modes\r\n* In-game level editor\r\n* Browse&download custom levels in-game\r\n* Retail levels\r\n* Customisable dirt bike\r\n* Realistic physics\r\n* Online highscores\r\n* Several controller schemes\r\n\r\nPlanned features in upcoming releases:\r\n* Same-couch multiplayer\r\n* Ghost-bike\r\n* 3D-mode\r\n* Tons of objects and obstacles\r\n* More retail levels\r\n* And so on...\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "2.1.0",
+            "versionCode": 0,
+            "uuid": "58a88136-1ddf-455c-a196-a37a02a04bbb",
+            "date": "2013-12-19T06:26:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f2a4c48b-4587-4b25-91c8-3453b1fe55e5\/com.ninevsoftware.kothgame\/58a88136-1ddf-455c-a196-a37a02a04bbb\/3Eu1pzUUQ4CdAZ18Ayob_King_of_the_Hill_210_OUYA.apk",
+            "size": 17269025,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ninevsoftware.kothgame\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dXAfvg7Teeeep2uqXHxZ",
+        "video": "https:\/\/vimeo.com\/82226400",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sG5JU1SQNaWJBUS3YQ6K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4LkuyrGQ9ypUCHZUoeFQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ptEgqbTQTCf6L3mIw7sQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i6Mx6kimRpKsZf95EEFc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1YIx7VJkQG66OUnICsiC"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82226400"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sG5JU1SQNaWJBUS3YQ6K\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sG5JU1SQNaWJBUS3YQ6K\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4LkuyrGQ9ypUCHZUoeFQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4LkuyrGQ9ypUCHZUoeFQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ptEgqbTQTCf6L3mIw7sQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ptEgqbTQTCf6L3mIw7sQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i6Mx6kimRpKsZf95EEFc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i6Mx6kimRpKsZf95EEFc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1YIx7VJkQG66OUnICsiC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1YIx7VJkQG66OUnICsiC\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "9Volt Software Sweden",
+        "supportEmail": "koth@9vsoftware.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "koth.9vsoftware.com",
+    "firstPublishedAt": "2013-03-28T16:21:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by 9Volt Software Sweden.",
+    "premium": false,
+    "rating": {
+        "likeCount": 140,
+        "average": 3.46,
+        "count": 85
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "com.baller.tokyohosto",
+    "title": "Tokyo Hosto",
+    "description": "Your name is Jayson Traish, and you have just graduated from high school. You failed your exams horribly and you face a life of menial work. Your only recourse is to try get a job at a host bar, where your duties include, hitting on women, drinking copious amounts of alcohol and cleaning the toilets.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "d09ff28c-748b-498e-9bbe-8e81baac1590",
+            "date": "2013-08-16T19:14:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/04e03347-e7a3-494d-9359-88aff8b02653\/com.baller.tokyohosto\/d09ff28c-748b-498e-9bbe-8e81baac1590\/Iyn7nUtUQSeQ28bc9ORD_com.baller.tokyohosto.apk",
+            "size": 57372111,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.baller.tokyohosto\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BPxwXauSoezVhkgfA5HH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4BPBBAFARJyKe4gg9nBH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v5vravT2QiC97KjqdMHL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vlBL6rfcQwuTtuFbZTqg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4BPBBAFARJyKe4gg9nBH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4BPBBAFARJyKe4gg9nBH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v5vravT2QiC97KjqdMHL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v5vravT2QiC97KjqdMHL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vlBL6rfcQwuTtuFbZTqg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vlBL6rfcQwuTtuFbZTqg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Baller Industries",
+        "supportEmail": "anguscheng5@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "www.ballerindustries.com",
+    "firstPublishedAt": "2013-08-16T19:14:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Baller Industries.",
+    "premium": false,
+    "rating": {
+        "likeCount": 121,
+        "average": 3.02,
+        "count": 111
+    }
+}

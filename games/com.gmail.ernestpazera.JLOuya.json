@@ -1,0 +1,83 @@
+{
+    "packageName": "com.gmail.ernestpazera.JLOuya",
+    "title": "JetLag",
+    "description": "A retro ASCII scrolly-text twitch game! Navigate down an endless tunnel in the quest for righteousness.  Did I say righteousness? I meant eyestrain. Yes, the question for eyestrain!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "514eae71-012e-44a5-b3de-44b201ba8df5",
+            "date": "2013-12-23T19:03:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9e6c169d-0fb3-48a8-bbce-5d91fc6231a5\/com.gmail.ernestpazera.JLOuya\/514eae71-012e-44a5-b3de-44b201ba8df5\/SaPOODWaTchc65E4z0LA_JLOuya.apk",
+            "size": 67383899,
+            "md5sum": "30d9c47b81136be63fe8bd989a93679b",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gmail.ernestpazera.jlouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2kw6LYLoRkasip3KZ7Xf",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bUCqLHSKSPS0SsA5Hlxl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qoj27SfHQFGfX6wnzhEM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/950rZPaQGCAymRDa7fDQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WqN5yNqQ8aMncz5Zid8u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pp4LFsdDR124cZD5toap"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bUCqLHSKSPS0SsA5Hlxl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bUCqLHSKSPS0SsA5Hlxl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qoj27SfHQFGfX6wnzhEM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qoj27SfHQFGfX6wnzhEM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/950rZPaQGCAymRDa7fDQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/950rZPaQGCAymRDa7fDQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WqN5yNqQ8aMncz5Zid8u\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WqN5yNqQ8aMncz5Zid8u\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pp4LFsdDR124cZD5toap\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pp4LFsdDR124cZD5toap\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PlayDeez Games",
+        "supportEmail": "ernestpazera@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/plus.google.com\/u\/0\/+ErnestPazera",
+    "firstPublishedAt": "2013-12-23T19:03:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by PlayDeez Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 14,
+        "average": 4.25,
+        "count": 12
+    }
+}

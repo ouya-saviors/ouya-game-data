@@ -1,0 +1,89 @@
+{
+    "packageName": "com.jsidd.JSIDDCodeFactoryO",
+    "title": "JSIDD Code Factory O",
+    "description": "JSIDD Code Factory O \r\n\r\nLatest News: jsidd12.tumblr.com\r\n\r\nversion 0.0.3\r\n\r\nFeatures:\r\n+ Inspired by handheld electronic games\r\n+ One retro beep sound\r\n+ Improved \u201cHow To Play\u201d Movie\r\n+ Supports for both dpad and left analog joystick\r\n+ Improved compatibility with 720p\r\n\r\nHow to play Code Factory O:\r\nThe current game mode \u201cCode in 100s\u201d gives you 100 seconds to feed as many O-U-Y-A sequences as you can to the coding machine. You can press left or right on the dpad or (left thumb) joystick to move the player under a falling letter to place that letter on the conveyor belt. Then once a letter is on the belt, you can press up and down on the dpad or joystick to swap letters.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.0.3",
+            "versionCode": 0,
+            "uuid": "1cf8952a-67a4-4bf4-9579-19eebebe98a3",
+            "date": "2013-06-18T23:57:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/712398d8-64a9-4d4d-b350-f50ac3532b2b\/com.jsidd.JSIDDCodeFactoryO\/1cf8952a-67a4-4bf4-9579-19eebebe98a3\/nQJJfPGyTxy0pGThwydz_JSIDDCodeFactoryO.apk",
+            "size": 189553,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jsidd.jsiddcodefactoryo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OxVT2SoDSc2CT66DikYU",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J7wSgcISSIqGNpAv7vjf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A2PipduHQLO7CDT4ZJKb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m5cd7oYyTM6GbRseT3ce",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qy7MsaPTQSx3OOgGwRGx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gUhgQ7TmTAi85t9u1YCB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/narSAOXXTRevu5bGmmyY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/J7wSgcISSIqGNpAv7vjf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/J7wSgcISSIqGNpAv7vjf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A2PipduHQLO7CDT4ZJKb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A2PipduHQLO7CDT4ZJKb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m5cd7oYyTM6GbRseT3ce\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m5cd7oYyTM6GbRseT3ce\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Qy7MsaPTQSx3OOgGwRGx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Qy7MsaPTQSx3OOgGwRGx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gUhgQ7TmTAi85t9u1YCB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gUhgQ7TmTAi85t9u1YCB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/narSAOXXTRevu5bGmmyY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/narSAOXXTRevu5bGmmyY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "JSIDD",
+        "supportEmail": "jsidd12@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/jsidd12.tumblr.com",
+    "firstPublishedAt": "2013-03-29T01:27:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by JSIDD.",
+    "premium": false,
+    "rating": {
+        "likeCount": 25,
+        "average": 1.77,
+        "count": 13
+    }
+}

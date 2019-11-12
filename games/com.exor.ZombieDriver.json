@@ -1,0 +1,99 @@
+{
+    "packageName": "com.exor.ZombieDriver",
+    "title": "Zombie Driver HD",
+    "description": "Zombie Driver HD now specifically optimized for the OUYA console! Insane mix of cars, speed, explosions, blood and zombies! Fight through an epic narrative campaign or test yourself in the Slaughter and Blood Race modes. Engage huge bosses, save survivors, drive crazy vehicles such as a bulldozer, fire truck or even a tank and smash everything in your way. Take part in the Blood Race tournament - chase other cars and take them down without mercy on brutal racing tracks. Jump into the Slaughter mode and survive as long as possible on specially crafted arenas.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "d82cffc2-d2f8-4786-baab-36cb10dc2003",
+            "date": "2013-08-23T08:14:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0d3a1a26-3ecb-4118-866c-7efeee78180f\/com.exor.ZombieDriver\/d82cffc2-d2f8-4786-baab-36cb10dc2003\/eioApagzSauI91OVA11q_ZombieDriver-release.apk",
+            "size": 658739531,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.exor.zombiedriver\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DKKC5WMzR4ekQ3dQMsPQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p3uPi017QKS8CZiPLrV2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RkkPbM4DQKySNBR26dkc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9JjGDwADTwayPbI64bgs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mU61ckxQ9mnb0jn6MNvP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6mmQyciQB6t4f6ejvQNt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HXgZNyiXRX6ZGd0kSPMF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/p3uPi017QKS8CZiPLrV2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/p3uPi017QKS8CZiPLrV2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RkkPbM4DQKySNBR26dkc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RkkPbM4DQKySNBR26dkc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9JjGDwADTwayPbI64bgs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9JjGDwADTwayPbI64bgs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mU61ckxQ9mnb0jn6MNvP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mU61ckxQ9mnb0jn6MNvP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6mmQyciQB6t4f6ejvQNt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6mmQyciQB6t4f6ejvQNt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HXgZNyiXRX6ZGd0kSPMF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HXgZNyiXRX6ZGd0kSPMF\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "EXOR Studios",
+        "supportEmail": "support@zombiedriver.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/www.zombiedriver.com",
+    "firstPublishedAt": "2013-08-23T08:14:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by EXOR Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 323,
+        "average": 3.91,
+        "count": 245
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ZombieDriverHD_FullGame",
+            "name": "ZombieDriverHD_FullGame",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

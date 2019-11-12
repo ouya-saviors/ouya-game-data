@@ -1,0 +1,91 @@
+{
+    "packageName": "com.dotemu.anotherworld",
+    "title": "Another World",
+    "description": "Also known as Out Of This World\u2122 and released across more than a dozen platforms since its 1991 debut, Another World\u2122 has attained cult status among critics and sophisticated gamers alike for its cinematic effects in the graphics, sound and cut scenes.\r\n\r\nA CAPTIVATING ADVENTURE\r\nThe actor plays the part of Lester Knight Chaykin, a young physics researcher. While he is right in the middle of doing experiments, his laboratory is struck by lighting and completely destroyed, hurling him into another world, a world populated by humanoid creatures, where danger can spring at any moment.\r\n\r\nYou must escape from this strange civilization. You will nonetheless meet a companion who will soon become your ally and help you in this merciless fight!\r\n\r\n20th ANNIVERSARY EDITION SPECIALLY THOUGHT OUT FOR OUYA\r\n- 3 difficulty modes: Normal (easier than the original), Hard (similar to the original) and Hardcore (harder than the original)\r\n- Sound and sound effects are 100% remastered\r\n- 5 languages available (English, French, Italian, German, Spanish)\r\n\r\nMore information on:\r\nanotherworld.fr\r\nfacebook.com\/another.world.official\r\nfacebook.com\/dotemu \r\ntwitter.com\/dotemu\r\nyoutube.com\/dotemu\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.9",
+            "versionCode": 36,
+            "uuid": "422b1597-a383-48c3-8d55-f0b2aaa0bd69",
+            "date": "2016-09-17T09:56:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a25ff919-ed9e-4e80-b06d-f0d53f5a367b\/com.dotemu.anotherworld\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/DtUxKBP7SRWWpVJD0uGk_AW_OUYA%2036_160916.apk",
+            "size": 73632096,
+            "md5sum": "92a67d21eea4f3902d283ac89f336fa8",
+            "publicSize": 69051198,
+            "nativeSize": 3428800
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s5kymFPjQJiTuUmjhdW7",
+        "video": "https:\/\/vimeo.com\/87631348",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L3XGEpktQI2bDW307Hpi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yaNJmfKeRgmZ1irBAW3y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I1oBnrHvRZelxCaXTxVR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MwU30cC8RJOnVJIKEqBr"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87631348"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-1ihbqj5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-1bojsme.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-nv39c2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-ufet95.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-1fh6xnp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-d2biw3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-npcios.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-1qai5ht.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
+        "name": "DotEmu SAS",
+        "supportEmail": "dotemu@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.dotemu.com",
+    "firstPublishedAt": "2013-09-17T16:40:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2016 by DotEmu SAS.",
+    "premium": false,
+    "rating": {
+        "likeCount": 565,
+        "average": 4.16,
+        "count": 476
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "anotherworld_ouya",
+            "name": "Another World",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

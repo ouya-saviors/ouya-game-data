@@ -1,0 +1,77 @@
+{
+    "packageName": "com.dinomage.openglad",
+    "title": "Gladiator",
+    "description": "The official version of Forgotten Sages' classic action RPG, now for OUYA!  Hire soldiers, archers, elves, clerics, mages, orcs, skeletons, and more, then train them into an unstoppable team as you face opposing armies and monsters.  Dozens of levels lie between you and a monstrous evil.  Can you make it?\r\n\r\nThis game is part of the Openglad project, which is released under the open-source GNU General Public License (GPL).  You can find the project on Github:\r\nhttps:\/\/github.com\/openglad\/openglad\r\n\r\nThis game is rated by DinoMage Games for ages 8+.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.2",
+            "versionCode": 0,
+            "uuid": "82c51d2c-320c-4953-89f9-78a51d97f479",
+            "date": "2014-01-30T20:19:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2059f3e6-95ad-4f57-a191-d52e81cfbf01\/com.dinomage.openglad\/82c51d2c-320c-4953-89f9-78a51d97f479\/m7VprkoVQcmw6LFdqnqn_Openglad_1.1.2_OUYA.apk",
+            "size": 1877694,
+            "md5sum": "c6a972eba9a11d54412e179d7a2d3363",
+            "publicSize": 387264,
+            "nativeSize": 1690456
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dinomage.openglad\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7y95evmSg6bgBaqVBzJr",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FN3bq0uHTHW2HljEjo9R",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gMJD6Ad1SrOWM8iLBtos",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yMhap12zQti6byOU8J52",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yu41w54CT8WKTzJcHurY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FN3bq0uHTHW2HljEjo9R\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FN3bq0uHTHW2HljEjo9R\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gMJD6Ad1SrOWM8iLBtos\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gMJD6Ad1SrOWM8iLBtos\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yMhap12zQti6byOU8J52\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yMhap12zQti6byOU8J52\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yu41w54CT8WKTzJcHurY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yu41w54CT8WKTzJcHurY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "DinoMage Games",
+        "supportEmail": "games@dinomage.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.dinomage.com",
+    "firstPublishedAt": "2013-10-09T12:21:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by DinoMage Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 32,
+        "average": 3.22,
+        "count": 32
+    }
+}

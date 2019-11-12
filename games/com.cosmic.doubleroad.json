@@ -1,0 +1,93 @@
+{
+    "packageName": "com.cosmic.doubleroad",
+    "title": "Double Road",
+    "description": "Want you to know who is the smartest?\r\n\r\nChallenge your friends in this game and discover who is more skilled and trained.\r\n\r\nStudies of different universities indicate that humans are able to perform only two tasks simultaneously, although losing precision and accuracy in them. However, there are people who can solve both tasks optimally. Are you one of them?\r\n\r\nDouble Road is a game based on the process of two simultaneous tasks used in tests of skill and intelligence of astronauts and pilots. This group has a very high demand levels and scores obtained are between 15000 and 20000, well above the normal scores, between 5000 and 9000.\r\n\r\nAlso this game is used on \"simple mode\" in driving tests in many countries worldwide. If you are next to examine your car license or a renewal, Practice!\r\n\r\nThe game has two addictive modes, operating similarly. A \"Classic\" mode, you bring your modern devices the audio visual environment of arcade devices and home videogames in the early 80s. And one way \"enhanced\" with an experience closer to videogamesgames mid 90s.\r\n\r\nAre you going to be without knowing what your highest score?\r\n\r\nBackground Music by PlayOnLoop.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.8",
+            "versionCode": 0,
+            "uuid": "1b07c417-aed0-4fe6-8649-ff0314f3d1e2",
+            "date": "2013-08-07T15:25:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/696554c3-66a4-4682-96ac-d71b7c81dbf7\/com.cosmic.doubleroad\/1b07c417-aed0-4fe6-8649-ff0314f3d1e2\/xo4zAgYBTBynZEN4HUoq_psyco-Default-1.0.8.apk",
+            "size": 9865764,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cosmic.doubleroad\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SindrTdcQxmvCqdYGPeQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l9MrzXQASfOFX8EdaUKv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pfUwwIRT1mfJqDW24Sfw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I6ZYAWbTjOV3g08JNGkw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xYu5TW7gSgyjpjG9Eqhb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XuWfQ1MaQmGppNmujZr8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Etd7ud5fTXu0bEefFpHu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HMbxSjz7Qma6XElPS8Am"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l9MrzXQASfOFX8EdaUKv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l9MrzXQASfOFX8EdaUKv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pfUwwIRT1mfJqDW24Sfw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pfUwwIRT1mfJqDW24Sfw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/I6ZYAWbTjOV3g08JNGkw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/I6ZYAWbTjOV3g08JNGkw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xYu5TW7gSgyjpjG9Eqhb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xYu5TW7gSgyjpjG9Eqhb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XuWfQ1MaQmGppNmujZr8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XuWfQ1MaQmGppNmujZr8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Etd7ud5fTXu0bEefFpHu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Etd7ud5fTXu0bEefFpHu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HMbxSjz7Qma6XElPS8Am\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HMbxSjz7Qma6XElPS8Am\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Cosmic Barrel",
+        "supportEmail": "cosmic.barrel@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2013-08-07T15:25:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Cosmic Barrel.",
+    "premium": false,
+    "rating": {
+        "likeCount": 30,
+        "average": 2.86,
+        "count": 28
+    }
+}

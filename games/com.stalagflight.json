@@ -1,0 +1,77 @@
+{
+    "packageName": "com.stalagflight",
+    "title": "Stalagflight",
+    "description": "UPDATE: Now with Playstation 3 controller support!\r\n\r\nSTALAGFLIGHT - a new, and fast paced endless jumper. Our hero, Lars T-Rex finds himself at the bottom of an active volcano. Help Lars make his daring escape from a fiery doom by jumping on falling rocks, and try not to fall down the rising sea of lava.\r\n\r\n*COUCH MULTIPLAYER ACTION*\r\nTake on your friends in an epic fight for survival, as each player battles for control of rocks, while avoiding falling down the volcano.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "7d39eb72-1b1d-4604-8aff-0b78eff615ba",
+            "date": "2013-07-08T18:20:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/acf41986-2a09-4975-bbf9-7aad092b5a1a\/com.stalagflight\/7d39eb72-1b1d-4604-8aff-0b78eff615ba\/8JM9yQi5TjqK2GleCLUr_StalagflightWithPs3.apk",
+            "size": 11481476,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.stalagflight\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FsApwX3Sqe4xH56XSu6j",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vlvpL2x2TLCvgQs70Fzc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lAMO2W5TBSJRuXsLofXG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zeUMgn8xQQussX8X6stO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VLirLqY3TJ2dl40XkYE8"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vlvpL2x2TLCvgQs70Fzc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vlvpL2x2TLCvgQs70Fzc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lAMO2W5TBSJRuXsLofXG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lAMO2W5TBSJRuXsLofXG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zeUMgn8xQQussX8X6stO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zeUMgn8xQQussX8X6stO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VLirLqY3TJ2dl40XkYE8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VLirLqY3TJ2dl40XkYE8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Jacob Korsgaard",
+        "supportEmail": "stalagflight@jacobkorsgaard.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/stalagflight.com\/",
+    "firstPublishedAt": "2013-03-24T22:23:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Jacob Korsgaard.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1082,
+        "average": 4.2,
+        "count": 788
+    }
+}

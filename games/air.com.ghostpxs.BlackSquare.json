@@ -1,0 +1,83 @@
+{
+    "packageName": "air.com.ghostpxs.BlackSquare",
+    "title": "Black Square",
+    "description": "Top-down exploration and shooting with an early Cold War era theme. Save Malevich's minimalist masterpiece from the clutches of Stalin's censorship dungeon.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "db5ebf18-268f-4ec2-ae45-ff72d33f7251",
+            "date": "2013-09-24T23:01:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/44f34f4e-cf6d-4d4c-8c81-a31eb3da7a09\/air.com.ghostpxs.BlackSquare\/db5ebf18-268f-4ec2-ae45-ff72d33f7251\/gP9xi9ZCRLmolmVOLpsH_BlackSquare.apk",
+            "size": 14004918,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.ghostpxs.blacksquare\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vlMa85yhSi2SAxcOgKQr",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ucRrVvBRQr6Htm5m3Y07",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9Ia2WwLyTxmWZExL1udW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5ESLZoVGSlyLS3uBwY5j",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bASY86gbQ9IkH8JwaWAQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P2sstuTERjGqYlSl2rKi"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ucRrVvBRQr6Htm5m3Y07\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ucRrVvBRQr6Htm5m3Y07\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9Ia2WwLyTxmWZExL1udW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9Ia2WwLyTxmWZExL1udW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5ESLZoVGSlyLS3uBwY5j\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5ESLZoVGSlyLS3uBwY5j\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bASY86gbQ9IkH8JwaWAQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bASY86gbQ9IkH8JwaWAQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P2sstuTERjGqYlSl2rKi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P2sstuTERjGqYlSl2rKi\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ghost Pixels",
+        "supportEmail": "support@ghostpxs.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "ghostpxs.com",
+    "firstPublishedAt": "2013-09-19T06:03:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Ghost Pixels.",
+    "premium": false,
+    "rating": {
+        "likeCount": 80,
+        "average": 3.89,
+        "count": 113
+    }
+}

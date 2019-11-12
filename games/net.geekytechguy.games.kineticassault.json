@@ -1,0 +1,82 @@
+{
+    "packageName": "net.geekytechguy.games.kineticassault",
+    "title": "Kinetic Assault",
+    "description": "Earth's Only Line of Defense!\r\n\r\nA large and dangerous Meteor Storm is headed towards Earth and you are the only one who can stop it!\r\nUsing a powerful Kinetic Reactor, you pilot your Kinetic Satellite and deflect Meteors into space. The\r\nKinetic Reactor in your satellite converts the Kinetic Energy from Meteor impacts into Kinetic Shield\r\nEnergy. You must continue to deflect Meteors in order to maintain your energy levels. But the Meteor\r\nStorm is not entirely natural. It seems someone or some.. thing wants Earth out of the way. Be careful!\r\nThey know you're out there, they know how to defeat the Kinetic Satellite and they have deployed\r\ncountermeasures to drain your Kinetic Shield energy.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "969124e4-943c-488e-ab7a-e75b6aec32d6",
+            "date": "2014-04-09T21:46:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7b2e4656-7d27-4cda-a2f0-55b75c0b3bd9\/net.geekytechguy.games.kineticassault\/969124e4-943c-488e-ab7a-e75b6aec32d6\/xJyGMZUvSCCbDg7AMBdI_kinetic_assault-android.apk",
+            "size": 11300822,
+            "md5sum": "6f2331235a52e3f6ead31567ad7ea083",
+            "publicSize": 305725,
+            "nativeSize": 723548
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.geekytechguy.games.kineticassault\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gye2bPTYSY2DRW1l1CRw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jh77b6o1QbYv0ieHY9lb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uUgmAPAFTKmXmuFZX3SY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q971lrE8TXOLUdGBJbHb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CCswVPCOSoa5CgxE3qtV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iOkd1TstT02JNgq8tV3Y"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jh77b6o1QbYv0ieHY9lb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jh77b6o1QbYv0ieHY9lb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uUgmAPAFTKmXmuFZX3SY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uUgmAPAFTKmXmuFZX3SY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Q971lrE8TXOLUdGBJbHb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Q971lrE8TXOLUdGBJbHb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CCswVPCOSoa5CgxE3qtV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CCswVPCOSoa5CgxE3qtV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iOkd1TstT02JNgq8tV3Y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iOkd1TstT02JNgq8tV3Y\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Barrett Games",
+        "supportEmail": "barrettgames@geekytechguy.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/barrettgames.geekytechguy.net",
+    "firstPublishedAt": "2014-01-08T03:00:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Barrett Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 10,
+        "average": 2.25,
+        "count": 4
+    }
+}

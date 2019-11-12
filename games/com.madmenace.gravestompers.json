@@ -1,0 +1,98 @@
+{
+    "packageName": "com.madmenace.gravestompers",
+    "title": "GraveStompers: Zombie vs. Zombie",
+    "description": "GraveStompers is a console-style, 3rd person shooter with dual stick controls. Zombie eradication has never been more fun! Choose to play as one of our many interesting characters. Arm yourself with high-powered shotguns, rocket launchers, chainsaws, and more! The armory is overflowing with weapons of all types! This game is for zombie slayers, horror fans, and hard-core gamers. GraveStompers also includes downloadable characters from famous horror franchises! Purchase the notorious killer as exclusive DLC from the horror film Scre4m!\r\n\r\nFor gameplay help, please visit http:\/\/www.gravestomper.com\/help",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.03",
+            "versionCode": 0,
+            "uuid": "5721a069-b851-49de-8a84-d0db3dc37eb0",
+            "date": "2013-11-01T17:39:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d559d5d2-ee32-4afc-a87d-9d5c6b5c2d1d\/com.madmenace.gravestompers\/5721a069-b851-49de-8a84-d0db3dc37eb0\/KPEuMMPWSR2vZ7BKpwkX_gravestompers.apk",
+            "size": 99370961,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.madmenace.gravestompers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FVBFoupBRZ64LOSdaLVo",
+        "video": "https:\/\/vimeo.com\/78324998",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MHEbT6RPe1QSPEjgaWLw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4DxNdPtwQD2E7OxBhfdH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0Zj1KdR5Qa6GVI3ONVvS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BKqLopHSgeiXzodA3hZA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dHGOmDXTyORe9DtGTZMU"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/78324998"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MHEbT6RPe1QSPEjgaWLw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MHEbT6RPe1QSPEjgaWLw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4DxNdPtwQD2E7OxBhfdH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4DxNdPtwQD2E7OxBhfdH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0Zj1KdR5Qa6GVI3ONVvS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0Zj1KdR5Qa6GVI3ONVvS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BKqLopHSgeiXzodA3hZA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BKqLopHSgeiXzodA3hZA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dHGOmDXTyORe9DtGTZMU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dHGOmDXTyORe9DtGTZMU\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mad Menace Entertainment, LLC",
+        "supportEmail": "info@madmenace.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.facebook.com\/gravestompers",
+    "firstPublishedAt": "2013-06-25T04:24:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Mad Menace Entertainment, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 362,
+        "average": 3.85,
+        "count": 300
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_madmenace_gravestompers_game",
+            "name": "GraveStompers: Zombie vs. Zombie",
+            "description": "Continue on and destroy all hordes with one low price!",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,83 @@
+{
+    "packageName": "com.Mint.OuyaSleepingSoulsDemo",
+    "title": "Sleeping Souls Demo",
+    "description": "You have been selected by the emperor to bring peace back to the sleeping souls, from the evil spirits,in this Demo version you will be able to play the first 5 levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a",
+            "date": "2014-07-21T23:59:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/98690b90-9c3c-4060-bf26-bc755410e0b3\/com.Mint.OuyaSleepingSoulsDemo\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/C9sFeGXSx1uri6BJhOCw_Sleeping%20Souls%20Ouya%20Demo.apk",
+            "size": 44598062,
+            "md5sum": "6ce9f82e3a89406c3c33d97bab1c66c3",
+            "publicSize": 350555,
+            "nativeSize": 7539916
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mint.ouyasleepingsoulsdemo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xrMprRwTWKsZOrt5jIZc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ppLsAMmaRxmqjoDwTueV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gjYvMkQNQLKpCfsymscr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iwHU3KSrRZmCHCXkyYp5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8x50rpxoTIWaGZNDuKk5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UT9iHqOTRC3hn7NTKHBQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/e37mx9_ouya-screenshot20140717-2-10bnqa6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/thumbnails\/thumbnail20140717-2-9ra92e.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/no84fi_ouya-screenshot20140717-2-3jrsg4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/thumbnails\/thumbnail20140717-2-c7g7d7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/duwe4k_ouya-screenshot20140717-2-1utcknq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/thumbnails\/thumbnail20140717-2-40xote.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/ohgvef_ouya-screenshot20140717-2-1xepimc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/thumbnails\/thumbnail20140717-2-wsfdu4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/z7ucrc_ouya-screenshot20140717-2-1rsn6ih.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4d1ba97-2fc6-4a1c-8d0a-7225b87a524a\/thumbnails\/thumbnail20140717-2-8jnoml.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "98690b90-9c3c-4060-bf26-bc755410e0b3",
+        "name": "Team Omni",
+        "supportEmail": "info@team-omni.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.team-omni.com\/",
+    "firstPublishedAt": "2014-07-21T23:59:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Team Omni.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.72,
+        "count": 53
+    }
+}

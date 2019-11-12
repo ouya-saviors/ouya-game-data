@@ -1,0 +1,70 @@
+{
+    "packageName": "com.brightsidegames.spinwars",
+    "title": "SPiN WARS",
+    "description": "100% FREE ONLY on OUYA\r\nSPiN WARS - That crazy one-button multiplayer battle game! \r\n\r\nUp to 4 friends battle each other simultaneously in this simple but fun arena shoot 'em up game! Control your fighter and pull off your special moves with the well-timed tap of just one button!\r\n\r\n\u2022 COMPLETLY FREE ON OUYA! You can donate to us if you like the game!\r\n\u2022 Frantic shoot'em up battles with awesome special moves!\r\n\u2022 Master the tap and hold one-button controls!\r\n\u2022 Great for pick-up and play video game tournaments at your event or party!      \r\n\r\nWe developed SPiN WARS originally as a fun-project-prototype. Since then the game was brought out at all Brightside Games parties or game nights. We had so much fun with our SPiN WARS tournaments that we decided it's about time to release this little gem to the public! We don't think it's easy to market a local multiplayer only game, but we just want everyone out there to be able to enjoy it as much as we do! So gather your friends around your device and have fun!\r\n\r\nLike us on facebook.com\/brightsidegames and facebook.com\/spinwars\r\nPlease find more information at spinwars.brightside-games.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.06",
+            "versionCode": 0,
+            "uuid": "863aed67-e087-4a6e-8717-47075e9088cb",
+            "date": "2013-06-26T17:36:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4788493b-a4ab-4733-9719-2addd454f513\/com.brightsidegames.spinwars\/863aed67-e087-4a6e-8717-47075e9088cb\/JqfhjjbbShiNfCDg6lbY_com.brightsidegames.spinwars.apk",
+            "size": 36110544,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.brightsidegames.spinwars\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fT1taNrTRki6KHLA9UaZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/af2CoyucR1GUz6hiDNwD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IKHV2MQHTmm2LJ3T1jyk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i7OXRr0wQmqobJVV6ftn"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/af2CoyucR1GUz6hiDNwD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/af2CoyucR1GUz6hiDNwD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IKHV2MQHTmm2LJ3T1jyk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IKHV2MQHTmm2LJ3T1jyk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i7OXRr0wQmqobJVV6ftn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i7OXRr0wQmqobJVV6ftn\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Brightside Games",
+        "supportEmail": "support@brightside-games.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "spinwars.brightside-games.com",
+    "firstPublishedAt": "2013-03-23T00:07:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Brightside Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 80,
+        "average": 3.84,
+        "count": 19
+    }
+}

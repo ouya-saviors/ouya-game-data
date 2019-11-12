@@ -1,0 +1,98 @@
+{
+    "packageName": "com.ifightbears.abitofafistofawesome",
+    "title": "FIST OF AWESOME",
+    "description": "Ever wanted to punch a bear IN THE MOUTH? \r\n\r\nFIST OF AWESOME asks the eternal question \"what would happen if bears took over the world?\" and answers it with the epic tale of a lumberjack travelling through time punching bears in the face to save humanity. \r\n\r\nIf you like bear puns then you're in for a treat. If you also like games like Streets of Rage, Double Dragon and Final Fight then sit down, pour a scotch, and get ready for the greatest time-travelling-lumberjack-em-up of all time. \r\n\r\nKey Features: \r\n - A lumberjack who travels through time punching bears in the face to save humanity \r\n - Develop Award Nominated soundtrack by Brendan Ratliff aka Echolevel \r\n - Okay-ish pixel graphics \r\n - An impawsible number of bear-themed puns \r\n - Like Streets of Rage, but with more bears",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.37",
+            "versionCode": 0,
+            "uuid": "cb74db0f-4e4b-442c-a99d-a66f601bfc14",
+            "date": "2015-04-03T16:37:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3fef02cb-7bee-4fbf-9705-4ed13b8053f2\/com.ifightbears.abitofafistofawesome\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/fsMYFoc0TOx5Wn4Tx8ng_abitofafistofawesome-release.apk",
+            "size": 51599834,
+            "md5sum": "db395d56a47fdbd2762a29b8bc01104c",
+            "publicSize": 208162,
+            "nativeSize": 4530756
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c5XlbasQn2BsG05RG7kk",
+        "video": "https:\/\/vimeo.com\/77857658",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BzUsyD15QN2D9OzUUSqk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hni8Zhf1SgiHTi66tsi8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N8b9yoqZQnirADSXTFLy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ebtaBUvPSV6KiJlThuNd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PmIMfgbsTEGRK1ZJWDQu"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77857658"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/yz3guw_ouya-screenshot20150331-3-o4doha.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-hjzu83.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/roj39c_ouya-screenshot20150331-3-19l7ni8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-obn7yh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/rx8zu6_ouya-screenshot20150331-3-s0js4s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-cy7mob.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/pm4l0m_ouya-screenshot20150331-3-18vyhkg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-1wr4m1o.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/etbfvs_ouya-screenshot20150331-3-1nu8hqg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-4q62ez.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "I Fight Bears Ltd",
+        "supportEmail": "nicoll@ifightbears.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.ifightbears.co.uk",
+    "firstPublishedAt": "2013-03-27T17:00:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by I Fight Bears Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1372,
+        "average": 4.15,
+        "count": 803
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fistofawesome_fullgame",
+            "name": "FIST OF AWESOME - Full Game",
+            "description": "Unlock the FIST OF AWESOME's majestic Story Mode along with the phenomenal Arena Mode, stocked full of challenges & playable characters.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

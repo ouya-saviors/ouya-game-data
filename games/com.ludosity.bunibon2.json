@@ -1,0 +1,99 @@
+{
+    "packageName": "com.ludosity.bunibon2",
+    "title": "Bunibon 2",
+    "description": "Incredibly hard 'bounce em up' game with that just-try-one-more-time feeling!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "2f11137f-906a-4f6d-b741-c27a00dc541c",
+            "date": "2013-04-18T10:07:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8373e229-4377-4912-b4cb-a023107b1274\/com.ludosity.bunibon2\/2f11137f-906a-4f6d-b741-c27a00dc541c\/HDbldF1TLeEvo0Ctc4ON_Bunibon2.apk",
+            "size": 17264011,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ludosity.bunibon2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KVQhccfDSD2AsfBb0yQv",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z9se88uhTa2fgPCMIfzm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VaaPaMiSU2kMHO5vZVi0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NgAE28LdTjSz8lKsSsle",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4rEbwkt6RvOO1nF6RzAV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vsEYbGYeQrmwO5NH1Z0u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lJfzCClDR3u881CkUXgA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/z9se88uhTa2fgPCMIfzm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/z9se88uhTa2fgPCMIfzm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VaaPaMiSU2kMHO5vZVi0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VaaPaMiSU2kMHO5vZVi0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NgAE28LdTjSz8lKsSsle\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NgAE28LdTjSz8lKsSsle\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4rEbwkt6RvOO1nF6RzAV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4rEbwkt6RvOO1nF6RzAV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vsEYbGYeQrmwO5NH1Z0u\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vsEYbGYeQrmwO5NH1Z0u\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lJfzCClDR3u881CkUXgA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lJfzCClDR3u881CkUXgA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8373e229-4377-4912-b4cb-a023107b1274",
+        "name": "Ludosity",
+        "supportEmail": "support@ludosity.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.ludosity.com",
+    "firstPublishedAt": "2013-03-28T08:55:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Ludosity.",
+    "premium": false,
+    "rating": {
+        "likeCount": 76,
+        "average": 3.65,
+        "count": 65
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "bunibon2_unlock",
+            "name": "Unlock Bunibon 2",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

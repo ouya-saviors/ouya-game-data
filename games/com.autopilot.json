@@ -1,0 +1,82 @@
+{
+    "packageName": "com.autopilot",
+    "title": "AutoPilot",
+    "description": "AutoPilot allows you to add one of your installed applications to the Ouya boot sequence, so that it is automatically started when the device is completedly booted.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "b55b2be8-c7d0-490f-b1f9-3e83dfd221c1",
+            "date": "2013-05-27T15:33:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/de42ea33-8355-44c9-ac74-55607efb754d\/com.autopilot\/b55b2be8-c7d0-490f-b1f9-3e83dfd221c1\/VetCiwgwTiWWH4FwW0D2_AutoPilot.apk",
+            "size": 790151,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.autopilot\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RrVRWE3S6Hatuu3hxwAb",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2awceW35ReeSNl6qtp4y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/paQ9j2usQlm423MOqSiD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xRohTqdSsSG9fQiz2ixs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VpvN1OEnRqs6RQh4IrBd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kNbsNFl0TACKg0x1nbyN"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2awceW35ReeSNl6qtp4y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2awceW35ReeSNl6qtp4y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/paQ9j2usQlm423MOqSiD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/paQ9j2usQlm423MOqSiD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xRohTqdSsSG9fQiz2ixs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xRohTqdSsSG9fQiz2ixs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VpvN1OEnRqs6RQh4IrBd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VpvN1OEnRqs6RQh4IrBd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kNbsNFl0TACKg0x1nbyN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kNbsNFl0TACKg0x1nbyN\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Jon Bonazza",
+        "supportEmail": "jonbonazza@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/plus.google.com\/u\/1\/101164395336062149611",
+    "firstPublishedAt": "2013-05-27T15:33:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2013 by Jon Bonazza.",
+    "premium": false,
+    "rating": {
+        "likeCount": 379,
+        "average": 4.44,
+        "count": 75
+    }
+}

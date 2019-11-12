@@ -1,0 +1,76 @@
+{
+    "packageName": "com.tozeleal.modmyouya",
+    "title": "Mod My Ouya!",
+    "description": "Mod My Ouya! - The app all ouyans want!\r\nWARNING: SOME OF THESE MODS CAN BRICK YOUR OUYA IF YOU DON'T DO SAFELY (TAKE YOUR OWN RISK!)\r\nYou can learn how to:\r\nRoot\r\nInstall Xposed\r\nMake screenshots\r\nInstall and used Tincore Keymapper!\r\n----------------------------\r\nNEW UPDATE!\r\n\r\nAbout zone! Check it out!\r\nThank you by using this app!\r\nThis app have been used 300 times!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "f3775ea3-1a88-4312-ac63-4db1e0bc2552",
+            "date": "2014-09-01T18:09:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/80fad51d-494e-46dc-b157-d6b4404adc37\/com.tozeleal.modmyouya\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/xOzVjTCRS6ituuRbhy1m_MMO_SIGNED.apk",
+            "size": 867629,
+            "md5sum": "d956621372c57634a30e21689f95deac",
+            "publicSize": 475299,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.modmyouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gSlTDbkRdCxviTbKYwyS",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jHudmnIQYaUDBiVzjbNp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ry3cGdhSTau8aP19DwYM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MNTpxC2PQzGkYuCLggi7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A5RvJhmR2qasvddZwWAO"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/56kk0f_ouya-screenshot20140830-2-pkzewg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/thumbnails\/thumbnail20140830-2-9q3swf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/ygxa6a_ouya-screenshot20140830-2-1n2g7qh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/thumbnails\/thumbnail20140830-2-192g6rr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/vwfymo_ouya-screenshot20140830-2-1bp42ou.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/thumbnails\/thumbnail20140830-2-cy5zw9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/n8mmji_ouya-screenshot20140830-2-1x77ghw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f3775ea3-1a88-4312-ac63-4db1e0bc2552\/thumbnails\/thumbnail20140830-2-1nhzzof.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "80fad51d-494e-46dc-b157-d6b4404adc37",
+        "name": "Tozeleal",
+        "supportEmail": "tozevleal@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "www.tozeleal.no.sapo.pt",
+    "firstPublishedAt": "2014-08-28T18:46:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Tozeleal.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.14,
+        "count": 74
+    }
+}

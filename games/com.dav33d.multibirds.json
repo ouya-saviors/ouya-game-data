@@ -1,0 +1,83 @@
+{
+    "packageName": "com.dav33d.multibirds",
+    "title": "Multi Birds",
+    "description": "-NEW UPDATE-\r\n*ControllerShare: Now you can have two players per controller!*\r\n*Double Pipe Sets in Multiplayer for multiple paths to victory*\r\n\r\n\r\nUp to four player competitive flapping in endless obstacles!\r\nFor a real challenge turn on Hell Mode in the options",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "b7104b5d-4fc9-43e9-b2c3-9cef1821e841",
+            "date": "2014-03-17T18:45:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0a1690e8-e2ca-4d64-93d4-e82ec477e8d9\/com.dav33d.multibirds\/b7104b5d-4fc9-43e9-b2c3-9cef1821e841\/QxDrIQMCR8ilwld582G6_MultiBirds.apk",
+            "size": 12379149,
+            "md5sum": "b7e7a54e755aee5839132fcee96ee8ef",
+            "publicSize": 11988,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dav33d.multibirds\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V9Ebn0dxSDa4eO3JI5X7",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nOL5HlUTuOlrJNDWIuoM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PexPlgSFSIGJxXaN8SnQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XKaYBqVOTLKiI0jA6ZHk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5zdiTqhWRziEE9S66fh9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O0ipIqMqQZGejLDayJIA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nOL5HlUTuOlrJNDWIuoM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nOL5HlUTuOlrJNDWIuoM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PexPlgSFSIGJxXaN8SnQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PexPlgSFSIGJxXaN8SnQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XKaYBqVOTLKiI0jA6ZHk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XKaYBqVOTLKiI0jA6ZHk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5zdiTqhWRziEE9S66fh9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5zdiTqhWRziEE9S66fh9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O0ipIqMqQZGejLDayJIA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O0ipIqMqQZGejLDayJIA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dav33d",
+        "supportEmail": "dav33ddav33d@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "dav33d.com",
+    "firstPublishedAt": "2014-03-10T23:47:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Dav33d.",
+    "premium": false,
+    "rating": {
+        "likeCount": 102,
+        "average": 3.5,
+        "count": 317
+    }
+}

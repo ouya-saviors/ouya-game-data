@@ -1,0 +1,83 @@
+{
+    "packageName": "com.pyesoftware.khakicombat1",
+    "title": "Khaki Combat!",
+    "description": "Battle through ten stages of retro-styled strafe and stealth action! Infiltrate behind the enemy line and get collecting those medals, but be careful: the enemy will send for reinforcements and rebuild their fortress before nightfall. There's no turning back. Literally! Report for duty, Soldier!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "cd8ba3cb-ff15-4fd6-9da9-c48b2286d216",
+            "date": "2014-03-18T08:35:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c2946da9-60ad-479e-9a3b-b9fc78a19a86\/com.pyesoftware.khakicombat1\/cd8ba3cb-ff15-4fd6-9da9-c48b2286d216\/U2Z9YMtjTRiqk8vBQK38_Khaki%20Combat%21.apk",
+            "size": 6626282,
+            "md5sum": "e59b0bffe5983b1f5ef7c4a9f6b2e19d",
+            "publicSize": 5453701,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pyesoftware.khakicombat1\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X9Fn5e5OQ422tDJm2iRC",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zYW3OIXBT3e2NA8YEgtN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yyPs1wcS42ur7gMjqaFy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5wPRsHmtQOyNtTfQNhuv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e0olj8gQgqX9F4XT6gxr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jo52b4jhSPWcxBKl0kae"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zYW3OIXBT3e2NA8YEgtN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zYW3OIXBT3e2NA8YEgtN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yyPs1wcS42ur7gMjqaFy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yyPs1wcS42ur7gMjqaFy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5wPRsHmtQOyNtTfQNhuv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5wPRsHmtQOyNtTfQNhuv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/e0olj8gQgqX9F4XT6gxr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/e0olj8gQgqX9F4XT6gxr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jo52b4jhSPWcxBKl0kae\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jo52b4jhSPWcxBKl0kae\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Doki Games",
+        "supportEmail": "christopherjpye@aol.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/twitter.com\/chrispye81",
+    "firstPublishedAt": "2014-03-18T08:35:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Doki Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 2.71,
+        "count": 41
+    }
+}

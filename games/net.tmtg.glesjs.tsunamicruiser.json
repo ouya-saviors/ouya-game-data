@@ -1,0 +1,76 @@
+{
+    "packageName": "net.tmtg.glesjs.tsunamicruiser",
+    "title": "Tsunami Cruiser",
+    "description": "Geometry Wars on the ocean!  In this twin stick shooter, you have to guide your boat through ever rougher seas, and destroy all enemies. 18 skill levels.  This game is open source and made in html5 using jgame.js and gles.js.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "b21db9e0-a2aa-4e27-b346-10513b071604",
+            "date": "2014-09-22T23:49:27Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f2ab665e-217f-41fc-98d6-bbdaa6ced57c\/net.tmtg.glesjs.tsunamicruiser\/b21db9e0-a2aa-4e27-b346-10513b071604\/O9TMqD3JS6GMzTqxZ6T0_TsunamiCruiser-release1.apk",
+            "size": 3611007,
+            "md5sum": "c442560370937b930e77b7999350c9a4",
+            "publicSize": 135764,
+            "nativeSize": 3432196
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iRrurMlSS8miqpqra6Fz",
+        "video": "http:\/\/vimeo.com\/107342689",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ga3cLYVWQnif9qZ0h8xy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YTm4ilQriDSCYbDu8Hxg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wRnPdObyQw6YvjrtRlZK"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/107342689"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/qq1mb6_ouya-screenshot20140920-2-76116n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/thumbnails\/thumbnail20140920-2-15iip1m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/xzug08_ouya-screenshot20140920-2-tlw37q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/thumbnails\/thumbnail20140920-2-1sghy60.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/lvyf18_ouya-screenshot20140920-2-4yugko.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/thumbnails\/thumbnail20140920-2-1v3w0k0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f2ab665e-217f-41fc-98d6-bbdaa6ced57c",
+        "name": "Boris van Schooten",
+        "supportEmail": "boris@13tmonkey.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/tmtg.net\/ludumdare\/tsunamicruiser\/",
+    "firstPublishedAt": "2014-09-22T23:49:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Boris van Schooten.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.31,
+        "count": 170
+    }
+}

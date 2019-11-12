@@ -1,0 +1,81 @@
+{
+    "packageName": "com.gamesn.paper",
+    "title": "Paper Galactica",
+    "description": "Paper Galactica is a shoot em up game.\r\n\r\nIt's contain 20 wave of aliens attacks + 6 boss.\r\ndouble triple quad and fast double, boomerang, powerball, stars forever(200 stars),magic balls, mines Sweep, lazer, Boson misiles + 2x 4x and 5x bonus + Shield .",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "643f77df-dc8f-4da9-89df-7f2331ca94ef",
+            "date": "2014-07-11T21:37:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesn.paper\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/XHnFELJxRo6bvDE013ST_Paper02.apk",
+            "size": 8580494,
+            "md5sum": "0f2b002bb6258f1933cabe7569aa0206",
+            "publicSize": 6754569,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E8zrWNoMTWWmYZAyK4nM",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/liINuoGxTbq77eoSna9t",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EQaCH3ZS4Ku94ArazvkA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NMyPV5SpRdSiNHRQtNrA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/bi5e42_ouya-screenshot20140710-2-18o9hbs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/thumbnails\/thumbnail20140710-2-1qnv6au.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/6dwtar_ouya-screenshot20140710-2-17afzxv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/thumbnails\/thumbnail20140710-2-i7snm3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/o2ndzb_ouya-screenshot20140710-2-1542fsg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/thumbnails\/thumbnail20140710-2-1hjm0k0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "iosgames@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-07-08T21:50:51Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.88,
+        "count": 50
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "paper",
+            "name": "Paper Galactica",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

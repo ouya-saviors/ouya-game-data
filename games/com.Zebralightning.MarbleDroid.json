@@ -1,0 +1,81 @@
+{
+    "packageName": "com.Zebralightning.MarbleDroid",
+    "title": "MarbleDroid Classic",
+    "description": "With over 15,000+ downloads on Google Play since it's release in January 2012, we're proud to announce Marble Droid Classic is now on OUYA! Marble Droid is a platformer in which the player pilots their marble through 3 colorful worlds! Challenges await you in Easy, Medium and Hard stages. Each designed with different strategies that need to be used in order to achieve completion. Find secrets along the way that will allow you to complete levels under par time and gain access to more orbs! Hours of gameplay and unlockable content, Marble Droid is fun for all ages.\r\n\r\n\r\nFeatures:\r\n\r\n24 Colorful 3D Levels.\r\n\r\n8 Easy, Medium and Hard levels.\r\n\r\nOver 20 Unlockable Marble Skins.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "5731230f-c290-48df-8828-397509f00f0a",
+            "date": "2013-08-12T21:12:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bb220ddf-26b8-43da-a301-65848093e005\/com.Zebralightning.MarbleDroid\/5731230f-c290-48df-8828-397509f00f0a\/rePwBxaQzScBdY2r34vl_com.Zebralightning.MarbleDroidClassic.apk",
+            "size": 22603335,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zebralightning.marbledroid\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZMzbLJNSSDuCNzoMUTfo",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bWEXEuftQF2I99U6D1oC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hJgMw60hTjWOovxkiZ4L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Dabe7lghR6qPbW770Fxg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/haYSB2emTPin4ZGMlISI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k2jdkfvpQrKMQSaVqmWv"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bWEXEuftQF2I99U6D1oC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bWEXEuftQF2I99U6D1oC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hJgMw60hTjWOovxkiZ4L\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hJgMw60hTjWOovxkiZ4L\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Dabe7lghR6qPbW770Fxg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Dabe7lghR6qPbW770Fxg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/haYSB2emTPin4ZGMlISI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/haYSB2emTPin4ZGMlISI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/k2jdkfvpQrKMQSaVqmWv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/k2jdkfvpQrKMQSaVqmWv\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Zebralightning Studios",
+        "supportEmail": "support@zebralightning.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.zebralightning.com\/",
+    "firstPublishedAt": "2013-08-12T21:12:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Zebralightning Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 62,
+        "average": 3.36,
+        "count": 58
+    }
+}

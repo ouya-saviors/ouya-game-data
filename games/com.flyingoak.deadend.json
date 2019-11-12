@@ -1,0 +1,104 @@
+{
+    "packageName": "com.flyingoak.deadend",
+    "title": "DeadEnd",
+    "description": "Coming directly from the 70\u2032s, Dead End is a mix between old-fashioned racing games and grindhouse horror movies.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.3c",
+            "versionCode": 0,
+            "uuid": "c4d74303-38ac-4522-a1a1-1e01b867760e",
+            "date": "2014-05-17T10:58:59Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bd1b95ee-d83f-40b9-94a7-02aa091a1593\/com.flyingoak.deadend\/c4d74303-38ac-4522-a1a1-1e01b867760e\/K652BvboQ2KDTZze08Vt_com.flyingoak.deadend.apk",
+            "size": 21527169,
+            "md5sum": "b05757fd5bd4656a7b23948994c85088",
+            "publicSize": 1270519,
+            "nativeSize": 2924816
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.flyingoak.deadend\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3F3pe0C5QLSKto9XNrcy",
+        "video": "http:\/\/vimeo.com\/85732550",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XNhoHmUuQZy3XYJaDccz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lZ8GC9wTuF7c0Hn9gnew",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/89vaB16cSimTER6TI3v4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vcSXR4k7RAC7RQw1tq8X",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JP15DXGlS0iphCTq95yE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CT6DYSYWSAa2m157bb9o"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/85732550"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XNhoHmUuQZy3XYJaDccz",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XNhoHmUuQZy3XYJaDccz"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lZ8GC9wTuF7c0Hn9gnew",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lZ8GC9wTuF7c0Hn9gnew"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/89vaB16cSimTER6TI3v4",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/89vaB16cSimTER6TI3v4"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vcSXR4k7RAC7RQw1tq8X",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vcSXR4k7RAC7RQw1tq8X"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JP15DXGlS0iphCTq95yE",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JP15DXGlS0iphCTq95yE"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CT6DYSYWSAa2m157bb9o",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CT6DYSYWSAa2m157bb9o"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bd1b95ee-d83f-40b9-94a7-02aa091a1593",
+        "name": "Flying Oak Games",
+        "supportEmail": "gamers@flying-oak.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/deadend.flying-oak.com\/",
+    "firstPublishedAt": "2014-05-17T10:58:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Flying Oak Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.63,
+        "count": 181
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DeadEnd_OUYA",
+            "name": "DeadEnd (Full Game Unlocking)",
+            "description": "This purchase allows you to upgrade your car to the max and drive as far as you can.",
+            "localPrice": 0,
+            "originalPrice": 0,
+            "currency": "EUR"
+        }
+    ]
+}

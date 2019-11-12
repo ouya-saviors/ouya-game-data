@@ -1,0 +1,75 @@
+{
+    "packageName": "com.nway.chronoblade",
+    "title": "ChronoBlade Demo",
+    "description": "Play alone or team up with a friend to hold the line against on the Chronarchs in this OUYA exclusive survival mode combat demo!\r\n\r\nRaise your weapon and fight for more than your own dimension; the survival of all realities hangs by a thread. Battle through the many strange realms of the Multiverse, seek out the truth behind the Chronarch war, and unleash the power to save all worlds!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.00",
+            "versionCode": 0,
+            "uuid": "4926341c-6dee-4bb8-a6fd-946d300b9cef",
+            "date": "2013-10-18T22:20:48Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/be7be314-482b-4ae5-a1e7-a1340e73e1fa\/com.nway.chronoblade\/4926341c-6dee-4bb8-a6fd-946d300b9cef\/vPvIoKpSuyWPWLQkXs2z_chronoblade_ouya_26276.apk",
+            "size": 154544624,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nway.chronoblade\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HWLVArnbTJuEvWmz1mCy",
+        "video": "https:\/\/vimeo.com\/87812932",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UsM7r5iJSsOXiyQ8X7pH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OlIGT6QgTzCexC7TmlnO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mi4tZ8rRScqkqVgtPlZZ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87812932"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UsM7r5iJSsOXiyQ8X7pH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UsM7r5iJSsOXiyQ8X7pH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OlIGT6QgTzCexC7TmlnO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OlIGT6QgTzCexC7TmlnO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mi4tZ8rRScqkqVgtPlZZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mi4tZ8rRScqkqVgtPlZZ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "nWay",
+        "supportEmail": "support@nway.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/chronoblade.com\/",
+    "firstPublishedAt": "2013-06-07T20:31:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by nWay.",
+    "premium": false,
+    "rating": {
+        "likeCount": 2162,
+        "average": 4.19,
+        "count": 1601
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "packageName": "com.slightlyobese.wai",
+    "title": "Where Am I?",
+    "description": "You wake up confused and lost, you have one goal and that is to find a way out of the creepy apartment, while holding your phone as the only source of light. You will discover why you never want to wake up here looking for any clues or items to help you unlock your way out of a creepy rooms and strange dark hallways.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "FPS\/Shooter",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "3f326e51-9834-4d6e-9040-e1b22bb5de5a",
+            "date": "2014-11-07T02:56:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b3bb284b-a1bf-4a4d-9bb6-7850ef0f6917\/com.slightlyobese.wai\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/wif0xAFkTvKgEB9U84RQ_WhereAmI.apk",
+            "size": 83992330,
+            "md5sum": "244b03d093bfb55831df7f94002deac7",
+            "publicSize": 105373,
+            "nativeSize": 15002800
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.slightlyobese.wai\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NHyeXvAoQEqhRiBJpp5G",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JsDWI01SQ9ysoak6isqN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z7yD8W5ITViQAnNOAr8N",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/K4CMId8FT8KVdA86s3n5"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/arfz23_ouya-screenshot20141102-2-eh50m9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/thumbnails\/thumbnail20141102-2-1h1u09k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/abaxqm_ouya-screenshot20141102-2-11nln4n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/thumbnails\/thumbnail20141102-2-1t1wj33.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/qz7iho_ouya-screenshot20141102-2-15thtjm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3f326e51-9834-4d6e-9040-e1b22bb5de5a\/thumbnails\/thumbnail20141102-2-195qnq.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b3bb284b-a1bf-4a4d-9bb6-7850ef0f6917",
+        "name": "Maple Taco Studio",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.mapletaco.com",
+    "firstPublishedAt": "2014-11-07T02:56:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Maple Taco Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.44,
+        "count": 94
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "WhereAmI2014",
+            "name": "Where Am I",
+            "description": "You are about to purchase \"Where Am I?\" for $1.99.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

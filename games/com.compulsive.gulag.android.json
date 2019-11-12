@@ -1,0 +1,76 @@
+{
+    "packageName": "com.compulsive.gulag.android",
+    "title": "Gulag Unfinished Edition",
+    "description": "You play as Vera, a Russian female sniper during Post WW2 Russia. Wrongly accused of abandoning her country, Vera was thrown into a Gulag with no hope of escape. Until Now...\n\nVenture through the chaotic halls of a crumbling Gulag with only your trusty bolt action rifle in your hands! Eliminate all that stands in your path with clever ricochet tactics. Test you skills with target challenge levels and unlock other stuff along the way! \n\n(This is an early demo of the game. This game will be updated over time with more content)\n\nUpdate News (v1.3)\n\nNew Controller Type added!\n\nAdditional Levels Added!\nPrevious Levels have been altered\nMultiple Graphical updates have been pushed\n\nColor coded doors and switches added.\n\nMines have been added.\nDebrief Screen Added\n\nTweaked damage for all weapons\nAdded Boss",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "85fd991b-0a6f-48af-b49f-d0fa76b314e9",
+            "date": "2015-08-03T19:55:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c423731f-cac7-41f6-88a6-309afc6d50dd\/com.compulsive.gulag.android\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/oYKdivtQUeEejO2uzQm4_gulag-ouya.apk",
+            "size": 17882405,
+            "md5sum": "5292aeb49ccdd5f4597248c0501caf60",
+            "publicSize": 5740,
+            "nativeSize": 1610852
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.compulsive.gulag.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3MVXSNXVSVOWe0JhackY",
+        "video": "https:\/\/vimeo.com\/128953713",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7orVHVWQYCDaBEtUEDzx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ixeFyGYSGWtPaeefD0ww",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x7QXUy37Q864aWe0BpqE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/128953713"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/qczzi6_ouya-screenshot20150730-3-137uzid.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/thumbnails\/thumbnail20150730-3-fb4o55.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/m7v6jw_ouya-screenshot20150730-3-o6u97y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/thumbnails\/thumbnail20150730-3-iw6hzh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/zjx6wv_ouya-screenshot20150730-3-bxfamq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85fd991b-0a6f-48af-b49f-d0fa76b314e9\/thumbnails\/thumbnail20150730-3-5u24p9.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c423731f-cac7-41f6-88a6-309afc6d50dd",
+        "name": "Duston Allen",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "dallendev.blogspot.com",
+    "firstPublishedAt": "2015-03-17T14:59:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2015 by Duston Allen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.02,
+        "count": 85
+    }
+}

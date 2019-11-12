@@ -1,0 +1,91 @@
+{
+    "packageName": "com.goodhustle.beastboxingturbo.ouya",
+    "title": "Beast Boxing Turbo",
+    "description": "First-person monster boxing with customizable boxing gear! You're Char, a lowly human with a patchy monster costume and a dream of fighting in the Beast Boxing Leagues into which humans are forbidden to enter. A washed-up pig coach offers his help after you defeat him, and you set off on a quest for strength, fame, and respect for humans. Be warned: this game is really freakin' hard.\r\n\r\nLatest Version 1.2.3\r\n* A fix for performance\/crash problems caused by external keyboards",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.2.3",
+            "versionCode": 0,
+            "uuid": "b2b762b5-39a4-4a15-b924-3401b6c50fd4",
+            "date": "2013-06-27T03:09:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4b5883b6-4f1d-4b43-87e6-3c71fb737660\/com.goodhustle.beastboxingturbo.ouya\/b2b762b5-39a4-4a15-b924-3401b6c50fd4\/uOWfxFpgSTC64T3XKgXn_bbt-1.2.3-signed.apk",
+            "size": 173412684,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.goodhustle.beastboxingturbo.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5sWy160TLmpytGm9qgJq",
+        "video": "https:\/\/vimeo.com\/89986869",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SeQUoQZWTNu0Gumd7cp4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JAoHuOFWTcGIA0qc5DKF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fZS8Qa2TVSqt8nPJJu7g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9KLWoZLIRguyZII9tF2B"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89986869"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SeQUoQZWTNu0Gumd7cp4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SeQUoQZWTNu0Gumd7cp4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JAoHuOFWTcGIA0qc5DKF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JAoHuOFWTcGIA0qc5DKF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fZS8Qa2TVSqt8nPJJu7g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fZS8Qa2TVSqt8nPJJu7g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9KLWoZLIRguyZII9tF2B\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9KLWoZLIRguyZII9tF2B\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Goodhustle Studios, Inc.",
+        "supportEmail": "support@goodhustle.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.beastboxing.com",
+    "firstPublishedAt": "2013-03-26T05:52:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Goodhustle Studios, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 852,
+        "average": 4.07,
+        "count": 436
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "goodhustle-beastboxingturbo-fullgame",
+            "name": "Beast Boxing Turbo Full Game",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

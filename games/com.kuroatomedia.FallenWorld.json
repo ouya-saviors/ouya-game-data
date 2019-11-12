@@ -1,0 +1,92 @@
+{
+    "packageName": "com.kuroatomedia.FallenWorld",
+    "title": "FallenWorld",
+    "description": "Fallen World is a Tower Defense \/ Hack and Slash hybrid set in a post-apocalyptic world ruled by a machine army.\r\n\r\nTake the role of a deadly Cyborg Ninja; hack and slash your way through endless waves of robot enemies. Summon soldiers and torrent defense units into battle. Protect a young cyborg that holds the key to dismantling the mainframe and machine network. As the human's last defense and only hope of survival, you must fight your way to the heart of the Machine City and save what is left of the fallen world.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "18acb21a-e649-4277-9259-e1f3420a9286",
+            "date": "2013-09-17T03:55:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a0f26e4c-ce1d-419f-baa8-70a30c0874bc\/com.kuroatomedia.FallenWorld\/18acb21a-e649-4277-9259-e1f3420a9286\/qThkYEo0QvyE6nCcrlLx_fallenworld.apk",
+            "size": 37920662,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kuroatomedia.fallenworld\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vuhBhFmtQ12LP3RZVjdl",
+        "video": "https:\/\/vimeo.com\/122373086",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2rcFA75HRTsiTAGxL8Vq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E310hzdSEupGibZ5xFoC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bRfTzF1PRGqnJnbqsZs8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tscyVKZ3QuXBiqOwMdUE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/122373086"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2rcFA75HRTsiTAGxL8Vq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2rcFA75HRTsiTAGxL8Vq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/E310hzdSEupGibZ5xFoC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/E310hzdSEupGibZ5xFoC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bRfTzF1PRGqnJnbqsZs8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bRfTzF1PRGqnJnbqsZs8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tscyVKZ3QuXBiqOwMdUE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tscyVKZ3QuXBiqOwMdUE\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kuroato Media",
+        "supportEmail": "info@kuroato.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/fallenworld.us",
+    "firstPublishedAt": "2013-09-17T03:55:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Kuroato Media.",
+    "premium": false,
+    "rating": {
+        "likeCount": 223,
+        "average": 3.98,
+        "count": 261
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fw_full_version",
+            "name": "Fallen World Full version",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

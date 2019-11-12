@@ -1,0 +1,75 @@
+{
+    "packageName": "com.potassiumfrog.cheshire",
+    "title": "Cheshire's Cheese Nightmares",
+    "description": "\"I've heard about the cat who got the cream, Cheshire, but you're the cat who got the cheese. And the cheese, if you please, disagrees with you quite strongly!\" said Alice, peering curiously into Cheshire's Cheese Nightmares.\r\n\r\nThis is the first game in 20+ years to bring together writer and programmer Colin Jones, and graphics artist Chris Graham, responsible for 90s UK classics Slightly Magic and Rock Star Ate My Hamster.\r\n\r\nA new kind of game, for a new kind of timeslot, featuring a soundtrack by Josh Woodward, voice artist Kimmypops, and a cyberdelic experience of unknown delights.\r\n\r\nWarning: Flashing lights, transcendental imagery, and an unparalleled trip into the depths of an altogether wilder reality.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2dc43bec-7f10-4b36-a3fc-0126dde70f77",
+            "date": "2014-09-30T07:27:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d54f1c87-ef78-4178-b5ea-c49be1d6d4f9\/com.potassiumfrog.cheshire\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/OCqohcATThuCVTAJEJd6_Cheshires_Cheese_OUYA_release_ready.apk",
+            "size": 69698215,
+            "md5sum": "21e6e6bef03cb8d1ebd5dae0371f9db7",
+            "publicSize": 54112,
+            "nativeSize": 22264940
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WStL3zxFTJ6AszKZYCUQ",
+        "video": "https:\/\/vimeo.com\/106613300",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s99XbEsSzC17JPnBcE9E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xBZsjm6aTAGrygZaRCRO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dEO7qiwCT8a89hqvv6fp"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/106613300"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/d2ca0k_ouya-screenshot20140919-2-e2hyy2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/thumbnails\/thumbnail20140919-2-1cxtvef.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/l5wm2i_ouya-screenshot20140919-2-1cr3bfr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/thumbnails\/thumbnail20140919-2-1cyh6ax.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/y997r4_ouya-screenshot20140919-2-lohy22.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/thumbnails\/thumbnail20140919-2-u26r01.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Potassium Frog Ltd",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.potassiumfrog.com",
+    "firstPublishedAt": "2014-09-30T07:27:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Potassium Frog Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.74,
+        "count": 39
+    }
+}

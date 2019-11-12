@@ -1,0 +1,74 @@
+{
+    "packageName": "com.philiproyer.hype.android",
+    "title": "Hype",
+    "description": "A very simple, fullscreen Countdown timer for the OUYA. \r\n\r\nCountdown to:\r\n- Your next birthday\r\n- The next holiday\r\n- Your next paycheck\r\n- Your buddy's mom's birthday\r\n- A project deadline\r\n- Your next drug test\r\n- The next season of Firefly\r\n- Your prison release \r\n- 2012 (The end of the world)\r\n\r\nAlso included, a Pomodoro mode shortcut! (25 minutes)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd",
+            "date": "2014-10-07T22:14:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/97221744-8bc6-4f1f-8830-0b27a4e7e508\/com.philiproyer.hype.android\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/wrpSfbWJSVSZjlRN8wRr_Hype.apk",
+            "size": 7031878,
+            "md5sum": "cf4a4fb8a25d3e1c427f31e1c3eca938",
+            "publicSize": 40594,
+            "nativeSize": 1545368
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.philiproyer.hype.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DgwVFWCSead2J5oSr6GO",
+        "video": "https:\/\/vimeo.com\/104433240",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cERClWnT76m88SiVT8Gq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D8889Zf3QpeZP7LvEx1s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zmSWjWUURS6DXcOrfMxY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/104433240"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/hgbhq_ouya-screenshot20141007-2-1d1b0dh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/thumbnails\/thumbnail20141007-2-zvwb16.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/lhd2ey_ouya-screenshot20141007-2-1kidq5p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/thumbnails\/thumbnail20141007-2-9hobwy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/lqblpr_ouya-screenshot20141007-2-1xm7uvr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ebacc11d-fa0c-48e4-8fa3-b7ff7b3d40bd\/thumbnails\/thumbnail20141007-2-1unafs1.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "97221744-8bc6-4f1f-8830-0b27a4e7e508",
+        "name": "Philip Royer",
+        "supportEmail": "philip.w.royer@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/littletinman.com",
+    "firstPublishedAt": "2014-08-20T22:03:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Philip Royer.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.83,
+        "count": 47
+    }
+}

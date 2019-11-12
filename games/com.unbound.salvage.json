@@ -1,0 +1,83 @@
+{
+    "packageName": "com.unbound.salvage",
+    "title": "Salvage",
+    "description": "Scorch across the desert in your combat kart, armed to the teeth with collected hyper mods, tri-cannons, bombs, mines, emps, and the insane Blitz Mode weapon. \r\n\r\nBlast, rip, and electrify your way through the thousands of rusted war machines that roam the wasteland in this high octane twin-stick shoot 'em up.\r\n\r\nCollect salvage from your defeated foes to repair and upgrade your vehicle.  Unlock all four cars, all five weapons, and tons of upgrades to your starting equipment as you engage in frantic arcade warfare. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 0,
+            "uuid": "931e68ea-2650-4e92-b582-34fbb34915ef",
+            "date": "2013-11-02T00:00:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e426846f-1339-4f86-9413-3d525325ba44\/com.unbound.salvage\/931e68ea-2650-4e92-b582-34fbb34915ef\/7iG25pBHTNKDiUlhk6Sg_Salvage%20Ouya%20Edition.apk",
+            "size": 6208849,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mSVxyo7Rra7Uhd3yfYlz",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zIOIqnPRCCzuweQHPV3z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qxcickF8TRC6xpkdvk3G",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BAaj3ZY7RFG7W2kilEN4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HN5mc9rDSfSuHnUCTbCG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F4I43MHhQrmdjBal4Fgw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zIOIqnPRCCzuweQHPV3z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zIOIqnPRCCzuweQHPV3z\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qxcickF8TRC6xpkdvk3G\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qxcickF8TRC6xpkdvk3G\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BAaj3ZY7RFG7W2kilEN4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BAaj3ZY7RFG7W2kilEN4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HN5mc9rDSfSuHnUCTbCG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HN5mc9rDSfSuHnUCTbCG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/F4I43MHhQrmdjBal4Fgw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/F4I43MHhQrmdjBal4Fgw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Unbound Studios",
+        "supportEmail": "ryankoym@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/salvagegame.blogspot.com\/",
+    "firstPublishedAt": "2013-11-02T00:00:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Unbound Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 27,
+        "average": 2.89,
+        "count": 36
+    }
+}

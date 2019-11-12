@@ -1,0 +1,115 @@
+{
+    "packageName": "com.glennbacon.superdaddio2",
+    "title": "Super Daddio 2",
+    "description": "Fun run and jump 2D platformer.  Help Daddio save his girlfriend.  Defeat enemies by stomping on them or throwing weapons at them.  Battle big bosses in this exciting side scrolling action packed game.  Power-up with a jetpack and fly high into the sky and come down and stomp more bad guys.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "1438ae63-28f6-4a95-b4e3-215537d8aea2",
+            "date": "2013-10-30T20:59:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c9b2b54a-28b8-4ae0-abdb-ece987cbca62\/com.glennbacon.superdaddio2\/1438ae63-28f6-4a95-b4e3-215537d8aea2\/bxfnszlDRTNXITXIxfeA_superdaddio2.apk",
+            "size": 13426632,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.glennbacon.superdaddio2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rliNarrQV60rKEbkHSIg",
+        "video": "https:\/\/vimeo.com\/78160574",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vVCU3FN6SF65cmFz3J7c",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AQBrNvmbRbuQo52zd2QZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jXVW8Vt6QyWpWbsixhL2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cJ4yYXODQemPJxkRb2HL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iNYgLE2vSaWJL6t5wPDt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YUwbci02SqKX0tyYZzcN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uCqtCeSoT4eiT1uqhBg3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7g74fZlBTn6zBEXSKRi0"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/78160574"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vVCU3FN6SF65cmFz3J7c\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vVCU3FN6SF65cmFz3J7c\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AQBrNvmbRbuQo52zd2QZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AQBrNvmbRbuQo52zd2QZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jXVW8Vt6QyWpWbsixhL2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jXVW8Vt6QyWpWbsixhL2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cJ4yYXODQemPJxkRb2HL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cJ4yYXODQemPJxkRb2HL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iNYgLE2vSaWJL6t5wPDt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iNYgLE2vSaWJL6t5wPDt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YUwbci02SqKX0tyYZzcN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YUwbci02SqKX0tyYZzcN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uCqtCeSoT4eiT1uqhBg3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uCqtCeSoT4eiT1uqhBg3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7g74fZlBTn6zBEXSKRi0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7g74fZlBTn6zBEXSKRi0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Glenn Bacon",
+        "supportEmail": "glennbjr@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.superdaddio.com",
+    "firstPublishedAt": "2013-03-26T20:08:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Glenn Bacon.",
+    "premium": false,
+    "rating": {
+        "likeCount": 177,
+        "average": 3.54,
+        "count": 144
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_game",
+            "name": "Super Daddio 2 Full Game",
+            "description": "Unlocks Full Game.  Play all 60 Levels.",
+            "localPrice": 0,
+            "originalPrice": 0,
+            "currency": "EUR"
+        }
+    ]
+}

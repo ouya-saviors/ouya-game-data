@@ -1,0 +1,86 @@
+{
+    "packageName": "com.company.PangBall",
+    "title": "PangBall 70'Year",
+    "description": "PingBall 70'year is a 70'year classic breakoout ArcadeGame .\r\nOver 100 Levels !\r\n\r\nhttp:\/\/rosgs.blogspot.hk\/",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "050440a3-906a-4bc7-8e56-9ba8981d58a1",
+            "date": "2014-05-23T05:06:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/add75c5c-673e-46fc-999e-f054c57bd367\/com.company.PangBall\/050440a3-906a-4bc7-8e56-9ba8981d58a1\/y94qIkRbOMy1JEOJPAg6_PangBall_1.6.4.apk",
+            "size": 7471910,
+            "md5sum": "11dbbc26e2e27b4258c7c6c72691c334",
+            "publicSize": 26877,
+            "nativeSize": 182552
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.company.pangball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/epvzBl6fTtCbl2VWpWHP",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YofbH4MRMWeooCWQqSLA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6n2ose6JSiCfKv8VRYsx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aPBCJGhTRpCrWo7FR8cy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gNzvlVzhQJnZ1IdLrZDA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YofbH4MRMWeooCWQqSLA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YofbH4MRMWeooCWQqSLA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6n2ose6JSiCfKv8VRYsx",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6n2ose6JSiCfKv8VRYsx"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aPBCJGhTRpCrWo7FR8cy",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aPBCJGhTRpCrWo7FR8cy"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gNzvlVzhQJnZ1IdLrZDA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gNzvlVzhQJnZ1IdLrZDA"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Revival Of Social Studio",
+        "supportEmail": "siumanchunandy@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/rosgs.blogspot.hk",
+    "firstPublishedAt": "2014-05-23T05:06:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Revival Of Social Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 1.33,
+        "count": 3
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "z201182598517828",
+            "name": "PangBall 70'Year",
+            "description": "play by bouncing it off a paddle.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "packageName": "com.tribaloid.aroundtherock",
+    "title": "Around the Rock Disc Golf",
+    "description": "ATR Disc Golf demo challenges you to make Aces in Practice and play par 3 on Floating Rock Park Front 9! Un-lock Leaderboard and Tournament mode with 2 18 hole courses with basket configurations! Latest Update: Fixed right joystick issue on Hole 9 course 1 and slider bar issues. Special Ouya Launch Price! 50% off! Thanks for supporting us and look forward to more updates!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.7",
+            "versionCode": 0,
+            "uuid": "70c28d59-7b51-408c-9cb6-26439dc52000",
+            "date": "2013-06-27T21:13:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/120ade5b-55f6-4190-9b38-57170b2dbd76\/com.tribaloid.aroundtherock\/70c28d59-7b51-408c-9cb6-26439dc52000\/F8mUuULERlKU8HOLePgA_OuyaATR_25June13.apk",
+            "size": 27573945,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tribaloid.aroundtherock\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HbKNCNOaRvmLnqR6jF57",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UyvthxrBR5qGgqY6utqk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yNmFZyk7Saq9ZotACIlo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oBvBflzqRCye4gVTksyA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UyvthxrBR5qGgqY6utqk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UyvthxrBR5qGgqY6utqk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yNmFZyk7Saq9ZotACIlo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yNmFZyk7Saq9ZotACIlo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oBvBflzqRCye4gVTksyA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oBvBflzqRCye4gVTksyA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "120ade5b-55f6-4190-9b38-57170b2dbd76",
+        "name": "Tribaloid",
+        "supportEmail": "alan@tribaloid.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.atrdiscgolf.com",
+    "firstPublishedAt": "2013-03-19T17:11:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Tribaloid.",
+    "premium": false,
+    "rating": {
+        "likeCount": 67,
+        "average": 3.05,
+        "count": 42
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "net.tmtg.xycannon",
+    "title": "XY Cannon",
+    "description": "An abstract shooter where you control two cannons at once.  A tribute to Jeff Minter's Laserzone, featuring psychedelic backgrounds and over the top explosions! Compatible with xbox controller. This game is open source.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "32d428bc-e21f-433d-82fb-6b8175ec2b08",
+            "date": "2013-09-17T20:49:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f2ab665e-217f-41fc-98d6-bbdaa6ced57c\/net.tmtg.xycannon\/32d428bc-e21f-433d-82fb-6b8175ec2b08\/s2zE7WHUQXenG9c6ozKU_XYCannon-release-ouya.apk",
+            "size": 15573827,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RxA9n1mTZCiCKfy07hJi",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sKW8iUBEST46Cyeg6S7w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UhTXsjRlTucBujqNqf41",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fVJZNdikTci1axQ9UScJ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sKW8iUBEST46Cyeg6S7w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sKW8iUBEST46Cyeg6S7w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UhTXsjRlTucBujqNqf41\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UhTXsjRlTucBujqNqf41\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fVJZNdikTci1axQ9UScJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fVJZNdikTci1axQ9UScJ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f2ab665e-217f-41fc-98d6-bbdaa6ced57c",
+        "name": "Boris van Schooten",
+        "supportEmail": "info@tmtg.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/tmtg.net\/xycannon\/",
+    "firstPublishedAt": "2013-09-17T20:49:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Boris van Schooten.",
+    "premium": false,
+    "rating": {
+        "likeCount": 38,
+        "average": 3.5,
+        "count": 26
+    }
+}

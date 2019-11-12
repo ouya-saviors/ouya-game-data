@@ -1,0 +1,69 @@
+{
+    "packageName": "com.resetgame.tar",
+    "title": "Tank Ace Reloaded",
+    "description": "In Tank Ace Reloaded you command a World War II tank charging to occupy the enemy capitol. Allied and Soviet Tank Aces advance on Berlin; German Aces advance on London and Moscow. At least that's what the orders from HQ say. But since you face overwhelming odds and are forced to scavenge supplies as you go, you might just find yourself retreating instead.\r\n\r\nThe goal of each round of play is to clear the enemy from a map sector and drive them off the far bank of a river so that your side can cross and advance. Skills you will need to accomplish this are a working trigger finger, the ability to navigate west or east, and driving ability sufficient to crash into other vehicles.\r\n\r\nA status panel shows the number of enemies left, rounds remaining, fuel, and armor strength. The last three can be replenished by ramming (not shooting) an enemy truck. If you run out of fuel or armor, or for some reason drive your tank into the water, in addition to an untimely death you will be forced to retreat one sector. If you wipe out the enemies you will advance one sector, retaining any excess supplies you have scavenged. The game ends when you take the enemy capitol, or they overrun yours. Either way the brass will want to have a talk with you.\r\n\r\nFeatures:\r\n\r\n- Play one of three aces: Allied, German, or Soviet.\r\n- Three tanks: Sherman, Tiger, or T34, each with movable turret and cannon.\r\n- Three difficulty settings.\r\n- Enemy trucks carrying rounds, fuel, and armor.\r\n- Save \/ Resume game.\r\n\r\nNote: RESETgame does not condone invasion of other countries and cannot accept liability for such an event.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 0,
+            "uuid": "20734611-ed89-4658-9700-29c8ee5be2ec",
+            "date": "2013-07-25T23:27:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/721daae1-df4a-4520-998f-812720d420c1\/com.resetgame.tar\/20734611-ed89-4658-9700-29c8ee5be2ec\/sX2IF2q5QzhBg3zn0sAU_tar_ouya.apk",
+            "size": 1666823,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.resetgame.tar\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UwgOMKRISVax5tLriitz",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lbQ9LSoqRm2CDccmU4lw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u4tlnuEHRNubaPrYHDKp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TfXRKP4kSnSG9Ja7QgpG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lbQ9LSoqRm2CDccmU4lw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lbQ9LSoqRm2CDccmU4lw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/u4tlnuEHRNubaPrYHDKp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/u4tlnuEHRNubaPrYHDKp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TfXRKP4kSnSG9Ja7QgpG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TfXRKP4kSnSG9Ja7QgpG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "RESETgame",
+        "supportEmail": "support@resetgame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.resetgame.com",
+    "firstPublishedAt": "2013-07-08T18:43:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by RESETgame.",
+    "premium": false,
+    "rating": {
+        "likeCount": 93,
+        "average": 3.59,
+        "count": 75
+    }
+}

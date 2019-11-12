@@ -1,0 +1,87 @@
+{
+    "packageName": "com.topcoolapps.Oborisbotshootem",
+    "title": "Boris Bot Shootem: the One Armed Bot",
+    "description": "*one of my favourite platform games*\r\n*8 bit epic, battle classic style enemies*\r\n\r\nThis is my homage to the classic 90s action platform games I always loved to play\r\n\r\nI have a number of exciting level updates on the way. An epic battle in 4 chapters, in that classic style.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "d6a10c69-dbb9-46f1-8484-c97a9a97a7e4",
+            "date": "2015-01-13T04:51:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6c3293f8-4b92-46bb-8fa5-df16c72d58af\/com.topcoolapps.Oborisbotshootem\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/HXueSYfcSC0tNaG8mCkR_BorisBotShootemOUYA-v12-8.apk",
+            "size": 49514186,
+            "md5sum": "650b6ca1ba88bf0bde1309f05a43bb44",
+            "publicSize": 1394692,
+            "nativeSize": 32467776
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.topcoolapps.oborisbotshootem\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/744LemATQLej3btahTMi",
+        "video": "https:\/\/vimeo.com\/113473323",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3SRsFZoERGirl9TB9DSO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tntmfGzhToOyisLdtWWr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BW1a6quXQQuVRUq1Zf35",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SASnGCdnTDmpba0aDCQa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o9heUkzQZuNFPAUjFsIB"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/113473323"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/qgl3pa_ouya-screenshot20150107-2-1xey5n2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/thumbnails\/thumbnail20150107-2-wxngn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/q2hre_ouya-screenshot20150107-2-nzs7q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/thumbnails\/thumbnail20150107-2-1lheu3m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/hp1glp_ouya-screenshot20150107-2-11vt2xc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/thumbnails\/thumbnail20150107-2-oql3a6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/r93zfl_ouya-screenshot20150107-2-c6co7t.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/thumbnails\/thumbnail20150107-2-sxsout.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/17z93r_ouya-screenshot20150107-2-x1tbme.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6a10c69-dbb9-46f1-8484-c97a9a97a7e4\/thumbnails\/thumbnail20150107-2-1m2jl34.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Top Cool Apps",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/topcoolapps.com",
+    "firstPublishedAt": "2015-01-13T04:51:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by Top Cool Apps.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

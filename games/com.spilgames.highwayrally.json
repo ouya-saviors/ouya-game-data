@@ -1,0 +1,81 @@
+{
+    "packageName": "com.spilgames.highwayrally",
+    "title": "Highway Rally",
+    "description": "Hit the highway for a racing road-trip of pure adrenaline! Race on 20 extreme highway tracks, and beat target times to unlock special cars, cash, and new levels. Let your need for speed drive you to win!\r\n\r\nFEEL THE RUSH ON THE HIGHWAY\r\n- Race on a total of 20 scenic highway tracks \r\n- Push your speed to beat gold, silver, or bronze target times\r\n- Unlock new tracks if you get bronze or better\r\n- 3+ hours of fast, high-velocity racing\r\n- Earn in-game cash by completing tracks, getting air time, and drifting\r\n- Collect special pick-ups and collectibles\r\n\r\nCOOL CARS\r\n- 12 vehicles\r\n- Stunning Retina graphics!\r\n- Upgrade your speed, acceleration, handling and nitro tank with cash\r\n- Upgrade your car's engine, spoiler, hood, and wheels\r\n- Nitro tanks for turbo speed boosts\r\n\r\nINTENSE GAMEPLAY\r\n- Different camera views\r\n- Compete against ghost cars and compare your performance to the target time\r\n- Challenge your friends to beat your score on Game Center!\r\n- Stay at maximum speed to beat the clock\r\n- Swerve to avoid collisions with obstacles",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.20",
+            "versionCode": 0,
+            "uuid": "481cc3e4-24a4-42a5-bee9-b6bf28c4284c",
+            "date": "2013-07-31T18:08:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/af8ab7e0-5e2e-4ac6-8f16-e2141d942666\/com.spilgames.highwayrally\/481cc3e4-24a4-42a5-bee9-b6bf28c4284c\/e7MuzSDySiWnBB1mcFpc_HighwayRallyOuya.apk",
+            "size": 37136478,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spilgames.highwayrally\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hT7dxroLQ4GWLvXAPXQp",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gdoKwE4ATkmusqWkf5Mo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hCZBpksWSfS18FhWdKLD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6esApStBRPGQ0IGVa4UZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZvKkImofTpzIVQZYgauZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rGAKMLrOQ2e7Ile6AMSv"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gdoKwE4ATkmusqWkf5Mo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gdoKwE4ATkmusqWkf5Mo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hCZBpksWSfS18FhWdKLD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hCZBpksWSfS18FhWdKLD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6esApStBRPGQ0IGVa4UZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6esApStBRPGQ0IGVa4UZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZvKkImofTpzIVQZYgauZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZvKkImofTpzIVQZYgauZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rGAKMLrOQ2e7Ile6AMSv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rGAKMLrOQ2e7Ile6AMSv\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Spil Games",
+        "supportEmail": "ouya.support@spilgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.highwayrally.com\/",
+    "firstPublishedAt": "2013-03-24T07:55:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Spil Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 291,
+        "average": 3.14,
+        "count": 495
+    }
+}

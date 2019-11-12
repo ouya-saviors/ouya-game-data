@@ -1,0 +1,112 @@
+{
+    "packageName": "Com.Gnomic.SquareOff",
+    "title": "Square Off",
+    "description": "Blast, dodge and disintegrate your alien enemies in a desperate bid to save humanity. \r\n\r\nWield shotguns, bombs and missiles in an insane survival frenzy.\r\n\r\nFeatures beautiful sound and 2.5D graphics, hordes of vicious aliens and absolutely loads of addictive fun.\r\n\r\nSupports 4 players locally in coop mode or deathmatch for final bragging rights.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.6",
+            "versionCode": 0,
+            "uuid": "cbb2ea4e-0f3e-4ff6-b6a7-d4975bf0c62e",
+            "date": "2013-06-26T23:25:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/dbdd7fe0-5bc0-451b-b617-c17b1659fb59\/Com.Gnomic.SquareOff\/cbb2ea4e-0f3e-4ff6-b6a7-d4975bf0c62e\/R6UIWjlRfORUUMx52OVA_Com.Gnomic.SquareOff-Ouya-Aligned_1.6.apk",
+            "size": 39513646,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gnomic.squareoff\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/22JxBYkbQ8iBzmgTSbVl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ydye7BUWRri48gZrvvAs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XMxVwHeISRGJDaodQZVe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x4A4w7ZROaOHyzxejDMg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5LdBtGk5RCYC9tQyR7zg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ym0PkLehTCOgkufuYbrf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zs7WLkY3SEJ27jzJruaD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HmSec6FMTXI4sDzBknU7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y8yna3eTw2zXkD928BSF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ydye7BUWRri48gZrvvAs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ydye7BUWRri48gZrvvAs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XMxVwHeISRGJDaodQZVe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XMxVwHeISRGJDaodQZVe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/x4A4w7ZROaOHyzxejDMg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/x4A4w7ZROaOHyzxejDMg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5LdBtGk5RCYC9tQyR7zg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5LdBtGk5RCYC9tQyR7zg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ym0PkLehTCOgkufuYbrf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ym0PkLehTCOgkufuYbrf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Zs7WLkY3SEJ27jzJruaD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Zs7WLkY3SEJ27jzJruaD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HmSec6FMTXI4sDzBknU7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HmSec6FMTXI4sDzBknU7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y8yna3eTw2zXkD928BSF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y8yna3eTw2zXkD928BSF\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gnomic Studios",
+        "supportEmail": "support@gnomicstudios.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.gnomicstudios.com\/squareoff",
+    "firstPublishedAt": "2013-03-28T03:04:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Gnomic Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 267,
+        "average": 4.08,
+        "count": 92
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "squareoff_fullversion",
+            "name": "Square Off Full Version",
+            "description": "Access to all levels and up to 4-player coop and deathmatch modes.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

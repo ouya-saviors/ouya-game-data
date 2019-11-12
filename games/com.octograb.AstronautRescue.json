@@ -1,0 +1,71 @@
+{
+    "packageName": "com.octograb.AstronautRescue",
+    "title": "Astronaut Rescue",
+    "description": "A number of your astronaut colleagues have been stranded on distant moons. You must track them down and rescue them. But watch out! You\u2019re in the middle of an asteroid belt, and the risk of getting crushed by a hurtling asteroid is around every corner. Steer your ship through the asteroids, blasting them to bits with your energy blaster if they get in your way, and landing on moons to rescue the astronauts. Progress through a number of increasingly difficult levels as you move deeper into the heart of the asteroid belt.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "8216e350-c6f1-4170-9913-3215eebdafa9",
+            "date": "2013-06-24T22:05:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/92bf95ce-9621-44cf-8603-01477283f1c2\/com.octograb.AstronautRescue\/8216e350-c6f1-4170-9913-3215eebdafa9\/RAbdIkyKQomPZwtjzrxE_Astronaut-Rescue-menu_v4_update_1-1.apk",
+            "size": 12857021,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.octograb.astronautrescue\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oCSC4ErTdu4B5EgwM8cP",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s1FsWBBcTuS9ryREoKoT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XGupM3wGTSKBRYPD9M1I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1UMRfncTQyCDUTGLdpOL"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s1FsWBBcTuS9ryREoKoT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s1FsWBBcTuS9ryREoKoT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XGupM3wGTSKBRYPD9M1I\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XGupM3wGTSKBRYPD9M1I\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1UMRfncTQyCDUTGLdpOL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1UMRfncTQyCDUTGLdpOL\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Octograb Studio",
+        "supportEmail": "bgraff@outlook.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.octograb.com",
+    "firstPublishedAt": "2013-06-22T16:11:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Octograb Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 113,
+        "average": 3.07,
+        "count": 148
+    }
+}

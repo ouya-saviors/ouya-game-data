@@ -1,0 +1,95 @@
+{
+    "packageName": "com.savedgames.hoi",
+    "title": "Heroes of Issachar",
+    "description": "Action RPG meets strategy sim as you take your hero and his companions through treacherous lands!  Enjoy elements of castle building, tower defense, and good old hack-and-slash as you recover stolen Bible scripture for the good people of Issachar, gaining levels and loot along the way.\r\n(This game is an alpha release.  We encourage everyone to play with what we have and let us know what they like, what they don't, and any other thoughts on how to make this game even better!)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.12",
+            "versionCode": 0,
+            "uuid": "c388ae70-9a33-457b-89b7-f43451cf5b1d",
+            "date": "2013-09-23T22:53:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b52366d5-f5d0-403d-a02d-ca1e006800b4\/com.savedgames.hoi\/c388ae70-9a33-457b-89b7-f43451cf5b1d\/nQIFn3paRKOB7zhGNeVP_OuyaUnityApplication.apk",
+            "size": 151577343,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.savedgames.hoi\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZxNb1eO3SwSGTA3Ql3qi",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3tdXImhISzKTlTf3Suj5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YLiJJczBT6hkeusMRazZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T9AKe8rRQBGemhd31H63",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d4Cjfy0ZQdGvcOrAd7JJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a6P5kThMSEmfnxK3yzia",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zIqkmWKKQhu1hHcZyWUo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dlgRziPLQlWJPU8MDoK0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3tdXImhISzKTlTf3Suj5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3tdXImhISzKTlTf3Suj5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YLiJJczBT6hkeusMRazZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YLiJJczBT6hkeusMRazZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/T9AKe8rRQBGemhd31H63\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/T9AKe8rRQBGemhd31H63\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/d4Cjfy0ZQdGvcOrAd7JJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/d4Cjfy0ZQdGvcOrAd7JJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/a6P5kThMSEmfnxK3yzia\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/a6P5kThMSEmfnxK3yzia\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zIqkmWKKQhu1hHcZyWUo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zIqkmWKKQhu1hHcZyWUo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dlgRziPLQlWJPU8MDoK0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dlgRziPLQlWJPU8MDoK0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Saved Games, Inc.",
+        "supportEmail": "support@savedgamesinc.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.savedgamesinc.com",
+    "firstPublishedAt": "2013-09-06T18:14:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Saved Games, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 90,
+        "average": 2.1,
+        "count": 136
+    }
+}

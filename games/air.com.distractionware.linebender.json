@@ -1,0 +1,69 @@
+{
+    "packageName": "air.com.distractionware.linebender",
+    "title": "line bender",
+    "description": "Hyperdimensional bendysnakes are desirous of luscious green diamonds.  But at what cost?\r\n\r\nPort by the wonderful Terry Cavanagh.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "665fa311-6f29-43c1-8c1f-34939ca08555",
+            "date": "2013-07-08T18:10:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c2273d6a-995a-4f2d-a1ec-6512800fe71a\/air.com.distractionware.linebender\/665fa311-6f29-43c1-8c1f-34939ca08555\/VfGPFgQf6GyslB5vjywl_linebender_ouya-1.apk",
+            "size": 12276865,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.distractionware.linebender\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pxzAOk8dSjyrf1JCKRrM",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5AbiBAAxSKCZcjSTbGHo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PSGz3PbwQF5torm2lJZA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j3EdHC9qQSe9bFmplTo2"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5AbiBAAxSKCZcjSTbGHo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5AbiBAAxSKCZcjSTbGHo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PSGz3PbwQF5torm2lJZA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PSGz3PbwQF5torm2lJZA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/j3EdHC9qQSe9bFmplTo2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/j3EdHC9qQSe9bFmplTo2\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "increpare",
+        "supportEmail": "analytic+support@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.increpare.com",
+    "firstPublishedAt": "2013-07-08T18:10:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by increpare.",
+    "premium": false,
+    "rating": {
+        "likeCount": 46,
+        "average": 3.81,
+        "count": 16
+    }
+}

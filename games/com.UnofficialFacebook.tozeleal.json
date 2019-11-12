@@ -1,0 +1,95 @@
+{
+    "packageName": "com.UnofficialFacebook.tozeleal",
+    "title": "Unofficial Facebook",
+    "description": "With this app you can make your own posts and likes without using your internet browser!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507",
+            "date": "2014-08-28T23:04:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/80fad51d-494e-46dc-b157-d6b4404adc37\/com.UnofficialFacebook.tozeleal\/9c33efb9-a5a2-49b9-9f67-2f8f100d4cff\/3HeqRGTVRKOsNzJBM2gm_UFB_signed.apk",
+            "size": 695139,
+            "md5sum": "b01af057650d0f0813a79796b61650df",
+            "publicSize": 302777,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.unofficialfacebook.tozeleal\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1bunsrjoQCaeShyQm19g",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0EJV027PTw2319e22tfv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u9QtcuCRQHOKRXZhTJu8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JgfGYFanRCqHxme25CNQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kkvpOJS8O9ssvwWN1QC1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NOsZrHxSpq4FutMAkVCY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/msgAg8XWSZuGwwXBFwYw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H14EafYT2pHXIECv7hnw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/a7uac9_ouya-screenshot20140828-2-8cb51h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-1y98d50.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/tusqjt_ouya-screenshot20140828-2-28e14a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-injjob.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/sqvy5u_ouya-screenshot20140828-2-1ohzvs8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-1huj5zk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/sry0x0_ouya-screenshot20140828-2-14at5gc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-1lbbp66.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/xm7rt0_ouya-screenshot20140828-2-17diwnb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-r402te.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/4l4pmi_ouya-screenshot20140828-2-1k73gns.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-1uthwyp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/whesya_ouya-screenshot20140828-2-1dqxhko.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6de5a3cd-63f9-4c1d-9ca0-4dd7cc439507\/thumbnails\/thumbnail20140828-2-5rox65.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "80fad51d-494e-46dc-b157-d6b4404adc37",
+        "name": "Tozeleal",
+        "supportEmail": "tozevleal@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tozeleal.no.sapo.pt",
+    "firstPublishedAt": "2014-06-08T11:25:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Tozeleal.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.72,
+        "count": 69
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "packageName": "com.dreambuttons.spanishgold",
+    "title": "Spanish Gold",
+    "description": "Two players must cooperate to advance through a series of rooms containing increasingly valuable Spanish Gold, but ultimately one must deceive the other to grab those coveted Pesetas!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.06",
+            "versionCode": 0,
+            "uuid": "07be8cec-ac54-4923-be77-3535f3568f65",
+            "date": "2013-08-21T15:34:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bf402391-c34a-48c0-a3e3-7426b271a149\/com.dreambuttons.spanishgold\/07be8cec-ac54-4923-be77-3535f3568f65\/TxTdwtFdQ8erXKnx7qPX_OuyaUnityApplication.apk",
+            "size": 16411652,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dreambuttons.spanishgold\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Nvl5vH6QFqqEctbL5GL1",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/28AHf0AvRT2lUQ0Rscfg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mIkjTVrBSPGaDFX5qtrI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/23ZyVUs0RxyAFqZ0edID",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tBHV6oMLQv2A5qzXpEgh"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/28AHf0AvRT2lUQ0Rscfg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/28AHf0AvRT2lUQ0Rscfg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mIkjTVrBSPGaDFX5qtrI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mIkjTVrBSPGaDFX5qtrI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/23ZyVUs0RxyAFqZ0edID\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/23ZyVUs0RxyAFqZ0edID\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tBHV6oMLQv2A5qzXpEgh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tBHV6oMLQv2A5qzXpEgh\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Stephen Borden",
+        "supportEmail": "skateborden@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/dreambuttons.com",
+    "firstPublishedAt": "2013-08-21T15:34:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Stephen Borden.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 3.29,
+        "count": 7
+    }
+}

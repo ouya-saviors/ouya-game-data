@@ -1,0 +1,228 @@
+{
+    "packageName": "com.cogworksmayhem.WildcardStudios",
+    "title": "CogWorks - Mayhem",
+    "description": "Title: CogWorks \u2013 Mayhem\nPlayers: 4\nSingle Player : Yes\nMultiplayer : Yes\nOnline: No\nControl Type: Gamepads \nOnline: No\nDRM: Ticket saves to OUYA\nRazer Compatible: TBA\nDescription:\nCogWorks is a game where the players are put into various arenas with a lot of hazards must survive by being the last man standing. There are 4 goalie points which belong to the player. Red, Green, Blue, Yellow.\n\nThe player must grab the Goal Diamond and take it back to their respective goal to increase their timer. If the player wants they could take it to an opposing goal and decrease that players time.  As the timer runs down. The belt changes color to indicate the state of charge the bomb is in.  if it reaches 0 the bomb explodes.\nThe last player standing wins the match.  \n\nDeveloper Notes:  \nHey there!  While it has taken us a few months to nail everything together there may be some bugs. if you do encounter some bugs please head on over to our website at (www.wildcardstudios.org) and goto the contact us section and goto the bugs section.  \n\nAll of the funds generated will go towards patches and new materials for the game. There is a lot we wanted to add but funds ran short. Support us and purchase CogWorks - Mayhem..",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "2",
+            "versionCode": 0,
+            "uuid": "341eecb0-6846-4f5a-be42-96a8835acb28",
+            "date": "2015-09-01T03:34:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/cad7eedd-517c-4e74-b99a-a93c81d5af2b\/com.cogworksmayhem.WildcardStudios\/341eecb0-6846-4f5a-be42-96a8835acb28\/GFQadctdSXyX56rEf1cc_CogWorks_V1.apk",
+            "size": 232619460,
+            "md5sum": "ec733d2397f328b4997aaf50a7c5deb7",
+            "publicSize": 425662,
+            "nativeSize": 15038828
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cogworksmayhem.wildcardstudios\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ikY4HZI4TWWaO0fcvNL2",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ARNV6iD8TBeL2zE35cge",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oR9W1FbaT7OZPQrkGwAH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3tUYaYt4Qziyl8Dz27Ez",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D2Xe3gpZTUGAKosu5kMh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gNOuJxLVScKi9wu5Kkpp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dlsOnCKQ6mdll5l7lYzw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hSmo6rgRRi6NZp7G4yLn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q0JW4baQ0KUJ9LqjAJPB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TCzSAmP8TH6HHFbeJys1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g2MioXsrRnWAY2dK5SXR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bLkc5I9RVGDltmtfaX35",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o4SnsFSfWTXhGuq6qJPQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3LhDz1XOR4iiFbiQUOb0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/phjOv6XRniAs5dRvzdfF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3j15EsL3RjmCDCUcY5bN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8KnXEUbSqyXpiYGQ4z4a",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BQgg2lo7SYOHg8biMFbS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xxiki8u7RvmD9itKvQFm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gcbTd8MTNytffzNrAd6g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j1pZImINTIGZu1vjbqQK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Dr9lZ3xTo63ANzqDjezI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zqBACtnhSqqk82gbAdTI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pZ5BRD2Qb2qKkeZ1olsZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4H9Da1blSeyDmGoqIBmT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jWWovmSSHCxuGz9xW7r9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GzL1osimQRSd29ctOzpT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j99KeHYoQ9WqX9AieQys"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/vuatjl_ouya-screenshot20150829-3-pbznb7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-hq4vzq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/nw2jyr_ouya-screenshot20150829-3-pgzrjl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1gdiaym.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/rl9z19_ouya-screenshot20150829-3-2660ad.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1oii9fo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/gv2uti_ouya-screenshot20150829-3-moxozr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-r7v29c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/72w552_ouya-screenshot20150829-3-1wxbxm5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1qtmgr5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/8ce0my_ouya-screenshot20150829-3-1ef7ipd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-oao2po.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/dga68d_ouya-screenshot20150829-3-1ovdqm7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-15adivh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/ul1mwo_ouya-screenshot20150829-3-1ltryma.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-m03q04.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/cfof0o_ouya-screenshot20150829-3-1rfz7fo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1iswaqv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/jt6jgm_ouya-screenshot20150829-3-15rxgr0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1odcf0m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/b7b6d7_ouya-screenshot20150829-3-1ujj6hh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1fbnxvn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/kpn55c_ouya-screenshot20150829-3-v9ijkr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1bimcdf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/ba2j2s_ouya-screenshot20150829-3-169j082.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-9eo11y.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/zzg43c_ouya-screenshot20150829-3-1jffhlf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-5o3301.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/ebr3cm_ouya-screenshot20150829-3-155lghp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-u2c4v2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/h99tmt_ouya-screenshot20150829-3-16zaigt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-xjrhz6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/i0qtvb_ouya-screenshot20150829-3-tikn67.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-ehzpmp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/joayoh_ouya-screenshot20150829-3-15ewao6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-198wrn0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/yye618_ouya-screenshot20150829-3-73l48v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1oo1kl1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/a64sjm_ouya-screenshot20150829-3-15p34s1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-14z1t3x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/s9d4nw_ouya-screenshot20150829-3-yl727z.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1tu9w3q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/q0ahun_ouya-screenshot20150829-3-9kfmsg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-qjgl6x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/ixrts1_ouya-screenshot20150829-3-1nxtrgx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1euq1us.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/x8gp68_ouya-screenshot20150829-3-k6nmhl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-xxnj0a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/ridjii_ouya-screenshot20150829-3-17wqruj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-10nk80c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/hs7jo9_ouya-screenshot20150829-3-1grozux.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-1jpw61v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/xb6nk6_ouya-screenshot20150829-3-19bwnae.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/341eecb0-6846-4f5a-be42-96a8835acb28\/thumbnails\/thumbnail20150829-3-cpm0rv.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "cad7eedd-517c-4e74-b99a-a93c81d5af2b",
+        "name": "Wildcard Studios Gaming Division",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.wildcardstudios.org",
+    "firstPublishedAt": "2015-09-01T03:34:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2015 by Wildcard Studios Gaming Division.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.33,
+        "count": 12
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ws_purchase_cogworks",
+            "name": "CogWorks Mayhem",
+            "description": "The one and only CogWorks - Mayhem. All sales go towards adding new content. Check your receipt for a coupon code for the PC Version.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

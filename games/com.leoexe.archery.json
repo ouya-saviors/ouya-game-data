@@ -1,0 +1,82 @@
+{
+    "packageName": "com.leoexe.archery",
+    "title": "A Ride into the Mountains",
+    "description": "Evil force invaded the relic in the mountain. Darkness began to spread. A brave young man, equipped with his family\u2019s unique mounted archery skills, rides into the mountains to battle against the mysterious demons.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.21",
+            "versionCode": 0,
+            "uuid": "da0442dd-7100-4305-bb10-d0a561d6bd6b",
+            "date": "2013-11-25T23:02:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9896db1c-09a8-4e84-9b62-1d3819d3f253\/com.leoexe.archery\/da0442dd-7100-4305-bb10-d0a561d6bd6b\/EmdxcMxXThmDjur9XOda_archery-ouya-1.21.apk",
+            "size": 7743548,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.leoexe.archery\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Z3gK7ONSA6ADHmT3Jkt",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T8NGWlLXR56kRcXMRB0Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1NZjlGSGTYqUMNBJukhp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U6IGGA46R7WxZTbQt21T",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2FgWmwLTYOvfDjpMxefF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yLNUMnENQjmVm3Ra59S0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/T8NGWlLXR56kRcXMRB0Y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/T8NGWlLXR56kRcXMRB0Y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1NZjlGSGTYqUMNBJukhp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1NZjlGSGTYqUMNBJukhp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/U6IGGA46R7WxZTbQt21T\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/U6IGGA46R7WxZTbQt21T\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2FgWmwLTYOvfDjpMxefF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2FgWmwLTYOvfDjpMxefF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yLNUMnENQjmVm3Ra59S0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yLNUMnENQjmVm3Ra59S0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Chia-Yu Chen & Lee-Kuo Chen",
+        "supportEmail": "chenlk32@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/aridegame.tumblr.com\/",
+    "firstPublishedAt": "2013-11-21T16:01:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Chia-Yu Chen & Lee-Kuo Chen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 361,
+        "average": 4.37,
+        "count": 704
+    }
+}

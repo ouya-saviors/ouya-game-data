@@ -1,0 +1,109 @@
+{
+    "packageName": "com.steamburgerstudios.cannonballers",
+    "title": "Cannon Ballers",
+    "description": "Inspired by arcade classics like Missile Defender, Cannon Ballers redefines the genre with beautiful cartoon pirate graphics, and insane juggling action! Take control of a up-gradable cannon, keep enemy cannonballs from reaching your ship, and claim your golden coins!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.11",
+            "versionCode": 0,
+            "uuid": "b2260736-1de4-4afc-8f03-e4a20b7f0a4c",
+            "date": "2014-02-01T05:59:58Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/041237dc-d780-434d-9ad9-3502b5bbc9fd\/com.steamburgerstudios.cannonballers\/b2260736-1de4-4afc-8f03-e4a20b7f0a4c\/LDR8MZD0QVOGZa7beSlH_CannonBallers.apk",
+            "size": 16640532,
+            "md5sum": "cf992526c9c013cd4ac1b20b1245ba12",
+            "publicSize": 151667,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.steamburgerstudios.cannonballers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/toYphOxSuKi1UByHoNRx",
+        "video": "https:\/\/vimeo.com\/84904980",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BFmXGhHQv690zAgd6E2A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jzNOJTyvRW2PH0iwRSIQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/19jIyXgTRgK3i9Foo1s4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kp7uUxwRRvWBiVy01dYR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lf9h1uAR2K7HTC8QjeQS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f75qT1tIQ0WWrkRGAUeN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T40dk5sSSXm51xBKhaCY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84904980"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BFmXGhHQv690zAgd6E2A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BFmXGhHQv690zAgd6E2A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jzNOJTyvRW2PH0iwRSIQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jzNOJTyvRW2PH0iwRSIQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/19jIyXgTRgK3i9Foo1s4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/19jIyXgTRgK3i9Foo1s4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kp7uUxwRRvWBiVy01dYR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kp7uUxwRRvWBiVy01dYR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lf9h1uAR2K7HTC8QjeQS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lf9h1uAR2K7HTC8QjeQS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/f75qT1tIQ0WWrkRGAUeN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/f75qT1tIQ0WWrkRGAUeN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/T40dk5sSSXm51xBKhaCY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/T40dk5sSSXm51xBKhaCY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Steamburger Studios",
+        "supportEmail": "contact@steamburgerstudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.steamburgerstudios.com",
+    "firstPublishedAt": "2014-02-01T05:59:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Steamburger Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 16,
+        "average": 2.79,
+        "count": 24
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Unlock_Game",
+            "name": "Full Game",
+            "description": "Opens the in-game store, so you may spend your hard-earned Gold Coins on cosmetic Cannon Upgrades!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

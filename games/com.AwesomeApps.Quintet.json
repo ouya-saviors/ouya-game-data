@@ -1,0 +1,77 @@
+{
+    "packageName": "com.AwesomeApps.Quintet",
+    "title": "Quintet",
+    "description": "Quintet is a multiplayer space game where players work harmoniously to control the same ship. There are 5 roles: Captain, Helm, Tactical, Engineering and Science. How successful you are will depend on how well you all work together.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "10.0",
+            "versionCode": 0,
+            "uuid": "a142bd5d-a759-4a0c-8378-51da0f00df99",
+            "date": "2014-05-21T20:59:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3849536a-4a78-43c4-b1f6-de53ef435f9f\/com.AwesomeApps.Quintet\/a142bd5d-a759-4a0c-8378-51da0f00df99\/PENu1zoST1in105t0uKb_quintet.apk",
+            "size": 49248725,
+            "md5sum": "39d234e8d65c85a66706b73014521a81",
+            "publicSize": 477105,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.awesomeapps.quintet\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VHBAv5kuTMW6OJ3ovV0e",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JZSN0DzQTbGszFwol2X0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AG18KDplScuQJdxBOXvO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AaLZk21JRPyEIkoaOysm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qHr6Ft5T5K4FKzwGjVhT"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JZSN0DzQTbGszFwol2X0",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JZSN0DzQTbGszFwol2X0"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AG18KDplScuQJdxBOXvO",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AG18KDplScuQJdxBOXvO"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AaLZk21JRPyEIkoaOysm",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AaLZk21JRPyEIkoaOysm"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qHr6Ft5T5K4FKzwGjVhT",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qHr6Ft5T5K4FKzwGjVhT"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AwesomeApps.com",
+        "supportEmail": "carmine@carmine.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.quintet.us",
+    "firstPublishedAt": "2013-07-09T01:06:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by AwesomeApps.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 115,
+        "average": 3.53,
+        "count": 36
+    }
+}

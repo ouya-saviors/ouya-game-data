@@ -1,0 +1,81 @@
+{
+    "packageName": "game.studio.tresd.aliens",
+    "title": "Alien Invasion",
+    "description": "Evil creatures have invaded your base, and it is your job to destroy them. Alien Arena is a 3D first person shooter (FPS) where you must battle your way around tunnels, corridors, bases, med labs against all kings of evil minions bent on merciless destruction.\r\n\r\nAlien Wars features:\r\n\r\n* 3D environments\r\n* 7 types of monsters\r\n* 5 types of weapons: shotgun, radar, pistol, laser guns, and more\r\n* High quality sounds\r\n* 9 different maps with hours of gameplay\r\n* Single or multi player combat\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "22085e96-05e1-4583-a860-824b6064dca0",
+            "date": "2013-12-24T13:01:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8acd3458-1c07-4906-b926-a454f05a48c6\/game.studio.tresd.aliens\/22085e96-05e1-4583-a860-824b6064dca0\/fpwMcQ19SMODH0o4DSRY_AlienInvasion.apk",
+            "size": 1735816,
+            "md5sum": "3a3e5832333f714d312b4a33f6280d95",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/game.studio.tresd.aliens\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PjN3b4zzTXGdCANaxMrS",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ggEhBuhNRuyOXdgb0ema",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5m5joPjVTha21F8bxQkM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FBK5yjYxTnSv1bc88Jkv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DwRGQuQO2AHtN5FJDk1Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2XIBg3aiReWsRG6R0E15"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ggEhBuhNRuyOXdgb0ema\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ggEhBuhNRuyOXdgb0ema\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5m5joPjVTha21F8bxQkM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5m5joPjVTha21F8bxQkM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FBK5yjYxTnSv1bc88Jkv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FBK5yjYxTnSv1bc88Jkv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DwRGQuQO2AHtN5FJDk1Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DwRGQuQO2AHtN5FJDk1Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2XIBg3aiReWsRG6R0E15\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2XIBg3aiReWsRG6R0E15\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Game Labs",
+        "supportEmail": "game.dev.labs01@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/playerx.sourceforge.net\/index1.html",
+    "firstPublishedAt": "2013-12-24T13:01:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Game Labs.",
+    "premium": false,
+    "rating": {
+        "likeCount": 67,
+        "average": 2.29,
+        "count": 100
+    }
+}

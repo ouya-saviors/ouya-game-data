@@ -1,0 +1,94 @@
+{
+    "packageName": "com.austinivansmith.FlippyBard",
+    "title": "Flippy Bard",
+    "description": "The bard has lived a quiet life in the kingdom. He has kept his head down, and entertained the people on a rare few occasions. But times are tough for the bard, for you see, the birds no longer sing. The people must be entertained, and forsaking all he has held dear (his integrity, his honor, his happiness) he will entertain the masses of the kingdom and its corrupt leaders. And so here he is, atop the towers of the kingdom, ready to entertain the people with his minstrel song of many flips for as long as he can muster the strength.\r\n\r\nFlippy Bard is a love letter to gravity-defying-endless-tower-jumping platformers (which are such a craze right now.)\r\n\r\nPlay as Filip, the Flippy Bard, and unlock 4 more unique characters each with their own style of play.\r\n\r\n\"Multibard\" is a multiplayer mode played on a single controller, where each of the four face buttons controls a corresponding bard. The perfect party game anyone can enjoy.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "876b01f3-e55f-4ce0-9c01-d13e90cce435",
+            "date": "2014-03-12T20:56:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f1247187-b028-4349-8b54-b08a96fd3e50\/com.austinivansmith.FlippyBard\/876b01f3-e55f-4ce0-9c01-d13e90cce435\/gkmAbJ3YSeOfOgtqeLIo_FlippyBard_OUYA-1.1.0.apk",
+            "size": 9063284,
+            "md5sum": "8a46efc6d158424eab14fcff8db21efb",
+            "publicSize": 659084,
+            "nativeSize": 8415512
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.austinivansmith.flippybard\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L5bW6KsKSSCoOJsQx72c",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SPW4pUJWRuusN3KW2IbA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VbxA64RSSSoeUQhfvqpQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vZRNiWHpT0kHenJhNErQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eYSS68NTiujTmlSLahkP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MYXH2nSrTMSCPmGSgiFW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SPW4pUJWRuusN3KW2IbA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SPW4pUJWRuusN3KW2IbA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VbxA64RSSSoeUQhfvqpQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VbxA64RSSSoeUQhfvqpQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vZRNiWHpT0kHenJhNErQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vZRNiWHpT0kHenJhNErQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eYSS68NTiujTmlSLahkP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eYSS68NTiujTmlSLahkP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MYXH2nSrTMSCPmGSgiFW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MYXH2nSrTMSCPmGSgiFW\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Austin Ivansmith",
+        "supportEmail": "austin.ivansmith@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/plus.google.com\/u\/0\/+AustinIvansmith\/",
+    "firstPublishedAt": "2014-03-12T20:56:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Austin Ivansmith.",
+    "premium": false,
+    "rating": {
+        "likeCount": 15,
+        "average": 3.19,
+        "count": 172
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "flippybard_unlock",
+            "name": "Developer Donation",
+            "description": "If you love Flippy Bard, why not support your friendly neighborhood game developer?",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "com.twoplay.twoplayer2",
+    "title": "2player 2.0",
+    "description": "Introductory offer: 75% off. Now $0.99!! 2player for OUYA is a network media player that allows you to play music, video and slideshows from media stored on Windows computers, or DLNA devices on your home network. Use the OUYA joystick, or use 2player for Android as a remote control. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Music"
+    ],
+    "releases": [
+        {
+            "name": "2.0.63",
+            "versionCode": 0,
+            "uuid": "1f67a906-526c-4531-a07e-f99b5c563213",
+            "date": "2013-08-26T22:00:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7e67de85-6679-404b-acae-198b067d7c1f\/com.twoplay.twoplayer2\/1f67a906-526c-4531-a07e-f99b5c563213\/5LQFwdZuRnGfkC1138vV_TwoPlayer2.apk",
+            "size": 2583677,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.twoplay.twoplayer2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Nl8WLdRQlWgY8ZIUb4iw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iiZV0H7TQcmygZSTYlYi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ckJUxsTMQ252C25T7gTY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cRHPk9c1RhChpinCSIQg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iiZV0H7TQcmygZSTYlYi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iiZV0H7TQcmygZSTYlYi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ckJUxsTMQ252C25T7gTY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ckJUxsTMQ252C25T7gTY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cRHPk9c1RhChpinCSIQg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cRHPk9c1RhChpinCSIQg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "2play Software",
+        "supportEmail": "support@two-play.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/two-play.com",
+    "firstPublishedAt": "2013-08-21T18:16:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by 2play Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 2.94,
+        "count": 32
+    }
+}

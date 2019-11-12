@@ -1,0 +1,70 @@
+{
+    "packageName": "com.electricopolis.therapybundle",
+    "title": "Therapy Bundle",
+    "description": "A collection of two small visual novels I made to work through some mental health issues I was having last year.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.11",
+            "versionCode": 0,
+            "uuid": "0d7a69da-b3a0-4b27-9ae4-12bc11597c90",
+            "date": "2013-07-02T00:50:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4acf708a-6181-49b5-b388-568e5acbe0ea\/com.electricopolis.therapybundle\/0d7a69da-b3a0-4b27-9ae4-12bc11597c90\/OBOtvdTSRN79CvI5kRaO_TherapyBundle-1.11-release.apk",
+            "size": 12923584,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.electricopolis.therapybundle\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hfq3MahZQFWmei4GK0Qk",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6qRvBM92TMenH2eLTjuP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BCSAocyVQdGqVvbRHkF5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nZblXxrSiSgNpC9qV8tW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6qRvBM92TMenH2eLTjuP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6qRvBM92TMenH2eLTjuP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BCSAocyVQdGqVvbRHkF5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BCSAocyVQdGqVvbRHkF5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nZblXxrSiSgNpC9qV8tW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nZblXxrSiSgNpC9qV8tW\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Pauli Kohberger",
+        "supportEmail": "pkohberger@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/electricopolis.net",
+    "firstPublishedAt": "2013-07-02T00:50:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Pauli Kohberger.",
+    "premium": false,
+    "rating": {
+        "likeCount": 82,
+        "average": 3.79,
+        "count": 14
+    }
+}

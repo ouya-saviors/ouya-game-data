@@ -1,0 +1,92 @@
+{
+    "packageName": "com.spacialfx.guitarshooter",
+    "title": "Guitar Shooter Tutor",
+    "description": "Guitar Shooter Tutor lets you play an asteroid type shooting game while you play along with your guitar. Tap your foot on the control to let the Ouya know you've made the chord, and turn the AstroChords into space dust.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0e60d457-11ce-4ed7-a846-902696d4b93b",
+            "date": "2014-03-12T23:21:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/97ec2952-258b-4413-a6b7-eed2e290cb09\/com.spacialfx.guitarshooter\/0e60d457-11ce-4ed7-a846-902696d4b93b\/kCpqDOvQsqiT6vba4QQv_GuitarShooterTutor.apk",
+            "size": 14040530,
+            "md5sum": "6b43ebafa12487aa1570fd0ee778cf74",
+            "publicSize": 199474,
+            "nativeSize": 182552
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.guitarshooter\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bR98sBHjTFGtWg4cwr7a",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Xis9b1oaQPGuWO5GM70Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BE8AdwF5QnSW8HvUDlAe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ga6B1b3dRVa0Fcg551Yr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0B6TqPf0SGCq7iUwos1U",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QIwfAqCrQV2dIkaKWzUp"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Xis9b1oaQPGuWO5GM70Y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Xis9b1oaQPGuWO5GM70Y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BE8AdwF5QnSW8HvUDlAe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BE8AdwF5QnSW8HvUDlAe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ga6B1b3dRVa0Fcg551Yr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ga6B1b3dRVa0Fcg551Yr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0B6TqPf0SGCq7iUwos1U\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0B6TqPf0SGCq7iUwos1U\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QIwfAqCrQV2dIkaKWzUp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QIwfAqCrQV2dIkaKWzUp\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Jason Brown",
+        "supportEmail": "info@spacialfx.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "spacialfx.com",
+    "firstPublishedAt": "2014-03-11T22:48:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Jason Brown.",
+    "premium": false,
+    "rating": {
+        "likeCount": 11,
+        "average": 2.29,
+        "count": 24
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "GuitarShooterTutorUnlock",
+            "name": "Guitar Shooter Tutor Full Unlock",
+            "description": "This unlocks all chord progressions in the game.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

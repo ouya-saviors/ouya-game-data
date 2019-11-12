@@ -1,0 +1,104 @@
+{
+    "packageName": "com.molinware.left2die",
+    "title": "Left 2Die",
+    "description": "Winner of the Ouya Create Contest in the category best couch with friends. In Left 2Die you protect an outpost from a wave of zombies while a aircraft supplies you and your partners with ammo and first-aids. Once you finish an outpost get to another one to kill the other zombies. At the fifth outpost of each level there will be a boss before you can finish the level. The game has two game modes for now:\r\nZombie Mode: \"Kill zombies with your friends.\"\r\nVersus Modes: \"Fight your friends in the random sub catergories of versus mode\".",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "0.9.5",
+            "versionCode": 0,
+            "uuid": "b74cd3ac-be5a-4a5e-b403-bc0352d9bcef",
+            "date": "2014-07-09T16:29:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0835a41e-c590-49af-b077-41f2a8cf65f9\/com.molinware.left2die\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/5u33VGe2QPK1Z0T7MEvJ_left_2Die_0_9_5.apk",
+            "size": 102206821,
+            "md5sum": "6d3a97be5bb566fe513b4403125a084b",
+            "publicSize": 910645,
+            "nativeSize": 8218636
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.left2die\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IKsIfFxlQX2gMysbWouR",
+        "video": "http:\/\/vimeo.com\/100425459",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JqccsYEmRxqGRJIxeCdX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2pMaOwexRj2DlDcShSjs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jxae1bMGTvamKJ8CFlJm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nANwF36NTxSRlbkzZJ9Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Szpwle9HQOKm54wwxkpm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iB80LfzcSxyqImIFzeru"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/100425459"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/lkt5t5_ouya-screenshot20140708-2-1r9y5aj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/thumbnails\/thumbnail20140708-2-zrsjqh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/gq08rw_ouya-screenshot20140708-2-cg8c7e.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/thumbnails\/thumbnail20140708-2-1gttyy0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/r8gu9n_ouya-screenshot20140708-2-1wozduy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/thumbnails\/thumbnail20140708-2-1nmmkoj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/duxgp9_ouya-screenshot20140708-2-iejlyr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/thumbnails\/thumbnail20140708-2-nkem45.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/60hai1_ouya-screenshot20140708-2-18nu13b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/thumbnails\/thumbnail20140708-2-12jjv0i.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/6mna9w_ouya-screenshot20140708-2-1emoi2a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b74cd3ac-be5a-4a5e-b403-bc0352d9bcef\/thumbnails\/thumbnail20140708-2-1x4cj4a.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Guilherme Daniel Molin",
+        "supportEmail": "gui_molin91@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "molinware.com",
+    "firstPublishedAt": "2013-08-29T21:48:43Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Guilherme Daniel Molin.",
+    "premium": false,
+    "rating": {
+        "likeCount": 130,
+        "average": 2.57,
+        "count": 134
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fullgame099",
+            "name": "Unlock Full Game",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

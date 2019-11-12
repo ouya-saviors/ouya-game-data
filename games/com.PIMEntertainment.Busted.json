@@ -1,0 +1,94 @@
+{
+    "packageName": "com.PIMEntertainment.Busted",
+    "title": "Busted",
+    "description": "GAME FEATURES\r\n- Escape from the police!\r\n- Fight barricades!\r\n- Dodge the vehicles!\r\n- Jump over the vehicles!\r\n- Upgrade your car and gameplay!\r\n- Don't let your tank hit empty!\r\n- Use Nitrous to be Invincible!\r\n- Be the most wanted street racer and increase your multiplier!\r\n- Amazing graphics!\r\n- Quick reflexes will be required!\r\n- Feel the real speed of the endless-runner game",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "3d6e895c-17c0-4d02-9bcf-7ba3435314f7",
+            "date": "2014-01-15T21:07:19Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/31ca82a3-d25f-4462-a4ed-41d95b6eb86f\/com.PIMEntertainment.Busted\/3d6e895c-17c0-4d02-9bcf-7ba3435314f7\/xvfv4cuoSXmzHtlO9j6d_PIM_busted_ouya_v110.apk",
+            "size": 53532400,
+            "md5sum": "d775278a6b37bbb05c250c65b14b46e4",
+            "publicSize": 403847,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pimentertainment.busted\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O95TUe9pTcSvbfCjnoXN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FQq3OMUxSQKaTNOkjPbI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r6olt3ajRUSsDPiH4k96",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jZeYqgASQStnqZuYEykr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YkeiD9SgStudQS5rL68w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X2iNXnkSQWpzwOVfuwUK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FQq3OMUxSQKaTNOkjPbI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FQq3OMUxSQKaTNOkjPbI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r6olt3ajRUSsDPiH4k96\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r6olt3ajRUSsDPiH4k96\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jZeYqgASQStnqZuYEykr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jZeYqgASQStnqZuYEykr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YkeiD9SgStudQS5rL68w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YkeiD9SgStudQS5rL68w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/X2iNXnkSQWpzwOVfuwUK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/X2iNXnkSQWpzwOVfuwUK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PIM Entertainment",
+        "supportEmail": "support@pimentertainment.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.pimentertainment.com",
+    "firstPublishedAt": "2013-09-10T19:17:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by PIM Entertainment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 321,
+        "average": 3.72,
+        "count": 926
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BustedFullVersion",
+            "name": "Full Version + 10,000 Money Pack",
+            "description": "Full Version \r\n+10,000 Money Pack",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

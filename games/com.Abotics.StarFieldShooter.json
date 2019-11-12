@@ -1,0 +1,70 @@
+{
+    "packageName": "com.Abotics.StarFieldShooter",
+    "title": "StarFieldShooter",
+    "description": "Fight through constant waves of enemies in this retro twist on old space shooters. There is no Menu yet so just start the game and play.\r\n\r\nControls:\r\n-Left Stick is steering Left\/Right\r\n-Right Trigger is throttle\r\n-O to fire you gun\r\n\r\n-This is still just the bare bones of a game and I'm asking all of YOU to go to http:\/\/starfieldshooter.tumblr.com\/ and tell me what you think.  Hopefully someday this will be the StarFieldShooter YOU want!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4d665d82-6eb3-4be1-8c81-afe44589f4a9",
+            "date": "2015-07-07T00:10:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2d17f2dc-76da-4eb1-b4a4-00c76e835123\/com.Abotics.StarFieldShooter\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/CV0kDBEJSZCyUXSqVFK7_StarFieldShooter.apk",
+            "size": 11797056,
+            "md5sum": "cfed117faef106ad8b208f465fc60a11",
+            "publicSize": 230795,
+            "nativeSize": 14987304
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.abotics.starfieldshooter\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3dzGuG7xTSWy47sfSgEw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Mpk2VTIXRkuGm9Ad4tH9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tv8iceyQToimd4GVh8U2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9W5ysQH1SVWSsoH8rsSu"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/t5fo9m_ouya-screenshot20150612-3-4753vh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/thumbnails\/thumbnail20150612-3-16m8y48.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/e15u3l_ouya-screenshot20150612-3-1uck9mh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/thumbnails\/thumbnail20150612-3-17pqm39.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/rhn3ej_ouya-screenshot20150612-3-n7q9i0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4d665d82-6eb3-4be1-8c81-afe44589f4a9\/thumbnails\/thumbnail20150612-3-k9fw94.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Abotics99",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "",
+    "firstPublishedAt": "2015-07-07T00:10:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2015 by Abotics99.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.84,
+        "count": 25
+    }
+}

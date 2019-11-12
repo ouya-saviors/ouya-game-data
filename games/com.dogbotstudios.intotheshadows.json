@@ -1,0 +1,104 @@
+{
+    "packageName": "com.dogbotstudios.intotheshadows",
+    "title": "Into the Shadows",
+    "description": "On sale for a limited time!!\r\n \r\nEnter the land of Syrenia and engage the Shadows to save the land!  \r\nPlay as Arik, the Keeper of Shadows, as he vanquishes the forces of evil through countless quests. Choose how you level up, and equip thousands of variations of armor, weapons, and spells.\r\nInto the Shadows offers nearly unlimited gameplay and features randomly generated dungeons, weapons, armors, and quests.\r\n\r\nIncluded in the free version are 2 levels of gameplay.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "25a57bfd-db5f-4c5e-a020-be86e0f084fd",
+            "date": "2014-03-06T21:05:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/664246ec-c608-4789-aa8a-9fe26479ef01\/com.dogbotstudios.intotheshadows\/25a57bfd-db5f-4c5e-a020-be86e0f084fd\/igUgKfmWQniLOpMamWgN_IntoTheShadows.apk",
+            "size": 152655679,
+            "md5sum": "5e39784a34291f3a181c92c7880235bf",
+            "publicSize": 351117,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dogbotstudios.intotheshadows\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LDPr8opkS02UweH5zca2",
+        "video": "https:\/\/vimeo.com\/86656519",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5254SErSxCytFReRj2Ow",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tdSN1if1QFKXICkoJLlC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jjwbE5J5RJKgCMQveofC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g4UARRMmSSaostTWBYC7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UTRUdXFSRyeCYQnmsSaq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lL9MY0dTbqOCutP3eaY0"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/86656519"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5254SErSxCytFReRj2Ow\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5254SErSxCytFReRj2Ow\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tdSN1if1QFKXICkoJLlC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tdSN1if1QFKXICkoJLlC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jjwbE5J5RJKgCMQveofC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jjwbE5J5RJKgCMQveofC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/g4UARRMmSSaostTWBYC7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/g4UARRMmSSaostTWBYC7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UTRUdXFSRyeCYQnmsSaq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UTRUdXFSRyeCYQnmsSaq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lL9MY0dTbqOCutP3eaY0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lL9MY0dTbqOCutP3eaY0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dogbot Studios",
+        "supportEmail": "support@dogbotstudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "intotheshadows.dogbotstudios.com",
+    "firstPublishedAt": "2014-02-06T00:15:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Dogbot Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 58,
+        "average": 3.41,
+        "count": 199
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "intotheshadows",
+            "name": "Into the Shadows",
+            "description": "Unlock the full gameplay experience! ",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

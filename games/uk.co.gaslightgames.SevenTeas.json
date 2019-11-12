@@ -1,0 +1,92 @@
+{
+    "packageName": "uk.co.gaslightgames.SevenTeas",
+    "title": "Master of the Seven Teas",
+    "description": "Epic, Maritime Skirmishes on a Teeny, Tiny, Teacup Scale!\n\nIn Master of the Seven Teas, you Captain a Pirate Ship inside of one of seven varied cups of tea, each presenting unique hazards. Make use of the crazy power ups, including Octopus, Ninja and Seagulls, to shoot, smash and sink your opponents.\nSimple controls make Seven Teas incredibly easy to pick-up, so you can quickly take on the AI Armada solo and co-op, or enjoy the various versus options with up to 4-Players!\n\nMaster of the Seven Teas Features Include:\n- 7 Unique Environments!\n- 5 Different Game Modes including classics like Deathmatch, but also \"Guv'nor\" and Armada!\n- 12 Varied weapons, pick-ups and power-ups!\n\nMar 2015:\n- Huge improvements in performance!\n- Smarter and more devious AI (a precursor to bots, coming soon!)\n- Support for \"hot\" connecting controllers\n- Achievements!\n- Saved settings\n- Offline play (demo and full version, if no Internet connection)\n- Tips on the Loading Screen\n\nJan 2015:\n- Added \u201cTank Controls\u201d (adjustable in the Options menu)\n- Improved ship movement\n- Improved level Hazards\n- Added more ships to Armada!\n- Improved controller support\n- Balanced all weapons, health, damage and more!\n\nDec 2014:\n- Now play Armada Mode solo!\n- Button Indicators when hit with a special or to fire a special!\n- Icon Indicators for which special you have!\n- End Game \"Awards\" such as \"Most Lethal\" for having the most kills!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "GAMMA3",
+            "versionCode": 0,
+            "uuid": "e6f908de-eb51-405c-8823-0b46cdc872e3",
+            "date": "2015-03-31T20:12:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f1c9d6d9-59f3-441d-9612-2f84fe9e9760\/uk.co.gaslightgames.SevenTeas\/e6f908de-eb51-405c-8823-0b46cdc872e3\/ybsoKkDBS8q6de9grmyT_libSevenTeas.apk",
+            "size": 172813494,
+            "md5sum": "6a56b3767f38d07c3043468854616c5c",
+            "publicSize": 272359,
+            "nativeSize": 30860188
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/uk.co.gaslightgames.seventeas\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uhPKrFv5SJO7Vub4jBPC",
+        "video": "https:\/\/vimeo.com\/113719592",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U7YxVypgQ4SFAffMamE6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sKfozDtTRuwtfX7Ar26g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MumSg7i6RWC9nmonotK9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LX8Yd7MNQpBsJP9ZAQHH"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/113719592"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/kv0l9i_ouya-screenshot20150330-3-vqcdo3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/thumbnails\/thumbnail20150330-3-uzkcgi.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/sswhq8_ouya-screenshot20150330-3-1sclry.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/thumbnails\/thumbnail20150330-3-1em1unz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/dmr9sf_ouya-screenshot20150330-3-lvh67g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/thumbnails\/thumbnail20150330-3-1px22t7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/revbhd_ouya-screenshot20150330-3-8k37oe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6f908de-eb51-405c-8823-0b46cdc872e3\/thumbnails\/thumbnail20150330-3-akp5uq.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gaslight Games Ltd",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.gaslightgames.co.uk",
+    "firstPublishedAt": "2014-12-11T22:46:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Gaslight Games Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.34,
+        "count": 71
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "seventeas_full",
+            "name": "Seven Teas Full Version Purchase",
+            "description": "Purchase the full version of Master of the Seven Teas.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        }
+    ]
+}

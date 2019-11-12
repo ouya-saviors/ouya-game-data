@@ -1,0 +1,87 @@
+{
+    "packageName": "com.molinware.super_cosmonauts",
+    "title": "Super Cosmonauts",
+    "description": "One of the cosmonauts was captured by the evil monsters of Moira. Call your friends to rescue him and get rid of these evil monsters.\n\n- 1 to 4 players coop\n- 56 Levels\n\nLast Changes:\n- 8 new levels\n- Cars, Candy Land.\n- Some fixes in the music.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Multiplayer",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e",
+            "date": "2014-11-03T21:36:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0835a41e-c590-49af-b077-41f2a8cf65f9\/com.molinware.super_cosmonauts\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/Yu0GKVY9TxG9gWkPLGkG_Super_Cosmonauts_1_0_1.apk",
+            "size": 29979867,
+            "md5sum": "e9b9643b2dee1f13b91e883ea5570557",
+            "publicSize": 689820,
+            "nativeSize": 8218636
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3S1yLVS2RRSaJ4orEFC8",
+        "video": "https:\/\/vimeo.com\/96517358",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y7BEtDKtQxeCeJWuHkpx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YtSkdG5IRMOQLSk4wuuX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y1qv5ZT2GZzyzzkNEg7w"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/96517358"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/uy5vnz_ouya-screenshot20140715-2-17ceaz6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/thumbnails\/thumbnail20140715-2-kxvdqx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/43m2es_ouya-screenshot20140715-2-1mj6lw4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/thumbnails\/thumbnail20140715-2-bbysi5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/bjmyaf_ouya-screenshot20140715-2-kya8k2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/thumbnails\/thumbnail20140715-2-jfy3fo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Guilherme Daniel Molin",
+        "supportEmail": "gui_molin91@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "molinware.com",
+    "firstPublishedAt": "2014-05-30T20:58:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Guilherme Daniel Molin.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.31,
+        "count": 160
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "cosmonauts_499",
+            "name": "Cosmonauts",
+            "description": "More fun for you!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

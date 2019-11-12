@@ -1,0 +1,104 @@
+{
+    "packageName": "raft.jumpy.android.ouya",
+    "title": "Sky Maze 3D",
+    "description": "Dodge the traps, find your way and guide the ball to exit. A fun and challenging action game.\r\n\r\n- Cool 3D effects, beautiful graphics and sound\r\n- Scoreloop leaderboard\r\n- 9 different tile types\r\n- 12 free total 50 challenging levels",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.32",
+            "versionCode": 0,
+            "uuid": "7fad30a5-c86e-4e9e-bbc9-496e7510ce54",
+            "date": "2013-10-26T18:17:48Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/381e826e-fe0f-4d3f-b1c9-7d2be1794c40\/raft.jumpy.android.ouya\/7fad30a5-c86e-4e9e-bbc9-496e7510ce54\/gFphNVYLRbODtcLsaNvW_SkyMaze3D-ouya.apk",
+            "size": 14387086,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/raft.jumpy.android.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pj8K3rTjT9yVybESWdKK",
+        "video": "https:\/\/vimeo.com\/77445071",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gF172v3TZSayPb96zVHR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SrhBoLufQ9SchZIczdf9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D2uwS3awQO6ER0J4Q5EH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EnfLJVa4SuCW1ajaILGp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b0uiTXyHQvmSngRxZsi7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WNX2zWh2SMytzGGK4obs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P4mDjeeSNyiaXQ7rmyI7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TLnsXRe0Tjy5NI7AoIXf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77445071"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gF172v3TZSayPb96zVHR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gF172v3TZSayPb96zVHR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SrhBoLufQ9SchZIczdf9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SrhBoLufQ9SchZIczdf9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/D2uwS3awQO6ER0J4Q5EH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/D2uwS3awQO6ER0J4Q5EH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EnfLJVa4SuCW1ajaILGp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EnfLJVa4SuCW1ajaILGp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/b0uiTXyHQvmSngRxZsi7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/b0uiTXyHQvmSngRxZsi7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WNX2zWh2SMytzGGK4obs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WNX2zWh2SMytzGGK4obs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P4mDjeeSNyiaXQ7rmyI7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P4mDjeeSNyiaXQ7rmyI7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TLnsXRe0Tjy5NI7AoIXf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TLnsXRe0Tjy5NI7AoIXf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Karga Games",
+        "supportEmail": "mobile@aptalkarga.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.aptalkarga.com\/mobile",
+    "firstPublishedAt": "2013-03-24T21:41:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Karga Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 3.41,
+        "count": 59
+    }
+}

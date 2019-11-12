@@ -1,0 +1,94 @@
+{
+    "packageName": "com.molinware.whippingtops",
+    "title": "Whipping Tops",
+    "description": "Use your Spinning top to beat the other players in a battle inside the arena, or race against them. You can make your own Whipping tops and arenas.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "786f41f8-e711-4547-a8ba-e9df25b868bb",
+            "date": "2014-02-17T22:01:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0835a41e-c590-49af-b077-41f2a8cf65f9\/com.molinware.whippingtops\/786f41f8-e711-4547-a8ba-e9df25b868bb\/nXZQQuqISmKI6xWVfevm_Whipping%20Tops.apk",
+            "size": 15738268,
+            "md5sum": "c565a2c9f48b6ce6f480cc21b8413440",
+            "publicSize": 570034,
+            "nativeSize": 7816532
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.whippingtops\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cxSVnTffTTKeD1kQRn6Y",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CKCccqb4TDuRqQS8usAp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qjuSJew6Qh2auAON9RHi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/no4e7RuzScqnPR0ntLdm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hIw7f8CnQ8qK6vJaCI8P",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/usv9T9OfTpCc5a7VbP7d"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CKCccqb4TDuRqQS8usAp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CKCccqb4TDuRqQS8usAp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qjuSJew6Qh2auAON9RHi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qjuSJew6Qh2auAON9RHi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/no4e7RuzScqnPR0ntLdm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/no4e7RuzScqnPR0ntLdm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hIw7f8CnQ8qK6vJaCI8P\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hIw7f8CnQ8qK6vJaCI8P\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/usv9T9OfTpCc5a7VbP7d\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/usv9T9OfTpCc5a7VbP7d\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Guilherme Daniel Molin",
+        "supportEmail": "gui_molin91@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "molinware.com",
+    "firstPublishedAt": "2014-02-17T22:01:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Guilherme Daniel Molin.",
+    "premium": false,
+    "rating": {
+        "likeCount": 8,
+        "average": 1.74,
+        "count": 23
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "whippingtops_199",
+            "name": "Whipping Tops",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

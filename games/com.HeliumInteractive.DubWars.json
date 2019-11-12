@@ -1,0 +1,92 @@
+{
+    "packageName": "com.HeliumInteractive.DubWars",
+    "title": "DubWars",
+    "description": "DubWars is a music game that combines the mechanics of a top-down shooter with the power of Dubstep and Electronica music. Your weapons are synced to the music creating times of intense weapon load outs and calm moments where your survival skills are tested. Each level is custom built to bring the creativity of each musician into an audio\/visual experience. \r\n\r\nMinimum of 10 custom-built levels with amazing visuals and effects! \r\n\r\nDiscover and support both independent musicians, and your favorite established artists! \r\n\r\nWeapon Upgrades - Upgrade your weapons using hard earned coins to take your weapons to the next level! Every weapon in the game will be upgradable. \r\n\r\nDifficultly Modes - Play in Light, Medium, Hard or Endless! \r\n\r\nBosses - Selected stages will also have this \"Difficulty Mode\" where you will face off against a boss! \r\n\r\nMissions, achievements, upgradables, unlockables, and MORE!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "9191410c-89a6-4e71-bb77-e418c39e89e9",
+            "date": "2015-11-11T22:18:43Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ab30a310-528a-4c3f-b9a3-bc397f0ce455\/com.HeliumInteractive.DubWars\/9191410c-89a6-4e71-bb77-e418c39e89e9\/Q8ZON55RShurWga80FAf_OUYA_Build.apk",
+            "size": 118662657,
+            "md5sum": "745c2e4d0010a2e938852763436d6352",
+            "publicSize": 572593,
+            "nativeSize": 18408268
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.heliuminteractive.dubwars\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VxteNVYiRAagAZmZt7Ow",
+        "video": "https:\/\/vimeo.com\/121916065",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tZGmIglVQk68YreDuGgo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rvMPQdTQGCx6IWVs5adw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JSxLKXwS6m603xT7bZ1f",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x0VNe3s6SnezT43sT4fk"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/121916065"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/icowjp_ouya-screenshot20151103-3-2zw5e9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/thumbnails\/thumbnail20151103-3-wtemqv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/hu6cm8_ouya-screenshot20151103-3-174z1aa.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/thumbnails\/thumbnail20151103-3-1u03lzu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/9hd84v_ouya-screenshot20151103-3-1w1qrk6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/thumbnails\/thumbnail20151103-3-1qdl3qo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/97p1pu_ouya-screenshot20151103-3-1dsehu2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9191410c-89a6-4e71-bb77-e418c39e89e9\/thumbnails\/thumbnail20151103-3-1ppdg61.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MURA Interactive",
+        "supportEmail": "info@murainteractive.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.murainteractive.com",
+    "firstPublishedAt": "2013-03-28T07:45:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2015 by MURA Interactive.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1503,
+        "average": 4.14,
+        "count": 1683
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "dubwarsfullgame",
+            "name": "Exclusive Beta Access and Final Game On Release",
+            "description": "",
+            "localPrice": 19.89,
+            "originalPrice": 19.89,
+            "currency": "EUR"
+        }
+    ]
+}

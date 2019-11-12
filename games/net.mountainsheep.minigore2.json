@@ -1,0 +1,91 @@
+{
+    "packageName": "net.mountainsheep.minigore2",
+    "title": "Minigore 2: Zombies",
+    "description": "Minigore 2 is an award-winning action game starring Egoraptor! Dual-stick shooter masterpiece from the creators of Ice Rage and Bike Baron. Supports Xbox 360 and PS3 controllers!\r\n\r\nYou must help John Gore fight his way through sunny lakes, graveyards and freezing plains into a stormy forest. The legendary Metusalem has brought to life murderous chefs, giant lumberjacks, killer penguins, a single moose and the entire undead army of the Cossack General.\r\n\r\nUPDATE 4: New top-down camera angle can be found in the options menu!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick"
+    ],
+    "releases": [
+        {
+            "name": "1.6",
+            "versionCode": 0,
+            "uuid": "239c3baa-f1cd-4eba-b685-1e23cea749b1",
+            "date": "2013-10-10T22:41:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b3ded515-3fe7-428a-af64-77aaf3f93e2a\/net.mountainsheep.minigore2\/239c3baa-f1cd-4eba-b685-1e23cea749b1\/qKMbY6X2QwKVugLgK6il_Minigore2.apk",
+            "size": 88775853,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.mountainsheep.minigore2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RiE6mkHSSmAEJ0ixGNjA",
+        "video": "https:\/\/vimeo.com\/76625847",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JuvVYZ9uQOW5NrYEknKh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d8jGay36TY2W1QtroJSp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fshgCjdbSHeXsIpSksHk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6FfMDr5kTba9oDFSDD4Q"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76625847"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JuvVYZ9uQOW5NrYEknKh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JuvVYZ9uQOW5NrYEknKh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/d8jGay36TY2W1QtroJSp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/d8jGay36TY2W1QtroJSp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fshgCjdbSHeXsIpSksHk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fshgCjdbSHeXsIpSksHk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6FfMDr5kTba9oDFSDD4Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6FfMDr5kTba9oDFSDD4Q\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mountain Sheep, Inc.",
+        "supportEmail": "feedback@mountainsheep.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.mountainsheep.net",
+    "firstPublishedAt": "2013-08-29T20:49:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Mountain Sheep, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 735,
+        "average": 4.29,
+        "count": 1178
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MINIGORE_2_ZOMBIES_UNLOCK_FULL_GAME",
+            "name": "Unlock Full Game",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

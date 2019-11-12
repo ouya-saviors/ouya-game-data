@@ -1,0 +1,93 @@
+{
+    "packageName": "com.TeamKakumei.TrashmaniaAfterDark",
+    "title": "Trashmania: After Dark",
+    "description": "It's night time, and all you have to do is collect trashcans and take them to the dumpster. But watch out... you're not alone...\r\n\r\nVersion 0.96 Changelog:\r\n-Metro A and Metro B levels added!\r\n-Some minor bug fixes.\r\n-Thanks a bunch for the patience! Hope to have the last three levels out as soon as possible!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.961",
+            "versionCode": 0,
+            "uuid": "04f34432-83c7-4d64-91dc-0e940f121737",
+            "date": "2014-07-31T15:28:22Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b6f309f4-82f8-4d81-8cbb-2db3fbb5387e\/com.TeamKakumei.TrashmaniaAfterDark\/b153d9d6-59ff-43e2-be05-f4bec035c436\/Oq7aZtazTgO0xF9LGZRE_TrashmaniaAfterDarkUpdate4-3.apk",
+            "size": 43457283,
+            "md5sum": "274daec9587461195241e6b1669f250b",
+            "publicSize": 119946,
+            "nativeSize": 14648172
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.teamkakumei.trashmaniaafterdark\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wbJkf3USG6E0yHJND0Mf",
+        "video": "https:\/\/vimeo.com\/96837913",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VWuKcNHERO2B286kaHtU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Br9IGCDQ7ek0cZFztaDs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7sH8qnf7Tdq2x9qBbg5Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ATLXZcYDS2G4aTo82C5g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uW9MY1DzRBGp689bmpfx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/anr85F6BQI6UP9DSTUMg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/96837913"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/exex35_ouya-screenshot20140730-2-uic4x5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/thumbnails\/thumbnail20140730-2-1alg3co.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/ftwhc7_ouya-screenshot20140730-2-cxe3er.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/thumbnails\/thumbnail20140730-2-23n7mg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/mr7jau_ouya-screenshot20140730-2-hqatct.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/thumbnails\/thumbnail20140730-2-vxq3md.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/tvbok7_ouya-screenshot20140730-2-1x5tl3u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/thumbnails\/thumbnail20140730-2-g8bej2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/isc5n1_ouya-screenshot20140730-2-1vxvzap.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/thumbnails\/thumbnail20140730-2-1sl72hx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/1340ps_ouya-screenshot20140730-2-ounemk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/04f34432-83c7-4d64-91dc-0e940f121737\/thumbnails\/thumbnail20140730-2-1ity1ja.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b6f309f4-82f8-4d81-8cbb-2db3fbb5387e",
+        "name": "Team Kakumei",
+        "supportEmail": "jtbont@live.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "twitter.com\/TeamKakumei",
+    "firstPublishedAt": "2014-03-12T19:23:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Team Kakumei.",
+    "premium": false,
+    "rating": {
+        "likeCount": 43,
+        "average": 3.58,
+        "count": 277
+    }
+}

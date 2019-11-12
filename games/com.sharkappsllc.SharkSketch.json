@@ -1,0 +1,94 @@
+{
+    "packageName": "com.sharkappsllc.SharkSketch",
+    "title": "SharkSketch",
+    "description": "Create colorful sketches on your TV screen with the help of SharkSketch on OUYA.  The simple controls make it easy for anyone to get started drawing on OUYA instantly!\r\n\r\nPro features can be unlocked through in-app purchase:\r\n- Shape, line and curve tools\r\n- Change brush size\r\n- Undo\r\n- Save\r\n- Feature updates\r\n\r\nBring out your inner artist and download today!\r\n\r\n\r\nVersion History:\r\n1.1 - Improved color palette, added speed control, improved control scheme.  Paid version includes shapes, line, curve tools.  Also added sound effects!\r\n1.02 - Fixed OUYA icon\r\n1.01 - Retry on timed out receipt request\r\n1.0 - Initial release\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "729606a3-c9e5-4b8e-992f-8f01599b1b93",
+            "date": "2013-10-11T23:04:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9833d003-9846-4996-84ad-40720dc6b7fd\/com.sharkappsllc.SharkSketch\/729606a3-c9e5-4b8e-992f-8f01599b1b93\/ExnloSqSAiByvoJo1wgl_SharkSketch.apk",
+            "size": 10567410,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sharkappsllc.sharksketch\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k3BCw3oSPuIqlS9g3bCu",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MK6ZHMtnTK2dWG4gs5pe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WNIy6osgQea6qrKZpQwM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aPyZVnOREevEAIa7M1Lg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R1ytlD9iQIUvnavRLJ1A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nQUJ7eSSwiytUR8twstX"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MK6ZHMtnTK2dWG4gs5pe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MK6ZHMtnTK2dWG4gs5pe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WNIy6osgQea6qrKZpQwM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WNIy6osgQea6qrKZpQwM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aPyZVnOREevEAIa7M1Lg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aPyZVnOREevEAIa7M1Lg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R1ytlD9iQIUvnavRLJ1A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R1ytlD9iQIUvnavRLJ1A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nQUJ7eSSwiytUR8twstX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nQUJ7eSSwiytUR8twstX\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9833d003-9846-4996-84ad-40720dc6b7fd",
+        "name": "shark apps, LLC",
+        "supportEmail": "info@sharkappsllc.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.sharkappsllc.com",
+    "firstPublishedAt": "2013-09-26T22:16:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by shark apps, LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 43,
+        "average": 3.33,
+        "count": 39
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SharkSketchPro",
+            "name": "SharkSketch Pro",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "packageName": "com.doublefine.rad",
+    "title": "dropchord",
+    "description": "Dropchord is a music-driven, score challenge game with mesmerizing visuals and an original electronic soundtrack! Influenced by music visualizers and score attack arcade games, Dropchord is an original experience that'll test your dexterity while providing endless fun!\r\n\r\n* Use the analog sticks to manipulate a beam crossing the extent of a circle. Dodge scratches while you collect notes to progress to the next track!\r\n* Ten original, full length electronic tracks stream seamlessly to create an endless DJ set!\r\n* \"Standard Mode\" challenges you to a level-based experience, introducing new game mechanics as the music progresses!\r\n* \"Full Mix Mode\" provides an endless experience with a steadily increasing difficultly!\r\n* Leaderboards save your personal high scores for competition with your friends and younger self!\r\n\r\nDo your fingers and ears a favor-- get Dropchord today!!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "75b16c5a-10c2-4e8e-8b71-951e94fae1f7",
+            "date": "2013-07-31T14:39:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/dafe7832-c73c-4ee2-8ef5-b1bd6c50040e\/com.doublefine.rad\/75b16c5a-10c2-4e8e-8b71-951e94fae1f7\/qJu71QhiT4OIdUfCoOZz_Dropchord.apk",
+            "size": 44572905,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.doublefine.rad\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cfQLfCj3Ry6vYHTXj3a6",
+        "video": "https:\/\/vimeo.com\/90050151",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F0UhHHERrqlPj7d6UFkQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RAsKCPYRQbSUaFoLIpZi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Aub6lIw0Ru28hDUElB7Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7YrwFB6OS0qnj0Cgt2nb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HLZymG5NSGyggwxs1Dvp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tvVqCsyQS9OLKa8q1FTQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1DHIBLMShqZfYTngUs4w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kOGhuw2ZTXy1hPP8QljM"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90050151"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/F0UhHHERrqlPj7d6UFkQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/F0UhHHERrqlPj7d6UFkQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RAsKCPYRQbSUaFoLIpZi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RAsKCPYRQbSUaFoLIpZi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Aub6lIw0Ru28hDUElB7Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Aub6lIw0Ru28hDUElB7Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7YrwFB6OS0qnj0Cgt2nb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7YrwFB6OS0qnj0Cgt2nb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HLZymG5NSGyggwxs1Dvp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HLZymG5NSGyggwxs1Dvp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tvVqCsyQS9OLKa8q1FTQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tvVqCsyQS9OLKa8q1FTQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1DHIBLMShqZfYTngUs4w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1DHIBLMShqZfYTngUs4w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kOGhuw2ZTXy1hPP8QljM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kOGhuw2ZTXy1hPP8QljM\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Double Fine Productions",
+        "supportEmail": "support@doublefine.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.dropchord.com",
+    "firstPublishedAt": "2013-07-31T14:39:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Double Fine Productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 277,
+        "average": 3.56,
+        "count": 330
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DFPRADCREDITS4",
+            "name": "Unlimited Credits",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

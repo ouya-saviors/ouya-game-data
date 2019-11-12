@@ -1,0 +1,77 @@
+{
+    "packageName": "air.com.homeworldarts.pixelSword",
+    "title": "Pixel Sword",
+    "description": "Adventure through action packed levels filled with evil skeleton armies, goblins, mutant plants, and evil wizards.  The only protection you have is your trusty pixel sword, it's dangerous to go alone.  Defeat challenging enemies with your sword fighting skills.  A classic side-scrolling quest inspired by the 8bit and 16bit eras of gaming.  Unlock cool skins, collect heart containers, and challenge powerful enemies.\r\n\r\n- Unique monsters\r\n- Handcrafted levels\r\n- Fast paced melee combat\r\n- Low res pixel art\r\n- A game for the 80's kid in everyone\r\n- An adventure of pixelated proportions\r\n- Great for kids & adults\r\n\r\nBrought to you by HomeWorld Arts, the creators of Super Narwhal Boy, Jetpack Jumper, and Jurassic Quest.\r\nPowered by Starling Framework, Flox, Feathers UI, Dragon Bones, and Nape Physics.\r\nMusic by Kyle Jeremy Neidig.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "40af1c27-3eb7-473e-a635-6f1a8e1f20a9",
+            "date": "2014-12-18T20:42:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/000e47bb-eddf-49f2-90ac-a45376842038\/air.com.homeworldarts.pixelSword\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/lEHyoaWGRlAeW7Q1mXJW_pixelSword.apk",
+            "size": 16461862,
+            "md5sum": "bc6e0b13e095db5e755b689a2a1d889b",
+            "publicSize": 276806,
+            "nativeSize": 20119563
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.homeworldarts.pixelsword\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8lEUrywtQleUonRevL6t",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rVkqTOvSs69AkddRIhTs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IeUGNlysSOmeg0tX8s0t",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/awuAoBcyS5GuLyH6R1VA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lKweMCasSpCVAbxfCeVR"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/nlndcs_ouya-screenshot20141216-2-1siog0y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/thumbnails\/thumbnail20141216-2-q85sq9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/n10y1s_ouya-screenshot20141216-2-2vtuah.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/thumbnails\/thumbnail20141216-2-1nipkd0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/wz9s3s_ouya-screenshot20141216-2-110yaao.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/thumbnails\/thumbnail20141216-2-1mfwwzh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/rpconq_ouya-screenshot20141216-2-hnvasd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40af1c27-3eb7-473e-a635-6f1a8e1f20a9\/thumbnails\/thumbnail20141216-2-1eyl83d.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Homeworld Arts LLC",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.homeworldarts.com",
+    "firstPublishedAt": "2014-12-18T20:42:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Homeworld Arts LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.7,
+        "count": 234
+    }
+}

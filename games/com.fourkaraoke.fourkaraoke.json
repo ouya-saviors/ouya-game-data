@@ -1,0 +1,83 @@
+{
+    "packageName": "com.fourkaraoke.fourkaraoke",
+    "title": "FourKaraoke for OUYA",
+    "description": "Sing on OUYA to over 80,000 karaoke songs. A large selection ready for the picking. New releases and oldies.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Music"
+    ],
+    "releases": [
+        {
+            "name": "1.10",
+            "versionCode": 0,
+            "uuid": "2d88d792-c851-4dcb-95d3-84124c636cf6",
+            "date": "2013-06-27T21:21:08Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/72c68927-709d-437c-be4f-2efb84ad6d47\/com.fourkaraoke.fourkaraoke\/2d88d792-c851-4dcb-95d3-84124c636cf6\/cegFHBMJQHa7eeSyy88X_FourKaraokeTVOuya.apk",
+            "size": 487768,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fourkaraoke.fourkaraoke\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Lm6ErlFcSJe1jZN95xo5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9dVogZdDS2yUXhepC6Az",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YtxqIzyS8u2ECQpd0efH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xwdbZ2ZZT1OE9AQcHmwh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BsZ9xDHT7OCoh5TKXnnD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eTfU0CYTGGjeJyeTSEQq"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9dVogZdDS2yUXhepC6Az\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9dVogZdDS2yUXhepC6Az\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YtxqIzyS8u2ECQpd0efH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YtxqIzyS8u2ECQpd0efH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xwdbZ2ZZT1OE9AQcHmwh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xwdbZ2ZZT1OE9AQcHmwh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BsZ9xDHT7OCoh5TKXnnD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BsZ9xDHT7OCoh5TKXnnD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eTfU0CYTGGjeJyeTSEQq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eTfU0CYTGGjeJyeTSEQq\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TriceraSoft",
+        "supportEmail": "info@4karaoke.ca",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.4karaoke.ca",
+    "firstPublishedAt": "2013-06-27T21:21:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by TriceraSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 133,
+        "average": 1.76,
+        "count": 166
+    }
+}

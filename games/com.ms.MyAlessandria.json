@@ -1,0 +1,83 @@
+{
+    "packageName": "com.ms.MyAlessandria",
+    "title": "MyAlessandria",
+    "description": "A new way to manage your files and folders. You can create new files or folders and also delete files...\r\n\r\npath: \"storage\" for example ;)M",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Kids List",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.2.1",
+            "versionCode": 0,
+            "uuid": "d4904126-81c6-4d1f-b797-5a27625313f6",
+            "date": "2013-09-23T21:40:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3ce6ecce-85a0-4e34-a9ae-8f17269694ac\/com.ms.MyAlessandria\/d4904126-81c6-4d1f-b797-5a27625313f6\/JC1IvKARjCCDZSKhMrAG_MyAlessandria.apk",
+            "size": 12752807,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ms.myalessandria\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DtRdyuT4C3qlx16GGaNw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Arq6bb9hRcSPixoKEVGv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oUgSSDjzS8eldMo8UrLg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gx7BcAWQ8W8NwNn4UXhN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZRnqAGAmREOLADOanvvh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GiAfGFzMQfGUEVz9HB2P"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Arq6bb9hRcSPixoKEVGv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Arq6bb9hRcSPixoKEVGv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oUgSSDjzS8eldMo8UrLg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oUgSSDjzS8eldMo8UrLg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Gx7BcAWQ8W8NwNn4UXhN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Gx7BcAWQ8W8NwNn4UXhN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZRnqAGAmREOLADOanvvh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZRnqAGAmREOLADOanvvh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GiAfGFzMQfGUEVz9HB2P\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GiAfGFzMQfGUEVz9HB2P\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mattia Sappa",
+        "supportEmail": "mattiasappa@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/plus.google.com\/u\/0\/111379842249796341773\/posts",
+    "firstPublishedAt": "2013-09-11T17:33:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Mattia Sappa.",
+    "premium": false,
+    "rating": {
+        "likeCount": 23,
+        "average": 2.95,
+        "count": 22
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "com.locomalito.efmb",
+    "title": "EFMB",
+    "description": "EFMB is the PC remake of a crazy British platform game made by Dave Hughes for the Sinclair ZX Spectrum in 2012\r\n\r\nPlay as Moebius or Pucky and rescue hundreds of strange creatures that inhabit unusual places. Move through teleporters and from one side of the screen to the other in a chaotic game experience that will make your neurons burn as you progress through the 15 levels.\r\n\r\nI found the original game amazing: it's a platformer with simple mechanics that forces players to use their brain power. The remake has new stuff and a two player feature perfect for playing with friends in cooperative and versus mode.\r\n\r\nThe new version is here thanks to RGCD, a team dedicated to publishing and reviewing new games for vintage computer systems and consoles. Thanks for bringing the original to my attention!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.19",
+            "versionCode": 0,
+            "uuid": "bc9e30bf-ae59-46a5-b46b-e58286f78b7a",
+            "date": "2013-08-29T02:04:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/19e645f2-6f70-469a-bcee-9002b86548b6\/com.locomalito.efmb\/bc9e30bf-ae59-46a5-b46b-e58286f78b7a\/qTGXxvWtR8mD6tNvBC94_EFMB.apk",
+            "size": 12217852,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.efmb\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oqY1ScyQnGZMqS4wDUvD",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IJ1MAxxQSWas1IRbRBzl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KX3fY6hLRsSJWPjcLLWW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wsjX1bgWR4Gc8pjycGcy"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IJ1MAxxQSWas1IRbRBzl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IJ1MAxxQSWas1IRbRBzl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KX3fY6hLRsSJWPjcLLWW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KX3fY6hLRsSJWPjcLLWW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wsjX1bgWR4Gc8pjycGcy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wsjX1bgWR4Gc8pjycGcy\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Locomalito",
+        "supportEmail": "info@locomalito.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.locomalito.com\/efmb.php",
+    "firstPublishedAt": "2013-08-22T21:35:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Locomalito.",
+    "premium": false,
+    "rating": {
+        "likeCount": 157,
+        "average": 4.13,
+        "count": 292
+    }
+}

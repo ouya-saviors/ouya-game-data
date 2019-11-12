@@ -1,0 +1,107 @@
+{
+    "packageName": "com.giantmargarita.partygolf",
+    "title": "Party Golf",
+    "description": "It's everything golf isn't: fast-paced, zany, and frenetic. Imagine what golf would be like if it had a trillion trillion trillion variations. With complex and rich gameplay experiences, Party Golf is designed to be picked up and played immediately by anyone in a couch competitive environment, for two to four players.\r\n\r\nBanana balls? Check.\r\nPower-ups like forcefield, magnet, and spin? Check.\r\nFog-of-war, low gravity, and procedurally generated terrain? Check Check and Check.\r\n\r\nParty Golf has over 20 presets of game-modes, just to get you started. And if you find new combinations? Go ahead and create a new preset, so you and your friends can play them in the future!",
+    "players": [
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "35b34219-b78a-4a5a-b509-fa84b455adaf",
+            "date": "2015-10-21T23:13:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/751a1b31-4a1a-4be4-a3a2-9d663493af24\/com.giantmargarita.partygolf\/6a4944e7-069d-4428-be75-108790dcf90f\/lrUhuNxhRF22QmSIOb67_PGFORGE4.apk",
+            "size": 36839867,
+            "md5sum": "924cef0813c51917966a27de5da7adc3",
+            "publicSize": 96923,
+            "nativeSize": 18205572
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.giantmargarita.partygolf\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ohluGyFBRYeJsy1mVg5G",
+        "video": "https:\/\/vimeo.com\/127160112",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hivUOuz7TCCGQNC2E87x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7HJWV754RHKuW24l6wNI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rMN6JAslSFus3Olg9IlP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EmxbYDNpRiSAToSGgCU2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3X9fo4pKSb6wh9zbaMG4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I8m6RJS9TXyb4cFOpz1T"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/127160112"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/x3pxwn_ouya-screenshot20150911-3-1qtbedw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/thumbnails\/thumbnail20150911-3-dqj55q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/ggdijj_ouya-screenshot20150911-3-coi1sd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/thumbnails\/thumbnail20150911-3-1qnxgiv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/lhqxf_ouya-screenshot20150911-3-4akm0a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/thumbnails\/thumbnail20150911-3-9s6f4g.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/uv8wbx_ouya-screenshot20150911-3-1fctj6z.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/thumbnails\/thumbnail20150911-3-1phwiww.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/mfawyy_ouya-screenshot20150911-3-jg958i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/thumbnails\/thumbnail20150911-3-1viov1p.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/738ti5_ouya-screenshot20150911-3-1wfs8i8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35b34219-b78a-4a5a-b509-fa84b455adaf\/thumbnails\/thumbnail20150911-3-1wjhjcj.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "751a1b31-4a1a-4be4-a3a2-9d663493af24",
+        "name": "Giant Margarita",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "giantmargarita.com",
+    "firstPublishedAt": "2015-05-22T21:59:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Giant Margarita.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.36,
+        "count": 179
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "PartyGolfFullVersion",
+            "name": "Party Golf Full Version",
+            "description": "This unlocks all the game presets and options for all time! :)",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

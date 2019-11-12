@@ -1,0 +1,87 @@
+{
+    "packageName": "com.BrittMD.GAME.BioBot.BloodRules",
+    "title": "BioBot: Blood Rules",
+    "description": "UPDATED: New Voice Assist.  PS3 Controllers Supported.  Dual stick FPS shooter.\r\n\r\nYou are a miniaturized futuristic medical BioBot, or biological robot. A scientist has injected you into the veins of an infected human host.\r\n\r\nProtect your hosts life giving Red Blood Cells from a madness of invading bacteria and viruses.\r\n\r\nGame Source Code Available.  See Unlock menu.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "51f26e97-1872-43bb-be05-17ff6c3f39ae",
+            "date": "2014-01-15T20:46:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/03d7013c-b6d4-4b58-850c-17a49356579b\/com.BrittMD.GAME.BioBot.BloodRules\/51f26e97-1872-43bb-be05-17ff6c3f39ae\/Omz88Ty1QuAInnu3bgKi_BioBotOUYA.apk",
+            "size": 20457873,
+            "md5sum": "7108487751f484b7376c50031b98f4ec",
+            "publicSize": 402117,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.brittmd.game.biobot.bloodrules\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gnqTDInPSreygut050QN",
+        "video": "https:\/\/vimeo.com\/82996394",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QpQsJcrfSSKA8C9yXK9z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tWy4lG6LTKWQ13TUjbfr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R6xVlBfUSAkLcokWxFGv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3uESAoJSsCMVyjEoM5G5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n2qAI1yBR726obrhtrWY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82996394"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QpQsJcrfSSKA8C9yXK9z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QpQsJcrfSSKA8C9yXK9z\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tWy4lG6LTKWQ13TUjbfr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tWy4lG6LTKWQ13TUjbfr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R6xVlBfUSAkLcokWxFGv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R6xVlBfUSAkLcokWxFGv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3uESAoJSsCMVyjEoM5G5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3uESAoJSsCMVyjEoM5G5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/n2qAI1yBR726obrhtrWY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/n2qAI1yBR726obrhtrWY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BrittMD Co.",
+        "supportEmail": "biobot@brittmd.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.brittmd.com\/biobot\/",
+    "firstPublishedAt": "2014-01-03T23:39:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by BrittMD Co..",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 3,
+        "count": 10
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "com.Joseki.ClumsyShark",
+    "title": "Clumsy Shark",
+    "description": "Clumsy Shark is a take on the hit game Flappy Bird with enhanced 3d graphics. \r\n\r\nTap the O button to make your shark swim. Avoid obstacles to get the high score and more importantly beat your friends high score.\r\n\r\nv1.5 Update:\r\nCheat codes! On the Main Menu, Hold L1 and R1 and enter the codes! There will be a chime if entered correctly. can you figure them out? Hint for cheat #1: konamiCode",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "8d16879b-d26e-42fc-8ad6-de5226895ecd",
+            "date": "2014-03-03T19:06:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a0ec7796-a2ec-46b5-bfc5-1e51ed21ba65\/com.Joseki.ClumsyShark\/8d16879b-d26e-42fc-8ad6-de5226895ecd\/EpXhzLPXSFe7I5zTYZQZ_clumsyshark.apk",
+            "size": 10197282,
+            "md5sum": "5d80dc96511ac69f9dc99333289ddf2d",
+            "publicSize": 315817,
+            "nativeSize": 149736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.joseki.clumsyshark\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/herkVCmrTSCw2Z3JwHLL",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XOSzAxcBSCCqJaaxdNrR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zK0UVOLQTJ2ICISwsng0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kwi8lyYHRwm0jx4qRZ8d"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XOSzAxcBSCCqJaaxdNrR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XOSzAxcBSCCqJaaxdNrR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zK0UVOLQTJ2ICISwsng0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zK0UVOLQTJ2ICISwsng0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kwi8lyYHRwm0jx4qRZ8d\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kwi8lyYHRwm0jx4qRZ8d\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mason Barry",
+        "supportEmail": "creativemessss@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/www.facebook.com\/MasonTBarry",
+    "firstPublishedAt": "2014-02-21T18:56:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Mason Barry.",
+    "premium": false,
+    "rating": {
+        "likeCount": 34,
+        "average": 2.78,
+        "count": 216
+    }
+}

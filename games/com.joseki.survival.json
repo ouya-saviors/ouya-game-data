@@ -1,0 +1,77 @@
+{
+    "packageName": "com.joseki.survival",
+    "title": "Survival",
+    "description": "Survival is a simple yet addictive retro style game based on games from the 70s.\r\n\r\nObjective: Eat enemies The same size or smaller than you while avoiding the bigger enemies. As you eat you will grow. Score big to level up! Each level gets a bit faster.\r\n\r\nThere are 4 difficulty levels: Easy, Medium, Hard and Insane.\r\n\r\nHow long will you survive?\r\n\r\nupdate 1:\r\n- Donation button added\r\n- How to play screen updated (easier to read text, and less cluttered)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.6",
+            "versionCode": 0,
+            "uuid": "3a0174fc-63cf-406f-8232-90619b31578d",
+            "date": "2013-06-24T19:19:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a0ec7796-a2ec-46b5-bfc5-1e51ed21ba65\/com.joseki.survival\/3a0174fc-63cf-406f-8232-90619b31578d\/JdMvQK0oS27aozgC6Beg_survival.apk",
+            "size": 7898230,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.joseki.survival\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tamLWRgfSlyPcpOceZcs",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KvmN02QqRwe7YiLELYYT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dBSwzKCeTzq4TEfVMGkr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g8BIfqWxQpGGmcowu5lm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cv8eSk21SqCSPCKQBqjW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KvmN02QqRwe7YiLELYYT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KvmN02QqRwe7YiLELYYT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dBSwzKCeTzq4TEfVMGkr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dBSwzKCeTzq4TEfVMGkr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/g8BIfqWxQpGGmcowu5lm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/g8BIfqWxQpGGmcowu5lm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cv8eSk21SqCSPCKQBqjW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cv8eSk21SqCSPCKQBqjW\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mason Barry",
+        "supportEmail": "creativemessss@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/www.facebook.com\/JosekiSurvival",
+    "firstPublishedAt": "2013-05-24T22:51:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Mason Barry.",
+    "premium": false,
+    "rating": {
+        "likeCount": 144,
+        "average": 3.6,
+        "count": 105
+    }
+}

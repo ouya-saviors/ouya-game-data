@@ -1,0 +1,94 @@
+{
+    "packageName": "air.com.thepodge.PlaneLoopy",
+    "title": "Plane Loopy OUYA",
+    "description": "What a great idea - steal a stunt plane and fly as far as you can before the authorities get wind of it and blow you out of the sky. After all who doesn't want to be a dare devil stunt pilot?\r\n\r\nCollect coins, fly through rings, pop balloons, burst clouds and avoid stormy weather. Watch out for oncoming birds, other planes and missiles.\r\n\r\nHow far can you go? Can you make it in to space?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "13188034-f2aa-4718-ad7d-53d0cb9ac442",
+            "date": "2013-07-16T13:43:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3741e535-247d-41d6-903c-5e5be79373f9\/air.com.thepodge.PlaneLoopy\/13188034-f2aa-4718-ad7d-53d0cb9ac442\/7X5Ph7AfTy2q2mtIf3if_planeloopy_ouya.apk",
+            "size": 12534214,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.thepodge.planeloopy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dsMErASkStOSyNPT1goQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HgaKfiRsQDmSdXW8fPjW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ATnA3EcDTuKbARPIhB8q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jCUXW0QZReCfA4emkZoV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xjs903E0QTePpnCLCzEH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NwQCyJmFRcyoVKrfB21w"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HgaKfiRsQDmSdXW8fPjW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HgaKfiRsQDmSdXW8fPjW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ATnA3EcDTuKbARPIhB8q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ATnA3EcDTuKbARPIhB8q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jCUXW0QZReCfA4emkZoV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jCUXW0QZReCfA4emkZoV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xjs903E0QTePpnCLCzEH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xjs903E0QTePpnCLCzEH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NwQCyJmFRcyoVKrfB21w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NwQCyJmFRcyoVKrfB21w\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "thePodge",
+        "supportEmail": "enquiries@thepodge.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.thepodge.co.uk",
+    "firstPublishedAt": "2013-07-12T20:45:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by thePodge.",
+    "premium": false,
+    "rating": {
+        "likeCount": 98,
+        "average": 3.51,
+        "count": 83
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "coinmult",
+            "name": "Coin Doubler",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,70 @@
+{
+    "packageName": "com.whelch.dodgeball",
+    "title": "Dodgebrawl",
+    "description": "Dodgebrawl is an arcade-styled Hero-battle, in which 2 teams of robobots fight out their differences in one of 4 different game modes. Choose from 10 different heroes, each with their own strengths and weaknesses, and fight alongside your friends against bots, or with bots against your friends! Supports up to 4 players and 4 bots for epic 4v4 action!\r\n\r\n*FREE VERSION* Supports 5 playable classes and up to 2\/2 humans\/bots.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "3ff9c587-70d7-4e50-91e3-116d0b3b4b57",
+            "date": "2013-10-07T20:53:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ea8b0eb8-f3ab-426c-aa49-988770a69414\/com.whelch.dodgeball\/3ff9c587-70d7-4e50-91e3-116d0b3b4b57\/yZVwnO3CTQWxI6gobjji_Dodgeball.apk",
+            "size": 54424692,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.whelch.dodgeball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DZPsLI38TgS4FmNz5hCr",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o4Cuv60fSKWPivlfow60",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3x2RaOHAQIq3TNHqL4jQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iTD5xpltQaOasZE44taB"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/o4Cuv60fSKWPivlfow60\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/o4Cuv60fSKWPivlfow60\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3x2RaOHAQIq3TNHqL4jQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3x2RaOHAQIq3TNHqL4jQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iTD5xpltQaOasZE44taB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iTD5xpltQaOasZE44taB\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Blair Pearson",
+        "supportEmail": "Whelch.SDK@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/www.facebook.com\/blair.pearson.96",
+    "firstPublishedAt": "2013-10-07T20:53:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Blair Pearson.",
+    "premium": false,
+    "rating": {
+        "likeCount": 10,
+        "average": 2,
+        "count": 14
+    }
+}

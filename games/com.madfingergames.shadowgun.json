@@ -1,0 +1,104 @@
+{
+    "packageName": "com.madfingergames.shadowgun",
+    "title": "SHADOWGUN",
+    "description": "The year is 2350, and corrupt intergalactic corporations are the rule of law, hiring bounty hunters and mercs to do their bidding. The best of the best are known as SHADOWGUNS. \r\n\r\nSHADOWGUN puts you into the role of John Slade, the galaxy\u2019s most infamous bounty hunter. Your mission: hunt down Dr. Edgar Simon, maniacal genius and leader of his own mutant army. Infiltrate Dr. Simon\u2019s mountain fortress and fight his personal guard of cyborgs, battle droids, and genetically-enhanced humanoids. Using state-of-the-art weaponry, ships, and the assistance of S.A.R.A.\u2014Slade\u2019s personal android assistant\u2014SHADOWGUN combines intense tactical combat with 3rd person action. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.3.3",
+            "versionCode": 0,
+            "uuid": "96a4a328-027c-46ed-a7f8-794662034a9e",
+            "date": "2013-06-25T14:10:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/375a8816-c8d8-4340-8f55-52887dd91c96\/com.madfingergames.shadowgun\/96a4a328-027c-46ed-a7f8-794662034a9e\/ZYlypdQ5KEvRDzdlJ1cA_shadowgun-1.3.3-ouya-rc3.apk",
+            "size": 335265739,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.madfingergames.shadowgun\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0JBEg7zQKC2hivYbwM6K",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CwbP7oxgTIGIJmfAnxpu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Aal3yhggQsSoJXi6H5CP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/doxtNtffRvCf5lONa8qz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QCcvWBE2R6WYH8s9VOgH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XuwTeTKHS5WFVh41EQqg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sBHFAh5xRzKkPv0PwtI5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cWLUiqHbSMiCUvknlXVn"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CwbP7oxgTIGIJmfAnxpu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CwbP7oxgTIGIJmfAnxpu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Aal3yhggQsSoJXi6H5CP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Aal3yhggQsSoJXi6H5CP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/doxtNtffRvCf5lONa8qz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/doxtNtffRvCf5lONa8qz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QCcvWBE2R6WYH8s9VOgH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QCcvWBE2R6WYH8s9VOgH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XuwTeTKHS5WFVh41EQqg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XuwTeTKHS5WFVh41EQqg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sBHFAh5xRzKkPv0PwtI5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sBHFAh5xRzKkPv0PwtI5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cWLUiqHbSMiCUvknlXVn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cWLUiqHbSMiCUvknlXVn\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MADFINGER Games, a.s.",
+        "supportEmail": "contact@madfingergames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.madfingergames.com",
+    "firstPublishedAt": "2013-06-25T14:10:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by MADFINGER Games, a.s..",
+    "premium": false,
+    "rating": {
+        "likeCount": 3073,
+        "average": 4.14,
+        "count": 1668
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "shadowgun_license_fullgame",
+            "name": "Shadowgun license: fullgame",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

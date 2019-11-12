@@ -1,0 +1,82 @@
+{
+    "packageName": "com.gloriousapps.ultimatesquares.android",
+    "title": "Ultimate Squares",
+    "description": "Who is the best square? \r\n\r\nCollect crystals and score higher! Be careful, and avoid the other squares. Get power-ups to dodge your enemies or to destroy them all! Increase your life or your chance to get power-ups. Collect the most crystals and reach the highest level. Break the world record and become the best square! Let\u2019s see if you are good enough to survive the skull.\r\n\r\nSupports:\r\nOUYA and PS3 Controller\r\n\r\nHints: \r\n- Your journey is long, as there are 20 levels to master\r\n- Get more and more power-ups but do not forget that you can take advantage of maximum 10 power-ups at the same time\r\n- Get things square with your favourite in-game music\r\n- It is not possible to destroy the big squares\u2026 except by bombs!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Fight!",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.07",
+            "versionCode": 0,
+            "uuid": "1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0",
+            "date": "2015-08-13T08:52:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0255319f-2c62-42fc-bc28-be87bc0e906a\/com.gloriousapps.ultimatesquares.android\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/3mmTMMSLaeufHvsIUgxR_ouya_v107.apk",
+            "size": 11514107,
+            "md5sum": "6873159e3c0b9384657be0bd9b19cf01",
+            "publicSize": 972556,
+            "nativeSize": 481688
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CkJGZ5XRgGxr9MpoCl8t",
+        "video": "https:\/\/vimeo.com\/132937249",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5xDGaOb1T3uBkx9dNpcF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I7eJeLdDRGug39BeP6LJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Kwyr3IawR0fRqmBoXCzb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Jhd723kLSJi5goyZjguU"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/132937249"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/vsdk36_ouya-screenshot20150812-3-f8rr4i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-7as34d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/fzvkvt_ouya-screenshot20150812-3-1qsrsnj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-1n758q1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/7mzmtd_ouya-screenshot20150812-3-yl2fwu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-bssxcr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/t0dgkm_ouya-screenshot20150812-3-13tyene.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-1sh5vor.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "GloriousApps",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.gloriousapps.com",
+    "firstPublishedAt": "2015-07-16T18:29:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2015 by GloriousApps.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.55,
+        "count": 40
+    }
+}

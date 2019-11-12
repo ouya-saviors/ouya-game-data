@@ -1,0 +1,82 @@
+{
+    "packageName": "com.alienmantech.blue_board_ouya",
+    "title": "Blue Board",
+    "description": "This app allows you to use your Android tablet or smart phone as a keyboard for the Ouya. You will need to download the client app for your tablet or smart phone from Google Play by searching for Blue Board.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "0.2.0 (Beta)",
+            "versionCode": 0,
+            "uuid": "e6398997-b762-4445-bb39-94dc0735aa8e",
+            "date": "2014-03-14T20:47:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8399644d-0c12-4e2f-91c9-caa485018dbd\/com.alienmantech.blue_board_ouya\/e6398997-b762-4445-bb39-94dc0735aa8e\/aBQBSJnASySPkbAPwNEl_Blue%20Board-Ouya.apk",
+            "size": 379939,
+            "md5sum": "91bca31815971f6a137a7b38e475d77a",
+            "publicSize": 157970,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.alienmantech.blue_board_ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RB750dJBRHGlPPAUKUSp",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eb6j6mtDTWyqRb10P5nT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jSOxNeXQTlezHJi4halN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tAmPFd8UQLSVklgfn5NC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fLMQeZpASGeDAupUhvYu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/70HigfX4RDO4Cjv9zbcQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eb6j6mtDTWyqRb10P5nT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eb6j6mtDTWyqRb10P5nT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jSOxNeXQTlezHJi4halN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jSOxNeXQTlezHJi4halN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tAmPFd8UQLSVklgfn5NC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tAmPFd8UQLSVklgfn5NC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fLMQeZpASGeDAupUhvYu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fLMQeZpASGeDAupUhvYu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/70HigfX4RDO4Cjv9zbcQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/70HigfX4RDO4Cjv9zbcQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Alienman Tech",
+        "supportEmail": "help@alienmantech.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "alienmantech.com",
+    "firstPublishedAt": "2013-03-30T23:31:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Alienman Tech.",
+    "premium": false,
+    "rating": {
+        "likeCount": 367,
+        "average": 3.85,
+        "count": 53
+    }
+}

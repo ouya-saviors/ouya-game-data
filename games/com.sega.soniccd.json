@@ -1,0 +1,94 @@
+{
+    "packageName": "com.sega.soniccd",
+    "title": "Sonic CD",
+    "description": "Fight the past to save the future in this enhanced recreation of Sonic CD!\r\nIn order to put an end to Dr. Eggman\u2019s nefarious schemes, Sonic must use the power of Little Planet to travel through time; breaking Dr. Eggman\u2019s hold over the future by destroying his machines in the past and recovering the missing Time Stones!\r\n\r\nFeaturing 16:9 widescreen and both the US and Japanese soundtracks, experience the adventure through time that introduced the world to Amy Rose and Eggman\u2019s most evil creation, Metal Sonic.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "c8841a85-ba2c-4f51-8f4a-940797f52bd8",
+            "date": "2013-08-01T15:56:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a18c0074-55dc-42dc-b038-da6b25cb7a7b\/com.sega.soniccd\/c8841a85-ba2c-4f51-8f4a-940797f52bd8\/VeZrcmoRACbtGraYSEG1_SonicCD.apk",
+            "size": 276592330,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sega.soniccd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xxMLE9QkT46hR76a2U1H",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/84VAvr3GTFKfmPmS4vWV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s4NL7RVRZaznaxDaVoeg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dlr5dxToOpjyaU9LH18Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FsL6aTWURIGEmxBEQLGs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O9bN2S9jS0q9QR8ie0Al"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/84VAvr3GTFKfmPmS4vWV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/84VAvr3GTFKfmPmS4vWV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s4NL7RVRZaznaxDaVoeg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s4NL7RVRZaznaxDaVoeg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dlr5dxToOpjyaU9LH18Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dlr5dxToOpjyaU9LH18Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FsL6aTWURIGEmxBEQLGs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FsL6aTWURIGEmxBEQLGs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O9bN2S9jS0q9QR8ie0Al\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O9bN2S9jS0q9QR8ie0Al\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Sega Networks Inc",
+        "supportEmail": "help@sega.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.sega.com",
+    "firstPublishedAt": "2013-08-01T15:56:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Sega Networks Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 685,
+        "average": 4.05,
+        "count": 983
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SONICCD_FULL_001",
+            "name": "Sonic CD",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

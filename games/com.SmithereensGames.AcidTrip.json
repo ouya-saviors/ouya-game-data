@@ -1,0 +1,77 @@
+{
+    "packageName": "com.SmithereensGames.AcidTrip",
+    "title": "Acid Trip",
+    "description": "Acid Trip is an intense ride through a twisting and turning colorful tube. Challenge your friends and family to see who can get the highest score possible. Your speed slowly increases throughout playing, do your best to get the highest score possible.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "ae95483b-2421-4706-bffe-1903376362b2",
+            "date": "2013-08-12T17:43:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/08c0336f-7792-47ae-885d-cff339631f15\/com.SmithereensGames.AcidTrip\/ae95483b-2421-4706-bffe-1903376362b2\/UngyGmJET1OWtjdNqC6U_Acid%20Trip.apk",
+            "size": 43262213,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.smithereensgames.acidtrip\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xU11N5KJTlWaX21bIKKF",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uc4tkXdoTIKFYcDn023B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ocDdzJuoTCPVtekfIjCA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tJOXL7XTRVWWea0dxu5k",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GOSVEqSeTMWgp5ReT2wO"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uc4tkXdoTIKFYcDn023B\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uc4tkXdoTIKFYcDn023B\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ocDdzJuoTCPVtekfIjCA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ocDdzJuoTCPVtekfIjCA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tJOXL7XTRVWWea0dxu5k\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tJOXL7XTRVWWea0dxu5k\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GOSVEqSeTMWgp5ReT2wO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GOSVEqSeTMWgp5ReT2wO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Smithereens Games",
+        "supportEmail": "little.jacka33@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "jacksonasmith.wordpress.com",
+    "firstPublishedAt": "2013-07-31T14:10:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Smithereens Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 143,
+        "average": 3.56,
+        "count": 539
+    }
+}

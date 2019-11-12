@@ -1,0 +1,115 @@
+{
+    "packageName": "com.mycroft.porkchophero",
+    "title": "Pork Chop Hero",
+    "description": "One pig's quest for freedom. Help Pork Chop escape the voracious Pork Enthusiasts on his journey to freedom. This fast paced action game combines both intense gun battles and puzzle solving levels. Be careful, the Pork Enthusiasts will do anything to get to Pork Chop!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick"
+    ],
+    "releases": [
+        {
+            "name": "2.0.5.68",
+            "versionCode": 0,
+            "uuid": "3fb11ad1-7c03-4438-90d1-929bb3db7506",
+            "date": "2014-05-02T04:09:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b3c7d06c-b03b-4452-a655-58096e773443\/com.mycroft.porkchophero\/3fb11ad1-7c03-4438-90d1-929bb3db7506\/vTGUsVCWTv6EYxDWi23l_Pork%20Chop%20Hero.apk",
+            "size": 152213069,
+            "md5sum": "ecdbaba7aaccaeda7a181fe16c70cc06",
+            "publicSize": 1319148,
+            "nativeSize": 3762448
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mycroft.porkchophero\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sltSspgVRESyJEWZNAYR",
+        "video": "https:\/\/vimeo.com\/86540252",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r17V5rH2TqaxCVAKWEKl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GdMFJ8RO6nLWm09EpRNA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6fpyRGbYRUCRxAtsiwYQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l4RxX1IS4mkP2nCC6C2W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g3KZwgqWTZ2UeFPZud6r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5aykNUQVTa6COHpQR6fG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BYaFmGQSy79nkqU8P7Zw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rz3ULzwpTGemNiOnZVf9"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/86540252"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r17V5rH2TqaxCVAKWEKl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r17V5rH2TqaxCVAKWEKl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GdMFJ8RO6nLWm09EpRNA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GdMFJ8RO6nLWm09EpRNA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6fpyRGbYRUCRxAtsiwYQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6fpyRGbYRUCRxAtsiwYQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l4RxX1IS4mkP2nCC6C2W\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l4RxX1IS4mkP2nCC6C2W\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/g3KZwgqWTZ2UeFPZud6r\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/g3KZwgqWTZ2UeFPZud6r\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5aykNUQVTa6COHpQR6fG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5aykNUQVTa6COHpQR6fG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BYaFmGQSy79nkqU8P7Zw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BYaFmGQSy79nkqU8P7Zw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Rz3ULzwpTGemNiOnZVf9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Rz3ULzwpTGemNiOnZVf9\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mycroft Softworks Inc.",
+        "supportEmail": "support@mycroftsoftworks.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.porkchophero.com",
+    "firstPublishedAt": "2014-02-12T23:57:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Mycroft Softworks Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 15,
+        "average": 2.83,
+        "count": 35
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_mycroft_porkchophero_world2",
+            "name": "World 2: Forest Hamlet",
+            "description": "Continue Pork Chop's adventure by guiding him through the Forest Hamlet.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

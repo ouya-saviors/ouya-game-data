@@ -1,0 +1,98 @@
+{
+    "packageName": "com.rubenhouse.nimblesparkouya",
+    "title": "Nimble Spark",
+    "description": "\"It's SOOOOOOO GOOD! ...so fun...easy recommendation\" -iOS2O\r\n\"Lovely.\" -Kotaku\r\n\r\nNimble Spark is a fast-action arcade game inspired by arcade and home console games of the early 80s!  Includes support for XBOX 360 and PS3 controllers!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "be58a320-8330-4475-9926-93db3dd3d4cb",
+            "date": "2014-03-14T20:55:08Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f769e67f-58cb-47e5-adfa-267c0f4fd590\/com.rubenhouse.nimblesparkouya\/e80548c2-1940-4b5e-9065-c81499d535e9\/tJ1rByQtq1Rh4HiFda7A_nimblesparkouya.apk",
+            "size": 4330914,
+            "md5sum": "3f8980eaa4ac2b6e45c4c5cae38c94fb",
+            "publicSize": 2693210,
+            "nativeSize": 7161980
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rubenhouse.nimblesparkouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NeRhSIbTTX68dt46CGDa",
+        "video": "https:\/\/vimeo.com\/88828990",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nhdddNZSa6rngr5C6swQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oJyBYb5S5KZcn6bJwUmg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A7b0NXdLTkm1TIfw6Nqz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u9Ezlp4gQcSsIKhHY08e",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MVqPT0lHS8mfLUA0Oden"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/88828990"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nhdddNZSa6rngr5C6swQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nhdddNZSa6rngr5C6swQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oJyBYb5S5KZcn6bJwUmg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oJyBYb5S5KZcn6bJwUmg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A7b0NXdLTkm1TIfw6Nqz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A7b0NXdLTkm1TIfw6Nqz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/u9Ezlp4gQcSsIKhHY08e\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/u9Ezlp4gQcSsIKhHY08e\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MVqPT0lHS8mfLUA0Oden\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MVqPT0lHS8mfLUA0Oden\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ruben House L.L.C.",
+        "supportEmail": "support@rubenhouse.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.rubenhouse.com",
+    "firstPublishedAt": "2014-03-12T19:11:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Ruben House L.L.C..",
+    "premium": false,
+    "rating": {
+        "likeCount": 11,
+        "average": 3.28,
+        "count": 36
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fullGame",
+            "name": "Nimble Spark",
+            "description": "This will eliminate the demo timer, and allow unlimited play, even when the console is offline.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

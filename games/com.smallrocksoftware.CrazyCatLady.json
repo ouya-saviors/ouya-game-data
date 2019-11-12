@@ -1,0 +1,75 @@
+{
+    "packageName": "com.smallrocksoftware.CrazyCatLady",
+    "title": "Crazy Cat Lady",
+    "description": "All of her cats have escaped and you must help the Crazy Cat Lady navigate a plethora of perils in order to recapture them all.\r\n\r\nCrazy Cat Lady is a platformer meets puzzle game in which you must guide cats through such obstacles as:\r\n\r\n- Acme-esque Anvils\r\n- Spike-laden pits\r\n- Vicious dogs\r\n- Magical teleportation mirrors\r\n- Matchable crates that defy all known science\r\n- And more!\r\n\r\nPlay through all the levels multiple times to earn bonus stars (with additional gameplay modes).",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 0,
+            "uuid": "5131c36f-76d9-4538-963c-114dd8642d55",
+            "date": "2013-06-13T16:44:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/913e3f99-cd1c-45e7-ab43-5d42edecb4f8\/com.smallrocksoftware.CrazyCatLady\/5131c36f-76d9-4538-963c-114dd8642d55\/bdfhgSNQ6y9OoMiSs4Xk_Crazy%20Cat%20Lady%20-%201.04.apk",
+            "size": 21842612,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.smallrocksoftware.crazycatlady\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hNSgwjlQaWmm8fQjEbDl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ydFWmYtzQLKJR4J69Da1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/emuMYG2XRoaCvBpo356l",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PgLbyCDQteYdKS70iAmX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QbiNyDGQYKYkUXrZELSO"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ydFWmYtzQLKJR4J69Da1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ydFWmYtzQLKJR4J69Da1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/emuMYG2XRoaCvBpo356l\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/emuMYG2XRoaCvBpo356l\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PgLbyCDQteYdKS70iAmX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PgLbyCDQteYdKS70iAmX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QbiNyDGQYKYkUXrZELSO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QbiNyDGQYKYkUXrZELSO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SmallRock Software, Inc.",
+        "supportEmail": "support@smallrocksoftware.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.smallrocksoftware.com\/Software\/CrazyCatLady",
+    "firstPublishedAt": "2013-06-13T16:44:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by SmallRock Software, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 86,
+        "average": 3.15,
+        "count": 41
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "packageName": "com.pixjuegos.ripolles",
+    "title": "Ruzafa's Nightmare",
+    "description": "Classical and fast paced beat' em up.\r\nRuzafas' sculptures have came to live and are destroying Castell\u00f3n's city.\r\n\r\nWinner of the RANDOM prize in the Indie Developer Burger Awards 2013 in Barcelona.\r\nWinner of the 1st Castellon \r\ngame-development contest.\r\n\r\nIf you've read the whole description, there's a cheat for you :D\r\nIn the options menu, change 10 times between on and off the sound switch.\r\nA boy shouting will be heard, and after that you may activate some cheats in the Options menu!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "53ac1a67-582d-44b6-aec0-40a2ad62279c",
+            "date": "2014-02-22T10:33:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e24c5d56-7f89-47bc-b446-b88a8b46d440\/com.pixjuegos.ripolles\/53ac1a67-582d-44b6-aec0-40a2ad62279c\/YKYzMQnrSPaESf9V7MXz_ripolles-ouya-720.apk",
+            "size": 92830831,
+            "md5sum": "c6154ef31c2e6266698ee88da0adc128",
+            "publicSize": 631575,
+            "nativeSize": 3922076
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixjuegos.ripolles\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J19BctMQCejC2Lyc6Mx4",
+        "video": "https:\/\/vimeo.com\/87143164",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2zj7nwhNQ6u8jn9dAdF0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ff8rhMYcRNW1bytK7qoB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OMaoB7sNSRitQ0055RoE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4xnoIHYiS4KVkeNSkVUG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EXZ5sItwSEiNPHkKjdjE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87143164"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2zj7nwhNQ6u8jn9dAdF0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2zj7nwhNQ6u8jn9dAdF0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ff8rhMYcRNW1bytK7qoB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ff8rhMYcRNW1bytK7qoB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OMaoB7sNSRitQ0055RoE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OMaoB7sNSRitQ0055RoE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4xnoIHYiS4KVkeNSkVUG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4xnoIHYiS4KVkeNSkVUG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EXZ5sItwSEiNPHkKjdjE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EXZ5sItwSEiNPHkKjdjE\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PiX Juegos",
+        "supportEmail": "contacto@pixjuegos.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.pixjuegos.com\/?j=ripolles",
+    "firstPublishedAt": "2013-04-25T18:31:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by PiX Juegos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 105,
+        "average": 3.98,
+        "count": 44
+    }
+}

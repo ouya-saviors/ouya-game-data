@@ -1,0 +1,89 @@
+{
+    "packageName": "com.bocazas.dogfight",
+    "title": "Dogfight",
+    "description": "\u2605\u2605\u2605\u2605\u2605 \"Totally awsome! Great graphics. 5*\" - Aspen\r\n\u2605\u2605\u2605\u2605\u2605 \"Really fun! Nice controls and not easy, worth the money\" - Tom \r\n\u2605\u2605\u2605\u2605\u2605 \"Awesome i will never get rid of the great game\" - Joe\r\n\u2605\u2605\u2605\u2605\u2605 \"Can't get better than this if you are looking for a good planes multiplayer online game... Very pleased - Brennon\r\n\r\nDogfight is a WWI multiplayer flight simulator!\r\n\r\nFly through training levels all the way up to full-blown dogfights against enemy planes. Playing alone is fun but the real fun is going multiplayer against your friends.\r\n\r\nWatch videos of the game and join the community at http:\/\/www.dogfightplay.com\r\n\r\nNote: The trial period includes three training level and one airplane.\r\n\r\nIf you have any requests\/complains please visit www.dogfightplay.com forums.\r\nI keep track of all requests and complains and fix them on each release.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "4.4.33",
+            "versionCode": 0,
+            "uuid": "51bf8c46-50ef-4550-bd75-7baa8ac90093",
+            "date": "2013-08-08T17:57:58Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8678ded0-839a-4e36-ba97-decd0354003a\/com.bocazas.dogfight\/51bf8c46-50ef-4550-bd75-7baa8ac90093\/ariApO5aSqyIGuCMWgQV_dogfightouya.apk",
+            "size": 47575836,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bocazas.dogfight\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P8qKfFQeRdikfw8Pcu9X",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7QaEaKzqSx2unGaL1M7A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o1UkIQRsRMmJPl1E3c1d",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0TrucrTTkSr3tdlfQWow",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1M9RlzDkQtOe3xqx3sag",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b18zD8lTYqEJBQ80oNHC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ibkBGhrTkCVl5x1P0rX2"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7QaEaKzqSx2unGaL1M7A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7QaEaKzqSx2unGaL1M7A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/o1UkIQRsRMmJPl1E3c1d\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/o1UkIQRsRMmJPl1E3c1d\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0TrucrTTkSr3tdlfQWow\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0TrucrTTkSr3tdlfQWow\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1M9RlzDkQtOe3xqx3sag\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1M9RlzDkQtOe3xqx3sag\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/b18zD8lTYqEJBQ80oNHC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/b18zD8lTYqEJBQ80oNHC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ibkBGhrTkCVl5x1P0rX2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ibkBGhrTkCVl5x1P0rX2\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Echoboom S.L.",
+        "supportEmail": "info@echoboom.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.dogfightplay.com",
+    "firstPublishedAt": "2013-08-08T17:57:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Echoboom S.L..",
+    "premium": false,
+    "rating": {
+        "likeCount": 150,
+        "average": 2.83,
+        "count": 115
+    }
+}

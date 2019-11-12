@@ -1,0 +1,71 @@
+{
+    "packageName": "uppercase.trivia",
+    "title": "Pub Trivia!",
+    "description": "Answer thousands of mixed questions in a game just like the ones found in bars and pubs.\r\nEarn higher scores with faster answers.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "9acae9b8-5815-4526-8f8f-17ab18fa8688",
+            "date": "2014-01-02T20:28:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3b9dcd9a-780e-4440-a2a6-abff3d8b29b2\/uppercase.trivia\/9acae9b8-5815-4526-8f8f-17ab18fa8688\/132LYM5gTMSDogGJrxNe_OUYA-PubTrivia.apk",
+            "size": 7583574,
+            "md5sum": "f4223ab973dc54612a381bc08cc2f0df",
+            "publicSize": 5853255,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/uppercase.trivia\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qgXbWLCERLSFdpRi3fdc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EmKsEyg3QkWInMAGAYVC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aX7LPa6wTECgNfW4XZBZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mgFb8M7oQY82IIGDHn5A"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EmKsEyg3QkWInMAGAYVC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EmKsEyg3QkWInMAGAYVC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aX7LPa6wTECgNfW4XZBZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aX7LPa6wTECgNfW4XZBZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mgFb8M7oQY82IIGDHn5A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mgFb8M7oQY82IIGDHn5A\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "uppercase SOFTWARE",
+        "supportEmail": "info@uppercasesoft.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.uppercasesoft.com",
+    "firstPublishedAt": "2014-01-02T20:28:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by uppercase SOFTWARE.",
+    "premium": false,
+    "rating": {
+        "likeCount": 14,
+        "average": 2.31,
+        "count": 26
+    }
+}

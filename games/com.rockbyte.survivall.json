@@ -1,0 +1,87 @@
+{
+    "packageName": "com.rockbyte.survivall",
+    "title": "Survival Ball",
+    "description": "Single player and Versus mode (2 players) survival on top of a platform filled with adversities such as festive explosive balloons, creepy strange stalkers, raging ice cubes, whisky tooth decays, angry bieber fans and pinball shrooms.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "e967f27b-ce1d-42af-a8bc-a2563acb3cd0",
+            "date": "2013-10-11T18:14:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/273d5b9f-79a1-4dd3-b495-b8ffe905202e\/com.rockbyte.survivall\/e967f27b-ce1d-42af-a8bc-a2563acb3cd0\/xqy4VjB5TOasmzmA3kQJ_sb_ouya.apk",
+            "size": 10546388,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rockbyte.survivall\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qgmh5CI5R6mb9PuClyKd",
+        "video": "https:\/\/vimeo.com\/76699197",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tgzKJ6xgRwKvraeu1eZ6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TMPb9EFTQ2lHOi6nBtVn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OanrhjRgaSEYO1RWwCrg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1604ifUKRPaTAzaj8PO1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zqQOSmlhRSOf7xCzbAt6"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76699197"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tgzKJ6xgRwKvraeu1eZ6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tgzKJ6xgRwKvraeu1eZ6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TMPb9EFTQ2lHOi6nBtVn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TMPb9EFTQ2lHOi6nBtVn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OanrhjRgaSEYO1RWwCrg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OanrhjRgaSEYO1RWwCrg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1604ifUKRPaTAzaj8PO1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1604ifUKRPaTAzaj8PO1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zqQOSmlhRSOf7xCzbAt6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zqQOSmlhRSOf7xCzbAt6\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rockbyte Software",
+        "supportEmail": "rockbyte.software@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.rockbyte.net\/",
+    "firstPublishedAt": "2013-09-05T13:42:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Rockbyte Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 46,
+        "average": 3.71,
+        "count": 34
+    }
+}

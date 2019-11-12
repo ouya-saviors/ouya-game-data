@@ -1,0 +1,87 @@
+{
+    "packageName": "com.cherokeelessons.OUYA.animals",
+    "title": "Cherokee Animals OUYA",
+    "description": "Learn the Cherokee names for more than 40 animals.\r\n\r\n* Contains 79 challenges spread across 18 levels!\r\n* Contains common plurals as well as singulars.\r\n\r\nHelp preserve this valuable Native American language by teaching your children or learning it yourself.\r\n\r\nChallenges include Deer, Skunk, Leech, Beaver, Terrapin (Turtle), Snail, Mink, Camel, Dog, Crow, Bobcat, Raccoon, Turkey, Snake, Badger, Butterfly, and many more.\r\n\r\nIncludes optional challenge display as Syllabary, Latin, or none.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "4.01",
+            "versionCode": 0,
+            "uuid": "c947f155-5049-426e-abed-586be80bca04",
+            "date": "2013-08-30T16:23:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6c488f8e-6907-48c9-b891-e297cf70acdb\/com.cherokeelessons.OUYA.animals\/c947f155-5049-426e-abed-586be80bca04\/Ypi0REs2Rd6DcmHaUwdw_CherokeeAnimals-OUYA-android.apk",
+            "size": 47840512,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cherokeelessons.ouya.animals\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lg9HqUVTRR34WtTuQlCA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kQRfweyOQBmXrGAREEwM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ew9EjZ2LQLGkz1rVTFB8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZA6NXSjwQTr7NbnUMufF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KvrQeaApTCW9n7vJsDAp"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kQRfweyOQBmXrGAREEwM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kQRfweyOQBmXrGAREEwM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ew9EjZ2LQLGkz1rVTFB8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ew9EjZ2LQLGkz1rVTFB8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZA6NXSjwQTr7NbnUMufF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZA6NXSjwQTr7NbnUMufF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KvrQeaApTCW9n7vJsDAp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KvrQeaApTCW9n7vJsDAp\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Michael Joyner",
+        "supportEmail": "clcom@cherokeelessons.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.CherokeeLessons.com\/Games\/",
+    "firstPublishedAt": "2013-08-26T18:07:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Michael Joyner.",
+    "premium": false,
+    "rating": {
+        "likeCount": 15,
+        "average": 4.2,
+        "count": 5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "3f3ddd6fe9c14987608a457d0116809a4c840296bdd8f5c18d469f97e56b9050",
+            "name": "Cherokee Animals",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "packageName": "com.LucidVisionGames.Celestial",
+    "title": "Celestial Assault",
+    "description": "Celestial Assault is a blend of retro style side scrolling space shooter and RPG.  Destroy enemies to gain experience, collect items and gold to upgrade your ships weapons and attributes until you cut through the toughest foes like butter!  Missions each have star ratings for kill %, completion time and ship damage providing and unique challenge and tons of replay-ability.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "b5e4da58-abf2-4416-b732-c91fe0a1e750",
+            "date": "2013-11-05T21:00:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/09e06a88-d4ac-49a5-b36e-e6b10d423268\/com.LucidVisionGames.Celestial\/b5e4da58-abf2-4416-b732-c91fe0a1e750\/Jv4BWzhSTaGD4EnS2VtA_OuyaUnityApplication.apk",
+            "size": 59058596,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lucidvisiongames.celestial\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6NtAKlbPR2OurHIORCxg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B7j234Z2Tqa13WqC9Jor",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t2cIJrP9RUSBWdEJkyVE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5ZL7t0MVSIiMMDINFQnu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UlK6Jug3ToaErfq3uApY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PbULiJdVTPOZc01VQWUR"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/B7j234Z2Tqa13WqC9Jor\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/B7j234Z2Tqa13WqC9Jor\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/t2cIJrP9RUSBWdEJkyVE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/t2cIJrP9RUSBWdEJkyVE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5ZL7t0MVSIiMMDINFQnu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5ZL7t0MVSIiMMDINFQnu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UlK6Jug3ToaErfq3uApY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UlK6Jug3ToaErfq3uApY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PbULiJdVTPOZc01VQWUR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PbULiJdVTPOZc01VQWUR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lucid Vision Games",
+        "supportEmail": "Support@LucidVisionGames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.lucidvisiongames.com\/",
+    "firstPublishedAt": "2013-11-05T21:00:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Lucid Vision Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 45,
+        "average": 3.35,
+        "count": 40
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "packageName": "de.philweb.tanks",
+    "title": "TankWar",
+    "description": "TankWar is a multiplayer game: just 4 guys, 4 controllers, 4 bottles of beer and a lot of fun :) \nGameModes: Deathmatch + Capture The Flag\n\n\u2022 up to 4 Players\n\u2022 !!! NEW: gamemode: CAPTURE THE FLAG (for 2 Players or 4 Players, collect 3 Flags to win!)\n\u2022 uses bluetooth controllers (OUYA, amazon Fire TV)\n\u2022 uses dual sticks per player\n\u2022 single player can fight against up to 3 AI tanks\n\u2022 playfield width can be configured: 50 to 250 meters\n\nnew features: \n... changed: cannon now fires only a certain range \n... added powerUp Cannon-Range that extends the range of the cannon \n... slightly changes in tank speed (forward \/ backward \/ rotation)\n... power-ups: only 4 packs parallel on screen \n... bufixes",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "00.14.000",
+            "versionCode": 0,
+            "uuid": "4a1917c7-a1b1-4057-ae76-32d95cc47d5b",
+            "date": "2015-03-12T18:39:08Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/431837bd-5fbc-4c58-bed2-c7970854c2e7\/de.philweb.tanks\/8b2379cc-5b64-4788-9e93-2cee149d5801\/73Ea4skGQbQOune47ghS_2015-03-07_tanks_014b_OUYA.apk",
+            "size": 14285598,
+            "md5sum": "3f7ae2f39cba9386d680c1e2b3faf242",
+            "publicSize": 715926,
+            "nativeSize": 971664
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.philweb.tanks\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iX0yKuPQU2CP1S5mV4AZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/idDaA9xASUebqKC7168N",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Bul2WZBDRG2wpSdMlFF1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rNP1ciRBQR6CetgHfQQS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v6pkDaeZQDBAZF0cgJSx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BPvUjUnIRc27uBpKQnW3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ziqz7dkxSMyv1Rs8mZV0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/rvn74d_ouya-screenshot20150310-3-1obzl9t.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/thumbnails\/thumbnail20150310-3-1nps1tx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/3emx58_ouya-screenshot20150310-3-bviy88.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/thumbnails\/thumbnail20150310-3-1u70xp1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/csduge_ouya-screenshot20150310-3-1orgr1w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/thumbnails\/thumbnail20150310-3-1qj796f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/u13d75_ouya-screenshot20150310-3-za3msr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/thumbnails\/thumbnail20150310-3-1f5578o.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/4q68ul_ouya-screenshot20150310-3-1ddjznp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/thumbnails\/thumbnail20150310-3-hhf2u7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/z2irhh_ouya-screenshot20150310-3-110ltpl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4a1917c7-a1b1-4057-ae76-32d95cc47d5b\/thumbnails\/thumbnail20150310-3-1vzn6di.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "heavily loaded games",
+        "supportEmail": "heavily.loaded.games@googlemail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/heavilyloadedgames.wordpress.com",
+    "firstPublishedAt": "2014-10-24T21:33:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by heavily loaded games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.86,
+        "count": 72
+    }
+}

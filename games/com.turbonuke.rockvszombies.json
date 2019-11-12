@@ -1,0 +1,85 @@
+{
+    "packageName": "com.turbonuke.rockvszombies",
+    "title": "Rock Vs Zombies",
+    "description": "When a horde of blocky zombies have invaded your home, every second counts. Roll out an awesome GIANT ROCK to squash those undead foes, in a 3D physics game that takes no prisoners. You will need to think quickly to avoid danger along the way, and to destroy all the zombies before time runs out...\n\nFeatures\n* 32 challenging levels to complete\n* Race against time\n* 3D maze style puzzles\n* Physics game structures and obstacles including:\n* Ramps and see-saws\n* Moving platforms\n* Slippery ice patches\n* Dangerous pits of lethal acid",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Entertainment",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.07",
+            "versionCode": 0,
+            "uuid": "572fd415-ca1c-4a9f-85ae-437822f41064",
+            "date": "2015-05-12T15:55:00Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/60602b09-196a-4e94-a69c-bf5514d731ad\/com.turbonuke.rockvszombies\/572fd415-ca1c-4a9f-85ae-437822f41064\/PQ7gRJEMRUKOS7PAqjqu_RockVsZombies_Ouya.apk",
+            "size": 29037520,
+            "md5sum": "6c7e94121299672c96a144ac62ca5a1e",
+            "publicSize": 407011,
+            "nativeSize": 18720712
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.turbonuke.rockvszombies\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AGCE8HO3TPaM4FbHnbcd",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0uEwkqlCRculRz3rOM7A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wpk4TarNT7S2medLaFKV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7ivAVxVUSSA4YnE6R8Ug",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ei6KlKnSDCQ4wrpWsLZl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LkninVsXQDivzhehgTQH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/rx71od_ouya-screenshot20150501-3-d03tis.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/thumbnails\/thumbnail20150501-3-1d2wvp1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/6yzvi9_ouya-screenshot20150501-3-1z7xvd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/thumbnails\/thumbnail20150501-3-hs7ccf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/lli2dz_ouya-screenshot20150501-3-fknrwj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/thumbnails\/thumbnail20150501-3-15d95ae.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/7zfwvv_ouya-screenshot20150501-3-10ii6a7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/thumbnails\/thumbnail20150501-3-16twtc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/twjz7h_ouya-screenshot20150501-3-109kw52.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/572fd415-ca1c-4a9f-85ae-437822f41064\/thumbnails\/thumbnail20150501-3-nzsaxl.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TurboNuke",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.turbonuke.com",
+    "firstPublishedAt": "2015-05-12T15:55:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2015 by TurboNuke.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.24,
+        "count": 135
+    }
+}

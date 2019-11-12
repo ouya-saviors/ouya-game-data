@@ -1,0 +1,99 @@
+{
+    "packageName": "com.orangepixel.dungeon",
+    "title": "Heroes of Loot",
+    "description": "Our take on the rogue-like and dungeon-crawler, with a big wink to the classic Gauntlet, comes with optional 2 player coop mode!\r\n\r\nFeatures:\r\n- Unlimited amount of randomly generated dungeons\r\n- Random quests to reward you with extra loot, items, experience, and more\r\n- Four classes to choose from: Elf, Warrior, Wizard and Valkyrie \r\n- Secret areas\r\n- Special mysterious dungeon items\r\n- A large collection of loot and items to acquire and aid you in your quest\r\n- Always changing gameplay",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.4.1",
+            "versionCode": 0,
+            "uuid": "11279af4-baf7-4114-9e6e-84eb648d4652",
+            "date": "2013-11-29T18:54:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/caa4ecd5-5936-4b9e-883c-608a70105282\/com.orangepixel.dungeon\/11279af4-baf7-4114-9e6e-84eb648d4652\/2YnYlBPNSEq8WAsHN3NN_HeroesofLoot_ouya.apk",
+            "size": 5484137,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.orangepixel.dungeon\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wRgo2vAbSD2PDkot9stZ",
+        "video": "https:\/\/vimeo.com\/77592206",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gux9bRLSUGqy0rdwexX6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bBUx6YBvTmuINQ1euzol",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZeRUFKcGTi2XW4BasjRt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Kd4yDTYQROeqPVCoOsG3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tnew1h8SA61kGaQmrUK8"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77592206"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Gux9bRLSUGqy0rdwexX6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Gux9bRLSUGqy0rdwexX6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bBUx6YBvTmuINQ1euzol\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bBUx6YBvTmuINQ1euzol\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZeRUFKcGTi2XW4BasjRt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZeRUFKcGTi2XW4BasjRt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Kd4yDTYQROeqPVCoOsG3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Kd4yDTYQROeqPVCoOsG3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Tnew1h8SA61kGaQmrUK8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Tnew1h8SA61kGaQmrUK8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "caa4ecd5-5936-4b9e-883c-608a70105282",
+        "name": "Orangepixel",
+        "supportEmail": "support@orangepixel.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/orangepixel.net\/heroesofloot",
+    "firstPublishedAt": "2013-09-11T21:39:11Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Orangepixel.",
+    "premium": false,
+    "rating": {
+        "likeCount": 515,
+        "average": 4.19,
+        "count": 720
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "heroesofloot_full",
+            "name": "Heroes of Loot Full Version",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

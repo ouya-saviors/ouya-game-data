@@ -1,0 +1,84 @@
+{
+    "packageName": "org.allbinary.game.minispacewar.vector",
+    "title": "MiniSpaceWar w\/Vectors",
+    "description": "Little ships big battles.\r\n\r\nShips, Space, Guns, Power Ups, and More..",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 0,
+            "uuid": "e21059ee-645b-451d-95f6-19334ecc16a8",
+            "date": "2013-12-11T03:32:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f820176d-de15-481b-bdac-f17a98fdeeaa\/org.allbinary.game.minispacewar.vector\/e21059ee-645b-451d-95f6-19334ecc16a8\/y7WprJnYTDqfIBz4e6hk_MiniSpaceWarMinimalAndroidApplicationOuya.apk",
+            "size": 542777,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f6Cxdw88Q0Su5Ld7pZtV",
+        "video": "https:\/\/vimeo.com\/80300128",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kDhiwlGQOyRUktCpKsYc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g8n2zjJ8TGsDXUNwl3JA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ubo6Yt8tRZiFA0ChKcdv"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/80300128"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kDhiwlGQOyRUktCpKsYc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kDhiwlGQOyRUktCpKsYc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/g8n2zjJ8TGsDXUNwl3JA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/g8n2zjJ8TGsDXUNwl3JA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ubo6Yt8tRZiFA0ChKcdv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ubo6Yt8tRZiFA0ChKcdv\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AllBinary",
+        "supportEmail": "support@allbinary.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.allbinary.com",
+    "firstPublishedAt": "2013-12-11T03:32:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by AllBinary.",
+    "premium": false,
+    "rating": {
+        "likeCount": 7,
+        "average": 3.5,
+        "count": 2
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock_minispacewarvector_levels",
+            "name": "MiniSpaceWar w\/Vectors Levels",
+            "description": "Unlocks all single player levels.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

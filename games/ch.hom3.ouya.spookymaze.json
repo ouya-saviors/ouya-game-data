@@ -1,0 +1,160 @@
+{
+    "packageName": "ch.hom3.ouya.spookymaze",
+    "title": "SpookyMaze",
+    "description": "Collect coins and defend yourself against ghosts in this Maze Platformer Game. \r\n\r\n* 35 Levels \r\n* Beautieful Retro Graphics \r\n* Catchy Soundtrack",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "56a868c5-4e5d-4702-be4a-c3a6083c5728",
+            "date": "2014-03-17T18:32:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ced731b3-d6f1-4069-8578-5d8aaef225fa\/ch.hom3.ouya.spookymaze\/56a868c5-4e5d-4702-be4a-c3a6083c5728\/Ngfi3533Tse9Vzhn6fEt_SpookyMaze-signed.apk",
+            "size": 23310062,
+            "md5sum": "ecaf0d8e76c5988b102abe2dd9a7e7bf",
+            "publicSize": 120218,
+            "nativeSize": 73398972
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/ch.hom3.ouya.spookymaze\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/InPlYgSSWKB785OKr8lA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UadxYVKsRgqko6lvhvvI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sDkuLVFxR9CkF5dYGuf6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VorCd3LcQMSQ4213E502",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5uAAy8opSmivkb8AmIvn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C6dbiS4UTiiBuDA9so9F",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IreJ40MbRMKKRSqFIP1i",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WlyvhmJfScys5c8CdZBe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qK7cXjmyScGg9JHQlax5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I0ZCdHlOT56wvjXcjuPi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sezeslRlmAzfyDdKpNw7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZyMz7FSSRuCqrrLSQc6y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RVK1VkaT56tTmMscHNT8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p9txIfz3T1uSsE1Ycm8c",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yTtCpliQMHopIExVeZwZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TfpEt9GBQdCkhcY9Sj9W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7KnzmEEQQWKdoKfcuYH0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UadxYVKsRgqko6lvhvvI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UadxYVKsRgqko6lvhvvI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sDkuLVFxR9CkF5dYGuf6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sDkuLVFxR9CkF5dYGuf6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VorCd3LcQMSQ4213E502\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VorCd3LcQMSQ4213E502\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5uAAy8opSmivkb8AmIvn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5uAAy8opSmivkb8AmIvn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C6dbiS4UTiiBuDA9so9F\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C6dbiS4UTiiBuDA9so9F\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IreJ40MbRMKKRSqFIP1i\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IreJ40MbRMKKRSqFIP1i\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WlyvhmJfScys5c8CdZBe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WlyvhmJfScys5c8CdZBe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qK7cXjmyScGg9JHQlax5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qK7cXjmyScGg9JHQlax5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/I0ZCdHlOT56wvjXcjuPi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/I0ZCdHlOT56wvjXcjuPi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sezeslRlmAzfyDdKpNw7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sezeslRlmAzfyDdKpNw7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZyMz7FSSRuCqrrLSQc6y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZyMz7FSSRuCqrrLSQc6y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RVK1VkaT56tTmMscHNT8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RVK1VkaT56tTmMscHNT8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/p9txIfz3T1uSsE1Ycm8c\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/p9txIfz3T1uSsE1Ycm8c\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yTtCpliQMHopIExVeZwZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yTtCpliQMHopIExVeZwZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TfpEt9GBQdCkhcY9Sj9W\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TfpEt9GBQdCkhcY9Sj9W\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7KnzmEEQQWKdoKfcuYH0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7KnzmEEQQWKdoKfcuYH0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Software Atelier Kamber",
+        "supportEmail": "info@software-atelier.ch",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/software-atelier.ch",
+    "firstPublishedAt": "2014-03-17T18:32:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Software Atelier Kamber.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 3.17,
+        "count": 88
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "spookyMaze",
+            "name": "Spooky Maze Full Version",
+            "description": "You are about to purchase the full version of SpookyMaze. This unlocks 21 more incredible challenging levels!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

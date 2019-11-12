@@ -1,0 +1,97 @@
+{
+    "packageName": "com.ghosttimegames.orbitsofconquest",
+    "title": "Orbits of Conquest",
+    "description": "Battle against your friends for dominance over planet Earth. Orbits of Conquest is a top-down space shooter for up to 4 players. Compete across 4 action-packed game modes in this 1950s sci-fi party game. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "70e527b5-4511-41e3-89d0-31cd3f73135c",
+            "date": "2014-06-23T19:02:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/baabed99-6f56-4ede-bda0-595cf91e68c3\/com.ghosttimegames.orbitsofconquest\/70e527b5-4511-41e3-89d0-31cd3f73135c\/uAlRtSayR42MeO4E1ZXH_Erf_0607.apk",
+            "size": 15183944,
+            "md5sum": "7dc11545638e9fc14279ac7912233afe",
+            "publicSize": 267097,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pC01N6yFT64kcpXKsJF6",
+        "video": "https:\/\/vimeo.com\/89379968",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XmobdxfYQEaUMK2RTS4R",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/igvZepHgRlCu9cWczgov",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3hOnwe1kTGKV9t48eoFS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nzV3e5rsQCaLDSkJAw0c",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/44gbS0KJTiGrsoQwb0c4"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89379968"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/8hwkkj_ouya-screenshot20140622-2-1jwoy9j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-x9s3cq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/2puwqf_ouya-screenshot20140622-2-m2t5g3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-1aixdja.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/ne223r_ouya-screenshot20140622-2-155qhqo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-v8bk9d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/srreif_ouya-screenshot20140622-2-zzn185.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-d1e9jp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/s59i0r_ouya-screenshot20140622-2-ikcyu6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-5igq11.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gabriel Koenig",
+        "supportEmail": "ghosttimegames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.ghosttimegames.com",
+    "firstPublishedAt": "2014-03-21T06:47:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Gabriel Koenig.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 3.56,
+        "count": 109
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ooc_fullunlock",
+            "name": "Orbits of Conquest Full Game",
+            "description": "Unlock 3 new unique VS modes, access customizable VS game options and skip the pre-game countdown!",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ]
+}

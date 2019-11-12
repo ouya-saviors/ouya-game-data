@@ -1,0 +1,94 @@
+{
+    "packageName": "com.tcksoft.poppingcandy",
+    "title": "Popping Candy",
+    "description": "How to play:\r\n\r\nMunch groups of candy - the more candy you eat in one go the better as you will score many more points. Eating a single candy makes you very sad. \r\n\r\nStop the candy reaching the red score bar, or your game will end.\r\n\r\nIf you eat candy at the right time you will score even more points. (Watch the pulsing colour of the screen.)\r\n\r\nThe game will speed up over time so eat quickly to survive!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "d70ebba1-2f0d-46b7-b377-31bb5a014d6c",
+            "date": "2013-11-11T21:58:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b0d56674-9b5a-4785-a3b1-88acbd1aff69\/com.tcksoft.poppingcandy\/d70ebba1-2f0d-46b7-b377-31bb5a014d6c\/CKRsSnRMSoOEyMtn1Ysp_MonkeyGame-release.apk",
+            "size": 885187,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.poppingcandy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1jZsCIquRzuJHIw8y3bz",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/db9sMhjQZmd6zuIkIU0S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GAhQUJPQaas31BHLc5rc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TO35qypQJQhulXDfV5wS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zck7q0QLSf68tuG2yNMz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9Mrry0NOQ0ukVzsbYWiH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/db9sMhjQZmd6zuIkIU0S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/db9sMhjQZmd6zuIkIU0S\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GAhQUJPQaas31BHLc5rc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GAhQUJPQaas31BHLc5rc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TO35qypQJQhulXDfV5wS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TO35qypQJQhulXDfV5wS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Zck7q0QLSf68tuG2yNMz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Zck7q0QLSf68tuG2yNMz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9Mrry0NOQ0ukVzsbYWiH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9Mrry0NOQ0ukVzsbYWiH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b0d56674-9b5a-4785-a3b1-88acbd1aff69",
+        "name": "TCKSOFT",
+        "supportEmail": "caffeinekid@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tcksoft.co.uk",
+    "firstPublishedAt": "2013-11-11T21:58:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by TCKSOFT.",
+    "premium": false,
+    "rating": {
+        "likeCount": 27,
+        "average": 3,
+        "count": 30
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "poppingcandyunlock1",
+            "name": "High-Score Saving",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

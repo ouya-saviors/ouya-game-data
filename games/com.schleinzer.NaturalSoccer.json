@@ -1,0 +1,81 @@
+{
+    "packageName": "com.schleinzer.NaturalSoccer",
+    "title": "Natural Soccer: OUYA Edition",
+    "description": "Natural Soccer is a highly playable and fun arcade soccer game.\r\n\r\nInspired by 90's classics like \"Kick Off\" and \"Sensible Soccer\", it brings that unrivaled playability and pure joy to your OUYA\u2122!\r\n\r\n=== FEATURES ===\r\n\r\n\u2605 Highly playable\r\n\u2605 Credible and fun ball physics\r\n\u2605 Full and direct control of the ball, including \"Aftertouch\"\r\n\u2605 Smooth graphics (60fps)\r\n\u2605 Simple controls - easy to learn, hard to master\r\n\u2605 Over 200 teams with more than 2.200 individual, carefully crafted players\r\n\u2605 League mode\r\n\r\nWHAT'S NEW:\r\n\r\nWay to much to list here :-) But these are the most important improvements:\r\n\r\n\u2605 League Mode\r\n\u2605 Whole new menu system\r\n\u2605 200 teams with over 2.200 players\r\n\u2605 Various gameplay improvements\r\n\u2605 Individual skin colors\r\n\u2605 Many, many more",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.2.1",
+            "versionCode": 0,
+            "uuid": "84bb0c22-24e3-4dfc-8f4c-d1d56ddcc6cf",
+            "date": "2014-04-15T18:12:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/be6503c3-cffd-442d-a26c-167f753bc6d0\/com.schleinzer.NaturalSoccer\/84bb0c22-24e3-4dfc-8f4c-d1d56ddcc6cf\/V7MCjZ6CSrKSsmYvU4aa_NaturalSoccer.apk",
+            "size": 17862264,
+            "md5sum": "3970a91142be7e6c80c00639d50c52a2",
+            "publicSize": 454221,
+            "nativeSize": 797158
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.schleinzer.naturalsoccer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dnLKaZdFSTqtlKVFxkG7",
+        "video": "https:\/\/vimeo.com\/77806321",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A2B8FhZkTAxFpsHwfVkw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bVL8h1RNQue32aNWA3JK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5q8HuQSubMqlnrOWAAQB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/duwxop93TYsLECaruKu8"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77806321"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A2B8FhZkTAxFpsHwfVkw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A2B8FhZkTAxFpsHwfVkw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bVL8h1RNQue32aNWA3JK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bVL8h1RNQue32aNWA3JK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5q8HuQSubMqlnrOWAAQB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5q8HuQSubMqlnrOWAAQB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/duwxop93TYsLECaruKu8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/duwxop93TYsLECaruKu8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "www.schleinzer.com",
+        "supportEmail": "ouya@schleinzer.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "NaturalSoccer.com",
+    "firstPublishedAt": "2013-03-28T18:45:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by www.schleinzer.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 223,
+        "average": 3.53,
+        "count": 418
+    }
+}

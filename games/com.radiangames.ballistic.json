@@ -1,0 +1,100 @@
+{
+    "packageName": "com.radiangames.ballistic",
+    "title": "Ballistic SE",
+    "description": "Ballistic SE is an intense, arcade dual-stick shooter.  It features endless waves, 5 unique challenges, 10 ship enhancements, 20 achievements, and eye-popping graphics.\r\n\r\nNew for version 1.01:\r\n* Wave start 101 now works\r\n* Play with any controller (press O on main menu).\r\n* Minor purchase logic fix.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "f0f61c64-f959-42e5-bbd2-5ca1903c400a",
+            "date": "2013-09-05T18:56:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bbfb5fd1-43e4-430e-bf3d-51c98b933d06\/com.radiangames.ballistic\/f0f61c64-f959-42e5-bbd2-5ca1903c400a\/os68EgraSUaakEc0wA2r_BallisticOuya.apk",
+            "size": 40140094,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.radiangames.ballistic\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vsqyL0STJWjnW0cd5rLQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6IQSFtT2SV4nJY3zxhxQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SPoWdxOSKuHoKmRkPWgQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b1P4TbjCSfqlTGiv0ixH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gWsVzxsLTQC82k8F3a5x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hxa4nEJnRQK98GMe6bxU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5jiddKDcQKqw2ZZfV04Z"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6IQSFtT2SV4nJY3zxhxQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6IQSFtT2SV4nJY3zxhxQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SPoWdxOSKuHoKmRkPWgQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SPoWdxOSKuHoKmRkPWgQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/b1P4TbjCSfqlTGiv0ixH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/b1P4TbjCSfqlTGiv0ixH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gWsVzxsLTQC82k8F3a5x\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gWsVzxsLTQC82k8F3a5x\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hxa4nEJnRQK98GMe6bxU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hxa4nEJnRQK98GMe6bxU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5jiddKDcQKqw2ZZfV04Z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5jiddKDcQKqw2ZZfV04Z\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bbfb5fd1-43e4-430e-bf3d-51c98b933d06",
+        "name": "Radiangames",
+        "supportEmail": "support@radiangames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/radiangames.com",
+    "firstPublishedAt": "2013-07-16T12:31:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Radiangames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 268,
+        "average": 4.16,
+        "count": 233
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BALLISTIC_FULL",
+            "name": "Ballistic Full Game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

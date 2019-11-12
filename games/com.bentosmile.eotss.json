@@ -1,0 +1,70 @@
+{
+    "packageName": "com.bentosmile.eotss",
+    "title": "Enemy of the Solid State",
+    "description": "Enemy Of The Solid State is a visual novel about spies and the like. It was originally created for Ludum Dare 18 (theme \u2013 enemies as weapons).",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e9dbf99f-05a2-49f4-a1ad-6ddcdfbf2e2e",
+            "date": "2013-06-24T09:55:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2c5406ec-d43a-4346-8eb7-0d37846ca1b5\/com.bentosmile.eotss\/e9dbf99f-05a2-49f4-a1ad-6ddcdfbf2e2e\/NkHViPQRRsRC32aiV1ta_com.bentosmile.eotss.apk",
+            "size": 8460750,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bentosmile.eotss\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xqx8wDQhQayP804nqsRt",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3PPsvtHUQOCUoQKh8eXJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aGhB1v87SK6ZihwEgkLy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G8RrW2CQJOXLWIU5qeti"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3PPsvtHUQOCUoQKh8eXJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3PPsvtHUQOCUoQKh8eXJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aGhB1v87SK6ZihwEgkLy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aGhB1v87SK6ZihwEgkLy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G8RrW2CQJOXLWIU5qeti\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G8RrW2CQJOXLWIU5qeti\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "bentosmile",
+        "supportEmail": "bentosmile@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "bentosmile.com",
+    "firstPublishedAt": "2013-06-24T09:55:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by bentosmile.",
+    "premium": false,
+    "rating": {
+        "likeCount": 70,
+        "average": 3.24,
+        "count": 17
+    }
+}

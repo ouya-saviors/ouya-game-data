@@ -1,0 +1,77 @@
+{
+    "packageName": "com.voxoid.bubbliminate",
+    "title": "Bubbliminate",
+    "description": "Move, grow, and split your bubbles, as you relax on a beautiful tropical island! Eliminate your opponents until you\u2019re the last survivor. Play against the computer or with friends. Up to 8 players, and only one controller required! Simple for anyone to play, yet the strategy will intrigue the masterminds.\r\n\r\nFull HD graphics. Color blind mode available.\r\n\r\nOnly for OUYA.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "971d48f6-d8ad-46ad-b23b-39587c88bc59",
+            "date": "2013-09-30T23:51:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/61368ada-8599-4581-bcf7-ffe9497d2539\/com.voxoid.bubbliminate\/971d48f6-d8ad-46ad-b23b-39587c88bc59\/QHfXyK38RlervkVSmcJR_Bubbliminate.apk",
+            "size": 17126431,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.voxoid.bubbliminate\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ds3NnvbJQsKbWKcNJx3O",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dcJfD9JRFCzWdBPPXXOU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/16RqExInQzOS7rKQlgiN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FmkwDVjToy6GtxjN9gwh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8wKa0w9pTGaB4gz69cH6"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dcJfD9JRFCzWdBPPXXOU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dcJfD9JRFCzWdBPPXXOU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/16RqExInQzOS7rKQlgiN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/16RqExInQzOS7rKQlgiN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FmkwDVjToy6GtxjN9gwh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FmkwDVjToy6GtxjN9gwh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8wKa0w9pTGaB4gz69cH6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8wKa0w9pTGaB4gz69cH6\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Voxoid LLC",
+        "supportEmail": "joel@voxoid.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/bubbliminate.com",
+    "firstPublishedAt": "2013-09-30T23:51:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Voxoid LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 2.54,
+        "count": 13
+    }
+}

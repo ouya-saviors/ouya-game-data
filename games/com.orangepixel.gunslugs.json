@@ -1,0 +1,93 @@
+{
+    "packageName": "com.orangepixel.gunslugs",
+    "title": "Gunslugs",
+    "description": "Gunslugs is the most chaotic, fun, arcade action game you'll find on any platform! Non-stop action from the guys behind Meganoid, Meganoid 2 and Stardash ! \r\n\r\n\u201cThere\u2019s so much praise I want to ramble on about, but I\u2019ll leave it at this: Gunslugs is a game you must get your hands on\u201d \u2013 Gamezebo\r\n\r\n\"Basically, it\u2019s everything you could ask for from a rampaging action game, all packed up in a neat little mobile release with ample amounts of retro-style visuals, music and secrets.\u201d \u2013 JayIsGames\r\n\r\nWe grabbed a bunch of expendable action hero's from the 80s and we made them team up as the Gunslugs to fight the war against the always evil Black Duck Army. Can you save the planet? maybe even the universe? \r\n\r\nFEATURES \r\n* Random level generation - no 2 game sessions will be the same! \r\n* Unlockable characters \r\n* Two player co-op mode is supported!\r\n* Thumping sound track \r\n* Fun variation of weapons \r\n* Tank driving! \r\n* Jetpack flying! \r\n* Secret levels \r\n* Objectives\/achievements \r\n* Destruction \r\n* Chaos \r\n* Rain, snow, and big bad hell worms \r\n* Wizards, princesses, geeks, voodoo priests and many more surprises...! \r\n\r\nFor more info, check out http:\/\/orangepixel.net\/gunslugs\r\n\r\n** BUGS\r\nif you run into problems or the game wont work on your device, instead of just rating 1 star, you could help us fix it by providing feedback!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.0.5",
+            "versionCode": 0,
+            "uuid": "8a2219a8-89c4-4404-a527-18bf9063575a",
+            "date": "2014-02-10T19:03:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/caa4ecd5-5936-4b9e-883c-608a70105282\/com.orangepixel.gunslugs\/8a2219a8-89c4-4404-a527-18bf9063575a\/JKmfqB0KRRede2Sxdjbj_Gunslugs_ouya.apk",
+            "size": 6258201,
+            "md5sum": "f09494aa43cfc2e03f5af9581e1dafb3",
+            "publicSize": 5304026,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.orangepixel.gunslugs\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E15shgi7SpGSC3Sh3qRi",
+        "video": "https:\/\/vimeo.com\/86201458",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O6mFJlbnTbSwuNfhokqB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5IJ8zF3GQEClwgY2JNox",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/siFeP35DTHaauKg2NweL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xcXuco23Rm23ZcVKqM3I"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/86201458"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O6mFJlbnTbSwuNfhokqB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O6mFJlbnTbSwuNfhokqB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5IJ8zF3GQEClwgY2JNox\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5IJ8zF3GQEClwgY2JNox\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/siFeP35DTHaauKg2NweL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/siFeP35DTHaauKg2NweL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xcXuco23Rm23ZcVKqM3I\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xcXuco23Rm23ZcVKqM3I\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "caa4ecd5-5936-4b9e-883c-608a70105282",
+        "name": "Orangepixel",
+        "supportEmail": "support@orangepixel.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/orangepixel.net\/gunslugs",
+    "firstPublishedAt": "2013-03-20T07:34:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Orangepixel.",
+    "premium": false,
+    "rating": {
+        "likeCount": 422,
+        "average": 3.81,
+        "count": 228
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "gunslugs_fullr",
+            "name": "Gunslugs Full Version",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

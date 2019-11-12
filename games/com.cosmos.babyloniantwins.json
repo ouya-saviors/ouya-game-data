@@ -1,0 +1,100 @@
+{
+    "packageName": "com.cosmos.babyloniantwins",
+    "title": "Babylonian Twins",
+    "description": "The award-winning puzzle platformer now on OUYA. Guide the twin princes of Babylon to solve challenging puzzles in unique historic environments.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.7.2",
+            "versionCode": 0,
+            "uuid": "19c17c23-be89-4311-b386-41d26ce055ec",
+            "date": "2013-12-06T19:43:22Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c4e46efe-05fd-4be9-9d7e-1f7607eabd49\/com.cosmos.babyloniantwins\/19c17c23-be89-4311-b386-41d26ce055ec\/Q8hWL17qRVOkJE84gRPD_BabylonianTwinsActivity.apk",
+            "size": 29141492,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cosmos.babyloniantwins\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FsiPIRpMR96SsvZbWTmL",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9eCVtazhQHwnh6Wz6uLA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iOEbHaFCSFK9HuyC6iLa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ycQo7ZbgTXiX6Z32CUzT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U51kUFSqR7KVCLLls7Iu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tw8oIfzsT8O10q0lIhwh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zc7LtqWtTTy2t5YIY6uN"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9eCVtazhQHwnh6Wz6uLA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9eCVtazhQHwnh6Wz6uLA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iOEbHaFCSFK9HuyC6iLa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iOEbHaFCSFK9HuyC6iLa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ycQo7ZbgTXiX6Z32CUzT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ycQo7ZbgTXiX6Z32CUzT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/U51kUFSqR7KVCLLls7Iu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/U51kUFSqR7KVCLLls7Iu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Tw8oIfzsT8O10q0lIhwh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Tw8oIfzsT8O10q0lIhwh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zc7LtqWtTTy2t5YIY6uN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zc7LtqWtTTy2t5YIY6uN\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BitHunch LLC",
+        "supportEmail": "contact@babyloniantwins.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.babyloniantwins.com",
+    "firstPublishedAt": "2013-12-06T19:43:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by BitHunch LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 63,
+        "average": 3.63,
+        "count": 76
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock_pro",
+            "name": "Unlock All Pro Levels",
+            "description": "Instantly unlock full game with all Pro Levels. The challenging puzzles will take days to solve. Explore Assyria, Hanging Gardens & more. ",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

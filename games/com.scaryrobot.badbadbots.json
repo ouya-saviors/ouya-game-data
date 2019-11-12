@@ -1,0 +1,110 @@
+{
+    "packageName": "com.scaryrobot.badbadbots",
+    "title": "Stop The Bots",
+    "description": "Only you can stop the robot filled alien ship from attacking Earth by sneaking on board and disabling it from the inside! \"Stop The Bots\" perfectly blends arcade action and logic puzzles over 90 brain bending levels!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "6baabf0d-ab12-45bf-ba84-d939fd449553",
+            "date": "2014-03-05T01:45:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c6d55bf3-f8f6-4d5e-880c-5aa5b21fdad9\/com.scaryrobot.badbadbots\/6baabf0d-ab12-45bf-ba84-d939fd449553\/dgcI0hMPQ0qAV7FVvKB0_StopTheBots.apk",
+            "size": 34151477,
+            "md5sum": "dfeb384a80a2cb4edb81124549378876",
+            "publicSize": 365689,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.scaryrobot.badbadbots\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8oZUmfyQ226UHr3DE5Pw",
+        "video": "https:\/\/vimeo.com\/87213061",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DNK3ZUfzTdyKbgdJrCVa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a1NphnbCQWqVEGwgy1L9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1IJK5v8dTTCAZnqoB2pU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d9a2QxvRWOdDaefIXDfg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QpRPtoXFQHOPvGOFZEA2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hywJklzSTZXE0tHsNR1w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dVxY3zJ9Q2So6zY4jxTP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87213061"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DNK3ZUfzTdyKbgdJrCVa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DNK3ZUfzTdyKbgdJrCVa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/a1NphnbCQWqVEGwgy1L9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/a1NphnbCQWqVEGwgy1L9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1IJK5v8dTTCAZnqoB2pU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1IJK5v8dTTCAZnqoB2pU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/d9a2QxvRWOdDaefIXDfg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/d9a2QxvRWOdDaefIXDfg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QpRPtoXFQHOPvGOFZEA2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QpRPtoXFQHOPvGOFZEA2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hywJklzSTZXE0tHsNR1w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hywJklzSTZXE0tHsNR1w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dVxY3zJ9Q2So6zY4jxTP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dVxY3zJ9Q2So6zY4jxTP\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Scary Robot Productions",
+        "supportEmail": "ouyasupport@stopthebots.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.stopthebots.com",
+    "firstPublishedAt": "2014-03-05T01:45:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Scary Robot Productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 57,
+        "average": 3.8,
+        "count": 258
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "stb_full_game",
+            "name": "Unlock the Full Game",
+            "description": "Unlock the full game, including 75 new levels.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

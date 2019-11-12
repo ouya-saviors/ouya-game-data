@@ -1,0 +1,82 @@
+{
+    "packageName": "com.grahamweldon.games.puzzle2048",
+    "title": "2048",
+    "description": "Puzzle 2048 is an intriguing and addictive number puzzle game based on binary numbers. Can you make it to tile 2048?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c75667ba-7956-43af-9127-294e02b4178f",
+            "date": "2014-03-19T23:43:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c4bf1e43-f2a4-4558-9dc1-3af6f8296c5a\/com.grahamweldon.games.puzzle2048\/c75667ba-7956-43af-9127-294e02b4178f\/hg1Bck6TeuNhL6TIYPvM_2048.apk",
+            "size": 5462298,
+            "md5sum": "88659c66bed9cc659a740d47eab0c438",
+            "publicSize": 47691,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.grahamweldon.games.puzzle2048\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P0vrguSWQtStAesaiJH5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jcc09MASPeV7tOFw3rSm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3EXUZ6KCT6G4cWFt0D5H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dqz0c6lMRyiD7Zs2w5dq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GzCNnlOlTIC4JwU23OMy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z2M0gJwKRZGdREI5Rurs"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jcc09MASPeV7tOFw3rSm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jcc09MASPeV7tOFw3rSm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3EXUZ6KCT6G4cWFt0D5H\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3EXUZ6KCT6G4cWFt0D5H\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dqz0c6lMRyiD7Zs2w5dq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dqz0c6lMRyiD7Zs2w5dq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GzCNnlOlTIC4JwU23OMy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GzCNnlOlTIC4JwU23OMy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Z2M0gJwKRZGdREI5Rurs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Z2M0gJwKRZGdREI5Rurs\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Graham Weldon",
+        "supportEmail": "2048@grahamweldon.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/grahamweldon.com\/2048",
+    "firstPublishedAt": "2014-03-19T23:43:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Graham Weldon.",
+    "premium": false,
+    "rating": {
+        "likeCount": 48,
+        "average": 3.68,
+        "count": 631
+    }
+}

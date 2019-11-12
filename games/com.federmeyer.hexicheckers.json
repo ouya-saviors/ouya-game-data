@@ -1,0 +1,71 @@
+{
+    "packageName": "com.federmeyer.hexicheckers",
+    "title": "Hexicheckers Free",
+    "description": "A new take on checkers, Chinese checkers, and chess all rolled into one! \r\n\r\nMove your pieces on the hex board and capture your opponent's pieces before they capture yours. \r\n\r\nPlay against the AI or against another person on the same device.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "5abc5bb6-c27b-4244-a576-1f687b8cdfaf",
+            "date": "2013-03-30T16:22:19Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/77ec2267-0ea6-429b-93b1-095ce618185c\/com.federmeyer.hexicheckers\/5abc5bb6-c27b-4244-a576-1f687b8cdfaf\/mwbofsmQT2smLWyKaw0V_HexicheckersFree_OUYA_1_2.apk",
+            "size": 22949938,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.federmeyer.hexicheckers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xvN2APWgSvWdRiiqUO8s",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D7syTY5T2C5wZAy3rimA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dlwIBDYNSH6M0bcc00i9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S3Udc5LSzmFlMpLuJ77Y"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/D7syTY5T2C5wZAy3rimA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/D7syTY5T2C5wZAy3rimA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dlwIBDYNSH6M0bcc00i9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dlwIBDYNSH6M0bcc00i9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/S3Udc5LSzmFlMpLuJ77Y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/S3Udc5LSzmFlMpLuJ77Y\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Federmeyer Software, Inc.",
+        "supportEmail": "fedeedw@hawk.iit.edu",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/federmeyer.com",
+    "firstPublishedAt": "2013-03-28T15:20:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Federmeyer Software, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 24,
+        "average": 3.5,
+        "count": 18
+    }
+}

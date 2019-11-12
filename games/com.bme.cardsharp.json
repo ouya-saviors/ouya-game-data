@@ -1,0 +1,69 @@
+{
+    "packageName": "com.bme.cardsharp",
+    "title": "Cardsharp",
+    "description": "How about a nice game of cards? Cardsharp is an interactive tutor for a wide variety of popular card games. With detailed in-game help and a database of fun factoids, Cardsharp is a must-have for any IBM PC Compatible.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card\/Casino"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "5e7ba872-7f00-4b5f-84df-88f7f98000ec",
+            "date": "2013-09-04T15:42:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d1e4003c-92ce-4658-8031-167b7c26977b\/com.bme.cardsharp\/5e7ba872-7f00-4b5f-84df-88f7f98000ec\/lUTjEXCvQaBSyZNHfD9g_Cardsharp-release.apk",
+            "size": 1816356,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bme.cardsharp\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HdeUZYOvSKCofzMoPx96",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U4RooElQkGFc8RI87iuw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iHKsTSkQTOzaZOaOo2hF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L4bUDTo2QuKjw9anO5m4"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/U4RooElQkGFc8RI87iuw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/U4RooElQkGFc8RI87iuw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iHKsTSkQTOzaZOaOo2hF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iHKsTSkQTOzaZOaOo2hF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L4bUDTo2QuKjw9anO5m4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L4bUDTo2QuKjw9anO5m4\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "The Bureau of Memetic Engineering",
+        "supportEmail": "JohnEarnest@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/labtanner.com\/gamedev\/index.php?title=GameDevVIII:Cardsharp",
+    "firstPublishedAt": "2013-09-04T15:42:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by The Bureau of Memetic Engineering.",
+    "premium": false,
+    "rating": {
+        "likeCount": 23,
+        "average": 2.33,
+        "count": 9
+    }
+}

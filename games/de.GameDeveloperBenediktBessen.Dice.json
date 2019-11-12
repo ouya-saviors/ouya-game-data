@@ -1,0 +1,69 @@
+{
+    "packageName": "de.GameDeveloperBenediktBessen.Dice",
+    "title": "Play at Dice",
+    "description": "Achieve the highest score before time runs out. Develop strategies to win the match for you.\r\n\r\nDice is a great game for all ages. Play with up three friends. Random generated level with exciting powerups for endless fun. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "7372d938-f446-482e-9eba-a9913dbc47da",
+            "date": "2013-10-25T17:52:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/13844654-37f4-478a-abcc-ad176eb7e26d\/de.GameDeveloperBenediktBessen.Dice\/7372d938-f446-482e-9eba-a9913dbc47da\/VJDwsiT56bxhIUV7EqGQ_Dice.apk",
+            "size": 17213185,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.gamedeveloperbenediktbessen.dice\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Am1pTsdhTMaZGzYRh5xI",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BrMf0ZipT2mtnm9yQv8L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2SqCHZrCQYSYoQyeyLm4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AhhUm7ppTginWwLfIbcJ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BrMf0ZipT2mtnm9yQv8L\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BrMf0ZipT2mtnm9yQv8L\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2SqCHZrCQYSYoQyeyLm4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2SqCHZrCQYSYoQyeyLm4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AhhUm7ppTginWwLfIbcJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AhhUm7ppTginWwLfIbcJ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Benedikt Bessen",
+        "supportEmail": "benedikt.bessen@gmx.de",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/benediktbessen.de\/",
+    "firstPublishedAt": "2013-10-25T17:52:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Benedikt Bessen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 10,
+        "average": 3,
+        "count": 7
+    }
+}

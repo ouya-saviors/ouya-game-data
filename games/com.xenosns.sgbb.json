@@ -1,0 +1,75 @@
+{
+    "packageName": "com.xenosns.sgbb",
+    "title": "Sea Glass Beach Blaster",
+    "description": "An intergalactic space battle as told through beach debris. Guide your sea glass ship through 4 levels of dangerous seashells, crabs, jelly fish and other beach hazards. All images taken on beaches located in Nova Scotia, Canada. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "6e970a1a-ecb5-419d-9a9f-df638b410030",
+            "date": "2014-07-28T17:14:22Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b74e0151-7ea5-4d4b-8411-80cb50d3c338\/com.xenosns.sgbb\/6e970a1a-ecb5-419d-9a9f-df638b410030\/Yocz6wRGQv6VqU8OXBoS_sgbbouyaCurrent-Default-1.0.3.apk",
+            "size": 59224168,
+            "md5sum": "cacf1c6d46d5e12f1d8aad01eeea77d5",
+            "publicSize": 1137806,
+            "nativeSize": 8218636
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vjr80xYRCW8PKd3A1gUJ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GYck8H84RsSeoBt9n11M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/78oqWWOwRo260Jx9PPp7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y65FciMKSYKwxsGC7xOd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sZi7FUVWTuSUsgO1B2Tr"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/b6lnhn_ouya-screenshot20140726-2-1k55uux.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-u6k46r.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/ks8acp_ouya-screenshot20140726-2-1p393cz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-1eazyzs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/veiffw_ouya-screenshot20140726-2-19aa414.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-1uko0cn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/u38yj1_ouya-screenshot20140726-2-1cxwjk2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-13v3wng.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Adam Hartling",
+        "supportEmail": "adam.hartling.ns@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "xenosns.wordpress.com",
+    "firstPublishedAt": "2014-07-28T17:14:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Adam Hartling.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.81,
+        "count": 59
+    }
+}

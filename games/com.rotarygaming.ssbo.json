@@ -1,0 +1,71 @@
+{
+    "packageName": "com.rotarygaming.ssbo",
+    "title": "Silent Star: Blast",
+    "description": "Destroy as many asteroids as possible to get the best high score in this simple to play, yet increasingly challenging, blasting action game.\r\n\r\nChoose from 8 ships, each with individual speed, handling, and fire rate\/power to find one that suits your play style - whether that's fast paced twitch based, or slow and considered.\r\n\r\nPickups enable your ship to fire faster!\r\n\r\nUse the D-Pads to choose your ship\/navigate end menu's and hit O to Play. Check out the Instructions screen for further information. \r\n\r\nPress A to pause the game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0db68f93-a8cc-4805-899f-eb4156e0f9f3",
+            "date": "2014-07-21T17:27:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/91b46b43-54f9-4b55-a15b-c26307b0e6f5\/com.rotarygaming.ssbo\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/Z9FUEjhuQIaV5hnhtegT_SilentStarBlastRC1.apk",
+            "size": 12948889,
+            "md5sum": "1b01c1f1b8513f1833101ec4ca49f817",
+            "publicSize": 241863,
+            "nativeSize": 22269036
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rotarygaming.ssbo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RbnEvS7uGUiRTVAgRQQo",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jCgDMirNTmqFHPNIaZoj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8dqHzAlzRwGqXvupoHlx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CKJtrLAURGrJC7mcg4Um"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/uz7k1p_ouya-screenshot20140718-2-e6wyo9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/thumbnails\/thumbnail20140718-2-ezkym7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/qfh371_ouya-screenshot20140718-2-1cgn8g7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/thumbnails\/thumbnail20140718-2-107ptz9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/je0o1o_ouya-screenshot20140718-2-1l6e47q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0db68f93-a8cc-4805-899f-eb4156e0f9f3\/thumbnails\/thumbnail20140718-2-1v4way.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rotary Gaming",
+        "supportEmail": "grimbarian100@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.rotarygaming.com",
+    "firstPublishedAt": "2014-07-21T17:27:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Rotary Gaming.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.28,
+        "count": 47
+    }
+}

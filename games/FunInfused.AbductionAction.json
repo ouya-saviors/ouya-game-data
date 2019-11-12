@@ -1,0 +1,97 @@
+{
+    "packageName": "FunInfused.AbductionAction",
+    "title": "Abduction Action!",
+    "description": "As a UFO pilot in training, you have been tasked with the overwhelming mission of invading Earth, terrorizing the locals, and returning home in one piece. Use your tractor beam to abduct helpless Earthlings and defeat aggressive foes. It will take all your skills, wits, and intellect to prove your alien worth and triumph over humanity.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e652b6af-4535-409c-a1ab-c227bff9a862",
+            "date": "2013-11-07T06:08:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/91b50bba-0498-4a36-98a8-b341649ef384\/FunInfused.AbductionAction\/e652b6af-4535-409c-a1ab-c227bff9a862\/p3Kdm24BQLyknt0Vas7c_FunInfused.AbductionAction-Signed.apk",
+            "size": 79394689,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/funinfused.abductionaction\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Bcg0c20TWKJIyxbHWKfo",
+        "video": "https:\/\/vimeo.com\/77662886",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EbijZwkJRqGwFzRiqhnH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bzzKiWT72s6kv9Sbynqg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MlsaV1ySTveQiBbpZTdl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5TrcnyRTJMAoIv1Hyvg2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/orXViOyHQwnfKV6Nh1jt"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77662886"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EbijZwkJRqGwFzRiqhnH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EbijZwkJRqGwFzRiqhnH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bzzKiWT72s6kv9Sbynqg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bzzKiWT72s6kv9Sbynqg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MlsaV1ySTveQiBbpZTdl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MlsaV1ySTveQiBbpZTdl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5TrcnyRTJMAoIv1Hyvg2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5TrcnyRTJMAoIv1Hyvg2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/orXViOyHQwnfKV6Nh1jt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/orXViOyHQwnfKV6Nh1jt\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Fun Infused Games",
+        "supportEmail": "kris@funinfused.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.funinfused.com",
+    "firstPublishedAt": "2013-11-07T06:08:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Fun Infused Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 52,
+        "average": 3.22,
+        "count": 54
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "AbductionAction_FullGame",
+            "name": "Abduction Action! Full Game",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

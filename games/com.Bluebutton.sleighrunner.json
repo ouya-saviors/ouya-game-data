@@ -1,0 +1,93 @@
+{
+    "packageName": "com.Bluebutton.sleighrunner",
+    "title": "Sleighrunner",
+    "description": "***WELCOME TO SLEIGHRUNNER*** \r\n\r\nFly Santas Sleigh as you deliver presents to the millions of children around the world! \r\n\r\nUse Rudolph's special red nose as a superpower to collect coins, dodge Rocket Christmas Trees and Ice Mines and most importantly, save Christmas! \r\n\r\n*Fast paced runner gameplay \r\n*Collect Chocolate Coins to buy powerups! \r\n*Eat Mince Pies to increase your score! \r\n*Fly with Rudolph and the other reindeer! \r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "d8493911-6574-4de0-b13b-77ca9b80ece8",
+            "date": "2013-12-17T22:50:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f8afbc32-f895-4fee-8141-b8c8804a2e29\/com.Bluebutton.sleighrunner\/d8493911-6574-4de0-b13b-77ca9b80ece8\/5LQTwcVxSoytw9eyIwF2_Sleighrunner_Ouya_Submission_1.0-fixedv2.apk",
+            "size": 18400604,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bluebutton.sleighrunner\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PZIpZYNPRWe7ZHgOgz3i",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PWFYW5vBRu8cBHMEUlVx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8vxUycmjRF6pmKKpMO6L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/udSmeamjRK27WI09UHE4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w33n4iJsTFW1Emgp4QId",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3ScIAhJZRzKlpKycSfBT"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PWFYW5vBRu8cBHMEUlVx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PWFYW5vBRu8cBHMEUlVx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8vxUycmjRF6pmKKpMO6L\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8vxUycmjRF6pmKKpMO6L\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/udSmeamjRK27WI09UHE4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/udSmeamjRK27WI09UHE4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w33n4iJsTFW1Emgp4QId\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w33n4iJsTFW1Emgp4QId\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3ScIAhJZRzKlpKycSfBT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3ScIAhJZRzKlpKycSfBT\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Bluebutton Games",
+        "supportEmail": "polarityinfo@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/bluebuttongames.tumblr.com\/",
+    "firstPublishedAt": "2013-12-17T22:50:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Bluebutton Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 38,
+        "average": 2.96,
+        "count": 52
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sleighfullbuy",
+            "name": "Sleighrider (FULL GAME) + 10,000 Coins!",
+            "description": "Unlock the full version of Sleighrider! With 10,000 bonus coins!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

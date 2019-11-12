@@ -1,0 +1,94 @@
+{
+    "packageName": "com.newrage.pongbreaker",
+    "title": "Pongbreaker",
+    "description": "Have you ever wanted to play the arcade classics pong and breakout at the same time? I know I have, and as such modeled a game after both. Introducing Pongbreaker; the latest in pong and breakout technology! Can you beat your way through 10 exciting levels? Also supports local multiplayer!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "36bc3a3d-14e7-4e09-aa13-3170623c1c8d",
+            "date": "2014-03-06T18:16:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/64cb8bc4-a60a-410d-ab21-43e2214dd65f\/com.newrage.pongbreaker\/36bc3a3d-14e7-4e09-aa13-3170623c1c8d\/huxjCMFnTL6Nm7DXUDfS_pongbreakerouya.apk",
+            "size": 17197727,
+            "md5sum": "7347674cdfe210ed6b52e04ac9bc9041",
+            "publicSize": 92882,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.newrage.pongbreaker\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SjoUujK1S2CJPO0QX4AL",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fF14krbnTruJMBgdpIBC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tcwtqQyTT64ZJe8vH0vb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A2SWkVnfTzakDJtmsvay",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lH4KPBttT6C60kBQnEXm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qY9Ds5XLRG2u8bmo2VuL"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fF14krbnTruJMBgdpIBC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fF14krbnTruJMBgdpIBC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tcwtqQyTT64ZJe8vH0vb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tcwtqQyTT64ZJe8vH0vb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A2SWkVnfTzakDJtmsvay\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A2SWkVnfTzakDJtmsvay\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lH4KPBttT6C60kBQnEXm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lH4KPBttT6C60kBQnEXm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qY9Ds5XLRG2u8bmo2VuL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qY9Ds5XLRG2u8bmo2VuL\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "newRage Entertainment",
+        "supportEmail": "newrageentertainment@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mightierindeed.wordpress.com\/",
+    "firstPublishedAt": "2014-03-06T18:16:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by newRage Entertainment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 26,
+        "average": 2.35,
+        "count": 77
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "pb_pay_3",
+            "name": "Pongbreaker Multiplayer",
+            "description": "You are unlocking local multiplayer. Single Player will always be free.\r\n\r\nPay what want and thank you for supporting newRAGE Entertainment.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

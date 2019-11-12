@@ -1,0 +1,82 @@
+{
+    "packageName": "rnarang.ouya.games.jacknjill",
+    "title": "Jack N' Jill",
+    "description": "Jack N' Jill is a cute and charming one button platformer. Control Jack and perform jumps and wall jumps to get past obstacles and enemies and help him find his way to Jill. Jack N' Jill is FREE with a total of 140 levels spanning over 7 different landscapes.\r\n\r\nIf you are an old school gamer or have been playing games since the days of the classic gameboy, the retro music and grayscale graphics will be a fond reminder of the past. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.8",
+            "versionCode": 0,
+            "uuid": "aa59272d-905d-44ad-b0de-c99bc248fbd8",
+            "date": "2014-07-11T21:28:18Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/36ac31a5-467f-4868-961f-f5708803b305\/rnarang.ouya.games.jacknjill\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/5L8819H3Q9KNlmAgCsfE_JackNJill.apk",
+            "size": 11094063,
+            "md5sum": "7010a3f11fe56ce3c317feb639026f13",
+            "publicSize": 15469109,
+            "nativeSize": 725296
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/rnarang.ouya.games.jacknjill\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l5fFWtJSSGgiBKvtLnDD",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QoWagfn7Tx6PNgzoE1Ae",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mlNZ9agfQM2Wefs6GAO8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dgy10Z0zSweZAVhriXMi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/reOZbp3Skmmg9LcbgAcQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jOOQKe2LQB2c1ZKg82C5"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/jvyxr3_ouya-screenshot20140711-2-1uhsc8i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/thumbnails\/thumbnail20140711-2-1e3bazu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/bvcp9j_ouya-screenshot20140711-2-vkjlyq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/thumbnails\/thumbnail20140711-2-bzqj2v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/iczss6_ouya-screenshot20140711-2-1f0wrvj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/thumbnails\/thumbnail20140711-2-1plsoe.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/wmq50h_ouya-screenshot20140711-2-18fl4rg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/thumbnails\/thumbnail20140711-2-1xgqobm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/m5pj59_ouya-screenshot20140711-2-11rhhz8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa59272d-905d-44ad-b0de-c99bc248fbd8\/thumbnails\/thumbnail20140711-2-1vrfj0p.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Rohan Narang",
+        "supportEmail": "rohan_narang15@live.in",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "jacknjillgame.com",
+    "firstPublishedAt": "2013-11-14T06:38:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Rohan Narang.",
+    "premium": false,
+    "rating": {
+        "likeCount": 166,
+        "average": 4.08,
+        "count": 383
+    }
+}

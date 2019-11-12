@@ -1,0 +1,77 @@
+{
+    "packageName": "com.onemultimedia.it.opta",
+    "title": "OPTA-X Multiplayer Beta",
+    "description": "Opta-X aerial combat game, Multiplayer beta version for free ...\r\nAction!\r\n\r\nFly the skies with ease and freedom, immerse yourself in a new game concept with a network designed for devices with mobile connection, battle online with your friends in a unique and innovative gaming experience.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "0.0.52",
+            "versionCode": 0,
+            "uuid": "0dd41ec1-397b-42b5-a892-679962554aee",
+            "date": "2014-04-01T18:45:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ab86e0e5-3771-4b7e-a88a-b3c8da5ae534\/com.onemultimedia.it.opta\/0dd41ec1-397b-42b5-a892-679962554aee\/6vbpQil3SKOx2iKxpo5F_opta-x-ouya.apk",
+            "size": 62742141,
+            "md5sum": "bdb0cae442b0f075818bff3003d76232",
+            "publicSize": 1093530,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.onemultimedia.it.opta\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NJImnpGtQqGOlp2cT2Hu",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BzaMIB1CSaVvwlTYBGKw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gmM2RhdiTkWVlmWnqExx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LmOlOyYSvSsDCJh6w09I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UTvy3l3UR9uTuMnwLz4J"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BzaMIB1CSaVvwlTYBGKw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BzaMIB1CSaVvwlTYBGKw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gmM2RhdiTkWVlmWnqExx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gmM2RhdiTkWVlmWnqExx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LmOlOyYSvSsDCJh6w09I\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LmOlOyYSvSsDCJh6w09I\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UTvy3l3UR9uTuMnwLz4J\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UTvy3l3UR9uTuMnwLz4J\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "One Multimedia",
+        "supportEmail": "supporto@onemultimedia.it",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.onemultimedia.it",
+    "firstPublishedAt": "2013-08-14T19:34:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by One Multimedia.",
+    "premium": false,
+    "rating": {
+        "likeCount": 128,
+        "average": 1.64,
+        "count": 214
+    }
+}

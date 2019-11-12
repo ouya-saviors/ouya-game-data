@@ -1,0 +1,87 @@
+{
+    "packageName": "com.gamesa.lazycaverns",
+    "title": "Lazy Caverns",
+    "description": "Lazy Caverns is an arcade platform game.If you like retro game(Manic Miner,Jet Set willy..)You like this Game.\r\nFeatures:\r\n-Over 25 Levels\r\n-Online High Score\r\n-Retro graphics",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.02",
+            "versionCode": 0,
+            "uuid": "c9ae001f-4483-471c-8940-8f0ae00d94fd",
+            "date": "2014-06-26T06:43:58Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamesa.lazycaverns\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/LJHrRUF3Rhy2bj7IUXQD_lazy11high.apk",
+            "size": 5936961,
+            "md5sum": "b7e9b9fbdab25bc85880bcfbb0a66faf",
+            "publicSize": 4474799,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WkH4dtCT3m93LvCIRddN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tw2cHiRSLWdFgEMMhlMO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2X3nkMiTa2Gihd2MdsWt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DiR88xU9RDmVwvbX85Fp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WqWkhHzSyyu4mqEVg3Bn"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/74y51_ouya-screenshot20140625-2-in2bmv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-rvj050.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/mqelc6_ouya-screenshot20140625-2-19ex30d.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-4oqzh8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/zxceba_ouya-screenshot20140625-2-13lcg2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-t2x4af.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/bpvsza_ouya-screenshot20140625-2-rukyqk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-1s12opo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "musti74@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "mremakes.free.fr",
+    "firstPublishedAt": "2014-02-13T00:16:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 2.9,
+        "count": 40
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Lazy",
+            "name": "Lazy Caverns",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

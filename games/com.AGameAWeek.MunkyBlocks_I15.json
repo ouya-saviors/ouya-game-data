@@ -1,0 +1,82 @@
+{
+    "packageName": "com.AGameAWeek.MunkyBlocks_I15",
+    "title": "Munky Blocks dx",
+    "description": "Someone has scattered Munky's blocks all around the arena.\r\nHelp Munky clean up by gathering the blocks into groups of 3 or more alike blocks, so they vanish into the alterna-world.\r\nThere's a whole host of levels to play through, and some fiendishly difficult puzzles along the way.\r\n\r\nHow far can you get?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "e56c837d-ba49-42b3-9de6-64a0a1ccdc90",
+            "date": "2015-12-30T20:06:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.MunkyBlocks_I15\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/hFeI9bwSFMzVQZqEwkQF_Munky%20Blocks.apk",
+            "size": 6407962,
+            "md5sum": "3addd032b3daa9b39dcf6fc7d49f83b3",
+            "publicSize": 150185,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.munkyblocks_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SbPcz0SQ6IJRCDLjUQn9",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4VX8RC5Q8WgBPUF8Y5QG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XjZB3tEZQ56v5uxx0O0S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TmmJkGurSBCKhLJPPm0A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sZKegWCYQvqqwgxCUEYa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iFg3v91rRbKMACEw3cEI"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/u2pdvm_ouya-screenshot20151229-3-12rbsfn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/thumbnails\/thumbnail20151229-3-4f3z9o.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/ophp5e_ouya-screenshot20151229-3-1lvef6p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/thumbnails\/thumbnail20151229-3-1uzcn0a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/cirubr_ouya-screenshot20151229-3-o6kg37.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/thumbnails\/thumbnail20151229-3-1bqnk08.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/khh9oa_ouya-screenshot20151229-3-1f2z6cq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/thumbnails\/thumbnail20151229-3-11wyxmx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/s1dpvv_ouya-screenshot20151229-3-7fsu8w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e56c837d-ba49-42b3-9de6-64a0a1ccdc90\/thumbnails\/thumbnail20151229-3-1yndt8r.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-10-06T21:40:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3,
+        "count": 3
+    }
+}

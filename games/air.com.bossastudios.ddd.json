@@ -1,0 +1,92 @@
+{
+    "packageName": "air.com.bossastudios.ddd",
+    "title": "Deep Dungeons of Doom",
+    "description": "\"Gorgeous pixel art and animations\" - 90% Touch Arcade \r\n\r\nYou\u2019re Going Down! Enter the Deep Dungeons of Doom if you dare\u2026 \r\n\r\nThis game is only for the brave. Dungeons await, each one deeper, each one more perilous and each one more challenging than the last. \r\n\r\nYou will meet monsters and you will need skill and tactics to defeat them. You will find weird and wonderful treasures along the way. Most will help you, but some might not. You may choose to play as a Crusader, a Witch or a Mercenary \u2013 in fact each one might well be required if you are to successfully complete your quest \u2013 but knowing when to use each one is something you are going to have to figure out for yourself. \r\n\r\nThe reward for your endeavours? The Deepest Dungeon of Doom. Never before has such evil existed on such a massive scale. Only the most battle-hardened rogues will stand a chance of making an impact. \r\n\r\nGame Features: \r\n\r\n\u2022 Relive the 8-bit era with super-stylised visuals, music and SFX \r\n\u2022 Simple gameplay with a wicked learning curve \r\n\u2022 Choose from 3 characters, each with their own unique abilities \r\n\u2022 Battle monsters in increasingly deep and difficult dungeons \r\n\u2022 Explore a world of magic, evil, power and redemption \r\n\r\n\r\n\"Deep Dungeons Of Doom Isn\u2019t Just For The Brave; It Should Be Played By Everyone.\" - Indie Statik \r\n\r\n\"Pacey and immediate, Deep Dungeons of Doom offers no-frills, retro-themed fantasy fun.\" - 8\/10 AppSpy \r\n\r\n\"Deep Dungeons of Doom follows a path I don\u2019t think I\u2019ve ever quite seen before.\" - 4\/5 148Apps",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.1.0",
+            "versionCode": 0,
+            "uuid": "0e9d741f-4ea5-4798-af51-b841817c92a7",
+            "date": "2013-09-14T14:56:11Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2655f08e-dcc8-4d92-8ae5-5840dc6bfc0e\/air.com.bossastudios.ddd\/0e9d741f-4ea5-4798-af51-b841817c92a7\/787Y3yVT76jz9pp3rYLg_DDD_sign.apk",
+            "size": 39886261,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.bossastudios.ddd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NJSdyscJQ8OA2I0fi4IV",
+        "video": "https:\/\/vimeo.com\/89613186",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2Cf6vL3ARh6cVVeMDDj6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PXbWxS1RRFyMt1sD4D0o",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iw8qrQdaT72vFECKf1el",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZXSi4H0zQamkNS87NVmp"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89613186"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2Cf6vL3ARh6cVVeMDDj6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2Cf6vL3ARh6cVVeMDDj6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PXbWxS1RRFyMt1sD4D0o\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PXbWxS1RRFyMt1sD4D0o\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iw8qrQdaT72vFECKf1el\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iw8qrQdaT72vFECKf1el\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZXSi4H0zQamkNS87NVmp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZXSi4H0zQamkNS87NVmp\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Bossa Studios",
+        "supportEmail": "support_ddd@bossastudios.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.deepdungeonsofdoom.com",
+    "firstPublishedAt": "2013-03-24T17:17:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Bossa Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1146,
+        "average": 3.89,
+        "count": 393
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ddd-expansion-001",
+            "name": "Core Dungeons Expansion",
+            "description": "Venture further into the darkness with more dungeons to conquer, including the endless Deepest Dungeon of Doom.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

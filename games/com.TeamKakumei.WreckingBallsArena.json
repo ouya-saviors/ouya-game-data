@@ -1,0 +1,95 @@
+{
+    "packageName": "com.TeamKakumei.WreckingBallsArena",
+    "title": "Wrecking Balls Arena",
+    "description": "\"Wrecking Balls Arena is a rare OUYA exclusive and stands out on its storefront thanks to a unique premise and art style.\"\r\n-Jeremy Peeples (HardcoreGamer.com)\r\n\r\nVersus Mode Mayhem for 1-4 players! Each player takes command of a team of 4 \"Wrecking Balls\" as they fight across six diverse and symbolic landscapes; you'll need fast reflexes as well as smart strategy to successfully lead your team to victory!\r\n\r\nFeatures:\r\n\u2022 An experimental gameplay style that we like to call \"Arcade-Style Real-Time Strategy\".\r\n\u2022 Items to help during battle such as swords, pistols, skateboards, and... sunglasses?\r\n\u2022 Incredible hand-drawn artwork, fish-eye lens, and a silky smooth framerate... all completely optimized for the OUYA. This ain't a lazy mobile port, kid!\r\n\u2022 A wide, varied soundtrack featuring music by Pascul Mimeault, Joseph Eidson, Reverence, and more.\r\n\u2022 Supports PS3, Xbox 360, and most USB Controllers.\r\n\u2022 A huge options menu that lets you tweak various gameplay mechanics\/rules, item settings, and other options. (Only available in Full Version.)\r\n\r\nFree Version only includes \"Peacetime Shores\" stage. Get all 6 levels and options menu by purchasing the Full Version for only $3.99!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.08",
+            "versionCode": 0,
+            "uuid": "404e019b-1f46-4ebc-b000-64b26eee1c9f",
+            "date": "2013-11-28T16:51:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b6f309f4-82f8-4d81-8cbb-2db3fbb5387e\/com.TeamKakumei.WreckingBallsArena\/404e019b-1f46-4ebc-b000-64b26eee1c9f\/5AqyJ2KHT8WGy79hM6Cv_WreckingBallsArena.apk",
+            "size": 38593195,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.teamkakumei.wreckingballsarena\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y5IppvYSrCMkXQMibGBT",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jzpJBGJQaSnVbXmyLmBg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LgwMQaQWihElQ9N0gunA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IrUYJG3qSaGRz7hd2uDC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oL9hXb8mTfqYWuHT3kZG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pX3xuuXmRP6i6WwmjpO1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mDh3MuhSZq9A2pedhMEX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L3CjlWcdTpOF2ik83mNK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jzpJBGJQaSnVbXmyLmBg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jzpJBGJQaSnVbXmyLmBg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LgwMQaQWihElQ9N0gunA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LgwMQaQWihElQ9N0gunA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IrUYJG3qSaGRz7hd2uDC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IrUYJG3qSaGRz7hd2uDC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oL9hXb8mTfqYWuHT3kZG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oL9hXb8mTfqYWuHT3kZG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pX3xuuXmRP6i6WwmjpO1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pX3xuuXmRP6i6WwmjpO1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mDh3MuhSZq9A2pedhMEX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mDh3MuhSZq9A2pedhMEX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L3CjlWcdTpOF2ik83mNK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L3CjlWcdTpOF2ik83mNK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b6f309f4-82f8-4d81-8cbb-2db3fbb5387e",
+        "name": "Team Kakumei",
+        "supportEmail": "jtbont@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/twitter.com\/TeamKakumei",
+    "firstPublishedAt": "2013-08-13T14:20:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Team Kakumei.",
+    "premium": false,
+    "rating": {
+        "likeCount": 58,
+        "average": 2.38,
+        "count": 58
+    }
+}

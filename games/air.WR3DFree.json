@@ -1,0 +1,106 @@
+{
+    "packageName": "air.WR3DFree",
+    "title": "Wrestling Revolution 3D",
+    "description": "Gaming's biggest 3D wrestling sim is even bigger on OUYA! Featuring over a dozen characters onscreen and anarchic gameplay where anything could happen at any moment, the spirit of the 2D original has very much survived the transition to 3D. So much so that it also takes gaming's first \"War Games\" style DOUBLE ring to contain the action! A whole card of other matches are also available to enjoy in this demo release. The complete career experience will not be available to buy until Christmas.\r\n\r\nBASIC CONTROLS\r\nThe game features an interactive tutorial that you are advised to play through, but the basic controls are as follows:\r\nLEFT STICK \/ D-PAD = Movement (double-tap to dash)\r\nU = Attack (with a direction to aim high, without to aim low)\r\nY = Grapple\r\nO = Run\r\nA = Pick-Up \/ Drop (with a direction to throw)\r\nRIGHT STICK = Taunt \/ Pin \/ Referee duties\r\nSHOULDER BUTTONS = Change focus \/ Turn opponent around\r\nSHOULDER TRIGGERS = Switch character\r\nHOME = Pause \/ Change camera angle\r\n\r\n* You should find that this game also recognizes Xbox and Playstation controllers, and multiplayer is possible if you specify it in the \"Controls\" option.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.421",
+            "versionCode": 0,
+            "uuid": "d29f7d86-f55f-468c-ad64-e9c235be212e",
+            "date": "2015-04-06T22:21:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/90cce341-747a-4c11-b644-e9bf491cb32f\/air.WR3DFree\/d29f7d86-f55f-468c-ad64-e9c235be212e\/xt5hVRxTlact03CHZB30_OUYA%201-421.apk",
+            "size": 34785488,
+            "md5sum": "592cc88974e3dc98a8c6a417426be6f5",
+            "publicSize": 2767407,
+            "nativeSize": 20173095
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.wr3dfree\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yLemsqU0RcmlXvQsXNWS",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a9WZIbaQb2kRgNZzOdWQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yJDPWK5ETcCToqYSGQ6W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bITPxGnLQFEVQzqISsnF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x8XfWC9HQRu0QaXJbJ1r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mdRaQOiSSis50s53jFz5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VCOXd4M2TcMry6LHJOTu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q7QffU7SwihOfGHJYJvf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/3g2phq_ouya-screenshot20150403-3-19votjp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-1siog46.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/pscd6_ouya-screenshot20150403-3-sh0wd3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-n57n0o.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/10oy5h_ouya-screenshot20150403-3-obgze2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-762vfl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/56elwv_ouya-screenshot20150403-3-11s4zs0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-1cang4f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/mq7ivg_ouya-screenshot20150403-3-ydej2f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-17ccqil.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/n2tpbj_ouya-screenshot20150403-3-1prub6r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-1ixnc4w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/zn1d79_ouya-screenshot20150403-3-q5hbq4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d29f7d86-f55f-468c-ad64-e9c235be212e\/thumbnails\/thumbnail20150403-3-berw23.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MDickie",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.MDickie.com",
+    "firstPublishedAt": "2014-10-06T23:20:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by MDickie.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.65,
+        "count": 299
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "wr3d_upgrade",
+            "name": "Pro License",
+            "description": "Full access to ALL game modes and the editor.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        }
+    ]
+}

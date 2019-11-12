@@ -1,0 +1,79 @@
+{
+    "packageName": "com.hamsterrepublic.hamstermath",
+    "title": "Mr. The Hamster's Math Class",
+    "description": "Welcome to Class! You can call me Mr. The Hamster. Today we will practice addition, subtraction, and multiplication tables. Are you ready?\r\n\r\nThis is a full free educational game.\r\n\r\nIn-app purchases are available for totally optional donations.\r\n\r\nThis game is GPL. if you would like the source code, please e-mail Bob-hamstermath@HamsterRepublic.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "1e9bb13d-dd86-4a1c-9cbc-47f7f825805d",
+            "date": "2014-07-29T01:06:12Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b515e94f-ac51-4b02-837d-76d0e5146b55\/com.hamsterrepublic.hamstermath\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/sd1BMsjmSFm2YerD41gp_hamstermath-release-signed.apk",
+            "size": 4554990,
+            "md5sum": "f593cfc97a5bda6b4d5322a828874f8f",
+            "publicSize": 890128,
+            "nativeSize": 2499540
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eVMMvZ9fQwmupvmh2hHR",
+        "video": "https:\/\/vimeo.com\/101940332",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gXbSjTzTQVCsckPFh97u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MoXDSfoSSN6SFeOl90ng",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cGp0HPXESBiBc9OYJ0oH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DUWiMnerQUigy3ukUQbR"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/101940332"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/bh1b00_ouya-screenshot20140728-2-5kg56a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-40w61l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/61tia8_ouya-screenshot20140728-2-1nw1b6d.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-16g5y0u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/lju99z_ouya-screenshot20140728-2-113bpdu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-1hoa2v4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/bxrbs7_ouya-screenshot20140728-2-1weu8w9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-e3rjbu.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b515e94f-ac51-4b02-837d-76d0e5146b55",
+        "name": "Hamster Republic Productions",
+        "supportEmail": "Bob@HamsterRepublic.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/james.hamsterrepublic.com\/?p=227",
+    "firstPublishedAt": "2014-07-29T01:06:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Hamster Republic Productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.9,
+        "count": 29
+    }
+}

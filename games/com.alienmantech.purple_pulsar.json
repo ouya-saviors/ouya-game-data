@@ -1,0 +1,70 @@
+{
+    "packageName": "com.alienmantech.purple_pulsar",
+    "title": "Quizania",
+    "description": "Quizania is the ultimate trivia game that brings the party to your house.  Play with up to 12 of your friends using our multi-screen experience to control the game from your Android smartphones and tablets.  New questions and categories are added constantly so everyone will feel like joining in.  \r\n\r\nFor the true trivia buffs out there, challenge yourself in the single player mode. In single player mode you can watch your score rise and fall over time while trying to level up and complete achievements to earn valuable Q! points.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "0.1.6",
+            "versionCode": 0,
+            "uuid": "84189402-30cb-413e-b270-3ac962823630",
+            "date": "2013-04-11T15:43:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8399644d-0c12-4e2f-91c9-caa485018dbd\/com.alienmantech.purple_pulsar\/84189402-30cb-413e-b270-3ac962823630\/xzj5ZAjfQgCyBsXwr4GM_Quizania-Ouya.apk",
+            "size": 1289777,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.alienmantech.purple_pulsar\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FyejOPJjQa06IJUBws5a",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kTSGKDKTUGkUa2VMms4y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vGa6wCfmR2OnRqLZ6uGi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j0YPhLPST5yqhmCfBKmY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kTSGKDKTUGkUa2VMms4y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kTSGKDKTUGkUa2VMms4y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vGa6wCfmR2OnRqLZ6uGi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vGa6wCfmR2OnRqLZ6uGi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/j0YPhLPST5yqhmCfBKmY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/j0YPhLPST5yqhmCfBKmY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Alienman Tech",
+        "supportEmail": "help@alienmantech.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "alienmantech.com",
+    "firstPublishedAt": "2013-03-26T20:22:11Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Alienman Tech.",
+    "premium": false,
+    "rating": {
+        "likeCount": 80,
+        "average": 3.04,
+        "count": 45
+    }
+}

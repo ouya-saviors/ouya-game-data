@@ -1,0 +1,94 @@
+{
+    "packageName": "com.NostaticSoftware.VacationVexation",
+    "title": "Vacation Vexation",
+    "description": "Ah, the family seaside vacation. Sun, sand and... annoyances galore. Explore, solve puzzles and play arcade mini-games in this sequel to \"Quiet, Please!\".\r\n\r\n- Classic adventure game fun on your Ouya console.\r\n- Explore a lighthearted and humorous environment.\r\n- Use your wits and a bit of mischief to solve puzzles.\r\n- Play mini-games in the Funhaus arcade.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "3d66791e-42bc-4761-a9aa-289cdddad2fa",
+            "date": "2013-12-04T16:38:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3fb494e3-e77a-4a83-82a0-7d3f51221ca3\/com.NostaticSoftware.VacationVexation\/3d66791e-42bc-4761-a9aa-289cdddad2fa\/rQ8pDfQKTNWjxLAfVQqO_Vacation.apk",
+            "size": 30515306,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nostaticsoftware.vacationvexation\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3qqdJedfTzy8hNTPmmDH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4gDo2rGTXQzAdulMDPQB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GfpeTIJsS8uKgv7sJTXP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BOj8EBDTqKcl9DErugBz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/14SM8OXTbqkblvqCxWHQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rHcVdkaSuOS7gJCR3FSU"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4gDo2rGTXQzAdulMDPQB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4gDo2rGTXQzAdulMDPQB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GfpeTIJsS8uKgv7sJTXP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GfpeTIJsS8uKgv7sJTXP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BOj8EBDTqKcl9DErugBz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BOj8EBDTqKcl9DErugBz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/14SM8OXTbqkblvqCxWHQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/14SM8OXTbqkblvqCxWHQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rHcVdkaSuOS7gJCR3FSU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rHcVdkaSuOS7gJCR3FSU\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Nostatic Software",
+        "supportEmail": "contact@nostatic.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/nostaticsoftware.com",
+    "firstPublishedAt": "2013-11-27T18:18:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Nostatic Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 71,
+        "average": 3.82,
+        "count": 57
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "vacation_vexation_full_game",
+            "name": "Vacation Vexation Full Game Unlock",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

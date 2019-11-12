@@ -1,0 +1,85 @@
+{
+    "packageName": "org.allbinary.game.zeptoracer.threed",
+    "title": "ZeptoRacer 3D",
+    "description": "3D race car game with AI opponents and combat.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 0,
+            "uuid": "509a3b6c-8c42-4fc5-9949-ba7b2071efcc",
+            "date": "2014-01-05T23:11:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f820176d-de15-481b-bdac-f17a98fdeeaa\/org.allbinary.game.zeptoracer.threed\/509a3b6c-8c42-4fc5-9949-ba7b2071efcc\/5sltYDSSIqtFt2uEG2mV_ZeptoRacerThreedAndroidApplicationOuyaStoredPurchase.apk",
+            "size": 1064263,
+            "md5sum": "3358899ac3a942f3faa20313b5145b19",
+            "publicSize": 862291,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.zeptoracer.threed\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yzUdjicZT56zIfzEDZ6L",
+        "video": "https:\/\/vimeo.com\/82450943",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KrtE1WbgR12OEqgVm7Kf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/02FCvkoQrmkS01bcd4YI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NUvGiRY7Qq7zQSSrQ5wI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xjYoMXgSumR947rYGZDg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LthJjQT8m2INvBof5Y5A"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82450943"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KrtE1WbgR12OEqgVm7Kf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KrtE1WbgR12OEqgVm7Kf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/02FCvkoQrmkS01bcd4YI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/02FCvkoQrmkS01bcd4YI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NUvGiRY7Qq7zQSSrQ5wI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NUvGiRY7Qq7zQSSrQ5wI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xjYoMXgSumR947rYGZDg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xjYoMXgSumR947rYGZDg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LthJjQT8m2INvBof5Y5A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LthJjQT8m2INvBof5Y5A\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AllBinary",
+        "supportEmail": "support@allbinary.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.allbinary.com",
+    "firstPublishedAt": "2014-01-05T23:11:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by AllBinary.",
+    "premium": false,
+    "rating": {
+        "likeCount": 7,
+        "average": 1.57,
+        "count": 7
+    }
+}

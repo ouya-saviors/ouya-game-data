@@ -1,0 +1,69 @@
+{
+    "packageName": "com.Schuler.alienbastards",
+    "title": "Alien Bastards",
+    "description": "Alien Bastards is an action-based interpretation of Space Invaders.\r\nShoot waves of aliens with your rockets. Get rid of risky situations with your additional equipment and collect powerups which gives you one of eight different superweapons. Beat your own highscore and study your statistics.\r\nLoaded with super cheesy metal soundtrack!\r\n\r\ncompletly free!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.0",
+            "versionCode": 0,
+            "uuid": "28f026cb-3d96-4f90-b27b-ff68c2e1b8c9",
+            "date": "2014-07-25T01:23:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d074284f-a152-434f-af05-df61e662fb98\/com.Schuler.alienbastards\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/TYM0nnoESgaA3hpA0Hl1_alienbastards-1.2.0.apk",
+            "size": 17622936,
+            "md5sum": "c81988b296b256fa107c63e39020af65",
+            "publicSize": 892045,
+            "nativeSize": 8218636
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.schuler.alienbastards\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uNJEEltYQzuy7HwT2QiJ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bHBlkWAURfOmX23lDasj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/osfpCy2QrSgdwafb2a6A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GLoxK3vIRdGe5IM4UxMv"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/rljhjt_ouya-screenshot20140724-2-1ry2btu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/thumbnails\/thumbnail20140724-2-14zb3je.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/ji4fbe_ouya-screenshot20140724-2-1lt7ukj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/thumbnails\/thumbnail20140724-2-1ozftct.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/uwyovm_ouya-screenshot20140724-2-1o15wo3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/thumbnails\/thumbnail20140724-2-9kvq62.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Michael Schuler",
+        "supportEmail": "philosuffer@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.putrefaction.ch",
+    "firstPublishedAt": "2014-07-23T16:54:48Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Michael Schuler.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.37,
+        "count": 281
+    }
+}

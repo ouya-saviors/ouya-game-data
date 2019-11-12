@@ -1,0 +1,69 @@
+{
+    "packageName": "com.superwalrusland.horsegame",
+    "title": "Horse Game",
+    "description": "In this game you must find the horse. Hello! I am your host. I am Surlaw. I watch you as you play the Horse Game and make sure you do not get out of control. Control is the most important part of the plan. Control and obedience.\r\n\r\nYou will explore mazes and solve puzzles in pursuit of a wonderful horse. Can you find the horse?? Time will tell.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.7",
+            "versionCode": 0,
+            "uuid": "ea76a8d2-8faa-47fe-97df-d97e9badc582",
+            "date": "2014-09-26T19:00:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/18c61dc1-423e-4939-8d77-61ac08ee7f74\/com.superwalrusland.horsegame\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/NKlqE0MYRg2zncFZzOnu_horsegame-release-signed.apk",
+            "size": 10917213,
+            "md5sum": "88926a4d983207bfa1c44bd8afe8fbad",
+            "publicSize": 930686,
+            "nativeSize": 2499540
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.superwalrusland.horsegame\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rlbFybIoRASA6iPudaj8",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NfFNipkXRduYQSxobiUX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6MZbv0xqTTSqi8SiA85P",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/McztIA5RT2megecCR0ZS"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/wnugrj_ouya-screenshot20140925-2-7cr4kn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/thumbnails\/thumbnail20140925-2-b770oy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/6ohw10_ouya-screenshot20140925-2-oep6oo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/thumbnails\/thumbnail20140925-2-ye5i0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/iv8gl3_ouya-screenshot20140925-2-i4tkvy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ea76a8d2-8faa-47fe-97df-d97e9badc582\/thumbnails\/thumbnail20140925-2-1iechob.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "18c61dc1-423e-4939-8d77-61ac08ee7f74",
+        "name": "Super Walrus Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "superwalrusland.com\/",
+    "firstPublishedAt": "2014-09-26T19:00:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Super Walrus Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.81,
+        "count": 27
+    }
+}

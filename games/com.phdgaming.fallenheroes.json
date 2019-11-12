@@ -1,0 +1,70 @@
+{
+    "packageName": "com.phdgaming.fallenheroes",
+    "title": "Fallen Heroes",
+    "description": "(Note: Beta preview release!). Fallen Heroes is a cooperative and multi-player episodic RPG. In chapter one, join Uro the scavenger in his quest for survival and restoring his dystopian world. Unearth relics of a better time, defend yourself from monsters, and communicate with a spirit guide to uncover the truth. Each chapter of Fallen Heroes reveals a new hero and a new adventure.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 0,
+            "uuid": "93cd8af0-b658-41f2-9384-2dc2190e794c",
+            "date": "2013-03-29T14:41:31Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0bf92a71-c659-454e-9c49-84ee38f06e76\/com.phdgaming.fallenheroes\/93cd8af0-b658-41f2-9384-2dc2190e794c\/ammAytTQ9KO1d7ZS6uQW_FallenHeroes-android.apk",
+            "size": 194600694,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.phdgaming.fallenheroes\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3lR5EY0VR4eV72awZC0n",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lCO93oTVRxi8XYhFqveh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zLHX65tBTDyW8olyf2lJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ik76DtTRZiZIBrx7SwgV"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lCO93oTVRxi8XYhFqveh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lCO93oTVRxi8XYhFqveh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zLHX65tBTDyW8olyf2lJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zLHX65tBTDyW8olyf2lJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ik76DtTRZiZIBrx7SwgV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ik76DtTRZiZIBrx7SwgV\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PHD Gaming LLC",
+        "supportEmail": "admin@phdgaming.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.phdgaming.com",
+    "firstPublishedAt": "2013-03-29T14:41:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by PHD Gaming LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 89,
+        "average": 1.83,
+        "count": 23
+    }
+}

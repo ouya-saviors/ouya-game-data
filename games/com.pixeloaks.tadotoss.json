@@ -1,0 +1,91 @@
+{
+    "packageName": "com.pixeloaks.tadotoss",
+    "title": "Tado Toss Alpha",
+    "description": "Get ready for a fast paced, fruit and veggie fling fest! Throw combat-raised produce at opponents in a variety of dynamic arenas!\r\n\r\nNote: This is an early alpha preview of the game.\r\nNOTE: This game is online only and you can play cross platform with others on the Web or PC.\r\n\r\nFeatured on IndieDB!\r\n\r\nCheck us out at: http:\/\/www.indiedb.com\/games\/tado-toss",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "FPS\/Shooter",
+        "Kids List",
+        "Multiplayer",
+        "Platformer",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "76b2babf-719c-4040-ba33-30d73c0dc36e",
+            "date": "2014-10-19T01:49:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9faab2cc-5b17-4449-a8a0-3c951720384d\/com.pixeloaks.tadotoss\/76b2babf-719c-4040-ba33-30d73c0dc36e\/37AmxeeQdemgzLA9UrWS_tado-10-15.apk",
+            "size": 22917346,
+            "md5sum": "83ab825fcca6a5c48819bd37f85505ba",
+            "publicSize": 318344,
+            "nativeSize": 20723333
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixeloaks.tadotoss\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mqa2P89qR9uOFSVBAPRQ",
+        "video": "https:\/\/vimeo.com\/108670566",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fBHdmnTQpK62utoBmIFm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/92FNiI3pSHSFFLiAkOA2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5qGh9UT7SQqi3VwsjlWy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g9a0LvEmSb2H1BwHB0ov",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qkZLCXCsS9WXqyVmzUHd"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/108670566"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/d2fp70_ouya-screenshot20141016-2-12t82b3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/thumbnails\/thumbnail20141016-2-1kzzrit.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/976cis_ouya-screenshot20141016-2-11rfmvi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/thumbnails\/thumbnail20141016-2-tctth8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/n7sb1g_ouya-screenshot20141016-2-18oaqms.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/thumbnails\/thumbnail20141016-2-2louk4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/jds0yz_ouya-screenshot20141016-2-ma20ae.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/thumbnails\/thumbnail20141016-2-3v5adv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/k2e8vi_ouya-screenshot20141016-2-1of8nak.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76b2babf-719c-4040-ba33-30d73c0dc36e\/thumbnails\/thumbnail20141016-2-1mkapap.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9faab2cc-5b17-4449-a8a0-3c951720384d",
+        "name": "Pixel Oaks",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "pixeloaks.com",
+    "firstPublishedAt": "2014-10-19T01:49:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Pixel Oaks.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.83,
+        "count": 58
+    }
+}

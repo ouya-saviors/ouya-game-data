@@ -1,0 +1,97 @@
+{
+    "packageName": "com.sharkbombstudios.hipsterzombies",
+    "title": "Hipster Zombies",
+    "description": "When hipsters turn themselves into zombies and haunt the living it's time to fight back. Ironically.\r\n\r\nFight against legions of pretentious undead in this light-hearted arcade action game.\r\n\r\n*******************************\r\n\r\nAt night the hipsters leave their hiding holes to shamble towards you looking for brains. Brains and vintage clothes. Now it's your job to stop them from infecting and plundering your neighborhood. Granted, it's not that bad a job if you ignore the lethal risks. After all you get to frag some zombies.\r\n\r\n- Wield a variety of different ironic trash-weapons\r\n- Collect coins to upgrade and add to your arsenal\r\n- Defend different locales of your neighborhood against the hipster horde\r\n- Freely move in 2 directions!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2.6",
+            "versionCode": 0,
+            "uuid": "30e2bf80-ccc0-4c0d-8e49-90baa130504f",
+            "date": "2014-04-04T15:09:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/cf861530-d4aa-4ea8-b210-5fa2113c57e5\/com.sharkbombstudios.hipsterzombies\/30e2bf80-ccc0-4c0d-8e49-90baa130504f\/5Da1YoQvS4aGa9hLCl1r_hipsterzombies.apk",
+            "size": 19615860,
+            "md5sum": "36c5028faee7fdbde51648db17505577",
+            "publicSize": 1048985,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sharkbombstudios.hipsterzombies\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/88IJYgJmRe1U9Uf62po7",
+        "video": "https:\/\/vimeo.com\/76336386",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ltoKWzMTSN09935JapkO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AmuC8ipaQGe9tLHrb2eR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uZkTFE3JQzKEVkuQ0eTi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m7YSWyAqSWGKLCp03AXh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XgnjVY3xTbynRdOwGavP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76336386"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ltoKWzMTSN09935JapkO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ltoKWzMTSN09935JapkO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AmuC8ipaQGe9tLHrb2eR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AmuC8ipaQGe9tLHrb2eR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uZkTFE3JQzKEVkuQ0eTi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uZkTFE3JQzKEVkuQ0eTi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m7YSWyAqSWGKLCp03AXh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m7YSWyAqSWGKLCp03AXh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XgnjVY3xTbynRdOwGavP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XgnjVY3xTbynRdOwGavP\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Sharkbomb Studios",
+        "supportEmail": "support@sharkbombs.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.hipsterzombies.net",
+    "firstPublishedAt": "2013-08-01T15:46:19Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Sharkbomb Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 127,
+        "average": 3.59,
+        "count": 138
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HipsterZombies-Unlock",
+            "name": "Unlock Hipster Zombies",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "packageName": "com.kronbits.therunningdead",
+    "title": "The Running Dead",
+    "description": "The Running Dead is a small game with a high difficulty gameplay on you run to survive from zombies.\r\n\r\nTo survive you can shoot and jump(or double jump) to avoid the various type of zombies including birds and wolfs.\r\n\r\nEach level is a day survived, can you survive 30 days? Try it!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.15",
+            "versionCode": 0,
+            "uuid": "1089d054-1361-48df-be04-62150f37880f",
+            "date": "2014-03-17T18:27:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/45dcb406-17a2-498d-8973-0710efe87de2\/com.kronbits.therunningdead\/1089d054-1361-48df-be04-62150f37880f\/BgNJ6iTxSjz7XU5XW3Pg_running_dead_v1_p15.apk",
+            "size": 1456626,
+            "md5sum": "d7d351c461b4e31e47b087dc7b1d3bfc",
+            "publicSize": 1736444,
+            "nativeSize": 404428
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kronbits.therunningdead\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/miiulr1CQ02UXV1zGGVi",
+        "video": "https:\/\/vimeo.com\/88515425",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/66FLOJobRHOFbfSLXcHl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zC8jJaifSWWohfIsMQUK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7IPeJHlaQB2hVJgEDcNI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L50aAz6TiuD3wkFNVP8m",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/osg2eASeSH6XbphudUUC"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/88515425"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/66FLOJobRHOFbfSLXcHl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/66FLOJobRHOFbfSLXcHl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zC8jJaifSWWohfIsMQUK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zC8jJaifSWWohfIsMQUK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7IPeJHlaQB2hVJgEDcNI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7IPeJHlaQB2hVJgEDcNI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L50aAz6TiuD3wkFNVP8m\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L50aAz6TiuD3wkFNVP8m\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/osg2eASeSH6XbphudUUC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/osg2eASeSH6XbphudUUC\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kronbits",
+        "supportEmail": "contact@kronbits.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.kronbits.com\/",
+    "firstPublishedAt": "2014-03-11T06:19:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Kronbits.",
+    "premium": false,
+    "rating": {
+        "likeCount": 38,
+        "average": 3.26,
+        "count": 296
+    }
+}

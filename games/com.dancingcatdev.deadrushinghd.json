@@ -1,0 +1,77 @@
+{
+    "packageName": "com.dancingcatdev.deadrushinghd",
+    "title": "Dead Rushing HD",
+    "description": "The Undead are rising and it is up to you to stop them and save the world!\r\n\r\nRun, punch, shoot and jump your way through varied environments with zombies and collect zombie heads to obtain new player upgrades!\r\n\r\nGame features : \r\n\u2022 Fast arcade game-play\r\n\u2022 Easy pick-up and play controls  \r\n\u2022 Large campaign with story across 5 stages\r\n\u2022 Normal zombies, special zombies and boss zombies\r\n\u2022 Random level generation \r\n\u2022 Player power-up system \r\n\u2022 Three difficulty levels\r\n\u2022 Varied and high-quality SFX and music",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "421932a1-61ca-4951-b00d-4bba633db031",
+            "date": "2013-10-22T21:38:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c0bc45d7-2de1-40b4-acbf-ffa475890bab\/com.dancingcatdev.deadrushinghd\/421932a1-61ca-4951-b00d-4bba633db031\/f5RAQpi7S12DGjQJWl86_monster.apk",
+            "size": 86606612,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dancingcatdev.deadrushinghd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qDQRRI5bSeaYGVSIU6Ct",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XXf4FJyjSoaWoYhcwWtQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wNEAm0NcQu21oNpLsI9r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vslSl1dyTBaTgWRzEUYJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IUsApaUSKmLEybTR1g1y"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XXf4FJyjSoaWoYhcwWtQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XXf4FJyjSoaWoYhcwWtQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wNEAm0NcQu21oNpLsI9r\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wNEAm0NcQu21oNpLsI9r\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vslSl1dyTBaTgWRzEUYJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vslSl1dyTBaTgWRzEUYJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IUsApaUSKmLEybTR1g1y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IUsApaUSKmLEybTR1g1y\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dancing Cat Development",
+        "supportEmail": "dancingcatdev@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/twitter.com\/DancingCatDev",
+    "firstPublishedAt": "2013-10-09T20:22:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Dancing Cat Development.",
+    "premium": false,
+    "rating": {
+        "likeCount": 90,
+        "average": 3.01,
+        "count": 181
+    }
+}

@@ -1,0 +1,141 @@
+{
+    "packageName": "com.plantpot.fingerhoola",
+    "title": "Finger Hoola",
+    "description": "Spin rings around your fingers and escape into a world of ambient sound and abstract shapes.\r\n\r\nDevelop your dexterity and unwind your mind.\r\n\r\nWARNING: Moments of meditative focus can lead to sensory climax. Grass skirt NOT required.\r\n\r\n* This is the new Special Edition with extra content and an enhanced UI.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Kids List",
+        "Meditative",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "3.0.1",
+            "versionCode": 0,
+            "uuid": "89bcd0e6-6887-42b1-bd5d-4becbd3b0679",
+            "date": "2014-09-23T19:13:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0bafec9f-4338-4e8f-a60a-d2056a96802e\/com.plantpot.fingerhoola\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/shLFvMaYRA2YjASFFQZT_FingerHoola.apk",
+            "size": 40933088,
+            "md5sum": "ce26b246cd427726bcef81f8b51f8ac0",
+            "publicSize": 1337403,
+            "nativeSize": 4155552
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.plantpot.fingerhoola\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IAAJn08OQdejLjxitumn",
+        "video": "https:\/\/vimeo.com\/106620138",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P96OTv3SkGWdMFiWBAMN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ijeRV9SfSH2wspGXGo7O",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UQuYGeVYQLykFNsnqPv0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JqYEwdKgR8WGOX6rcpzY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ysfx42zeR7OibhGOkDTT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lIXcuaKCQW2AHjdqqI0Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q5zmNFWYRGK0dBIBg9yb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9jUuV3cR9CzBVCQHzyfS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AojnDGEUQmytIEWQaSgF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NHBr1FQ6SPWgLXltmtb0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sj512hZoSjuEclSyFCtg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UBSp2QU1TeynoCwIE51h"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/106620138"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/vy50wl_ouya-screenshot20140923-2-1yt0ecu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-4tekp8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/wtle65_ouya-screenshot20140923-2-t5wimq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-16d1w6k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/9qt1y8_ouya-screenshot20140923-2-zwwdwn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-1k1v67d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/2xgeju_ouya-screenshot20140923-2-1869d6g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-1s4nys1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/6u0w1w_ouya-screenshot20140923-2-1mi0n2n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-1a1lta1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/6kark_ouya-screenshot20140923-2-1y0xge9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-m6qhtc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/jegrhe_ouya-screenshot20140923-2-ykywb2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-18tkl4k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/33hg0u_ouya-screenshot20140923-2-wdpf1x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-1sm36uy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/di6q52_ouya-screenshot20140923-2-1qjysi4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-27i2hn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/2inz5o_ouya-screenshot20140923-2-fb6t9p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-7r3tic.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/upfm72_ouya-screenshot20140923-2-1ou3l6u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-1wulcuj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/pakwio_ouya-screenshot20140923-2-9a426e.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89bcd0e6-6887-42b1-bd5d-4becbd3b0679\/thumbnails\/thumbnail20140923-2-194ozi3.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Plant Pot",
+        "supportEmail": "support@plantpot.co",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.fingerhoola.com",
+    "firstPublishedAt": "2014-09-23T19:13:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Plant Pot.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.41,
+        "count": 58
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "FingerHoolaPlus",
+            "name": "Finger Hoola - FULL GAME",
+            "description": "Spin rings around your fingers and escape into a world of ambient sound and abstract shapes.\r\n\r\nDevelop your dexterity and unwind your mind.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

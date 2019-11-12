@@ -1,0 +1,71 @@
+{
+    "packageName": "tv.twitch.android.viewer",
+    "title": "TwitchTV",
+    "description": "Watch Twitch streams.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "@0x7f060025",
+            "versionCode": 0,
+            "uuid": "90d08085-0c6b-4042-90b0-2860e96c16fe",
+            "date": "2013-10-07T21:47:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/283fcc73-2332-4a6e-aa06-9bf737ae18cc\/tv.twitch.android.viewer\/90d08085-0c6b-4042-90b0-2860e96c16fe\/iAeoCq28TiSSHzHVY44P_twitch-android.apk",
+            "size": 7065958,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/tv.twitch.android.viewer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bfzYygTZTvyNyBWyPjzX",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kDzXLMUSOCIh24QWNR0A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IsC6UInkRKEM9OoHnE7K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QGkWlRuRQGsHCGlmlqbh"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kDzXLMUSOCIh24QWNR0A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kDzXLMUSOCIh24QWNR0A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IsC6UInkRKEM9OoHnE7K\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IsC6UInkRKEM9OoHnE7K\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QGkWlRuRQGsHCGlmlqbh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QGkWlRuRQGsHCGlmlqbh\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TwitchTV",
+        "supportEmail": "support@twitch.tv",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "www.twitch.tv",
+    "firstPublishedAt": "2013-03-28T18:08:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by TwitchTV.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1104,
+        "average": 4.02,
+        "count": 733
+    }
+}

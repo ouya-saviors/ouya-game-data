@@ -1,0 +1,84 @@
+{
+    "packageName": "com.AGameAWeek.AlienSpindome_I15",
+    "title": "Alien Spindome",
+    "description": "Guide your trusty Space Adventurer through the crazy spinning world, battling against evil alien bugs, and blasting away the giant spinning asteroids.\r\nStep on the platforms until they're green, then hit the spin button to start it all over again.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "0ea1623f-c3e3-421f-91fd-d631a3c3538b",
+            "date": "2016-01-04T22:41:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.AlienSpindome_I15\/cada89f7-57f3-461d-b09c-b74453e61262\/D4vsUwvOSV7Vi1VtSvKw_MonkeyGame-debug.apk",
+            "size": 7038660,
+            "md5sum": "cfa99437b4d6b7637ff83caf808f33f5",
+            "publicSize": 130692,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.alienspindome_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nqQoMFjFSe2WrUzVBUDt",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nFklb8n8SwqAdZgvxVbE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pvMnytBER5aEAYCJj1r9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ck37zNOsTxGXumpeFcTA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/muBI34B1SUaZz1q6EVd1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/syLmVp4nR5GJm1jp3xjA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/lc4q3x_ouya-screenshot20151231-3-5h7xkg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/thumbnails\/thumbnail20151231-3-1tt65wn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/m5chlp_ouya-screenshot20151231-3-rxcpaj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/thumbnails\/thumbnail20151231-3-z0h6wu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/b8cxx0_ouya-screenshot20151231-3-q2gkue.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/thumbnails\/thumbnail20151231-3-4t4jq4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/aixw24_ouya-screenshot20151231-3-1rlu9b3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/thumbnails\/thumbnail20151231-3-1m2ym4g.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/aniqvr_ouya-screenshot20151231-3-1m27ocd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ea1623f-c3e3-421f-91fd-d631a3c3538b\/thumbnails\/thumbnail20151231-3-5zw6e4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-09-23T18:18:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.14,
+        "count": 7
+    }
+}

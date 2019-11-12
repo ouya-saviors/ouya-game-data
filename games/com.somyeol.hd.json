@@ -1,0 +1,104 @@
+{
+    "packageName": "com.somyeol.hd",
+    "title": "Somyeol HD",
+    "description": "Somyeol HD is a remake of the successful 2D Puzzle Platformer Somyeol in which you have to rescue the almost extinct species of the Somyeols. Guide them home while controlling multiple Somyeols at once. Somyeol is a mix of  Super Mario or Sonic like  Jump and Run games and the classic game Lemmings.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 0,
+            "uuid": "926ec61e-7e95-4688-a1e6-08bb7a755f5d",
+            "date": "2013-10-21T21:09:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/72d6442e-f007-4d70-ac43-27ec7ff29104\/com.somyeol.hd\/926ec61e-7e95-4688-a1e6-08bb7a755f5d\/jLqEkDtXT2GcaVVztt9H_Somyeol%20HD.apk",
+            "size": 59398146,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.somyeol.hd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0lizPjaSeuIZLNlbwuKO",
+        "video": "https:\/\/vimeo.com\/76822018",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vmZ5HCWPQWetN0TdY5MI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NYdruRXYQSaFHsVttDqT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WF8Z8BGRTerUcXg6YFfO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s2p4VOYUR3yBtGzollbH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r4UvPeDCQvWoYC7fK3U9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yYhOftITRvGskWllFM0X"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76822018"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vmZ5HCWPQWetN0TdY5MI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vmZ5HCWPQWetN0TdY5MI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NYdruRXYQSaFHsVttDqT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NYdruRXYQSaFHsVttDqT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WF8Z8BGRTerUcXg6YFfO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WF8Z8BGRTerUcXg6YFfO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s2p4VOYUR3yBtGzollbH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s2p4VOYUR3yBtGzollbH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r4UvPeDCQvWoYC7fK3U9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r4UvPeDCQvWoYC7fK3U9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yYhOftITRvGskWllFM0X\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yYhOftITRvGskWllFM0X\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lubitz, Kolja; Waschkau, Jannik GbR",
+        "supportEmail": "support@somyeol.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.somyeol.com",
+    "firstPublishedAt": "2013-10-03T11:24:34Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Lubitz, Kolja; Waschkau, Jannik GbR.",
+    "premium": false,
+    "rating": {
+        "likeCount": 25,
+        "average": 3.6,
+        "count": 5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_game1",
+            "name": "Unlock Full Game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

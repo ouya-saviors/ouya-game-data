@@ -1,0 +1,102 @@
+{
+    "packageName": "com.Lightstorm3D.GeneEffect",
+    "title": "Gene Effect",
+    "description": "Gene Effect is a side scrolling action-adventure. Explore ancient alien mines on the planet Kratoss. Collect resources on your way through deep mines and fight against natural phenomena, biological threats and mechanical devices. You can solve optional puzzles that unlock hidden areas containing relics, artifacts and other goodies. \r\n\r\nUpgrade your ship with artifacts and experience an epic story that unfolds using multiple, interweaved storylines. \r\n\r\nEnjoy Gene Effect over and over again with randomized level content, 3 difficulty levels and different play styles. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "1.3.4",
+            "versionCode": 0,
+            "uuid": "4dda84af-1759-4895-8b4e-bb51ec0d09eb",
+            "date": "2014-01-27T20:15:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8e47447d-c73f-4e87-90eb-fdfa4d92886a\/com.Lightstorm3D.GeneEffect\/4dda84af-1759-4895-8b4e-bb51ec0d09eb\/KoZWsjDYQxugqVhExo8K_GeneEffect.apk",
+            "size": 138847578,
+            "md5sum": "b4849471984d9b79a8ecabc8e320a1a5",
+            "publicSize": 480513,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lightstorm3d.geneeffect\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CoT8Wx97TE2KU2nst5uS",
+        "video": "https:\/\/vimeo.com\/85102171",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KdefDQyQCyQokXJ95ccg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lolDHWXoSjmjnSCVRnui",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NZNJqSqQaamkCE11SHjq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QHIpiBf4RiNNs4Ks1gnf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pjI4AowQoGEy6yjKwy6I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iVZBSB5NTdAWERnfPVIw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/85102171"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KdefDQyQCyQokXJ95ccg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KdefDQyQCyQokXJ95ccg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lolDHWXoSjmjnSCVRnui\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lolDHWXoSjmjnSCVRnui\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NZNJqSqQaamkCE11SHjq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NZNJqSqQaamkCE11SHjq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QHIpiBf4RiNNs4Ks1gnf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QHIpiBf4RiNNs4Ks1gnf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pjI4AowQoGEy6yjKwy6I\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pjI4AowQoGEy6yjKwy6I\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iVZBSB5NTdAWERnfPVIw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iVZBSB5NTdAWERnfPVIw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lightstorm3D",
+        "supportEmail": "service@lightstorm3d.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.geneeffect.com",
+    "firstPublishedAt": "2014-01-27T20:15:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Lightstorm3D.",
+    "premium": false,
+    "rating": {
+        "likeCount": 192,
+        "average": 3.91,
+        "count": 350
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "GE1_Full",
+            "name": "Gene Effect",
+            "description": "Explore the future of mankind in this side scrolling space-adventure.",
+            "localPrice": 5.99,
+            "originalPrice": 5.99,
+            "currency": "EUR"
+        }
+    ]
+}

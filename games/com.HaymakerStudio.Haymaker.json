@@ -1,0 +1,99 @@
+{
+    "packageName": "com.HaymakerStudio.Haymaker",
+    "title": "Haymaker",
+    "description": "Haymaker is a two player beat em up set in America in the golden 50's. Meet crazy and unique fighting champions like 'Lastermann' or 'Officer Johnson'. Grab a friend, or try your luck against the computer, and get into fight!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Kids List",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "30bbb174-e24e-447d-ba82-7dcd1ac68432",
+            "date": "2014-05-22T07:35:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/476498be-57bd-41bd-8479-8e6fd2652bd4\/com.HaymakerStudio.Haymaker\/30bbb174-e24e-447d-ba82-7dcd1ac68432\/z9rBenBnTn8y2n3uSsBp_haymaker.apk",
+            "size": 62364876,
+            "md5sum": "b1eda43c6a085134c6c50e80c85339da",
+            "publicSize": 466236,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.haymakerstudio.haymaker\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KuZxMggFSyyZakWBjgEK",
+        "video": "https:\/\/vimeo.com\/90647539",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t5aAlQMuGghKGwvI8yw9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ayE2ncfQpOabArsYUKQ4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9mZ0wqHTD2TgzeA6yoSA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UxrWsuNwSgSjNnLlEEcQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0rEAKO6TcSWQYGkgoGZI"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90647539"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/t5aAlQMuGghKGwvI8yw9",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/t5aAlQMuGghKGwvI8yw9"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ayE2ncfQpOabArsYUKQ4",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ayE2ncfQpOabArsYUKQ4"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9mZ0wqHTD2TgzeA6yoSA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9mZ0wqHTD2TgzeA6yoSA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UxrWsuNwSgSjNnLlEEcQ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UxrWsuNwSgSjNnLlEEcQ"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0rEAKO6TcSWQYGkgoGZI",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0rEAKO6TcSWQYGkgoGZI"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Haymaker",
+        "supportEmail": "mail@thorstenruploh.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/www.facebook.com\/HaymakerTheGame",
+    "firstPublishedAt": "2014-05-22T07:35:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Haymaker.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.53,
+        "count": 106
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_game",
+            "name": "Full Game",
+            "description": "Unlock the full game experience. Fight with every character on every stage! Even in multiplayer!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

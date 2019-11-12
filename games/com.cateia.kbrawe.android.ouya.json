@@ -1,0 +1,96 @@
+{
+    "packageName": "com.cateia.kbrawe.android.ouya",
+    "title": "Kaptain Brawe: A Brawe New World",
+    "description": "Step into this whimsical point-and-click interstellar adventure and see what it takes to be a real Space Police officer! In this alternate reality, get ready to embark on a journey filled with quests, conspiracies and general chaos. You will have to step into the shoes of the brave Kaptain Brawe and follow the trail of two kidnapped alien scientists. Explore four colorful and mysterious planets while meeting intriguing and unique characters. Become a part of this hilarious story and reveal the great Space Age conspiracy in Kaptain Brawe: A Brawe New World.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "7fa5c838-32e3-46a8-ae66-fefba4f6686e",
+            "date": "2014-07-31T17:30:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2720bedf-a2a1-4ac6-a25c-7f46289998e5\/com.cateia.kbrawe.android.ouya\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/9tjQeN87QJ2ABfDc87cC_com.cateia.kbrawe.android.ouya-release.apk",
+            "size": 335686907,
+            "md5sum": "814c94bc1a92f0110b117297103ee608",
+            "publicSize": 620185,
+            "nativeSize": 5369192
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hqrIDw1REquUp1O2gUKv",
+        "video": "https:\/\/vimeo.com\/102113342",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZDsRl0dRXyI9kD2oaXFr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ev5z1j0cSQyiWzTFYpGL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oQsvKniSxWgJgRaN1jTQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jhRUbIqyTruZfFsPBjGm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fi9k4nEHTEi4ANaGsJWS"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102113342"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/exp8kc_ouya-screenshot20140730-2-1ykq1rj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-1rrazhk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/h4i315_ouya-screenshot20140730-2-tacn1x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-53ks8x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/clh3hl_ouya-screenshot20140730-2-c2zp9n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-jiqplx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/bf4otq_ouya-screenshot20140730-2-81mdk7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-1ftfdy8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/nby9le_ouya-screenshot20140730-2-pit41h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-bbxq9r.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "2720bedf-a2a1-4ac6-a25c-7f46289998e5",
+        "name": "Cateia Games",
+        "supportEmail": "support@cateia.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.cateia.com",
+    "firstPublishedAt": "2014-07-31T17:30:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Cateia Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.85,
+        "count": 48
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "kbrawe_unlock",
+            "name": "Kaptain Brawe Full Game Unlock",
+            "description": "Unlock's the full game. (Limited time offer, now 50% off!)",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

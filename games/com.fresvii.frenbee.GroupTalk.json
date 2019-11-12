@@ -1,0 +1,84 @@
+{
+    "packageName": "com.fresvii.frenbee.GroupTalk",
+    "title": "Frenbee GroupTalk",
+    "description": "Frenbee GroupTalk is a group messenger app for OUYA. You can enjoy creating private\/public game groups and have group talks with all your friends on OUYA!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Kids List",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5.16",
+            "versionCode": 0,
+            "uuid": "bbc63dc9-2283-4ac8-b716-c7ec42606dcd",
+            "date": "2014-08-11T04:36:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/681fd261-577c-4690-9a0f-cd56c06254ba\/com.fresvii.frenbee.GroupTalk\/d7562d3d-f6e1-403d-bebf-7cc005b3406a\/DDRCdr9yQji0V3sTtLVV_FrenbeeOuya1.0.5.16rs%2B.apk",
+            "size": 26335384,
+            "md5sum": "b4a2a8464120fb475da335ee2ac81abe",
+            "publicSize": 105181,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fresvii.frenbee.grouptalk\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OcwbMUovRiSiHVcMJfRI",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B5ubmjQIToSHViWwBndT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UKZTrzpuRdmn5PoJFM7N",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OEw03oHcT164lbuIhi0z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oTRf3H9YRTC137PGW6Ag",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L0bOYNSE6P9mHcMpN7zw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/kagpbz_ouya-screenshot20140726-2-5r7jll.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/thumbnails\/thumbnail20140726-2-13az6rs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/r18z8b_ouya-screenshot20140726-2-ff5p0r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/thumbnails\/thumbnail20140726-2-1o1ln9c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/ppk8f4_ouya-screenshot20140726-2-1c4ijy1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/thumbnails\/thumbnail20140726-2-1tv5n4t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/h63eeb_ouya-screenshot20140726-2-1d6iu0r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/thumbnails\/thumbnail20140726-2-17s12n7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/dpwks9_ouya-screenshot20140726-2-1kh8ga9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bbc63dc9-2283-4ac8-b716-c7ec42606dcd\/thumbnails\/thumbnail20140726-2-sjhrhi.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "681fd261-577c-4690-9a0f-cd56c06254ba",
+        "name": "Fresvii, Inc.",
+        "supportEmail": "contact@fresvii.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/fresvii.com",
+    "firstPublishedAt": "2013-06-18T14:29:48Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Fresvii, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 83,
+        "average": 4.06,
+        "count": 16
+    }
+}

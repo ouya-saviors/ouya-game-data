@@ -1,0 +1,82 @@
+{
+    "packageName": "es.Bluelephant.skullbaby",
+    "title": "skullbaby",
+    "description": "Skullbaby is a Platform game inspired in Halloween. It's a 2D scroller. Jump, shot and fly to avoid the enemies facing you. It features 25 levels and will be updated with many more levels. Play alone or with your friend, cooperate with him to reach the end of each level. Stay tuned for more content coming!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.55",
+            "versionCode": 0,
+            "uuid": "2568cf0c-5dcd-498d-8636-1cb3a5f7c9c5",
+            "date": "2013-10-28T20:54:58Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d08efa9d-b83f-49c5-949b-56694977ebd9\/es.Bluelephant.skullbaby\/2568cf0c-5dcd-498d-8636-1cb3a5f7c9c5\/SLNCU0gVR7eh2VxuwAMM_skullbaby-Default-1.0.28.apk",
+            "size": 17962338,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/es.bluelephant.skullbaby\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dL709xXCQ4SPHOx4VL3c",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YLNq4NuUQuqu1CfIUpQx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9udG3KtUQ7aBTCPck7R5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cyTdkAjoQSurhN3cHZwv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A0YIDnOR1qLnRHHevhF1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6OP9zb6bQOyNQjh4pClY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YLNq4NuUQuqu1CfIUpQx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YLNq4NuUQuqu1CfIUpQx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9udG3KtUQ7aBTCPck7R5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9udG3KtUQ7aBTCPck7R5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cyTdkAjoQSurhN3cHZwv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cyTdkAjoQSurhN3cHZwv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A0YIDnOR1qLnRHHevhF1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A0YIDnOR1qLnRHHevhF1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6OP9zb6bQOyNQjh4pClY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6OP9zb6bQOyNQjh4pClY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mediatek Sistemas S.C.",
+        "supportEmail": "agus@mediatek.es",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.bluelephant.es\/",
+    "firstPublishedAt": "2013-10-28T20:54:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Mediatek Sistemas S.C..",
+    "premium": false,
+    "rating": {
+        "likeCount": 19,
+        "average": 3.35,
+        "count": 17
+    }
+}

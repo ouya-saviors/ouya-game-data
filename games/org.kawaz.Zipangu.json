@@ -1,0 +1,75 @@
+{
+    "packageName": "org.kawaz.Zipangu",
+    "title": "Zipangu3",
+    "description": "Shoot the bomb and mine the golds!\r\nThis is an old-style fighting game.\r\n\r\nThis game requires two players.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "b98b054e-720b-4aee-8bc0-f92d52a86923",
+            "date": "2015-03-25T01:23:13Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bb880e87-0f9b-420b-ba59-486321d4f875\/org.kawaz.Zipangu\/b98b054e-720b-4aee-8bc0-f92d52a86923\/m4s8avpVSMC9ANDHsRqm_Zipangu-release.apk",
+            "size": 9051682,
+            "md5sum": "adb5a9f3f8709667573bf7e34b0134dd",
+            "publicSize": 556703,
+            "nativeSize": 4142060
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.kawaz.zipangu\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/llA0mDS2QAWTZ4HznxQp",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bmR0u2iQTa28hUzGl9gi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CwryWLjQH2h80UibxIhY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Jku8v5XTOFTfdGtUBdGA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6CYyE5pjQeWahfvPLqg7"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/g3798h_ouya-screenshot20150322-3-vxrd2f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/thumbnails\/thumbnail20150322-3-v89ann.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/8wx9cn_ouya-screenshot20150322-3-1wpgfc0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/thumbnails\/thumbnail20150322-3-4bqs07.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/1zfchc_ouya-screenshot20150322-3-wje1j8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/thumbnails\/thumbnail20150322-3-t346xp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/2tijtc_ouya-screenshot20150322-3-18fs7j4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b98b054e-720b-4aee-8bc0-f92d52a86923\/thumbnails\/thumbnail20150322-3-1litqt8.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kawaz",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-03-25T01:23:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Kawaz.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.3,
+        "count": 10
+    }
+}

@@ -1,0 +1,108 @@
+{
+    "packageName": "com.soulareus.HardLander",
+    "title": "Hard Lander",
+    "description": "The worlds first competitive 4 player rocket acrobatics game! Hone your piloting skills in challenge mode, then test them on your friends!\nversion 0.88 11\/08\/2014\n-New Level: \"Laser Tag\" where all ships have a laser weapon!!\n-More FREE levels and now it randomizes between them for more demo fun!\n-Laser Lab laser is now much easier to use\n-Tons of updates to levels including sharper graphics\n-Improved screen wrapping and smashed many bugs\nversion 0.86 10\/08\/2014\n-New free multiplayer level for demo users: Asteroids!\n-New Level Teeter Totter!\n-Asteroids are all procedurally generated now! \n-You can drop bombs on graveyard if you fly fast enough.\n\nversion 0.85 9\/14\/2014\n- Removed slow mo from Sumo Level, allows new strategies such as shoving to win!\n- Removed ship top mass by 30%.  Now ships have a lower center of gravity Which helps to balance when hovering.  Also Ships are now faster and land a little easier.  Should be more new user friendly.  Something for everybody!\n\nversion 0.84 8\/27\/2014\n-Updated Multiplayer level Laser Lab: New controllable laser to better balance risk reward  and make it more fun.\n-Updated Multiplayer level Death Sphere:  added large lasers to allow easier sphere rotation and laser melting.  Moved activation pads to the ehem, pads.  Increased size of death sphere slightly.\n\nversion 0.83 8\/2\/2014\n-Added trophies to challenge mode.\n-Improved random multiplayer option, added death sphere to random\n-Fixed Laser lab laser Glitch\n\nversion 0.8\n-Added new multiplayer level: Death Sphere.\n-completely retooled controller system.\n-tweaked final flight school level.\n\nversion 0.76\n-reduced mass of asteroids to make them easier to hit your friends with.\n-added screen shake on explosion.\n-removed ship on ship collision on sumo level\n-fixed teams multiplayer point icons.\n-increased resolution of some textures.\n\nversion 0.7\n-Changed FREE multiplayer level to TOWER!\n-Many graphics improvements to both one player and multiplayer.\n-Added point icons and win icons to multiplayer.\n-Added opposing thrusters to space levels for more controlled turns.\n-bug fixes\n\nv0.51: \nAdded Lasers to Laser Lab, Random option, bug fixes.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "0.88",
+            "versionCode": 0,
+            "uuid": "4fc82738-e56a-4796-a132-59812662ff51",
+            "date": "2014-11-11T23:36:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5520a6e2-867d-4dad-8946-a9133409f46f\/com.soulareus.HardLander\/4fc82738-e56a-4796-a132-59812662ff51\/T073ZfFbSXi9viRg1BDy_hardLander.apk",
+            "size": 32650071,
+            "md5sum": "9adb5002c1ea82eba69ac26838768100",
+            "publicSize": 830770,
+            "nativeSize": 14985148
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.hardlander\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c5G5V7a4TaGlokwXAiiX",
+        "video": "http:\/\/vimeo.com\/111137549",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ACvfjl6RZ2f7GkreETC0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TuG86tgTv8Aj5M9aYTwn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OkF0meQXyExKYGyXGnbg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RxTj7l2gRIWVxYIxkrSP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4b17Ww1YT8Koot7E3evR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k1tVKeXOS56CU6E7dUQ3"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/111137549"
+            },
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/97501454"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/vewols_ouya-screenshot20141018-2-1fa11ng.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/thumbnails\/thumbnail20141018-2-6z0of2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/lduwri_ouya-screenshot20141018-2-1y016f6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/thumbnails\/thumbnail20141018-2-1ka7uuo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/uh7cy9_ouya-screenshot20141018-2-m7rie3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/thumbnails\/thumbnail20141018-2-11pbh81.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/rubkin_ouya-screenshot20141018-2-15vrsho.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/thumbnails\/thumbnail20141018-2-6eimuw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/7q0fq_ouya-screenshot20141018-2-7ut7th.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/thumbnails\/thumbnail20141018-2-18x1vx1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/9a6woa_ouya-screenshot20141018-2-g8izvj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4fc82738-e56a-4796-a132-59812662ff51\/thumbnails\/thumbnail20141018-2-12zj914.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Soulareus Interactive",
+        "supportEmail": "nicbiondi@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.indiedb.com\/games\/hard-lander",
+    "firstPublishedAt": "2014-05-01T19:18:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Soulareus Interactive.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 3.62,
+        "count": 278
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HardLanderFullGame",
+            "name": "Hard Lander Full Game",
+            "description": "This purchase entitles you to the full Hard Lander experience.  This includes existing and future single-player and multi-player levels.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

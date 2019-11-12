@@ -1,0 +1,83 @@
+{
+    "packageName": "com.sheldonmacdonald.icebrawlers",
+    "title": "Ice Brawlers",
+    "description": "Ice Brawlers is a 1 to 2 player arcade style hockey game with no rules.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "85eda95e-5e40-4ca7-bec0-25a2841491ab",
+            "date": "2014-11-19T23:39:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fbac95fd-f332-4176-b7ce-54f7190b03f8\/com.sheldonmacdonald.icebrawlers\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/ecLIjOeQTsqqS0WcJpnl_Ice%20Brawlers.apk",
+            "size": 11223721,
+            "md5sum": "9909fa4c9cae6ecdb999ba2a1141128e",
+            "publicSize": 368198,
+            "nativeSize": 7083556
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sheldonmacdonald.icebrawlers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2cBFUTWcTSUb28018pvA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5xqkprOQTy2uBXrmUVS9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eAI3hK26RxWAM34brNCV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AqoAtrTyQveBtenwnUBd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OHbDYImlTEG6AjmIHBee",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iUxRlpMPRTgVSDfv20wY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/5siujn_ouya-screenshot20141118-2-1dkgvm6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/thumbnails\/thumbnail20141118-2-13i4vcd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/7v4ci2_ouya-screenshot20141118-2-1af64ad.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/thumbnails\/thumbnail20141118-2-eu7bjc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/m9v1rv_ouya-screenshot20141118-2-1oykwbz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/thumbnails\/thumbnail20141118-2-vbl3m5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/9d49xf_ouya-screenshot20141118-2-18ycjnd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/thumbnails\/thumbnail20141118-2-k4l0aq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/fql1d2_ouya-screenshot20141118-2-1e59hwf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/85eda95e-5e40-4ca7-bec0-25a2841491ab\/thumbnails\/thumbnail20141118-2-1g7m5s8.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "softmotion3d",
+        "supportEmail": "smd_3d@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.smotion3d.com",
+    "firstPublishedAt": "2014-02-10T23:34:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by softmotion3d.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 2.87,
+        "count": 38
+    }
+}

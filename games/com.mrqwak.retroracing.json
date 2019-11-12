@@ -1,0 +1,98 @@
+{
+    "packageName": "com.mrqwak.retroracing",
+    "title": "Retro Racing",
+    "description": "From the same developer behind the classic Amiga racers, Nitro (Psygnosis) and ATR (Team17). \r\n\r\nChoose your car, then skid, slide, spin and drive around the track at break neck speed, collecting power-ups as you go. Master the perfect racing line, avoid other cars and cones, and speed your way to victory in this adrenaline pumping top-down racer...\r\n\r\n...for one or two players!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2.1",
+            "versionCode": 0,
+            "uuid": "00abe149-f112-41a7-a393-fa2b8e4a5fbc",
+            "date": "2013-07-09T21:49:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2eb0e359-57a9-4562-a51f-1104510b5995\/com.mrqwak.retroracing\/00abe149-f112-41a7-a393-fa2b8e4a5fbc\/wqJsvmokTViyIqjatgeS_retroracing.apk",
+            "size": 9710936,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mrqwak.retroracing\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MMwRiVITSkFptuvvkHrg",
+        "video": "https:\/\/vimeo.com\/62563177",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CH1JCIvkRZ0i1ay2F4MA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EX55fPsqSb6vz4uLUACz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xJGIch0KSx2Eme3zo1Dw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mMzrWHF5QZu4M9xBLg1g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dsDO5Am3RuuZVAfL4UB0"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/62563177"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CH1JCIvkRZ0i1ay2F4MA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CH1JCIvkRZ0i1ay2F4MA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EX55fPsqSb6vz4uLUACz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EX55fPsqSb6vz4uLUACz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xJGIch0KSx2Eme3zo1Dw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xJGIch0KSx2Eme3zo1Dw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mMzrWHF5QZu4M9xBLg1g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mMzrWHF5QZu4M9xBLg1g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dsDO5Am3RuuZVAfL4UB0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dsDO5Am3RuuZVAfL4UB0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mr Qwak",
+        "supportEmail": "info@mrqwak.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.mrqwak.com",
+    "firstPublishedAt": "2013-07-09T21:49:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Mr Qwak.",
+    "premium": false,
+    "rating": {
+        "likeCount": 571,
+        "average": 3.66,
+        "count": 940
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "0",
+            "name": "Retro Racing",
+            "description": "Unlock the FULL game!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

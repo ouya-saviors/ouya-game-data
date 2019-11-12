@@ -1,0 +1,87 @@
+{
+    "packageName": "com.Xyla.RushBros",
+    "title": "Rush Bros",
+    "description": "Rush Bros. \"Discover gameplay with custom music\" \r\n\r\nSplit screen & online play with automated match making. \r\n\r\nWhat is your fastest time? \r\n\r\nFeatures:\r\n\r\n1. 45+ action packed levels featuring music & custom levels of your favorite bands - Reverb nation, Infected mushroom, Xilent and many more...\r\n\r\n2. Use your own music library (mp3, oggs only) to the game and prove your platforming skills in the music-based arena! \r\n\r\n3. Dozens of secret passages & power-ups to complete levels in record time! \r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.08",
+            "versionCode": 0,
+            "uuid": "bf06e517-345b-44dd-bcc3-5e1cb409df71",
+            "date": "2013-07-15T15:49:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5a211474-15b4-4fce-a296-213f3d20af58\/com.Xyla.RushBros\/bf06e517-345b-44dd-bcc3-5e1cb409df71\/6jvUpaHBRrWUT7LQrAfg_RushBros.apk",
+            "size": 337128404,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.xyla.rushbros\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XY5KJYeEQn6dqQ4ZfLxY",
+        "video": "https:\/\/vimeo.com\/87814165",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Nh8WwUecRBCjc6XSfMH4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/psgne26eQd6Xa1UJHghT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cdokjtpsQeGeebIVNJgr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bq71XU3AQO2XSX0n5abH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NItEocEfTPSboabljGVO"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87814165"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Nh8WwUecRBCjc6XSfMH4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Nh8WwUecRBCjc6XSfMH4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/psgne26eQd6Xa1UJHghT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/psgne26eQd6Xa1UJHghT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cdokjtpsQeGeebIVNJgr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cdokjtpsQeGeebIVNJgr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bq71XU3AQO2XSX0n5abH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bq71XU3AQO2XSX0n5abH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NItEocEfTPSboabljGVO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NItEocEfTPSboabljGVO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "XYLA Entertainment LLC",
+        "supportEmail": "support@myxyla.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/playrushbros.com\/",
+    "firstPublishedAt": "2013-06-23T22:25:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by XYLA Entertainment LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 532,
+        "average": 3.8,
+        "count": 124
+    }
+}

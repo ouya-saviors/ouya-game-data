@@ -1,0 +1,87 @@
+{
+    "packageName": "com.danielmusial.bus2d",
+    "title": "Bus Driver 2d Experience Rush",
+    "description": "Driving a bus can be hard. Avoiding all the cars on the road, getting gas, and repairing your bus. You must do all of this in Bus Driving 2d experience rush. This game is all about driving a bus and ranking up your points to drive as far as possible. This is a rush to experience while driving a bus. Updates and news at http:\/\/bd2der.blogspot.com\/",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.0.11",
+            "versionCode": 0,
+            "uuid": "7d92b5cc-25d8-4117-9691-752a6da73021",
+            "date": "2014-08-06T23:26:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c70d4ab8-ca1e-4c2e-9dbc-25c8b6e83d74\/com.danielmusial.bus2d\/1be24431-ff7c-4433-afd4-067237d0178a\/WtcUDxVgSqZfJlVs0ovw_Bus_Driver_2D_experience_rush.apk",
+            "size": 15709958,
+            "md5sum": "36cc8bfe5cba356448a864b06cddd035",
+            "publicSize": 200352,
+            "nativeSize": 22785276
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yOqqT2zLR2ubqaHCGXGH",
+        "video": "https:\/\/vimeo.com\/97903311",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yAoOKbnSeeCDZIQfEX6i",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MwkxkP5SS9SPvVc12eIO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PhXB59uERNStgZmrR3MT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Cn5xUK1vSQeO4LNp9FXv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O4pZccmTToe4E88KkuXf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/97903311"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/tth7by_ouya-screenshot20140711-2-r9isqz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-v3irn0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/hulmzi_ouya-screenshot20140711-2-hsmhtb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-y0jhmh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/7dcpwv_ouya-screenshot20140711-2-ijxvrm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-sj18g4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/ayry5z_ouya-screenshot20140711-2-1jla8l3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-1lzy8m9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/vst37d_ouya-screenshot20140711-2-x9y7mh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-p2vig6.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c70d4ab8-ca1e-4c2e-9dbc-25c8b6e83d74",
+        "name": "Daniel Musial",
+        "supportEmail": "undeadbobop@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/bd2der.blogspot.com\/",
+    "firstPublishedAt": "2014-06-18T23:42:43Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Daniel Musial.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 1.81,
+        "count": 27
+    }
+}

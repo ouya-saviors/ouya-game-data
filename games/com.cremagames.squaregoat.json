@@ -1,0 +1,110 @@
+{
+    "packageName": "com.cremagames.squaregoat",
+    "title": "Oh My Goat",
+    "description": "Oh My Goat is a platform game packed with action and millimetric jumps in which reflexes are the key.  You will travel through different worlds and benefit from the skills of the animals you save to dodge and jump hundreds of obstacles that await you along the path. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4ea0476f-f7e3-4dc7-a800-d4a4a779fff7",
+            "date": "2013-12-02T23:08:48Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/497fdfe0-84aa-4c05-8630-1806d73047eb\/com.cremagames.squaregoat\/4ea0476f-f7e3-4dc7-a800-d4a4a779fff7\/mQYdeqfYTGOXvpJqPPJ0_SquareGoat-ouya.apk",
+            "size": 34838400,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cremagames.squaregoat\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bSVC8kQlR8ODpgzopC08",
+        "video": "https:\/\/vimeo.com\/80358785",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k3IAgcnDTEmw5EeGGvpw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gTcDjEKuRay6grmBh2Dv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jCz1LUMSPPhc1Fzbi7nA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sG8jkbltQwecr3BYIdNE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/liYQNvSKuTrov4tLaq5w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n6NwMsC6TSzGTd1M0gPu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vv6j0inpQSKuTPtk76y3"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/80358785"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/k3IAgcnDTEmw5EeGGvpw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/k3IAgcnDTEmw5EeGGvpw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gTcDjEKuRay6grmBh2Dv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gTcDjEKuRay6grmBh2Dv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jCz1LUMSPPhc1Fzbi7nA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jCz1LUMSPPhc1Fzbi7nA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sG8jkbltQwecr3BYIdNE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sG8jkbltQwecr3BYIdNE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/liYQNvSKuTrov4tLaq5w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/liYQNvSKuTrov4tLaq5w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/n6NwMsC6TSzGTd1M0gPu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/n6NwMsC6TSzGTd1M0gPu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Vv6j0inpQSKuTPtk76y3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Vv6j0inpQSKuTPtk76y3\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "CremaGames SL",
+        "supportEmail": "support@cremagames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.cremagames.com",
+    "firstPublishedAt": "2013-12-02T23:08:48Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by CremaGames SL.",
+    "premium": false,
+    "rating": {
+        "likeCount": 77,
+        "average": 3.82,
+        "count": 84
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock",
+            "name": "Unlock Game",
+            "description": "Unlock the full game with more than 380 levels!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

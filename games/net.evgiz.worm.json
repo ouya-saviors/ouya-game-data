@@ -1,0 +1,76 @@
+{
+    "packageName": "net.evgiz.worm",
+    "title": "Hellworm",
+    "description": "Become the king of the desert! Control the gigantic Hellworm and destroy as much as you can. Fight off an ever increasing wave of enemies while avoiding explosions and bullets to stay alive.\r\n\r\nBased off the award winning Death Worm by JTR, Hellworm provides hours of epic fun and challenging gameplay through 3 different gamemodes.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1.3",
+            "versionCode": 0,
+            "uuid": "454f524a-d754-4141-9f03-394f0a520d1e",
+            "date": "2013-08-28T21:43:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bf7befac-343c-44e4-ab99-b3bcda847d13\/net.evgiz.worm\/454f524a-d754-4141-9f03-394f0a520d1e\/aYQeG7YCTrCebYNfnztr_hellworm110.apk",
+            "size": 10094847,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.evgiz.worm\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BSK4PttaR7W0YKy3YFLT",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BADgEureSpCVY6aZxNlR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZTpDFEK8RuKuOeeBk0wq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3axA5u5QSry6d9W77AsO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YOFz314gStW5LD0HfTol"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BADgEureSpCVY6aZxNlR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BADgEureSpCVY6aZxNlR\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZTpDFEK8RuKuOeeBk0wq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZTpDFEK8RuKuOeeBk0wq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3axA5u5QSry6d9W77AsO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3axA5u5QSry6d9W77AsO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YOFz314gStW5LD0HfTol\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YOFz314gStW5LD0HfTol\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Evgiz",
+        "supportEmail": "me@evgiz.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "evgiz.net",
+    "firstPublishedAt": "2013-08-05T20:44:28Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Evgiz.",
+    "premium": false,
+    "rating": {
+        "likeCount": 137,
+        "average": 3.99,
+        "count": 84
+    }
+}

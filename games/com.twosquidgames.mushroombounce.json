@@ -1,0 +1,128 @@
+{
+    "packageName": "com.twosquidgames.mushroombounce",
+    "title": "MushRoom Bounce!",
+    "description": "MushRoom Bounce! is a unique, addictive, 2D physics game where you spin, bop, and blast Mushrooms into various holes to clear each level!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2.2",
+            "versionCode": 0,
+            "uuid": "b2b3b7b3-f60d-422e-8c38-1db609788fc9",
+            "date": "2014-01-24T23:25:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/55f84fb7-db0a-4359-8e3e-1aecefaa3f6e\/com.twosquidgames.mushroombounce\/b2b3b7b3-f60d-422e-8c38-1db609788fc9\/mUYOqHTxGJJNP1VBeutg_mushroombounce-ouya.apk",
+            "size": 37963839,
+            "md5sum": "dccf669adc609b1eafac011e7de6142b",
+            "publicSize": 339207,
+            "nativeSize": 739932
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.mushroombounce\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VCRo9jP6Tf2rArxTAHTM",
+        "video": "https:\/\/vimeo.com\/82799202",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VIW39rNHRW68eGFf0kp6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3jtIO9iZQROq67mGEGKq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vJf72nWOQimOOZpXI54C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2M0iy9u3TzH4DKlBR06k",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tuGDcKVDRiuzpo2eCEoK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/A4O2AsbbTuuueyKlL7dT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lBylHuSaTyCzMIs4jfdS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7eM3C8UQSySW3afbMqqZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aM5nXWTfTeGnInEAJG2q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rG1s5QJRoCjPyYbXeTNE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82799202"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VIW39rNHRW68eGFf0kp6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VIW39rNHRW68eGFf0kp6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3jtIO9iZQROq67mGEGKq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3jtIO9iZQROq67mGEGKq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vJf72nWOQimOOZpXI54C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vJf72nWOQimOOZpXI54C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2M0iy9u3TzH4DKlBR06k\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2M0iy9u3TzH4DKlBR06k\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tuGDcKVDRiuzpo2eCEoK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tuGDcKVDRiuzpo2eCEoK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/A4O2AsbbTuuueyKlL7dT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/A4O2AsbbTuuueyKlL7dT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lBylHuSaTyCzMIs4jfdS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lBylHuSaTyCzMIs4jfdS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7eM3C8UQSySW3afbMqqZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7eM3C8UQSySW3afbMqqZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aM5nXWTfTeGnInEAJG2q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aM5nXWTfTeGnInEAJG2q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rG1s5QJRoCjPyYbXeTNE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rG1s5QJRoCjPyYbXeTNE\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Two Squid Games",
+        "supportEmail": "matthew@twosquidgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.mushroombounce.com",
+    "firstPublishedAt": "2014-01-24T23:25:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Two Squid Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 12,
+        "average": 3.2,
+        "count": 15
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "100",
+            "name": "MushRoom Bounce! Premium Edition",
+            "description": "Get 62 levels including deluxe, all-new areas! The Moon, Old West, Mountains, and more! BONUS: Play as something other than the Bouncer!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

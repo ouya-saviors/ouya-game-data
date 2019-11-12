@@ -1,0 +1,80 @@
+{
+    "packageName": "com.initialsgames.InsideKitty",
+    "title": "Inside Kitty's Outside Adventure",
+    "description": "Go on a big adventure when Inside Kitty takes her first big adventure in the outside.\r\n\r\nInside Kitty's Outside Adventure is an endless runner with lush pixel art visuals by @r0bbieTheRobot.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "3",
+            "versionCode": 0,
+            "uuid": "225ea8df-6acc-45fd-9175-20b2d6e73c96",
+            "date": "2014-12-18T09:42:27Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1524df9e-c5bf-426d-86e9-2194298858c6\/com.initialsgames.InsideKitty\/d7c11d91-053f-4716-a7d8-86eb40e5b1ba\/hBbiCdzKRrSJe1Zrv9mO_com.initialsgames.InsideKitty-Signed.apk",
+            "size": 8911376,
+            "md5sum": "9f405ac38e5584d468ab39f8b58e9b44",
+            "publicSize": 42725,
+            "nativeSize": 3025284
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.insidekitty\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AKPagSEsSayLZLYPByB4",
+        "video": "https:\/\/vimeo.com\/114117580",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zv1LOmEjQWezECjGKg7i",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0JToBblQRimea8NJViwd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xxoT4sN7RKWLDEHm4Xgy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/niq4kBvkS629j5qdFsps"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/114117580"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/vb43es_ouya-screenshot20141210-2-1hrt8yy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-kobh3z.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/ri542s_ouya-screenshot20141210-2-1aouctk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-10fg8lo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/c5wc4b_ouya-screenshot20141210-2-1j19l2a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-1vybyj4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/4yy8xv_ouya-screenshot20141210-2-32fxda.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-i791j0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Initials",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.initialsgames.com",
+    "firstPublishedAt": "2014-12-09T02:06:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Initials.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.88,
+        "count": 339
+    }
+}

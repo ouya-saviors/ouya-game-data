@@ -1,0 +1,87 @@
+{
+    "packageName": "net.chillbro.games.forestrumble.android",
+    "title": "Forest Rumble!",
+    "description": "Cute pandas and racoons, what can be better? Well cute animals with hooks and bombs of course!\r\n\r\nForest rumble is a 2-4 player arena game with hooks, bombs, stuns and power-ups!\r\n\r\nChallenge your friends in VS. mode or play an all out rampage match in the Free For All mode.\r\n\r\n- Free\r\n- Local multiplayer with 2-4 players\r\n- Dual stick controls\r\n- Hooks and bombs\r\n- Cute animals and blood\r\n- Dash and stun\r\n- Weird sounds\r\n- Power-ups\r\n- Melee brawl\r\n- \u201cEpic\u201d music\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c495904a-eefb-4b5d-b213-fe184fe4d47b",
+            "date": "2014-09-01T18:25:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c8bf59cb-c0ca-4571-b4ae-6b985ed7c837\/net.chillbro.games.forestrumble.android\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/XD41nRBxSiwW3kAeckzn_ForestRumble-1.0.0-release.apk",
+            "size": 25745186,
+            "md5sum": "9c52dfa68f83270db6882df62009b4a6",
+            "publicSize": 1104840,
+            "nativeSize": 13432
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.chillbro.games.forestrumble.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/As2QaRiBSM2JGW8oAwad",
+        "video": "https:\/\/vimeo.com\/102634532",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tjO951yrS965QUEjYKtm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qchdNJgOQwWNDVd1mQLh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H8a2vQ6RTzu9H1saieMI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2vfhehIThmGdNgxShwwj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ycLxOnsTeyosmoFxntBm"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/102634532"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/ameh2k_ouya-screenshot20140824-2-fly7ep.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/thumbnails\/thumbnail20140824-2-of33n0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/nymilo_ouya-screenshot20140824-2-2xjlqv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/thumbnails\/thumbnail20140824-2-6u09gp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/yvgy71_ouya-screenshot20140824-2-13whcp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/thumbnails\/thumbnail20140824-2-7m9y2v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/jgfz2v_ouya-screenshot20140824-2-3bqhhx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/thumbnails\/thumbnail20140824-2-1icnffz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/irj4ai_ouya-screenshot20140824-2-16wg5yb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c495904a-eefb-4b5d-b213-fe184fe4d47b\/thumbnails\/thumbnail20140824-2-1n97198.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "chillbro studios",
+        "supportEmail": "info@chillbro.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/chillbro.net\/",
+    "firstPublishedAt": "2014-09-01T18:25:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by chillbro studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.73,
+        "count": 30
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "packageName": "air.WRCareer",
+    "title": "Wrestling Revolution",
+    "description": "The reigning champion of mobile wrestling is now the first through the curtain on OUYA! Immerse yourself in gaming's biggest ever wrestling universe - featuring over 300 characters and up to 20 of them in the ring at once.\r\n\r\nUpgrade to \"Pro\" to enjoy full access to the RPG-style career mode - as well as the editor and exhibition matches of your own creation.\r\n\r\nUse the directions to highlight an option and the buttons to change its value. The shoulder buttons are used as shortcuts to the icons in the top corners of each screen to either exit or access a sub-menu. Please observe the onscreen prompts and play through the tutorial for further information.\r\n\r\nYou should find that Xbox and PS3 controllers are supported - complete with an exclusive multi-player function!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.750",
+            "versionCode": 0,
+            "uuid": "81bbe435-0e58-4e52-970a-42f387823d5e",
+            "date": "2014-10-06T23:20:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/90cce341-747a-4c11-b644-e9bf491cb32f\/air.WRCareer\/81bbe435-0e58-4e52-970a-42f387823d5e\/BIMzXWYQRRG1WfTVgxYw_WRCareer%201-75%20%28OUYA%29.apk",
+            "size": 40339304,
+            "md5sum": "5680f1f2b826e68ca29f1ad9a35f2e90",
+            "publicSize": 1643081,
+            "nativeSize": 20115451
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.wrcareer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AUxeLxhVSXCVP90biN1Y",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Xq7IWWJuQNypD5o2yExV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QsqtMtGxTsuBtUijVuov",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RMOca0ziSnCF6ddUFkeg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m96m5uxJRvO2LkRHkBxG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/285855_ouya-screenshot20141005-2-56i8e8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-eb2g2p.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/7cfzoi_ouya-screenshot20141005-2-4nh9z0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-12n4gc3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/9qbv0s_ouya-screenshot20141005-2-1abtti7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-1976jdw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/em7mkn_ouya-screenshot20141005-2-kahjh4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-1eiq5ob.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MDickie",
+        "supportEmail": "mat@mdickie.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.MDickie.com",
+    "firstPublishedAt": "2013-07-26T22:52:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by MDickie.",
+    "premium": false,
+    "rating": {
+        "likeCount": 261,
+        "average": 3.97,
+        "count": 401
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "wr_upgrade",
+            "name": "Pro Upgrade",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "packageName": "com.LonewolfStudios.Euchre",
+    "title": "Euchre",
+    "description": "The classic card game of Euchre, now on the OUYA. Play against three computer players in this version. Options allow you to adjust the AI plays as well as card size and deck. The purchased version also tracks statistics.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card\/Casino"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c5cdb5f2-7be6-4333-bb96-57638b474563",
+            "date": "2013-08-06T19:01:47Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/111dbd20-509f-49cf-8d9f-b0563e2558e6\/com.LonewolfStudios.Euchre\/c5cdb5f2-7be6-4333-bb96-57638b474563\/uM4EAe6KTvqRaGq4Bynj_com.LonewolfStudios.Euchre.apk",
+            "size": 70541012,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lonewolfstudios.euchre\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IZEKcSoS1WSsPgg3GIMi",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TwwLwxIWRnaPnQDqkgfP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uV3arFniSmiWraZ8NBzU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Hr9O3fu4S96Qsp98CH04"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TwwLwxIWRnaPnQDqkgfP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TwwLwxIWRnaPnQDqkgfP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uV3arFniSmiWraZ8NBzU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uV3arFniSmiWraZ8NBzU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Hr9O3fu4S96Qsp98CH04\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Hr9O3fu4S96Qsp98CH04\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lonewolf Studios",
+        "supportEmail": "lonewolf@lonewolfstudios.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/lonewolfstudios.org",
+    "firstPublishedAt": "2013-08-06T19:01:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Lonewolf Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 19,
+        "average": 2.5,
+        "count": 10
+    }
+}

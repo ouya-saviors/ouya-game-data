@@ -1,0 +1,100 @@
+{
+    "packageName": "com.phenomenongames.meltdown",
+    "title": "Meltdown",
+    "description": "Meltdown is a tactical arcade shooter featuring single player and intense local\/online multiplayer!\r\n\r\nSet against a captivating sci-fi backdrop, the action game invites players to follow its main character, Zed, as he tries to shoot his way out of the remote space station that he has been trapped on as a result of a system malfunction. \r\n\r\nDuring the course of the adventure, players can collect loot and level-up their character as they make their way through randomly generated levels. They can choose to play single player, PvP, or co-op multiplayer, while experiencing an engaging gameplay, matching their gaming skills and style. \r\n\r\nClear all the missions and run the prestige mode!\r\n\r\nKey Features:\r\n-Online Cross-Platform Co-Op & PvP Up to 4 Players \r\n- Local Co-Op Up to 4 Players \r\n- 30 Random Generated Levels \r\n- 3 Specializations (Specialist\/Soldier\/Medic) \r\n- 3 Big Boss Battles \r\n- Wave-Attack arena challenges\r\n\r\nBecome the most skilled soldier, choose your weapons, get the best upgrades, buckle up and start your mission.\r\nBe careful, each enemy has it\u2019s own combat style, special AI and gear. Adapt to them to survive!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.6",
+            "versionCode": 0,
+            "uuid": "7e3f3a43-cfc3-4db2-bdbd-58c6005465df",
+            "date": "2014-12-26T18:35:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/05926977-e33a-48c3-bc4f-0b364f35d6ce\/com.phenomenongames.meltdown\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/VOAExqWTZqFeQzCL1gSe_Meltdown.apk",
+            "size": 107274432,
+            "md5sum": "a10677c0bdf441b4bb774dd61d28c5f5",
+            "publicSize": 806860,
+            "nativeSize": 18317006
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k4JJJUtRJG1zlzJ8Igba",
+        "video": "https:\/\/vimeo.com\/80272383",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zKhDM6LOT0SKXqvIR0gb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KmnJIr19RSSNwoFO6Z58",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8BMeF8xLQffkFWCSK0KD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vTUEeJLGTNC2QmTNvFeR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NoUXBFs9TS2mSrCxY3FH"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/80272383"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/mecnpu_ouya-screenshot20141223-2-88lnrj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-1sm1qah.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/wvwv5i_ouya-screenshot20141223-2-k16el5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-zu2e8c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/mtsu2a_ouya-screenshot20141223-2-oalsdf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-xu915l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/wbi8c6_ouya-screenshot20141223-2-pu3vn5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-jw4hd0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/er439e_ouya-screenshot20141223-2-1xcfz5n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-9j7l11.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "05926977-e33a-48c3-bc4f-0b364f35d6ce",
+        "name": "Phenomenon Games",
+        "supportEmail": "contact@phenomenongames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.phenomenongames.com",
+    "firstPublishedAt": "2013-11-27T00:26:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Phenomenon Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 742,
+        "average": 4.27,
+        "count": 1897
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "supahtroop_inapp_000",
+            "name": "Meltdown - Full Game",
+            "description": "Full version of Meltdown.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

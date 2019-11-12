@@ -1,0 +1,98 @@
+{
+    "packageName": "com.LaughinGullProductions.WhiteWater3D",
+    "title": "WhiteWater 3D",
+    "description": "Fun, fast paced down river whitewater kayaking game. Race against friends or go solo and unlock new kayaks and discover new unique items for your character. Fun trick \/ stunt mechanics and real water physics simulation make this river runner a frantic fantastic game to play with friends and family.\r\n\r\nWorks with PS3, XBOX and MOGAPro controllers.\r\n\r\nGather gold coins after completing a stunt to unlock new river packs, up to 15 rivers.\r\nGather Blue moon coins after completing a stunt to unlock night mode. Night mode will be playable for all rivers once unlocked.\r\n\r\nWhat's NEW?!\r\n-- New achievement system --\r\nMultiple achievements can be completed in one pass down the river. Each river needs to be run at minimum 2 times. Second pass is to achieve \"Beat your best time\".\r\n\r\n-- Points \/ highScore --\r\nGates and tricks now give you points. A leaderboard is in the works for highscores.\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.9",
+            "versionCode": 0,
+            "uuid": "632d637d-7638-43ba-b514-6f367d901398",
+            "date": "2013-10-09T17:38:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0f4bcf72-1fd2-4204-9ea1-ff72f71b7fc3\/com.LaughinGullProductions.WhiteWater3D\/632d637d-7638-43ba-b514-6f367d901398\/hT2uOgVRDKqYugcJa90w_WhiteWater3D_V1_9.apk",
+            "size": 102256724,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.laughingullproductions.whitewater3d\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P2UMH4VnQH61Fu1Xakvd",
+        "video": "https:\/\/vimeo.com\/73709139",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H6arWj0CQbagTtIVL3s7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C7it1QdwTfmc0FHpDKYK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kG71vUzRfmdSawTEOPlm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hj92H7kQa2LhFqH7BrhW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XFYWvBqLSyWfuQokvjp1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8MMXPIsVRTS4kNix59aC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cuzqnm7SYegqAillnAKg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/73709139"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/H6arWj0CQbagTtIVL3s7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/H6arWj0CQbagTtIVL3s7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C7it1QdwTfmc0FHpDKYK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C7it1QdwTfmc0FHpDKYK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kG71vUzRfmdSawTEOPlm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kG71vUzRfmdSawTEOPlm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hj92H7kQa2LhFqH7BrhW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hj92H7kQa2LhFqH7BrhW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XFYWvBqLSyWfuQokvjp1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XFYWvBqLSyWfuQokvjp1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8MMXPIsVRTS4kNix59aC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8MMXPIsVRTS4kNix59aC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cuzqnm7SYegqAillnAKg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cuzqnm7SYegqAillnAKg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Laughing Gull Productions",
+        "supportEmail": "jason@laughinggullproductions.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.laughinggullproductions.com",
+    "firstPublishedAt": "2013-06-19T21:48:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Laughing Gull Productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 107,
+        "average": 2.61,
+        "count": 69
+    }
+}

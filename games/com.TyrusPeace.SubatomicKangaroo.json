@@ -1,0 +1,83 @@
+{
+    "packageName": "com.TyrusPeace.SubatomicKangaroo",
+    "title": "Subatomic Kangaroo World Tour",
+    "description": "A bullet dodging shoot 'em up where you're a subatomic kangaroo that hunts electrons using the powers of slow motion jumping and shooting rainbow stars.\r\n\r\nRack up huge jump combos to stay alive and get a higher score in this scientifically accurate Subatomic Kangaroo simulator.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c6793440-9d66-40ec-858e-eb65d6ab7b51",
+            "date": "2013-03-22T21:14:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3720069b-fe60-4851-b8a8-7d9bb1ce7597\/com.TyrusPeace.SubatomicKangaroo\/c6793440-9d66-40ec-858e-eb65d6ab7b51\/N80Y5b8lQWaE87hvMu1d_SubatomicKangaroo.apk",
+            "size": 16365434,
+            "md5sum": "9f904be2f136368e7c91430a91932332",
+            "publicSize": 111547,
+            "nativeSize": 141968
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tyruspeace.subatomickangaroo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BeoWalBTmitrOU4Oxb5P",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IVBL3LDgQCmv6FYC7ynz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LB96zz1QygRANtURlKmw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gTP6zfrTwmgZvzejkC6G",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KRZcmcvCQoeiYCPoxjmP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UZRIxX5S6SLYW79SdJy4"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IVBL3LDgQCmv6FYC7ynz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IVBL3LDgQCmv6FYC7ynz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LB96zz1QygRANtURlKmw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LB96zz1QygRANtURlKmw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gTP6zfrTwmgZvzejkC6G\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gTP6zfrTwmgZvzejkC6G\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KRZcmcvCQoeiYCPoxjmP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KRZcmcvCQoeiYCPoxjmP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UZRIxX5S6SLYW79SdJy4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UZRIxX5S6SLYW79SdJy4\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tyrus Peace",
+        "supportEmail": "tyrus@stttutter.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/stttutter.com",
+    "firstPublishedAt": "2013-03-22T21:14:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Tyrus Peace.",
+    "premium": false,
+    "rating": {
+        "likeCount": 40,
+        "average": 3.17,
+        "count": 23
+    }
+}

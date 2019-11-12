@@ -1,0 +1,100 @@
+{
+    "packageName": "LudemeGames.Chess2",
+    "title": "Chess 2: The Sequel",
+    "description": "\"Chess 2 is precision-honed but gleefully inventive.\" - Eurogamer\r\n\r\n\"A bona fide sequel to one of our culture\u2019s most celebrated games.\" - Kotaku AU\r\n\r\nThe strategic depth of chess, without the draws and memorized openings. Enhanced positional play with 6 armies to choose from, midline invasion, and dueling.\r\n\r\nLatest Update:\r\n-Play an unlimited number of asynchronous games simultaneously\r\n-Full 1080p HD resolution\r\n-New ranking system with titles\r\n-XBox360 \/ PS3 Controller support\r\n-Cross Platform play with PC\/MAC\/LINUX",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Meditative",
+        "Multiplayer",
+        "Puzzle\/Trivia",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "14.08.18",
+            "versionCode": 0,
+            "uuid": "041a5604-51f6-4d77-a4b0-608f0dfe51ee",
+            "date": "2014-08-19T16:02:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/153049b5-7884-436b-b625-4ba64583aa3e\/LudemeGames.Chess2\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/At6536TZuVhwDuELe2UQ_Client.apk",
+            "size": 184258304,
+            "md5sum": "02b4170608bc585acfae24cf1f494acf",
+            "publicSize": 451427,
+            "nativeSize": 14722000
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/ludemegames.chess2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BGdaywFQfiHXDNH6jF1m",
+        "video": "https:\/\/vimeo.com\/84564746",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eX6BjJEaTn2YA41X6Fee",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4bBV1AdGQN2hcSh5YGQt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/08I3UJQOSpWZmwxkKs3o",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p0oQX6dSLew6Jty4yqZa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eBu4kpGaSOwCozvZseAK"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84564746"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/k92am_ouya-screenshot20140818-2-190novt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/thumbnails\/thumbnail20140818-2-9dgv9j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/mgkuv0_ouya-screenshot20140818-2-1ax86ht.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/thumbnails\/thumbnail20140818-2-sqwpmt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/3gvmei_ouya-screenshot20140818-2-posh72.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/thumbnails\/thumbnail20140818-2-d285a7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/mwdcav_ouya-screenshot20140818-2-h82m18.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/thumbnails\/thumbnail20140818-2-1i1pa4r.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/gpbzjs_ouya-screenshot20140818-2-dywii3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/041a5604-51f6-4d77-a4b0-608f0dfe51ee\/thumbnails\/thumbnail20140818-2-1i1zche.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ludeme Games",
+        "supportEmail": "Zac@LudemeGames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ludemegames.com\/chess2",
+    "firstPublishedAt": "2014-01-21T08:05:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Ludeme Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 242,
+        "average": 3.97,
+        "count": 446
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "StarterCrowns",
+            "name": "720 Crowns",
+            "description": "720 Crowns for the price of 400!",
+            "localPrice": 5.99,
+            "originalPrice": 5.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "packageName": "org.allbinary.game.santasworldwar",
+    "title": "SantasWorldWar",
+    "description": "Santa takes on World Terror. Level One Santa starts by kicking the Russian leader out of the North Pole.\r\n\r\nThrow snow balls at the enemy until they die.  Watch out for bullets and such.  Santa can jump amazingly high even over enemies sometimes.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 0,
+            "uuid": "196fc4d9-c54d-4a0d-9352-9c7649cc15b0",
+            "date": "2013-12-24T07:18:07Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f820176d-de15-481b-bdac-f17a98fdeeaa\/org.allbinary.game.santasworldwar\/196fc4d9-c54d-4a0d-9352-9c7649cc15b0\/gWWd6cNkTaGgk5tikODK_SantasWorldWarAndroidApplicationOuya.apk",
+            "size": 1019266,
+            "md5sum": "e8cf9aba333691b958b0b8c1af663240",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.santasworldwar\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8nVsXrBSbuAkIYeiYn6s",
+        "video": "https:\/\/vimeo.com\/82169690",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MED4v8JuQky7E7LhCedE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N3KFJB3SXy2opcENkluV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1T96TagToavebIv6oivt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O2ITZN2TOa9XfhcoYe8s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Uu1V9oD2RUOEC7OXmqbg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82169690"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MED4v8JuQky7E7LhCedE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MED4v8JuQky7E7LhCedE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N3KFJB3SXy2opcENkluV\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N3KFJB3SXy2opcENkluV\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1T96TagToavebIv6oivt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1T96TagToavebIv6oivt\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O2ITZN2TOa9XfhcoYe8s\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O2ITZN2TOa9XfhcoYe8s\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Uu1V9oD2RUOEC7OXmqbg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Uu1V9oD2RUOEC7OXmqbg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AllBinary",
+        "supportEmail": "support@allbinary.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.allbinary.com",
+    "firstPublishedAt": "2013-12-24T07:18:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by AllBinary.",
+    "premium": false,
+    "rating": {
+        "likeCount": 5,
+        "average": 2,
+        "count": 4
+    }
+}

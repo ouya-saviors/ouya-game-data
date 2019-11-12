@@ -1,0 +1,88 @@
+{
+    "packageName": "com.burningthumb.mobile.coconuthut",
+    "title": "Coconut Hut",
+    "description": "Coconut Hut can be played by one player against a computer opponent or by two players using a split screen and two controllers.\r\n\r\nYou find yourself and your good friend Ami on a desert island with nothing but the shirt on your back and a deserted hut. The coconuts are ripe and are falling from the trees. Some coconuts are dry and easy to carry, some coconuts are under the rain cloud and are wet and more difficult to carry. Its a race between you and Ami to see who can collect the most coconuts. You'll need speed and strategy if you want to collect more coconuts than Ami.\r\n\r\nCoconut Hut supports both OUYA and PS3 controllers.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "5698200b-17cb-48ce-ab8c-dd80417e33bc",
+            "date": "2013-11-05T17:03:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f838f697-b415-4d84-ba3d-4211f9b53cc1\/com.burningthumb.mobile.coconuthut\/5698200b-17cb-48ce-ab8c-dd80417e33bc\/ziPcmur7QRWKtfpQd3gk_coconuthut.apk",
+            "size": 29105917,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.burningthumb.mobile.coconuthut\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/45L09rTSeaCTIXrMnGj8",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0FenG3VSreJqRq2BDEWp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9d86YnW2Su7H67KgLv1w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CJOUettHQ4WSuHvd65Ti",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s4wYTSbITR60bJKMI0TC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XkUXPxciS5m9pB7CB5Uc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rx3rJ4sRNqzA07IwIyg8"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0FenG3VSreJqRq2BDEWp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0FenG3VSreJqRq2BDEWp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9d86YnW2Su7H67KgLv1w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9d86YnW2Su7H67KgLv1w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CJOUettHQ4WSuHvd65Ti\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CJOUettHQ4WSuHvd65Ti\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s4wYTSbITR60bJKMI0TC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s4wYTSbITR60bJKMI0TC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XkUXPxciS5m9pB7CB5Uc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XkUXPxciS5m9pB7CB5Uc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rx3rJ4sRNqzA07IwIyg8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rx3rJ4sRNqzA07IwIyg8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BurningThumb Studios",
+        "supportEmail": "support@burningthumb.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.burningthumb.om",
+    "firstPublishedAt": "2013-11-05T17:03:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by BurningThumb Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 2.79,
+        "count": 38
+    }
+}

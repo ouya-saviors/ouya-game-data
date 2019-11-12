@@ -1,0 +1,70 @@
+{
+    "packageName": "com.FancyPants.Questria",
+    "title": "Questria: Rise Of The Robot Skullfaces",
+    "description": "Questria : The Rise of the Robot Skullfaces is a 4 player couch co-op game where you and your friends adventure through randomly generated dungeons to level up, grab new abilities and steal all the loot. This current release is an early Alpha and more content is on the way! Tell us what you think at our website! questriagame.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "b8871f5f-4572-49a3-84c5-cb0d88322254",
+            "date": "2013-08-31T03:00:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7d1cede1-a96b-466e-97c7-118b83164821\/com.FancyPants.Questria\/b8871f5f-4572-49a3-84c5-cb0d88322254\/rNy3jEi9RG1vmdrWUWpA_QuestriaV05d.apk",
+            "size": 107896634,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fancypants.questria\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lHj79CHnQoC5SCGcZghn",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KmpE8maTQG0Yc7QaSqeb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R4Q4Jiu5SWWaZx9c4jiA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LJO7h5fS06k4MyMrAG4w"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KmpE8maTQG0Yc7QaSqeb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KmpE8maTQG0Yc7QaSqeb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/R4Q4Jiu5SWWaZx9c4jiA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/R4Q4Jiu5SWWaZx9c4jiA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LJO7h5fS06k4MyMrAG4w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LJO7h5fS06k4MyMrAG4w\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "null",
+        "supportEmail": "questriagame@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/questriagame.com\/",
+    "firstPublishedAt": "2013-08-16T19:17:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by null.",
+    "premium": false,
+    "rating": {
+        "likeCount": 46,
+        "average": 2.95,
+        "count": 60
+    }
+}

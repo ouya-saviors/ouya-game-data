@@ -1,0 +1,77 @@
+{
+    "packageName": "com.ImaginationVent.BionicFighters",
+    "title": "Bionic Fighters - Alpha Demo",
+    "description": "  Platform fighting combat with 4 player online and local multiplayer, featuring characters from popular Indie game titles!\r\n\r\n  The game automatically begins in 2 Player mode (for this pre-alpha build), and we require two active controllers to get the full experience of the game so far!\r\n\r\n   Support the game on Kickstarter today!\r\n\r\n   Bionic Fighters takes hand-to-hand fighting to new extremes with 10 powerful characters and 11 stages. The ability to fight with a friend brings team duos to a new level of realism in this high octane thrill ride of fists.",
+    "players": [
+        1
+    ],
+    "genres": [],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "1c82870e-3842-487b-af5d-33fc29a14951",
+            "date": "2014-04-17T18:51:58Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4be1190c-8b0b-4c5c-95a6-fa7c3f94728c\/com.ImaginationVent.BionicFighters\/1c82870e-3842-487b-af5d-33fc29a14951\/81KlAMJ3RTyUtCZwZIxm_com.ImaginationVent.BionicFighters.apk",
+            "size": 43920643,
+            "md5sum": "353b2ba026873c7bf457b69c0c30d341",
+            "publicSize": 443450,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.imaginationvent.bionicfighters\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bDD1hqR1y9Trh1kSxmAv",
+        "video": "https:\/\/vimeo.com\/90974603",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qgv7XzSvmfeSn75L9h4w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uWLCaZiaTeuzTURP3aZi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yh1lZ8pLQqyRcop91MQS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VPN8BhJSMWeGwMtsk3og"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90974603"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Qgv7XzSvmfeSn75L9h4w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Qgv7XzSvmfeSn75L9h4w\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uWLCaZiaTeuzTURP3aZi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uWLCaZiaTeuzTURP3aZi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yh1lZ8pLQqyRcop91MQS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yh1lZ8pLQqyRcop91MQS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VPN8BhJSMWeGwMtsk3og\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VPN8BhJSMWeGwMtsk3og\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Imagination Vent LLC",
+        "supportEmail": "imaginationvent@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "imaginationvent.com",
+    "firstPublishedAt": "2014-04-16T21:44:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Imagination Vent LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 2,
+        "average": 2.8,
+        "count": 154
+    }
+}

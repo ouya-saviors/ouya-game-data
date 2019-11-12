@@ -1,0 +1,83 @@
+{
+    "packageName": "com.GameDisciples.GD",
+    "title": "24 Locks",
+    "description": "The classic game 24 Locks from GameDisciples finally on your OUYA!\r\n\r\nAre you a hero? A true hero? Can you collect all the 24 keys? Can you get the ultimate mega power suit to stop EVIL? TRUE EVIL! Find out! Play now! Completly free! FREE!\r\n\r\nGame created by: GameDisciples\r\n\r\nMusic by:\r\nLuigi Elettrico\r\n\r\n\r\n ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.13",
+            "versionCode": 0,
+            "uuid": "fbf29ae4-bd7f-4d94-8776-9d617bdc7517",
+            "date": "2014-10-22T22:26:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/35c5472f-7509-4a71-a18f-0b04d66b5dd8\/com.GameDisciples.GD\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/rO3iJJlkSLaVFHHU8Tfq_24%20Locks%20OUYA.apk",
+            "size": 23230511,
+            "md5sum": "24d956cf2708e241fda2f725951c7f95",
+            "publicSize": 12045013,
+            "nativeSize": 7065588
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamedisciples.gd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LPrbAl6nSoq3MgVzD38J",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MX9dQcJRTa258YyR1WB8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T4lxBgthQnGT0eBFPA6L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aUWnKtkTuaaYaO9fQDIf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vtg1YxMpQfOhMfT3NrTm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2qDwPbQ2eMmX0jHp6SQX"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/9b8t5t_ouya-screenshot20140813-2-wb6q6o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1rvo9y7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/bg8dbh_ouya-screenshot20140813-2-1t2y2xv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-y9nmiu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/itsg6d_ouya-screenshot20140813-2-1j8uteu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1dfw5em.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/c02mzd_ouya-screenshot20140813-2-1gqukpr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1qh5cz1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/fbt02y_ouya-screenshot20140813-2-16kmr25.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1gweapc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "35c5472f-7509-4a71-a18f-0b04d66b5dd8",
+        "name": "Gamedisciples",
+        "supportEmail": "GameDisciples@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/www.facebook.com\/pages\/Game-Disciples\/343999612376985?fref=ts",
+    "firstPublishedAt": "2013-07-18T15:39:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Gamedisciples.",
+    "premium": false,
+    "rating": {
+        "likeCount": 30,
+        "average": 2.44,
+        "count": 52
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "packageName": "com.WildcardStudios.StolenPresents.OuyaEdition",
+    "title": "Stolen Presents Ouya Edition",
+    "description": "Santa has lost all his presents and needs you to recover them. Each level has a set amount of presents that must be recovered as quickly as possible.  The quicker you are. the higher your rating. As you progress through the game the challenges get harder and harder. Puzzles are introduced as you get further into the levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Multiplayer",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "2",
+            "versionCode": 0,
+            "uuid": "f822e8ff-6ad6-4166-ad86-1ca0442c7eb3",
+            "date": "2014-12-29T21:57:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/cad7eedd-517c-4e74-b99a-a93c81d5af2b\/com.WildcardStudios.StolenPresents.OuyaEdition\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/HKjaqvfmToajl5iuabO8_stolenpresents_ouya.apk",
+            "size": 288478589,
+            "md5sum": "9e916c2a346b87310c1ef9f9c0340834",
+            "publicSize": 580159,
+            "nativeSize": 14992732
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.wildcardstudios.stolenpresents.ouyaedition\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4hAlhTDTZqyH15AiLq7m",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4nLLMYYQTe6RqZrpY04E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RCebakyiRke74sDrXz8o",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4Jb1mUGcQWOy4FBy5zAA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ezHiejoSDW5dWS2ybbvA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/liVRd9WTgSnqNojNlVaA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JrzqemWcTISIHVvGsNSe"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/bt9mye_ouya-screenshot20141224-2-19n6qee.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/thumbnails\/thumbnail20141224-2-iy92h0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/56in7x_ouya-screenshot20141224-2-110w2zn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/thumbnails\/thumbnail20141224-2-4tvx91.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/m2e5ee_ouya-screenshot20141224-2-hmeu59.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/thumbnails\/thumbnail20141224-2-1p7wmhq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/t30fje_ouya-screenshot20141224-2-da3idy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/thumbnails\/thumbnail20141224-2-zwhmgf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/p6651g_ouya-screenshot20141224-2-bfcemu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/thumbnails\/thumbnail20141224-2-13sxcc3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/wrbvfd_ouya-screenshot20141224-2-1xsy0g4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f822e8ff-6ad6-4166-ad86-1ca0442c7eb3\/thumbnails\/thumbnail20141224-2-166ej99.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "cad7eedd-517c-4e74-b99a-a93c81d5af2b",
+        "name": "Wildcard Studios Gaming Division",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.wildcardstudios.org",
+    "firstPublishedAt": "2014-12-23T09:12:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Wildcard Studios Gaming Division.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.91,
+        "count": 56
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ws_stolenpresents_full",
+            "name": "Stolen Presents Full Game",
+            "description": "The full version of Stolen Presents",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

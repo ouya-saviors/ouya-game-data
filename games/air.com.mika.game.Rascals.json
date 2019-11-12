@@ -1,0 +1,81 @@
+{
+    "packageName": "air.com.mika.game.Rascals",
+    "title": "Rascals",
+    "description": "Rascals are tiny starfish starving snakes. Help them grow and find their way...\r\nBut watch out, the more they eat the more they'll grow.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "c97e01dc-cc3b-4ccd-832f-e3666380e9a1",
+            "date": "2014-01-02T23:54:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8da52102-d543-424e-831c-76c4b9cf381c\/air.com.mika.game.Rascals\/c97e01dc-cc3b-4ccd-832f-e3666380e9a1\/GHO2L0dT0S22uajlfRTF_Rascals.apk",
+            "size": 13933499,
+            "md5sum": "ed8d4a915039c372280aaddaa5528c1e",
+            "publicSize": 617257,
+            "nativeSize": 19646951
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.mika.game.rascals\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S3lcSfCQCv3ip40oWH0g",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JvYnPp4gSbOPDrvaI5ZY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1G9pu5qNT7C3UXEDREms",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OJZQw1FkSq0gmI4uFhI2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6di1AjvQTG8jYkO0FxsZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/etMYmUNBRO2X3Lyk6kdQ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JvYnPp4gSbOPDrvaI5ZY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JvYnPp4gSbOPDrvaI5ZY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1G9pu5qNT7C3UXEDREms\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1G9pu5qNT7C3UXEDREms\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OJZQw1FkSq0gmI4uFhI2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OJZQw1FkSq0gmI4uFhI2\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6di1AjvQTG8jYkO0FxsZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6di1AjvQTG8jYkO0FxsZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/etMYmUNBRO2X3Lyk6kdQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/etMYmUNBRO2X3Lyk6kdQ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Mika I.",
+        "supportEmail": "mika.indie@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "michael-iriarte.com",
+    "firstPublishedAt": "2014-01-02T23:54:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Mika I..",
+    "premium": false,
+    "rating": {
+        "likeCount": 9,
+        "average": 3.38,
+        "count": 24
+    }
+}

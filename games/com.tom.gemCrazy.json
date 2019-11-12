@@ -1,0 +1,71 @@
+{
+    "packageName": "com.tom.gemCrazy",
+    "title": "GemCrazy",
+    "description": "In GemCrazy, you are Steve Nomad, a mining space-craft pilot who has been sent by the Hoseki Mining Corporation on a mission. It seems that a hollowed-out asteroid filled with Hoseki's finest emeralds was taken over by an army of hostile aliens, who have dispersed the emeralds over a large area near the planet Duom. The aliens are guarding the emeralds using mines, and it is your job to avoid the mines, destroy the aliens, and recover the lost emeralds.\r\n\r\n- 40 action packed levels!\r\n- 4 enemies to contend with!\r\n- Avoid mines, collect the gems, and reach the exit!\r\n- Inspired by classic computer and arcade games like Crystal Quest and Robotron 2084!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "77773b43-a4e6-466c-8eea-515c2992835b",
+            "date": "2013-08-12T15:36:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b1abe323-2580-48c7-8a1d-efb9d75b52e1\/com.tom.gemCrazy\/77773b43-a4e6-466c-8eea-515c2992835b\/BmPZS2KmSkGrr3pAAfRM_gemCrazy-ouya.apk",
+            "size": 3601562,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tom.gemcrazy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HUsGnNn4RPCmfZuDafiE",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ai00aS8oS0SaQlhOWNHS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0X84P1HnTLKG4I2a8Wgv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/w3R6trYwRgit09d4iXF2"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ai00aS8oS0SaQlhOWNHS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ai00aS8oS0SaQlhOWNHS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0X84P1HnTLKG4I2a8Wgv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0X84P1HnTLKG4I2a8Wgv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/w3R6trYwRgit09d4iXF2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/w3R6trYwRgit09d4iXF2\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Thomas Morgan",
+        "supportEmail": "twpmorgan@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tomsandroidgamereviews.com",
+    "firstPublishedAt": "2013-08-12T15:36:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Thomas Morgan.",
+    "premium": false,
+    "rating": {
+        "likeCount": 8,
+        "average": 3.13,
+        "count": 23
+    }
+}

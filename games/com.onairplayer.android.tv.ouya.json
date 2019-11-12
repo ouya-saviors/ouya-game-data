@@ -1,0 +1,89 @@
+{
+    "packageName": "com.onairplayer.android.tv.ouya",
+    "title": "OnAir Player",
+    "description": "Stream your music to the TV and control it from the phone! No matter whether the music is stored on your phone, a computer or the OUYA itself.\r\n\r\nDownload OnAir Player for your phone, tablet, PC or Mac at www.onairplayer.com\r\n\r\nMake sure to have OnAir Player installed on other devices. On OUYA alone it does not make much sense.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Music"
+    ],
+    "releases": [
+        {
+            "name": "1.2.9",
+            "versionCode": 0,
+            "uuid": "7b57d3e4-c0ba-43d6-90a2-a3d85404498e",
+            "date": "2014-09-30T16:55:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5c221d73-1e8c-424a-812a-fb6bd2b8ca1f\/com.onairplayer.android.tv.ouya\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/1HAbAxE2QcafEVWJWFVk_OnAir_OUYA.apk",
+            "size": 11198629,
+            "md5sum": "17936ca955f66d06cce9d8b5fb13f353",
+            "publicSize": 7749018,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.onairplayer.android.tv.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RrmjEjZQkizleR7t46Yl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NwNvwvX8Q76hxegcN6Uu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LaNa9LjRUOh2qCfdyBMg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QmnRa2LAS6WX6gPv3hrZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9Q2QegSTzqEmXkkceqkx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pvElLVkQoqpozhnw7PRm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iCRoQF6QTTWFYF11WaoG"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/ms4fux_ouya-screenshot20140926-2-2s0qlk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/thumbnails\/thumbnail20140926-2-x3e5r8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/hx911j_ouya-screenshot20140926-2-195tciv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/thumbnails\/thumbnail20140926-2-1rhh17v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/s3rvff_ouya-screenshot20140926-2-w2e0im.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/thumbnails\/thumbnail20140926-2-1gwtjoz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/kiyxhx_ouya-screenshot20140926-2-1alc3dm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/thumbnails\/thumbnail20140926-2-1jad7ai.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/izrpg6_ouya-screenshot20140926-2-9inw9w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/thumbnails\/thumbnail20140926-2-1gx0auj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/jzpvkb_ouya-screenshot20140926-2-g8jyoz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7b57d3e4-c0ba-43d6-90a2-a3d85404498e\/thumbnails\/thumbnail20140926-2-m6knnp.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "OnAir Player Inc.",
+        "supportEmail": "support@onairplayer.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.onairplayer.com",
+    "firstPublishedAt": "2013-10-31T20:40:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by OnAir Player Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 83,
+        "average": 3.88,
+        "count": 52
+    }
+}

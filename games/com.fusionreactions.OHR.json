@@ -1,0 +1,98 @@
+{
+    "packageName": "com.fusionreactions.OHR",
+    "title": "100 Rogues",
+    "description": "\"Go Kill Satan!\" Your ultra-cliche quest to kill the Last Wild Satan is doomed. Doomed! \r\n\r\n4 Unique Player Classes, each with 8 powerful special abilities. The Crusader, a bloodthirsty warrior of light with his best friend, God. The Wizard, an angst-ridden fairy who beats people with crystal balls. The scoundrel, a psychotic undead skeleton who's quick as a flint. And the Bruiser, a half-man, half-dinosaur that can become FULL DINOSAUR.\r\n\r\nTest your strategic abilities to best Skybabies, Robotic Cowboys, Candy Clowns, the Golden Genie, and dozens more horrifying monsters.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "58c803ea-b330-4a62-a281-ac24a135248d",
+            "date": "2013-08-14T15:35:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f2bd7980-8c0b-48a8-9111-e6da769ba896\/com.fusionreactions.OHR\/58c803ea-b330-4a62-a281-ac24a135248d\/hz8FjARbRDOFCuSYLE4i_100_Rogue_1_0.apk",
+            "size": 92111575,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fusionreactions.ohr\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bTvULkV4SE60CqDgWYsJ",
+        "video": "http:\/\/vimeo.com\/76460458",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tOq1vpZCQqyQmPvLlEZI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/K8CZNStyS9iGXMGeXXw3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7yeCTxNYTwaSpg0h6J4I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UTGX4xe6QhynjE7vV4Is",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EPskph05QcmZOr8dpOX3"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/76460458"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tOq1vpZCQqyQmPvLlEZI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tOq1vpZCQqyQmPvLlEZI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/K8CZNStyS9iGXMGeXXw3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/K8CZNStyS9iGXMGeXXw3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7yeCTxNYTwaSpg0h6J4I\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7yeCTxNYTwaSpg0h6J4I\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UTGX4xe6QhynjE7vV4Is\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UTGX4xe6QhynjE7vV4Is\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EPskph05QcmZOr8dpOX3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EPskph05QcmZOr8dpOX3\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Fusion Reactions",
+        "supportEmail": "wes@fusionreactions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/100Rogues.com",
+    "firstPublishedAt": "2013-08-14T15:35:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Fusion Reactions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 250,
+        "average": 3.76,
+        "count": 216
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "100_Rogues_Full_Game",
+            "name": "100 Rogues Full Game",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

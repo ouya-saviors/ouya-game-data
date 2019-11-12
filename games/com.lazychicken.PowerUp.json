@@ -1,0 +1,83 @@
+{
+    "packageName": "com.lazychicken.PowerUp",
+    "title": "Power UP",
+    "description": "Action Packed dual stick shooter. Play with up to 6 people at once with xbox, ps, or OUYA controllers. (MY oppinion OUYA ones are better) To get out of the game and back to the menu just die (don't worry it saves automatically).",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "cfd04c32-695f-41a4-9ff0-30dd944570a4",
+            "date": "2013-12-11T21:21:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/72be5b52-24b5-4c13-812e-869d6e915590\/com.lazychicken.PowerUp\/cfd04c32-695f-41a4-9ff0-30dd944570a4\/zZNZgepQ3CgWECoLtJVn_PowerUP.apk",
+            "size": 17219042,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lazychicken.powerup\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VvMJLfoITISEeRxvyrvR",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UfIgP192TgWhK1RztWM9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nOeBzXgcRs6h2wQAvtkY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tyYOMdvSiawPzh6HENlX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dn1SB08NRWm4uI7WpI2W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qs0K1woHRzWhBCLrIU4f"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UfIgP192TgWhK1RztWM9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UfIgP192TgWhK1RztWM9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nOeBzXgcRs6h2wQAvtkY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nOeBzXgcRs6h2wQAvtkY\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tyYOMdvSiawPzh6HENlX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tyYOMdvSiawPzh6HENlX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dn1SB08NRWm4uI7WpI2W\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dn1SB08NRWm4uI7WpI2W\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qs0K1woHRzWhBCLrIU4f\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qs0K1woHRzWhBCLrIU4f\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lazy Chicken",
+        "supportEmail": "Genesis@isadev.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "LazyChicken.net",
+    "firstPublishedAt": "2013-12-11T21:21:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Lazy Chicken.",
+    "premium": false,
+    "rating": {
+        "likeCount": 13,
+        "average": 2.79,
+        "count": 14
+    }
+}

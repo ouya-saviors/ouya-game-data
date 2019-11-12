@@ -1,0 +1,69 @@
+{
+    "packageName": "com.heavyplasma.zvz",
+    "title": "Zeus vs Zombies",
+    "description": "Zeus vs Zombies is a 3D action game with an easy to use touch interface. As Zeus, the King of Gods, you are mankind's last hope to survive the zombie apocalypse. Harness the power of lightning and eradicate the zombie horde!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "a725a054-823e-49a5-bafa-08a610e0fc71",
+            "date": "2013-07-08T15:21:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/4cfb7d35-6e3f-4613-89df-9d334e026512\/com.heavyplasma.zvz\/a725a054-823e-49a5-bafa-08a610e0fc71\/l1ZXKyiRJ2iGFI4Eh2Os_zvz.apk",
+            "size": 52645011,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.heavyplasma.zvz\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WzyFrINcTS01dLkqX1kA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HXj27RUxQtaKKpt2trvz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v3EO96meQ7iAfoLs36ja",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iXcjutY7Qz6CE8Vcb0mZ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HXj27RUxQtaKKpt2trvz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HXj27RUxQtaKKpt2trvz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v3EO96meQ7iAfoLs36ja\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v3EO96meQ7iAfoLs36ja\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/iXcjutY7Qz6CE8Vcb0mZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/iXcjutY7Qz6CE8Vcb0mZ\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Heavy Plasma LLC",
+        "supportEmail": "heavyplasmallc@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.zeusvszombies.com",
+    "firstPublishedAt": "2013-07-08T15:21:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Heavy Plasma LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 31,
+        "average": 1.85,
+        "count": 27
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "packageName": "org.leoche.slimeball",
+    "title": "SlimeBall",
+    "description": "SlimeBall is a 2 players sport game where you play with your friends many sports (Tennis\/FootBall\/VolleyBall and more). It's totally free!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 0,
+            "uuid": "6b197703-8a59-46e0-9f14-c408a643953c",
+            "date": "2013-08-14T13:48:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/63b8ff93-14a4-4c3a-9879-bc70e46d3df3\/org.leoche.slimeball\/6b197703-8a59-46e0-9f14-c408a643953c\/MFllLmFTTyOZd5DDWSfl_SlimeBall.apk",
+            "size": 6350609,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.leoche.slimeball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gA1Rr6n2Tce3muD2J6Dd",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P4UoCbZ9QrWiRN3nsMQe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hRpBtXuxRTK5ASvUzrUa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pTQ44A6TmeXorqrwuz2g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0wzt6YmjT8O7RPke7Rdt"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/P4UoCbZ9QrWiRN3nsMQe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/P4UoCbZ9QrWiRN3nsMQe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hRpBtXuxRTK5ASvUzrUa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hRpBtXuxRTK5ASvUzrUa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pTQ44A6TmeXorqrwuz2g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pTQ44A6TmeXorqrwuz2g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0wzt6YmjT8O7RPke7Rdt\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0wzt6YmjT8O7RPke7Rdt\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Leoche",
+        "supportEmail": "likeostd@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.leoche.org",
+    "firstPublishedAt": "2013-08-14T13:48:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Leoche.",
+    "premium": false,
+    "rating": {
+        "likeCount": 86,
+        "average": 3.46,
+        "count": 56
+    }
+}

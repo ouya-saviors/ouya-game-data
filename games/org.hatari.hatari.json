@@ -1,0 +1,69 @@
+{
+    "packageName": "org.hatari.hatari",
+    "title": "Atabee",
+    "description": "(Now updated to Hatari 1.8 with STX support) Emulate an Atari ST\/STE on your OUYA! This is a port of the impressive and highly accurate Hatari Atari ST emulator. Atabee runs out of the box and comes fully configured with Emutos 0.93 and an example disk (the Nostalgic-O demo). Just copy more disks into your \/sdcard\/hatari\/ directory to relive the good old days on your TV-screen. Use OUYAs unique Touchpad as a mouse to navigate the emulator. This port is specifically optimized for viewing demos (albeit playing games will work too). Even tricks-of-the-trade as overscan, hardwarescrolling or SID-voices are emulated. Please note that the in-emulator configuration menus can only be navigated by Touchpad. See Readme menu for details.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.8.0.0.30",
+            "versionCode": 0,
+            "uuid": "e2beacf3-bffa-4086-a53f-85b51200e4b2",
+            "date": "2014-08-08T17:07:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/533930a0-8f59-49af-8358-24096d9fb860\/org.hatari.hatari\/e2beacf3-bffa-4086-a53f-85b51200e4b2\/VZcZh1QwQiaIaUnldXeH_Atabee180_30.apk",
+            "size": 3145349,
+            "md5sum": "fd5c980b9c3362e1e0338125e7bbec3f",
+            "publicSize": 1101777,
+            "nativeSize": 2314348
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.hatari.hatari\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S7hmb4q2Q4mty7LyH1Cl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bYUgsrCQoWTiYCnVNCRB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rq1BY3xcQx65HW04FdUc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l2uMoNSOTTyWRBGmF6ZI"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bYUgsrCQoWTiYCnVNCRB",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bYUgsrCQoWTiYCnVNCRB"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Rq1BY3xcQx65HW04FdUc",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Rq1BY3xcQx65HW04FdUc"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l2uMoNSOTTyWRBGmF6ZI",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l2uMoNSOTTyWRBGmF6ZI"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "absence",
+        "supportEmail": "atabee@absencehq.de",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.absencehq.de\/atabee\/",
+    "firstPublishedAt": "2013-07-17T16:38:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by absence.",
+    "premium": false,
+    "rating": {
+        "likeCount": 51,
+        "average": 3.27,
+        "count": 60
+    }
+}

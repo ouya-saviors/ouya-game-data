@@ -1,0 +1,86 @@
+{
+    "packageName": "gamesboro.openarena.net",
+    "title": "OpenArena: OUYA EDITION",
+    "description": "100% FREE!\r\n\r\nMultiplayer 3D shooter, based on Quake 3 Arena FPS.\r\nSupports online matches and offline play with bots. Deathmatch, Capture the Flag, and 10 other game modes are available.\r\n\r\nPlay on PC and Android servers!  \r\n\r\nPS3 controller support.  \r\n\r\nFirst person mode available in settings.  Keyboard support, and limited mouse support.  Access in game console by pressing \"~\" on keyboard.\r\n\r\nIMPORTANT NOTE ABOUT PC SERVERS: \r\nWe have no control over how individuals run servers, therefor you may find an occasional menu that must be accessed with the trackpad cursor on your controller.\r\n\r\nSource code available at:\r\nhttp:\/\/sourceforge.net\/projects\/libsdl-android\/files\/OpenArena\/\r\n\r\nYou can run your own dedicated server, using this package: http:\/\/sourceforge.net\/projects\/libsdl-android\/files\/OpenArena\/OpenArena-dedicated-server-0.8.8.23.tar.gz or you may compile it from sources.\r\nMore info about running servers at http:\/\/openarena.wikia.com\/wiki\/Servers\r\n\r\nA special thank you to Pelya for all of his hard work on the android port of OpenArena as well as for assistance and help on the OUYA edition.  This project would have taken much longer without his guidance.\r\n\r\nAnother special thanks of course to the OA team, without them Open Arena would not exist at all.  \r\n\r\nPlease visit http:\/\/www.openarena.ws and join the OpenArena community! ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "0.8.8.04",
+            "versionCode": 0,
+            "uuid": "914b147c-0af2-4530-9436-036d18432719",
+            "date": "2013-10-09T16:09:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/73fad032-e264-44da-9a3e-b48eac0c4527\/gamesboro.openarena.net\/914b147c-0af2-4530-9436-036d18432719\/dI6gjZMiTVWLDIzbsNpB_OpenArena-0.8.8.04.apk",
+            "size": 425934624,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/gamesboro.openarena.net\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zY8bfAEHSrirBlUrNhrH",
+        "video": "https:\/\/vimeo.com\/76466112",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KAN0YpqrTNCTSIAKBEuy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j3zPKvcTqznxNBrZFKIw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7oTsDNqxTpKAGaES0FLS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GGc75JkQ0OZcKeq9xrfg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X5alZfXS5Gfrlvvk22El"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76466112"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KAN0YpqrTNCTSIAKBEuy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KAN0YpqrTNCTSIAKBEuy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/j3zPKvcTqznxNBrZFKIw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/j3zPKvcTqznxNBrZFKIw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7oTsDNqxTpKAGaES0FLS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7oTsDNqxTpKAGaES0FLS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GGc75JkQ0OZcKeq9xrfg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GGc75JkQ0OZcKeq9xrfg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/X5alZfXS5Gfrlvvk22El\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/X5alZfXS5Gfrlvvk22El\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Gamesboro",
+        "supportEmail": "owner@gamesboro.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/www.gamesboro.net",
+    "firstPublishedAt": "2013-09-24T16:35:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Gamesboro.",
+    "premium": false,
+    "rating": {
+        "likeCount": 415,
+        "average": 3.47,
+        "count": 239
+    }
+}

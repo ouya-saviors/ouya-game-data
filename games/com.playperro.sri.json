@@ -1,0 +1,87 @@
+{
+    "packageName": "com.playperro.sri",
+    "title": "Space Repair Inc.",
+    "description": "Travel the galaxy with Space Repair Inc.! Help the team fix broken space stations in zero gravity. Try to get to the goal in the fewest number of moves! Featuring over 50 unique puzzles, with more to come.\r\n\r\nDeveloped by PlayPerro, Published by Yobonja.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "647183f1-54ad-4f8e-ad7a-b2f8542c4a5d",
+            "date": "2013-07-12T19:23:32Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/05bf118c-1eb7-469e-84eb-f88bafb8cd35\/com.playperro.sri\/647183f1-54ad-4f8e-ad7a-b2f8542c4a5d\/KIBOkMiuSPixmFc7pQAX_sri.apk",
+            "size": 13992150,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.playperro.sri\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x8uMJRmvSyK04udejwIn",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hSR0nYHqQpeIe3A40Qvf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UnJtXWGdSOerLwU9n0hx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JJdNutyhS26K3XYyi5CC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MBvgyQTXOng6F1CAhadQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Xysq3mhBQJaJAjQf4n80",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bGzE6z6NQPeSOdKslVKX"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hSR0nYHqQpeIe3A40Qvf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hSR0nYHqQpeIe3A40Qvf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UnJtXWGdSOerLwU9n0hx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UnJtXWGdSOerLwU9n0hx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JJdNutyhS26K3XYyi5CC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JJdNutyhS26K3XYyi5CC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MBvgyQTXOng6F1CAhadQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MBvgyQTXOng6F1CAhadQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Xysq3mhBQJaJAjQf4n80\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Xysq3mhBQJaJAjQf4n80\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bGzE6z6NQPeSOdKslVKX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bGzE6z6NQPeSOdKslVKX\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Yobonja",
+        "supportEmail": "support@playperro.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.playperro.com\/home\/sri",
+    "firstPublishedAt": "2013-03-17T00:23:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Yobonja.",
+    "premium": false,
+    "rating": {
+        "likeCount": 44,
+        "average": 3.28,
+        "count": 18
+    }
+}

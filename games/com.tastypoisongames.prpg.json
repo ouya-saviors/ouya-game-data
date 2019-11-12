@@ -1,0 +1,100 @@
+{
+    "packageName": "com.tastypoisongames.prpg",
+    "title": "Pocket RPG",
+    "description": "Enter a world overrun by hordes of monsters. Explore trap-filled dungeons and face mighty bosses. Collect piles of treasure and items and invest in dozens of abilities and unlockable equipment. Test your skills against the oncoming darkness.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.23",
+            "versionCode": 0,
+            "uuid": "48e3b33f-d292-426a-acd3-fa196e59a8f8",
+            "date": "2016-09-13T17:35:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/369ed0ae-35ee-429e-a96a-ddfa58f5d49f\/com.tastypoisongames.prpg\/48e3b33f-d292-426a-acd3-fa196e59a8f8\/D6ty0G4FShiNLGXgLT31_PocketRPG.apk",
+            "size": 108100195,
+            "md5sum": "294fbd1330b22bf4fa719560fee8f880",
+            "publicSize": 725129,
+            "nativeSize": 15039000
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tastypoisongames.prpg\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sfily6X3Qhy0Gg0XAG46",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hGaa59WdTUCCYNnVoTLg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e0Ojxq6fSpSKeR5ZNast",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HOtZHwxIQMiSVvbf1FaE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KjXQJe7RS2OAfHjKo2kT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7byRp1JTTCfYvAehim29",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BCaQuNT4QHGNxTLhtowz"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hGaa59WdTUCCYNnVoTLg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hGaa59WdTUCCYNnVoTLg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/e0Ojxq6fSpSKeR5ZNast\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/e0Ojxq6fSpSKeR5ZNast\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HOtZHwxIQMiSVvbf1FaE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HOtZHwxIQMiSVvbf1FaE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KjXQJe7RS2OAfHjKo2kT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KjXQJe7RS2OAfHjKo2kT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7byRp1JTTCfYvAehim29\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7byRp1JTTCfYvAehim29\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BCaQuNT4QHGNxTLhtowz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BCaQuNT4QHGNxTLhtowz\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tasty Poison Games",
+        "supportEmail": "info@tastypoisongames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/tastypoisongames.com",
+    "firstPublishedAt": "2013-09-04T07:18:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2016 by Tasty Poison Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 376,
+        "average": 4.04,
+        "count": 812
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "prpg_iap_full_game_unlock",
+            "name": "PRPG Unlock",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "packageName": "com.dragonhead.android.zombiesandtrains",
+    "title": "Zombies & Trains!",
+    "description": "Face hordes of zombies in an epic showdown in the arena! Your weapon? TRAINS! Blast through waves of zombies with your powerful iron engines, wreaking havoc with power-ups like Fire Train and Mass Death! How many kills can you rack up?\r\n\r\n\"This is a title you'll keep coming back to\" -Gamezebo\r\n\r\nFEATURES:\r\n\r\n- Addictive arcade action!\r\n- 4 awesome game modes.\r\n- Acquire powerful equipment and power-ups!\r\n- Simple pick-up-and-play controls.\r\n- 1080p HD graphics! \r\n- And more!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.30",
+            "versionCode": 0,
+            "uuid": "408e89ee-4c3c-400f-a784-c98cb606513b",
+            "date": "2013-04-03T01:49:20Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/53e1247d-5093-4a33-b3b4-3c6904f447b0\/com.dragonhead.android.zombiesandtrains\/408e89ee-4c3c-400f-a784-c98cb606513b\/CWVWXLePQKA0rp2bLSHv_zombiesandtrains.apk",
+            "size": 69776436,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dragonhead.android.zombiesandtrains\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iUVPFl7QNukPqzYY6gAA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hGatxSJeTRu2dSGCQLvx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/89dsT7MYR9iMO6Rt3IBh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DhGnTQbToGF02PvdsleA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EuXMBBLvQbCEcoyn0Ymw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/01MAFujHS5mGFW45IqOd"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hGatxSJeTRu2dSGCQLvx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hGatxSJeTRu2dSGCQLvx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/89dsT7MYR9iMO6Rt3IBh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/89dsT7MYR9iMO6Rt3IBh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DhGnTQbToGF02PvdsleA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DhGnTQbToGF02PvdsleA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EuXMBBLvQbCEcoyn0Ymw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EuXMBBLvQbCEcoyn0Ymw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/01MAFujHS5mGFW45IqOd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/01MAFujHS5mGFW45IqOd\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dragonhead Games",
+        "supportEmail": "contact@dragonheadgames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.dragonheadgames.com\/",
+    "firstPublishedAt": "2013-03-27T14:59:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Dragonhead Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 229,
+        "average": 3.72,
+        "count": 74
+    }
+}

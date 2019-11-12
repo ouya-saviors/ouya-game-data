@@ -1,0 +1,83 @@
+{
+    "packageName": "com.BlueNuageStudios.FlappyPlane",
+    "title": "Flappy Plane",
+    "description": "Remember the fun of Flappy Bird on your television with this high quality remake made by a student developer! All the fun of Flappy Bird, with the same tight collision detection, but on your big screen!\r\n\r\nMutiplayer update coming soon!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e9ea69c8-a1c8-4d17-a1ee-22062f10fbeb",
+            "date": "2014-02-21T00:36:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9a463526-511b-493d-a799-0d1645efcceb\/com.BlueNuageStudios.FlappyPlane\/e9ea69c8-a1c8-4d17-a1ee-22062f10fbeb\/zWL5Du0RuSaVMUXp6Gdx_FlappyPlane-android.apk",
+            "size": 6678355,
+            "md5sum": "1ff2d1795ad5e5080a8f2c1e57053807",
+            "publicSize": 243150,
+            "nativeSize": 739932
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bluenuagestudios.flappyplane\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S2XDrFOT66kgqJxDTP4j",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3u1cxiraQaNx7XvATOBA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/989s7UtfQVmzAu9p5Gzn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SraOi3gQKaafU3kisztD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oQJDM3fST7QNHbOCRUVw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gpJB5MiGRNqiJsTNOxeE"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3u1cxiraQaNx7XvATOBA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3u1cxiraQaNx7XvATOBA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/989s7UtfQVmzAu9p5Gzn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/989s7UtfQVmzAu9p5Gzn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SraOi3gQKaafU3kisztD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SraOi3gQKaafU3kisztD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oQJDM3fST7QNHbOCRUVw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oQJDM3fST7QNHbOCRUVw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gpJB5MiGRNqiJsTNOxeE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gpJB5MiGRNqiJsTNOxeE\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Blue Nuage Studios",
+        "supportEmail": "bluenuage@outlook.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "bluenuage.com",
+    "firstPublishedAt": "2014-02-21T00:36:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Blue Nuage Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 2.85,
+        "count": 270
+    }
+}

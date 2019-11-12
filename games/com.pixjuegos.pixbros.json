@@ -1,0 +1,75 @@
+{
+    "packageName": "com.pixjuegos.pixbros",
+    "title": "PiX Bros",
+    "description": "PiX Bros is a platform game inspired in three different historical arcade games: Bubble Bobble, Snow Bros and Tumble Pop. \r\n\r\nThree siblings end up transformed into their favourite videogame heroes to show off who's the best!\r\n\r\nUpdate:\r\n- Solved slowness in 1080p\r\n- 3 players at the same time\r\n- More languages supported: English, Spanish and Italian.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 0,
+            "uuid": "7de7e75e-f020-41b5-802a-b88a946679c5",
+            "date": "2013-10-09T15:33:11Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e24c5d56-7f89-47bc-b446-b88a8b46d440\/com.pixjuegos.pixbros\/7de7e75e-f020-41b5-802a-b88a946679c5\/i15Ffo2wSdCq7fDWQdRU_pixbros-4-ouya.apk",
+            "size": 22434964,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixjuegos.pixbros\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7U12rkVTlmYsEbLZoFwl",
+        "video": "https:\/\/vimeo.com\/76483716",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/egaTo65QhqFT7STUZ6nJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2JRDrksaTpB38kVolVrq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6SyO6IRERRqovnQTK8h3"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/76483716"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/egaTo65QhqFT7STUZ6nJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/egaTo65QhqFT7STUZ6nJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2JRDrksaTpB38kVolVrq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2JRDrksaTpB38kVolVrq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6SyO6IRERRqovnQTK8h3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6SyO6IRERRqovnQTK8h3\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PiX Juegos",
+        "supportEmail": "contacto@pixjuegos.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.pixjuegos.com\/?j=pixbros",
+    "firstPublishedAt": "2013-04-09T00:04:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by PiX Juegos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 44,
+        "average": 3.08,
+        "count": 37
+    }
+}

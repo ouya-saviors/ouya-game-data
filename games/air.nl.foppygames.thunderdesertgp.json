@@ -1,0 +1,89 @@
+{
+    "packageName": "air.nl.foppygames.thunderdesertgp",
+    "title": "Thunder Desert GP",
+    "description": "Thunder Desert GP is a racer in the style of Pole Position and Super Hang On. Each lap has to be completed before the timer reaches zero. Crashing into bikes and signs will cost valuable time. The ultimate goal is to complete 10 laps and win the gold cup!\n\nVersion 0.4 is mainly a technical update:\n\n- updated software libraries\n- further optimized code and graphics\n- maximum opponents on screen now 10 (was 8)\n- slightly increased player speed\n- increased tree count on forest track",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "0.4",
+            "versionCode": 0,
+            "uuid": "fa3075bb-1593-4860-a73f-97cb5b145383",
+            "date": "2015-05-08T20:46:35Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ad170a9c-e035-4e3a-9185-4166deec87c0\/air.nl.foppygames.thunderdesertgp\/fa3075bb-1593-4860-a73f-97cb5b145383\/cX1L38k4QvmmLvRILuSr_ThunderDesertGP.apk",
+            "size": 18577461,
+            "md5sum": "df8e38457db5aaabb82eac997c27b2a0",
+            "publicSize": 239441,
+            "nativeSize": 20173095
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.nl.foppygames.thunderdesertgp\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h6JmvtqcRHiku0NNdBtc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i6yLLLmSVWlEMxeGGPT0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TWaR2tBPQl6H8NkbQcdx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LTVIOjKHQzxjxvydmGeQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NnYFlQUIR1KZv3yKZQZf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HQHFjJbjTlCMjaRgAg1T",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e4p21zSSVOE9ZL1x4XSx"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/hqqv59_ouya-screenshot20150503-3-1czcfal.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/thumbnails\/thumbnail20150503-3-cuajyx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/iwy3rf_ouya-screenshot20150503-3-oa8evw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/thumbnails\/thumbnail20150503-3-1gidqjk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/vd001n_ouya-screenshot20150503-3-kyq1se.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/thumbnails\/thumbnail20150503-3-82nmss.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/3p1pde_ouya-screenshot20150503-3-1gwe5ay.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/thumbnails\/thumbnail20150503-3-16q92wn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/pccwjp_ouya-screenshot20150503-3-jhqwy9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/thumbnails\/thumbnail20150503-3-tl3jrs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/7bkd0l_ouya-screenshot20150503-3-1ont00x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fa3075bb-1593-4860-a73f-97cb5b145383\/thumbnails\/thumbnail20150503-3-i6cq2b.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "ad170a9c-e035-4e3a-9185-4166deec87c0",
+        "name": "Foppygames",
+        "supportEmail": "robbertprins@foppygames.nl",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.foppygames.nl",
+    "firstPublishedAt": "2014-04-03T17:41:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2015 by Foppygames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 48,
+        "average": 3.89,
+        "count": 845
+    }
+}

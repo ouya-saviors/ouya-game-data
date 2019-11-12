@@ -1,0 +1,105 @@
+{
+    "packageName": "com.aYs.HoDone",
+    "title": "Harvester of Dreams : EP1",
+    "description": "First-person point-and-click adventure game. Very early release. I'll update the game as often as possible. But it's just me, so please be patient...\n\nVersion 0.152\n- added logo animation in the beginning\n- first cutscene system implementation with intro sequence\n- ship exterior for intro and level\n- lensflares ;)\n- many minor improvements and asset changes\n- I changed the default resolution to 720p\n\nVersion 0.134\n- The look of the second room has changed.\n- I now also use the reflection mask to offset the reflection lookup. The reflections now kind of follow the surface structure. (like normal maps, but cheaper) It had no impact on the performance, so there you go.\n- The door texture is not that ugly anymore.\n- The hallway got a floor, a ceiling and a lightmap.\n- I found out about the shader variants in unity and merged several shaders together that will result in different shader programs, depending on the configuration of the material. (good reference: http:\/\/martinpalko.com\/Tutorials\/MultiCompileUnity\/MultiCompileUnity.html)\n\nVersion 0.129\n- There is a new room finally. Its needs some details and polishing though.\n- In that room you are going to find a new mini game. It does not provide you with any rewards right now. But it does not ask you for coins either.\n- Last, not least, I replaced the old unity plugin with the new OUYA everywhere SDK. That was quite some work.\nAnd of course other fixes, changes, addititions to the code.\n\nI'll try uploading new updates more frequently in the future.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "0.152",
+            "versionCode": 0,
+            "uuid": "db72c6cb-8d92-49d3-ba70-e4ccd1d724e8",
+            "date": "2015-01-13T18:20:54Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ae355b2d-0bbf-4f9a-991b-6ce7c8522847\/com.aYs.HoDone\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/P119jyj6ROyBsGkQH7Fm_com.aYs.HoDOne.apk",
+            "size": 104174268,
+            "md5sum": "b285537b89cb4e776133710c6122faa0",
+            "publicSize": 309409,
+            "nativeSize": 21336142
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ays.hodone\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5UCyJm3OQHtAGP3zlFYM",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oy1jk6L2RsmfJMNPybMk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wC3IUZjxSBOyPB7ToZx8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0LVuHrHDRFaa64JtilKu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c5BzgEQSrB7pwszosjA3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MsGsHCmRROvoJ2uA9jJI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ybheUrYyQuilkkEvcyjr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EiMl2mc3R9i2fLSrxODT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fzL4yRypQb2wCpUAlqXO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AgXCjOjjSquIe9VlEpYr"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/4k7kqo_ouya-screenshot20150111-2-1bld5qz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-ltms7v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/33dtic_ouya-screenshot20150111-2-1b3buvy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-q60iwd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/bkpzz6_ouya-screenshot20150111-2-3raa5b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-1057u6f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/7il2bn_ouya-screenshot20150111-2-1x1ojlf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-tm9uzs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/pv0t1e_ouya-screenshot20150111-2-1gh6ify.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-c1ex7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/s8fx4w_ouya-screenshot20150111-2-pow5f9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-i540ad.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/ampafr_ouya-screenshot20150111-2-112nscf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-104vdhv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/px8sru_ouya-screenshot20150111-2-1cgwc5v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-16460aj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/h0aviu_ouya-screenshot20150111-2-5sw3gv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/db72c6cb-8d92-49d3-ba70-e4ccd1d724e8\/thumbnails\/thumbnail20150111-2-tolv5y.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Christian Waadt",
+        "supportEmail": "sekuta@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "www.harvester-of-dreams.com",
+    "firstPublishedAt": "2014-03-24T23:01:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by Christian Waadt.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 3.06,
+        "count": 116
+    }
+}

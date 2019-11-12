@@ -1,0 +1,86 @@
+{
+    "packageName": "com.luckyframe.gentlemen_",
+    "title": "Gentlemen!",
+    "description": "Gentlemen!\r\nLocal multiplayer Victorian-themed deathmatch! At least 2 players required.\r\nHead-to-Head Knife Pigeon Bomb Battles!\r\nUp to 4 Players, super fast paced arena multiplayer mayhem.\r\n\r\nEdge says: \"skilfully combines the arcade immediacy of Super Crate Box with the weaponised chaos of Super Smash Bros, and VVVVVV\u2019s instant gravity-switching\"",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "5b98495b-a6b7-4fdb-a6a2-f43f0f8fe841",
+            "date": "2013-08-30T16:20:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f5332a5b-b502-4e72-af70-c23b2acb5278\/com.luckyframe.gentlemen_\/5b98495b-a6b7-4fdb-a6a2-f43f0f8fe841\/Euz6EtHtTfOFIyo1rACO_gentlemen_ouya.apk",
+            "size": 56585955,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.luckyframe.gentlemen_\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ta9TiuHdSRKLx5Z6reZe",
+        "video": "https:\/\/vimeo.com\/87793047",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IjKgfKw3QsWZSOtUeDt0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jGUzpmUuR0RYBj8fkaPD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/InOlCc2RiSZPxvEIITpW"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87793047"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IjKgfKw3QsWZSOtUeDt0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IjKgfKw3QsWZSOtUeDt0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jGUzpmUuR0RYBj8fkaPD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jGUzpmUuR0RYBj8fkaPD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/InOlCc2RiSZPxvEIITpW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/InOlCc2RiSZPxvEIITpW\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lucky Frame",
+        "supportEmail": "info@luckyframe.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.luckyframe.co.uk\/",
+    "firstPublishedAt": "2013-08-27T08:27:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Lucky Frame.",
+    "premium": false,
+    "rating": {
+        "likeCount": 125,
+        "average": 3.85,
+        "count": 169
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "gentlemenfull",
+            "name": "Gentlemen Full Version",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

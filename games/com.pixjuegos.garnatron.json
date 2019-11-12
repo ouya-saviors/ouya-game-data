@@ -1,0 +1,75 @@
+{
+    "packageName": "com.pixjuegos.garnatron",
+    "title": "Garnatron",
+    "description": "*SUPER FAST ALPHA version! It may contain bugs!*\r\n\r\nMultiplayer shoot'em up with 5 awesome levels, bosses and 6 different upgradeable weapons.\r\n\r\nWe're currently improving our game engine (BennuGD) to make it a lot faster. The former version of the game run at 15fps, and this one runs at 60fps by using the Tegra 3's GPU acceleration.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "1846a457-5f23-40df-ab0b-e6b16fd95e1f",
+            "date": "2014-03-14T21:18:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e24c5d56-7f89-47bc-b446-b88a8b46d440\/com.pixjuegos.garnatron\/1846a457-5f23-40df-ab0b-e6b16fd95e1f\/ANTVTOLnRK6DEVPYPcAG_Garnatron-release.apk",
+            "size": 17091232,
+            "md5sum": "d2cae2bf4b376c7930689b3c8ea05e5c",
+            "publicSize": 481009,
+            "nativeSize": 4430876
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixjuegos.garnatron\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gYtu0NKBRhuDGxG061K7",
+        "video": "https:\/\/vimeo.com\/89113408",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9zTU0Yt9TYaVOpaNG3ya",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LcJSBeoQK2o2ZKFKHkYG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lONhS5w9TDuOxtSVI7Zf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89113408"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9zTU0Yt9TYaVOpaNG3ya\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9zTU0Yt9TYaVOpaNG3ya\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LcJSBeoQK2o2ZKFKHkYG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LcJSBeoQK2o2ZKFKHkYG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lONhS5w9TDuOxtSVI7Zf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lONhS5w9TDuOxtSVI7Zf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PiX Juegos",
+        "supportEmail": "contacto@pixjuegos.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pixjuegos.com\/?j=garnatron",
+    "firstPublishedAt": "2013-04-25T18:10:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by PiX Juegos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 51,
+        "average": 3.34,
+        "count": 65
+    }
+}

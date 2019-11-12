@@ -1,0 +1,81 @@
+{
+    "packageName": "com.bossdog.coscon",
+    "title": "Cosmic Conquest",
+    "description": "Cosmic Conquest is a fast paced, real-time strategy game!\r\n\r\nOutwit the evil Alien race by capturing all of their bases, using a mixture of action and strategy, in this insanely fun game!\r\n\r\nDiscover and capture the various types of Bases and Towers, and then use them to crush your enemy!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "3ec9e71c-be5c-4af5-a7ac-ec6d898e03ba",
+            "date": "2013-07-02T04:33:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/89475d66-65db-4940-918a-322aade38bc4\/com.bossdog.coscon\/3ec9e71c-be5c-4af5-a7ac-ec6d898e03ba\/X9FSu7zdRg2Hs0IeCzyC_coscon.apk",
+            "size": 97144033,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bossdog.coscon\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/77pMLkTd2mKsP4BZHRnA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MvWvu7aCRWCPMKBvdXtr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IEXFDR4kRQp6emNGODWD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NucdvkKDRWuhX9X2DaQH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bwSIX0x4SniFChPYNDCp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VfY0ZBQBR2a4hPz9yDhi"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MvWvu7aCRWCPMKBvdXtr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MvWvu7aCRWCPMKBvdXtr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IEXFDR4kRQp6emNGODWD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IEXFDR4kRQp6emNGODWD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NucdvkKDRWuhX9X2DaQH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NucdvkKDRWuhX9X2DaQH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bwSIX0x4SniFChPYNDCp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bwSIX0x4SniFChPYNDCp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VfY0ZBQBR2a4hPz9yDhi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VfY0ZBQBR2a4hPz9yDhi\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BOSSDOG GAMES",
+        "supportEmail": "adam@bossdoggames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.bossdoggames.com",
+    "firstPublishedAt": "2013-07-02T04:33:28Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by BOSSDOG GAMES.",
+    "premium": false,
+    "rating": {
+        "likeCount": 84,
+        "average": 3.73,
+        "count": 40
+    }
+}

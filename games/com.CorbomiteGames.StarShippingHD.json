@@ -1,0 +1,83 @@
+{
+    "packageName": "com.CorbomiteGames.StarShippingHD",
+    "title": "Star Shipping Inc.",
+    "description": "In Star shipping Inc. you take the role of the captain of of a cargo ship traveling between star systems to trade goods and commodities in strive to become the richest star ship captain in the galaxy.\r\nStar shipping features high resolution beautiful space backdrops, planets, aliens, nebulae, space ships, items, and characters. The game includes an in game store where you can buy upgrades to your ship in order to increase performance and get a higher score. For example, you can buy upgrades to get more speed, strength, or resilience. The game also features a bank where you can keep your savings and where you can loan cash in times of need.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.015",
+            "versionCode": 0,
+            "uuid": "92afc363-59dc-4948-b52e-d71d5b842709",
+            "date": "2013-07-16T16:55:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8ea74ce0-f454-4cf3-9042-762558468fad\/com.CorbomiteGames.StarShippingHD\/92afc363-59dc-4948-b52e-d71d5b842709\/h2CIw7xpTceHrhsiI38C_StarShipping_OUYA_1.015a_16-07-13.apk",
+            "size": 34141710,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.corbomitegames.starshippinghd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/waePaT95TXm3QNlVGXAk",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a1aSS9DmQUWXfo2XtQ49",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RIWQQxsSS3eu7s51Aug7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y5MMIw2SFCBLQBtWqrP0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TzVFQrcCTr2YFaAMX5MG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xRvBxxCzRMu95xgNoDVM"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/a1aSS9DmQUWXfo2XtQ49\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/a1aSS9DmQUWXfo2XtQ49\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RIWQQxsSS3eu7s51Aug7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RIWQQxsSS3eu7s51Aug7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y5MMIw2SFCBLQBtWqrP0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y5MMIw2SFCBLQBtWqrP0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TzVFQrcCTr2YFaAMX5MG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TzVFQrcCTr2YFaAMX5MG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xRvBxxCzRMu95xgNoDVM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xRvBxxCzRMu95xgNoDVM\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8ea74ce0-f454-4cf3-9042-762558468fad",
+        "name": "Corbomite Games",
+        "supportEmail": "support@corbomitegames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/starshipping.corbomitegames.com\/",
+    "firstPublishedAt": "2013-03-23T01:53:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Corbomite Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 50,
+        "average": 2.26,
+        "count": 27
+    }
+}

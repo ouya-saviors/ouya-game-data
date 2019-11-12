@@ -1,0 +1,116 @@
+{
+    "packageName": "com.blumed.superblockshocker",
+    "title": "Super Blockshocker",
+    "description": "Super Blockshocker is a remake of the famous Puyo Puyo game, which is similiar to games like Tetris.\r\n\r\nYou can play alone, against the computer or against your friends. This game features different and very strong artificial intelligences to play against.\r\n\r\nAre you smart and fast enough to master the challenge?\r\n\r\nConnect 4 or more blocks of the same color to remove them. Create chain reactions to get a score multiplier and attack your opponent with meteroid blocks.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "7b1b5337-2b00-4f92-9d1c-7cc6846e61fc",
+            "date": "2014-06-05T18:35:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9698cb4a-09e6-45ec-a54a-e920c9b46879\/com.blumed.superblockshocker\/7b1b5337-2b00-4f92-9d1c-7cc6846e61fc\/QsjrYAqmRLin1QGPC4hi_super_blockshocker.apk",
+            "size": 29892690,
+            "md5sum": "96d674a98b4bcdbb948acee462342157",
+            "publicSize": 511510,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.blumed.superblockshocker\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3WuVVojXTx6LTr1DjsRH",
+        "video": "https:\/\/vimeo.com\/97362284",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wipOWAGJQuq2UQFKu1WF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KQX2ogCcRJunIlhbcRxE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l3nZKQzSxidzCGTCtPSQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KlubuyRNRmeqJ22VIrpP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YOHXmUF3SlGi0dB5LtXh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mJaWB1R0KZGnX2xeSgOR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x1M9BpHQSLWFuocwU2iB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Nun9G2r9SYuNSQ7janpV"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/97362284"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wipOWAGJQuq2UQFKu1WF",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wipOWAGJQuq2UQFKu1WF"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KQX2ogCcRJunIlhbcRxE",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KQX2ogCcRJunIlhbcRxE"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l3nZKQzSxidzCGTCtPSQ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l3nZKQzSxidzCGTCtPSQ"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KlubuyRNRmeqJ22VIrpP",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KlubuyRNRmeqJ22VIrpP"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YOHXmUF3SlGi0dB5LtXh",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YOHXmUF3SlGi0dB5LtXh"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mJaWB1R0KZGnX2xeSgOR",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mJaWB1R0KZGnX2xeSgOR"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/x1M9BpHQSLWFuocwU2iB",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/x1M9BpHQSLWFuocwU2iB"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Nun9G2r9SYuNSQ7janpV",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Nun9G2r9SYuNSQ7janpV"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BluMed",
+        "supportEmail": "bluemeditation@nurfuerspam.de",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/lmgtfy.com\/?q=i+have+no+website#seen",
+    "firstPublishedAt": "2014-06-05T18:35:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by BluMed.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.48,
+        "count": 31
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "super_blockshocker_full_game",
+            "name": "Super Blockshocker - Full Game",
+            "description": "Thank you for your support.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,76 @@
+{
+    "packageName": "com.guillaumesoft.superjumper",
+    "title": "Super Jumper",
+    "description": "This game is a free game and the completion of an exercise from the book \"Beginning Android Games\".  This is my version of \"Super Jumper\" which is an addictive and entertaining game to waste some time.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "471b7905-c756-43af-87de-1deee473ec77",
+            "date": "2015-08-12T23:24:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ab58c9eb-0774-4cfc-8309-0c24895fc58f\/com.guillaumesoft.superjumper\/471b7905-c756-43af-87de-1deee473ec77\/3IysphBSmyjT9jqlFh7e_app-release.apk",
+            "size": 6113852,
+            "md5sum": "e4e4acbae773b9dcb55a6623d0e6f81e",
+            "publicSize": 764530,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.guillaumesoft.superjumper\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i2oKwRIASMamJWg7v1nZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T6SsMVseSLaaSl6pGa2H",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/K7goGyR9TzKg1Bsd9m9Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ynJJFtBSA6K1IrVpJ5Gj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vuD65MoYTPCAOinQLfKI"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/czej26_ouya-screenshot20150812-3-g8bt5h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/thumbnails\/thumbnail20150812-3-1tox8m7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/dff0j8_ouya-screenshot20150812-3-1jvv0ax.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/thumbnails\/thumbnail20150812-3-m9ir2u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/o41yjt_ouya-screenshot20150812-3-7cr0bd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/thumbnails\/thumbnail20150812-3-1b45ex4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/mdc4q0_ouya-screenshot20150812-3-1af0jsu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/471b7905-c756-43af-87de-1deee473ec77\/thumbnails\/thumbnail20150812-3-2xy7c1.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Guillaume Swolfs  Guillaumesoft",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/guillaumesoft.x10.mx\/home.php",
+    "firstPublishedAt": "2015-08-12T23:24:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2015 by Guillaume Swolfs  Guillaumesoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.44,
+        "count": 25
+    }
+}

@@ -1,0 +1,96 @@
+{
+    "packageName": "com.imaeklimited.voxybird",
+    "title": "Voxy Bird",
+    "description": "The year is 2015 and the world has come to an end, but one bird found an underground cave consisting of passages and pipes. He must now struggle through and endless array of obstacles to achieve satisfaction as it's no longer possible to fly south for the winter. Gain super strength by picking up strong arms to lay waste to those menacing pipes.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "b3b2e5e2-3974-4fc7-a28b-f11daa182273",
+            "date": "2014-03-28T20:54:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c723c359-39ee-453a-9c5e-c4ab5e02d4e8\/com.imaeklimited.voxybird\/af16c539-784a-4b04-bf8f-63f0a11299ec\/S2PsrzZQ8eeUNhRjAvtg_VoxyBird_1.1.apk",
+            "size": 12744276,
+            "md5sum": "59148be14a3068e7a02176efed39800a",
+            "publicSize": 101840,
+            "nativeSize": 14675708
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.imaeklimited.voxybird\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sD0boRpRJiI89Ac0W5dp",
+        "video": "https:\/\/vimeo.com\/89958411",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/65r9vvP9SsCzPvtD8gUl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dXmIUviHQQCpSwmES6ZN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/86XJzgSOSPSXlPCRkSSn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jWVOAA6WRlCev7XCE8g0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QvHCY8NXTo2AoIBrZrly"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/89958411"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/65r9vvP9SsCzPvtD8gUl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/65r9vvP9SsCzPvtD8gUl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dXmIUviHQQCpSwmES6ZN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dXmIUviHQQCpSwmES6ZN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/86XJzgSOSPSXlPCRkSSn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/86XJzgSOSPSXlPCRkSSn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jWVOAA6WRlCev7XCE8g0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jWVOAA6WRlCev7XCE8g0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QvHCY8NXTo2AoIBrZrly\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QvHCY8NXTo2AoIBrZrly\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Imaek(games)",
+        "supportEmail": "imaekgames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/imaek.com",
+    "firstPublishedAt": "2014-03-28T20:54:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Imaek(games).",
+    "premium": false,
+    "rating": {
+        "likeCount": 11,
+        "average": 1.96,
+        "count": 47
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "voxybird-id-01",
+            "name": "Voxy Bird Unlock",
+            "description": "Thanks for the support. Purchasing Voxy Bird will unlock unlimited play.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

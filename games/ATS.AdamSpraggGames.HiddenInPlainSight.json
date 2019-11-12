@@ -1,0 +1,104 @@
+{
+    "packageName": "ATS.AdamSpraggGames.HiddenInPlainSight",
+    "title": "Hidden In Plain Sight",
+    "description": "Imagine a race where every runner has a gun with one bullet.  Do you sprint to the finish?  Or hang back in the safety of the crowd?  Death Race is one of five game modes which challenge players to blend in with NPCs to accomplish goals while risking elimination by their opponents.\r\n\r\nHidden in Plain Sight is a local-multiplayer game for 2-4 players (and unlimited spectators!)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "0c6c588a-47e0-4787-8be4-cd58c4d40064",
+            "date": "2013-08-12T18:39:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3e023126-96c5-4998-9c9c-4cf375880ec8\/ATS.AdamSpraggGames.HiddenInPlainSight\/0c6c588a-47e0-4787-8be4-cd58c4d40064\/NzbO3de5Qo6kbKUTEDcC_ATS.AdamSpraggGames.HiddenInPlainSight.apk",
+            "size": 34827536,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/ats.adamspragggames.hiddeninplainsight\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6awyuNbVS1ueJSo7KLdZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tC4RIGJLQvG2uG1av9jN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZiBSptvRZWVAGjQG18HK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LIA13xVQlGHlcaE26YjF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kvNy57KjTsedWBQ6IWtz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4qOd97FSih85WQwON6hA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0N7mQjndRe23uMCh9sUl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EpEN4LgyTQuNOlKVXQNd"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tC4RIGJLQvG2uG1av9jN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tC4RIGJLQvG2uG1av9jN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZiBSptvRZWVAGjQG18HK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZiBSptvRZWVAGjQG18HK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LIA13xVQlGHlcaE26YjF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LIA13xVQlGHlcaE26YjF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kvNy57KjTsedWBQ6IWtz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kvNy57KjTsedWBQ6IWtz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4qOd97FSih85WQwON6hA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4qOd97FSih85WQwON6hA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0N7mQjndRe23uMCh9sUl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0N7mQjndRe23uMCh9sUl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EpEN4LgyTQuNOlKVXQNd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EpEN4LgyTQuNOlKVXQNd\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Adam Spragg",
+        "supportEmail": "aspragg@yahoo.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/adamspragggames.blogspot.com",
+    "firstPublishedAt": "2013-05-23T19:02:34Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Adam Spragg.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1229,
+        "average": 4.5,
+        "count": 809
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HiddenInPlainSightUnlock299",
+            "name": "Hidden in Plain Sight Full Game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

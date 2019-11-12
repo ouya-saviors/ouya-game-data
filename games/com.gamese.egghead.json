@@ -1,0 +1,77 @@
+{
+    "packageName": "com.gamese.egghead",
+    "title": "Egg Head",
+    "description": "EGG HEAD is an arcade platform game.This game is the remakes of the Spectrum game.\r\n\r\nEasy to play,collect all key and go to next level.\r\n\r\nFeatures:\r\n- 40 levels\r\n- Continue Support\r\n- High Score\r\nthis game was created with the permission of Jonathan Cauldwell,thank to him.\r\n ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "cf700f3c-d265-4fd8-b2a4-a6eac1d64b51",
+            "date": "2014-03-13T05:52:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6d331aa7-6746-4f04-9bc6-548bd0cfb4fb\/com.gamese.egghead\/cf700f3c-d265-4fd8-b2a4-a6eac1d64b51\/Jeab3mahTUOht2QRnGPh_egg02.apk",
+            "size": 7699261,
+            "md5sum": "21e8fe4be5037ee5b3340047c4bb981a",
+            "publicSize": 7003378,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamese.egghead\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J3lnoOZpQvScjJdV2DhQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/942fAFqSQmVg0MfC94pA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/26U5jBeWRzKTml70KxNb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nwNfX3p0QlmGrlmasa2Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MSckpKAISU6YjwQxPggf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/942fAFqSQmVg0MfC94pA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/942fAFqSQmVg0MfC94pA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/26U5jBeWRzKTml70KxNb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/26U5jBeWRzKTml70KxNb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nwNfX3p0QlmGrlmasa2Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nwNfX3p0QlmGrlmasa2Q\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MSckpKAISU6YjwQxPggf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MSckpKAISU6YjwQxPggf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": "musti74@free.fr",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "mremakes.free.fr",
+    "firstPublishedAt": "2014-03-12T19:36:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by 3T Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 14,
+        "average": 3.08,
+        "count": 62
+    }
+}

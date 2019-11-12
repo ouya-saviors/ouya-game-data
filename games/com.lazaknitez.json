@@ -1,0 +1,104 @@
+{
+    "packageName": "com.lazaknitez",
+    "title": "LAZA KNITEZ!!",
+    "description": "4 ULTRANOBLE WARRIORZ FROM THE TECHNOFUTURE MEET ON A FIELD OF MINDBLOWING HYPERCOMBAT TO DECIDE THE FATE OF ALL POSSIBLE FUTURES!!\r\n\r\nAwards & Recognition\r\n\"Nordic Indie Sensation - Winner.\" Nordic Game, Malm\u00f6 24 May 2012\r\n\"Distortion Street Festival - Official Selection.\" Distortion, Copenhagen 1 June 2012\r\n\"Best Artistic Achievement - Nominee.\" Spilprisen, Copenhagen 18 April 2013\r\n\"eSports Showcase - Official Selection.\" IndieCade East, New York City March 2014",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "894f3144-0ece-403d-8c21-09695bde375c",
+            "date": "2014-03-29T08:22:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7c00f310-b464-41e7-a24c-92d72837f568\/com.lazaknitez\/894f3144-0ece-403d-8c21-09695bde375c\/xxfKrMMThTgQqQ8aQpwr_LAZAKNITEZ.apk",
+            "size": 29674389,
+            "md5sum": "826b9873e1a1bc88c64ee74a624388eb",
+            "publicSize": 10283,
+            "nativeSize": 12019024
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lazaknitez\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cyc0N3iCRWuMa6bgfM5q",
+        "video": "https:\/\/vimeo.com\/88814468",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aOeuJARHQnO5Eibvrc1s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NuhBrYghQRibeV9iSi7C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wxUuAmv2SfmZivk7zG1e",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xZFITpg2RFiufvMAS5J9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PlShbZsQTm2WJfqkTOJ1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kz4ZIklkRoKMRBSkbwGR"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/88814468"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aOeuJARHQnO5Eibvrc1s\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aOeuJARHQnO5Eibvrc1s\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NuhBrYghQRibeV9iSi7C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NuhBrYghQRibeV9iSi7C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wxUuAmv2SfmZivk7zG1e\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wxUuAmv2SfmZivk7zG1e\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xZFITpg2RFiufvMAS5J9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xZFITpg2RFiufvMAS5J9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PlShbZsQTm2WJfqkTOJ1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PlShbZsQTm2WJfqkTOJ1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kz4ZIklkRoKMRBSkbwGR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kz4ZIklkRoKMRBSkbwGR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Glitchnap",
+        "supportEmail": "hello@glitchnap.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.lazaknitez.com",
+    "firstPublishedAt": "2014-03-12T09:28:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Glitchnap.",
+    "premium": false,
+    "rating": {
+        "likeCount": 74,
+        "average": 3.75,
+        "count": 255
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "LAZAKNITEZ",
+            "name": "LAZA KNITEZ!!",
+            "description": "UNLOCK UNLIMITED HYPERCOMBAT FOR ALL ETERNITY!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

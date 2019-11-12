@@ -1,0 +1,88 @@
+{
+    "packageName": "air.BRFree",
+    "title": "Booking Revolution",
+    "description": "Wrestling Revolution may be the reigning champion in the ring, but now \"Booking Revolution\" takes you behind the scenes where the REAL power is! Assume control of a given promotion and set about making it your own by changing the gimmicks of the wrestlers. Then deploy your talent in matches of your own creation - complete with sophisticated ratings that measure the entertainment you're providing.\r\n\r\nUpgrade to \"Pro\" to start at a promotion of your choice with full privileges - such as hiring new talent. This also grants you access to the editor, where you can save your changes to all 350 characters to create your own universe. You can then enjoy acting out your own dream matches with no pressure in \"Exhibition\" mode.\r\n\r\nWhen editing rosters, the right thumbstick can be used to switch character slots - or move them to a different company entirely.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Sim\/Strategy",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.750",
+            "versionCode": 0,
+            "uuid": "0736dc06-ad9f-4410-a118-138e23918179",
+            "date": "2014-10-06T23:20:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/90cce341-747a-4c11-b644-e9bf491cb32f\/air.BRFree\/0736dc06-ad9f-4410-a118-138e23918179\/aFP6knJpROKRmfJzAndg_BRFree%201-75%20%28OUYA%29.apk",
+            "size": 40212064,
+            "md5sum": "596817756b960059c1e1fbe5aac08960",
+            "publicSize": 1557895,
+            "nativeSize": 20115451
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.brfree\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ulL2IZvnTFyTXRpUnrlE",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mhSXtHF6SFeBKQE3GVds",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eoAFRVPjRY6tLJY6OAkU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UZFPq2gSLOK7x0LFXdZw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DJPYC29uS8OiBMSnHmJd"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/w5qwn2_ouya-screenshot20141005-2-1k9gtrl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-e10rdn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/d5so5d_ouya-screenshot20141005-2-jso50l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-14rk0eq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/7nhx37_ouya-screenshot20141005-2-1wef601.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-b5rt65.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/lv1qsq_ouya-screenshot20141005-2-pf463a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-lroybi.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MDickie",
+        "supportEmail": "mat@mdickie.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.MDickie.com",
+    "firstPublishedAt": "2013-08-16T02:15:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by MDickie.",
+    "premium": false,
+    "rating": {
+        "likeCount": 71,
+        "average": 4.08,
+        "count": 87
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "br_upgrade",
+            "name": "Pro Upgrade",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

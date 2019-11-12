@@ -1,0 +1,86 @@
+{
+    "packageName": "com.initialsgames.revvolvver",
+    "title": "Revvolvver",
+    "description": "Revvolvver is a crazy multiplayer (up to four) platformer that places emphasis on accuracy. Hitting targets with all six of your revvolvvers bullets will win the game. Will you choose accuracy or brute force?\r\n\r\nArt by Kenney.nl.\r\n\r\nPower Up gameplay design by Ees.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "4.0",
+            "versionCode": 0,
+            "uuid": "9c86bee1-3170-47ef-adb6-faa790194a83",
+            "date": "2014-04-10T00:21:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1524df9e-c5bf-426d-86e9-2194298858c6\/com.initialsgames.revvolvver\/9c86bee1-3170-47ef-adb6-faa790194a83\/PxhoFUFjTlGdxmI6P7ZP_com.initialsgames.revvolvver-Signed.apk",
+            "size": 44827128,
+            "md5sum": "e50e7520feb86dc8f6e41c65019775dd",
+            "publicSize": 125972,
+            "nativeSize": 2924816
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.revvolvver\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7O5xKNvBQJSSAfKQ9Fa0",
+        "video": "https:\/\/vimeo.com\/85646541",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BNfhP3nfRsKWxWz37jvl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DYhG5oRJ262qI7ZboAwx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ih2rOcbSQruIxz7mhRwN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5jaXTHTpa9sklszQ9dbw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8A1iE0l2RbWI1RdnCfQA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/85646541"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BNfhP3nfRsKWxWz37jvl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BNfhP3nfRsKWxWz37jvl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DYhG5oRJ262qI7ZboAwx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DYhG5oRJ262qI7ZboAwx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ih2rOcbSQruIxz7mhRwN\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ih2rOcbSQruIxz7mhRwN\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5jaXTHTpa9sklszQ9dbw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5jaXTHTpa9sklszQ9dbw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8A1iE0l2RbWI1RdnCfQA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8A1iE0l2RbWI1RdnCfQA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Initials",
+        "supportEmail": "support@initialsgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/initialsgames.com",
+    "firstPublishedAt": "2014-02-12T00:01:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Initials.",
+    "premium": false,
+    "rating": {
+        "likeCount": 35,
+        "average": 3.62,
+        "count": 193
+    }
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "com.vimeo.android.tv",
+    "title": "Vimeo",
+    "description": "Watch amazing videos from the world's best creators on your huge awesome TV. View Staff Picks, browse your feed, and add videos to your Watch Later queue. Vimeo for OUYA will make you say \"Ooo YA this is cool.\"",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 0,
+            "uuid": "fe3cf064-eead-48ef-86ce-71b9ab9629c0",
+            "date": "2014-06-10T19:13:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3fd9bfe0-82c5-4bd5-937d-f4801f856b05\/com.vimeo.android.tv\/fe3cf064-eead-48ef-86ce-71b9ab9629c0\/8S4AJEARTK2k7xIEINOV_VimeoTv-release-ouya.apk",
+            "size": 2342945,
+            "md5sum": "1d77c35ec02991d2f2fef88fcf50c561",
+            "publicSize": 1400328,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.vimeo.android.tv\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/737GFrljQ2G67vzfSKu9",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hyRIbiHoTcSD5tEgFeGC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7jU0tw5VSF6D19Y26wwc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cR0LVu6R5ydgkaQOrqB1"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hyRIbiHoTcSD5tEgFeGC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hyRIbiHoTcSD5tEgFeGC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7jU0tw5VSF6D19Y26wwc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7jU0tw5VSF6D19Y26wwc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cR0LVu6R5ydgkaQOrqB1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cR0LVu6R5ydgkaQOrqB1\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Vimeo",
+        "supportEmail": "support@vimeo.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/vimeo.com",
+    "firstPublishedAt": "2013-11-05T19:02:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Vimeo.",
+    "premium": false,
+    "rating": {
+        "likeCount": 209,
+        "average": 4.12,
+        "count": 101
+    }
+}

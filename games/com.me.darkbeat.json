@@ -1,0 +1,70 @@
+{
+    "packageName": "com.me.darkbeat",
+    "title": "Dark-Beat",
+    "description": "Use your senses to discover the mystery and escape the dark labyrinth",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c4f5e398-0d1d-4715-b52f-da859c321642",
+            "date": "2014-03-10T18:57:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ec604c96-8472-4f3f-bed6-e304381b44f7\/com.me.darkbeat\/c4f5e398-0d1d-4715-b52f-da859c321642\/vo7u8W4S923fURiD89rL_darkbeat-android.apk",
+            "size": 24521445,
+            "md5sum": "8859ff234b2b350b9e31f74dd7b0aece",
+            "publicSize": 164303,
+            "nativeSize": 767922
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.me.darkbeat\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4mO1IuATcWkAQGxntOAD",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q8up4w4XQVWZ2DrdwC1J",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ytqAfcYpQDmXljJ7Z7Xe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GH1DCem0QqZJ6ad0BPCb"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Q8up4w4XQVWZ2DrdwC1J\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Q8up4w4XQVWZ2DrdwC1J\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ytqAfcYpQDmXljJ7Z7Xe\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ytqAfcYpQDmXljJ7Z7Xe\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GH1DCem0QqZJ6ad0BPCb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GH1DCem0QqZJ6ad0BPCb\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Anything Machine",
+        "supportEmail": "dfoley23@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/2013.globalgamejam.org\/2013\/dark-beat-0",
+    "firstPublishedAt": "2014-03-10T18:57:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Anything Machine.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 2.17,
+        "count": 99
+    }
+}

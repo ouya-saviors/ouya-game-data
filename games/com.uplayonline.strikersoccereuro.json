@@ -1,0 +1,88 @@
+{
+    "packageName": "com.uplayonline.strikersoccereuro",
+    "title": "Striker Soccer Euro 2012",
+    "description": "#1 Sports and Kids games for  iPad.\r\n#2 Sports and Kids games for iphone.\r\n#6 Top New Google Play.\r\nMore than 5 million downloads. \r\n\r\nThe acclaimed mobile 3D football simulator arribes to OUYA!\r\n\r\nExperience this game like you've never been able before: now you can play with joystick and even play against othet player for a two players match.\r\n\r\nPick your favorite European national team from among the 16 strong nations competing for the ultimate European soccer glory, the Euro Cup 2012 and play to be crowned the champion!  Prove you are the best commanding your players on the pitch!\r\n\r\nThese are the main features you can find in Striker Soccer Eurocup:\r\n\r\n- 2 game modes: Friendly match or Eurocup\r\n- Joystick support\r\n- Two players mode with joystick\r\n- You can choose between the 16 national teams participating in Euro 2012.\r\n- Format and schedules similar to Euro Cup 2012: the group stage, the quarter-finals, the semi-finals and the final.\r\n- You can set the best tactic for each game. You have 7 formations available.\r\n- The game offers three levels of difficulty.\r\n- Kids mode for very easy gameplay.\r\n- Full control of your players: shooting, passing and tackling in an easy manner.\r\n- Soccer simulator in full 3D environment.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.9",
+            "versionCode": 0,
+            "uuid": "3ee1922c-81ac-408e-9902-1274fe42d518",
+            "date": "2013-09-11T16:33:48Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0605b7c8-d880-4f88-9d33-28a32195da26\/com.uplayonline.strikersoccereuro\/3ee1922c-81ac-408e-9902-1274fe42d518\/D8BkFwElQlyNaBt9CCEQ_eurouya.21.apk",
+            "size": 36194309,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.uplayonline.strikersoccereuro\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9pf2F03R92Ddx4Gc6nPA",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5NG8vRGTJq8MIoYIWyoj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4DQ9nNZRWyAwb9RLJzXk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3OYhhWcyQ8yxxMDcUsdc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L5qn16vGQVOLc21rlMgy"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5NG8vRGTJq8MIoYIWyoj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5NG8vRGTJq8MIoYIWyoj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4DQ9nNZRWyAwb9RLJzXk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4DQ9nNZRWyAwb9RLJzXk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3OYhhWcyQ8yxxMDcUsdc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3OYhhWcyQ8yxxMDcUsdc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L5qn16vGQVOLc21rlMgy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L5qn16vGQVOLc21rlMgy\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "U-Play Online SL",
+        "supportEmail": "ouya@uplayonlie.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.uplayonline.com\/",
+    "firstPublishedAt": "2013-03-15T18:55:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by U-Play Online SL.",
+    "premium": false,
+    "rating": {
+        "likeCount": 262,
+        "average": 2.55,
+        "count": 355
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock_full_game",
+            "name": "Unlock full game",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

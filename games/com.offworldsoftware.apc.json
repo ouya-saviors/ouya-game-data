@@ -1,0 +1,81 @@
+{
+    "packageName": "com.offworldsoftware.apc",
+    "title": "Alex the Alien",
+    "description": "In this puzzle-platformer, you play Alex, a little alien who crash-lands on Earth, and in the process becomes trapped in the mummy's pyramid!  Now, you must escape each room in the pyramid by stacking giant limestone blocks, dangling from perilous platforms, and soaring from springy springs to make it to the exit!\r\n\r\nAll the while, the mummy is your ghostly guide, offering tips and \"advice\" along the way.\r\n\r\nSee if you have what it takes to escape the mummy's pyramid!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "f5e161c7-3aaf-4555-b66b-08a6a604ae3f",
+            "date": "2013-09-25T23:32:28Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/83818e38-06f4-4af6-b08a-fc8ac020be51\/com.offworldsoftware.apc\/f5e161c7-3aaf-4555-b66b-08a6a604ae3f\/XTRAW5FGR5KnEqvnJb1d_AlexTheAlien-android.apk",
+            "size": 19066681,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.offworldsoftware.apc\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0QdgjSLURx2sThb1QDcD",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RCZLMThVSi22nXjcD6wy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y2ca3xWgQfWW2tbpd5A8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9ifZVk6fQQuBNV2rLiz0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RCZLMThVSi22nXjcD6wy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RCZLMThVSi22nXjcD6wy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/y2ca3xWgQfWW2tbpd5A8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/y2ca3xWgQfWW2tbpd5A8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9ifZVk6fQQuBNV2rLiz0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9ifZVk6fQQuBNV2rLiz0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Offworld Software",
+        "supportEmail": "richard@offworldsoftware.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/offworldsoftware.com",
+    "firstPublishedAt": "2013-09-25T23:32:28Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Offworld Software.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 3.36,
+        "count": 14
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "alex_alien_1_full_game",
+            "name": "Alex the Alien - Full Game",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

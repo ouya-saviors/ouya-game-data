@@ -1,0 +1,79 @@
+{
+    "packageName": "air.com.drmikey.zombieheartschicken",
+    "title": "Zombie Hearts Chicken",
+    "description": "You are that zombie. Eat as many chickens as you can before being blown up by bombs and chickens or impaled on rogue pitchforks! ZHC is an endless runner full of stuffing your zombie face with chickens and avoiding implausible death traps!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "20801ceb-825c-4a0b-8d3d-a35f863e466f",
+            "date": "2014-07-24T11:30:20Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7a0a0113-4576-4b51-823f-903d5edbca99\/air.com.drmikey.zombieheartschicken\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/B58KEcpWQ1Iial1YwEwy_zhc.apk",
+            "size": 16643508,
+            "md5sum": "64417c4716f8db4cc8186d8ff73f3746",
+            "publicSize": 849199,
+            "nativeSize": 19326879
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kLIkAYKAT7acwnZyloi2",
+        "video": "https:\/\/vimeo.com\/101331669",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6hzA7VyzTLuRDnkvAo5I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z4XyvnnsRi6gEiQWg4GJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cy6v3OcTIup5q2VrgGdg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D9Hr04x8SHy4B7yU8vEC"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/101331669"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/lrk4zx_ouya-screenshot20140723-2-1dodcuf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-1gsxu91.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/z7vyqe_ouya-screenshot20140723-2-1e33yv1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-1tb3tgi.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/nrhw0z_ouya-screenshot20140723-2-9vl8hq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-19xvzu6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/we8o7g_ouya-screenshot20140723-2-1dcc7og.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-6urxao.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "drMikey Studios",
+        "supportEmail": "info@drmikey.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/zombieheartschicken.com",
+    "firstPublishedAt": "2014-07-24T11:30:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by drMikey Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.89,
+        "count": 145
+    }
+}

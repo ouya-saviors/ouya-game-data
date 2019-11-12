@@ -1,0 +1,82 @@
+{
+    "packageName": "com.dannobotgames.RoboJets",
+    "title": "RoboJets",
+    "description": "RoboJets is a lightning fast space-mecha fighting game. Up to four RoboJet pilots can duel it out in split-second dogfights on local multiplayer!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "13f8640d-ec5a-4259-850f-d2c769c3e518",
+            "date": "2014-11-10T20:52:41Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/71ddc61e-7d54-4975-a2d0-dd157e01cb2e\/com.dannobotgames.RoboJets\/13f8640d-ec5a-4259-850f-d2c769c3e518\/sk9pDPR2TUi3lB6tRD0q_com.dannobotgames.RoboJets.apk",
+            "size": 14020578,
+            "md5sum": "7e728b1022694045226123e9c383d6bd",
+            "publicSize": 191013,
+            "nativeSize": 3379304
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.robojets\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AolT9QZJSdqJg9TwaZiY",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gzQZOJpjQCmv4jOX2coO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qHvS4qPrQr648VkWTl1B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9h6qDQcHTN6nA9MCzsTA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/ir3l87_ouya-screenshot20141107-2-14ho6m2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/thumbnails\/thumbnail20141107-2-15c7zop.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/u7mrcd_ouya-screenshot20141107-2-163lwwt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/thumbnails\/thumbnail20141107-2-1drgl01.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/1uhrp5_ouya-screenshot20141107-2-1pp1g5z.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/thumbnails\/thumbnail20141107-2-1jpf9sn.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dannobot Games",
+        "supportEmail": "dannobotgames@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "https:\/\/twitter.com\/DannobotGames",
+    "firstPublishedAt": "2014-11-10T20:52:41Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Dannobot Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.65,
+        "count": 20
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "RoboJets_FullGame",
+            "name": "RoboJet Full Game",
+            "description": "RoboJets Full Game",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

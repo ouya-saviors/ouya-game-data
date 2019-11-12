@@ -1,0 +1,97 @@
+{
+    "packageName": "com.utahraptorgames.FastFastLaserLaser",
+    "title": "FAST FAST LASER LASER",
+    "description": "\"Harder than Dark Souls meets Super Meat Boy... this game is good.\" - Gamespot.com\r\n\r\nDodge incoming lasers, reflect projectiles with your off-brand laser sword, and test your reflexes against opponents in high-speed one-on-one duels.\r\n\r\nIf you don\u2019t have friends, no worries! Losers like you can fill out matches with deadly AI opponents.\r\n\r\n*Supports Xbox 360 and PS3 Controllers*\r\n\r\nEmail us at mail@utahraptorgames.com for feedback or suggestions for updates. We're listening!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c92b56d0-f289-40e3-a077-ffab1b309704",
+            "date": "2014-01-28T22:21:59Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/02b94816-cb5e-4869-8edc-6e739ce0131c\/com.utahraptorgames.FastFastLaserLaser\/c92b56d0-f289-40e3-a077-ffab1b309704\/m6pJXIi5RFWn5hTDCCB7_com.utahraptorgames.FastFastLaserLaser.apk",
+            "size": 34634550,
+            "md5sum": "d7a3eebe00df3579512ba0328e82e915",
+            "publicSize": 139901,
+            "nativeSize": 2817576
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.utahraptorgames.fastfastlaserlaser\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3pJZ6UMLSyGpqYU8JQZ5",
+        "video": "https:\/\/vimeo.com\/85280507",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mFXRCJE1QRucqO6t0oMG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p9RgUzdlTXyOpZXNy6zQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LYWbl3t1RHGKo0BFwjul",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oBTmGlO1RLqEORxvlOYc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ikNFiGakR9WKxcaIjCiY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/85280507"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mFXRCJE1QRucqO6t0oMG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mFXRCJE1QRucqO6t0oMG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/p9RgUzdlTXyOpZXNy6zQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/p9RgUzdlTXyOpZXNy6zQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LYWbl3t1RHGKo0BFwjul\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LYWbl3t1RHGKo0BFwjul\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oBTmGlO1RLqEORxvlOYc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oBTmGlO1RLqEORxvlOYc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ikNFiGakR9WKxcaIjCiY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ikNFiGakR9WKxcaIjCiY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Utah Raptor Games",
+        "supportEmail": "mail@utahraptorgames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "utahraptorgames.com",
+    "firstPublishedAt": "2013-06-20T14:58:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Utah Raptor Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 109,
+        "average": 3.23,
+        "count": 47
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "FFLL",
+            "name": "FAST FAST LASER LASER Full Game",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

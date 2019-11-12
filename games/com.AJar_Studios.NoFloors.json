@@ -1,0 +1,83 @@
+{
+    "packageName": "com.AJar_Studios.NoFloors",
+    "title": "No Floors",
+    "description": "Created in 117 minutes by one developer. An extremely simple platformer designed to drive you insane and change your understanding of the standard platformer.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "53d80269-72bd-469c-a5ba-42a76ce9b68f",
+            "date": "2014-01-20T22:52:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0bcd2f0c-8e99-4622-82f3-9139e952fefe\/com.AJar_Studios.NoFloors\/53d80269-72bd-469c-a5ba-42a76ce9b68f\/NFF4jVxCQ8KSm1dyvToN_NoFloors.apk",
+            "size": 55335234,
+            "md5sum": "2b1ba2ed07b7f5f689630c99a8b60719",
+            "publicSize": 174866,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ajar_studios.nofloors\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eMkiwoIEQGSWGk1V99nX",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DoQxhwOrSNu2VFm2xoVj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7FtSeFV6Sq6y3RvHA7UM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xyhW5qysRDuai9Wno7bA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Wqj295Q9TWOLV4Y9KgpT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i623WHVzQ56tqj4HYR9w"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DoQxhwOrSNu2VFm2xoVj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DoQxhwOrSNu2VFm2xoVj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7FtSeFV6Sq6y3RvHA7UM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7FtSeFV6Sq6y3RvHA7UM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xyhW5qysRDuai9Wno7bA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xyhW5qysRDuai9Wno7bA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Wqj295Q9TWOLV4Y9KgpT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Wqj295Q9TWOLV4Y9KgpT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i623WHVzQ56tqj4HYR9w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i623WHVzQ56tqj4HYR9w\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "AJar Studios",
+        "supportEmail": "ben_townshend@ajar-studios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.ajar-studios.com",
+    "firstPublishedAt": "2014-01-20T22:52:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by AJar Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 9,
+        "average": 2.42,
+        "count": 19
+    }
+}

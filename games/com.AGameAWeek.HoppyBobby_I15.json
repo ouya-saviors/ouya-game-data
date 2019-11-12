@@ -1,0 +1,83 @@
+{
+    "packageName": "com.AGameAWeek.HoppyBobby_I15",
+    "title": "Hoppy Bobby",
+    "description": "Guide Bobby along the maze of floating platforms.\r\nYou have only one button.. Jump!\r\nTap the button to Hop, or hold the button for a longer jump.\r\n\r\nHow far can you get?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "99810656-9c1b-432a-bf6f-6bf2e3a150f4",
+            "date": "2015-12-30T20:06:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.HoppyBobby_I15\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/OFiSjiNpSEy0yTz809WS_Hoppy%20Bobby.apk",
+            "size": 4543560,
+            "md5sum": "11ad1ffdc86e619df44577e3c0429f8c",
+            "publicSize": 273692,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.hoppybobby_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mCnXEPy1RnmdChngoiKT",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8tHdYxPJQgKAXdhvTNqv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uGHoo5uOTKmDVZDeY5K0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F7T7KFJDR6GEadjyKRfz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OnXlBReuRwi4d2lxjX70",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TGfypdAmRg6ScsEo3I77"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/xms87a_ouya-screenshot20151229-3-cysgj7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/thumbnails\/thumbnail20151229-3-1itf7ej.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/6o4qbh_ouya-screenshot20151229-3-1qo61sc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/thumbnails\/thumbnail20151229-3-1a6v2in.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/5rnvvs_ouya-screenshot20151229-3-1jfwww4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/thumbnails\/thumbnail20151229-3-6iei7n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/3t90qd_ouya-screenshot20151229-3-3vvra1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/thumbnails\/thumbnail20151229-3-1e98n34.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/72od5w_ouya-screenshot20151229-3-xaopwv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/99810656-9c1b-432a-bf6f-6bf2e3a150f4\/thumbnails\/thumbnail20151229-3-iqt7lo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-10-02T16:12:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.7,
+        "count": 10
+    }
+}

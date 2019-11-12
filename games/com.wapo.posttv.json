@@ -1,0 +1,71 @@
+{
+    "packageName": "com.wapo.posttv",
+    "title": "WP Video",
+    "description": "Washington Post Video is your window into The Washington Post.  The app includes coverage of the biggest Washington issues and ideas.  You can sit back and enjoy the Post's experts in the newsroom or around the world with a full digest and deep-dive of the day's news.  Or skip to the stories that matter most to you.   Washington Post Video \u2014 It's Washington. Revealed.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "4.9.0",
+            "versionCode": 0,
+            "uuid": "36db2826-2b13-4e28-968e-f47845318a96",
+            "date": "2015-10-08T15:14:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7a0381e7-e8f6-41b5-b6c2-31897ad44405\/com.wapo.posttv\/36db2826-2b13-4e28-968e-f47845318a96\/22ejijTf2ELbdjGXkAWL_WPVideo-4.9.0-streamingBox-release.apk",
+            "size": 5180748,
+            "md5sum": "48615324b2fcff5058dfc6b729373fe8",
+            "publicSize": 1628283,
+            "nativeSize": 438880
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/naA5FpiSQwSFeHo58QAm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l2FRpY6Ti6cfKts12owQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yEgfNwFNSzaicii4QQZZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4mVjc22SJujRmweVXHO3"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/lg3z2v_ouya-screenshot20151007-3-r17vlo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/thumbnails\/thumbnail20151007-3-zgcq6b.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/l54fqr_ouya-screenshot20151007-3-16ar4et.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/thumbnails\/thumbnail20151007-3-sbyd4k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/zlqb41_ouya-screenshot20151007-3-2kmjkx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/thumbnails\/thumbnail20151007-3-pxhe68.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "The Washington Post",
+        "supportEmail": "twp.posttv@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.washingtonpost.com\/posttv",
+    "firstPublishedAt": "2013-10-18T22:04:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by The Washington Post.",
+    "premium": false,
+    "rating": {
+        "likeCount": 46,
+        "average": 3.13,
+        "count": 15
+    }
+}

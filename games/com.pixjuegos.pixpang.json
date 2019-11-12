@@ -1,0 +1,88 @@
+{
+    "packageName": "com.pixjuegos.pixpang",
+    "title": "PiX Pang",
+    "description": "PiX Pang is an open source Pang game, \r\n- 2 players at the same time\r\n- 2 awesome game modes\r\n- 80 levels \r\n- 5 bosses\r\n\r\nUpdate:\r\n- Solved slowness in 1080p\r\n- 2 players at the same time",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.4",
+            "versionCode": 0,
+            "uuid": "0dbdfc9f-4da2-4802-aed4-6642be8e7890",
+            "date": "2013-07-01T01:34:15Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e24c5d56-7f89-47bc-b446-b88a8b46d440\/com.pixjuegos.pixpang\/0dbdfc9f-4da2-4802-aed4-6642be8e7890\/UPbwm6LQCCt5M1kGKJR7_pixpang-3-ouya.apk",
+            "size": 40698077,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixjuegos.pixpang\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6UysV25MQA2flVDP0vYK",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oeVHcntBT9iefzOc32Nm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Ru0cGt2TUyJrmozD7ju",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5L1x8XgSlaXxhfFzvbP5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mW3hUaToTSyxp9MaGRUa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HWeNIQAaNEY07gt0gPH4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gINYC5DR0CH7QYOpqzlB"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oeVHcntBT9iefzOc32Nm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oeVHcntBT9iefzOc32Nm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8Ru0cGt2TUyJrmozD7ju\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8Ru0cGt2TUyJrmozD7ju\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5L1x8XgSlaXxhfFzvbP5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5L1x8XgSlaXxhfFzvbP5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mW3hUaToTSyxp9MaGRUa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mW3hUaToTSyxp9MaGRUa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HWeNIQAaNEY07gt0gPH4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HWeNIQAaNEY07gt0gPH4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gINYC5DR0CH7QYOpqzlB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gINYC5DR0CH7QYOpqzlB\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "PiX Juegos",
+        "supportEmail": "contacto@pixjuegos.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pixjuegos.com\/?j=pixpang",
+    "firstPublishedAt": "2013-04-09T00:04:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by PiX Juegos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 37,
+        "average": 3.21,
+        "count": 42
+    }
+}

@@ -1,0 +1,98 @@
+{
+    "packageName": "com.jqsoftware.dreamflight",
+    "title": "Dream Flight",
+    "description": "In our favorite dreams we learn to fly. Explore the world from high above as you take to dream flight. Be careful of the obstacles, hitting one will wake you up. As you fly deeper in to your dreams discover more and more fantastical dream scapes. Soar deeper and deeper, until you uncover the secrets of the dream world. Tap and hold to fly, or let go to gently drift down.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Meditative",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.06",
+            "versionCode": 0,
+            "uuid": "bb6a604c-9f18-4870-9dc5-d1896acdd137",
+            "date": "2014-01-13T23:39:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2d54956c-408a-4f4e-803f-ac7444d52d3e\/com.jqsoftware.dreamflight\/bb6a604c-9f18-4870-9dc5-d1896acdd137\/SK2azSkzQ4KEZctpr6Uj_OuyaNativeActivity.apk",
+            "size": 14540714,
+            "md5sum": "6e00e4bf1bc90812b2a5212515645ad3",
+            "publicSize": 262838,
+            "nativeSize": 14648172
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jqsoftware.dreamflight\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fz70LLhRKy6HUGsZq8r7",
+        "video": "https:\/\/vimeo.com\/83978613",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cwjkb70RXvMJmBO5xlXw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gZ62op2QQTyx48KJz69g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7BC9ZrmUTqrCI0b7Ay2A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WAHhaVjlSfGvjXomIUok",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7EXlNZ7rSj2y0wrMqUWd"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/83978613"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cwjkb70RXvMJmBO5xlXw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cwjkb70RXvMJmBO5xlXw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gZ62op2QQTyx48KJz69g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gZ62op2QQTyx48KJz69g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7BC9ZrmUTqrCI0b7Ay2A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7BC9ZrmUTqrCI0b7Ay2A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WAHhaVjlSfGvjXomIUok\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WAHhaVjlSfGvjXomIUok\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7EXlNZ7rSj2y0wrMqUWd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7EXlNZ7rSj2y0wrMqUWd\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "JQ Software LLC",
+        "supportEmail": "dreamflight@jqsoftware.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.dreamflightgame.com",
+    "firstPublishedAt": "2014-01-13T23:39:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by JQ Software LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 74,
+        "average": 3.59,
+        "count": 153
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "dreamflightfull",
+            "name": "Dream Flight Full Game",
+            "description": "Unlock the full Dream Flight adventure.\r\nIn our favorite dreams we fly. Explore the world from high above as you take to dream flight.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

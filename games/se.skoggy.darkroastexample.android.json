@@ -1,0 +1,93 @@
+{
+    "packageName": "se.skoggy.darkroastexample.android",
+    "title": "Friendly Fire",
+    "description": "Battle your friends in an arena filled with danger.\r\nFeatures 16 weapons, 10 multiplayer maps and hours of action packed fun!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Fight!",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "824b1173-1bbc-4e73-b41a-8229c9330824",
+            "date": "2014-08-31T07:13:03Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bf7e1b74-e713-4c89-b3cb-26c773979a22\/se.skoggy.darkroastexample.android\/824b1173-1bbc-4e73-b41a-8229c9330824\/csHYHBmORLi2Qxs17SYc_FriendlyFire.1.0.apk",
+            "size": 10533767,
+            "md5sum": "1f818a357985fc3b6b4582d85f838b87",
+            "publicSize": 445120,
+            "nativeSize": 762704
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iKFeKhS6QqKFNKOHrbNU",
+        "video": "http:\/\/vimeo.com\/103313081",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NQ8GI3VlTCBfXZF5x4OG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tIYCLo76TZKPc8dZqvVv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0sIfdTRgTqSEW3h6WGCV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DTgbc2mBQIuLrLWx1s5z"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/103313081"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/nv4kul_ouya-screenshot20140813-2-jqve65.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-spv7s6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/ory1gv_ouya-screenshot20140813-2-12f0cfh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-agyyt1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/degzrm_ouya-screenshot20140813-2-vged2t.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-1yz14g3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/i3w67g_ouya-screenshot20140813-2-1lmbkqm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-15bzekr.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Erik Skoglund",
+        "supportEmail": "skoggygames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/skoggy.se\/games\/15",
+    "firstPublishedAt": "2014-08-31T07:13:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Erik Skoglund.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.27,
+        "count": 106
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "se_skoggy_friendlyfire_fullgame",
+            "name": "Friendly Fire Full Game",
+            "description": "Friendly Fire Full Game",
+            "localPrice": 0,
+            "originalPrice": 0,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "packageName": "me.xorga.orbiter",
+    "title": "Orbiter",
+    "description": "Launch into infinite space with Orbiter. Travel through space in the Orbiter battleship, shooting enemies and dodging asteroids in an attempt to reach the ends of an infinite universe. Orbiter is a simple 8-bit arcade-style game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "cc905d40-e7d8-493a-8b2e-dee2f168a51a",
+            "date": "2013-04-02T23:29:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/5ae6e5d7-b7b2-4cfb-9daf-302ea33d6d29\/me.xorga.orbiter\/cc905d40-e7d8-493a-8b2e-dee2f168a51a\/OXdAgqfSD2XoqDKvehWe_orbiter-ouya-1.0.1.apk",
+            "size": 1096579,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/me.xorga.orbiter\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IUxbixfUQjqFyl4n2vFy",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N3caSQR2irG8WHEQ0XA5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QQJZ0UuIS0KjeOrhCwBg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Csgfmr2TR2ezxHleEoOj"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N3caSQR2irG8WHEQ0XA5\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N3caSQR2irG8WHEQ0XA5\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QQJZ0UuIS0KjeOrhCwBg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QQJZ0UuIS0KjeOrhCwBg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Csgfmr2TR2ezxHleEoOj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Csgfmr2TR2ezxHleEoOj\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "XorGa.me",
+        "supportEmail": "orbiter@xorga.me",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.xorga.me",
+    "firstPublishedAt": "2013-03-23T00:39:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by XorGa.me.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 2.4,
+        "count": 5
+    }
+}

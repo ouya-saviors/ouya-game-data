@@ -1,0 +1,75 @@
+{
+    "packageName": "com.supercookie.speed.ouya",
+    "title": "Thug Racer",
+    "description": "An epic Ouya interpretation of an arcade classic granting you the greatest sensation of movement and speed like no other game has before.\r\n\r\nSo be prepared to feel every curve, dip and increase in speed as you try to race across this track. Five tracks in all with five separate goal lines.\r\n\r\nOutrun other cars on your way to any one of the five goal lines to be considered a winner. And the decision is yours as to which track you'll travel. However, watch out for speed traps along the way - the police are there to do their job and you are not going to make their life easy!\r\n\r\nNow start your engine, grip your controller and get the head start in the fastest race ever to reach your Ouya.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "262e7a40-23f7-401c-ba22-76e5481ddfae",
+            "date": "2015-09-03T22:08:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3e3e5f2a-aba8-445b-828b-7726c495fa1c\/com.supercookie.speed.ouya\/262e7a40-23f7-401c-ba22-76e5481ddfae\/IoEvghxtSpWiImTAdCC4_ouya-release.apk",
+            "size": 13671018,
+            "md5sum": "9a30645571ccedf3721f6a1401cb84f0",
+            "publicSize": 783678,
+            "nativeSize": 481688
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.supercookie.speed.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5aGbsGCDQrCOp5pF92S7",
+        "video": "https:\/\/vimeo.com\/137909012",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a7lRuoBgQ86ZAe0Zasn4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xkj2pyjzTUWVyGqwmos3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IvgJiCv2SmqXGyvAldKJ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/137909012"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/262e7a40-23f7-401c-ba22-76e5481ddfae\/swxfb0_ouya-screenshot20150829-3-yn9dyz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/262e7a40-23f7-401c-ba22-76e5481ddfae\/thumbnails\/thumbnail20150829-3-1mbak4v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/262e7a40-23f7-401c-ba22-76e5481ddfae\/lxeqdf_ouya-screenshot20150829-3-994er9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/262e7a40-23f7-401c-ba22-76e5481ddfae\/thumbnails\/thumbnail20150829-3-oxh17w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/262e7a40-23f7-401c-ba22-76e5481ddfae\/bhxc8v_ouya-screenshot20150829-3-yl2kla.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/262e7a40-23f7-401c-ba22-76e5481ddfae\/thumbnails\/thumbnail20150829-3-1stdrnk.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "3e3e5f2a-aba8-445b-828b-7726c495fa1c",
+        "name": "Super Cookie Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.supercookie.co.uk",
+    "firstPublishedAt": "2015-08-27T22:02:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2015 by Super Cookie Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.79,
+        "count": 233
+    }
+}

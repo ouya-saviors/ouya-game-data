@@ -1,0 +1,71 @@
+{
+    "packageName": "com.lantansia.enbornx_ouya",
+    "title": "EnbornX",
+    "description": "\u2606Story\u2606 \r\nThe Earth is under attack by an Endless Reborn Machine. \r\nEnborn-X is the final hope of humankind. \r\nYour mission is to deport that stopless machine to the Universe and safe the World. \r\n\r\n\u2606The Game\u2606 \r\nEnborn-X is a side-scrolling shooting game which concentrate on \"giant boss battle\". You control an armored girl Enborn-X to fight back a giant enemy named Enborn. Everytime you destroy Enborn, it reborns into a bigger and stronger creature. Your goal is to kill as many as you can and as fast as possible with your powerful weapons in order to get high score. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.00",
+            "versionCode": 0,
+            "uuid": "7ea0f3d4-c645-451d-9193-43367a3cb38e",
+            "date": "2014-02-27T01:38:11Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3fad556d-3741-4e3a-b01e-e72ec0d60c46\/com.lantansia.enbornx_ouya\/7ea0f3d4-c645-451d-9193-43367a3cb38e\/ks4ew13xR52GA5qn8DUv_EnbornXOuyaSigned.apk",
+            "size": 28916924,
+            "md5sum": "fe228830eae118ed160f5a74668a447b",
+            "publicSize": 528083,
+            "nativeSize": 8595736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lantansia.enbornx_ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pqWuklA4SOet5GjOrt0n",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r1u3PA8QKKaF0zbiPW87",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hIfSIPLQDillQha7w3z6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mA00FdaQG6pKjndGLEIs"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r1u3PA8QKKaF0zbiPW87\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r1u3PA8QKKaF0zbiPW87\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hIfSIPLQDillQha7w3z6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hIfSIPLQDillQha7w3z6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mA00FdaQG6pKjndGLEIs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mA00FdaQG6pKjndGLEIs\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Lantansia",
+        "supportEmail": "ilamylanmc@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/lantansia.com\/enbornx\/",
+    "firstPublishedAt": "2013-07-23T23:00:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Lantansia.",
+    "premium": false,
+    "rating": {
+        "likeCount": 149,
+        "average": 3.08,
+        "count": 233
+    }
+}

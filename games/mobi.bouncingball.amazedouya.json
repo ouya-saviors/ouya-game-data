@@ -1,0 +1,69 @@
+{
+    "packageName": "mobi.bouncingball.amazedouya",
+    "title": "Amazed",
+    "description": "Amazed is a brain bending puzzle game! You have to get both balls to their respective goals on each board... but when you move one, the other moves too. Use walls to change the positions of balls and see if you can get them to the goals at the same time!\r\n\r\nCan you solve all 40 levels?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a6db9c39-1531-4115-9489-b995c5217c70",
+            "date": "2013-07-24T13:58:45Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/166f7ca8-baa0-4e45-88f9-5d2aad8f36f5\/mobi.bouncingball.amazedouya\/a6db9c39-1531-4115-9489-b995c5217c70\/HGmNSqTpSjyHPrV2TnDL_AmazeBalls.apk",
+            "size": 19244298,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/mobi.bouncingball.amazedouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zUr9juFTKaM11kVodqce",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z93zjhGIRViXwQqDMQNM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WCq2G2FcQPCFYG1s0NR6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UjfLzdpTSCGBfysJjval"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/z93zjhGIRViXwQqDMQNM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/z93zjhGIRViXwQqDMQNM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WCq2G2FcQPCFYG1s0NR6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WCq2G2FcQPCFYG1s0NR6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UjfLzdpTSCGBfysJjval\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UjfLzdpTSCGBfysJjval\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Bouncing Ball Games",
+        "supportEmail": "support@bouncingball.mobi",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.bouncingball.mobi",
+    "firstPublishedAt": "2013-07-24T13:58:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Bouncing Ball Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 111,
+        "average": 3.77,
+        "count": 381
+    }
+}

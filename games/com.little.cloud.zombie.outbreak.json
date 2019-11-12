@@ -1,0 +1,77 @@
+{
+    "packageName": "com.little.cloud.zombie.outbreak",
+    "title": "Zombie Outbreak",
+    "description": "Have you ever wanted to be a hero during a zombie outbreak? Do you think that you could survive the deadly virus? Would you be able to save humanity?\r\n\r\nHave fun playing Zombie Outbreak and show us that you're ready to survive. Explore two singleplayer game modes, twenty levels, three difficulties and even multiplayer with other three friends in the co-op multiplayer game mode. Kill douzen of zombies, save civilians, find antidotes, use multiple weapons and team with other survivors.\r\n\r\nFeatures:\r\n- Singleplayer and multiplayer game modes\r\n- Up to 4 players simultaneously\r\n- Save civilians from ending up infected\r\n- Kill all zombies\r\n- Pick up many weapons and antidotes\r\n\r\nGood luck to survive the first game of LittleCloud Games.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a1410a49-3315-44fa-9495-6f69bc656c8c",
+            "date": "2013-07-23T21:01:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0613672c-1600-4cdc-bfe8-224582ea0c52\/com.little.cloud.zombie.outbreak\/a1410a49-3315-44fa-9495-6f69bc656c8c\/2gRxCm0cTJyhDkWh5M9Z_zombie_outbreak_v1.0.1.apk",
+            "size": 20295675,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.little.cloud.zombie.outbreak\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BDQsROfzRcGkjEI8UqFK",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7gBCslz3Rmy1FlnOsY6p",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AAILcND4RLqVe8pkAylO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j4aavnbtQhKbUvNNafIo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7DrIlkoxRYOc7Udjydkl"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7gBCslz3Rmy1FlnOsY6p\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7gBCslz3Rmy1FlnOsY6p\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AAILcND4RLqVe8pkAylO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AAILcND4RLqVe8pkAylO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/j4aavnbtQhKbUvNNafIo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/j4aavnbtQhKbUvNNafIo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7DrIlkoxRYOc7Udjydkl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7DrIlkoxRYOc7Udjydkl\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Little Cloud Games",
+        "supportEmail": "littlecloudgames@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "https:\/\/www.facebook.com\/pages\/Zombie-Outbreak\/444335915663165",
+    "firstPublishedAt": "2013-06-24T21:46:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Little Cloud Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 149,
+        "average": 2.92,
+        "count": 110
+    }
+}

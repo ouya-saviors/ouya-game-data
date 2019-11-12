@@ -1,0 +1,81 @@
+{
+    "packageName": "com.timothyfitz.waterworld",
+    "title": "Gooze",
+    "description": "Gooze is a fully 3d RTS\/defense game where you battle an evil oozing liquid enemy across ten levels, plus infinite procedurally generated levels.\r\n\r\nDesigned exclusively for the OUYA.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a55f45fc-b473-4a9d-b185-281cbd42c2a1",
+            "date": "2013-12-13T00:26:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0f5e392d-1d60-40f4-9a2b-d7fdfde6e102\/com.timothyfitz.waterworld\/a55f45fc-b473-4a9d-b185-281cbd42c2a1\/aeBUTIEeSOWhiFG8yStB_gooze.1.3.apk",
+            "size": 31332968,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.timothyfitz.waterworld\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7yxEvYqgSqKb7jjwpdGl",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IYWqAzbtTraG3kiWnaMq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qe0tMO7RvCdnGqmGKskr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WkJnsx9R6G8ACRiRz4G3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IfS7ohv7R4e2ZKRtbMFZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oOd7RnvlQWCcPnPZB2Em"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IYWqAzbtTraG3kiWnaMq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IYWqAzbtTraG3kiWnaMq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qe0tMO7RvCdnGqmGKskr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qe0tMO7RvCdnGqmGKskr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WkJnsx9R6G8ACRiRz4G3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WkJnsx9R6G8ACRiRz4G3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IfS7ohv7R4e2ZKRtbMFZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IfS7ohv7R4e2ZKRtbMFZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oOd7RnvlQWCcPnPZB2Em\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oOd7RnvlQWCcPnPZB2Em\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Timothy Fitz",
+        "supportEmail": "TimothyFitz@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "TimothyFitz.com",
+    "firstPublishedAt": "2013-12-05T18:16:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Timothy Fitz.",
+    "premium": false,
+    "rating": {
+        "likeCount": 44,
+        "average": 3.62,
+        "count": 50
+    }
+}

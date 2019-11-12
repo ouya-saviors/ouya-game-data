@@ -1,0 +1,71 @@
+{
+    "packageName": "com.onemultimedia.it.SpaccaTuttoOUYA",
+    "title": "SPACCA TUTTO (Breakout Style)",
+    "description": "Play with one of the great classics of the world of video games!\r\nStyle game Arkanoid (Breakout), but full of visual and sound effects with a fun and without boredom with many bonuses like multi ball that make this game so much fun.\r\n\r\nSmash all the bricks! but attention is not so simple, the destruction of the individual brick varies by the type, which can be identified by color. more watch out for the surprise bonus ..\r\n\r\nHave fun;-)\r\n\r\n\r\nGioca con uno dei grandi classici del mondo dei videogames!\r\nGioco in stile arkanoid (Breakout), ma pieno di effetti visivi e sonori con un gioco divertente e senza noia con tanti bonus come il multi ball che rendono questo gioco molto divertente .\r\n\r\nSpacca tutti i mattoncini! ma attenzione non \u00e8 cosi semplice, la distruzione del singolo mattoncino varia dal tipo, che puoi identificare dal colore. in pi\u00f9 fai attenzione per i bonus a sorpresa..\r\n\r\nBuon divertimento ;-)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "32afc921-5e50-45f8-81b4-c215f5740bf2",
+            "date": "2013-08-14T20:59:57Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ab86e0e5-3771-4b7e-a88a-b3c8da5ae534\/com.onemultimedia.it.SpaccaTuttoOUYA\/32afc921-5e50-45f8-81b4-c215f5740bf2\/h3X4hQ0LSlSNEPVCztDJ_spacca-tutto-ouya.apk",
+            "size": 14974084,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.onemultimedia.it.spaccatuttoouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2FIlYornQzSHlp7N2OQz",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z7VWPtwNTfiI50kB0buD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wSFPuY4RWdI0o88zCrlQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/49Ekmj6QquyaHg0kI7os"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Z7VWPtwNTfiI50kB0buD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Z7VWPtwNTfiI50kB0buD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wSFPuY4RWdI0o88zCrlQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wSFPuY4RWdI0o88zCrlQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/49Ekmj6QquyaHg0kI7os\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/49Ekmj6QquyaHg0kI7os\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "One Multimedia",
+        "supportEmail": "supporto@onemultimedia.it",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.onemultimedia.it",
+    "firstPublishedAt": "2013-08-09T14:27:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by One Multimedia.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 2.73,
+        "count": 15
+    }
+}

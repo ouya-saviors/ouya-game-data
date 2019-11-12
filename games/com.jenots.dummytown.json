@@ -1,0 +1,82 @@
+{
+    "packageName": "com.jenots.dummytown",
+    "title": "Dummy Town",
+    "description": "Control crash dummies, brought back to life by radiation, smashing their way through the debris of the forsaken town, used for nuclear bomb tests, running away from yet another explosion, in hopes to save their lives (or so they think).\r\n\r\nDummy Town is a strategy like action game, controlling up to 5 characters simultaneously, trying to get them to a safe zone through punching, jump kicking and exploding obstacles on their way, while empowering their abilities with radioactively charged amulets.\r\n\r\nControl up to 5 characters\r\nSmashing, jump kicking and exploding obstacles\r\nAnd using radioactive amulets\r\nAll to get them to a save zone\r\n\r\nNew Version:\r\nFixed switching amulets\r\nAdded support for multiple controllers (Xbox, PS3, Amazon, Moga, etc)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "a23c311e-0304-4fad-8b30-2928a945bc74",
+            "date": "2014-08-20T09:17:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bbab3a03-0dff-48fb-97db-ec3e8cd9a6f9\/com.jenots.dummytown\/a23c311e-0304-4fad-8b30-2928a945bc74\/VwwVuhXLSnaHwKK8pPXX_DummyTown_OUYA.apk",
+            "size": 17795126,
+            "md5sum": "b4c2cf0dd1ccfe071293e75e4e14bb35",
+            "publicSize": 535997,
+            "nativeSize": 5994496
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E7F3bJZkRSK9VEjEKuud",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ld3RCZCSJic2o9h57bKS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wVE2TouYTAu1DnTIt2jg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iBjK7gMaTwqfIMjkPdwW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MHVF1MhQrSdrBAepSZYS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tCxPPegR72XocPYQHdpA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/nca60h_ouya-screenshot20140815-2-mep70i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-q6s1jq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/bw3a7d_ouya-screenshot20140815-2-ja4x0g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-v02ist.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/lyd5kk_ouya-screenshot20140815-2-14swws2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-1dvrku.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/vgi0nq_ouya-screenshot20140815-2-5y8cej.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-e17w1c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/x382oo_ouya-screenshot20140815-2-e7lb2i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-1k4vxe0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bbab3a03-0dff-48fb-97db-ec3e8cd9a6f9",
+        "name": "JenotsCom",
+        "supportEmail": "contact@jenots.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/jenots.com\/dummy-town",
+    "firstPublishedAt": "2014-05-14T19:26:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by JenotsCom.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3,
+        "count": 43
+    }
+}

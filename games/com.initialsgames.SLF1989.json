@@ -1,0 +1,73 @@
+{
+    "packageName": "com.initialsgames.SLF1989",
+    "title": "Super Lemonade Factory 1989",
+    "description": "Super Lemonade Factory 1989 turns back the clock. Grab 4 AA batteries and fire up your favorite portable gaming device. Inspired primarily by the Game Boy, but also taking inspiration from handhelds throughout the last thirty years. \r\n\r\nPlay six different locations and six characters some likeable, some detestable. \r\nWarehouse - Andre \r\nNew York City - Reeder The Dirty Chef \r\nManagement Office - Liselot \r\nSydney, Australia - Doust The Inspector \r\nFactory - Working Man Hero \r\nMilitary Base - Mr Amsterdaam \r\nWicked, juicy gameplay, you'll have nightmares about chasing those damn coins.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "1067f007-0ba5-43c7-92a4-057e63bd35df",
+            "date": "2014-09-10T23:34:33Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/1524df9e-c5bf-426d-86e9-2194298858c6\/com.initialsgames.SLF1989\/1067f007-0ba5-43c7-92a4-057e63bd35df\/pEhl018Rv2mvJgWdPkiv_com.initialsgames.SLF1989-Signed.apk",
+            "size": 25573450,
+            "md5sum": "c31896a2e6bf123d6ee01aff55e74fc8",
+            "publicSize": 101686,
+            "nativeSize": 2924816
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.slf1989\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d2MBl8PTwKWo41Aa2GnA",
+        "video": "https:\/\/vimeo.com\/105531952",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p1Jf1BDfSJGxnpn50IQc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j25uicurT9GUIWsfs0Ew",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xS3fSpEsSuebkOgbARbs"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/105531952"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/8il1zj_ouya-screenshot20140910-2-8ix7jr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/thumbnails\/thumbnail20140910-2-102woqt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/y56sl7_ouya-screenshot20140910-2-xf29vi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/thumbnails\/thumbnail20140910-2-w1ytq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/3637ov_ouya-screenshot20140910-2-1pagkod.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/thumbnails\/thumbnail20140910-2-1g83izj.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Initials",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.initialsgames.com",
+    "firstPublishedAt": "2014-09-10T23:34:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Initials.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.01,
+        "count": 69
+    }
+}

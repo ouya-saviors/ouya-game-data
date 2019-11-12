@@ -1,0 +1,117 @@
+{
+    "packageName": "com.dustycatmedia.caostriggergolem",
+    "title": "Caos Trigger: Golem",
+    "description": "Support us on Kickstarter!\r\nhttps:\/\/www.kickstarter.com\/projects\/388262625\/caos-trigger-golem\r\n\r\nCaos Trigger: Golem is a 2d, retro-style metroidvania game for multiple platforms; including PC, Android, iOS and Ouya (with more platforms coming soon!). It also serves as a tribute to TRUE and original metroidvania games (ie the PSX, GBA, and NDS Castlevania series) as it does not stray too far away from their simple but challenging gameplay and visuals combining traditional \/ pixel art with a slightly modern look (the likes of 2d games ranging from the SNES and the original PSX).\r\n\r\nPlayers take control of the main protagonist, Anaise in classic, metroidvania style fashion. Anaise can run, crouch, jump, and slash her way through 2d, sidescrolling areas encountering various enemies and obstacles. The game\u2019s main feature is the creation and summoning of magical beings called \u201cgolems\u201d. In order to summon a golem, the player must acquire \u201cGolem Scrolls\u201d, which in turn has information on what ingredients\/materials are required to summon a specific golem. They make use of the player\u2019s Magic Points in performing their special attacks. They also grant the player \/ Anaise a special weapon and other various abilities.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 0,
+            "uuid": "3429baa1-9544-4fc3-ba7a-72ebb1b6c24c",
+            "date": "2014-12-30T23:28:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/de8d60b5-4927-4c45-811b-167abd4b8426\/com.dustycatmedia.caostriggergolem\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/YO2Xxk0VQ8zWE23XqVco_Caos%20Trigger%20-%20Golem-Ouya-1.0.4.apk",
+            "size": 20068441,
+            "md5sum": "c8d90252cde40057aba0531b6340179c",
+            "publicSize": 1270969,
+            "nativeSize": 8714344
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dustycatmedia.caostriggergolem\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FYIm1FQSn6J2K5FGHnhA",
+        "video": "https:\/\/vimeo.com\/116375089",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N5qVdLPzSOm8qVkGUjoG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dlRoyTmRyGuMvCwfkMoZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JTkViifQQu6hwHpbt3h8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8IEE088zQ928nYFXDSBh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/khbwq2r6R6ud7oKAmHrF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GyPt9TeTRi2U0td0NhBV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BeNnVmnxRmWwtmTOme32",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h61ypNKaSmeU5GbzpLAx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T13qcbvkS0ewAUHMjoZb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C5UbRWoVQhe1uzLbtp1H"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/116375089"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/rizotc_ouya-screenshot20141226-2-3vrj8u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-xksbu1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/n6p5ep_ouya-screenshot20141226-2-1ajmuob.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-1c2pt00.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/1m6f74_ouya-screenshot20141226-2-hg7ryy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-1lh5o5t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/jnj1xu_ouya-screenshot20141226-2-i2ysif.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-rakh3m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/iwq1jd_ouya-screenshot20141226-2-1pcx3xq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-xa4jil.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/lc834o_ouya-screenshot20141226-2-lw7vuz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-iv4vx6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/v7c7qb_ouya-screenshot20141226-2-1r215ks.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-ug308m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/fmdhar_ouya-screenshot20141226-2-1ohn5ws.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-z6c12u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/2p0oe6_ouya-screenshot20141226-2-xrdbh1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-147c0g3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/viozsl_ouya-screenshot20141226-2-1ec5lau.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3429baa1-9544-4fc3-ba7a-72ebb1b6c24c\/thumbnails\/thumbnail20141226-2-d1g9x0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "DustyCat Media",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/dustycatmedia.com\/",
+    "firstPublishedAt": "2014-12-30T23:28:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by DustyCat Media.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.9,
+        "count": 318
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "packageName": "air.HardTime",
+    "title": "Hard Time",
+    "description": "Wrestling Revolution's unique brand of violence finally ends up where it belongs - behind bars! Create your own inmate and attempt to survive in a prison where every sentence is a death sentence. Rub shoulders with up to 100 fellow inmates in a sprawling facility of 12 unique areas, each filled with fully interactive furniture and props. Plus a life beyond the gates populated by real civilians, with wardens enforcing dozens of different laws to keep you as far away from it as possible.\r\n\r\nAny additional controllers should be randomly assigned a character on the scene to play as. Figuring out which one is part of the fun!\r\n\r\nUpgrade to \"VIP\" to gain access to the editor, which allows you to customize your character and every other.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.040",
+            "versionCode": 0,
+            "uuid": "889ba8ce-dd32-49ec-a899-c1fc33ec6428",
+            "date": "2013-11-11T23:30:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/90cce341-747a-4c11-b644-e9bf491cb32f\/air.HardTime\/889ba8ce-dd32-49ec-a899-c1fc33ec6428\/ecKkSo11QHyx7whMVg3U_OUYA%201-04.apk",
+            "size": 26004154,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.hardtime\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VSMsohExTtG6OrWa4jx0",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jyOz9tJKRPmqzxCkVIqH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y4Ilr1yQWbjgdkZdsQ1R",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ztmwl5E4SR6x5oug9OzM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ah8LI8Z9RMGMMVZX0HZs"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jyOz9tJKRPmqzxCkVIqH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jyOz9tJKRPmqzxCkVIqH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Y4Ilr1yQWbjgdkZdsQ1R\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Y4Ilr1yQWbjgdkZdsQ1R\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ztmwl5E4SR6x5oug9OzM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ztmwl5E4SR6x5oug9OzM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ah8LI8Z9RMGMMVZX0HZs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ah8LI8Z9RMGMMVZX0HZs\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MDickie",
+        "supportEmail": "mat@mdickie.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.MDickie.com",
+    "firstPublishedAt": "2013-10-11T00:16:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by MDickie.",
+    "premium": false,
+    "rating": {
+        "likeCount": 160,
+        "average": 3.68,
+        "count": 520
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "hardtime_upgrade",
+            "name": "VIP Upgrade",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

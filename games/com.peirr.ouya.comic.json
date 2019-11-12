@@ -1,0 +1,82 @@
+{
+    "packageName": "com.peirr.ouya.comic",
+    "title": "Comic\/Manga Reader",
+    "description": "Comic\/Manga Reader for OUYA!. Read all your manga on your OUYA, Currenty supports CBZ and CBR comic files.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment"
+    ],
+    "releases": [
+        {
+            "name": "1.0.6",
+            "versionCode": 0,
+            "uuid": "9b600aa2-dee3-464a-a59c-246711776363",
+            "date": "2014-03-11T04:09:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/bdc3724e-ba3f-4909-a803-3c547ab2e365\/com.peirr.ouya.comic\/9b600aa2-dee3-464a-a59c-246711776363\/WErsZV7GTraMDpdi6I2Y_Comic-release.apk",
+            "size": 14051237,
+            "md5sum": "67b104d83473b6b5a7f1cb61ee553d74",
+            "publicSize": 451723,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.peirr.ouya.comic\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U5Fu1IKHQwOIhvlxJLxs",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gEAsHvNRfSPd4inmfRNg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KxY3MTN5Tv2InRUanr6X",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9F3VctSmR4CmQErGGvbz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7z3zLQjLRS2xhLaMYzK8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fvv4BPijQ2WXoRPVJFpg"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gEAsHvNRfSPd4inmfRNg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gEAsHvNRfSPd4inmfRNg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KxY3MTN5Tv2InRUanr6X\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KxY3MTN5Tv2InRUanr6X\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9F3VctSmR4CmQErGGvbz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9F3VctSmR4CmQErGGvbz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7z3zLQjLRS2xhLaMYzK8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7z3zLQjLRS2xhLaMYzK8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Fvv4BPijQ2WXoRPVJFpg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Fvv4BPijQ2WXoRPVJFpg\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "CkurtM",
+        "supportEmail": "support@peirr.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/plus.google.com\/communities\/114564538525964583334",
+    "firstPublishedAt": "2014-01-13T19:03:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by CkurtM.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 3.95,
+        "count": 21
+    }
+}

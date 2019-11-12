@@ -1,0 +1,63 @@
+{
+    "packageName": "com.andlabs.games.capturetheflag",
+    "title": "BUMP'N'CAPTURE",
+    "description": "Bump your way through to the crystal! \r\nBring it to your home.. quickly!\r\n.. cause you are not alone.\r\n \r\nWatch out for other crystal robbers!\r\n\r\nFast-paced action game for 2 players\r\n(3 player, 4 player support coming soon)\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "f2dfc43e-c867-4c98-a282-bdc75c694447",
+            "date": "2014-05-12T19:40:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ecc556b5-744f-470e-9383-2da36ee3c71c\/com.andlabs.games.capturetheflag\/f2dfc43e-c867-4c98-a282-bdc75c694447\/hIdZd8N2QcWfoiMD7Nhm_bumpNCaptureRelease051114_v2.apk",
+            "size": 2287753,
+            "md5sum": "0929cd73db07f85e349ec7d1d40ddbb6",
+            "publicSize": 31903,
+            "nativeSize": 723548
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g4oaTaXsSuyhoo8kSpqb",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ULGdtvWSVOEqy81FtMUw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iSgYEItMQayTVsfTrLzo"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/2vz9h2_ouya-screenshot20140511-2-1i3ml47.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/thumbnails\/thumbnail20140511-2-1q8flzq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/tiauit_ouya-screenshot20140511-2-1l0cgu0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/thumbnails\/thumbnail20140511-2-1im6mva.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "ecc556b5-744f-470e-9383-2da36ee3c71c",
+        "name": "Alexander Froehlich",
+        "supportEmail": "alexander@andlabs.eu",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/play.google.com\/store\/search?q=pub:java99",
+    "firstPublishedAt": "2014-05-12T19:40:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Alexander Froehlich.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.65,
+        "count": 23
+    }
+}

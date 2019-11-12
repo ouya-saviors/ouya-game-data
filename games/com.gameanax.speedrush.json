@@ -1,0 +1,98 @@
+{
+    "packageName": "com.gameanax.speedrush",
+    "title": "Speed Rush",
+    "description": "Are you ready to experience the biggest race of your life? Welcome to the world of roaring Super Bikes, insane drifts, sizzling races, stunning locations and electrifying racing tracks. Earn major respect on the track and race your way up before you challenge the best. Zoom past your rivals and feel your passion living through your bike. Buckle up, grab your helmet and mount your bike. It\u2019s time to GEAR UP and begin the race! \r\n\r\nExciting Features!\r\n\u2022 Collect a wide variety of Super Bikes. \r\n\u2022 Test your racing prowess in 4 thrilling racing formats.\r\n\u2022 Take on high-stakes rivalry in Black Knockout Race event.\r\n\u2022 12 real-life racing tracks inspired from world-class locations.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Racing",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "20949560-b968-4b94-ab34-c5874423cd5a",
+            "date": "2014-09-19T04:09:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/ce0f1b44-396c-487d-a6d8-ca48ca34d38e\/com.gameanax.speedrush\/20949560-b968-4b94-ab34-c5874423cd5a\/lwwVQb0tRDu3sBt28JQT_SpeedRushOUYAv1.2.apk",
+            "size": 262952772,
+            "md5sum": "fce0a34238f29f46c43af9faa92af476",
+            "publicSize": 703584,
+            "nativeSize": 14648172
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gameanax.speedrush\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GbhRWV1HTcy551mcNFrG",
+        "video": "http:\/\/vimeo.com\/104276867",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kv6L5jIRYS381kX0LZN1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LnldzDizQ0av2SRqXG2Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g611zymTxeLXzVrto9AY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ae3n7M4TSXeed8yWsqdy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QTLzuP9S6RrF2zV1oWQA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/104276867"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/xl5tdj_ouya-screenshot20140918-2-q83eaw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/thumbnails\/thumbnail20140918-2-1r5lfwk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/k6a51c_ouya-screenshot20140918-2-10vamdd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/thumbnails\/thumbnail20140918-2-rbxfpc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/d0opxh_ouya-screenshot20140918-2-wncllz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/thumbnails\/thumbnail20140918-2-1mhkzu3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/t48bfr_ouya-screenshot20140918-2-m7bdxo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/thumbnails\/thumbnail20140918-2-85mvev.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/yqlhki_ouya-screenshot20140918-2-cd7vs9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20949560-b968-4b94-ab34-c5874423cd5a\/thumbnails\/thumbnail20140918-2-1fjrnqx.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "GameAnax Inc.",
+        "supportEmail": "support@gameanax.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.gameanax.com",
+    "firstPublishedAt": "2014-09-03T09:14:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by GameAnax Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.27,
+        "count": 510
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sr_buy_full_version",
+            "name": "Speed Rush - Buy Full Version",
+            "description": "Buy full version of this game to enjoy all features and tracks.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

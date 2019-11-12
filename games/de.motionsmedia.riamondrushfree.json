@@ -1,0 +1,70 @@
+{
+    "packageName": "de.motionsmedia.riamondrushfree",
+    "title": "Riamond Rush",
+    "description": "Riamond has lost all his diamonds. Help him to get them back again. He follows you thru all 60 puzzle levels. Sometimes it is enough to walk thru the levels in the right direction. Different dynamic tiles are prevent you to get all the gems and finally also the way to the door is not always easy to reach. In advanced levels Riamond has to digg thru walls if needed. And in some cases Riamond had to complete the levels at midnight with limited view.\r\n\r\nUse dpad & A in menu. In game use dpad for walking, U to restart level, O to digg if allowed, A to go back to menu.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "0.2",
+            "versionCode": 0,
+            "uuid": "188b2a43-83b5-4f41-a7a1-1240f6beeff4",
+            "date": "2014-11-14T17:49:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0dfbbb45-1653-4ad7-a091-8f30f26d0bab\/de.motionsmedia.riamondrushfree\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/wj8JsTTRwau8sWvVhwyg_Riamond_Rush_2014_11_12-10_52_18_Ouya_release_signed.apk",
+            "size": 17318618,
+            "md5sum": "804d14a63c50a48cdbd8d52a5feb43ba",
+            "publicSize": 739933,
+            "nativeSize": 22821996
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nRJ1LHL1R1aSvIn6wqM4",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3Y9MzFAMTM26k1F0Fahb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kEipL88aRXKMiSZYg3Hk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/276ryEb5SmWTk8HyKrIR"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/fgk80x_ouya-screenshot20141112-2-msk9ov.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/thumbnails\/thumbnail20141112-2-117676t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/potyga_ouya-screenshot20141112-2-1jvw44l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/thumbnails\/thumbnail20141112-2-jqxzb6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/ljsrm6_ouya-screenshot20141112-2-taz5os.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/thumbnails\/thumbnail20141112-2-15svzbc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "motions-media",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.motions-media.de",
+    "firstPublishedAt": "2014-11-14T17:49:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by motions-media.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.17,
+        "count": 29
+    }
+}

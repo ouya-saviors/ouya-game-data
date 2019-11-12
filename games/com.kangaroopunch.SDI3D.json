@@ -1,0 +1,84 @@
+{
+    "packageName": "com.kangaroopunch.SDI3D",
+    "title": "SDI 3D",
+    "description": "FREE!  Old school arcade action with a modern 3D perspective!  Defend your cities from nuclear attack before it's too late.  Target and destroy incoming missiles with your rocket launchers.  Classic hardcore gameplay, not a touchy-feely phone port!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "797dd533-a69b-4b14-9b83-b0f40b40f419",
+            "date": "2013-07-12T20:20:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9e4f9781-1634-49f7-9c97-52638f845760\/com.kangaroopunch.SDI3D\/797dd533-a69b-4b14-9b83-b0f40b40f419\/9WtsXHKxRS6sonWGnKno_SDI3D.apk",
+            "size": 35729702,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kangaroopunch.sdi3d\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZOxHbFPwQzmjuKEHg8aq",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EBEDVuUR5erCTGtc58qg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8k8c0yQQQ9iCXCL9ixJT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZcXCvQ99R31aHXF6Hw5A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Il1lGgnASxSnUtyBaJkx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LFNkCM7RFy7Kvaw3BNBw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EBEDVuUR5erCTGtc58qg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EBEDVuUR5erCTGtc58qg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8k8c0yQQQ9iCXCL9ixJT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8k8c0yQQQ9iCXCL9ixJT\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZcXCvQ99R31aHXF6Hw5A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZcXCvQ99R31aHXF6Hw5A\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Il1lGgnASxSnUtyBaJkx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Il1lGgnASxSnUtyBaJkx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LFNkCM7RFy7Kvaw3BNBw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LFNkCM7RFy7Kvaw3BNBw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kangaroo Punch Studios",
+        "supportEmail": "support@kangaroopunch.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/kangaroopunch.com",
+    "firstPublishedAt": "2013-07-12T20:20:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Kangaroo Punch Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 59,
+        "average": 3.17,
+        "count": 29
+    }
+}

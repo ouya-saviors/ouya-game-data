@@ -1,0 +1,69 @@
+{
+    "packageName": "com.Portabliss.Always_be_Shipping",
+    "title": "Always be Shipping",
+    "description": "Always be Shipping is a simple relaxation app\/game. It focuses on putting you on a drifting boat in the middle of nowhere. Listen to the relaxing ocean sounds as you stare off into the distance and hope that the developer put something in for you to see. A true boating experience, Always be Shipping is for anyone and everyone who wants to know what it's like to be lost on a boat.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "cebb7344-33af-45a5-80fe-fe867da8b83f",
+            "date": "2013-09-17T00:21:14Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f11b2a6d-426a-404d-ad35-0925bee09717\/com.Portabliss.Always_be_Shipping\/cebb7344-33af-45a5-80fe-fe867da8b83f\/RvYxaDLT1qBqwxq9M4wu_abs.apk",
+            "size": 20200935,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.portabliss.always_be_shipping\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2wZq7yCRguEYOjSPeOsL",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m8M55FGTSwOPJta9FNYA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3FWx5LjbRSqCqOYZoUPC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ia4dBdYTSmmwIiOLIGVA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m8M55FGTSwOPJta9FNYA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m8M55FGTSwOPJta9FNYA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3FWx5LjbRSqCqOYZoUPC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3FWx5LjbRSqCqOYZoUPC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ia4dBdYTSmmwIiOLIGVA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ia4dBdYTSmmwIiOLIGVA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "James Hostetler",
+        "supportEmail": "jhostetler90@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.portabliss.com",
+    "firstPublishedAt": "2013-09-17T00:21:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by James Hostetler.",
+    "premium": false,
+    "rating": {
+        "likeCount": 82,
+        "average": 2.96,
+        "count": 199
+    }
+}

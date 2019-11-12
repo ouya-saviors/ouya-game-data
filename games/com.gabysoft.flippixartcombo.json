@@ -1,0 +1,87 @@
+{
+    "packageName": "com.gabysoft.flippixartcombo",
+    "title": "FlipPix Art",
+    "description": "An old Japanese logic puzzle takes on a new look with FlipPix Art!  Touch tiles to paint them or break them to form colorful components of a zoo painting.  Use logic to determine which tiles should be filled to reveal a hidden picture.  Sudoku fans will find good use for their logic skills and feel right at home with FlipPix puzzles.\r\n\r\nFlipPix Art has two scenes containing 80 puzzles in a variety in sizes from 5x5 to 20x20.  Also known as nonograms or griddlers, FlipPix Art puzzles are designed specifically for tablets, and range from easy to very challenging levels of play.\r\n\r\nA short tutorial on the basics of the game is included.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "3bb05a67-95e1-4fad-a363-393fe2df839e",
+            "date": "2013-07-25T14:22:24Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d7625a5b-d72c-402d-a145-bc6fcae8c04f\/com.gabysoft.flippixartcombo\/3bb05a67-95e1-4fad-a363-393fe2df839e\/j6vPnq6SoS3jK5fB7jvl_FlipPixArtCombo.apk",
+            "size": 18438341,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gabysoft.flippixartcombo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wv2YOADSwuEiWecKWNHm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xznMQ2V9SPGgxkt7lLap",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5BKaNxR6ePowJw6utLDQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/goqnFQFrRleMV3a2oAJ6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sleGoNaQaaEc5BheWl4g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vTooaOIkQzub3QYNs789",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HPizdgFSTiQY22UQDz3A"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xznMQ2V9SPGgxkt7lLap\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xznMQ2V9SPGgxkt7lLap\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5BKaNxR6ePowJw6utLDQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5BKaNxR6ePowJw6utLDQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/goqnFQFrRleMV3a2oAJ6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/goqnFQFrRleMV3a2oAJ6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sleGoNaQaaEc5BheWl4g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sleGoNaQaaEc5BheWl4g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/vTooaOIkQzub3QYNs789\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/vTooaOIkQzub3QYNs789\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HPizdgFSTiQY22UQDz3A\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HPizdgFSTiQY22UQDz3A\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "GabySoft",
+        "supportEmail": "support@gabysoft.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/gabysoft.com\/GamesFlipPix.aspx",
+    "firstPublishedAt": "2013-07-25T14:22:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by GabySoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 28,
+        "average": 3.33,
+        "count": 9
+    }
+}

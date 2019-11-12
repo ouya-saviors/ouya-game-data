@@ -1,0 +1,81 @@
+{
+    "packageName": "org.npitx.Space_Ape",
+    "title": "Space Ape",
+    "description": "Space Ape places players in the role of a highly-energized ape caught in a never-ending space journey. Players control Dmitri\u2019s spacecraft and quickly dodge numerous space hazards like meteors, comets, and aliens! Space Ape challenges players to survive as long as possible while also collecting valuable space bananas.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "7884e36f-10a1-43c8-9e70-2af26a30b573",
+            "date": "2013-05-08T19:35:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f8683843-485f-4787-8a59-fca9b64d7f96\/org.npitx.Space_Ape\/7884e36f-10a1-43c8-9e70-2af26a30b573\/XLKV0KCqRQaO2d0PeDiU_org.npitx.Space_Ape.apk",
+            "size": 14639927,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.npitx.space_ape\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QT1I7PsPTOiXjrrHKSqH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B5yJwwpS2SBiRL4VGc4s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/abZXYlUsTTWGNb4Er6St",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WEwhGctSuyk2tZxUl4sC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PNRbXNeSQ2AxumPJrgcH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZRQaI1RQGWPXRIlH9emf"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/B5yJwwpS2SBiRL4VGc4s\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/B5yJwwpS2SBiRL4VGc4s\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/abZXYlUsTTWGNb4Er6St\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/abZXYlUsTTWGNb4Er6St\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WEwhGctSuyk2tZxUl4sC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WEwhGctSuyk2tZxUl4sC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/PNRbXNeSQ2AxumPJrgcH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/PNRbXNeSQ2AxumPJrgcH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZRQaI1RQGWPXRIlH9emf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZRQaI1RQGWPXRIlH9emf\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f8683843-485f-4787-8a59-fca9b64d7f96",
+        "name": "nonPareil Studio",
+        "supportEmail": "appsupport@npitx.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "npitx.org",
+    "firstPublishedAt": "2013-05-08T19:35:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2013 by nonPareil Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 52,
+        "average": 3,
+        "count": 9
+    }
+}

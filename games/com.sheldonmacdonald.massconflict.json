@@ -1,0 +1,110 @@
+{
+    "packageName": "com.sheldonmacdonald.massconflict",
+    "title": "Mass Conflict",
+    "description": "Help protect earth, by seeking out alien ships and destroying them to prevent a massive conflict.  This is a 1 to 2 player [shooter \/ platformer]\r\n\r\nBy: Sheldon MacDonald (c)2014 SoftMotion3D",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.1.5",
+            "versionCode": 0,
+            "uuid": "1ea6743b-5f39-45c1-8c76-d95b81001bd0",
+            "date": "2014-04-02T17:40:36Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fbac95fd-f332-4176-b7ce-54f7190b03f8\/com.sheldonmacdonald.massconflict\/1ea6743b-5f39-45c1-8c76-d95b81001bd0\/LEPPauUgQ8egllUuSQMI_MassConflict.apk",
+            "size": 30647850,
+            "md5sum": "2b12640ddf551633f3e822650d4303e8",
+            "publicSize": 189324,
+            "nativeSize": 6709192
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sheldonmacdonald.massconflict\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eqccIzmCQSiYwwcHvikS",
+        "video": "https:\/\/vimeo.com\/90622088",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z7K2CRCkQMi8WJdbmyNo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r077jqETuaXEOEMgVgxQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NAXoWXIXSFuC6u5dNIjK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fsjRX8HbTNacrlJuQg8O",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C20upG35QewIzzLIRCPn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9ZouhGhYRPKySobzeRA4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IH4lptUlS0u8DiNmUAN9"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90622088"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/z7K2CRCkQMi8WJdbmyNo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/z7K2CRCkQMi8WJdbmyNo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/r077jqETuaXEOEMgVgxQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/r077jqETuaXEOEMgVgxQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NAXoWXIXSFuC6u5dNIjK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NAXoWXIXSFuC6u5dNIjK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fsjRX8HbTNacrlJuQg8O\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fsjRX8HbTNacrlJuQg8O\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/C20upG35QewIzzLIRCPn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/C20upG35QewIzzLIRCPn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9ZouhGhYRPKySobzeRA4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9ZouhGhYRPKySobzeRA4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IH4lptUlS0u8DiNmUAN9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IH4lptUlS0u8DiNmUAN9\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "softmotion3d",
+        "supportEmail": "smd_3d@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.smotion3d.com",
+    "firstPublishedAt": "2014-01-06T20:46:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by softmotion3d.",
+    "premium": false,
+    "rating": {
+        "likeCount": 15,
+        "average": 3.12,
+        "count": 17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "massconflict_unlock1",
+            "name": "Game Purchase Option 1",
+            "description": "MassConflict Full Game",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

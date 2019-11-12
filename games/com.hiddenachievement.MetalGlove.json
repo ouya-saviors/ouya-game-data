@@ -1,0 +1,100 @@
+{
+    "packageName": "com.hiddenachievement.MetalGlove",
+    "title": "Order of the Metal Glove",
+    "description": "Charge around bunkers with your fellow Planetary Marines, fighting the vicious MechanoSpyders and their legions of metal-clad comrades! The Order of the Metal Glove is an old-school multiplayer action arcade game. Up to four players can join the robo-destruction together, so bring a friend, and have a blast!",
+    "players": [
+        1,
+        2,
+        3
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.1.9",
+            "versionCode": 0,
+            "uuid": "c06612ea-b0e1-40bd-9dff-52d6a392c193",
+            "date": "2015-10-16T06:45:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a168591c-9129-4039-ae46-0be763951614\/com.hiddenachievement.MetalGlove\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/c8EDJ3ENS8aVE5inyYBR_MetalGlove.apk",
+            "size": 19262999,
+            "md5sum": "c377f12bbcc354fe29510868e7da83fb",
+            "publicSize": 642966,
+            "nativeSize": 971664
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.metalglove\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e58wfxTHSZodY06WQqw6",
+        "video": "https:\/\/vimeo.com\/90397747",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/prixfnasQHu5hFmhQKav",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5SLlIj4dS7C2X7fvINx4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ROYZwzrnRkax8AeRL7Gz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p7EXmgj0QhmcyBCpASLA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gRvIy6eITl6j3OOA5NAO"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90397747"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/xnt8v1_ouya-screenshot20150930-3-ui44ed.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-1fgr3ol.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/4jxh8x_ouya-screenshot20150930-3-1brbi1n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-msfziq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/y6dw8_ouya-screenshot20150930-3-v9osgd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-1ugzeny.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/526yn3_ouya-screenshot20150930-3-1j2qegr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-chmxil.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/r2v093_ouya-screenshot20150930-3-1hhyx6s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-1g0c19e.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Hidden Achievement LLC",
+        "supportEmail": "support@hiddenachievement.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/metalglove.hiddenachievement.com\/",
+    "firstPublishedAt": "2014-03-25T22:34:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Hidden Achievement LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 17,
+        "average": 3,
+        "count": 84
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MetalGlove-worldpack-1-3",
+            "name": "Order of the Metal Glove Initial Incursion Pack",
+            "description": "[ON SALE] The Initial Incursion Pack includes all of the initial game worlds at a discounted rate: Arms Storage, Basement, and Sub-basement.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

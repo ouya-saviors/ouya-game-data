@@ -1,0 +1,76 @@
+{
+    "packageName": "com.ohrrpgce.rambleplanet",
+    "title": "Ramble Planet",
+    "description": "Your have crashed on Badmark, a hostile frontier planet and tourist hotspot. You must scour this alien world to find replacement parts for your spaceship, while befriending or battling its strange denizens.\r\n\r\nRamble Planet is a scavenger hunt RPG set in a unique sci-fi world. It was created with the OHRRPGCE game creation engine. Experience free-roaming exploration of a sprawling world filled with puzzles and secrets.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "f7d31daf-24fc-460f-99c2-5e12a4bac4cb",
+            "date": "2016-04-19T13:17:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/02764e7a-b753-47c3-81d7-950e3b4cd552\/com.ohrrpgce.rambleplanet\/012a6ccf-00ca-4e6d-96a3-302967af06f0\/tFHq5xfQ96FMvEZjwDA4_rambleplanet-release-signed.apk",
+            "size": 13184969,
+            "md5sum": "19f08f66398377f2f83543607a8dda0e",
+            "publicSize": 383140,
+            "nativeSize": 2396812
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X8oA9vtbTm33tACp2JCw",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/atPXoMrT4aK99i5qYbdg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5BEeyvgR5ugdkvoToeOa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ywQUEucEQ7iEylMMRWdK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0e2O1FYOQGeNbpWIZcgm"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/she71u_ouya-screenshot20160402-3-14wiaec.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-16htgpr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/d2929_ouya-screenshot20160402-3-t31ve9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-ciqdz8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/wu5ks_ouya-screenshot20160402-3-82z1iy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-13fzrtw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/xzgne5_ouya-screenshot20160402-3-o97bas.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-1t15vz6.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "A. Hagen",
+        "supportEmail": "willelektrix@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/rpg.hamsterrepublic.com\/ohrrpgce\/Main_Page",
+    "firstPublishedAt": "2014-06-10T00:11:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2016 by A. Hagen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.8,
+        "count": 69
+    }
+}

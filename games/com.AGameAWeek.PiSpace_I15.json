@@ -1,0 +1,82 @@
+{
+    "packageName": "com.AGameAWeek.PiSpace_I15",
+    "title": "Platdude in Space",
+    "description": "Help Platdude protect the mini-galaxy from all the evil squishable bad guys that are rummaging through space.\r\nBounce your way through the galaxy, gathering up the collectables and killing off as many of the bad guys as you can.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "ce57868d-f59a-48c8-82af-5746f3fa9404",
+            "date": "2015-12-30T20:32:10Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8a1647c2-1d78-4c08-91cf-7916e720fd67\/com.AGameAWeek.PiSpace_I15\/ce57868d-f59a-48c8-82af-5746f3fa9404\/h8TDRX4KTCyYgvi66jYt_Platdude%20in%20Space.apk",
+            "size": 8472350,
+            "md5sum": "08e752d9b124fd48ff0957ffaac28533",
+            "publicSize": 108125,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.pispace_i15\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YZMTG8G8SF22eVun5aHm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y8hCnvPwRNORy7ennXoD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AVmLDu13QjiKJDuYdCcA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/njbcGak8STi2Krm99vOC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/32ftaKCvQtuvoWrkvSFe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Hj0Mgx9S7SHdo3hAvHRB"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/ysjrki_ouya-screenshot20151230-3-1hthf7s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/thumbnails\/thumbnail20151230-3-1263ikq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/awawh5_ouya-screenshot20151230-3-1rlsham.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/thumbnails\/thumbnail20151230-3-1razw8l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/l0yrh_ouya-screenshot20151230-3-13iw7lt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/thumbnails\/thumbnail20151230-3-1faz7wm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/qk3kla_ouya-screenshot20151230-3-w08f7n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/thumbnails\/thumbnail20151230-3-h6ea4q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/u6kue_ouya-screenshot20151230-3-y5c4il.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ce57868d-f59a-48c8-82af-5746f3fa9404\/thumbnails\/thumbnail20151230-3-1y17823.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2015-10-12T16:13:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 5,
+        "count": 1
+    }
+}

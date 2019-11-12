@@ -1,0 +1,78 @@
+{
+    "packageName": "com.cowboycolor.sumopuckii",
+    "title": "Sumo Puckii",
+    "description": "Sumo Puckii is a 2-player competitive sumo wrestling\/air hockey hybrid with a focus on simple controls, fast-paced matches, and making you hate your friends.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "0d6265f6-e013-400a-aa0f-b549b6ea515f",
+            "date": "2015-03-25T22:59:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/fbd82474-3e61-48a8-9835-3fa9dfd8c2fd\/com.cowboycolor.sumopuckii\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/TpiEaiqaTp6fpQq7WWyg_sumoPucki.apk",
+            "size": 15601887,
+            "md5sum": "d80c4cb5be15fb6bb25c88873c20ffd1",
+            "publicSize": 902020,
+            "nativeSize": 8812608
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cowboycolor.sumopuckii\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ESmvE36kSFecjY9BUHM4",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8mCfP1pXSR9FhGxTDhMm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3Yd12DJpTt2DeBpAQJpB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jqqy6UGyRNqUoDRlxSZJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RMKzCqvSpOgSjQKyQbTB"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/4jui2q_ouya-screenshot20150324-3-75gvjb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/thumbnails\/thumbnail20150324-3-8ju5rv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/d05tp6_ouya-screenshot20150324-3-1f4mq2x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/thumbnails\/thumbnail20150324-3-4bz6kq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/sgpjss_ouya-screenshot20150324-3-u8kptd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/thumbnails\/thumbnail20150324-3-xcyi9o.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/s6yy79_ouya-screenshot20150324-3-107mfii.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0d6265f6-e013-400a-aa0f-b549b6ea515f\/thumbnails\/thumbnail20150324-3-1aakxng.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "fbd82474-3e61-48a8-9835-3fa9dfd8c2fd",
+        "name": "Cowboy Color",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.cowboycolor.com",
+    "firstPublishedAt": "2015-03-25T22:59:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Cowboy Color.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.78,
+        "count": 36
+    }
+}

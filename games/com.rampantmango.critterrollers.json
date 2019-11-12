@@ -1,0 +1,75 @@
+{
+    "packageName": "com.rampantmango.critterrollers",
+    "title": "Critter Rollers",
+    "description": "Critter Rollers is a 100% free, easy to control platform adventure game across multiple zany worlds. Control the numerous critters with a prod of a button to make them jump across hazards and fire them from multiple types of canons so they can collect the treats and reach the donut exit, just like in real life!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.4.9",
+            "versionCode": 0,
+            "uuid": "d8cbe481-f3c3-467e-aadc-f3656e824865",
+            "date": "2013-08-09T23:27:19Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/25ca524a-0501-4c6e-a187-e480dbb04e9e\/com.rampantmango.critterrollers\/d8cbe481-f3c3-467e-aadc-f3656e824865\/u1SFCr4mQwqAvQtF0OBr_CritterRollersOuya1.49.apk",
+            "size": 16197499,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.rampantmango.critterrollers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aBPQFxB6RwuEtnB0HjRB",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G622SXRkSoGukF1JzJF7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cmoWQxvQqq1FOVNH4IIo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8qGuGzImThfaZ89H8YNA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xuUJLqiRBOtEWYuw3p4w"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/G622SXRkSoGukF1JzJF7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/G622SXRkSoGukF1JzJF7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cmoWQxvQqq1FOVNH4IIo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cmoWQxvQqq1FOVNH4IIo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8qGuGzImThfaZ89H8YNA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8qGuGzImThfaZ89H8YNA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xuUJLqiRBOtEWYuw3p4w\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xuUJLqiRBOtEWYuw3p4w\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "The Rampant Mango Collective",
+        "supportEmail": "info@rampantmango.co.uk",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "critterrollers.com",
+    "firstPublishedAt": "2013-08-09T23:27:19Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by The Rampant Mango Collective.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 3.38,
+        "count": 60
+    }
+}

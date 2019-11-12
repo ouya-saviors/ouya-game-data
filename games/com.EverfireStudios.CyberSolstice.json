@@ -1,0 +1,70 @@
+{
+    "packageName": "com.EverfireStudios.CyberSolstice",
+    "title": "Cyber Solstice",
+    "description": "Please be aware this is an alpha release.  Please send feedback to info.cs@foreverinteractive.com\r\n\r\n\r\nCyber Solstice is an action-packed experience, where a futuristic world of technology intertwines with fantasy.  Fight the Future!!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "6e27f9ee-52f8-4ead-9350-a56184097054",
+            "date": "2013-10-24T01:19:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/469f0a3c-7509-4be3-8c3d-8baf28e818bd\/com.EverfireStudios.CyberSolstice\/6e27f9ee-52f8-4ead-9350-a56184097054\/ptrai5ryQta4I9lf8uMn_CyberSolstice.apk",
+            "size": 152803924,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.everfirestudios.cybersolstice\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RVnmn9pkQZuGJe4ZZzHY",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FNla3F9FQamAzkRx3m6O",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nvyoFnKXTWnaSJTW7khq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O6ybMAv5TrCippHZhvFS"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FNla3F9FQamAzkRx3m6O\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FNla3F9FQamAzkRx3m6O\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nvyoFnKXTWnaSJTW7khq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nvyoFnKXTWnaSJTW7khq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/O6ybMAv5TrCippHZhvFS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/O6ybMAv5TrCippHZhvFS\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "EverFire Studios",
+        "supportEmail": "info.cs@foreverinteractive.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/everfirestudios.com\/index.html",
+    "firstPublishedAt": "2013-10-24T01:19:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by EverFire Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 2.35,
+        "count": 23
+    }
+}

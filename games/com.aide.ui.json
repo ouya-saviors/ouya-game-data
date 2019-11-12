@@ -1,0 +1,78 @@
+{
+    "packageName": "com.aide.ui",
+    "title": "AIDE for OUYA",
+    "description": "AIDE is an integrated development environment (IDE) for developing games directly on your OUYA. Follow interactive coding lessons and step-by-step become an expert game developer.  Visually design apps, write code with the feature rich editor with code completion, real-time error checking, refactoring and smart code navigation, and run your game with a single click.",
+    "players": [
+        1
+    ],
+    "genres": [],
+    "releases": [
+        {
+            "name": "2.7.0",
+            "versionCode": 0,
+            "uuid": "36cc788f-fe21-4d6f-adf9-145a72036ba9",
+            "date": "2014-08-04T17:39:12Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9b57b7e2-2fa3-44db-9131-04b76a1f491c\/com.aide.ui\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/N71b0ThVTy6qv0E9Cbpd_AIDE.apk",
+            "size": 17741274,
+            "md5sum": "ed9c7c24ec3593a0a680df6c5d87a7eb",
+            "publicSize": 1555936,
+            "nativeSize": 263536
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RDv2CLDgRyN6QLc0fDy6",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RXA1OjDCQUuHQYiRahK2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9Zu31XAAQoKYd16MwY1l",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Le5pN1VuSPf4VEKB5RNE"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/oky0z9_ouya-screenshot20140729-2-r56msu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/thumbnails\/thumbnail20140729-2-1ljc3ea.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/f45nbn_ouya-screenshot20140729-2-n086e0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/thumbnails\/thumbnail20140729-2-sp783f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/47dna1_ouya-screenshot20140729-2-17od4xb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/thumbnails\/thumbnail20140729-2-1iun14s.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "appfour",
+        "supportEmail": "ide4android@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.android-ide.com",
+    "firstPublishedAt": "2014-08-04T17:39:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by appfour.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.26,
+        "count": 89
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "aide_full_30",
+            "name": "AIDE Full Version",
+            "description": "Unlocks all features and courses of AIDE.",
+            "localPrice": 29.89,
+            "originalPrice": 29.89,
+            "currency": "EUR"
+        }
+    ]
+}

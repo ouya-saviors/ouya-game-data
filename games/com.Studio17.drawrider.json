@@ -1,0 +1,93 @@
+{
+    "packageName": "com.Studio17.drawrider",
+    "title": "Draw Rider",
+    "description": "More 6,000,000 downloads all over the world on iOS and Android!\r\nMore than 50,000 amazing levels created by users! \r\n\r\nFeatures:\r\n- Fun ragdoll physics\r\n- Destructible bike\r\n- Seven vehicles\r\n- Character customization\r\n- Mode Challenge\r\n- Slow motion mode\r\n- More than 150 exciting tracks\r\n- Level editor\r\n- The ability to share your creations with your friends!\r\n- Inversion colors mode\r\n- Online mode",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "2.0",
+            "versionCode": 0,
+            "uuid": "44b5b804-b99a-4c0f-be4c-1e9bbd11efe8",
+            "date": "2014-04-23T21:28:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e83909e1-b237-41f6-b176-bfcc2b2083b6\/com.Studio17.drawrider\/44b5b804-b99a-4c0f-be4c-1e9bbd11efe8\/CIS1TmgCSzmgGpaY506Y_Draw%20Rider.apk",
+            "size": 35969463,
+            "md5sum": "c7b1ed81ec811e1d7effa30bfb3b805f",
+            "publicSize": 827126,
+            "nativeSize": 3767652
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.studio17.drawrider\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BinFLg2TEiqEjFzvOTAT",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zotyS0isSOseUXr06sID",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CXp8o6LTQT2dOK0sm2U7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UrBPHksPRnGsTQHnS3CP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oKflvpiSTyWTM2RAB6VE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AxUuG12MSg2abQ8rBS2Q"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zotyS0isSOseUXr06sID\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zotyS0isSOseUXr06sID\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CXp8o6LTQT2dOK0sm2U7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CXp8o6LTQT2dOK0sm2U7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UrBPHksPRnGsTQHnS3CP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UrBPHksPRnGsTQHnS3CP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oKflvpiSTyWTM2RAB6VE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oKflvpiSTyWTM2RAB6VE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AxUuG12MSg2abQ8rBS2Q\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AxUuG12MSg2abQ8rBS2Q\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Anton Vazhinsky",
+        "supportEmail": "gamingstudio17@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/17studio.tumblr.com",
+    "firstPublishedAt": "2013-11-18T22:57:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Anton Vazhinsky.",
+    "premium": false,
+    "rating": {
+        "likeCount": 176,
+        "average": 3.88,
+        "count": 412
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Draw_Rider_Plus",
+            "name": "Draw Rider Plus",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

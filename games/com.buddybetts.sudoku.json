@@ -1,0 +1,92 @@
+{
+    "packageName": "com.buddybetts.sudoku",
+    "title": "Battle Sudoku",
+    "description": "Innovative multiplayer take on the famous single player game of Sudoku.\r\n\r\nWith seven unique power-ups and five difficulty levels, it's fun for 1-to-4 players!\r\n\r\nCompete against one another, or work together to solve each board.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Multiplayer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e6b7d020-3783-4dee-991d-5fdb77876353",
+            "date": "2014-09-05T20:15:23Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/633d0800-a729-4da1-9742-d5719b79c947\/com.buddybetts.sudoku\/e6b7d020-3783-4dee-991d-5fdb77876353\/W29A8EicQ2CtoQWeYzJn_BattleSudoku.apk",
+            "size": 39068029,
+            "md5sum": "1c1c1e59ada251b192c8f7031fe37098",
+            "publicSize": 405302,
+            "nativeSize": 1961506
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.buddybetts.sudoku\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lPgrW3wFSg2mnU3Wgdgd",
+        "video": "https:\/\/vimeo.com\/104891506",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z9B9W4BUS2VZDfQjSJkv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mNprybvOR1GEovEho3D2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LKca0teqS8SQBtAQ8lmR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xBkkrHU2SHaiosED1A9N"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/104891506"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/8q72ki_ouya-screenshot20140831-2-1y06j57.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/thumbnails\/thumbnail20140831-2-zfe6qq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/9sfucw_ouya-screenshot20140831-2-1nermuh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/thumbnails\/thumbnail20140831-2-1coq92r.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/iyea9z_ouya-screenshot20140831-2-1vwzuwj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/thumbnails\/thumbnail20140831-2-1vrm34b.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/5um93j_ouya-screenshot20140901-2-1sjajei.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e6b7d020-3783-4dee-991d-5fdb77876353\/thumbnails\/thumbnail20140901-2-tw30w0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "butabutbut",
+        "supportEmail": "support@butabutbut.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/butabutbut.com\/battlesudoku",
+    "firstPublishedAt": "2014-09-05T20:15:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by butabutbut.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.47,
+        "count": 17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BattleSudoku_FullUnlock",
+            "name": "Battle Sudoku Full Unlock",
+            "description": "Play games faster!  Support indie development!  Feel good about yourself!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

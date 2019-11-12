@@ -1,0 +1,86 @@
+{
+    "packageName": "com.no3z.deBlock3",
+    "title": "deBlock3",
+    "description": "deBlock3 is an action musical game. \r\nDodge those bad blocks and get some hefty coins! \r\n\r\nFive levels full of action and an original soundtrack for your viewing and listening pleasure.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "66360c15-1bdf-4f16-8125-b77376fbf33d",
+            "date": "2014-08-27T18:13:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/f81ed8cd-2db7-46b5-966f-07559c1512a4\/com.no3z.deBlock3\/66360c15-1bdf-4f16-8125-b77376fbf33d\/KSmQcmkWRzeMxiFfR6ca_deBlock3-release.apk",
+            "size": 11879266,
+            "md5sum": "43ec280afbf49cf5fc90b4d4f8648421",
+            "publicSize": 754832,
+            "nativeSize": 2032852
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deblock3\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/na6dyOKRObxHYQ0JlLeg",
+        "video": "https:\/\/vimeo.com\/104504828",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MqXhpt9fTJig0ZS8IFyg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XUV2eAc8RyiQmYOF2EYm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MXPqxBD5QWiH7hA6AguS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HnbaCowqQtWXMoiZlJmY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gd3KvBrSYyrJpyp1hONw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/104504828"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/7sovgu_ouya-screenshot20140826-2-1vbo5q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140826-2-1ik3qv2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/crb1p1_ouya-screenshot20140827-2-lg92br.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-73bcrd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/iw4c4a_ouya-screenshot20140827-2-1sx8206.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-1nsng17.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/9ph26o_ouya-screenshot20140827-2-17brhtr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-1c9o7dh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/j4s5up_ouya-screenshot20140827-2-1a5uz6x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-1fo433v.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "f81ed8cd-2db7-46b5-966f-07559c1512a4",
+        "name": "no3z productions",
+        "supportEmail": "deblockgame@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "no3z.com",
+    "firstPublishedAt": "2014-08-15T23:03:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by no3z productions.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.25,
+        "count": 36
+    }
+}

@@ -1,0 +1,89 @@
+{
+    "packageName": "com.Mint.Burning",
+    "title": "Burning Cooking Passion Pro",
+    "description": "Up to 4 players cooking off to become the best breakfast chef in town, if your food is disgusting you won't last, so don't burn your food too much!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "df4e3eae-4197-4158-a7d2-31d60d13d4b5",
+            "date": "2014-06-10T23:55:46Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/98690b90-9c3c-4060-bf26-bc755410e0b3\/com.Mint.Burning\/df4e3eae-4197-4158-a7d2-31d60d13d4b5\/68QJr0rVSwCZ3E3aPwf5_Burning.apk",
+            "size": 26948730,
+            "md5sum": "06e3f2f4ef0eb0c4ffbe7bfb694d4017",
+            "publicSize": 34773,
+            "nativeSize": 7364260
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mint.burning\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Wduws8XiTpWaNNlNIq1c",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Bg8uNa0cSqmRX8HpBSVr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ATXg9YBoS2ClSg0mVpAZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ClCIXZbS1OOmFQSepHNM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rz8cXQfVQNWqYwUD3r6Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1qMiomyORNC2yI8vfiVd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L1c4i0vyTOymSkR9j03V"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Bg8uNa0cSqmRX8HpBSVr",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Bg8uNa0cSqmRX8HpBSVr"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ATXg9YBoS2ClSg0mVpAZ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ATXg9YBoS2ClSg0mVpAZ"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ClCIXZbS1OOmFQSepHNM",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ClCIXZbS1OOmFQSepHNM"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rz8cXQfVQNWqYwUD3r6Y",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rz8cXQfVQNWqYwUD3r6Y"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1qMiomyORNC2yI8vfiVd",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1qMiomyORNC2yI8vfiVd"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/L1c4i0vyTOymSkR9j03V",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/L1c4i0vyTOymSkR9j03V"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "98690b90-9c3c-4060-bf26-bc755410e0b3",
+        "name": "Team Omni",
+        "supportEmail": "info@team-omni.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.team-omni.com\/",
+    "firstPublishedAt": "2014-06-10T23:55:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Team Omni.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.69,
+        "count": 273
+    }
+}

@@ -1,0 +1,99 @@
+{
+    "packageName": "com.emcneill.Bombball",
+    "title": "Bombball",
+    "description": "\"Really fun and deep.\"\r\n\"A blast to play.\"\r\n\"It's like air hockey meets American Gladiators meets lasers.\"\r\n\r\nBombball is an explosive, fast-paced, uber-competitive eSport. It's a game about close calls, white knuckles, and making the tiebreaking goal before the buzzer. Gather some friends, crank the volume up, and show off your skill!\r\n\r\n- Singleplayer or two-player modes available\r\n- Three crazy powerups: boosts, blasters, and bombs!\r\n- Support for non-OUYA controllers\r\n- Wicked surf-rock soundtrack\r\n- Three levels of AI: Not Too Bad, Pretty Tough, and Stupid Hard\r\n- Best enjoyed with a crowd of spectators!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "f098cb9a-f8cf-40a5-93a4-08d96537138f",
+            "date": "2013-10-18T18:01:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/3e4a95a6-4ca3-4b34-bcb8-d8e830d2a786\/com.emcneill.Bombball\/f098cb9a-f8cf-40a5-93a4-08d96537138f\/6PRZGECTQD2wkyjTOM0o_Bombballv15.apk",
+            "size": 29911526,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.emcneill.bombball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/llcYasOWQTOULc5gOEJR",
+        "video": "https:\/\/vimeo.com\/77098175",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AuDobl7SlePBK0LwtcIx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3eseHUYR3Wd26NNnnfNP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VdpCwSIuR2mQRHiCR4mG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zEA98GORCqCucb4csCod",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l8wljdfNRrymNgLw9wLj"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77098175"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AuDobl7SlePBK0LwtcIx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AuDobl7SlePBK0LwtcIx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3eseHUYR3Wd26NNnnfNP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3eseHUYR3Wd26NNnnfNP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VdpCwSIuR2mQRHiCR4mG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VdpCwSIuR2mQRHiCR4mG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zEA98GORCqCucb4csCod\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zEA98GORCqCucb4csCod\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/l8wljdfNRrymNgLw9wLj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l8wljdfNRrymNgLw9wLj\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "E McNeill",
+        "supportEmail": "e.b.mcneill@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.emcneill.com\/bombball\/",
+    "firstPublishedAt": "2013-06-26T18:47:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by E McNeill.",
+    "premium": false,
+    "rating": {
+        "likeCount": 401,
+        "average": 4.09,
+        "count": 303
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "FullVersion1",
+            "name": "Bombball Full Version Unlock",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

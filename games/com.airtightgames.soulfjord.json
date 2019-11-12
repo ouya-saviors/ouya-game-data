@@ -1,0 +1,87 @@
+{
+    "packageName": "com.airtightgames.soulfjord",
+    "title": "Soul Fjord",
+    "description": "Soul Fjord is a rhythm based action game made exclusively for your OUYA console by the team at Airtight Games that brought you Quantum Conundrum. Become the legendary champion of funk, Magnus Jones, as he sets out for revenge and fights his way to Valhalla, the hottest club in the afterlife.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "955b7927-b133-456a-a255-8d64323d4d1e",
+            "date": "2014-03-27T20:24:34Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/78819b0f-ea9c-4845-bc5a-35e354ee3598\/com.airtightgames.soulfjord\/955b7927-b133-456a-a255-8d64323d4d1e\/EEoOYKHYRFCUsgfA7Q3l_SoulFjord.apk",
+            "size": 228872880,
+            "md5sum": "2535856fe4863290070debb47f817d9b",
+            "publicSize": 489407,
+            "nativeSize": 25933208
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.airtightgames.soulfjord\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xYgfiohiQyWVbkSkf3dv",
+        "video": "https:\/\/vimeo.com\/84614594",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/esgZlqmkSwyISmYdf5sB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/41DQqFXTnOOVbVnEn0fL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dKeR3wBR2elE6COD6jvp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/giqpAeg2TeSwQxTlCCfl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KH3tGWD3S3a01U3RQwYR"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84614594"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/esgZlqmkSwyISmYdf5sB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/esgZlqmkSwyISmYdf5sB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/41DQqFXTnOOVbVnEn0fL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/41DQqFXTnOOVbVnEn0fL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dKeR3wBR2elE6COD6jvp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dKeR3wBR2elE6COD6jvp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/giqpAeg2TeSwQxTlCCfl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/giqpAeg2TeSwQxTlCCfl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KH3tGWD3S3a01U3RQwYR\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KH3tGWD3S3a01U3RQwYR\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Airtight Games",
+        "supportEmail": "mobilesupport@airtightgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/soulfjord.com",
+    "firstPublishedAt": "2014-01-28T08:00:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Airtight Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 606,
+        "average": 3.86,
+        "count": 745
+    }
+}

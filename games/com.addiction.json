@@ -1,0 +1,70 @@
+{
+    "packageName": "com.addiction",
+    "title": "Addiction.",
+    "description": "\"Addiction.\" tries to communicate what any compulsion or addiction feels like, be it food, tobacco, drugs...\r\n\r\nFor explaiantions on the game  head to newouyadev.wordpress.com, or send an email to the support adress\r\n\r\nChange Log:\r\n- Support text added.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.01",
+            "versionCode": 0,
+            "uuid": "94e96a29-54b9-4cfd-b10e-0400f725a423",
+            "date": "2013-08-05T22:25:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a9fb8a3f-b8a1-4534-a1fd-23918bf0bfc2\/com.addiction\/94e96a29-54b9-4cfd-b10e-0400f725a423\/uE2ruAPRPqWarkiEcs8g_Addiction%20-%20OUYA.apk",
+            "size": 1043668,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.addiction\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tRCkKuthSsiVN0IlMbbZ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qRNib7sLT0eyWn7ORGKp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jCEjSdghT9CoqCUU0Buk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qlgmAAEPQgG8DwxS2TVO"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qRNib7sLT0eyWn7ORGKp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qRNib7sLT0eyWn7ORGKp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jCEjSdghT9CoqCUU0Buk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jCEjSdghT9CoqCUU0Buk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qlgmAAEPQgG8DwxS2TVO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qlgmAAEPQgG8DwxS2TVO\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Borja",
+        "supportEmail": "bl.dev@outlook.es",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/newouyadev.wordpress.com\/",
+    "firstPublishedAt": "2013-08-01T21:14:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Borja.",
+    "premium": false,
+    "rating": {
+        "likeCount": 39,
+        "average": 2.84,
+        "count": 56
+    }
+}

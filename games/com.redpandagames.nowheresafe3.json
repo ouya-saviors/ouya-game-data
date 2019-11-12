@@ -1,0 +1,81 @@
+{
+    "packageName": "com.redpandagames.nowheresafe3",
+    "title": "Nowhere Safe 3",
+    "description": "Nowhere Safe 3 is a FREE game.\r\n\r\nA woman in modern Japan struggles to run the business of her deceased father.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "2.6",
+            "versionCode": 0,
+            "uuid": "b3c27904-8b8d-4410-9d15-0c5e474759ee",
+            "date": "2014-11-26T14:44:09Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2f783dc9-8a23-4636-9fbd-78ff08b76fb4\/com.redpandagames.nowheresafe3\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/PMEpRmPSSSlcKwTxJ7vC_Nowhere%20Safe%203.apk",
+            "size": 26039540,
+            "md5sum": "54ef3d6cf630e4809a4acb14f756b8c7",
+            "publicSize": 23819069,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe3\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nrX6thEyTFqhuN2YSEdR",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kVmewf0lRFaGjTgWH0uy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RJEQPlvRfre2YRpNCLPw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oXO66VmnTlSJAzZfsJex"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/gb3jjn_ouya-screenshot20141111-2-1wg97mr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/thumbnails\/thumbnail20141111-2-1oqpgcb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/z7vppu_ouya-screenshot20141111-2-12idzrh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/thumbnails\/thumbnail20141111-2-h9b52j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/q9hjcj_ouya-screenshot20141111-2-196n6h8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b3c27904-8b8d-4410-9d15-0c5e474759ee\/thumbnails\/thumbnail20141111-2-yg5qjk.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "2f783dc9-8a23-4636-9fbd-78ff08b76fb4",
+        "name": "Lexington Alexander",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/www.visualnovelgames.com",
+    "firstPublishedAt": "2014-11-26T14:44:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Lexington Alexander.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.41,
+        "count": 17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "NowhereSafe3",
+            "name": "Nowhere Safe 3 Donation",
+            "description": "Nowhere Safe 3 is free, but working for free is not sustainable. Please support us by donating $1.99!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

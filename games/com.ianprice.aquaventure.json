@@ -1,0 +1,98 @@
+{
+    "packageName": "com.ianprice.aquaventure",
+    "title": "AquaVenture - OUYA Edition",
+    "description": "AquaVenture is a unique and original puzzle based arcade adventure set beneath the ocean waves. Come on dive in; the water's wonderful but watch out for the wildlife!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.001",
+            "versionCode": 0,
+            "uuid": "b756b5a2-4fbd-4609-bdfd-998247b8c792",
+            "date": "2014-01-09T18:18:37Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/45fa2019-97ab-4be3-81e0-5839bc579b30\/com.ianprice.aquaventure\/b756b5a2-4fbd-4609-bdfd-998247b8c792\/KFmgQiwBTKqzlY8ROQbw_glbasic-release-SIGNED_ALIGNED.apk",
+            "size": 3616103,
+            "md5sum": "3ea436e01a669a7606e6472427419111",
+            "publicSize": 26076,
+            "nativeSize": 2384047
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ianprice.aquaventure\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XPqVescvTciokWR0GKTg",
+        "video": "https:\/\/vimeo.com\/81834634",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VWtjHQqjRyncbWZ5WC5U",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NpCMA2AVQiGYGeW5Jyuz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mi39EsUEScugtUjwjUVH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WKH6njDSzmigiUSG4Uhg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H5PSqKBRx6Gqn80vqf80"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/81834634"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VWtjHQqjRyncbWZ5WC5U\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VWtjHQqjRyncbWZ5WC5U\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NpCMA2AVQiGYGeW5Jyuz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NpCMA2AVQiGYGeW5Jyuz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mi39EsUEScugtUjwjUVH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mi39EsUEScugtUjwjUVH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WKH6njDSzmigiUSG4Uhg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WKH6njDSzmigiUSG4Uhg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/H5PSqKBRx6Gqn80vqf80\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/H5PSqKBRx6Gqn80vqf80\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "iprice",
+        "supportEmail": "mrijprice@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.iprice.remakes.org\/AquaVenture\/index.html",
+    "firstPublishedAt": "2014-01-09T18:18:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by iprice.",
+    "premium": false,
+    "rating": {
+        "likeCount": 62,
+        "average": 3.59,
+        "count": 153
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "aq_ouya",
+            "name": "Unlock full game",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

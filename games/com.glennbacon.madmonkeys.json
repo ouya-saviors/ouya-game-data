@@ -1,0 +1,81 @@
+{
+    "packageName": "com.glennbacon.madmonkeys",
+    "title": "Mad Monkeys",
+    "description": "Mad Monkeys is an OUYA exclusive game.  Created in 10 days and entered into the OUYA Kill Screen Game Jam.  \r\n\r\nMad Monkeys is a one to four player fighting game. Play by yourself against cpu monkeys or challenge up to 3 other friends to battle against.  Kick, punch, throw bananas and other specials objects like bombs and watermelons . Collect power-ups and use a portal to get to higher ground. Cute, fast paced and fun game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "e23323b5-bd34-4951-9f59-6478fe816ad4",
+            "date": "2013-04-03T20:04:39Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c9b2b54a-28b8-4ae0-abdb-ece987cbca62\/com.glennbacon.madmonkeys\/e23323b5-bd34-4951-9f59-6478fe816ad4\/VzK3gSNiSRqNqNIP2m4u_madmonkeys.apk",
+            "size": 7180087,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.glennbacon.madmonkeys\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d6AWAiOkSU2HOmw4dsFF",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mNolTbRsRO65eWeFEfN1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5gG4wmTm6SabsKZ0K6wS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YgyZwXcsQdaiCGW29X2s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eJUR3PdiSQSuf2e0OwD0",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1aOpJzSRTFeRb5K4us5x"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mNolTbRsRO65eWeFEfN1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mNolTbRsRO65eWeFEfN1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5gG4wmTm6SabsKZ0K6wS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5gG4wmTm6SabsKZ0K6wS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YgyZwXcsQdaiCGW29X2s\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YgyZwXcsQdaiCGW29X2s\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eJUR3PdiSQSuf2e0OwD0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eJUR3PdiSQSuf2e0OwD0\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1aOpJzSRTFeRb5K4us5x\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1aOpJzSRTFeRb5K4us5x\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Glenn Bacon",
+        "supportEmail": "glennbjr@gmail.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.glennbacon.com",
+    "firstPublishedAt": "2013-04-03T20:04:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Glenn Bacon.",
+    "premium": false,
+    "rating": {
+        "likeCount": 46,
+        "average": 3.19,
+        "count": 94
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "packageName": "com.RefreshCreations.Holey_Moley",
+    "title": "Holey Moley",
+    "description": "Holey Moley is a simple to play, fast-paced game where you smack moles about with hammers, pretty simple stuff, 3 modes of play including:\r\n\r\nQuick Play\r\n\r\nHit as many moles as you can in 60 seconds\r\n\r\nSurvival\r\n\r\nSurvive the Moley Onslaught and defend yourself with power-ups!\r\n\r\nNo-Miss\r\nYou miss a mole, you die, simple as that!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 0,
+            "uuid": "29ff76f5-fe2f-4e4a-a0af-30727128b9a0",
+            "date": "2014-01-25T03:21:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b798a7fe-6515-41cc-a227-870e53a864cb\/com.RefreshCreations.Holey_Moley\/29ff76f5-fe2f-4e4a-a0af-30727128b9a0\/XUuF39VTMSAE4fCYhpBw_holeymoley-ouya.apk",
+            "size": 29582164,
+            "md5sum": "80c1702b799ad00521a99d8bab0fade1",
+            "publicSize": 266685,
+            "nativeSize": 195984
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.refreshcreations.holey_moley\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PxB4N8p8R6ClqWQAOktB",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Uvu3KXrSCmPBYZh5Rytz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1XliPYUSJLNDMcYPNTnA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U2TK83EoRvqwomNkxhDq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W1ff9y7Teq4GNjEfkgLP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QuMlgc9JRQHBO5fO2oHA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Uvu3KXrSCmPBYZh5Rytz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Uvu3KXrSCmPBYZh5Rytz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1XliPYUSJLNDMcYPNTnA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1XliPYUSJLNDMcYPNTnA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/U2TK83EoRvqwomNkxhDq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/U2TK83EoRvqwomNkxhDq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/W1ff9y7Teq4GNjEfkgLP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/W1ff9y7Teq4GNjEfkgLP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QuMlgc9JRQHBO5fO2oHA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QuMlgc9JRQHBO5fO2oHA\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b798a7fe-6515-41cc-a227-870e53a864cb",
+        "name": "Refresh Games",
+        "supportEmail": "ryan@refreshcreations.co.uk",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/holey-moley.co.uk\/",
+    "firstPublishedAt": "2014-01-25T03:21:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Refresh Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 18,
+        "average": 2.85,
+        "count": 33
+    }
+}

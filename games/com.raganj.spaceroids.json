@@ -1,0 +1,116 @@
+{
+    "packageName": "com.raganj.spaceroids",
+    "title": "Super Space Adventure",
+    "description": "--Note: this is a beta release--\r\n--sound is not final--\r\n\r\nAfter receiving a distress signal you land on a planet. An alien needs your help to find the others who are trapped below the surface.\r\n\r\nExplore, rescue, and face the dangers of this unknown planet!\r\n\r\nSuper Space Adventure is a metroid-like adventure game in 8-bit style.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.7",
+            "versionCode": 0,
+            "uuid": "541234cb-99ee-4b33-a149-27b7ca0cfb7a",
+            "date": "2014-09-16T04:49:50Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/8d49d248-126d-4297-9bde-2790ac112ccc\/com.raganj.spaceroids\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/rceBAMqQJWqZDmatn4ga_com.raganj.spaceroids.apk",
+            "size": 8317397,
+            "md5sum": "d846af07db7087abc5911aa5e53e5d1e",
+            "publicSize": 25993,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xmIZyRvRTJ2q06fJg938",
+        "video": "https:\/\/vimeo.com\/92159145",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6Ckb8d8tQyeA01mwLR2S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2xhJps3aQzeYK7T8oTGe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CZJzPaqS2uiVLNW5RpMl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ytYreFlhSwO5LUZgtfg2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vHf85NSSdKAsbfBhW6mQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TwBs931LRCeYYqtYWtvw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TdTLTHAkSfOiz5Cu2arb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7ust3fKuRmKVyKENkbA9"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/92159145"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/erh2ag_ouya-screenshot20140911-2-1l6o41o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-deogaf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/obzug4_ouya-screenshot20140911-2-186mbmy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-1wnd090.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/cjynzb_ouya-screenshot20140911-2-hjw94k.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-zvn9g1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/aw7jp1_ouya-screenshot20140911-2-1u9duyi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-200qjb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/1ea7ik_ouya-screenshot20140911-2-t7v3n5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-hqjffm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/4lwfbb_ouya-screenshot20140911-2-yncg63.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-qbeasw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/tu2x20_ouya-screenshot20140911-2-n65c1k.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-2kw6zf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/aj30b7_ouya-screenshot20140911-2-3mzo71.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-62wsoa.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "D's Games",
+        "supportEmail": "support@dragansgames.nl",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/dragansgames.nl\/",
+    "firstPublishedAt": "2014-04-18T05:07:18Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by D's Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.38,
+        "count": 113
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "superspaceadventure_complete_game_unlock",
+            "name": "Full game unlock for Super Space Adventure",
+            "description": "This product will unlock the full game 'Super Space Adventure'. ",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,88 @@
+{
+    "packageName": "com.media.playcast.OUYA.BAA",
+    "title": "GameFly Packful Of Fun",
+    "description": "GameFly Streaming brings a Pack full of fun to your OUYA!  AAA games from various games genres are being streamed directly to your home.  LEGO series, Pac-Man, Racers, and more on a monthly subscription. We will update them from time to time to get you the best out of it.  Try it for free.  Enjoy!  \r\n\r\nFor best performance use wired internet connection; 5Mbps and more is recommended.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Fight!",
+        "Kids List",
+        "Multiplayer",
+        "Racing",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.6.35707.53",
+            "versionCode": 0,
+            "uuid": "0271ca5c-8105-41c1-ab3a-f57980a77050",
+            "date": "2015-08-05T06:02:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/83efe2b6-ca15-4fbe-8263-231d4070f523\/com.media.playcast.OUYA.BAA\/0271ca5c-8105-41c1-ab3a-f57980a77050\/npLX0Ia8TUuX13i5YkYN_PlaycastAndroidClient-OUYA.BAA-1.6.35707.53.apk",
+            "size": 6004251,
+            "md5sum": "321bafdcb356668db1b063e33d434267",
+            "publicSize": 4976476,
+            "nativeSize": 3393568
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.media.playcast.ouya.baa\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GPU66SnRR4eTPVc2romh",
+        "video": "http:\/\/vimeo.com\/114530431",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eyW5ZlidQbasM4pLqAZA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/747attOPTdmEcKL5zpmY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tl6UMW9uRam4PtnoJQfz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LuP1IdBWTMyVqpFzqxSn"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/114530431"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/feirmu_ouya-screenshot20150804-3-1hsgt5f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/thumbnails\/thumbnail20150804-3-cy7kms.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/vy8b1w_ouya-screenshot20150804-3-1srk50.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/thumbnails\/thumbnail20150804-3-hs1lqt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/f17g37_ouya-screenshot20150804-3-gwunwq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/thumbnails\/thumbnail20150804-3-mcf7b6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/5ql92v_ouya-screenshot20150804-3-1adut3d.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0271ca5c-8105-41c1-ab3a-f57980a77050\/thumbnails\/thumbnail20150804-3-b44k0h.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "GameFly-Streaming",
+        "supportEmail": "support@playcast-media.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "www.playcast-media.com",
+    "firstPublishedAt": "2014-05-28T08:18:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2015 by GameFly-Streaming.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 480
+    }
+}

@@ -1,0 +1,86 @@
+{
+    "packageName": "Com.SSGames.Training",
+    "title": "Chuck's Training",
+    "description": "Chuck has some Training to do before he can become strong. There are 5 games in this collection but more improvements will come as I update this I update this.\r\n\r\n*V1.03 UPDATE*\r\n\r\n-A New game called \"TAP\" is here\r\n\r\n-The main menu has some design changes\r\n\r\n-Chuck in \"Run\" now has a jump animation and a different background color\r\n\r\n-Bug fixes in dodge\r\n\r\n-Text is more centered\r\n\r\n-Download size is smaller",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Platformer",
+        "Racing",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 0,
+            "uuid": "5def9dac-5c87-44fa-a816-4e1f58495a3f",
+            "date": "2015-08-17T22:01:26Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/40eb5f94-2877-4eb4-bec0-4eb6acacc99c\/Com.SSGames.Training\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/xBwpduuqR8kEjoMvWTll_Chucks_Training_2015_08_13-00_41_06_Ouya_debug_signed.apk",
+            "size": 20009068,
+            "md5sum": "60bdafd2b12bfb8f17d232dc91fcb250",
+            "publicSize": 130612,
+            "nativeSize": 20052876
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ssgames.training\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XO2ikrwRSCWkFHXgZs5r",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HUTm8W6R8KtOfLqWlZ1M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vvhUMWH1TRCD1fv2DIsI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4YcvALSjS5GJSE0PgUzw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DcSFyk8CSzi3drk9EXwv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PXCjdO9GQiS3lHffvIlJ"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/9ebms1_ouya-screenshot20150813-3-bj92h7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-w2nxsl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/8ii5fx_ouya-screenshot20150813-3-1ujx87b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-116x9jo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/6o2of7_ouya-screenshot20150813-3-iyly2a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-1kxy7jq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/rjqy3s_ouya-screenshot20150813-3-1lrsnl4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-27dh3x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/wigr3k_ouya-screenshot20150813-3-90g9y6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-1wt5nfc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "40eb5f94-2877-4eb4-bec0-4eb6acacc99c",
+        "name": "TheSSGames",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-07-02T22:33:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2015 by TheSSGames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.29,
+        "count": 28
+    }
+}

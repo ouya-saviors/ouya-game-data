@@ -1,0 +1,104 @@
+{
+    "packageName": "com.chrisguincreations.advchris.AdventuresOfChris",
+    "title": "The Adventures of Chris",
+    "description": "\"A hidden gem\" - HardcoreGamer.com\n\"Oozes creativity\" - ReviOUYA\n\nThe Adventures of Chris is an adventure platformer in the style of classic games from the 16-bit console era, returning to the days when a game could have simple, straightforward mechanics and still take you on a grand adventure. \n\nPlay as a nerdy, overweight kid that gets sucked up into an adventure - gradually becoming ludicrously powerful. Explore a variety of world locations, find and collect items to purchase special moves and magic spells, float like a balloon or bounce on enemies, and experience a comic, light-hearted story, while listening to an original, melody-driven score. \n\nNew in 1.1.9: Updated for Razer compatibility, AI tweaks for Buzzkill",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.9",
+            "versionCode": 0,
+            "uuid": "7045ca6c-f219-45dc-941f-714a6e8536fe",
+            "date": "2015-12-18T18:45:55Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/038082dc-52a4-40d2-9fa1-dc2f4716b625\/com.chrisguincreations.advchris.AdventuresOfChris\/f5038946-3d7e-4799-b9e3-cc672ecf09e8\/PZPFivXRSiqz2pfhmyZw_AdvChris.apk",
+            "size": 26460211,
+            "md5sum": "d21c1d4640a91c571f1302fe6406eb85",
+            "publicSize": 137848,
+            "nativeSize": 19664671
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.adventuresofchris\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QHSb3dohQKit4qec7I5a",
+        "video": "https:\/\/vimeo.com\/104359086",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n7tTxj7cQtG4jmEXVK09",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2f15QO8bTOL7Z8jmQ2f9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2byMmgE4SfGxOxHfp04E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y0xvnMBpRFWo4LLPMpig",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X105CuQNSqWGSBnk3b9r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FNLf8qRBSI2O9Jdpaelv"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/104359086"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/d0j2g5_ouya-screenshot20151215-3-1rnfcmj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-1w0porw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/qhdqtj_ouya-screenshot20151215-3-bpe49n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-nvo51p.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/m7mg8v_ouya-screenshot20151215-3-peyppo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-1ydt8p2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/gwpoa8_ouya-screenshot20151215-3-1w0c22w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-n54l9j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/sqgx4y_ouya-screenshot20151215-3-zwlnm3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-3g5qu9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/24vssu_ouya-screenshot20151215-3-1s1tucy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-e6ad9j.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "038082dc-52a4-40d2-9fa1-dc2f4716b625",
+        "name": "Guin Entertainment",
+        "supportEmail": "imaginer01@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/chrisguincreations.com",
+    "firstPublishedAt": "2014-05-12T19:51:48Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Guin Entertainment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.85,
+        "count": 166
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "advchris_unlock",
+            "name": "Adventures of Chris Game Unlock",
+            "description": "This will give you complete access to every level and feature for the Adventures of Chris.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,71 @@
+{
+    "packageName": "air.gd.sos.badass",
+    "title": "Badass",
+    "description": "Badass takes natural selection in his own hands.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "28c5eda6-f682-4ab1-ba9b-6ecd1321eebc",
+            "date": "2013-07-08T20:35:01Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/437d0f9b-002d-4d32-be3c-1e74ac714c85\/air.gd.sos.badass\/28c5eda6-f682-4ab1-ba9b-6ecd1321eebc\/nyiPCph4R7euC29fDT7A_badass.apk",
+            "size": 11872278,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.gd.sos.badass\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KZxvKSWRRmKZ829PRf8c",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tpAUa4hbT62APMO3sAXF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Flol1yLgRFWBHDeOydOF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eVExUKrRrKIHX40R6TSj"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/tpAUa4hbT62APMO3sAXF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/tpAUa4hbT62APMO3sAXF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Flol1yLgRFWBHDeOydOF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Flol1yLgRFWBHDeOydOF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eVExUKrRrKIHX40R6TSj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eVExUKrRrKIHX40R6TSj\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Sos",
+        "supportEmail": "just.sos.it@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/badass.sos.gd\/",
+    "firstPublishedAt": "2013-07-08T20:35:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Sos.",
+    "premium": false,
+    "rating": {
+        "likeCount": 141,
+        "average": 3.76,
+        "count": 191
+    }
+}

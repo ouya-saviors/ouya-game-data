@@ -1,0 +1,71 @@
+{
+    "packageName": "com.SassyBot.SmallBangTheory",
+    "title": "Small Bang Theory",
+    "description": "Small Bang Theory is a game about high speeds and high scores. Maneuver a small atom to crash into others. Use powerups wisely to rack up incredible amounts of points. We cannot stop playing this game. Can you show us that you can beat our score?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.02",
+            "versionCode": 0,
+            "uuid": "3196d2b7-6028-4115-b464-cba09182a475",
+            "date": "2013-07-10T18:32:49Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6edfc769-42aa-4566-bab7-fd51e5b498fc\/com.SassyBot.SmallBangTheory\/3196d2b7-6028-4115-b464-cba09182a475\/Izm4QFjUQ329U9fIuxON_SmallBangTheory_OUYA1.02.apk",
+            "size": 34535683,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sassybot.smallbangtheory\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l5KO1jF6QOWJeEqwhnQ1",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DW56i8GOR8i6BkTnmwhI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qsBLandgQWK1OsDI56cx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f6P34qrhSuClX76r8CvK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DW56i8GOR8i6BkTnmwhI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DW56i8GOR8i6BkTnmwhI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qsBLandgQWK1OsDI56cx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qsBLandgQWK1OsDI56cx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/f6P34qrhSuClX76r8CvK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/f6P34qrhSuClX76r8CvK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SassyBot Studio",
+        "supportEmail": "team@sassybot.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/sassybot.com",
+    "firstPublishedAt": "2013-07-10T18:32:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by SassyBot Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 72,
+        "average": 3.2,
+        "count": 49
+    }
+}

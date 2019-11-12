@@ -1,0 +1,70 @@
+{
+    "packageName": "com.mygdx.beltbarrage.android",
+    "title": "BeltBarrage",
+    "description": "You have accidentally made your way into the heart of an asteroid field! \r\n\r\nUsing your ships lasers and quick reflexes, how long will you last?\r\n\r\nL Stick - Move Ship\r\nR Stick - Rotate Ship\r\nR1      - Fire Laser\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "b73c4232-038a-4422-86da-900c6702d976",
+            "date": "2014-06-23T20:54:06Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e432c375-d8b3-41be-bf81-91f61b52da35\/com.mygdx.beltbarrage.android\/b73c4232-038a-4422-86da-900c6702d976\/lhkoQ47MTxqT3qRX7nwN_BeltBarrage-android.apk",
+            "size": 8049629,
+            "md5sum": "65f245c30e24eb0e59c6b561e3f5fee6",
+            "publicSize": 129728,
+            "nativeSize": 8441628
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/skhqCvj4T0OxDeIelkv6",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qva5VCyTCSSLUCdEcrHl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/le5tTpExTnWkncHQa71f",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GbmVWjoOQHy6Alvzs5ji"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/ewhcew_ouya-screenshot20140623-2-14ldew.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/thumbnails\/thumbnail20140623-2-lfd62a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/4hhcuy_ouya-screenshot20140623-2-pr50py.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/thumbnails\/thumbnail20140623-2-1gmcrr9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/fafgq6_ouya-screenshot20140623-2-13e90fl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/thumbnails\/thumbnail20140623-2-6jsokp.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "DumbPug",
+        "supportEmail": "N.Howard3@uni.brighton.ac.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.facebook.com\/nikolas.howard.98",
+    "firstPublishedAt": "2014-06-23T20:54:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by DumbPug.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.11,
+        "count": 66
+    }
+}

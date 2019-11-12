@@ -1,0 +1,98 @@
+{
+    "packageName": "com.ayopagames.dungeoncrawlersouya",
+    "title": "Dungeon Crawlers",
+    "description": "Dungeon Crawlers OUYA has been especially designed and optimized for OUYA! With gameplay drawn from the best of tactical RPGs and a personality inspired by classic action\/fantasy films, Dungeon Crawlers is a fun and funny game of tactics and role-playing. Lead our Dungeon Crawlers team as they delve into goblin-infested hallways, lava-drenched caverns, and other suitably hostile environs in pursuit of loot, women, and monsters to crush.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.45",
+            "versionCode": 0,
+            "uuid": "4b84449f-26bd-4bbc-a254-75cac722de9a",
+            "date": "2014-05-22T16:20:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/b0d09ac5-d751-4b50-9729-d7f60a53b523\/com.ayopagames.dungeoncrawlersouya\/4b84449f-26bd-4bbc-a254-75cac722de9a\/AnA45DDSScWZ30xBuKLG_Dungeon%20Crawlers%20Ouya.apk",
+            "size": 108338571,
+            "md5sum": "052de6ba835b4e5bb0760f2a19fa0291",
+            "publicSize": 515611,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ayopagames.dungeoncrawlersouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HMedwLORQ2vfouq62xab",
+        "video": "https:\/\/vimeo.com\/90148952",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oomkd5Q1mzUlRjLpfAnH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nUPZi754R6iKIRJHYnsM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E2WAcNnPRIavA7vh2PKm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q8Bl7a9tTBmy5jfwrWFU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VKWyte6iRFatoV54SwXi"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90148952"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oomkd5Q1mzUlRjLpfAnH",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oomkd5Q1mzUlRjLpfAnH"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nUPZi754R6iKIRJHYnsM",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nUPZi754R6iKIRJHYnsM"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/E2WAcNnPRIavA7vh2PKm",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/E2WAcNnPRIavA7vh2PKm"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/q8Bl7a9tTBmy5jfwrWFU",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/q8Bl7a9tTBmy5jfwrWFU"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VKWyte6iRFatoV54SwXi",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VKWyte6iRFatoV54SwXi"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ayopa Games LLC",
+        "supportEmail": "customerservice@ayopagames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.ayopagames.com\/games\/dungeon-crawlers\/",
+    "firstPublishedAt": "2014-04-11T15:30:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Ayopa Games LLC.",
+    "premium": false,
+    "rating": {
+        "likeCount": 31,
+        "average": 3.59,
+        "count": 185
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DC_FullGame",
+            "name": "Full Dungeon Crawlers Game",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

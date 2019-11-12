@@ -1,0 +1,80 @@
+{
+    "packageName": "com.tokkao.PaperWings",
+    "title": "Paper Wings",
+    "description": "Nothing speaks more of skills than a great tournament. So when they said not even the sky was a limit, pilots from all over the world (and universes) came flying to give it a try. Join this amazing competition where your skills and style will determine the winner. Use many powers: from Blu's energy shield or Jonas' incredible reflexes to Linda's power of attraction or even Gray's Mega Missiles. \r\nIn Paper Wings, characters are not just a decoration anymore. All the pilots have different innate abilities which will become available as power ups once they get unlocked. Flying is as easy as it could be, with an incredibly intuitive one-touch control: touch to fly up and release to fall down.\r\nTravel from the busy environment of the city park to the isolated and cold nature of the North Pole. Evade obstacle, enemies, and enjoy the nice feeling of the bonus sections.\r\n\r\nHighlights:\r\n\r\n\u2605 Chose from many different pilots.\r\n\u2605 Character are more than just decoration.\r\n\u2605 Each pilot contains their own unique ability.\r\n\u2605 New concept introduced! Unlocking pilots will unlock their abilities as power ups during the game.\r\n\u2605 Use Mega Stars to activate innate abilities.\r\n\u2605 Many different levels: From the busy city park to the isolated north pole.\r\n\u2605 Lots of objective for each level.\r\n\u2605 Randomly generated obstacles; never play the same game!\r\n\u2605 Collect power ups during the game to improve your flight.\r\n\u2605 Share your score with your friends on Game Center, OpenFeint, and even Facebook.\r\n\u2605 Lots of achievements.\r\n\u2605 Pilots can be upgraded to increase their skills.\r\n\u2605 Beautiful graphics and animated paper world.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "2cfda141-b071-461f-8519-56f548bd5376",
+            "date": "2013-03-25T19:56:29Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/7b88d98d-a174-4f7e-92c2-4a26f7becc05\/com.tokkao.PaperWings\/2cfda141-b071-461f-8519-56f548bd5376\/dnLTzZIQQb6wF0Ytbq4V_PaperWingsOUYA.apk",
+            "size": 33813532,
+            "md5sum": "089fcd9537ded571d70da8454bc36c9b",
+            "publicSize": 461505,
+            "nativeSize": 128536
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tokkao.paperwings\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wqCOKpEBRAOBNrnYsSQt",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XTm6A36QzGRy0RjAYahF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tukioa6fSQuU8dVRlkzn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wsc0Il2VRnOc7a6DIEog"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XTm6A36QzGRy0RjAYahF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XTm6A36QzGRy0RjAYahF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Tukioa6fSQuU8dVRlkzn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Tukioa6fSQuU8dVRlkzn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wsc0Il2VRnOc7a6DIEog\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wsc0Il2VRnOc7a6DIEog\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tokkao",
+        "supportEmail": "support@tokkao.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.tokkao.com",
+    "firstPublishedAt": "2013-03-25T19:56:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Tokkao.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 3.21,
+        "count": 24
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "PaperWings_Unlock",
+            "name": "Paper Wings Full Experience",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

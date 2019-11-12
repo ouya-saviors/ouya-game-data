@@ -1,0 +1,93 @@
+{
+    "packageName": "com.digitalreality.sinemora",
+    "title": "Sine Mora",
+    "description": "9\/10 Eurogamer --- Game of the Week - \u201cPerhaps the most visually stunning shooter ever made\u201d \r\n9\/10 IGN --- \u201cEverything fans expect is here in Sine Mora.\u201d 8.5\/10 Gamespot --- \u201cOne of the best XBLA titles this year.\u201d \r\n9.5\/10 Destructoid --- \"One of the most aesthetically-pleasing, fun, and thought-provoking games to come out in some time.\" \r\n91\/100 GameTrailers --- \"Sine Mora's unforgettable mechanics and presentation bring the genre kicking and screaming back into the spotlight.\" \r\n\r\nAfter conquering PC, XBLA, PS3, iOS and Android, the cult classic shoot-em-up has finally arrived to OUYA! Fusing frantic, innovative gameplay from Digital Reality with stunning graphical design from Grasshopper Manufacture, Sine Mora set a new high standard for shmups and gained widespread acclaim. Strap yourself in and get ready for a breathtaking adventure! \r\n\r\nSine Mora is a horizontal shoot'em up that provides a unique take on challenge, where time is the ultimate factor. Mixing classic shooter sensibilities with contemporary presentation, Sine Mora is a gorgeous shoot'em up that offers a Story Mode that weaves an over-the-top tale and an Arcade Mode that provides deep, satisfying gameplay to challenge fans of the genre. With many ways to manipulate time, Sine Mora features over 50 weapon combinations to complete each beautiful stage that form fits to the player's skills with scaling difficulty. Soundtrack composed by Akira Yamaoka and featuring boss designs by Mahiro Maeda. \r\n\r\n- Engrossing story integrated seamlessly into the action to elevate the user experience \r\n- Unique, time extension based gameplay \r\n- 7 beautifully crafted, diverse stages \r\n- Over 50 different weapon combinations with time manipulating devices \r\n- Great accessibility - Story Mode is tailored to not scare away absolute newcomers to the genre \r\n- Risk and reward - multiple difficulty levels in Arcade Mode with deep scoring and hidden rank system for the more experienced players \r\n- Music composed by Akira Yamaoka, Sound Director of Silent Hill and Shadows of the Damned - Featuring boss designs by Mahiro Maeda, one of the most prominent Japanese anime creators (Blue Submarine No. 6, The Animatrix - The Second Renaissance, Kill Bill: Vol. 1)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "66c6aa4a-cc2e-44d6-ab1b-6bf970a2bbc2",
+            "date": "2013-08-13T17:27:42Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/152d5e91-f40c-4fc9-a487-61c3950ad4ec\/com.digitalreality.sinemora\/66c6aa4a-cc2e-44d6-ab1b-6bf970a2bbc2\/kHqxQssSR2Cu02BgukuV_sinemora-release.apk",
+            "size": 373718832,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.digitalreality.sinemora\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m7njTFczQEiOlOEKIku2",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UNjtFWenQiO8lWRYi3c3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lQRRbCvNTpiA0Ya3y0gK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5aowmOgJTRKvY37ODYVH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hiKR0WozST2e55SFl9Do",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AorqkyRQZCI7tM8nYiUm"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UNjtFWenQiO8lWRYi3c3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UNjtFWenQiO8lWRYi3c3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lQRRbCvNTpiA0Ya3y0gK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lQRRbCvNTpiA0Ya3y0gK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5aowmOgJTRKvY37ODYVH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5aowmOgJTRKvY37ODYVH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/hiKR0WozST2e55SFl9Do\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/hiKR0WozST2e55SFl9Do\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AorqkyRQZCI7tM8nYiUm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AorqkyRQZCI7tM8nYiUm\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Digital Reality Publishing Ltd",
+        "supportEmail": "mobilesupport@digitalreality.eu",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "https:\/\/www.facebook.com\/sinemoragame",
+    "firstPublishedAt": "2013-08-13T17:27:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Digital Reality Publishing Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1128,
+        "average": 4.24,
+        "count": 844
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sinemoraunlock",
+            "name": "Sine Mora Unlock",
+            "description": "",
+            "localPrice": 5.99,
+            "originalPrice": 5.99,
+            "currency": "EUR"
+        }
+    ]
+}

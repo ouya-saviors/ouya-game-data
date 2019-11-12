@@ -1,0 +1,82 @@
+{
+    "packageName": "net.kervala.comicsreader",
+    "title": "Comics Reader OUYA Edition!",
+    "description": "Comics Reader OUYA Edition! is a simple comic book reader that provides some innovative features such as thumbnails, page switching, two way scrolling, a variety of view modes, optimization for large screens, and support for PNG, JPEG, GIF, CBZ, CBR and CBT formats.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment"
+    ],
+    "releases": [
+        {
+            "name": "2.0",
+            "versionCode": 0,
+            "uuid": "f96088e7-75da-4531-9d5b-67ab380c7eb7",
+            "date": "2013-10-02T23:03:05Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/66895fe2-4ca1-44d2-8f0f-31c673246c5a\/net.kervala.comicsreader\/f96088e7-75da-4531-9d5b-67ab380c7eb7\/VSCRVfnmRlCKhw6FvsSy_CROUYAE2.0.apk",
+            "size": 1264867,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.kervala.comicsreader\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WaJZq30zR86WgXZEqSu3",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BVYwj5CwS56SXSN5u6Yo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2SCnvBcZQcmkdyRdhvJs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4VsNltkSagtHOg5hJlEA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cO02oynSxquxyhelHuqv",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sApm5KVzTLWZxqKbMn8p"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/BVYwj5CwS56SXSN5u6Yo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/BVYwj5CwS56SXSN5u6Yo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2SCnvBcZQcmkdyRdhvJs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2SCnvBcZQcmkdyRdhvJs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4VsNltkSagtHOg5hJlEA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4VsNltkSagtHOg5hJlEA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cO02oynSxquxyhelHuqv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cO02oynSxquxyhelHuqv\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/sApm5KVzTLWZxqKbMn8p\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/sApm5KVzTLWZxqKbMn8p\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Cave Four",
+        "supportEmail": "cavefour@outlook.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/ouyaforum.com\/showthread.php?6794-Comics-Reader-OUYA-Edition!-Cave-Four",
+    "firstPublishedAt": "2013-09-26T20:07:25Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Cave Four.",
+    "premium": false,
+    "rating": {
+        "likeCount": 96,
+        "average": 4.15,
+        "count": 80
+    }
+}

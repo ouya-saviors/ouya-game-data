@@ -1,0 +1,87 @@
+{
+    "packageName": "com.thepilltree.spacecathd",
+    "title": "SpaceCat HD",
+    "description": "\u201cLove space? Love cats? Then you\u2019ll probably like SpaceCats. Witty touches and great attention to detail make this more than a one-play gimmick too. (8.2\/10)\u201d - Life of Android\r\n\r\n\u201cYou really should download this. The graphics are very good, the game play is both fun yet challenging as you progress and the game is all-round well polished and cool to play (4.6\/5)\u201d - AndroidTapp \r\n\r\nSpaceCat has an innovative gameplay that combines a lander with a platform game with high quality graphics.\r\n\r\nDodge walls, avoid lasers, pilot through narrow passages, catch the floating mice and more.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "2.0.6",
+            "versionCode": 0,
+            "uuid": "2eae9f07-10bb-47a4-8ff4-be9b63d02b0c",
+            "date": "2014-03-25T08:31:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/2390560a-cd35-4b6a-aa87-a3d090391d70\/com.thepilltree.spacecathd\/2eae9f07-10bb-47a4-8ff4-be9b63d02b0c\/xlZzobpuRVWKNsxtvuVm_SpaceCat-OUYA.apk",
+            "size": 12173635,
+            "md5sum": "d702efe38be9db982bfb0e9840d23a88",
+            "publicSize": 11240716,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.thepilltree.spacecathd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t4PxX0oRtOluSfLtbdow",
+        "video": "https:\/\/vimeo.com\/90207706",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nNBAaZQFSI66zj0CaT2F",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZME0lihOSJefWBGD8QL7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jhXG9TxsRZWpEgSeTzNo"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/90207706"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nNBAaZQFSI66zj0CaT2F\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nNBAaZQFSI66zj0CaT2F\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZME0lihOSJefWBGD8QL7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZME0lihOSJefWBGD8QL7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jhXG9TxsRZWpEgSeTzNo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jhXG9TxsRZWpEgSeTzNo\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Platty Soft",
+        "supportEmail": "raul@plattysoft.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.plattysoft.com\/the-pill-tree\/spacecat\/",
+    "firstPublishedAt": "2014-03-25T08:31:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Platty Soft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 56,
+        "average": 3.67,
+        "count": 316
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_game",
+            "name": "Unlock SpaceCat HD",
+            "description": "Unlocks all the levels of SpaceCat HD",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

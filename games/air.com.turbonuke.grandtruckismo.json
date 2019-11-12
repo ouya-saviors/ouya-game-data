@@ -1,0 +1,100 @@
+{
+    "packageName": "air.com.turbonuke.grandtruckismo",
+    "title": "Grand Truckismo",
+    "description": "Welcome to the crazy world of monster truck racing!\r\nRace through different stages and levels, upgrading your trucks and purchasing new ones as you go.\r\nSmash things. Lots of things. Earn money for smashing obstacles, which you can then spend on upgrades.\r\nCollect nitro pickups to build up your boost. The more you collect the better your boost.. do you use nitro straight away or hold on to it for better reward?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.07",
+            "versionCode": 0,
+            "uuid": "4c43950c-2e78-40c3-a5a9-cb7f76b02735",
+            "date": "2013-11-11T20:01:40Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/60602b09-196a-4e94-a69c-bf5514d731ad\/air.com.turbonuke.grandtruckismo\/4c43950c-2e78-40c3-a5a9-cb7f76b02735\/xPsOJUUwTRyupV5Z9DEq_GrandTruckismo-captive-runtime.apk",
+            "size": 23553110,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.turbonuke.grandtruckismo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/z8zuyCPRNOSjsIL2YHCy",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yLy8k9cTQjqnH81dBndE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ggs4Cn59QGS8javdrnmp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LQFzurhXRciXHjUbCGM7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qhJVEoWuRWqp89UgLMNJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FyqwmxamTNqqvFpFzyIa",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eEFM8nC5TBO7ASFCAaF0"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/yLy8k9cTQjqnH81dBndE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/yLy8k9cTQjqnH81dBndE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ggs4Cn59QGS8javdrnmp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ggs4Cn59QGS8javdrnmp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LQFzurhXRciXHjUbCGM7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LQFzurhXRciXHjUbCGM7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qhJVEoWuRWqp89UgLMNJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qhJVEoWuRWqp89UgLMNJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FyqwmxamTNqqvFpFzyIa\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FyqwmxamTNqqvFpFzyIa\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eEFM8nC5TBO7ASFCAaF0\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eEFM8nC5TBO7ASFCAaF0\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "TurboNuke",
+        "supportEmail": "support@turbonuke.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.turbonuke.com",
+    "firstPublishedAt": "2013-11-11T20:01:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by TurboNuke.",
+    "premium": false,
+    "rating": {
+        "likeCount": 96,
+        "average": 3.12,
+        "count": 350
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "grandtruckismo_full",
+            "name": "Full Game",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

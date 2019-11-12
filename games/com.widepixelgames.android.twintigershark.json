@@ -1,0 +1,87 @@
+{
+    "packageName": "com.widepixelgames.android.twintigershark",
+    "title": "Twin Tiger Shark",
+    "description": "Twin Tiger Shark is a biplane STG\/shooter with its roots in the 80s.\r\n\r\n* Online Hiscores\r\n* TATE (Wide Screen 16:9) and Control Rotation Support\r\n* 6 Stages - Loop forever or just 2 selection\r\n* 3 Difficulty Settings\r\n* 3 Weapon Types\r\n* Helper Planes\r\n* Smart Bombs\r\n* No Continues\r\n\r\nThe game is a tribute to a well known STG company of the 80s and 90s.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.99",
+            "versionCode": 0,
+            "uuid": "b785f0bb-4f01-4ecb-82d6-e378d258590c",
+            "date": "2014-06-04T17:20:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/c4f97a39-6e83-4c05-a37f-e34c1396892f\/com.widepixelgames.android.twintigershark\/b785f0bb-4f01-4ecb-82d6-e378d258590c\/mrcptSQKQDsMr9XAkBsa_TwinTigerShark-release.apk",
+            "size": 17084761,
+            "md5sum": "96833516b6e03affb8c29504f90268f8",
+            "publicSize": 376171,
+            "nativeSize": 846310
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.twintigershark\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YJfqeCmMQ5mKLZjRVfyP",
+        "video": "https:\/\/vimeo.com\/84849639",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rr2MtAFbQiKgk3kHhAyg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ieyy1m8KT222FHgXAzti",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oVhH0GGEQS3jDA9yzW3F",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VaJv8QWTpeU6XZSN1YTA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o9ter6VQiSpOnusVRcC9"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84849639"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rr2MtAFbQiKgk3kHhAyg",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rr2MtAFbQiKgk3kHhAyg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ieyy1m8KT222FHgXAzti",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ieyy1m8KT222FHgXAzti"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oVhH0GGEQS3jDA9yzW3F",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oVhH0GGEQS3jDA9yzW3F"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VaJv8QWTpeU6XZSN1YTA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VaJv8QWTpeU6XZSN1YTA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/o9ter6VQiSpOnusVRcC9",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/o9ter6VQiSpOnusVRcC9"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c4f97a39-6e83-4c05-a37f-e34c1396892f",
+        "name": "Wide Pixel Games",
+        "supportEmail": "mix256@widepixelgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.widepixelgames.com",
+    "firstPublishedAt": "2014-02-21T19:30:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Wide Pixel Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 129,
+        "average": 4.29,
+        "count": 593
+    }
+}

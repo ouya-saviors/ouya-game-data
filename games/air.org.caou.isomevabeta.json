@@ -1,0 +1,82 @@
+{
+    "packageName": "air.org.caou.isomevabeta",
+    "title": "isomeva - beta version",
+    "description": "A turn based, online, strategy game.\r\nSetup a team to challenge other player's teams in \"catch the flag\" arena battles.\r\nYou take turns asynchronously: to need wait in front of the screen for the opponent to complete his turn. And you can start multiple battles at once.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0.7",
+            "versionCode": 0,
+            "uuid": "797b796b-ab86-44ae-8b51-74e3ebf37b09",
+            "date": "2014-06-13T15:59:17Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/68967b51-87fc-409e-a3fe-bf23dba295ab\/air.org.caou.isomevabeta\/797b796b-ab86-44ae-8b51-74e3ebf37b09\/JkSmm1RYQ4m0eKo0ehkn_air-isomeva-v6_.apk",
+            "size": 14196317,
+            "md5sum": "c504b07e3c7fe2fa3c17602a0bb9d255",
+            "publicSize": 564507,
+            "nativeSize": 19348159
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.org.caou.isomevabeta\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zt7tmPJEQpOyyuwLUOO4",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pV3ujJZQEmf9vBWGhAKo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qL64oHjdTKOvCmETQP5t",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6gMdDafYQoWw9ZzU691G",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RefVMN8hSdeV00rqtQkz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NmMfQBSjTTWzd8P77o56"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pV3ujJZQEmf9vBWGhAKo",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pV3ujJZQEmf9vBWGhAKo"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qL64oHjdTKOvCmETQP5t",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qL64oHjdTKOvCmETQP5t"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6gMdDafYQoWw9ZzU691G",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6gMdDafYQoWw9ZzU691G"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RefVMN8hSdeV00rqtQkz",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RefVMN8hSdeV00rqtQkz"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/NmMfQBSjTTWzd8P77o56",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NmMfQBSjTTWzd8P77o56"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "caou",
+        "supportEmail": "info@caou.org",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.caou.org",
+    "firstPublishedAt": "2014-03-12T16:45:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by caou.",
+    "premium": false,
+    "rating": {
+        "likeCount": 28,
+        "average": 3.32,
+        "count": 74
+    }
+}

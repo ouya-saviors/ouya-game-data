@@ -1,0 +1,88 @@
+{
+    "packageName": "com.herrero.alvaro",
+    "title": "Super Blue Fighter",
+    "description": "\"Year 2983, robotrons have got the planetary control and plan to transform humanity in fossil fuel for its aircrafts. \nBlue Fighter has been sent to restore the galactic order, \nwill you survive and save humanity? \"\n\n-Classic arcade inspired game . \n-Hall of Fame with the top 15 scores. \n-Pixl-Art design and original soundtrack, 80's style.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "0f4543f4-4fb5-4678-9837-1e25bcf0af77",
+            "date": "2016-03-25T12:36:52Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e2e3f60f-802e-452c-97ca-aa55b7799319\/com.herrero.alvaro\/2ba60a55-f883-4997-a0a9-d323adfdb6d4\/ilxOwV6KSSe9ltl5Jkyr_SuperBlueFighter_1_1_1.apk",
+            "size": 5348021,
+            "md5sum": "774c314994fbc4d4dc4f36eff626470d",
+            "publicSize": 918670,
+            "nativeSize": 723548
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.alvaro\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CazZ0qIMQEyPDc552ADN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g5fXPmTLQwOYXhAXKaGp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N7PGMIEkTRySMaAgIwP3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5VM9OO4HRw6mVsG8n3jL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WUOS9EyKSwseDOusjfsW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RzBswvrPR0C0tgPMK29x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NJowgI72QtylJpCG54IF"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/1dh8ek_ouya-screenshot20150123-3-hle01r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/thumbnails\/thumbnail20150123-3-ktdixc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/7fwfxc_ouya-screenshot20150123-3-jhdz5o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/thumbnails\/thumbnail20150123-3-1e69b4k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/xf25bj_ouya-screenshot20150123-3-344ghd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/thumbnails\/thumbnail20150123-3-vdwwev.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/20o1bx_ouya-screenshot20150123-3-bs3vfy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/thumbnails\/thumbnail20150123-3-xj0n8r.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/nk9yum_ouya-screenshot20150123-3-18axqc9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/thumbnails\/thumbnail20150123-3-3w5j9j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/asv8wj_ouya-screenshot20150123-3-6ud2ah.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0f4543f4-4fb5-4678-9837-1e25bcf0af77\/thumbnails\/thumbnail20150123-3-1rc20el.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "e2e3f60f-802e-452c-97ca-aa55b7799319",
+        "name": "Herrero Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.alvaroherrero.es\/",
+    "firstPublishedAt": "2014-09-19T05:59:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2016 by Herrero Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.68,
+        "count": 98
+    }
+}

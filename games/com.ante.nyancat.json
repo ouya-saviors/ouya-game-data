@@ -1,0 +1,89 @@
+{
+    "packageName": "com.ante.nyancat",
+    "title": "Nyan Cat!",
+    "description": "Nyan! Zip around 3 intense survival game modes with a colorful cast of 15 characters or simply paint the night sky in an interactive version of the internet video sensation! How long can you last?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Racing",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "4",
+            "versionCode": 0,
+            "uuid": "725dd4a1-42d6-452a-a368-e4e4684e05c3",
+            "date": "2013-08-13T13:42:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/80f2b574-df62-4bb4-b9a8-db91bb7ee800\/com.ante.nyancat\/725dd4a1-42d6-452a-a368-e4e4684e05c3\/vsdqppISMSoCzi3bhwcg_NyanOuya.apk",
+            "size": 10684644,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ante.nyancat\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XvRb6rcFTVa4uEAQ2rw8",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kwnrjBbTBWoInuTXYJuA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S7JgYi8Re5zdEMqONa5g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Yy28EcEQVTU9CTdYSpQq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9BS8zBZxTLet8aKgaosk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kwnrjBbTBWoInuTXYJuA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kwnrjBbTBWoInuTXYJuA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/S7JgYi8Re5zdEMqONa5g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/S7JgYi8Re5zdEMqONa5g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Yy28EcEQVTU9CTdYSpQq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Yy28EcEQVTU9CTdYSpQq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9BS8zBZxTLet8aKgaosk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9BS8zBZxTLet8aKgaosk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Marc Ellis",
+        "supportEmail": "nyancatapp@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.nyan.cat",
+    "firstPublishedAt": "2013-08-01T19:20:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Marc Ellis.",
+    "premium": false,
+    "rating": {
+        "likeCount": 243,
+        "average": 3.78,
+        "count": 511
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "nyanunlock",
+            "name": "Nyan Cat! Full Unlock",
+            "description": "Unlocks all available game modes and characters.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

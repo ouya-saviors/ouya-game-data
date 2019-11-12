@@ -1,0 +1,67 @@
+{
+    "packageName": "com.reicast.emulator",
+    "title": "reicast",
+    "description": "reicast is a multiplatform Sega Dreamcast Emulator\r\n\r\nTo run the emulator you need to provide a copy of the dreamcast bios and flash.\r\n\r\nIn the internal memory, make a folder name dc, and a folder named data inside it, and put dc_boot.bin and dc_flash.bin in the data folder. You can dump these files from your Dreamcast (there are many tutorials on the internet).\r\n\r\nIf you use an android file manager, \/sdcard\/dc\/data\/ is the path to put the files",
+    "players": [
+        1
+    ],
+    "genres": [],
+    "releases": [
+        {
+            "name": "r6",
+            "versionCode": 0,
+            "uuid": "a84a02f8-793a-4c4b-8543-2249e55f9ccb",
+            "date": "2014-05-01T22:54:00Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/e8315a84-959b-4cfc-a6cc-616bb1ebde65\/com.reicast.emulator\/a84a02f8-793a-4c4b-8543-2249e55f9ccb\/YJItQow3RZKd4LBNyeCw_reicast-release.apk",
+            "size": 1980980,
+            "md5sum": "fee0f12973ad74df2412ee9077f75539",
+            "publicSize": 373466,
+            "nativeSize": 10970044
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6pNaHFwsTKC8C6fvtTBO",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/59jKRgKpTyCofKSaolCB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/21EDlxalSDmHV3XyUOxG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4LUovOiQ8GDDo9K47c0g"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/59jKRgKpTyCofKSaolCB\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/59jKRgKpTyCofKSaolCB\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/21EDlxalSDmHV3XyUOxG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/21EDlxalSDmHV3XyUOxG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4LUovOiQ8GDDo9K47c0g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4LUovOiQ8GDDo9K47c0g\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "nillware",
+        "supportEmail": "team@reicast.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/reicast.com",
+    "firstPublishedAt": "2014-05-01T22:54:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by nillware.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.14,
+        "count": 615
+    }
+}

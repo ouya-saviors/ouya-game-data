@@ -1,0 +1,87 @@
+{
+    "packageName": "com.onlyslightly.Lickening",
+    "title": "Lickening",
+    "description": "Grab a friend, select a dating profile, and turbo charge your tongue finding true love in this romantic saliva based dueling game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.16",
+            "versionCode": 0,
+            "uuid": "1671667c-9b17-4496-bf1d-4b3d33cf0b44",
+            "date": "2014-02-17T17:42:21Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/a987b864-3836-4d04-9941-48dbc29c2aae\/com.onlyslightly.Lickening\/1671667c-9b17-4496-bf1d-4b3d33cf0b44\/csCxSlQtaI035jBo38A3_lickening2_14_14.apk",
+            "size": 65858864,
+            "md5sum": "56c430db4b5a9a90e2f9da13f5a8e674",
+            "publicSize": 1455494,
+            "nativeSize": 7783756
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.onlyslightly.lickening\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iHEHHQNJTtCn4o13joKS",
+        "video": "https:\/\/vimeo.com\/86583267",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kG4Ur0vMRHG3BoohDB8r",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YgUuEpO1Tm1Q6zVOBJra",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k71n1gTWQvKauE3Uvnfm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QI0M0TtESImis1PGrn0u",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4az9ITRsSjiA6G6GwnzH"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/86583267"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kG4Ur0vMRHG3BoohDB8r\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kG4Ur0vMRHG3BoohDB8r\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YgUuEpO1Tm1Q6zVOBJra\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YgUuEpO1Tm1Q6zVOBJra\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/k71n1gTWQvKauE3Uvnfm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/k71n1gTWQvKauE3Uvnfm\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/QI0M0TtESImis1PGrn0u\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/QI0M0TtESImis1PGrn0u\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4az9ITRsSjiA6G6GwnzH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4az9ITRsSjiA6G6GwnzH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "OnlySlightly",
+        "supportEmail": "m.hudgins@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.onlyslightly.com",
+    "firstPublishedAt": "2014-02-14T05:05:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by OnlySlightly.",
+    "premium": false,
+    "rating": {
+        "likeCount": 27,
+        "average": 3.79,
+        "count": 135
+    }
+}

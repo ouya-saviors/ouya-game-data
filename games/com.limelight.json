@@ -1,0 +1,73 @@
+{
+    "packageName": "com.limelight",
+    "title": "Moonlight Game Streaming",
+    "description": "This app streams games from a GameStream-compatible PC on your local network or over the Internet to your console. After initial pairing, Moonlight will show a list of apps that can be streamed from your PC. Keyboard, mouse, and controller input is supported.\n\nTo have the best experience, you should have your console connected via Ethernet to your router.\n\nSpecial button combos for OUYA Controllers:\nOUYA Button = Start\nLB+OUYA Button = Select\nRB+OUYA Button = Start+Select = Steam Overlay\n\nPC Requirements:\nNVIDIA GeForce GTX 600\/700\/800\/900\/1000 series desktop or mobile GPU\nNVIDIA GeForce Experience (GFE) 2.2.2 or higher\nUp-to-date GeForce driver",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "App",
+        "Entertainment"
+    ],
+    "releases": [
+        {
+            "name": "5.6",
+            "versionCode": 138,
+            "uuid": "62c70c72-6902-4f54-9191-07b97a27de1e",
+            "date": "2017-11-28T17:23:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/564716a6-916f-4b49-b517-92a850f7d26d\/com.limelight\/62c70c72-6902-4f54-9191-07b97a27de1e\/7OotZDdqRl6r8gXh6J2K_app-nonRoot-release.apk",
+            "size": 5802764,
+            "md5sum": "0bd4f70b1131914d4a7e041d6da1db84",
+            "publicSize": 444489,
+            "nativeSize": 1350676
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z3KgwV2QRsO2n9cjBdv2",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yEj3etn9QriqkO9GFOvQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZFJjixs6R4awg7TQnV5R",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Menj5uv4SseEnTLHa754"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/ouya-image20171128-3-7yrs1r",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/thumbnail20171128-3-st0fgd.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/ouya-image20171128-3-1uwy3cz",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/thumbnail20171128-3-nsbnnj.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/ouya-image20171128-3-txcoee",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/thumbnail20171128-3-17y96ux.png"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Cameron Gutman",
+        "supportEmail": "aicommander@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/limelight-stream.com",
+    "firstPublishedAt": "2014-05-26T04:00:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2017 by Cameron Gutman.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.49,
+        "count": 244
+    }
+}

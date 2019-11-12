@@ -1,0 +1,99 @@
+{
+    "packageName": "paulscode.android.mupen64plusae",
+    "title": "Mupen64Plus AE (N64 Emulator)",
+    "description": "Mupen64Plus AE is a port of the popular open-source Nintendo 64 emulator \"Mupen64Plus\" to Android, and now the OUYA video game console!  This emulator allows you to play your backed-up N64 games (called ROMs) on your OUYA.  It does NOT come with any ROMs (you must provide them yourself).  For instructions on backing up your games, or other FAQ visit the support forum at PaulsCode.Com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.4.2",
+            "versionCode": 0,
+            "uuid": "669630ea-e29d-404f-acae-9f8553929921",
+            "date": "2013-12-06T00:33:30Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/68d84579-c1e2-4418-8976-cda2692133f1\/paulscode.android.mupen64plusae\/669630ea-e29d-404f-acae-9f8553929921\/AwIlosZwQo6eeNGbvLJa_Mupen64Plus.apk",
+            "size": 11782309,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/paulscode.android.mupen64plusae\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gTRMelqQLGCpRE15Hr1K",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eBYGitVvTzacTMztOYcz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jVlLRAqDQHyw6Ash2kLL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ArMC1pFxTVmfhF1P5rMn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/krZcxfkmR4qpIG0YMyrs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EHHgarzkSfOIR6GzhE8k",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XI8LRt3HSfa3bQBROqjr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k8I17JBQSuQ9CDfK7mpQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/amSMsUOSR0WwjZpi9pzM"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/eBYGitVvTzacTMztOYcz\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eBYGitVvTzacTMztOYcz\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jVlLRAqDQHyw6Ash2kLL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jVlLRAqDQHyw6Ash2kLL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ArMC1pFxTVmfhF1P5rMn\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ArMC1pFxTVmfhF1P5rMn\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/krZcxfkmR4qpIG0YMyrs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/krZcxfkmR4qpIG0YMyrs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EHHgarzkSfOIR6GzhE8k\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EHHgarzkSfOIR6GzhE8k\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XI8LRt3HSfa3bQBROqjr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XI8LRt3HSfa3bQBROqjr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/k8I17JBQSuQ9CDfK7mpQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/k8I17JBQSuQ9CDfK7mpQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/amSMsUOSR0WwjZpi9pzM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/amSMsUOSR0WwjZpi9pzM\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Paul Lamb",
+        "supportEmail": "paulscode.com@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.paulscode.com",
+    "firstPublishedAt": "2013-03-23T14:49:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Paul Lamb.",
+    "premium": false,
+    "rating": {
+        "likeCount": 2146,
+        "average": 4.31,
+        "count": 2209
+    }
+}

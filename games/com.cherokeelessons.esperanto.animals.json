@@ -1,0 +1,100 @@
+{
+    "packageName": "com.cherokeelessons.esperanto.animals",
+    "title": "Esperanto Animaloj",
+    "description": "Learn the Esperanto names for more than 40 animals.\r\n\r\nHow fast can you complete each level with 100% accuracy?\r\n\r\nTeaches both singular and plural forms.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.05",
+            "versionCode": 0,
+            "uuid": "55147aec-5bf8-40f4-a185-f561aaaf4eaf",
+            "date": "2013-09-13T17:48:34Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/6c488f8e-6907-48c9-b891-e297cf70acdb\/com.cherokeelessons.esperanto.animals\/55147aec-5bf8-40f4-a185-f561aaaf4eaf\/CK5vKH6bT8CI31JdwRTQ_EsperantoAnimals-android-105.apk",
+            "size": 43684251,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cherokeelessons.esperanto.animals\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KMfwksZFSIi7EHWhCirB",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ESihUjyURYSkQHtUj9Eo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AOprVWz8QUKVBXBozg8i",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DgHd7J2ZRxSJG62QK0tP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pdFXvzGQHy06MlQa1lHw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uyIUAtFXQ0y40s8ow2lL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rwBWvvETSMIhNQMxH0Tv"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ESihUjyURYSkQHtUj9Eo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ESihUjyURYSkQHtUj9Eo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/AOprVWz8QUKVBXBozg8i\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/AOprVWz8QUKVBXBozg8i\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DgHd7J2ZRxSJG62QK0tP\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DgHd7J2ZRxSJG62QK0tP\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pdFXvzGQHy06MlQa1lHw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pdFXvzGQHy06MlQa1lHw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uyIUAtFXQ0y40s8ow2lL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uyIUAtFXQ0y40s8ow2lL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/rwBWvvETSMIhNQMxH0Tv\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rwBWvvETSMIhNQMxH0Tv\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Michael Joyner",
+        "supportEmail": "mjoyner@vbservices.net",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.CherokeeLessons.com\/",
+    "firstPublishedAt": "2013-09-05T16:50:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2013 by Michael Joyner.",
+    "premium": false,
+    "rating": {
+        "likeCount": 10,
+        "average": 4.33,
+        "count": 3
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "01cafaadb196ff884393311afa41798c7450ed3accc8137f63f5ccb1bb1afdeb",
+            "name": "Esperanta Animaloj",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
+}

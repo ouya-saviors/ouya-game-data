@@ -1,0 +1,81 @@
+{
+    "packageName": "com.ama.minisquadron.ouya",
+    "title": "MiniSquadron",
+    "description": "Experience frantic battles in the air with MiniSquadron!\r\n\r\nDiscover a new gameplay experience with optimized controls for OUYA!\r\n\r\nMiniSquadron is a frantic shooter for involving lots of little planes all vying for supremacy of the skies! Perform loop-the-loops, Immelmann turns and other daring feats of aerial shenanigans with a super fluid control system - experience the joy of freedom in the air! Shoot down enemy planes, bombers, UFOs, ducks, collect a plethora of power-ups - and unlock over 50 types of planes with different weapon types! There's nothing quite like this on the Android!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.18.1",
+            "versionCode": 0,
+            "uuid": "db7a5748-d250-4cc9-8aca-69609c76e23d",
+            "date": "2013-04-30T06:54:53Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/188e60f2-e940-46c9-890c-8c424bbb5007\/com.ama.minisquadron.ouya\/db7a5748-d250-4cc9-8aca-69609c76e23d\/cjifkG4BRpiAs0tKWtcT_20130426_MiniSquadron_F2P_Ouya_LiveIAP.apk",
+            "size": 41597806,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ama.minisquadron.ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aqWinQxXTfWtHYkHUpjm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T9aTdG39StGm8FgNRiaf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aBsDgY1zSiyUTJUP315Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cOHHhMtrSoGB0YZ4qLMC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8FZjVtPITsqGA7iaw1Dj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e5EIvPxTRj6axSBdGrS8"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/T9aTdG39StGm8FgNRiaf\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/T9aTdG39StGm8FgNRiaf\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aBsDgY1zSiyUTJUP315Y\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aBsDgY1zSiyUTJUP315Y\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cOHHhMtrSoGB0YZ4qLMC\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cOHHhMtrSoGB0YZ4qLMC\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8FZjVtPITsqGA7iaw1Dj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8FZjVtPITsqGA7iaw1Dj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/e5EIvPxTRj6axSBdGrS8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/e5EIvPxTRj6axSBdGrS8\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Advanced Mobile Applications Ltd.",
+        "supportEmail": "customersupport@ama.us",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.ama-studios.com",
+    "firstPublishedAt": "2013-04-30T06:54:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2013 by Advanced Mobile Applications Ltd..",
+    "premium": false,
+    "rating": {
+        "likeCount": 141,
+        "average": 3.18,
+        "count": 17
+    }
+}

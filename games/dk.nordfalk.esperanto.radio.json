@@ -1,0 +1,71 @@
+{
+    "packageName": "dk.nordfalk.esperanto.radio",
+    "title": "Esperanto-radio Muzaiko",
+    "description": "Listen to 9 radio stations in the international language of Esperanto on your TV!\r\n\r\nA\u016dskultu 9 diversajn radio-kanalojn en Esperanto sur via televidilo!\r\n- Muzaiko, la tuttempa tutmonda tutmojosa retradio en Esperanto, kun muziko, nova\u0135oj, informoj, raportoj, arkiva\u0135oj kaj multe pli\r\n- Pola Retradio (Pollando)\r\n- 3ZZZ en Esperanto (A\u016dstralio)\r\n- Radio Havano Kubo (Kubo)\r\n- Radio Vatikana (Vatikano)\r\n- Radio Verda (Kanado)\r\n- Varsovia Vento (Pollando)\r\n- Kaliningrada E-radio (Rusio)\r\n- Vinilkosmo (Francio)\r\n\r\n(\u0108ina Radio Internacia kaj Esperanto Retradio ne elekteblas, \u0109ar ili elsendas en ne-kongruaj formatoj)\r\n\r\nPor \u0109iu kanalo oni povas elekti ne nur inter la diversaj lastatempaj podkastoj, sed anka\u016d legi pri la podkasto kaj spekti la hejmpa\u011dojn de ili.\r\n\r\nVi povas e\u0109 uzi la programon kiel vekhorlo\u011do, tiel ke via preferata kanalo a\u016dtomate ekludi\u011dos je via preferata horo.\r\n\r\n\"La androjda radioprogramo estas tre utila, ja multe-multe simpligas la a\u016dskultadon de Esperantaj radioelsendoj. \"\r\n- Eventoj \/ Ret-Info\r\n\r\nLa programo estas malfermfonta. Tiel aliaj rajtas kopii kaj kontribui al la programo. La fontokodo trovi\u011das \u0109e http:\/\/code.google.com\/p\/esperanto-telefono\/wiki\/EsperantoRadio",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Music"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 0,
+            "uuid": "0d2a65dc-7a48-4413-a820-4a088c9b2174",
+            "date": "2013-07-27T07:15:04Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/793a2e4b-bbf8-4393-9a54-ce14fd6db8bf\/dk.nordfalk.esperanto.radio\/0d2a65dc-7a48-4413-a820-4a088c9b2174\/LnGsLXvORtmSn5d7MsFb_EsperantoRadio-release.apk",
+            "size": 353827,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/dk.nordfalk.esperanto.radio\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H6QuT8KTq6m3umCIPI1o",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N9d4eqE4RJapiSJfW8jx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uawhJe1MQyCiNTMR6EDL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jiyNYESQ56XGwRQNnHQj"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N9d4eqE4RJapiSJfW8jx\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N9d4eqE4RJapiSJfW8jx\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uawhJe1MQyCiNTMR6EDL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uawhJe1MQyCiNTMR6EDL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jiyNYESQ56XGwRQNnHQj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jiyNYESQ56XGwRQNnHQj\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "793a2e4b-bbf8-4393-9a54-ce14fd6db8bf",
+        "name": "Ludisto",
+        "supportEmail": "chuck@chucksmith.de",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/code.google.com\/p\/esperanto-telefono\/wiki\/EsperantoRadio",
+    "firstPublishedAt": "2013-07-27T07:15:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2013 by Ludisto.",
+    "premium": false,
+    "rating": {
+        "likeCount": 29,
+        "average": 4,
+        "count": 5
+    }
+}

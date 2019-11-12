@@ -1,0 +1,98 @@
+{
+    "packageName": "com.fde.avpevolution",
+    "title": "AVP: Evolution",
+    "description": "FIERCE COMBAT\r\n*Two distinct gaming experiences as both the Alien and Predator\r\n*Vicious attacks and brutal finishing moves give players a lethal arsenal to wreak havoc on the enemy\r\n\r\nCREATE YOUR OWN ULTIMATE KILLING MACHINE\r\n*Engineer your own unique Alien and Predator via character upgrades, enhanced abilities, and a multitude of powerful armor and weapons\r\n*Gain an advantage in battle with Facehugger Calls, Rage Rechargers, Net Guns, Proximity Mines, Thermal Vision, Alien Vision, Plasma Cannons and more\r\n\r\nCHILLING ENVIRONMENTS\r\n*It\u2019s kill or be killed as you advance through the Temple Arena, Marine Base, Alien Hive and many other eerie settings",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "FPS\/Shooter",
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.5.1",
+            "versionCode": 0,
+            "uuid": "fdcd4eba-14f9-4300-854f-804477fc52b9",
+            "date": "2013-10-26T00:01:44Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0cce6fc1-36d8-4c12-afb4-674cc087aec8\/com.fde.avpevolution\/fdcd4eba-14f9-4300-854f-804477fc52b9\/ZIiLL8NVQpeCZLVfBdLE_AVP_2013_08_26_OUYA_R.apk",
+            "size": 367204012,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fde.avpevolution\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wvpTf7BRTnyt0H6BEo80",
+        "video": "https:\/\/vimeo.com\/77823554",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0Gxzf2bxT8e6JX4ax4W7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rn0kvQo5TKJNW6HCzBD9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jysbiwe0QSbnU0W3BRA3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F6ii2z6dRESxqNqvfn6z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ltRMKSlT1eS2FdWhpHfH"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/77823554"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0Gxzf2bxT8e6JX4ax4W7\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0Gxzf2bxT8e6JX4ax4W7\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Rn0kvQo5TKJNW6HCzBD9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Rn0kvQo5TKJNW6HCzBD9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jysbiwe0QSbnU0W3BRA3\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jysbiwe0QSbnU0W3BRA3\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/F6ii2z6dRESxqNqvfn6z\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/F6ii2z6dRESxqNqvfn6z\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ltRMKSlT1eS2FdWhpHfH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ltRMKSlT1eS2FdWhpHfH\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Fox Digital Entertainment, Inc.",
+        "supportEmail": "foxapps@fox.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "https:\/\/www.facebook.com\/AVPEvolution",
+    "firstPublishedAt": "2013-09-26T01:46:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Fox Digital Entertainment, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 713,
+        "average": 3.95,
+        "count": 927
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_fde_avpevolution_unlock_levels",
+            "name": "Unlock All Levels",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

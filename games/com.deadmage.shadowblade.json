@@ -1,0 +1,96 @@
+{
+    "packageName": "com.deadmage.shadowblade",
+    "title": "Shadow Blade",
+    "description": "Shadow Blade is a fast-paced ninja action-platformer. You will guide the ninja through challenging levels, around countless traps, sneaking past enemies or right over their dead bodies. You have to be fast, be sneaky and be aware of your environment. You have to be a ninja!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "01e3bcd6-b1d5-4451-a08c-238f899d737f",
+            "date": "2014-03-10T17:52:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/68b38f1a-0300-480f-857d-9ce7dbc530e5\/com.deadmage.shadowblade\/01e3bcd6-b1d5-4451-a08c-238f899d737f\/X5kWvAHCT8SQqCtl5tz2_OuyaNativeActivity-2014-03-08.apk",
+            "size": 126004055,
+            "md5sum": "0520e1b61c50558be1eaf667dd557307",
+            "publicSize": 441362,
+            "nativeSize": 14648172
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.deadmage.shadowblade\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/84Aip2Sd4V86CgmRt4QC",
+        "video": "https:\/\/vimeo.com\/87545477",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s8Vk9kNSOSV9cyZa4YBQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jczMIzUrQ2SB0d0pWskQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4Qp5wUCjS6WctTFuB6CW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/agpp6nCZQvexjDpZgWDO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jiWk3tcTQxy5MbWl3QfY"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/87545477"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s8Vk9kNSOSV9cyZa4YBQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s8Vk9kNSOSV9cyZa4YBQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jczMIzUrQ2SB0d0pWskQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jczMIzUrQ2SB0d0pWskQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/4Qp5wUCjS6WctTFuB6CW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/4Qp5wUCjS6WctTFuB6CW\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/agpp6nCZQvexjDpZgWDO\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/agpp6nCZQvexjDpZgWDO\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jiWk3tcTQxy5MbWl3QfY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jiWk3tcTQxy5MbWl3QfY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dead Mage",
+        "supportEmail": "info@deadmage.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "shadowblade.deadmage.com",
+    "firstPublishedAt": "2014-03-04T17:43:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Dead Mage.",
+    "premium": false,
+    "rating": {
+        "likeCount": 214,
+        "average": 4.26,
+        "count": 1723
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "FullGame",
+            "name": "Full Game",
+            "description": "Shadow Blade Full Game Unlock",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

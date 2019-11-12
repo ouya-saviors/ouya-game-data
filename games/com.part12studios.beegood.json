@@ -1,0 +1,81 @@
+{
+    "packageName": "com.part12studios.beegood",
+    "title": "Bee Active",
+    "description": "Welcome to Bee Active! In this game you help navigate a group of bees pollinate flowers and grow your swarm. Avoid dangerous pesticides floating through the air.\r\nPlay and learn interesting facts along the way about honeybees and why they are so important. Also find ways to help bees as we work with Crowdrise to help make a difference!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.3.0.0",
+            "versionCode": 0,
+            "uuid": "f1c2b2e5-894e-41ed-9145-181eb424823d",
+            "date": "2014-07-17T02:58:16Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/9320c0ff-e979-4a27-8095-32f960eb7acf\/com.part12studios.beegood\/f1c2b2e5-894e-41ed-9145-181eb424823d\/O3DpD0RCR5iIAB01A91f_Bee_Active_2014_07_16-15_33_22_Ouya_debug_signed.apk",
+            "size": 12208705,
+            "md5sum": "11c9aa74c5343f58c63b298d12fd373f",
+            "publicSize": 97553,
+            "nativeSize": 22269116
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.beegood\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3USWT67nTjSM3DWZ1p0e",
+        "video": "https:\/\/vimeo.com\/100315059",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vPkJcVoPQhuLFOfR2oa6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KFzeJVlMQxyJzO8VhsD9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bAoZwgl7T4Wlbqst6HIj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r2DXypbWSs6cbx6cdTUi"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100315059"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/je1hg5_ouya-screenshot20140708-2-n5zz79.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/thumbnails\/thumbnail20140708-2-wdw0r1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/e6gijz_ouya-screenshot20140708-2-krq95.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/thumbnails\/thumbnail20140708-2-1pbujvh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/bbymxl_ouya-screenshot20140708-2-1shqdm5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/thumbnails\/thumbnail20140708-2-1hc5zbm.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/a8etj7_ouya-screenshot20140708-2-1ep8nse.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f1c2b2e5-894e-41ed-9145-181eb424823d\/thumbnails\/thumbnail20140708-2-1130pxc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9320c0ff-e979-4a27-8095-32f960eb7acf",
+        "name": "Part12 Studios",
+        "supportEmail": "part12studios@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/part12studios.com",
+    "firstPublishedAt": "2014-07-17T02:58:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Part12 Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.91,
+        "count": 54
+    }
+}

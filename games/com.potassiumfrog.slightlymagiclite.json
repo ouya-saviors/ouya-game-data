@@ -1,0 +1,75 @@
+{
+    "packageName": "com.potassiumfrog.slightlymagiclite",
+    "title": "Slightly Magic Lite",
+    "description": "He's back! Slightly returns in an authentic remake of the original classic arcade adventure.\r\nBigwiz the wizard has left the castle in a hurry, in order to turn the King\u2019s son Newton back into a frog. Indeed, he was in such a hurry that he forgot to pack his spare wand, forgot to lock his laboratory door, and most importantly, forgot to return his utterly stupid, idiotic, incompetent, brain-dead nephew Slightly to his parents\u2019 mud hut in the hills.\r\nOh well, it could be worse. A sunburnt dragon could be running off with the beautiful Princess Croak as we speak. The wizard\u2019s spell cabinet might have been knocked over by a Flaming Octarian Whirlwind, scattering the spells everywhere. His kingliness the King might, in a fit of blind panic, have given Slightly the wizard\u2019s private spell book to read. It might rain.\r\nYou see, it could be worse. But as it is, there\u2019s not a cloud in the sky, a breeze in the air, or a whiff of dragon\u2019s breath to be sniffed. Hang on, where\u2019s that pink fire-breathing creature going with that screaming princess? Is that a gentle wind wafting in through the door, or is it something stronger?\r\nOh no. Get the washing in mother, and lock all doors. Cancel the papers, and shoot the cow. I think it\u2019s going to be one of those days\u2026",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "88f9e910-3549-47c4-9f59-bd12e4367409",
+            "date": "2014-09-30T07:27:27Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d54f1c87-ef78-4178-b5ea-c49be1d6d4f9\/com.potassiumfrog.slightlymagiclite\/88f9e910-3549-47c4-9f59-bd12e4367409\/KGePSGn7R3dgMF3mXiuw_Slightly_Magic_Lite_Ouya_release_ready.apk",
+            "size": 107093906,
+            "md5sum": "d3325214a7fba09fed92dd052363f678",
+            "publicSize": 45944,
+            "nativeSize": 22265020
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q5WU5c7TnmcI3s8QNZoD",
+        "video": "http:\/\/vimeo.com\/99760766",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9CbvowaQfuFvPZaF7VQX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gg6ttOlTNiHlNHyOyUeA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SGPNHHQZRnuPDoI59XiE"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/99760766"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/h1qbmc_ouya-screenshot20140919-2-p7itl9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/thumbnails\/thumbnail20140919-2-1etxuox.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/3l7sse_ouya-screenshot20140919-2-1m1hj0w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/thumbnails\/thumbnail20140919-2-1qialnw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/9ih4s0_ouya-screenshot20140919-2-1uvgx4j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/thumbnails\/thumbnail20140919-2-xcpedx.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Potassium Frog Ltd",
+        "supportEmail": "hello@potassiumfrog.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.potassiumfrog.com",
+    "firstPublishedAt": "2014-09-30T07:27:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Potassium Frog Ltd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.07,
+        "count": 28
+    }
+}

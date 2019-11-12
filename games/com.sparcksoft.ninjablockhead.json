@@ -1,0 +1,89 @@
+{
+    "packageName": "com.sparcksoft.ninjablockhead",
+    "title": "Ninja BlockHead",
+    "description": "Awesome platformer game. Work your way up the end of the game and rescue all the ninja girls. This game is hard but it is possible to finish it without dying. 7 unlockable badges. Updates include new levels and other stuff.\r\n\r\nAdditional content on completing certain or all badges.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Fight!",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "2.2",
+            "versionCode": 0,
+            "uuid": "4ec6c5ee-05bc-4f3d-b67a-6278b40a4355",
+            "date": "2014-02-17T17:33:51Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/780e24bf-59c4-496c-b843-99128f75c4e9\/com.sparcksoft.ninjablockhead\/4ec6c5ee-05bc-4f3d-b67a-6278b40a4355\/buB1RSRCe5Lg8EaWBhBw_NINJS%20BLOCK%20HEAD%202.2%20FOR%20UPDATE.apk",
+            "size": 11151536,
+            "md5sum": "92ea6c1182fde1a87125a871d1d074d5",
+            "publicSize": 10306201,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sparcksoft.ninjablockhead\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1BUm2M2yQ7qqvNWUKKrQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YUGF6sWyRSiVF6Ecr0FD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gD42d5bYRauYOHZyikYs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lQJnmPXGSVSSyveyq64g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WGGvC4OQSfmLKTQfJqeL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zkuhbpyvQ0qfQ0i4ITLc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bvbX3TJBTtGf8gf9EbPK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YUGF6sWyRSiVF6Ecr0FD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YUGF6sWyRSiVF6Ecr0FD\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/gD42d5bYRauYOHZyikYs\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/gD42d5bYRauYOHZyikYs\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lQJnmPXGSVSSyveyq64g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lQJnmPXGSVSSyveyq64g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WGGvC4OQSfmLKTQfJqeL\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WGGvC4OQSfmLKTQfJqeL\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zkuhbpyvQ0qfQ0i4ITLc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zkuhbpyvQ0qfQ0i4ITLc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bvbX3TJBTtGf8gf9EbPK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bvbX3TJBTtGf8gf9EbPK\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SparckSoft",
+        "supportEmail": "xboxradio@live.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.sparckman.net",
+    "firstPublishedAt": "2014-02-10T22:00:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by SparckSoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 2.79,
+        "count": 78
+    }
+}

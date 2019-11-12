@@ -1,0 +1,76 @@
+{
+    "packageName": "com.BitBanditsGames.URA",
+    "title": "Ultimate Reindeer Adventure",
+    "description": "Christmas is approaching. Nature is covered with snow and you can even feel the pleasant scent of the pine trees. But one of Santa\u2019s reindeers fell into a deep and icy hollow. After a busy workday, give yourself a moment and get in the mood for Christmas. Help the desperate animal to find its way back to its master. Use Santa\u2019s presents but beware of the naughty goblin\u2019s bombs.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "542e104b-9726-4731-8faa-78414e1d1efa",
+            "date": "2014-12-22T22:02:02Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/dd44fb40-147b-4c53-970e-b5b8f1a10b93\/com.BitBanditsGames.URA\/542e104b-9726-4731-8faa-78414e1d1efa\/wbIOoGO3T4qV0LznOD2Y_com.BitBanditsGames.URA.apk",
+            "size": 20124000,
+            "md5sum": "ede267d6412033fffd577dee68efa07b",
+            "publicSize": 249437,
+            "nativeSize": 15035568
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bitbanditsgames.ura\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ukpYwLqQNOIG3tQ3pjip",
+        "video": "https:\/\/vimeo.com\/114882675",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QXsmivHoS5qnSzXVt40L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IAkUbfMlQHWHb7NiPlRV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TtBosI7TxKxETUWhcKhZ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/114882675"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/542e104b-9726-4731-8faa-78414e1d1efa\/4uhn89_ouya-screenshot20141220-2-4s2b7a.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/542e104b-9726-4731-8faa-78414e1d1efa\/thumbnails\/thumbnail20141220-2-1xn1jq7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/542e104b-9726-4731-8faa-78414e1d1efa\/x33f12_ouya-screenshot20141220-2-13l3myw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/542e104b-9726-4731-8faa-78414e1d1efa\/thumbnails\/thumbnail20141220-2-1k051ws.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/542e104b-9726-4731-8faa-78414e1d1efa\/v249tr_ouya-screenshot20141220-2-15p49zp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/542e104b-9726-4731-8faa-78414e1d1efa\/thumbnails\/thumbnail20141220-2-i61odh.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "dd44fb40-147b-4c53-970e-b5b8f1a10b93",
+        "name": "Bit Bandits Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2014-12-22T22:02:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Bit Bandits Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.25,
+        "count": 16
+    }
+}

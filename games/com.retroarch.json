@@ -1,0 +1,67 @@
+{
+    "packageName": "com.retroarch",
+    "title": "RetroArch",
+    "description": "RetroArch is a powerful engine that allows you to:\r\n\r\n* Play games (retro and more current ones)\r\n* Watch movies (soon)\r\n* Other stuff (augmented reality, etc) (soon)\r\n\r\nIt comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment.",
+    "players": [
+        1
+    ],
+    "genres": [],
+    "releases": [
+        {
+            "name": "1.0.0.2",
+            "versionCode": 0,
+            "uuid": "7609e164-b202-445c-b63e-5a6a1d88bae0",
+            "date": "2014-03-10T21:43:25Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d7e59e4e-26b8-45dc-96a2-7e593fcb0c99\/com.retroarch\/7609e164-b202-445c-b63e-5a6a1d88bae0\/GxXYE3O2RpGYsp3o9EB2_RetroArch-armv7-v1.0.0.2-r34.apk",
+            "size": 52330325,
+            "md5sum": "922919e21f02155784ac4b379096854b",
+            "publicSize": 713261,
+            "nativeSize": 1169736
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.retroarch\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6G3l9VOJRhGQPz7rl59V",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kepMKWRAQWKQYSjpGM1M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nLEfp3bWQVWtCR3yfWdp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GMohmwFfRBuNpUKkp3Zm"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kepMKWRAQWKQYSjpGM1M\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kepMKWRAQWKQYSjpGM1M\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/nLEfp3bWQVWtCR3yfWdp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/nLEfp3bWQVWtCR3yfWdp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/GMohmwFfRBuNpUKkp3Zm\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/GMohmwFfRBuNpUKkp3Zm\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Libretro",
+        "supportEmail": "libretro@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/libretro.com\/",
+    "firstPublishedAt": "2013-10-16T19:14:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2014 by Libretro.",
+    "premium": false,
+    "rating": {
+        "likeCount": 227,
+        "average": 4.04,
+        "count": 759
+    }
+}

@@ -1,0 +1,81 @@
+{
+    "packageName": "com.steenriver.littlecrane",
+    "title": "The Little Crane That Could",
+    "description": "Drive and operate a crane in this game where puzzle meets simulation. A diverse set of challenges will test your skills with cranes, trucks, skidloaders, forklifts and even a skycrane helicopter.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "5.10",
+            "versionCode": 0,
+            "uuid": "353f967e-9166-4f26-87a2-3eff7f5f1609",
+            "date": "2013-06-06T21:18:38Z",
+            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/0be879bf-9e34-416d-8c83-d8140b4868c2\/com.steenriver.littlecrane\/353f967e-9166-4f26-87a2-3eff7f5f1609\/8BrUHGgNTyyCFFqIIiGQ_AndroidCrane-release.apk",
+            "size": 6407256,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.steenriver.littlecrane\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jS86G4j7SeakmHYelBxm",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TsPTqVGnS8ya1ibPpwre",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cgSOuYDtR8uJajt0KQqu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/loq9DxKYRey0Ep0yGnne"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TsPTqVGnS8ya1ibPpwre\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TsPTqVGnS8ya1ibPpwre\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cgSOuYDtR8uJajt0KQqu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cgSOuYDtR8uJajt0KQqu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/loq9DxKYRey0Ep0yGnne\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/loq9DxKYRey0Ep0yGnne\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Abraham Stolk",
+        "supportEmail": "b.stolk@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/stolk.org\/tlctc\/",
+    "firstPublishedAt": "2013-03-14T18:17:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Abraham Stolk.",
+    "premium": false,
+    "rating": {
+        "likeCount": 684,
+        "average": 3.69,
+        "count": 694
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "premium",
+            "name": "All Premium Levels",
+            "description": "",
+            "localPrice": 5.99,
+            "originalPrice": 5.99,
+            "currency": "EUR"
+        }
+    ]
+}
