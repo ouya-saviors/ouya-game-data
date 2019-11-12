@@ -1,0 +1,90 @@
+{
+    "packageName": "cm.david.sheepinhell",
+    "title": "Sheep in Hell",
+    "description": "You\u2019re a wolf and you\u2019ve been bad. That\u2019s why you\u2019ve been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they\u2019re not normal sheep. No\u2026 They\u2019re possessed demonic sheep and won\u2019t hesitate to try to kill you!\r\n\r\nSo run! Defend yourself! Because, after all, a wolf is by nature a predator, not a prey.\r\n\r\nBreak through the dungeons, solve challenges and escape this hell\u2026 If you can!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "39e54cfe-eaa8-4edf-8f25-6e5413684959",
+            "date": "2014-05-08T15:36:20Z",
+            "url": "https:\/\/archive.org\/download\/ouya_cm.david.sheepinhell_1.1.1\/Sheep in Hell_1.1.1_cm.david.sheepinhell.apk",
+            "size": 17178618,
+            "md5sum": "1b5fe4b1a391b5584492abb689735185",
+            "publicSize": 303124,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/cm.david.sheepinhell\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bkwWVlDSQVqUqXdLJVvd",
+        "video": "https:\/\/vimeo.com\/93862922",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9g2FjVviRVeVUSuxX0vU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5AKVcj31S5uYNQepyWng",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cmS98KtVSUSMYsW0RaWg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1D6ulVoTQVG73xPk3wLl"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/93862922"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/7y22cp_ouya-screenshot20140507-2-zok45k.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/thumbnails\/thumbnail20140507-2-1al6r0q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/3drp0g_ouya-screenshot20140507-2-15e25fq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/thumbnails\/thumbnail20140507-2-11xyui0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/9ome1q_ouya-screenshot20140507-2-ubr7qz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/thumbnails\/thumbnail20140507-2-x93ha6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/8b333z_ouya-screenshot20140507-2-gkss75.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/39e54cfe-eaa8-4edf-8f25-6e5413684959\/thumbnails\/thumbnail20140507-2-yz3tj8.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "david.cm",
+        "supportEmail": "koromon+ouya@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.david.cm\/sheepinhell",
+    "firstPublishedAt": "2014-05-08T15:36:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by david.cm.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.8,
+        "count": 20
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sheepinhell",
+            "name": "Sheep in Hell",
+            "description": "You\u2019re a wolf and you\u2019ve been put in the deepness of a hell plagued with your most hated enemies: the sheep!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "packageName": "com.dotemu.rtype",
+    "title": "R-Type",
+    "description": "CLASSIC ARCADE SHOOTER R-TYPE IS BACK! \r\nLet's go back in the 80's with this classic old-school shoot'em up! One of the biggest arcade game will make you travel back in the day. Be ready to have fun with this old-school side-shooter game!\r\n\r\nINCLUDING ORIGINAL FEATURES!\r\nThe game is the challenging R-Type you used to play before. And we kept all its specifics, just the way you remember it! Fly through 8 levels with 3 different control options. Play in two difficulty levels. Upgrade with new weapons, power-ups, and attachments. Defeat 8 unique bosses and waves of various enemies.\r\n\r\nFEEL THE BLAST!\r\nBlast off and strike the evil Bydo Empire! Don't be shy and use your best shot to take them down! It's retro, it's fun and it's also hard to master. Be the best ever to finish this masterpiece!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.1.1",
+            "versionCode": 0,
+            "uuid": "a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29",
+            "date": "2015-10-09T21:17:06Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.dotemu.rtype_2.1.1\/R-TYPE_2.1.1_com.dotemu.rtype.apk",
+            "size": 20996768,
+            "md5sum": "8f5d1bebaca6702600c9d8df6fe7bbae",
+            "publicSize": 16217802,
+            "nativeSize": 5533336
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.rtype\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wGJis6yuQz25MxC6hmrv",
+        "video": "https:\/\/vimeo.com\/105760430",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RzsjvJKTQ5uFwfUt1TMt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ddfRQxePQ4WxFn4pInU1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kiDCeiWRQSOlceUOzmZb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MERzfTCxRLC858FdAPnx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k9tZV5CSDCM8bJfAsgnA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/105760430"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/3qczps_ouya-screenshot20151009-3-getlza.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/thumbnails\/thumbnail20151009-3-1wz8n35.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/gzcoqi_ouya-screenshot20151009-3-1vmvryw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/thumbnails\/thumbnail20151009-3-1lsyks4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/5d2ier_ouya-screenshot20151009-3-1wbp4no.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/thumbnails\/thumbnail20151009-3-pq6fnd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/dgi9mr_ouya-screenshot20151009-3-kl1qa2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/thumbnails\/thumbnail20151009-3-1tuwj48.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/b5deuc_ouya-screenshot20151009-3-83ufuc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a822a0a8-3891-4ffb-89ab-9f2d7f2f2d29\/thumbnails\/thumbnail20151009-3-lofij0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
+        "name": "DotEmu SAS",
+        "supportEmail": "support@dotemu.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "www.dotemu.com",
+    "firstPublishedAt": "2014-09-16T14:39:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by DotEmu SAS.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.29,
+        "count": 112
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "rtype_ouya",
+            "name": "R-Type",
+            "description": "R-Type is a horizontal scrolling shooter arcade game developed in 1987.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

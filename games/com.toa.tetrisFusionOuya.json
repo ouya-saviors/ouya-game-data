@@ -1,0 +1,112 @@
+{
+    "packageName": "com.toa.tetrisFusionOuya",
+    "title": "Tetris Battle Fusion",
+    "description": "Tetris\u00ae Battle: Fusion is now available on OUYA!  Based on Tetris Battle, the hugely popular multiplayer game on Facebook that has been downloaded over 60 million times, Tetris Battle: Fusion introduces an all-new interactive adventure where you can battle your way through a series of challenging opponents and goals to become a Tetris Master!  Collect special Amulets that can be used to give you an added boost as you progress your way to victory.  Over 50 Amulets are ready to collect, and more will be added periodically. With the help of Amulets, don't change the way you play ... change the way you WIN!  The game also features a 1v1 local co-op mode that enables friends in the same room to go head-to-head using previously earned Amulets.\r\n\r\nPLEASE NOTE: This app contains in-app purchasing, which allows you to buy items within the app using actual money.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.0.1r",
+            "versionCode": 0,
+            "uuid": "0fba3bba-83e0-4e3e-9f29-409258429757",
+            "date": "2014-12-05T20:30:48Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.toa.tetrisFusionOuya_2.0.1r\/Tetris Battle Fusion_2.0.1r_com.toa.tetrisFusionOuya.apk",
+            "size": 41125055,
+            "md5sum": "ad1f58f365859e5bc0db8c237b4c4514",
+            "publicSize": 258150,
+            "nativeSize": 5607144
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.toa.tetrisfusionouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l08xBSjORUKUn7H8jSlp",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fio2PmJQQla1fZdVEZxl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VESfV97VTSn4uRp5lY9A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/To75Tn2Tw6J7nvPG4nBk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bjzlwTjvQe6HA4awlHTw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qcQEibHxT9Wa1PCoMpX2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kQKVJ2xyRnCnmysUjZkD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8zJEBwIBTmoFNiJyLKoY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zTnyJklUSYOlpJ1E04fH"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/ajc4jn_ouya-screenshot20141203-2-ixangh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-h61mgh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/qtn66m_ouya-screenshot20141203-2-69rxzt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-j4ztkw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/l15x1u_ouya-screenshot20141203-2-1fbol5f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-171wn22.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/gq6tsd_ouya-screenshot20141203-2-tp14aa.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-rrp1wo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/fachkr_ouya-screenshot20141203-2-52elrk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-1sn4i62.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/qwrtjf_ouya-screenshot20141203-2-dhsloz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-f4fclj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/uzylw7_ouya-screenshot20141203-2-1cadoea.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-1bwrrke.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/2cpeky_ouya-screenshot20141203-2-na5xis.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fba3bba-83e0-4e3e-9f29-409258429757\/thumbnails\/thumbnail20141203-2-1vygen8.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tetris Online, Inc.",
+        "supportEmail": "support@tetrisonline.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tetrisonline.com",
+    "firstPublishedAt": "2014-08-25T03:35:11Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Tetris Online, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.41,
+        "count": 1111
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "TBOE_Mode2P_1-50",
+            "name": "2P VS Battle Mode",
+            "description": "Play head-to-head against another opponent. If you don't have a second controller connected, you can play against a CPU-controlled opponent.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

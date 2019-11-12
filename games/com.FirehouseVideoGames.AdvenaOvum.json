@@ -1,0 +1,83 @@
+{
+    "packageName": "com.FirehouseVideoGames.AdvenaOvum",
+    "title": "Advena Ovum",
+    "description": "Use your tongue to collect as many alien bats and eggs as you can while avoiding the balls of fire.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 0,
+            "uuid": "0fcf601c-cac1-433f-9d98-914e3c0eb730",
+            "date": "2014-02-13T20:41:04Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.FirehouseVideoGames.AdvenaOvum_1.0.5\/Advena Ovum_1.0.5_com.FirehouseVideoGames.AdvenaOvum.apk",
+            "size": 13157811,
+            "md5sum": "2a6a3e32c1019400175eff7e62e21104",
+            "publicSize": 861699,
+            "nativeSize": 7816532
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.firehousevideogames.advenaovum\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LZyPhKXTlFIqsvKYMu2A",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pUuH1XATlWLeASKTadhg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WuweVVERLefEgN6BMDoA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KxNpr7zaQJWYgF05O2hp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1IYX2QiLRvCqQtW22RXZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RL9XcaPtSeyE2WlGcAaI"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/pUuH1XATlWLeASKTadhg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/pUuH1XATlWLeASKTadhg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WuweVVERLefEgN6BMDoA\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WuweVVERLefEgN6BMDoA\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KxNpr7zaQJWYgF05O2hp\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KxNpr7zaQJWYgF05O2hp\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1IYX2QiLRvCqQtW22RXZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1IYX2QiLRvCqQtW22RXZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/RL9XcaPtSeyE2WlGcAaI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RL9XcaPtSeyE2WlGcAaI\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Firehouse Video Games",
+        "supportEmail": "contact@firehousevideogames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.firehousevideogames.com",
+    "firstPublishedAt": "2014-02-13T20:41:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Firehouse Video Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 8,
+        "average": 1.22,
+        "count": 18
+    }
+}

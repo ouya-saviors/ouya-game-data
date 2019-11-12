@@ -1,0 +1,105 @@
+{
+    "packageName": "com.Tripwire.Calamity",
+    "title": "Killing Floor: Calamity",
+    "description": "Killing Floor: Calamity takes place in the devastated cities and countryside of England, after a series of cloning experiments for the military goes horribly wrong. You know how this works - your mission is to survive waves of Zeds and take out the Patriarch!  Believe me - the action is furious and relentless!\r\n2-player co-op couch gaming, multiple difficulty levels, 7 Perks upgradeable to Level 20 (with new special abilities, too) and 9 brand new maps for the OUYA.\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "d43ede05-7f62-43fc-931f-93d801a1a3f8",
+            "date": "2013-12-18T15:53:10Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.Tripwire.Calamity_1.0\/Killing Floor_ Calamity_1.0_com.Tripwire.Calamity.apk",
+            "size": 527765327,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tripwire.calamity\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gdcCL98UQreeBdfCOceE",
+        "video": "https:\/\/vimeo.com\/82415952",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SZzeluuNR4CSDZrNn9ab",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dfI8BhMpS0eLd6ES1yok",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zZemjT5wQQqUrQNCSZLX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i6olGZKSIKXTP9Qlg0Vg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fbniDCvyRLmpC9kEaa3h",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ywLzwnFrR1uOM39pIgpo"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82415952"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SZzeluuNR4CSDZrNn9ab\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SZzeluuNR4CSDZrNn9ab\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/dfI8BhMpS0eLd6ES1yok\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/dfI8BhMpS0eLd6ES1yok\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zZemjT5wQQqUrQNCSZLX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zZemjT5wQQqUrQNCSZLX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i6olGZKSIKXTP9Qlg0Vg\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i6olGZKSIKXTP9Qlg0Vg\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fbniDCvyRLmpC9kEaa3h\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fbniDCvyRLmpC9kEaa3h\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ywLzwnFrR1uOM39pIgpo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ywLzwnFrR1uOM39pIgpo\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tripwire Interactive",
+        "supportEmail": "support@tripwireinteractive.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.killingfloorthegame.com\/calamity",
+    "firstPublishedAt": "2013-12-18T15:53:10Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Tripwire Interactive.",
+    "premium": true,
+    "rating": {
+        "likeCount": 586,
+        "average": 4.24,
+        "count": 834
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "CalamityFull",
+            "name": "Killing Floor: Calamity",
+            "description": "This unlocks the full game - 9 new maps and all your favorite characters, weapons and Zeds!\r\n",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

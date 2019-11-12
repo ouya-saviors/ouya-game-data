@@ -1,0 +1,75 @@
+{
+    "packageName": "com.Atelerix",
+    "title": "Atelerix",
+    "description": "Help Atelerix on his quest to retrieve all the gems that the robo-badgers have stolen and hidden in a giant death trap!\nLuckily Atelerix is the bounciest and stickiest hedgehog around, something that will come in handy when trying to complete his task!\nAll you need to do to complete a level is collect all the gems before the time runs out.\nCollect extra time and strawberries a long the way for extra points!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "6f2692c9-d417-49b6-9d04-b71c1acef149",
+            "date": "2016-01-25T21:36:49Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.Atelerix_1.0\/Atelerix.Android.Application_1.0_com.Atelerix.apk",
+            "size": 20937119,
+            "md5sum": "895ac71cb666af0478f95366e90fbce2",
+            "publicSize": 285974,
+            "nativeSize": 988928
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.atelerix\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gthaRdFuQ02dNx1XrXdq",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VeYkzqXlRKiYLYNW3z4B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X8sJZoMRuO1TodmB0b6Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5MYrx9qzRYW90X3ELHCL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KRoaposgSsCAfIWg6jJ5"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/reu760_ouya-screenshot20160121-3-1fczsy7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/thumbnails\/thumbnail20160121-3-667fkg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/oss470_ouya-screenshot20160121-3-etz54s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/thumbnails\/thumbnail20160121-3-qgt758.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/xe63kw_ouya-screenshot20160121-3-o6hpy5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/thumbnails\/thumbnail20160121-3-oid6zx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/mzl8nq_ouya-screenshot20160121-3-x9h3mr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f2692c9-d417-49b6-9d04-b71c1acef149\/thumbnails\/thumbnail20160121-3-1mvq6mx.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "3adb23fe-0f38-4012-a66e-4cd7bee37efa",
+        "name": "Cogitare Computing",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.cogitarecomputing.com",
+    "firstPublishedAt": "2016-01-25T21:36:49Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Cogitare Computing.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.5,
+        "count": 8
+    }
+}

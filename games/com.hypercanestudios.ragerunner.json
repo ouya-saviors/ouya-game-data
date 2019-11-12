@@ -1,0 +1,98 @@
+{
+    "packageName": "com.hypercanestudios.ragerunner",
+    "title": "Rage Runner",
+    "description": "Rage Runner is a fast paced 3D runner that will challenge your memory and reflexes.  Blast through miles of trench as you avoid an onslaught of fast and furious obstacles.  \r\n\r\nAlso includes a level editor.\r\n1.4.3 Changes:\r\n* Performance improvements for obstacle-heavy scenes\r\n* UPDATED Levels K1, 3-5, 7 have been tuned and enhanced\r\n* FIXED Ship now rotates when vertical\r\n* FIXED Reset shield count on death\r\n* FIXED Lens flares now properly vanish when obscured by an object\r\n\r\n1.4.0 Changes:\r\n* UPDATED Powerup mechanics - powerups are now generic and the player chooses which ability to use\r\n* ADDED super thruster powerup\r\n* ADDED special FX to missiles and camera\r\n* ADDED inspirational quotes to rally the player\r\n* FIXED level editor bug that prevented changing materials, music and time\r\n\r\n----\r\n\r\nTo see the privacy policy and a list of attributions for Rage Runner, please visit:\r\nhttp:\/\/ragerunner.hypercanestudios.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "Short on Time?",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.4.3",
+            "versionCode": 0,
+            "uuid": "e0025feb-9291-4d97-a9e1-1d8ab6fdcb18",
+            "date": "2014-02-03T19:47:27Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.hypercanestudios.ragerunner_1.4.3\/Rage Runner_1.4.3_com.hypercanestudios.ragerunner.apk",
+            "size": 89980866,
+            "md5sum": "1362f0ef23631aadad58562ee0521363",
+            "publicSize": 317784,
+            "nativeSize": 9472616
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hypercanestudios.ragerunner\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qlvnaF4sTCpS3gOgZknF",
+        "video": "https:\/\/vimeo.com\/84813068",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HYIRlxKrQSiobAF5B7Nh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ieQD7okQz2U0gJA9TTow",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qp3VpvzKSNsyZUXpbscJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6V7EMfAQdO0wXerCyquw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MtACRfg2TCWPiE7QtiW2"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84813068"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HYIRlxKrQSiobAF5B7Nh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HYIRlxKrQSiobAF5B7Nh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ieQD7okQz2U0gJA9TTow\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ieQD7okQz2U0gJA9TTow\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qp3VpvzKSNsyZUXpbscJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qp3VpvzKSNsyZUXpbscJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/6V7EMfAQdO0wXerCyquw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/6V7EMfAQdO0wXerCyquw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MtACRfg2TCWPiE7QtiW2\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MtACRfg2TCWPiE7QtiW2\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Hypercane Studios",
+        "supportEmail": "hypercanestudios@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.hypercanestudios.com",
+    "firstPublishedAt": "2013-03-26T01:42:58Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Hypercane Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 136,
+        "average": 3.13,
+        "count": 48
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "RAGE_RUNNER_UNLOCK",
+            "name": "Rage Runner",
+            "description": "A fast-paced runner that will challenge your memory and reflexes AND build your self-efficacy!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

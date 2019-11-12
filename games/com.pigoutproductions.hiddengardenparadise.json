@@ -1,0 +1,86 @@
+{
+    "packageName": "com.pigoutproductions.hiddengardenparadise",
+    "title": "Hidden Garden Paradise",
+    "description": "Hidden Garden is back with Hidden Garden Paradise. Continue your journey through the Hidden Gardens in this relaxing and beautiful hidden object adventure game. Relax and enjoy the gorgeous scenery as you find hundreds of butterflies, birds, lady bugs, hearts, and honey bees throughout more breathtaking locations. Four brand new amazing musical compositions are included for you to choose from.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "cf8bf4b1-78d6-4885-abbb-0379615b1873",
+            "date": "2014-07-11T17:25:20Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.hiddengardenparadise_1.0\/Hidden Garden Paradise_1.0_com.pigoutproductions.hiddengardenparadise.apk",
+            "size": 42594880,
+            "md5sum": "771ca049fcb20c5d96fd9cc873642c45",
+            "publicSize": 451808,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.hiddengardenparadise\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PJqMD58pSmyZSNL37gkQ",
+        "video": "https:\/\/vimeo.com\/100834132",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/euQRMJDT0GKhwO41Zl8o",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Id0TzMi6RsuAybRIbg8L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m09h4PRpaJooLOQqer5Q"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100834132"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cf8bf4b1-78d6-4885-abbb-0379615b1873\/qx0jo6_ouya-screenshot20140710-2-btzyw2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cf8bf4b1-78d6-4885-abbb-0379615b1873\/thumbnails\/thumbnail20140710-2-13le818.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cf8bf4b1-78d6-4885-abbb-0379615b1873\/zktwty_ouya-screenshot20140710-2-srjdpn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cf8bf4b1-78d6-4885-abbb-0379615b1873\/thumbnails\/thumbnail20140710-2-dxp74c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cf8bf4b1-78d6-4885-abbb-0379615b1873\/k5q3s3_ouya-screenshot20140710-2-19f68nm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cf8bf4b1-78d6-4885-abbb-0379615b1873\/thumbnails\/thumbnail20140710-2-4gioir.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-07-11T17:25:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.5,
+        "count": 2
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HGParadise",
+            "name": "Hidden Garden Paradise",
+            "description": "Continue your journey through the Hidden Gardens in this relaxing and beautiful hidden object adventure game?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

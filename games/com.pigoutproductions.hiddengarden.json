@@ -1,0 +1,92 @@
+{
+    "packageName": "com.pigoutproductions.hiddengarden",
+    "title": "Hidden Garden",
+    "description": "Take a journey through the Hidden Gardens in this beautiful hidden object adventure game. Relax and enjoy the gorgeous scenery as you find hundreds of butterflies, birds, lady bugs, and hearts throughout many breathtaking locations. The stunning visuals are accompanied by four equally stunning musical compositions of your choosing.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "11c94c33-12d2-4025-954c-4636338a9c94",
+            "date": "2014-07-07T17:35:33Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.hiddengarden_1.0\/Hidden Garden_1.0_com.pigoutproductions.hiddengarden.apk",
+            "size": 41770948,
+            "md5sum": "1be2ddbf97ac68f32a303a92386bf7e7",
+            "publicSize": 447256,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.hiddengarden\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FYiZVfSCTMKsY71fzW00",
+        "video": "https:\/\/vimeo.com\/99271599",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d5qliSR7TYeMkXAFwxni",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M5IeOPvQx28bN0jROQvr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ls2QHkzjQFq6Qf2ANYpB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gtOVgUsITsapwcFgGrXN"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/99271599"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/rg3h1p_ouya-screenshot20140701-2-npnaef.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/thumbnails\/thumbnail20140701-2-cbtqzn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/wbup4h_ouya-screenshot20140701-2-1kspd60.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/thumbnails\/thumbnail20140701-2-2cmobt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/laivjf_ouya-screenshot20140701-2-1wdbftb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/thumbnails\/thumbnail20140701-2-1gw6zjl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/li6y3d_ouya-screenshot20140701-2-k59gvp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/11c94c33-12d2-4025-954c-4636338a9c94\/thumbnails\/thumbnail20140701-2-1pvbvx6.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-07-07T17:35:33Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.27,
+        "count": 11
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HG_IAP",
+            "name": "Hidden Garden Full Game",
+            "description": "Enjoy 25 visually stunning levels, 4 beautiful musical compositions, and hundreds of hidden objects to find.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

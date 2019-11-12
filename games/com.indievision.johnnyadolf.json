@@ -1,0 +1,97 @@
+{
+    "packageName": "com.indievision.johnnyadolf",
+    "title": "Johnny Adolf - The Floppy Duck",
+    "description": "One sunny spring morning, Johnny decides to beat his high score in Flap... Bir.... Unfortunately, it just isn't his day. But lo' and behold - a bottle of Adolf comes to the rescue. After gulping it down, Johnny's ready to take his little adventure to the next stage...\r\n\r\nBecome the pigiest of pigs, the hamiest of hams! Fart, divide and conquer, and send those ducks flying high... *Flapping* high. Experience a game that holds no punches and isn't afraid to be absolutely outrageous.\r\n\r\nThere might be other Flap.. Bi.. clones out there... But how many of them include sharp-as-hell electric saws, an intoxicated pig and ducks that just can't wait to have their guts spilled all over the muddy terrain. Now go, piglets. Go and make 'em flap.\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "dc4b5176-d830-4426-a4ff-88a4c3151228",
+            "date": "2014-04-25T08:49:50Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.indievision.johnnyadolf_1.2\/Johnny Adolf The Floppy Duck_1.2_com.indievision.johnnyadolf.apk",
+            "size": 49530967,
+            "md5sum": "7c3781825ca92d2db3dec59bcef71a39",
+            "publicSize": 48150871,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.indievision.johnnyadolf\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kkVZ13CxRbGTozy6KPgJ",
+        "video": "https:\/\/vimeo.com\/92850093",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jvfRNSVCT4u8ZdAuNkuE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/siw8ww8gSReyYhrd1Leo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/asgljJbREqMah0oQis4g",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9qs4qXehSouk53X9XJDk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TiuefFesRCmolHItRRpr"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/92850093"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jvfRNSVCT4u8ZdAuNkuE\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jvfRNSVCT4u8ZdAuNkuE\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/siw8ww8gSReyYhrd1Leo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/siw8ww8gSReyYhrd1Leo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/asgljJbREqMah0oQis4g\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/asgljJbREqMah0oQis4g\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9qs4qXehSouk53X9XJDk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9qs4qXehSouk53X9XJDk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/TiuefFesRCmolHItRRpr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TiuefFesRCmolHItRRpr\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Indievision",
+        "supportEmail": "szyfrq@o2.pl",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "https:\/\/www.facebook.com\/johnnyadolf",
+    "firstPublishedAt": "2014-04-25T08:49:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2014 by Indievision.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.9,
+        "count": 41
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "1",
+            "name": "Johnny Adolf - The Floppy Duck",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "packageName": "com.skullskillstudios.firewithfire",
+    "title": "Fire With Fire Tower Attack and Defense: Early Access",
+    "description": "Early Access Release!\r\n\r\nFire with Fire is an online one vs one tower defense strategy game about ascendant fireball creatures fighting over the last remaining fuel sources of a dying planet. Save the trees and rise up the leader boards. Many unique towers and creeps available for your roster, with new content added every 2-3 weeks.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "0.9.9",
+            "versionCode": 9009,
+            "uuid": "e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d",
+            "date": "2016-06-12T16:44:32Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.skullskillstudios.firewithfire_0.9.9\/Fire With Fire Tower Attack and Defense_0.9.9_com.skullskillstudios.firewithfire.apk",
+            "size": 30642478,
+            "md5sum": "2e12274294b0ccb28720a285a8113758",
+            "publicSize": 1175186,
+            "nativeSize": 8821100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.skullskillstudios.firewithfire\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5fkkErmFRqvjEvtMQhNZ",
+        "video": "https:\/\/vimeo.com\/160120851",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kLic2sxCQ6Sw33jphSgE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IY5jgAQERV2CoCDpiAS2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cL7NPJpHRTG2VuagPMuq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xRzAniarSciXKsBiLz7c",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Iezwx9IMT3mN95KQVAs1"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/160120851"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/30rf40_ouya-screenshot20160609-3-1jn2gcz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/thumbnails\/thumbnail20160609-3-cgt831.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/74d5r4_ouya-screenshot20160609-3-w1bnqo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/thumbnails\/thumbnail20160609-3-1wxfcjg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/jrt7rp_ouya-screenshot20160609-3-1gsb14p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/thumbnails\/thumbnail20160609-3-tdc124.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/t61a13_ouya-screenshot20160609-3-gzm0lz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/thumbnails\/thumbnail20160609-3-o2fa95.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/ygm19s_ouya-screenshot20160609-3-1mvyeeb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e0db6d41-a8ea-4c74-9a4e-1f5594c8a28d\/thumbnails\/thumbnail20160609-3-yr9kgx.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "55dfbedc-7229-4b3e-be41-1d22aaa73427",
+        "name": "Theory Georgiou",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "firewithfiregame.com",
+    "firstPublishedAt": "2016-03-29T21:46:37Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2016 by Theory Georgiou.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 1.74,
+        "count": 19
+    }
+}

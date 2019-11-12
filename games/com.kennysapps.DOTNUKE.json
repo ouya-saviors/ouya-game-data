@@ -1,0 +1,98 @@
+{
+    "packageName": "com.kennysapps.DOTNUKE",
+    "title": "DOTNUKE",
+    "description": "A zen-like, experimental art game.\r\n\r\n- How do you play?\r\n- What is the goal?\r\n\r\nRelax and enjoy.\r\n\r\nWAR: How quickly can you \u2018detonate\u2019?\r\nPEACE: How long can you survive before \u2018detonation\u2019?\r\n\r\n@KennysApps",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Entertainment",
+        "Meditative"
+    ],
+    "releases": [
+        {
+            "name": "2.6.6",
+            "versionCode": 0,
+            "uuid": "7f4892b6-27c2-47ce-9346-cf02ec9dd124",
+            "date": "2015-04-16T19:37:28Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.kennysapps.DOTNUKE_2.6.6\/DOTNUKE_2.6.6_com.kennysapps.DOTNUKE.apk",
+            "size": 12042841,
+            "md5sum": "ca6d2c2cd25928dbb10bf7309cddcb18",
+            "publicSize": 773675,
+            "nativeSize": 10417204
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kennysapps.dotnuke\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X4EG0oGGT2u9MjOkvcHy",
+        "video": "https:\/\/vimeo.com\/124864135",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t8kQdEQYSv2WFqbjhK8x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AF9c7vzTiGSbImSN1kfP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XaqLgh9USFqlyFCnDcDM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TJaj6uCXR2mH8M5zQg1C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LsCMhL2tS3itg6niKs4K"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/124864135"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/7ing2e_ouya-screenshot20150413-3-9f3f28.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/thumbnails\/thumbnail20150413-3-h00cya.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/z7kd8u_ouya-screenshot20150413-3-a4v1gu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/thumbnails\/thumbnail20150413-3-1juc74l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/pvbixi_ouya-screenshot20150413-3-1h87y9c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/thumbnails\/thumbnail20150413-3-az7fjy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/pmihjy_ouya-screenshot20150413-3-5d3t8v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/thumbnails\/thumbnail20150413-3-1f4peho.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/1sifu4_ouya-screenshot20150413-3-1eferfr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7f4892b6-27c2-47ce-9346-cf02ec9dd124\/thumbnails\/thumbnail20150413-3-1qccb1a.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "be559626-667f-464c-8ac7-7ced4c723efb",
+        "name": "Kenny's Apps, LLC",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/kennysapps.com",
+    "firstPublishedAt": "2015-04-16T19:37:28Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by Kenny's Apps, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 4
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "dotnukefullgameunlock",
+            "name": "DOTNUKE",
+            "description": "Full Game Unlock",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

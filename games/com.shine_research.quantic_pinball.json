@@ -1,0 +1,98 @@
+{
+    "packageName": "com.shine_research.quantic_pinball",
+    "title": "Quantic Pinball",
+    "description": "Quantic Pinball is the perfect fusion between a pinball game and arcade classic gameplays !\r\n\r\nCountless features, including :\r\n- Non-stop arcade action\r\n- Incredibly realistic physics\r\n- 8 different game modes\r\n- 7 original tables\r\n- ...and a special one for retro-arcade addicts!\r\n\r\nEach game mode features a special gameplay:\r\n- Shoot them up\r\n- Multiball\r\n- Balls teleportation\r\n- Magnetic fields\r\n- Black out\r\n- Ramps hide and seek\r\n\r\nA must have!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.03",
+            "versionCode": 0,
+            "uuid": "1767727d-dcc4-427c-877f-a89791bc7a7a",
+            "date": "2014-12-02T06:13:13Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.shine_research.quantic_pinball_1.03\/Quantic Pinball_1.03_com.shine_research.quantic_pinball.apk",
+            "size": 45751204,
+            "md5sum": "40362f84f609401fb5c33544248e6596",
+            "publicSize": 626033,
+            "nativeSize": 4102180
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.shine_research.quantic_pinball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HTtPVeSfSvzxdavDpktg",
+        "video": "https:\/\/vimeo.com\/112591539",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OoJ0dB7gTamx51viR44K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rXNsJ9b8RBiexum1mLoW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I5Kr6IAxSu2EriztkaOC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BwPh6ujvT5GkDJSA6NmR",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IlSiaO3XS92jCCIA1cQt"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/112591539"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/8w4ctm_ouya-screenshot20140926-2-ev1eke.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/thumbnails\/thumbnail20140926-2-ztcm1u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/5rh52u_ouya-screenshot20140926-2-zoixuw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/thumbnails\/thumbnail20140926-2-1nzeg0d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/1jl7l_ouya-screenshot20140926-2-1yrebdd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/thumbnails\/thumbnail20140926-2-11o37ju.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/e1urie_ouya-screenshot20140926-2-n2zfia.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/thumbnails\/thumbnail20140926-2-1f1e3s4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/ugmxor_ouya-screenshot20140926-2-1y1cu7u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1767727d-dcc4-427c-877f-a89791bc7a7a\/thumbnails\/thumbnail20140926-2-18g8hcd.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Shine Research",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.shine-research.com",
+    "firstPublishedAt": "2014-12-02T06:13:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Shine Research.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.85,
+        "count": 26
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "quantic_pinball",
+            "name": "Quantic Pinball",
+            "description": "Quantic Pinball, the perfect fusion between a pinball game and arcade classic gameplays !\r\n",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "USD"
+        }
+    ]
+}

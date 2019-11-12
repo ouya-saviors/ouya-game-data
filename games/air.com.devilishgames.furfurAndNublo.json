@@ -1,0 +1,98 @@
+{
+    "packageName": "air.com.devilishgames.furfurAndNublo",
+    "title": "Furfur and Nublo",
+    "description": "Dive into the exciting world of Furfur and Nublo, switch control between the two main characters, solve puzzles, face danger and pass all 46 levels to complete the game.\r\n\r\nFeatures: \r\n- 46 challenging levels. \r\n- Innovative gameplay. \r\n- Artistic and spectacular graphics. \r\n- Excellent sound atmosphere.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "012c97c9-db3d-459d-ba2a-7e2c539d7813",
+            "date": "2014-11-26T16:45:47Z",
+            "url": "https:\/\/archive.org\/download\/ouya_air.com.devilishgames.furfurAndNublo_1.0\/FurfurAndNublo_1.0_air.com.devilishgames.furfurAndNublo.apk",
+            "size": 19972674,
+            "md5sum": "7771108b8929ae64763eed624b0dfbd2",
+            "publicSize": 589604,
+            "nativeSize": 20115451
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.devilishgames.furfurandnublo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B1lcogS4S3ud95TRY4cf",
+        "video": "https:\/\/vimeo.com\/105964903",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/84Qv59bKThWdEJj4WYm9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O7jmxPlnSmCvJS0tE9qP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vwjppc7pRwiJGVdQq03K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o9hfsLpRyhWiaVe3XrGg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y9pRlhvcSK8DQ4h4uUjA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/105964903"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/92bnjp_ouya-screenshot20141119-2-js4wdj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/thumbnails\/thumbnail20141119-2-1tzhykz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/qt8n0w_ouya-screenshot20141119-2-b16bdc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/thumbnails\/thumbnail20141119-2-4f4t1v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/i73c3c_ouya-screenshot20141119-2-z81lv2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/thumbnails\/thumbnail20141119-2-fbhbcz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/erdrap_ouya-screenshot20141119-2-heg90l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/thumbnails\/thumbnail20141119-2-xis615.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/a5rqgn_ouya-screenshot20141119-2-kepg5j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/012c97c9-db3d-459d-ba2a-7e2c539d7813\/thumbnails\/thumbnail20141119-2-7awajw.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SPHERICAL PIXEL, S.L",
+        "supportEmail": "info@devilishgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.devilishgames.com",
+    "firstPublishedAt": "2014-11-26T16:45:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by SPHERICAL PIXEL, S.L.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.08,
+        "count": 12
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "furfurandnublo",
+            "name": "Furfur & Nublo",
+            "description": "You're about to enter the exciting world of Furfur and Nublo, 46 levels of fun.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "packageName": "com.seventeenbit.skullsoftheshogun",
+    "title": "Skulls of the Shogun",
+    "description": "Take up arms as the tough-as-nails General Akamoto, a bone-faced commander who continues to fight even through the cold dark of death itself. Skulls of the Shogun is an arcade-style turn-based strategy game optimized for tactical and adaptive play. Command stoic skeletal warriors, call upon mercurial animal spirit-monks for power and guidance, and consume the skulls of their enemies to gain fiendish new powers.  Get ready to take on the afterlife through an extensive 10-15 hour single-player campaign, local multiplayer, and turn-by-turn online multiplayer for up to 4 players!\r\n\r\n\"...we found Skulls of the Shogun to be an absolutely enjoyable experience \u2013 so much so that we gave it a perfect score.\"\r\n5\/5 - Joystiq\r\n\r\n\"Fast, compact and yet consistently thoughtful, there's nothing else quite like Skulls of the Shogun - and, for me, it earns its place amongst the genre's greats. \" \r\n9\/10 - Eurogamer \r\n\r\n\"Equal parts quirky and complex, it only comes to prove that the glory days of this often forgotten genre aren\u2019t quite gone.\" \r\n8.6\/10 - Gametrailers",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Multiplayer",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.33",
+            "versionCode": 0,
+            "uuid": "97e6c6c3-db9b-463b-b345-512bde8999eb",
+            "date": "2014-11-10T21:23:27Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.seventeenbit.skullsoftheshogun_1.33\/Skulls of the Shogun_1.33_com.seventeenbit.skullsoftheshogun.apk",
+            "size": 240090264,
+            "md5sum": "8063b6cb37c57d8b825e628a1a8f5ba5",
+            "publicSize": 1556819,
+            "nativeSize": 6160556
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.seventeenbit.skullsoftheshogun\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2sluLiFoQiiHfLQpNd82",
+        "video": "http:\/\/vimeo.com\/109552749",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5oWXCv2TdiAoZCPsiUpw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I861iQxVQaKWXGa0sniS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V3h75E6Q6aex2bA5rSPw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n2w3qRRgKi7vAIMZFYwq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BtFNWP0bT56F2gxUKwU2"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/109552749"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/hh1jsh_ouya-screenshot20141107-2-vpb7km.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/thumbnails\/thumbnail20141107-2-ijukbt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/o0hgta_ouya-screenshot20141107-2-ctg0vf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/thumbnails\/thumbnail20141107-2-3th3y5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/ad173t_ouya-screenshot20141107-2-1w56y8w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/thumbnails\/thumbnail20141107-2-5zpk4x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/srng8d_ouya-screenshot20141107-2-17xcqt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/thumbnails\/thumbnail20141107-2-1gyhjc9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/lons_ouya-screenshot20141107-2-ptk05c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97e6c6c3-db9b-463b-b345-512bde8999eb\/thumbnails\/thumbnail20141107-2-v459lr.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "e8bed9a5-9217-4d5d-a7b2-6eb4c40cfac7",
+        "name": "17-BIT",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.17-bit.com",
+    "firstPublishedAt": "2014-10-28T04:55:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by 17-BIT.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.86,
+        "count": 28
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_seventeenbit_skullsoftheshogun",
+            "name": "Skulls of the Shogun",
+            "description": "Arcade-style turn-based strategy featuring an epic single player campaign, and 2-4 player deathmatch locally or online!",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,99 @@
+{
+    "packageName": "com.strikewing.GG_green",
+    "title": "Strike Wing: Raptor Rising",
+    "description": "Take over the stars, blast through enemy fighter waves and destroy capital ships while piloting the most advanced fighters in the galaxy. \r\n\r\nStrike Wing is a single player space combat simulator that combines sharp controls, beautiful graphics and adaptable missions to create an unique space combat experience for OUYA. \r\n\r\n= BEAUTIFUL GRAPHICS =\r\nFly beautifully designed ships in asteroid fields, around planetary orbits or in deep space. Experience a colorful and vibrant representation of space on your mobile device. \r\n\r\n= WIDE ARRAY OF SHIPS =\r\nChoose from super-fast and nimble fighters to heavy torpedo bombers, each with their own strengths, weaknesses and style of play. Progress through the levels to gain access to more ships and features!\r\n\r\n= ADAPTABLE MISSIONS =\r\nMissions adapt to your style of play, to your skill and ship choice to give you a consistent challenge every time you play. Need an extra challenge? You can make each mission more difficult at a flip of a switch and reap better rewards.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Fight!",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "5.0",
+            "versionCode": 0,
+            "uuid": "d45fdad4-db4c-4ccb-b2c2-658b7558885d",
+            "date": "2014-10-27T15:36:40Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.strikewing.GG_green_5.0\/Strike Wing_ Raptor Rising_5.0_com.strikewing.GG_green.apk",
+            "size": 53158094,
+            "md5sum": "de37f4eac04bef0727a1f39015394544",
+            "publicSize": 50694940,
+            "nativeSize": 4759356
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.strikewing.gg_green\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TFoEBqoOTEemE5krhSym",
+        "video": "https:\/\/vimeo.com\/109566185",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MyfNMvGjQakvNvg1ZLnG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SxxQWU84T4eO9FbKNEhA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rRk85xN9TaOtb31B3ZZH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/r5vO9zDeQgGh1zXrc2aQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t7fo7OkKTTie8bZBurnH"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/109566185"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/zad9mn_ouya-screenshot20141024-2-1m1pjz5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/thumbnails\/thumbnail20141024-2-duggwk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/v16gf7_ouya-screenshot20141024-2-l9ot5w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/thumbnails\/thumbnail20141024-2-iuwrci.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/bw21i8_ouya-screenshot20141024-2-1ov74wt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/thumbnails\/thumbnail20141024-2-kf3l44.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/2mjbbv_ouya-screenshot20141024-2-1hv76mq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/thumbnails\/thumbnail20141024-2-1a9hy6d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/dx41kf_ouya-screenshot20141024-2-18t3r3e.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d45fdad4-db4c-4ccb-b2c2-658b7558885d\/thumbnails\/thumbnail20141024-2-1azx14s.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Crescent Moon Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.crescentmoongames.com",
+    "firstPublishedAt": "2014-10-22T21:19:05Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Crescent Moon Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.22,
+        "count": 76
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "swrr_buy_fullversion",
+            "name": "Strike Wing:Raptor Rising Full Game",
+            "description": "Strike Wing is a single player space combat simulator that brings beautiful visuals and adaptable missions to create an unique experience.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

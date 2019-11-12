@@ -1,0 +1,124 @@
+{
+    "packageName": "com.semaphore.unearthedep1ouya",
+    "title": "Unearthed: Trail of Ibn Battuta",
+    "description": "Unearthed is an episodic third person action adventure game set in modern day Middle East. Available in full Arabic and English voiceover and in 21 languages for menus and subtitles. \r\n\r\nWhen fortune hunter Faris Jawad and his sister Dania receive a call to visit Morocco they embark on an exotic adventure throughout the Middle East on the trail of the famous Muslim explorer Ibn Battuta. \r\n\r\nThe trail won't be clear however as Faris will have to overcome an unholy alliance of a militia army leader, a weapons dealer and a wealthy antiquities smuggler who are after the same goal. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "33f73253-ab2f-4763-998d-4a16b0fddee5",
+            "date": "2014-06-18T13:05:23Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.semaphore.unearthedep1ouya_1.2\/UnearthedEpisode1_1.2_com.semaphore.unearthedep1ouya.apk",
+            "size": 1800431506,
+            "md5sum": "c935aa58c49713ad9c3092a15fb99a40",
+            "publicSize": 524258,
+            "nativeSize": 285404
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.semaphore.unearthedep1ouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/57wEmrHRN6a6JUxG3nKH",
+        "video": "http:\/\/vimeo.com\/95974757",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fwqamf2wT7y5w3Ky1y7S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s14Nmr5TSgaQRWwHfg3V",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VqXgvaalQ4u4iHd1z4zq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OEnNPOqHQfmdLRzkxoAe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/79FBEyZtS0KxHYZfdrvc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5b8TdP4nRGWAydB81ctA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YZVikRuQZeOnOr9yeDGs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZoTCKhjJRa2MTR5Slp8n",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v7SUFD3QSLOTX9zSezVQ"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/95974757"
+            },
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/96060442"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Fwqamf2wT7y5w3Ky1y7S",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Fwqamf2wT7y5w3Ky1y7S"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/s14Nmr5TSgaQRWwHfg3V",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/s14Nmr5TSgaQRWwHfg3V"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/VqXgvaalQ4u4iHd1z4zq",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/VqXgvaalQ4u4iHd1z4zq"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OEnNPOqHQfmdLRzkxoAe",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OEnNPOqHQfmdLRzkxoAe"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/79FBEyZtS0KxHYZfdrvc",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/79FBEyZtS0KxHYZfdrvc"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/5b8TdP4nRGWAydB81ctA",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/5b8TdP4nRGWAydB81ctA"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/YZVikRuQZeOnOr9yeDGs",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/YZVikRuQZeOnOr9yeDGs"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZoTCKhjJRa2MTR5Slp8n",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZoTCKhjJRa2MTR5Slp8n"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v7SUFD3QSLOTX9zSezVQ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v7SUFD3QSLOTX9zSezVQ"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Semaphore Studios",
+        "supportEmail": "info@sema-phore.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.unearthedgame.com",
+    "firstPublishedAt": "2014-06-18T13:05:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Semaphore Studios.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.77,
+        "count": 177
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Full_Purchase",
+            "name": "Unearthed: Trail of Ibn Battuta - Episode 1",
+            "description": "Episodic 3RD Action Adventure game set in modern day Middle East. Available in Arabic and English voice over with 21 Languages for subtitles",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

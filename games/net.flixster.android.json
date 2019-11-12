@@ -1,0 +1,77 @@
+{
+    "packageName": "net.flixster.android",
+    "title": "Flixster",
+    "description": "Movies by Flixster. The top app for movie reviews, trailers, Rotten Tomatoes ratings, and accessing your UltraViolet digital movie collection.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "5.3.0.04",
+            "versionCode": 0,
+            "uuid": "f0f7ea6c-3163-43fb-bdcc-01b2a7e040ec",
+            "date": "2013-08-07T20:57:59Z",
+            "url": "https:\/\/archive.org\/download\/ouya_net.flixster.android_5.3.0.04\/Flixster_5.3.0.04_net.flixster.android.apk",
+            "size": 6873950,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.flixster.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ziNW3qJOQ9S2lt36sijH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WYMXNQe6QvGWP5H1pgPX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1SV2cSt1SzuPdrhEqeTZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fQ8iE2kmR3Nv858kSe1S",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V1IGxNtSmMHs5swetXPw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/WYMXNQe6QvGWP5H1pgPX\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/WYMXNQe6QvGWP5H1pgPX\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1SV2cSt1SzuPdrhEqeTZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1SV2cSt1SzuPdrhEqeTZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/fQ8iE2kmR3Nv858kSe1S\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/fQ8iE2kmR3Nv858kSe1S\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/V1IGxNtSmMHs5swetXPw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/V1IGxNtSmMHs5swetXPw\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Flixster Inc.",
+        "supportEmail": "android@flixster-inc.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/flixster.desk.com\/customer\/portal\/topics\/28130-movies-on-android",
+    "firstPublishedAt": "2013-06-28T19:56:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2013 by Flixster Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 338,
+        "average": 4.05,
+        "count": 104
+    }
+}

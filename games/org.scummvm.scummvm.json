@@ -1,0 +1,70 @@
+{
+    "packageName": "org.scummvm.scummvm",
+    "title": "ScummVM",
+    "description": "ScummVM is a collection of Virtual Machines for playing classic graphical point-and-click adventure games on modern hardware.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.9.0",
+            "versionCode": 20,
+            "uuid": "3d67b663-b68c-4edb-8ec1-8d601e0f12f0",
+            "date": "2016-10-24T18:56:36Z",
+            "url": "https:\/\/archive.org\/download\/ouya_org.scummvm.scummvm_1.9.0\/ScummVM_1.9.0_org.scummvm.scummvm.apk",
+            "size": 16948595,
+            "md5sum": "896bd6c2be94b01a29d547d509856981",
+            "publicSize": 181117,
+            "nativeSize": 27341140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.scummvm.scummvm\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tlXCOdvSsCBVO2nuCDKQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OxbVW4RDQ2KFCC3FvHxE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jsogRF66TcmunOrTri2T",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Oq7SWST26cQ6YjNR4VgA"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3d67b663-b68c-4edb-8ec1-8d601e0f12f0\/ouya-image20161022-3-1j1jd8g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3d67b663-b68c-4edb-8ec1-8d601e0f12f0\/thumbnail20161022-3-2f3w7p.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3d67b663-b68c-4edb-8ec1-8d601e0f12f0\/ouya-image20161022-3-vp3f3m.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3d67b663-b68c-4edb-8ec1-8d601e0f12f0\/thumbnail20161022-3-n9xies.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3d67b663-b68c-4edb-8ec1-8d601e0f12f0\/ouya-image20161022-3-1f8bjvx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3d67b663-b68c-4edb-8ec1-8d601e0f12f0\/thumbnail20161022-3-1jp6ou4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "02bbdc3e-0c4c-44c9-bf02-4c3f845f30b9",
+        "name": "ScummVM Project",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/scummvm.org",
+    "firstPublishedAt": "2016-10-24T18:56:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2016 by ScummVM Project.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.16,
+        "count": 38
+    }
+}

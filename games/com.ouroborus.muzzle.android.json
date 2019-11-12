@@ -1,0 +1,93 @@
+{
+    "packageName": "com.ouroborus.muzzle.android",
+    "title": "Muzzle to Muzzle",
+    "description": "Four critters fight claw and fang for dominance in a 2-4 player tactical arena shooter!\n\n- Choose your weapon! Hunt your friends with bolt action rifles, explosives, jump or melee attacks, or watch them die to environmental hazards\n- Fight with four unique critters across eight stock habitats and three distinct game types!\n- Limitless content - make your own habitats with the super easy play-while-you-create editor\n- Keep track of your conquests with user profiles and stats tracking!\n\nUpdate 1.0.1: Adds support for Ouya Everywhere, along with fixing a whole load of bugs, adds a subtle aim assist, button configuration and minor improvements to 'Snowstorm' and 'Skyscraper' habitats.\n\nUpdate 1.0.2: Adds Razer Forge TV support, stats tracking, improved melee mechanics (and new aerial melee), improved tile collision, improved aiming, minor tile improvements, improvements to background painting in edit mode and improved UI.\n\nUpdate 1.0.3: Adds tips to pause menu, and fixes a couple Forge TV crashes, fixes some UI glitches (particularly when loading, saving or deleting habitats).\n\nUpdate 1.0.4: Adds USER PROFILES! Now you can give yourself a name and track your own personal stats and prove once and for all whose the baddest critter in the habitat. Also adds a new lava waterfall tile, removes the broken aim assist, improves melee collision, makes some tutorial clarifications and adds a new 'time spent' stat.",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Fight!",
+        "Multiplayer",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.5",
+            "versionCode": 6,
+            "uuid": "477c7460-0e85-412e-85d5-477afcdfd38f",
+            "date": "2016-07-19T23:46:51Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.ouroborus.muzzle.android_1.0.5\/Muzzle to Muzzle_1.0.5_com.ouroborus.muzzle.android.apk",
+            "size": 28215374,
+            "md5sum": "21b66ba982bd86ea279bc9b5a5d7842b",
+            "publicSize": 297174,
+            "nativeSize": 2141788
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ouroborus.muzzle.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kER8TsKoRdicFH1BLHxc",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7XeApW4IQR6IMXWlt5TM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FWK4PimLRqW1Rn3GNp4P",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/veOO6rx7TkOmxjuFkVaw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nCHWn4RYQOW5wuzIwqbK"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/vn4omd_ouya-screenshot20160719-3-h5yjaw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/thumbnails\/thumbnail20160719-3-11ha5hh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/a63qfb_ouya-screenshot20160719-3-10fcg3h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/thumbnails\/thumbnail20160719-3-1dsr29f.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/h88xvo_ouya-screenshot20160719-3-6ac293.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/thumbnails\/thumbnail20160719-3-4bp5g1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/fc6i83_ouya-screenshot20160719-3-7u2qsr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/477c7460-0e85-412e-85d5-477afcdfd38f\/thumbnails\/thumbnail20160719-3-1qkkxfn.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "588f94ba-1471-4f5d-9616-4fb9b4f13ea9",
+        "name": "Ouroboros Softworks",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "",
+    "firstPublishedAt": "2016-02-29T16:04:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2016 by Ouroboros Softworks.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.69,
+        "count": 13
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BeerNPizza",
+            "name": "a beer and pizza for Ouroborus",
+            "description": "This gives you access to the beer mug & pizza tile set in Edit Mode + any future DLC Habitats or Critters the developers release.",
+            "localPrice": 8.99,
+            "originalPrice": 8.99,
+            "currency": "USD"
+        }
+    ]
+}

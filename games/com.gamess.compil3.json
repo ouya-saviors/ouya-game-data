@@ -1,0 +1,98 @@
+{
+    "packageName": "com.gamess.compil3",
+    "title": "3T Games Compilation 3",
+    "description": "3T Games compilation 3 is a compilation of 4 games in 1.Play Logan's treasure,Lazy caverns 2,Muffy Boy and Caverns of Venus.\r\n\r\nOn Logan's Treasure ,collect alls 40 keys and open the treasure chest.\r\nOn Lazy caverns 2,Roby kid's lost his marbles on the caves.Find all marbles .\r\nOn Muffy Boy,Collect all roby's Marbles and he leave your computer.\r\nOn Caverns of Venus ,help Morris to collect some fuel to escape from Venus.\r\n\r\nSupport Highscore online for all games",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a4824b4c-bdac-4007-b5d5-d95fd545aa8a",
+            "date": "2014-10-27T16:34:46Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.gamess.compil3_1.0\/3T Games Compil 3_1.0_com.gamess.compil3.apk",
+            "size": 13924466,
+            "md5sum": "e12737b112fe11b2d01c14fccbcc9cbf",
+            "publicSize": 13741469,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamess.compil3\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6QI1D16zTSor8UCdbfVS",
+        "video": "http:\/\/vimeo.com\/109858597",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z8atYN9QNCvjORvztSnQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tAU3u9alQQm6zZPOQTbY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UD36ePtR9mgNWRgT6qPD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MvX1oxiWTvmLVkJPfFmp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cDv8cO6tRWaPDjNZRcWn"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/109858597"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/wfwt1f_ouya-screenshot20141024-2-rfxozv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/thumbnails\/thumbnail20141024-2-1mzkk2a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/vildvi_ouya-screenshot20141024-2-n532l5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/thumbnails\/thumbnail20141024-2-zrbsgj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/binuuj_ouya-screenshot20141024-2-1vng2lp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/thumbnails\/thumbnail20141024-2-1wdwu5a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/816gdf_ouya-screenshot20141024-2-1e598cj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/thumbnails\/thumbnail20141024-2-1i48jly.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/2sm8m1_ouya-screenshot20141024-2-1s053b5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a4824b4c-bdac-4007-b5d5-d95fd545aa8a\/thumbnails\/thumbnail20141024-2-1ng60h.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-10-27T16:34:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by 3T Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 2
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "compil3",
+            "name": "3T Games Compil 3",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

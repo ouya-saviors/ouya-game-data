@@ -1,0 +1,98 @@
+{
+    "packageName": "com.gamesq.compil",
+    "title": "3T Games Compilation",
+    "description": "3T Games compilation is a compilation of 4 games in 1.Play Lazy caverns,The Blaggers,Mechanician Alex and Caverns of Venus 2.Play all this game if you love retro classics plateform.\r\nMake best score and compare it with other player at the worlds\r\n\r\nLazy Caverns\r\nFeatures:\r\n-retro graphic\r\n-30 Levels\r\n-High Score online\r\n\r\nThe Blaggers\r\nFeatures:\r\n-retro graphic\r\n-High Score online\r\n-More than 20 rooms.\r\n\r\nMechanician Alex:\r\nFeatures:\r\n-retro graphic\r\n-More than 20 rooms.\r\n\r\n\r\n\r\nCaverns of Venus 2:\r\n-20 Levels\r\n-Continue support\r\n\r\nHave Fun...\r\n\r\nFree update features:\r\nOther games come into this compilation...\r\n\r\n3T Games",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "961ba72b-95eb-4bbe-a15a-2d43db75235c",
+            "date": "2014-10-15T19:35:47Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.gamesq.compil_1.0\/3T Games Compilation_1.0_com.gamesq.compil.apk",
+            "size": 18960780,
+            "md5sum": "07972607c40093a089bed4060616bc54",
+            "publicSize": 18751122,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesq.compil\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RxYnBKjUTOuJHTjGJlWj",
+        "video": "https:\/\/vimeo.com\/108800372",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ePbiAZLHQpqaIMGlpMuN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t3bxmLnTQqdTydjg1ZWI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pmUP7A1qSOef99zHyXeE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sjzOBmwTQvOySnGy1qjI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nEzNeC9FRpyJGd5BtSN2"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/108800372"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/gf1pu7_ouya-screenshot20141013-2-1hc4q2k.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/thumbnails\/thumbnail20141013-2-14tewx7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/5o3qto_ouya-screenshot20141013-2-1yatv4p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/thumbnails\/thumbnail20141013-2-15xwq9d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/w1jmbn_ouya-screenshot20141013-2-1be6pc0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/thumbnails\/thumbnail20141013-2-1i0c4qn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/x6njv5_ouya-screenshot20141013-2-cqa46o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/thumbnails\/thumbnail20141013-2-5dog9u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/tuu754_ouya-screenshot20141013-2-ka7zhe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/961ba72b-95eb-4bbe-a15a-2d43db75235c\/thumbnails\/thumbnail20141013-2-xw98cz.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-10-15T19:35:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by 3T Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 6
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "compil",
+            "name": "3T Games Compil",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

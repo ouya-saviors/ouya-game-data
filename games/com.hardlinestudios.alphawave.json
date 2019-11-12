@@ -1,0 +1,99 @@
+{
+    "packageName": "com.hardlinestudios.alphawave",
+    "title": "Alpha Wave",
+    "description": "Do you have 10-15 minutes to kill? Alpha Wave was made for just such an occasion! A well polished, extremely easy to play, intense arcade space shooter with it's roots firmly planted in the old-school arcade classics such as AstroSmash, Galaga and Asteroids.\n\nPlenty of non-stop, progressive action with over 65 waves spread across 3 levels featuring a huge variety of different enemies each with their own unique behaviors along with final bosses to bring it all to an explosive finish. \n\nCoupled with amazing special effects, leaderboards, 24 achievements to unlock and an amazing musical score, Alpha Wave delivers solid quality for far less than the price of a cup of glorified, high society coffee!\n\nNO in app purchases! Buy once. Play forever!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "4041a15a-682a-4fb8-acd7-e4d9e61bde70",
+            "date": "2014-12-19T21:47:29Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.hardlinestudios.alphawave_1.0.0\/Alpha Wave_1.0.0_com.hardlinestudios.alphawave.apk",
+            "size": 28421223,
+            "md5sum": "4953279f1f9c9793278188d5120e9b7f",
+            "publicSize": 827364,
+            "nativeSize": 571988
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hardlinestudios.alphawave\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vJLpuDMaR820dyW0eGkr",
+        "video": "https:\/\/vimeo.com\/112879079",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8K2JF6PaQZKMumb3TlM8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/03UGWwFQRZSODEvE3Ycp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KiYB9Li8RnatFXFHFkOg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8qoXBcD0TKOyAEOrkmHs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eGkjwjpAQGiJ61uN3znn"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/112879079"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/rgz22j_ouya-screenshot20141215-2-1uix4at.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/thumbnails\/thumbnail20141215-2-fhwobd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/x6anco_ouya-screenshot20141215-2-9nwqf8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/thumbnails\/thumbnail20141215-2-18piowp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/kp0xja_ouya-screenshot20141215-2-m2n1x6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/thumbnails\/thumbnail20141215-2-at7sah.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/r2tkbp_ouya-screenshot20141215-2-1q6unsg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/thumbnails\/thumbnail20141215-2-bq3h48.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/ilxy6z_ouya-screenshot20141215-2-1kwnxpk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4041a15a-682a-4fb8-acd7-e4d9e61bde70\/thumbnails\/thumbnail20141215-2-1r6v9ai.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Hardline Studios",
+        "supportEmail": "support@hardlinestudios.ca",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.hardlinestudios.ca\/alphawave",
+    "firstPublishedAt": "2014-12-19T21:47:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Hardline Studios.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.52,
+        "count": 46
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "unlock",
+            "name": "Alpha Wave Full",
+            "description": "Unlocks the full version of Alpha Wave.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "packageName": "com.Dreamzle.UniverseAlpha",
+    "title": "The Secret of Universe Alpha",
+    "description": "NOTE: If you still have version 1.3 or earlier, this new version may control MUCH better.\r\n\r\nTake your spaceship and enter the core of the Universe...will you be the first to return, earning fame and fortune?\r\n\r\nAn action-adventure exploration game mixed with a top-down space shooter, with an overworld to explore, levels to complete, bosses to kill, items to collect.\r\n\r\n* Classic exploration-based gameplay\r\n* Very fast shoot'em'up action\r\n* Either dual-stick shooting or lock-on, your choice\r\n* 3D graphics\r\n* Giant bosses\r\n* Mind-twisting Puzzles\r\n* Exclusively for OUYA\r\n\r\nUpdates for Version 1.6:\r\n* Bug fixes",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick"
+    ],
+    "releases": [
+        {
+            "name": "1.6",
+            "versionCode": 0,
+            "uuid": "128e80dc-a29d-4d7d-9ec0-67afa3b6c040",
+            "date": "2013-06-13T19:10:28Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.Dreamzle.UniverseAlpha_1.6\/UniverseAlpha_1.6_com.Dreamzle.UniverseAlpha.apk",
+            "size": 205510674,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dreamzle.universealpha\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/un567QARSHys8NQpsGTO",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HkpuW6JLTca9uonNAqbh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n8Lqbg3PTekbKjIHCyXQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KaqsDsvT9Co9BQn1gtT1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LQI5RsVVQzCSGipuC2eF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xl7eUrQTvCplOuGIMsDS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y8zelGrGR3yEV5z8TD4v",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KLVgYl1mQJCSj35IoHoF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UK9A3p2cTlCtNIBv9ylU"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HkpuW6JLTca9uonNAqbh\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HkpuW6JLTca9uonNAqbh\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/n8Lqbg3PTekbKjIHCyXQ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/n8Lqbg3PTekbKjIHCyXQ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KaqsDsvT9Co9BQn1gtT1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KaqsDsvT9Co9BQn1gtT1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LQI5RsVVQzCSGipuC2eF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LQI5RsVVQzCSGipuC2eF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/xl7eUrQTvCplOuGIMsDS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/xl7eUrQTvCplOuGIMsDS\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Y8zelGrGR3yEV5z8TD4v\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Y8zelGrGR3yEV5z8TD4v\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/KLVgYl1mQJCSj35IoHoF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/KLVgYl1mQJCSj35IoHoF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/UK9A3p2cTlCtNIBv9ylU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/UK9A3p2cTlCtNIBv9ylU\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Dreamzle",
+        "supportEmail": "support@dreamzle.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.universealpha.com",
+    "firstPublishedAt": "2013-03-27T23:19:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2013 by Dreamzle.",
+    "premium": false,
+    "rating": {
+        "likeCount": 164,
+        "average": 3.17,
+        "count": 42
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "universe_alpha_whole_darn_game",
+            "name": "Universe Alpha Full Game",
+            "description": "The entire game! All of it!",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "packageName": "com.lokani.lokaniaddictingspacepilotogamepaid",
+    "title": "Addicting Space Pilot by Lokani",
+    "description": "Ridiculous! High-flying! Addictive!\r\n\r\nAddicting Space Pilot by Lokani will test your reaction abilities to the absolute fullest as endless enemies and infinite powerups appear from the right. Your score will increase--but so will the speed of the enemies. Impossible? No way. Fun? Absolutely.\r\n\r\nKey Features:\r\n- Look at these retro indie graphics!!! The sounds are even cooler :)\r\n- Extremely addictive and hard.\r\n\r\nSee more at http:\/\/www.lokani.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "3f55ae51-8978-428e-9ce2-3f92320ad8e1",
+            "date": "2014-05-27T18:44:30Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.lokani.lokaniaddictingspacepilotogamepaid_1.0.1\/Lokani ASP OUYA Paid_1.0.1_com.lokani.lokaniaddictingspacepilotogamepaid.apk",
+            "size": 4809060,
+            "md5sum": "dc3487c2b69ff98cc6b06ada36a04be1",
+            "publicSize": 3629868,
+            "nativeSize": 783564
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lokani.lokaniaddictingspacepilotogamepaid\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D5pcxF2LQ1GNTsRqYt1b",
+        "video": "https:\/\/vimeo.com\/95796415",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IlPABWbbRa6DX0A84qQu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i6RUkzJRYemK9fH5zhId",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JIUQQIDrSmeOgTpNkigv"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/95796415"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/IlPABWbbRa6DX0A84qQu",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/IlPABWbbRa6DX0A84qQu"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/i6RUkzJRYemK9fH5zhId",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/i6RUkzJRYemK9fH5zhId"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/JIUQQIDrSmeOgTpNkigv",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/JIUQQIDrSmeOgTpNkigv"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "1103f473-4eaa-4586-88b3-70adb357aa9b",
+        "name": "STRIPE Marketing, LLC.",
+        "supportEmail": "info@lokani.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.lokani.com",
+    "firstPublishedAt": "2014-05-27T18:44:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by STRIPE Marketing, LLC..",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 5,
+        "count": 1
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Full_Game_Lokani_ASP",
+            "name": "Buy Game",
+            "description": "This purchase unlocks the full version of Addicting Space Pilot by Lokani.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

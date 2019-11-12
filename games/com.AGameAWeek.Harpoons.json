@@ -1,0 +1,82 @@
+{
+    "packageName": "com.AGameAWeek.Harpoons",
+    "title": "Harpoons and Balls",
+    "description": "Protect yourself from the bouncing balls, whilst shooting at them with your giant harpoon gun.\nShoot, Run, Hide and Shoot some more!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "5af51ac7-f4b9-4f41-873c-63732f9d73a7",
+            "date": "2016-01-05T10:26:11Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.AGameAWeek.Harpoons_1.0\/Harpoons_1.0_com.AGameAWeek.Harpoons.apk",
+            "size": 8606360,
+            "md5sum": "ef54325156786de574ef3267bbf8b3dc",
+            "publicSize": 86224,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.harpoons\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zexTJ4GnQhysjLGoffZM",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mLQEBDCWRzKWezoxtfJ6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AZE9TeSySJesBsoy7AGZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dIzbwXuZQquIfApbf7H9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EC4dpr6jTIaVCNOoGJ8e",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5OWiNFeQTROdhleEZsrW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/8bwkm7_ouya-screenshot20160102-3-12tmkn7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/thumbnails\/thumbnail20160102-3-1xlkedr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/khn75b_ouya-screenshot20160102-3-1xmwqke.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/thumbnails\/thumbnail20160102-3-18b2c28.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/hes4i7_ouya-screenshot20160102-3-ku95i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/thumbnails\/thumbnail20160102-3-be8cbu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/uh6gqo_ouya-screenshot20160102-3-7d1pfe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/thumbnails\/thumbnail20160102-3-1r37bvo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/tw1dm4_ouya-screenshot20160102-3-nad7jk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5af51ac7-f4b9-4f41-873c-63732f9d73a7\/thumbnails\/thumbnail20160102-3-1ilweuc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2016-01-05T10:26:11Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.25,
+        "count": 16
+    }
+}

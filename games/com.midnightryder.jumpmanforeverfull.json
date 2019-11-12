@@ -1,0 +1,86 @@
+{
+    "packageName": "com.midnightryder.jumpmanforeverfull",
+    "title": "Jumpman Forever",
+    "description": "Get ready for a mind-bending, heart pounding platform experience!  Forget old mustachioed plumbers who make games simple - Jumpman Forever brings back the roots of true platform games, challenging you on every level with a combination of puzzles and action that haven't been seen in ages!\r\n\r\nJumpman Forever features:\r\n    32 NEW Jumpman levels!\r\n    2 Playable Characters!\r\n    4 Difficulty Levels\r\n    4 Separate Missions\r\n    Tutorial\r\n\r\nAlso planned as part of the Kickstarter:\r\n    Quarterly FREE Level Packs\r\n    Level Editor\r\n    Level Sharing Community  \r\n\r\nThis is the first full release - what did people had to say about the pre-release and Beta versions?\r\n\r\n***** \"I had an exclusive look at the beta and I have to say: it is a faithful reproduction.\" --- Retro Gaming Society *****\r\n\r\n***** \"Even in beta form, this is rock-solid and I can\u2019t wait to try out the full game.\" --- Hard Core Gamer *****\r\n\r\n***** \"Looks like fans of old-school platformers are going to have a reason to celebrate.\" --- Everyday Gamers *****\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "ee06dd3a-6525-4583-9f58-2c21a5ae3e2f",
+            "date": "2014-05-15T16:48:44Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.midnightryder.jumpmanforeverfull_1.0\/Jumpman Forever_1.0_com.midnightryder.jumpmanforeverfull.apk",
+            "size": 7628010,
+            "md5sum": "17959b3a0156e62cb431ad000afc300b",
+            "publicSize": 60785,
+            "nativeSize": 10914168
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.midnightryder.jumpmanforeverfull\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DrceohwfQBGJYIVxdThv",
+        "video": "https:\/\/vimeo.com\/95078566",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HcAI94TGSlyhVp7YbnDp",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ru4Z4RodQgeZDbIuIVvB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DNoYJWdQTayPTQiBgMjC"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/95078566"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HcAI94TGSlyhVp7YbnDp",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HcAI94TGSlyhVp7YbnDp"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Ru4Z4RodQgeZDbIuIVvB",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Ru4Z4RodQgeZDbIuIVvB"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/DNoYJWdQTayPTQiBgMjC",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/DNoYJWdQTayPTQiBgMjC"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Midnight Ryder Technologies",
+        "supportEmail": "contact@jumpmanforever.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.JumpmanForever.com",
+    "firstPublishedAt": "2014-05-15T16:48:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Midnight Ryder Technologies.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.2,
+        "count": 54
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Jumpman_Forever",
+            "name": "Jumpman Forever",
+            "description": "Jumpman Forever Full Version for OUYA",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "USD"
+        }
+    ]
+}

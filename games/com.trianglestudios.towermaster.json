@@ -1,0 +1,70 @@
+{
+    "packageName": "com.trianglestudios.towermaster",
+    "title": "Tower Master",
+    "description": "Ready to save that princess again? No you\u2019re not. You\u2019re going to die. Over and over again. Please don\u2019t blame us, blame your friends!\r\n\r\nWhat is it?\r\nTower Master is a multiplayer game in which the contestants race each other in booby trap-filled levels designed and built by themselves.\r\n\r\nWhat do I do? \r\nSo you want to enter the race to the top of the tower? Well hold your horses for a moment, because first you must make a floor to enter a match! After you\u2019re done building your cleverly fiendish floor you must prove yourself by finishing it yourselves. Only then you are deemed worthy to claim your position at the gates of the tower!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "c8a9be6a-caed-4529-8069-280162e0c872",
+            "date": "2013-03-28T07:13:15Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.trianglestudios.towermaster_1.0\/Tower Master_1.0_com.trianglestudios.towermaster.apk",
+            "size": 20051467,
+            "md5sum": "dd3bbb7e8ccee8f2bce4ddc9b7e1a010",
+            "publicSize": 511765,
+            "nativeSize": 128536
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.trianglestudios.towermaster\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fyTSfAglQMWJyKc9YyVF",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XtVPG8kgQmeinDgP2oLj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/td4pChw1R4GZOwvIJiea",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8XCtCWVGRCGkrSkTbkJW"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XtVPG8kgQmeinDgP2oLj\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XtVPG8kgQmeinDgP2oLj\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/td4pChw1R4GZOwvIJiea\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/td4pChw1R4GZOwvIJiea\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8XCtCWVGRCGkrSkTbkJW\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8XCtCWVGRCGkrSkTbkJW\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Triangle Studios",
+        "supportEmail": "ouya@triangle-studios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.protocannon.com",
+    "firstPublishedAt": "2013-03-28T07:13:15Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Triangle Studios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 40,
+        "average": 3.45,
+        "count": 20
+    }
+}

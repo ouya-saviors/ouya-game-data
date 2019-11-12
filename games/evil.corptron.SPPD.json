@@ -1,0 +1,94 @@
+{
+    "packageName": "evil.corptron.SPPD",
+    "title": "Super Puzzle Platformer Deluxe",
+    "description": "The title says it all. Take one part falling block puzzle game, combine one part old-school platformer, add a couple thousand pixels, blend and serve. Why match colored blocks when you can just shoot the hell out of them? Your goal is to survive as long as you can. From celebrated indie developer Andrew Morrish and Adult Swim Games.\r\n\r\n\u201cEasily one of the best Tetris-style games to show up in a very long time.\u201d \r\n- Hardcore Gamer \r\n\r\n\u201cFans of simple, yet long-lasting arcade games will find this to be another title they come back to again and again.\u201d \r\n- Indie Statik \r\n\r\n\u201cHarkens back to a simpler time when the ultimate goal of a videogame was simply to obtain a high score.\u201d \r\n- Destructoid\r\n\r\n\"I helped make it, of course I'm gonna say its good.\"\r\n- Landon Podbielski",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Platformer",
+        "Puzzle\/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "35c49f91-e192-4928-8246-df2dc6078883",
+            "date": "2014-07-29T23:03:26Z",
+            "url": "https:\/\/archive.org\/download\/ouya_evil.corptron.SPPD_1.0\/Super Puzzle Platformer_1.0_evil.corptron.SPPD.apk",
+            "size": 62953602,
+            "md5sum": "fb063872148684ad02cda04eda20b438",
+            "publicSize": 125877,
+            "nativeSize": 2908348
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.sppd\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tzPLBIUYRhOjhu1829Bf",
+        "video": "https:\/\/vimeo.com\/101678001",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zlXxOqURNCW9S9QHmy5w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OkHyCTagSImT33cH7YZX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XB6GPpAnR82opTqCB1w4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N1OQJgj3SQSZoIbkO3YA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/101678001"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/9rne00_ouya-screenshot20140729-2-1sh27lr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/thumbnails\/thumbnail20140729-2-1bn3vr8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/jggyny_ouya-screenshot20140729-2-9vcimd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/thumbnails\/thumbnail20140729-2-1vkpral.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/wy42t1_ouya-screenshot20140729-2-e6ezg3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/thumbnails\/thumbnail20140729-2-17idv2m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/gnoitd_ouya-screenshot20140729-2-ok2jbu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35c49f91-e192-4928-8246-df2dc6078883\/thumbnails\/thumbnail20140729-2-m2k24t.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Landon Podbielski",
+        "supportEmail": "superjoebob@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/andrewmorrish.net\/",
+    "firstPublishedAt": "2014-07-29T23:03:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Landon Podbielski.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.7,
+        "count": 146
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SPPD",
+            "name": "Super Puzzle Platformer",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

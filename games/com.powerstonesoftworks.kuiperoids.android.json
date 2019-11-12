@@ -1,0 +1,89 @@
+{
+    "packageName": "com.powerstonesoftworks.kuiperoids.android",
+    "title": "Kuiperoids",
+    "description": "Kuiperoids is a classic arcade style space shooter! Fly a spaceship and blast aliens and asteroids! It's retro \"old school\" gaming. As mankind has ventured out into space beyond the Kuiper Belt, we've finally found that we're not alone. These insectoid invaders most certainly do not come in peace!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "50884533-e6df-433a-8d32-f0af72dea966",
+            "date": "2016-01-04T18:51:45Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.powerstonesoftworks.kuiperoids.android_1.0.0\/Kuiperoids_1.0.0_com.powerstonesoftworks.kuiperoids.android.apk",
+            "size": 49488201,
+            "md5sum": "8d3706b50e84333efa976d99a5d7ffdf",
+            "publicSize": 2838346,
+            "nativeSize": 2109020
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.powerstonesoftworks.kuiperoids.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UfCyr6VRnqRRSKt1nYKw",
+        "video": "https:\/\/vimeo.com\/149894126",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E9fki0XsRxON3zsN7KSN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9OQQ7dHTJuOJGg3YzBma",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2xS5n85Rp606DIWAS4MA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/149894126"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/149904220"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/50884533-e6df-433a-8d32-f0af72dea966\/4vhevv_ouya-screenshot20160101-3-1b4prgb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/50884533-e6df-433a-8d32-f0af72dea966\/thumbnails\/thumbnail20160101-3-1w2c9ip.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/50884533-e6df-433a-8d32-f0af72dea966\/7zme8q_ouya-screenshot20160101-3-qwalpf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/50884533-e6df-433a-8d32-f0af72dea966\/thumbnails\/thumbnail20160101-3-q7v30x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/50884533-e6df-433a-8d32-f0af72dea966\/ns6281_ouya-screenshot20160101-3-tyl9gg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/50884533-e6df-433a-8d32-f0af72dea966\/thumbnails\/thumbnail20160101-3-1k6xhiu.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9dadebf0-ed08-464f-897c-bb649486a68a",
+        "name": "Powerstone Softworks, LLC",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.powerstonesoftworks.com\/",
+    "firstPublishedAt": "2016-01-04T18:51:45Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Powerstone Softworks, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 6
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Kuiperoids",
+            "name": "Kuiperoids",
+            "description": "You are about to purchase \"Kuiperois\" for $0.99.\r\nA modern take on an arcade classic.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

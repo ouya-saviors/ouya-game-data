@@ -1,0 +1,92 @@
+{
+    "packageName": "com.pigoutproductions.hiddengardenenchantment",
+    "title": "Hidden Garden Enchantment",
+    "description": "Hidden Garden is back with even more beautiful scenes, more amazing music and an all new pinch-to-zoom feature. Continue your journey through the Hidden Gardens in this beautiful hidden object adventure game. Hidden Garden Enchantment is the next title in the Hidden Garden series. Relax and enjoy the gorgeous scenery as you find hundreds of new items such as teacups, teapots, frogs, squirrels, keys, candles, umbrellas, cupcakes, rabbits, butterflies, lanterns, birds, snails, lady bugs, flowers, hearts, musical notes, honey bees, dragonflies, geese, and more throughout many breathtaking scenes. The stunning visuals are accompanied by four new equally stunning musical compositions.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a0de05a2-82c2-4a08-9b65-dd498782bd54",
+            "date": "2014-07-16T17:51:52Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.hiddengardenenchantment_1.0\/Hidden Garden Enchantment_1.0_com.pigoutproductions.hiddengardenenchantment.apk",
+            "size": 41159016,
+            "md5sum": "91f509af567b1b36dd3ac1f12457a826",
+            "publicSize": 522321,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.hiddengardenenchantment\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n5UNSfggTImveNUwDzlb",
+        "video": "https:\/\/vimeo.com\/100844308",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vumYDnm6S6GmSGGyAYrk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Et4hY5MzTHW8mp4RG38B",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WVq8PuLKSquAn6dgwtb4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IgoHWvPIRmlsun1iQOhb"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100844308"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/8r3n5u_ouya-screenshot20140715-2-1iug81r.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/thumbnails\/thumbnail20140715-2-8ns52h.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/7z0cjo_ouya-screenshot20140715-2-ivzaxf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/thumbnails\/thumbnail20140715-2-8hf55n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/hn6c77_ouya-screenshot20140715-2-sp2ffu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/thumbnails\/thumbnail20140715-2-17fqato.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/34e7wa_ouya-screenshot20140715-2-h5rz1j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a0de05a2-82c2-4a08-9b65-dd498782bd54\/thumbnails\/thumbnail20140715-2-1by2ioe.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-07-16T17:51:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HGEnchantment",
+            "name": "Hidden Garden Enchantment",
+            "description": "Journey through the Hidden Gardens in this relaxing and beautiful hidden object adventure game?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

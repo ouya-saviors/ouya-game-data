@@ -1,0 +1,100 @@
+{
+    "packageName": "com.doublefine.dfa",
+    "title": "Broken Age",
+    "description": "Broken Age is a family friendly, hand-animated, puzzle-filled adventure game with an all-star cast, including Elijah Wood, Jack Black and Masasa Moyo.\r\nFunded by a record breaking crowdfunding campaign and designed by industry legend Tim Schafer, Broken Age is a timeless coming-of-age story of barfing trees and talking spoons.\r\n\r\nVella Tartine and Shay Volta are two teenagers in strangely similar situations, but radically different worlds. The player can freely switch between their stories, helping them take control of their own lives, and dealing with the unexpected adventures that follow. \r\n\r\nStarring:\r\nElijah Wood as Shay\r\nMasasa Moyo as Vella\r\nJack Black as Harm'ny Lightbeard\r\nJennifer Hale as Mom\r\nWil Wheaton as Curtis\r\nPendleton Ward as Gus\r\n\r\n\u201cAct 1 of Broken Age is a gorgeous, impeccably written adventure that simultaneously tugs at my nostalgic core, while ushering in a new era for the point-and-click genre.\u201d \r\n9.5 \u2013 IGN \r\n\r\n\u201c...delightful, beautiful, utterly charming and you really should play it right this second.\u201d \r\n9 \u2013 Polygon \r\n\r\n\u201cI haven\u2019t felt this surge of nostalgia and excitement about a game in a long time, and I truly think Broken Age will be looked back fondly as one of the greats.\u201d \r\n9.5 \u2013 Destructoid ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "2.2.2",
+            "versionCode": 0,
+            "uuid": "cb63bc6e-3e09-4355-a74d-0826d57b0a51",
+            "date": "2015-05-18T22:43:38Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.doublefine.dfa_2.2.2\/Broken Age_2.2.2_com.doublefine.dfa.apk",
+            "size": 1818965164,
+            "md5sum": "395ca1c5a6187cf9d09bd891095abd45",
+            "publicSize": 456967,
+            "nativeSize": 5260696
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.doublefine.dfa\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OpYOIPcZSUC5bsq1kv2i",
+        "video": "https:\/\/vimeo.com\/126212665",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R7tP1X0PQSanlO6MSkVE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/u1vozmySKike2vUHYC0I",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/76e6oWOEQH61ApO4Ps8s",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jcyJ8vUOQmWmT0wj4tCf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pSs5s02qS22ENTv1QSja"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/126212665"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/95777431"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/4ltxro_ouya-screenshot20150515-3-xp8hjq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/thumbnails\/thumbnail20150515-3-1wyohgy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/a2ue0u_ouya-screenshot20150515-3-1oxsa88.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/thumbnails\/thumbnail20150515-3-1on3h43.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/pw2an9_ouya-screenshot20150515-3-1al9ooq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/thumbnails\/thumbnail20150515-3-rzul4n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/jj96lu_ouya-screenshot20150515-3-v272m4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/thumbnails\/thumbnail20150515-3-ye97i7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/lda3gp_ouya-screenshot20150515-3-1wqrvsz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb63bc6e-3e09-4355-a74d-0826d57b0a51\/thumbnails\/thumbnail20150515-3-1x0oizh.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Double Fine Productions",
+        "supportEmail": "support@doublefine.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.brokenagegame.com",
+    "firstPublishedAt": "2014-05-30T18:00:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2015 by Double Fine Productions.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.7,
+        "count": 265
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DFPBrokenAgeOuya",
+            "name": "Broken Age",
+            "description": "Broken Age is here in all its beautiful, 2D, hand-painted glory, with an original orchestral soundtrack and an all-star vocal cast.",
+            "localPrice": 24.99,
+            "originalPrice": 24.99,
+            "currency": "USD"
+        }
+    ]
+}

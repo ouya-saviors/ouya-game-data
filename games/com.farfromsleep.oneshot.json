@@ -1,0 +1,99 @@
+{
+    "packageName": "com.farfromsleep.oneshot",
+    "title": "OneShot",
+    "description": "Make like a Hockey Jock and Puck your friends in a stylish, vicious little tactical arcade action game from the maker of Rubble N Strafe.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Multiplayer",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "0c89727f-a22d-47a5-aebe-26bd20768acc",
+            "date": "2015-04-03T17:20:06Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.farfromsleep.oneshot_1.0.0\/oneshot_1.0.0_com.farfromsleep.oneshot.apk",
+            "size": 7332315,
+            "md5sum": "771ede97dcaa01ef7bf5f8b75497fe7b",
+            "publicSize": 834513,
+            "nativeSize": 4640620
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.oneshot\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uEr5NCliT9Gfm8asVnXm",
+        "video": "https:\/\/vimeo.com\/123712561",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ToNjbvMYTyWkuJYm7UoT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M0L2yAroThaJLicUxmUG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U2JD55RRXyBR391tHceQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ut3fk9KRXycwAY27u7hA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kUTZUXe4Ri6aL2iHAgU4"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/123712561"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/t2t082_ouya-screenshot20150331-3-1aes9vl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/thumbnails\/thumbnail20150331-3-12443a0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/rg2lxr_ouya-screenshot20150331-3-1r7l57l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/thumbnails\/thumbnail20150331-3-1gobo7j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/ilbygr_ouya-screenshot20150331-3-1t4epty.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/thumbnails\/thumbnail20150331-3-14egav0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/jztbpv_ouya-screenshot20150331-3-1dxgrbc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/thumbnails\/thumbnail20150331-3-15s83bv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/yge4zw_ouya-screenshot20150331-3-bgcq3k.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0c89727f-a22d-47a5-aebe-26bd20768acc\/thumbnails\/thumbnail20150331-3-juavo0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b9dc320c-d675-47f1-9207-7ecfde2b5aea",
+        "name": "Jay Griffin",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/farfromsleep.com",
+    "firstPublishedAt": "2015-04-03T17:20:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by Jay Griffin.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.67,
+        "count": 3
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "oneshot_supporter",
+            "name": "OneShot (full version)",
+            "description": "Buy the full version of OneShot, including all future content updates.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

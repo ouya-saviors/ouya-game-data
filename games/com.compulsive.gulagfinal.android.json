@@ -1,0 +1,88 @@
+{
+    "packageName": "com.compulsive.gulagfinal.android",
+    "title": "Gulag",
+    "description": "You play as Vera, a Russian female sniper during Post WW2 Russia. Wrongly accused of abandoning her country, Vera was thrown into a Gulag with no hope of escape. Until Now...\n\nVenture through the chaotic halls of a crumbling Gulag with only your trusty bolt action rifle in your hands! Eliminate all that stands in your path with clever ricochet tactics!\n\n18 Levels Total Spanning over 3 Episodes\nMultiple Weapons and Items to find in the Gulag along the way\nFace 3 Challenging Bosses and Liberate yourself from the Gulag!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Dual Stick",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 1,
+            "uuid": "a1a3d27a-81f5-41aa-84e7-f712c47dc810",
+            "date": "2016-01-12T17:27:38Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.compulsive.gulagfinal.android_1.1\/Gulag_1.1_com.compulsive.gulagfinal.android.apk",
+            "size": 18362280,
+            "md5sum": "d4ee08b44a91607dd561c0aa521d5548",
+            "publicSize": 7726,
+            "nativeSize": 2141788
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.compulsive.gulagfinal.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EXz2y21OTvC7fQyqa9qO",
+        "video": "https:\/\/vimeo.com\/148824270",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AqimgyC9Txiy5izyZ6Qb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UjTqEu2uSXmlZypwY1MB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oS833v3TS2Vba8DUWObb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RDg9ex9RRe2qOBCAXJnb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mgCUu9GRfKttlk6WJy3K"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/148824270"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/1ei84g_ouya-screenshot20160106-3-834nyk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/thumbnails\/thumbnail20160106-3-1u584yp.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/sctx6r_ouya-screenshot20160106-3-1nkphmk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/thumbnails\/thumbnail20160106-3-e1l1h7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/o3rvdc_ouya-screenshot20160106-3-1t5rjn5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/thumbnails\/thumbnail20160106-3-3i6r14.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/9a91jr_ouya-screenshot20160106-3-15kwdu6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/thumbnails\/thumbnail20160106-3-wvtbmn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/3l00ut_ouya-screenshot20160106-3-vfj7vr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a1a3d27a-81f5-41aa-84e7-f712c47dc810\/thumbnails\/thumbnail20160106-3-14qhmz0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c423731f-cac7-41f6-88a6-309afc6d50dd",
+        "name": "Duston Allen",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "www.compulsivestudios.com",
+    "firstPublishedAt": "2015-12-18T19:45:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Duston Allen.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.89,
+        "count": 163
+    }
+}

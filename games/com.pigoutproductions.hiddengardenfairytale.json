@@ -1,0 +1,92 @@
+{
+    "packageName": "com.pigoutproductions.hiddengardenfairytale",
+    "title": "Hidden Garden Fairy Tale",
+    "description": "Hidden Garden is back with even more beautiful scenes and more amazing music. Continue your journey through the Hidden Gardens in this beautiful hidden object adventure game. Hidden Garden Fairy Tale is the next title in the Hidden Garden series. Relax and enjoy the gorgeous scenery as you find hundreds of new items such as teacups, teapots, frogs, squirrels, keys, candles, umbrellas, cupcakes, rabbits, butterflies, birds, lady bugs, hearts, and honey bees throughout many breathtaking locations. The stunning visuals are accompanied by four new equally stunning musical compositions.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "8f83cc53-7fd4-46b8-80a2-c558257eaa00",
+            "date": "2014-07-15T17:28:59Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.hiddengardenfairytale_1.0\/Hidden Garden Fairy Tale_1.0_com.pigoutproductions.hiddengardenfairytale.apk",
+            "size": 36300677,
+            "md5sum": "f2fded577876d7971c7493ed0e5f797f",
+            "publicSize": 718512,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.hiddengardenfairytale\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RdK4x1YRK9ERsSUfVswc",
+        "video": "https:\/\/vimeo.com\/100729970",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/piLd0EU9QAu9zcOgzQFH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pYO5d52QZiQzxhCTWVAC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Jlo6dAZpRCW95jaThQqX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nyFoXZSRVuloBKjhiFEI"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100729970"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/dxwual_ouya-screenshot20140714-2-6ep4dj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/thumbnails\/thumbnail20140714-2-vx3m20.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/j18w4t_ouya-screenshot20140714-2-nf1t4u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/thumbnails\/thumbnail20140714-2-mteqkn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/hzgz7g_ouya-screenshot20140714-2-1xfzwmv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/thumbnails\/thumbnail20140714-2-1if01nk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/5lcpx9_ouya-screenshot20140714-2-biizo6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8f83cc53-7fd4-46b8-80a2-c558257eaa00\/thumbnails\/thumbnail20140714-2-jzja4a.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-07-15T17:28:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 1
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HGFairyTale",
+            "name": "Hidden Garden Fairy Tale",
+            "description": "Journey through the Hidden Gardens in this relaxing and beautiful hidden object adventure game?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

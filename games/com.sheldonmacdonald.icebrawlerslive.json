@@ -1,0 +1,99 @@
+{
+    "packageName": "com.sheldonmacdonald.icebrawlerslive",
+    "title": "Ice Brawlers Live",
+    "description": "Ice Brawlers Live is an arcade style hockey game.  This game is currently in alpha stages but will be updated to have tournament modes and achievements in the near future. supports 1-4 Players\n\n[Nov 17,2014]\n-added Goalie Support.\n-Rebuilt Current Characters.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Multiplayer",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": ".18",
+            "versionCode": 0,
+            "uuid": "96977d1c-100e-49d8-aa32-8b6be5d50023",
+            "date": "2014-11-19T19:07:58Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.sheldonmacdonald.icebrawlerslive_.18\/Ice Brawlers Live_.18_com.sheldonmacdonald.icebrawlerslive.apk",
+            "size": 17546571,
+            "md5sum": "8b55cfc3710c029d2e6b46b3a7c40f64",
+            "publicSize": 155556,
+            "nativeSize": 7083556
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sheldonmacdonald.icebrawlerslive\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LwvHmjCoQyaIgkko8WlN",
+        "video": "https:\/\/vimeo.com\/107203755",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R1T9EvjBSVagdetHlwTQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7XPq1tARpCV7VNACIiXQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cuio9tKJRIWIj0NRwhaA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CF9DVM33Rmy83kDSySgT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C2vi20pwRE2aX2wMrea0"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/107203755"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/b7y2tn_ouya-screenshot20140926-2-lghfvy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/thumbnails\/thumbnail20140926-2-c6voko.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/wezcjh_ouya-screenshot20140926-2-1qjqah.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/thumbnails\/thumbnail20140926-2-zi4g5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/ch7729_ouya-screenshot20140926-2-wiphj7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/thumbnails\/thumbnail20140926-2-1nlrl8p.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/mm0t6d_ouya-screenshot20140926-2-1jla0v3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/thumbnails\/thumbnail20140926-2-1xvc3mn.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/6opb56_ouya-screenshot20140926-2-nnula4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/96977d1c-100e-49d8-aa32-8b6be5d50023\/thumbnails\/thumbnail20140926-2-mm13ab.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "softmotion3d",
+        "supportEmail": "smd_3d@hotmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.smotion3d.com",
+    "firstPublishedAt": "2014-08-14T18:01:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by softmotion3d.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.88,
+        "count": 8
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "icebrawlerslive",
+            "name": "IceBrawlersLive",
+            "description": "Full Game with all updates.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

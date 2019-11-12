@@ -1,0 +1,75 @@
+{
+    "packageName": "com.bradpearce.daringescape",
+    "title": "Daring Escape",
+    "description": "Inspired by the Heider-Simmel illusion, Daring Escape, will be your best download, today!  \n\nFind your way through over 10 exciting levels and solve geometric puzzles to complete this love letter to old-school games and a speed runners dream.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Entertainment",
+        "Kids List",
+        "Platformer",
+        "Racing",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.1.0",
+            "versionCode": 0,
+            "uuid": "71c5a96a-5236-468c-945d-9bb96669786d",
+            "date": "2015-11-17T10:07:36Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.bradpearce.daringescape_0.1.0\/Daring Escape_0.1.0_com.bradpearce.daringescape.apk",
+            "size": 38828509,
+            "md5sum": "003ce1d806bdba084f2031d5864d5b2c",
+            "publicSize": 729914,
+            "nativeSize": 8821100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bradpearce.daringescape\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f8cj2hpdSsqEMKJ9TTJj",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BJugObARKWgF8RQqoT4x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/shofLBurSlopDdyQh2Zt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LKHPwiPLQZSPQwxvZ35a"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71c5a96a-5236-468c-945d-9bb96669786d\/41n1d4_ouya-screenshot20151114-3-19z32qg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71c5a96a-5236-468c-945d-9bb96669786d\/thumbnails\/thumbnail20151114-3-bbca4s.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71c5a96a-5236-468c-945d-9bb96669786d\/h6db96_ouya-screenshot20151114-3-33rr8t.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71c5a96a-5236-468c-945d-9bb96669786d\/thumbnails\/thumbnail20151114-3-bm1ht.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71c5a96a-5236-468c-945d-9bb96669786d\/3fcllw_ouya-screenshot20151114-3-1qcyp1q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71c5a96a-5236-468c-945d-9bb96669786d\/thumbnails\/thumbnail20151114-3-g9fnad.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "bradpearce",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "",
+    "firstPublishedAt": "2015-11-17T10:07:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2015 by bradpearce.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.54,
+        "count": 50
+    }
+}

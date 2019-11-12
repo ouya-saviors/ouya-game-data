@@ -1,0 +1,92 @@
+{
+    "packageName": "com.zgames.redweed",
+    "title": "Red Weed",
+    "description": "Try to stop the slimy Red Weed from spreading over the land as it changes every patch of green grass it touches into red tendrils.\r\n\r\nIn this board game, use strategy similar to Othello, Reversi, Go, or Ataxx to defend your territory of green grass. The goal of the game is to make your tiles of grass a majority of the tiles on the field, by converting as many of the Red Weed tiles as possible. The quicker you conquer the Red Weed, the more points you score.\r\n\r\nRed Weed is a great Reversi game with mystical setting!\r\n\r\nFeatures:\r\n- Video cut scenes, music and sounds from the original musical\r\n- Single player or Multiplayer\r\n- Easy, Normal, and Hard difficulty settings\r\n- Multiplayer Hot Seat\r\n- 18 unique board designs\r\n- Obstacles and strategic challenges\r\n- Like Reversi, but more beautiful\r\n- Addictive and fun!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia",
+        "Retro",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.2.36",
+            "versionCode": 0,
+            "uuid": "7172690b-1bcd-44d7-b182-6d413d4f14e0",
+            "date": "2015-02-09T10:00:27Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.zgames.redweed_1.2.36\/Red Weed_1.2.36_com.zgames.redweed.apk",
+            "size": 46364762,
+            "md5sum": "949a74d953ecfad3c225c63748371161",
+            "publicSize": 826675,
+            "nativeSize": 3261212
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zgames.redweed\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QQzLVDteTbqf75DPPQrq",
+        "video": "https:\/\/vimeo.com\/118607208",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WeLuyToTQuU4aGMYYLNQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VtrZ3qFHQKsQQWrxnQ5X",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GkjPC9QStO0gbTPPCR5z",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lnDSgAjQIe7lrRYfrL63"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/118607208"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/8lm0i8_ouya-screenshot20150205-3-i6um9j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/thumbnails\/thumbnail20150205-3-1kvgcma.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/b7gyoc_ouya-screenshot20150205-3-n9u1rb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/thumbnails\/thumbnail20150205-3-nqhoy1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/8kbdmv_ouya-screenshot20150205-3-1t1wqbd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/thumbnails\/thumbnail20150205-3-tn7sv6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/g57ycs_ouya-screenshot20150205-3-i4etr0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7172690b-1bcd-44d7-b182-6d413d4f14e0\/thumbnails\/thumbnail20150205-3-m9av8f.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9628a45a-8c36-4cff-80d9-fee6a950625e",
+        "name": "zGames",
+        "supportEmail": "support@zgames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.zgames.com\/games\/redweed",
+    "firstPublishedAt": "2015-02-09T10:00:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2015 by zGames.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.5,
+        "count": 12
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "redweed_fullgame",
+            "name": "Red Weed full game",
+            "description": "Full game",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

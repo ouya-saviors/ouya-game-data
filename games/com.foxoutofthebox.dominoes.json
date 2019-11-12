@@ -1,0 +1,84 @@
+{
+    "packageName": "com.foxoutofthebox.dominoes",
+    "title": "Multi Dominoes",
+    "description": "Multi Dominoes let's you play against the computer in different kinds of games using only domino tiles.\n\nFeatures:\n- Play against 1 - 7 computer controlled players.\n- Two difficulty settings.\n- Five tile types.\n- Three table materials.\n- Two table shapes.\n- Simplified controls.\n- Draw game with simple rules, threes and fives.\n- (Full Version)Cross(Spinner) game with threes and fives.\n- (Full Version)Mexican Train game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 0,
+            "uuid": "008c2962-a43e-4385-9d4b-2264c83f6d5e",
+            "date": "2015-10-22T17:07:40Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.foxoutofthebox.dominoes_1.1.1\/Multi Dominoes_1.1.1_com.foxoutofthebox.dominoes.apk",
+            "size": 41348247,
+            "md5sum": "3b11c5baaaaa7382d1ee975a36ddeefd",
+            "publicSize": 778024,
+            "nativeSize": 2681460
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.foxoutofthebox.dominoes\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jnsaP6SakGYG4NYV0jAP",
+        "video": "https:\/\/vimeo.com\/141505445",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tVm35v5iToCj6IiHbRXx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MP007TfTJqWxsRkZ0MwA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rkMMQ6dnQhalP9QgGHVf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/141505445"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/008c2962-a43e-4385-9d4b-2264c83f6d5e\/6u2bb3_ouya-screenshot20151022-3-69el2p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/008c2962-a43e-4385-9d4b-2264c83f6d5e\/thumbnails\/thumbnail20151022-3-bbkugb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/008c2962-a43e-4385-9d4b-2264c83f6d5e\/9s27a4_ouya-screenshot20151022-3-1ooqjdh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/008c2962-a43e-4385-9d4b-2264c83f6d5e\/thumbnails\/thumbnail20151022-3-vxu1h.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/008c2962-a43e-4385-9d4b-2264c83f6d5e\/duk0ju_ouya-screenshot20151022-3-9qw2u0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/008c2962-a43e-4385-9d4b-2264c83f6d5e\/thumbnails\/thumbnail20151022-3-niplmu.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Fox out of the Box",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-10-22T17:07:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Fox out of the Box.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.32,
+        "count": 22
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "domFull",
+            "name": "Multi Dominoes",
+            "description": "The Full Game Unlocked. You can play Spinner and Mexican Train as well as Future features such as Multiplayer",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

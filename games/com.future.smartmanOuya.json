@@ -1,0 +1,82 @@
+{
+    "packageName": "com.future.smartmanOuya",
+    "title": "SmartMan",
+    "description": "SmartMan is a channel made for smart men to entertain, inform and educate them on topics of their interest such as comedy, hot girls, workouts, health, home improvement, love, career, travel and more.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 0,
+            "uuid": "8b693779-9a5d-49ac-9604-6c75ecffe43a",
+            "date": "2015-11-18T18:49:49Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.future.smartmanOuya_1.4\/SmartMan_1.4_com.future.smartmanOuya.apk",
+            "size": 1804212,
+            "md5sum": "19a0ef00532795db17d00cdc2f0362c7",
+            "publicSize": 831148,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.future.smartmanouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ADmAGtxvS86qB67AB28s",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3idCIikRImyP7kMClziV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/x1M2LpvFTtmAVdQOpdjy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kNWQcYOwSiGHT3ZNiHXA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vnLcy7IsSiuVZn04svWH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SmVCF2cgS1at766n9zzS"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/tod3em_ouya-screenshot20151117-3-1fkfi4f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/thumbnails\/thumbnail20151117-3-1dr3hx8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/7kcp2o_ouya-screenshot20151117-3-1sqoxo4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/thumbnails\/thumbnail20151117-3-1okef89.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/hcaj49_ouya-screenshot20151117-3-1t45f3v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/thumbnails\/thumbnail20151117-3-1wqnfck.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/h3mu1f_ouya-screenshot20151117-3-54o289.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/thumbnails\/thumbnail20151117-3-191d0d9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/f1ocq5_ouya-screenshot20151117-3-q659t5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8b693779-9a5d-49ac-9604-6c75ecffe43a\/thumbnails\/thumbnail20151117-3-1s517gg.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "7ff6abdd-57c3-45a9-8036-2e2aa7e408de",
+        "name": "Future Today Inc",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.futuretodayinc.com",
+    "firstPublishedAt": "2015-10-15T14:51:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2015 by Future Today Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 3
+    }
+}

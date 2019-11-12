@@ -1,0 +1,100 @@
+{
+    "packageName": "com.muandheyo.bosonx",
+    "title": "Boson X",
+    "description": "Boson X is a fast-paced rotational runner set in a particle accelerator.\r\n\r\nFeatured as one of the Best of 2013 apps on the App Store.\r\n\r\n\"a brilliant, twitchy arcade masterpiece that pulsates with originality and heart\" - Pocket Gamer, 9\/10\r\n\r\n\"a massively unique take on the endless runner genre\" - Gamezebo, 4.5\/5\r\n\r\n\"an amazingly compelling game\" - Touch Arcade, 5\/5\r\n\r\nQuantum jump from Planck to Planck as you build up speed inside an enormous particle accelerator and generate high-energy collisions to discover strange new particles. Use precise timing and fast reflexes to navigate a hazardous subatomic world where floors and ceilings don't exist. Will you be fast enough to find the elusive Boson X?\r\n\r\nWARNING: Some sections of this game contain flashing lights.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Racing",
+        "Retro",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.2.5",
+            "versionCode": 0,
+            "uuid": "d69f90e5-3026-4e22-8dfc-813a1a7a8898",
+            "date": "2015-10-16T17:10:32Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.muandheyo.bosonx_1.2.5\/Boson X_1.2.5_com.muandheyo.bosonx.apk",
+            "size": 18177916,
+            "md5sum": "abd2dad09de03bed6cd3fa0414ce3a39",
+            "publicSize": 197430,
+            "nativeSize": 1645980
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.muandheyo.bosonx\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U5G0VmDuSuyvJgXba5jj",
+        "video": "https:\/\/vimeo.com\/112035623",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IIkJDmRoe5e254BD8jQe",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hJCFlBHtTSm6WtODmBwW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xv8OWzDPQvqGQJ54WdWu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RcxeBDOxSTmMtHPakFEm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U5WdvMxTdmAxBwnYEoxp"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/112035623"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/4g23j5_ouya-screenshot20151016-3-s41beo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/thumbnails\/thumbnail20151016-3-rrjyvk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/deou8z_ouya-screenshot20151016-3-wr44il.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/thumbnails\/thumbnail20151016-3-6t9wrl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/aps25k_ouya-screenshot20151016-3-d47yb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/thumbnails\/thumbnail20151016-3-ua7ae0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/h9xdao_ouya-screenshot20151016-3-8r2dp8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/thumbnails\/thumbnail20151016-3-155poma.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/n2qia7_ouya-screenshot20151016-3-oyow01.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d69f90e5-3026-4e22-8dfc-813a1a7a8898\/thumbnails\/thumbnail20151016-3-1nwnu8y.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ian MacLarty",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "ianmaclarty.com",
+    "firstPublishedAt": "2014-11-17T23:47:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Ian MacLarty.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.39,
+        "count": 36
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "boson-x",
+            "name": "Boson X",
+            "description": "Boson X",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

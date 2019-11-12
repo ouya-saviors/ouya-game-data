@@ -1,0 +1,90 @@
+{
+    "packageName": "com.pigoutproductions.suddendeathsoccer",
+    "title": "Sudden Death Soccer",
+    "description": "Pit pirates against aliens in a different take on a classic game of soccer--a match to the death. Battle head to head against the opposing team to score a goal on the enemy, sending them flying with an explosion. But, watch the timer. If neither team scores prepare to blast off. Get ready for loads of fun with a new twist on an old game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4cea60fd-4e2a-47a1-9a44-01a005693fac",
+            "date": "2014-06-11T23:14:02Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.suddendeathsoccer_1.0\/Sudden Death Soccer_1.0_com.pigoutproductions.suddendeathsoccer.apk",
+            "size": 32296834,
+            "md5sum": "b07388a3317fb437614601a6f5abad6c",
+            "publicSize": 1333429,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.suddendeathsoccer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oKYjeX0BQQuXisMNVviF",
+        "video": "https:\/\/vimeo.com\/96759680",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bZh3p5aLQe6GLuVlUX38",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mICpcXGROmN3qJIfoBMi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N4bkGCKLSCE7FRtLaOaD",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FyyCPjRraWoRbPKLneKw"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/96759680"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/bZh3p5aLQe6GLuVlUX38",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/bZh3p5aLQe6GLuVlUX38"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mICpcXGROmN3qJIfoBMi",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mICpcXGROmN3qJIfoBMi"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/N4bkGCKLSCE7FRtLaOaD",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/N4bkGCKLSCE7FRtLaOaD"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FyyCPjRraWoRbPKLneKw",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FyyCPjRraWoRbPKLneKw"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-06-11T23:14:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.45,
+        "count": 11
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SuddenDeathSoccerFull",
+            "name": "Sudden Death Soccer Full Game",
+            "description": "Are you ready play some high stakes Soccer?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,103 @@
+{
+    "packageName": "com.loadupgames.brickbreakerpremium",
+    "title": "Brick Breaker Premium",
+    "description": "The classic brick-breaker game.\r\n\r\nIt's Back!\r\n\r\nNO In-App Purchases!\r\n\r\n- 35 Challenging Levels to Complete.\r\n- Your Choice To Use Analogue Stick or D-pad.\r\n- Classic Power-ups.\r\n- Heroic Storyline, Where It All Began!\r\n- See Ending Cutscenes If You Can Complete The Game!!!\r\n\r\nIt's Addictive and Loads of Fun! Good Luck!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.5.0",
+            "versionCode": 0,
+            "uuid": "392d4d15-2a2c-443d-8b77-2b42a327d491",
+            "date": "2015-08-28T18:48:54Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.loadupgames.brickbreakerpremium_1.5.0\/Brick Breaker Premium_1.5.0_com.loadupgames.brickbreakerpremium.apk",
+            "size": 19454789,
+            "md5sum": "1237ffef716632e5d29ff0e4834e72eb",
+            "publicSize": 1054916,
+            "nativeSize": 8821100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.loadupgames.brickbreakerpremium\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qfBcMYsETL2sHfQMyV2W",
+        "video": "https:\/\/vimeo.com\/111024920",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yKgfnTLJQTiztyaedjN4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m8bPcVYfQUepQkyVv028",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WhB3BQaMTw6Pq1zI1zAc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CTh7QBnkQ2KpZFD7LIoE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nuLzwahATQeEDSzZ4ioT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eC6dFz2RpS3jKMgmJrRi"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/111024920"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/jvsugj_ouya-screenshot20150818-3-t9zomi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/thumbnails\/thumbnail20150818-3-dpthlg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/8gmrah_ouya-screenshot20150818-3-1x10p34.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/thumbnails\/thumbnail20150818-3-1gf13q1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/lfcwy3_ouya-screenshot20150818-3-1y6cocw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/thumbnails\/thumbnail20150818-3-1c795ra.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/f4jl4h_ouya-screenshot20150818-3-n61zhk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/thumbnails\/thumbnail20150818-3-1qjswfs.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/eo9qx6_ouya-screenshot20150818-3-13zll4p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/thumbnails\/thumbnail20150818-3-3yn99c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/9kt0hk_ouya-screenshot20150818-3-q6gxr6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392d4d15-2a2c-443d-8b77-2b42a327d491\/thumbnails\/thumbnail20150818-3-12bdsxn.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bf49ca86-c7b9-43b5-9d22-289423d57125",
+        "name": "LoadUpGames.com",
+        "supportEmail": "loadupgames@outlook.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/loadupgames.com\/brick-breaker-premium\/",
+    "firstPublishedAt": "2014-11-07T21:40:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2015 by LoadUpGames.com.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.73,
+        "count": 22
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Brick_Breaker_Premium",
+            "name": "Brick Breaker Premium",
+            "description": "The classic brick-breaker game. NO In-App Purchases! Your Choice To Use Analogue Stick or D-pad. Good Luck!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

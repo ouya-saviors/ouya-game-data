@@ -1,0 +1,92 @@
+{
+    "packageName": "com.pigoutproductions.hiddengardenmeadow",
+    "title": "Hidden Garden Meadow",
+    "description": "Hidden Garden is back with even more beautiful scenes and more amazing music. Continue your journey through the Hidden Gardens in this beautiful hidden object adventure game. Hidden Garden Meadow is the next title in the Hidden Garden series. Relax and enjoy the gorgeous scenery as you find hundreds of new items such as teacups, teapots, frogs, squirrels, keys, candles, umbrellas, cupcakes, rabbits, butterflies, birds, lady bugs, hearts, and honey bees throughout many breathtaking locations. The stunning visuals are accompanied by four new equally stunning musical compositions.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "0902f218-a863-44f0-aeef-3b181c40ece3",
+            "date": "2014-07-15T23:27:07Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.hiddengardenmeadow_1.0\/Hidden Garden Meadow_1.0_com.pigoutproductions.hiddengardenmeadow.apk",
+            "size": 32784246,
+            "md5sum": "323d3947187b3f48e52d2db9b876f5fd",
+            "publicSize": 338001,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.hiddengardenmeadow\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RZbdkVuvRbSB5bUfsJhk",
+        "video": "https:\/\/vimeo.com\/100823355",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i7SxgVwSw6QqYMoSGRnw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q5XSHZwvTZSInkyVDFCH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6GtJuXMbQwSEgWRksSt5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lgRkjQcPQ36vAwMtDP0a"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100823355"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/qj5a0c_ouya-screenshot20140714-2-v1h2sn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/thumbnails\/thumbnail20140714-2-d4o1t5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/i266fq_ouya-screenshot20140714-2-198rqvc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/thumbnails\/thumbnail20140714-2-z9w0sf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/wyw1p2_ouya-screenshot20140714-2-1br8fcl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/thumbnails\/thumbnail20140714-2-1rf4fyw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/4fxnhh_ouya-screenshot20140714-2-p2rnc0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0902f218-a863-44f0-aeef-3b181c40ece3\/thumbnails\/thumbnail20140714-2-1bl2hns.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-07-15T23:27:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 1,
+        "count": 2
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HGMeadow",
+            "name": "Hidden Garden Meadow",
+            "description": "Journey through the Hidden Gardens in this relaxing and beautiful hidden object adventure game?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

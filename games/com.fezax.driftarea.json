@@ -1,0 +1,109 @@
+{
+    "packageName": "com.fezax.driftarea",
+    "title": "Drift Area",
+    "description": "Drift away with your American muscle car.\r\nYou can play single or multiplayer with\r\nyour friends or against computer.",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Multiplayer",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "f220e431-9c3e-4baa-866f-f41c0e5fb6e2",
+            "date": "2015-10-21T14:47:56Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.fezax.driftarea_1.0\/DriftArea_1.0_com.fezax.driftarea.apk",
+            "size": 23250355,
+            "md5sum": "4ac935b36cd4c306ffff8f43225325a3",
+            "publicSize": 329875,
+            "nativeSize": 2100828
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fezax.driftarea\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mEuPPBR2SHmRRRWocl4M",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dGW2bxEfT5O0YtFd0hMb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2ivHF6fqT96p6h7treYk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I3J8CwqnQDCNJWIj4PGt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q3MlAWyTnSBVvP7FBrnA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MVc5AsyTtKe4P09ZHSxl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kCdmS9SmSz60YaZTUSim",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wrDNXr1SQG2ColYfhaMh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6TrDCE0AShypJLdgLe2j",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X8e83Mp8RZ23bENOPYda"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/a4lbj1_ouya-screenshot20151017-3-1ie9oe8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-osl101.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/rd4b0y_ouya-screenshot20151017-3-19qwzw1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-1xuvsc3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/awqwtv_ouya-screenshot20151017-3-1d9jfa5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-4uk334.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/naphba_ouya-screenshot20151017-3-1f9u4fd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-nysaes.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/a4oano_ouya-screenshot20151017-3-19tivd1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-xdq96x.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/jbwa49_ouya-screenshot20151017-3-qjdbj8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-i85buo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/liogws_ouya-screenshot20151017-3-1b16drs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-juj40z.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/zezgwp_ouya-screenshot20151017-3-y5n1yw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-u0pu4l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/ow86dy_ouya-screenshot20151017-3-15262dz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f220e431-9c3e-4baa-866f-f41c0e5fb6e2\/thumbnails\/thumbnail20151017-3-15oshtq.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "77eea47c-1925-40d7-838b-eb0584440026",
+        "name": "Fezax",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.fezax.com",
+    "firstPublishedAt": "2015-10-21T14:47:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Fezax.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.96,
+        "count": 28
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "packageName": "com.PixelsAndPoutine.Cashtronauts",
+    "title": "Cashtronauts",
+    "description": "Cashtronauts is a fast-paced, retro twin-stick shooter for 1 to 4 players. Will you focus on mining, pirate hunting or just pillaging and looting your fellow players?\r\n\r\nOur Kickstarter is live until February 26th.  Your support will be greatly appreciated!\r\n\r\nThis game is in early alpha.  Play and send your feedback to info@cashtronauts.com\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Multiplayer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "05e5e190-0f77-4abb-93c7-fb298c70d082",
+            "date": "2014-02-10T18:40:32Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.PixelsAndPoutine.Cashtronauts_1.0\/Cashtronauts_1.0_com.PixelsAndPoutine.Cashtronauts.apk",
+            "size": 77721649,
+            "md5sum": "316cbda9c9e1de4635fbdd0737086cb2",
+            "publicSize": 246333,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pixelsandpoutine.cashtronauts\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BgacevGVQ3W2NCedUqIB",
+        "video": "https:\/\/vimeo.com\/84830936",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/igAzb69OQ1mkp7gTj9Qb",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3KycOoBSSNGL2HcTzW0m",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/K0VT5iJFTay6VLOTW9MM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cUDIHwSnqM0br4rJh0rw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U1ulwXz9R86hRR8yM2xk"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84830936"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/igAzb69OQ1mkp7gTj9Qb\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/igAzb69OQ1mkp7gTj9Qb\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/3KycOoBSSNGL2HcTzW0m\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/3KycOoBSSNGL2HcTzW0m\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/K0VT5iJFTay6VLOTW9MM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/K0VT5iJFTay6VLOTW9MM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cUDIHwSnqM0br4rJh0rw\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cUDIHwSnqM0br4rJh0rw\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/U1ulwXz9R86hRR8yM2xk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/U1ulwXz9R86hRR8yM2xk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Pixels & Poutine",
+        "supportEmail": "info@cashtronauts.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.cashtronauts.com",
+    "firstPublishedAt": "2014-01-23T17:08:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2014 by Pixels & Poutine.",
+    "premium": false,
+    "rating": {
+        "likeCount": 36,
+        "average": 3.51,
+        "count": 81
+    }
+}

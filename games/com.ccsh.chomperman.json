@@ -1,0 +1,71 @@
+{
+    "packageName": "com.ccsh.chomperman",
+    "title": "Chomperman",
+    "description": "The 2006 PC classic maze game returns with an all-new OUYA-exclusive level!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "71ed8314-24f4-44cf-ae22-20db4dca36a2",
+            "date": "2016-06-02T21:14:48Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.ccsh.chomperman_1.0.0\/Chomperman_1.0.0_com.ccsh.chomperman.apk",
+            "size": 10456984,
+            "md5sum": "3efc10d8ce6e68fe6614f42585658e0c",
+            "publicSize": 286628,
+            "nativeSize": 10158352
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ccsh.chomperman\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EHjfPJVFQc28Deu5TuKN",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KG1dkIpzSEOabLPNH8Df",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EChZRmiyQNwTBFyLbBsW",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OkWQ4JuRumVI73FIug0w"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71ed8314-24f4-44cf-ae22-20db4dca36a2\/shojz0_ouya-screenshot20160525-3-1lzsiqv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71ed8314-24f4-44cf-ae22-20db4dca36a2\/thumbnails\/thumbnail20160525-3-1wvbc0u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71ed8314-24f4-44cf-ae22-20db4dca36a2\/5ezmlh_ouya-screenshot20160525-3-4c6ctg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71ed8314-24f4-44cf-ae22-20db4dca36a2\/thumbnails\/thumbnail20160525-3-1l5lhcx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71ed8314-24f4-44cf-ae22-20db4dca36a2\/6fbie0_ouya-screenshot20160525-3-m8h5te.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/71ed8314-24f4-44cf-ae22-20db4dca36a2\/thumbnails\/thumbnail20160525-3-s26bkk.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "58321b6c-9d92-4566-af22-4071544c8467",
+        "name": "CC & SH",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.ccshgames.com",
+    "firstPublishedAt": "2016-06-02T21:14:48Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2016 by CC & SH.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.85,
+        "count": 33
+    }
+}

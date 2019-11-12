@@ -1,0 +1,87 @@
+{
+    "packageName": "com.toa.sudokuOuya",
+    "title": "Nikoli Sudoku",
+    "description": "Nikoli Sudoku offers authentic puzzles by Nikoli Co., Ltd., the same company responsible for making Sudoku an international hit. Developed by Tetris Online, Inc., Nikoli Sudoku was designed specifically for use on the big screen using a game controller! Challenge your mind with a relaxing game of Sudoku, today!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.3.3r",
+            "versionCode": 0,
+            "uuid": "457dcd06-6e79-4b0f-b953-6b822be5afce",
+            "date": "2014-09-11T18:26:12Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.toa.sudokuOuya_1.3.3r\/ToaSudokuOuya_1.3.3r_com.toa.sudokuOuya.apk",
+            "size": 17884285,
+            "md5sum": "e368f4a220e4ce73304128421346b01b",
+            "publicSize": 336283,
+            "nativeSize": 4997800
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.toa.sudokuouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WQVGEVvVTM2ANZCOytYT",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TLb6C15TKKMcohQCSdCM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8vF3sptPThWXhPm9XxtK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OHiRI5JRTPNPIDNcHeCh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RdDUeZw5Qu6po1iEr0Ef",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X8nLGcFxT2mH0f1QiYtF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/umfLrp6MSo2JRQm243Ku"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/zrxs90_ouya-screenshot20140910-2-l6z4ae.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/thumbnails\/thumbnail20140910-2-18hf5a5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/534p0p_ouya-screenshot20140910-2-hd6g0b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/thumbnails\/thumbnail20140910-2-1qzuf9z.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/r0w6w0_ouya-screenshot20140910-2-mhvsq1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/thumbnails\/thumbnail20140910-2-1c1uuhi.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/h2ybpl_ouya-screenshot20140910-2-1mytfbq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/thumbnails\/thumbnail20140910-2-114y63w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/44oiht_ouya-screenshot20140910-2-1uxv2cg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/thumbnails\/thumbnail20140910-2-qb6wg4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/xa7qzf_ouya-screenshot20140910-2-124321s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/457dcd06-6e79-4b0f-b953-6b822be5afce\/thumbnails\/thumbnail20140910-2-oloy8n.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tetris Online, Inc.",
+        "supportEmail": "support@tetrisonline.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.tetrisonline.com",
+    "firstPublishedAt": "2014-09-03T18:31:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Tetris Online, Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.55,
+        "count": 33
+    }
+}

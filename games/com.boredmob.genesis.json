@@ -1,0 +1,79 @@
+{
+    "packageName": "com.boredmob.genesis",
+    "title": "Genesis of Drones",
+    "description": "The horde of drones has invaded earth. They are taking over cities and factories, using them for their own self-replication. Play as Joe or Gem and rise up to fight the horde.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Kids List",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "bc42c5c6-7e59-4dc8-aa75-441d0daf8144",
+            "date": "2014-12-18T19:55:16Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.boredmob.genesis_1.0.0\/Genesis of Drones_1.0.0_com.boredmob.genesis.apk",
+            "size": 19621413,
+            "md5sum": "706de2e7c05243b809dde4f329f97c85",
+            "publicSize": 2248520,
+            "nativeSize": 19314591
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.boredmob.genesis\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rsr6lKSOSMapvJYha1QH",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SLXSx56aSlW9R0hJG1Cg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M4isJHRreUWA8yO8ERWA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XAizPCp8TOiXR4jxPsMB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i2drOObwQbWMeE7E4x6G"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/7o06h7_ouya-screenshot20141215-2-qsnpnz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/thumbnails\/thumbnail20141215-2-o73ar1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/uyab0v_ouya-screenshot20141215-2-13qgj7o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/thumbnails\/thumbnail20141215-2-6ssx3l.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/3vdh05_ouya-screenshot20141215-2-1rtdn38.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/thumbnails\/thumbnail20141215-2-1mzbq48.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/p9oua5_ouya-screenshot20141216-2-1tih290.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bc42c5c6-7e59-4dc8-aa75-441d0daf8144\/thumbnails\/thumbnail20141216-2-6b7fju.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "bef31b70-dcda-4a50-945a-4ac09d11d05b",
+        "name": "boredmob.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "boredmob.com",
+    "firstPublishedAt": "2014-12-18T19:55:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by boredmob.com.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.13,
+        "count": 60
+    }
+}

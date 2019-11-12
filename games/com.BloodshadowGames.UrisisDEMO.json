@@ -1,0 +1,93 @@
+{
+    "packageName": "com.BloodshadowGames.UrisisDEMO",
+    "title": "Urisis The Demo",
+    "description": "Urisis the Darkthrone is a an epic medieval platformer set in the world of Urisis, in a distant past,  it is an extensive retro styled video game to be released on Aug 2014.  Try this brief DEMO, and look for the other 98% when the full game comes out in August 2014.\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.19",
+            "versionCode": 0,
+            "uuid": "734eb5b6-7075-410b-9921-621e19bc825d",
+            "date": "2014-08-12T17:56:57Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.BloodshadowGames.UrisisDEMO_1.0.19\/Urisis The Demo_1.0.19_com.BloodshadowGames.UrisisDEMO.apk",
+            "size": 61673439,
+            "md5sum": "27e74e4d050b23208fe37aed81eeeb23",
+            "publicSize": 789717,
+            "nativeSize": 8169028
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bloodshadowgames.urisisdemo\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8tsFzzn5RIemQOzFMQ0N",
+        "video": "http:\/\/vimeo.com\/102894823",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IuksDHl4QRe1BvDtOkw3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/12TRDMaOSsyEpqjBLHcT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZVMWZxPGRiSbkfpoCWpt",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CTuEGr3PRAee7hT8CpxU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9VbLIeuHRCS0nKvK1veF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/neOLhpdSAyfadijVPFHN"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/102894823"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/z50z9_ouya-screenshot20140807-2-gmwj6c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/thumbnails\/thumbnail20140807-2-19206cq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/jr9v77_ouya-screenshot20140807-2-1etpyg7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/thumbnails\/thumbnail20140807-2-1vn3yxh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/egtegi_ouya-screenshot20140807-2-1gab8a4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/thumbnails\/thumbnail20140807-2-1kwug6s.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/smtewf_ouya-screenshot20140807-2-wl4fb7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/thumbnails\/thumbnail20140807-2-1bgzgt3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/rib0rg_ouya-screenshot20140807-2-1qev1zm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/thumbnails\/thumbnail20140807-2-rjv1yx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/blpexu_ouya-screenshot20140807-2-s12qy2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/734eb5b6-7075-410b-9921-621e19bc825d\/thumbnails\/thumbnail20140807-2-t5gfvc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "894f6c13-5520-45dd-b793-9580b52ec89a",
+        "name": "Bloodshadow Games",
+        "supportEmail": "ultrafuzzy@yahoo.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.urisisthegame.net",
+    "firstPublishedAt": "2014-03-24T21:05:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2014 by Bloodshadow Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 7,
+        "average": 2.26,
+        "count": 35
+    }
+}

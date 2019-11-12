@@ -1,0 +1,83 @@
+{
+    "packageName": "com.LokomotivGames.CosmiBall",
+    "title": "CosmiBall",
+    "description": "Short 3D Platforming Adventure: CosmiBall One\n\nCosmiBall v17 (5\/23\/2016):\n-Initial release on PC\n-Added Cortex compatibility\n-Adjusted kill planes to be more fair\n\nCosmiBall v16 (2\/1\/2016):\n-Initial release on Ouya",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Meditative",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "17",
+            "versionCode": 0,
+            "uuid": "88f98fe8-384b-41c7-97a7-3e6f33cb3b65",
+            "date": "2016-05-24T21:08:14Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.LokomotivGames.CosmiBall_17\/CosmiBall_17_com.LokomotivGames.CosmiBall.apk",
+            "size": 26208965,
+            "md5sum": "744d121c3c512179c884966009d3032f",
+            "publicSize": 299367,
+            "nativeSize": 19333272
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.lokomotivgames.cosmiball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zczk6cttTHqar6503Klk",
+        "video": "https:\/\/vimeo.com\/167805446",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7VoSiuTSgqqeXBKDpRfx",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pju5qBJ3SJuBuWJw7vdL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dQaqkaMVTcOOhTyXCxWB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bbgMtOcoQLCJg2EVzLKb"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/167805446"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/dcb6gn_ouya-screenshot20160523-3-14gsor1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/thumbnails\/thumbnail20160523-3-1njybat.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/ebiway_ouya-screenshot20160523-3-1e8uv3j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/thumbnails\/thumbnail20160523-3-1820fl7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/ge6jrw_ouya-screenshot20160523-3-1ibbk0i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/thumbnails\/thumbnail20160523-3-rw14j5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/y253wo_ouya-screenshot20160523-3-1hbxzz9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f98fe8-384b-41c7-97a7-3e6f33cb3b65\/thumbnails\/thumbnail20160523-3-14pl85a.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "BHERDM",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2016-02-01T17:23:14Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2016 by BHERDM.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.51,
+        "count": 43
+    }
+}

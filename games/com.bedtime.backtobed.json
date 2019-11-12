@@ -1,0 +1,7 @@
+
+Warning: file_get_contents(old-data/more-apps/apps-pkgname/com.bedtime.backtobed.json): failed to open stream: No such file or directory in /home/cweiske/dev/ouya/game-data/bin/convert-original.php on line 41
+
+Call Stack:
+    0.0003     428104   1. {main}() /home/cweiske/dev/ouya/game-data/bin/convert-original.php:0
+    0.0004     454728   2. file_get_contents() /home/cweiske/dev/ouya/game-data/bin/convert-original.php:41
+

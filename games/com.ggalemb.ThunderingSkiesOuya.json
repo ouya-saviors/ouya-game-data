@@ -1,0 +1,86 @@
+{
+    "packageName": "com.ggalemb.ThunderingSkiesOuya",
+    "title": "Thundering Skies",
+    "description": "Thundering Skies is an arcade-style homage to the 16-bit shoot 'em up games of yesteryear, with the expected classic gameplay, the expected game references galore and some not-so-expected features.\n\n- Six stages\n- Two game modes: play at your own pace saving your progress or try to beat it in one sit with limited continues for an extra score boost\n- Four difficulty levels, including a Beginner mode for newcomers to the shmup genre\n- Challenging bosses and minibosses\n- Online score board\n- An amazing soundtrack by Bettina Calmon",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.4",
+            "versionCode": 3,
+            "uuid": "c3dbc427-a45e-416f-8634-0a3caa187f43",
+            "date": "2016-08-09T18:11:34Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.ggalemb.ThunderingSkiesOuya_1.4\/Thundering Skies_1.4_com.ggalemb.ThunderingSkiesOuya.apk",
+            "size": 35756083,
+            "md5sum": "31564b257d8d61a1c2ff72984a36ce9a",
+            "publicSize": 371655,
+            "nativeSize": 6451920
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ggalemb.thunderingskiesouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XrBfH1VETDCR9CSOCYgk",
+        "video": "https:\/\/vimeo.com\/130037826",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tVQLudmKTSWGPccdrLqI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NphVoY8hRUGx5LCI7FZK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jPMdgnHCQv9NWSEPxhrP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/130037826"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3dbc427-a45e-416f-8634-0a3caa187f43\/jhx707_ouya-screenshot20160808-3-wxjzcj.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3dbc427-a45e-416f-8634-0a3caa187f43\/thumbnails\/thumbnail20160808-3-1n0lv8d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3dbc427-a45e-416f-8634-0a3caa187f43\/vvebo9_ouya-screenshot20160808-3-1vaukwx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3dbc427-a45e-416f-8634-0a3caa187f43\/thumbnails\/thumbnail20160808-3-1fmw02j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3dbc427-a45e-416f-8634-0a3caa187f43\/9zrq8w_ouya-screenshot20160808-3-x7evhs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3dbc427-a45e-416f-8634-0a3caa187f43\/thumbnails\/thumbnail20160808-3-130iemt.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "09d1ec9b-d6bf-4e90-a7c0-d6405267bf2b",
+        "name": "Flat Voxel",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-06-11T15:38:43Z",
+    "inAppPurchases": false,
+    "overview": "Released in August 2016 by Flat Voxel.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.36,
+        "count": 14
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_game_unlock",
+            "name": "Full game",
+            "description": "Gives access to the full game.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

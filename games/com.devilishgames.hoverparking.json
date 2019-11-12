@@ -1,0 +1,85 @@
+{
+    "packageName": "com.devilishgames.hoverparking",
+    "title": "360 Hover Parking",
+    "description": "This is the year 2136 and we\u2019ve run out of space to store our cars. Fortunately, these new cars grip to any surface so we can drive them in the three dimensional axis.\r\n\r\nEnjoy parking cars in a 360 degrees experience, in every horizontal floor and every vertical wall, in a neon styled futuristic world. Park as many cars as you can before the time is over and before you lose your sense of direction.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1",
+            "versionCode": 0,
+            "uuid": "0da24995-4d55-4f7d-959c-85ccd56df26b",
+            "date": "2015-01-15T08:19:09Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.devilishgames.hoverparking_1\/360 Hover Parking_1_com.devilishgames.hoverparking.apk",
+            "size": 48956761,
+            "md5sum": "18a5f96855c7309af120182c47652729",
+            "publicSize": 461314,
+            "nativeSize": 14956816
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.devilishgames.hoverparking\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/V5kzIw7KSDWfbJERPxyR",
+        "video": "https:\/\/vimeo.com\/114959105",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ublsEHg2RsS689Sz4WCK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KWQP5o8sT5SjaVNmdiHO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IO18SyfeTZuZGDbPmRAa"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/114959105"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0da24995-4d55-4f7d-959c-85ccd56df26b\/zwxjrc_ouya-screenshot20150109-2-r0pvxu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0da24995-4d55-4f7d-959c-85ccd56df26b\/thumbnails\/thumbnail20150109-2-1ez4uzd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0da24995-4d55-4f7d-959c-85ccd56df26b\/zd3a2v_ouya-screenshot20150109-2-zi8ojx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0da24995-4d55-4f7d-959c-85ccd56df26b\/thumbnails\/thumbnail20150109-2-214h76.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0da24995-4d55-4f7d-959c-85ccd56df26b\/3k5dyl_ouya-screenshot20150109-2-2xylqo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0da24995-4d55-4f7d-959c-85ccd56df26b\/thumbnails\/thumbnail20150109-2-gy3wd4.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "SPHERICAL PIXEL, S.L",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.devilishgames.com",
+    "firstPublishedAt": "2015-01-15T08:19:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by SPHERICAL PIXEL, S.L.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.17,
+        "count": 6
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "hoverparking",
+            "name": "360 Hover Parking",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

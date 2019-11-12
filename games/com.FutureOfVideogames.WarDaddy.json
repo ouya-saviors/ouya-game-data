@@ -1,0 +1,87 @@
+{
+    "packageName": "com.FutureOfVideogames.WarDaddy",
+    "title": "War Daddy: War Harder",
+    "description": "In the future there are no chips just WAR and DADDY.\r\n\r\nYou are the War Daddy. The aliens want you dead. They will kill you. They kill you every single time.\r\n\r\nHow long can you survive the alien onslaught and live up to your name, The name of WAR DADDY?\r\n\r\n30 Seconds will feel like an eternity. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.12",
+            "versionCode": 0,
+            "uuid": "207e58bb-c215-446b-8697-7e19bb99e1cd",
+            "date": "2013-12-06T21:20:02Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.FutureOfVideogames.WarDaddy_1.0.12\/War Daddy_1.0.12_com.FutureOfVideogames.WarDaddy.apk",
+            "size": 10342298,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.futureofvideogames.wardaddy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qA3SknHRQdWdirO8QS1u",
+        "video": "https:\/\/vimeo.com\/81078201",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CAT6GZ4yRe2GIioC7YnK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jOxRrbXzS0yzg2GJHuJU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aFpnPZnUTi2zQkIAqJqZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MCpHh6ESKuLbkF9Vq7c1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8NvRqR9KREGw30sy6kMS"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/81078201"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/CAT6GZ4yRe2GIioC7YnK\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/CAT6GZ4yRe2GIioC7YnK\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/jOxRrbXzS0yzg2GJHuJU\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/jOxRrbXzS0yzg2GJHuJU\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/aFpnPZnUTi2zQkIAqJqZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/aFpnPZnUTi2zQkIAqJqZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MCpHh6ESKuLbkF9Vq7c1\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MCpHh6ESKuLbkF9Vq7c1\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/8NvRqR9KREGw30sy6kMS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8NvRqR9KREGw30sy6kMS\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Bagfull Of Wrong",
+        "supportEmail": "oddbob@blueyonder.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.merseyremakes.co.uk\/gibber",
+    "firstPublishedAt": "2013-12-06T21:20:02Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Bagfull Of Wrong.",
+    "premium": false,
+    "rating": {
+        "likeCount": 64,
+        "average": 3.71,
+        "count": 93
+    }
+}

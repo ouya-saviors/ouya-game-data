@@ -1,0 +1,81 @@
+{
+    "packageName": "com.AGameAWeek.JumbleBlocks",
+    "title": "Jumble Blocks",
+    "description": "A classic block-falling puzzle game.\nMatch the blocks in groups of 3x3 or more, in order to clear them from the screen.\nLines will only clear if they're made from a single colour.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "8c7134ba-53ce-4e2d-9d53-7e1dcb47062a",
+            "date": "2016-05-18T06:18:38Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.AGameAWeek.JumbleBlocks_1.0\/Jumble Blocks_1.0_com.AGameAWeek.JumbleBlocks.apk",
+            "size": 6233324,
+            "md5sum": "65c2672a6262cee35b64426b74331125",
+            "publicSize": 144798,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.jumbleblocks\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3Pyr9jjIRzq42TZZpvj0",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cCDkoPiXQvymeOgr19mM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N6dq237dSaumQPxgBfX1",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DnpGl4EQS8i94LUf37fS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OBqmTxDSZyNZa25vvS5Y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mCp09JOSeIOy2hhXESng"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/j6hwxi_ouya-screenshot20160515-3-1xbfjtr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/thumbnails\/thumbnail20160515-3-bo28ag.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/i8iw5s_ouya-screenshot20160515-3-1azqjy3.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/thumbnails\/thumbnail20160515-3-to59tz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/ft8wvc_ouya-screenshot20160515-3-1xueme5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/thumbnails\/thumbnail20160515-3-s0c4pk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/uyge6k_ouya-screenshot20160515-3-19y99ia.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/thumbnails\/thumbnail20160515-3-cd9442.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/delxrs_ouya-screenshot20160515-3-kfbvsc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/8c7134ba-53ce-4e2d-9d53-7e1dcb47062a\/thumbnails\/thumbnail20160515-3-2ed864.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2016-05-18T06:18:38Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2016 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.44,
+        "count": 16
+    }
+}

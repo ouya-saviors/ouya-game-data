@@ -1,0 +1,98 @@
+{
+    "packageName": "com.gamesr.compil2",
+    "title": "3T Games Compilation 2",
+    "description": "3T Games Compilation 2 is a compilation of 4 games in 1.Play Naoki tales,Legend of max,Pablo's fruit and Unreal Land.\nAll games has continue support,Highscore online.\nNaoki play over 35 Levels\nLegend Of max ,continue actived when you reach new area.\nPablo's fruit play over 20 Levels\nUnreal Land Play over 20 Levels\nFree update and comming soon other game on this compilation\n\nHave Fun !!!!\n\n3T Games",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "cfa0581f-2b9c-41c3-b687-66fe3feb344f",
+            "date": "2014-11-07T07:52:18Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.gamesr.compil2_1.2\/3T Games Compil 2_1.2_com.gamesr.compil2.apk",
+            "size": 36851703,
+            "md5sum": "d22bce3eb6f55d65235845744f5be899",
+            "publicSize": 38566054,
+            "nativeSize": 894792
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesr.compil2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dVl7M9wZRl6LMuphBapx",
+        "video": "https:\/\/vimeo.com\/108732046",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OY2WMnv3SgqnBfIfdoJC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7v62lDzRySIlOTQB4j42",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KYW22DDdREOBRZwerUNh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mrpJrw8ISQOC85gJG8Aj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cxQafwkRgusSYYQhFiJX"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/108732046"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/vg9u2m_ouya-screenshot20141103-2-173rwnh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/thumbnails\/thumbnail20141103-2-cpshkh.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/ovtqrr_ouya-screenshot20141103-2-1q8nvkk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/thumbnails\/thumbnail20141103-2-137ed84.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/fh8ylw_ouya-screenshot20141103-2-fy4yhi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/thumbnails\/thumbnail20141103-2-1eu2tb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/67menm_ouya-screenshot20141103-2-eens8i.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/thumbnails\/thumbnail20141103-2-go3pf7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/8ucq47_ouya-screenshot20141103-2-1hwlt8l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cfa0581f-2b9c-41c3-b687-66fe3feb344f\/thumbnails\/thumbnail20141103-2-1vnekrb.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2014-10-20T16:19:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by 3T Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.83,
+        "count": 6
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "compil2",
+            "name": "3T Games Compil 2",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

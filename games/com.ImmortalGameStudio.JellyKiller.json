@@ -1,0 +1,98 @@
+{
+    "packageName": "com.ImmortalGameStudio.JellyKiller",
+    "title": "Jelly Killer",
+    "description": "Jelly Killer - Retro Platformer The Adventures Of A Young Bioweapon. In this game you will act like the young bioweapon. You will encounter lots of traps and puzzles. You will have to possess human bodies to pass the game to the end. Good luck!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 1001001,
+            "uuid": "1622f085-d73a-431f-93dc-8ebbfe477136",
+            "date": "2016-05-29T07:50:32Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.ImmortalGameStudio.JellyKiller_1.1.1\/Jelly Killer_1.1.1_com.ImmortalGameStudio.JellyKiller.apk",
+            "size": 12874457,
+            "md5sum": "f76863ccceacc1cc9935ecfa2f6b0965",
+            "publicSize": 78254,
+            "nativeSize": 4978820
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.immortalgamestudio.jellykiller\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ecdWter4S6W9MQtlWoGA",
+        "video": "http:\/\/vimeo.com\/162602599",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eyIjh3RdQmeRr4BjZHbS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IEC4lPCHQo2yvf6Av2eZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KRfbb18rQi2Dyjx5eoXZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/thQ0SntXQl25mpCVJdO5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/88UVahxIQd2XZyhoocwO"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/162602599"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/xjygyx_ouya-screenshot20160525-3-15hnvpc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/thumbnails\/thumbnail20160525-3-1asjwnx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/pltqde_ouya-screenshot20160525-3-1s1jlbt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/thumbnails\/thumbnail20160525-3-z9vr4m.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/59ac1l_ouya-screenshot20160525-3-1qu0bgd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/thumbnails\/thumbnail20160525-3-qpe1y7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/h7w8t7_ouya-screenshot20160525-3-1vau76b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/thumbnails\/thumbnail20160525-3-nkgyij.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/wb00fi_ouya-screenshot20160525-3-17iklti.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1622f085-d73a-431f-93dc-8ebbfe477136\/thumbnails\/thumbnail20160525-3-1xmeh6w.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "6253f8c2-d6c8-44b2-ac55-4ca5c47fb5be",
+        "name": "Immortal Game Studio",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/immortalgamestudio.com",
+    "firstPublishedAt": "2016-04-19T07:12:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2016 by Immortal Game Studio.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.28,
+        "count": 18
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Jelly_Killer",
+            "name": "Jelly Killer",
+            "description": "Jelly Killer - Retro Platformer The Adventures Of A Young Bioweapon. In this game you will act like the young bioweapon. Good luck!",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

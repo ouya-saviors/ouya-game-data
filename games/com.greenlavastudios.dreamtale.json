@@ -1,0 +1,96 @@
+{
+    "packageName": "com.greenlavastudios.dreamtale",
+    "title": "Dream Tale: The Golden Keys",
+    "description": "How far are you willing to go for a friend? Julia must face this dilemma after her inseparable dog \u201cFifo\u201d mysteriously disappeared.\r\n\r\nHelp Julia find Fifo by going through 4 magical worlds in this classic platform game.\r\n \r\nUse amazing powers given by stars to avoid different poisonous creatures located in strategic and challenging places. Find the 19 golden keys and unlock the final mystery on this hard and memorable journey.\r\n\r\nWill you be able to open the last door and solve the final puzzle? Or can you live knowing that you abandoned Fifo to his mysterious fate?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.20",
+            "versionCode": 0,
+            "uuid": "f76c3182-c925-484c-81ce-4b62a3049207",
+            "date": "2014-05-31T06:52:51Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.greenlavastudios.dreamtale_1.0.20\/Dream Tale_ The Golden Keys_1.0.20_com.greenlavastudios.dreamtale.apk",
+            "size": 116152830,
+            "md5sum": "06ea6014ad938af86088dd19f0855c4c",
+            "publicSize": 1037684,
+            "nativeSize": 7820628
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.greenlavastudios.dreamtale\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xArjDqiwSnWTmOaZmMyx",
+        "video": "https:\/\/vimeo.com\/94513294",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4WFhzaVzRvCX9MRgo1Ps",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/klLsF8fBSQGp7EGTD7Zi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OoJmqBD3TvmXeksm98gr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S0371m5URNlYdOLz9HRQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VoikEnT7T9CO8aKUrfOL"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/94513294"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/y3nsij_ouya-screenshot20140506-2-a2f8s4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/thumbnails\/thumbnail20140506-2-u5047n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/fa5obu_ouya-screenshot20140506-2-11kc80g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/thumbnails\/thumbnail20140506-2-1o9l68u.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/xqtwbl_ouya-screenshot20140506-2-99cb3q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/thumbnails\/thumbnail20140506-2-1v10wun.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/dgjvhl_ouya-screenshot20140506-2-ha4gtl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/thumbnails\/thumbnail20140506-2-1ivgls8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/wjr0c6_ouya-screenshot20140506-2-1y9knd.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f76c3182-c925-484c-81ce-4b62a3049207\/thumbnails\/thumbnail20140506-2-16k7kqc.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e34f561-b542-4086-89f7-954a5cb219a1",
+        "name": "Green Lava Studios",
+        "supportEmail": "info@greenlavastudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/greenlavastudios.com\/",
+    "firstPublishedAt": "2014-05-31T06:52:51Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Green Lava Studios.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.73,
+        "count": 11
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Dream_Tale_Full",
+            "name": "Dream Tale: The Golden Keys",
+            "description": "Explore a magical world and help Julia find her loyal dog!",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

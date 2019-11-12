@@ -1,0 +1,69 @@
+{
+    "packageName": "com.NazarInc.Paddle_Break",
+    "title": "Paddle-Break",
+    "description": "A virtual brick and paddle game which you can play with classy music. Can you win with all 3 lives? This can also be used as training for competitive (virtual) brick and paddle contests.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "40c1fa84-7d38-4896-8659-70564e81f222",
+            "date": "2015-10-27T02:06:55Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.NazarInc.Paddle_Break_1.0\/Paddle-Break_1.0_com.NazarInc.Paddle_Break.apk",
+            "size": 42885769,
+            "md5sum": "b3be1d1919f8ff21c78864097d42e879",
+            "publicSize": 39283,
+            "nativeSize": 18189128
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nazarinc.paddle_break\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e35tlqTXSk629TC7Vib5",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CtnxDMYSK2HCQQGrBUpU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FklLpZhaSgK2GwfC1r8K",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/58fezDPkR7OUoI1YYlLC"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40c1fa84-7d38-4896-8659-70564e81f222\/8oasv1_ouya-screenshot20151024-3-1rvocga.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40c1fa84-7d38-4896-8659-70564e81f222\/thumbnails\/thumbnail20151024-3-1mah2y0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40c1fa84-7d38-4896-8659-70564e81f222\/4wf31d_ouya-screenshot20151024-3-1fu65ko.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40c1fa84-7d38-4896-8659-70564e81f222\/thumbnails\/thumbnail20151024-3-1qcke4d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40c1fa84-7d38-4896-8659-70564e81f222\/4jvw3m_ouya-screenshot20151024-3-lmwqoc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/40c1fa84-7d38-4896-8659-70564e81f222\/thumbnails\/thumbnail20151024-3-y4a8i7.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "02d20923-d2da-4461-8f78-0f704d6be93e",
+        "name": "NazarInc",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-10-27T02:06:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by NazarInc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.8,
+        "count": 10
+    }
+}

@@ -1,0 +1,104 @@
+{
+    "packageName": "com.Mint.Splitscreen",
+    "title": "Sleeping Souls",
+    "description": "You have been selected by the emperor to bring peace back to the sleeping souls, from the evil spirits in 20 mind-splitting levels and NewGame+!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 0,
+            "uuid": "803b1407-2d1a-43ea-89c0-fa20f0f49915",
+            "date": "2014-07-21T23:59:57Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.Mint.Splitscreen_1.0.1\/Sleeping Souls_1.0.1_com.Mint.Splitscreen.apk",
+            "size": 44597806,
+            "md5sum": "9361ad60c067aa5b26fde386078efd5c",
+            "publicSize": 350507,
+            "nativeSize": 7539916
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mint.splitscreen\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SLsGgDzGSGvXrztBXFnh",
+        "video": "https:\/\/vimeo.com\/100966304",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1KRNXgW4RQWZyS1ZvU6Q",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UqNJ7eXQ96pf6lazMgfA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GhQV0thCT9afDMVmBMqC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KPywrT37TUqal0VrSKoH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9TB6DE0ASyaH0iz3wbGB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cAex4LiWRZ2QbrhJEPHy"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100966304"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/bhupgj_ouya-screenshot20140721-2-293k24.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/thumbnails\/thumbnail20140721-2-g17cxb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/h7oj54_ouya-screenshot20140721-2-nup2k9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/thumbnails\/thumbnail20140721-2-hzo7nl.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/bhra7i_ouya-screenshot20140721-2-p33k26.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/thumbnails\/thumbnail20140721-2-1r3yhlf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/i0x2lp_ouya-screenshot20140721-2-9oyisi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/thumbnails\/thumbnail20140721-2-1otg2g5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/gz7sit_ouya-screenshot20140721-2-k5w8hr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/thumbnails\/thumbnail20140721-2-1l27w67.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/e9hu4r_ouya-screenshot20140721-2-5mg3m2.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/803b1407-2d1a-43ea-89c0-fa20f0f49915\/thumbnails\/thumbnail20140721-2-1tibmle.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "98690b90-9c3c-4060-bf26-bc755410e0b3",
+        "name": "Team Omni",
+        "supportEmail": "info@team-omni.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.team-omni.com\/",
+    "firstPublishedAt": "2014-07-21T23:59:57Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Team Omni.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.32,
+        "count": 19
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Sleeping_Souls",
+            "name": "Sleeping Souls Unlock",
+            "description": "Sleeping Souls Full Game Unlock",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

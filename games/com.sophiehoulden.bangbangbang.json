@@ -1,0 +1,98 @@
+{
+    "packageName": "com.sophiehoulden.bangbangbang",
+    "title": "BANG BANG BANG!",
+    "description": "A Western quick-draw game to play with friends.\r\n\r\n- Local multi-player; for 2 - 4 players\r\n- Featuring original music by Dave Dexter\r\n- 6 Characters\r\n- Bot support (but it's better with friends!)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4ee8ecd3-9c66-4bb1-b13f-aec200d2c187",
+            "date": "2014-07-14T21:17:47Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.sophiehoulden.bangbangbang_1.0\/BANG BANG BANG!_1.0_com.sophiehoulden.bangbangbang.apk",
+            "size": 33432258,
+            "md5sum": "abe6b779db26a134f098d3849f7c2af3",
+            "publicSize": 520160,
+            "nativeSize": 14802632
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sophiehoulden.bangbangbang\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7SpnG5HhR0GCJZS2Poel",
+        "video": "https:\/\/vimeo.com\/100595078",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/njdLNcWQC5yAjHMygyFA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jOClRO4QPiitr6ViYvFr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IUP1xK3TeGbPmthYo75y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vdC6RL8pRyiOhdt2p2vU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4S4j2Ie2QGGpKlruMpae"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100595078"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/bvyhox_ouya-screenshot20140712-2-14x09r5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/thumbnails\/thumbnail20140712-2-1rgrxi3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/82twtq_ouya-screenshot20140712-2-1fbi9nh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/thumbnails\/thumbnail20140712-2-1kk6yym.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/rxmhmv_ouya-screenshot20140712-2-1jzxzns.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/thumbnails\/thumbnail20140712-2-3zr287.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/y49gtr_ouya-screenshot20140712-2-1sfdgzs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/thumbnails\/thumbnail20140712-2-1hqtus1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/3sazsp_ouya-screenshot20140712-2-1h0i0fv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4ee8ecd3-9c66-4bb1-b13f-aec200d2c187\/thumbnails\/thumbnail20140712-2-tf9spe.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "494fe477-3af0-4700-b052-dc048a3439d1",
+        "name": "Sophie Houlden",
+        "supportEmail": "sophie@sophiehoulden.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/sophieh.itch.io\/bangbangbang",
+    "firstPublishedAt": "2014-07-14T21:17:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Sophie Houlden.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.4,
+        "count": 15
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "bangbangbang_fullgame",
+            "name": "BANG BANG BANG! - Full Game",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

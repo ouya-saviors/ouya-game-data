@@ -1,0 +1,7 @@
+
+Warning: file_get_contents(old-data/more-apps/apps-pkgname/net.pandum.client.json): failed to open stream: No such file or directory in /home/cweiske/dev/ouya/game-data/bin/convert-original.php on line 41
+
+Call Stack:
+    0.0007     428072   1. {main}() /home/cweiske/dev/ouya/game-data/bin/convert-original.php:0
+    0.0008     442592   2. file_get_contents() /home/cweiske/dev/ouya/game-data/bin/convert-original.php:41
+

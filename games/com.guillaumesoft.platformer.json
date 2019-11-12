@@ -1,0 +1,75 @@
+{
+    "packageName": "com.guillaumesoft.platformer",
+    "title": "MrRobot",
+    "description": "Help Mr Robot to escape prison from the Red Lord.  Collect items and gather extra power from the power crystals and chemical barrels.  You must jump over the spikes and avoid falling and maybe you can make it.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Entertainment",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "3.0",
+            "versionCode": 1,
+            "uuid": "b92319a6-fe02-486b-ba94-23d888b91cee",
+            "date": "2016-04-25T23:03:39Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.guillaumesoft.platformer_3.0\/MrRobot_3.0_com.guillaumesoft.platformer.apk",
+            "size": 79369877,
+            "md5sum": "2f5c86502cc06cabf4fbfd8ee353051b",
+            "publicSize": 78113,
+            "nativeSize": 19287100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.guillaumesoft.platformer\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k0tHOcWXRfuFqxrvYIA9",
+        "video": "https:\/\/vimeo.com\/159655809",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H8SOssKqTJysCyQpDWsg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7BcuxBMwSIGGxhZqqkjg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g7JGgY7eT5uD7G7SeXV4"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/159655809"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b92319a6-fe02-486b-ba94-23d888b91cee\/ro9gb4_ouya-screenshot20160422-3-1g745bs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b92319a6-fe02-486b-ba94-23d888b91cee\/thumbnails\/thumbnail20160422-3-16boa0n.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b92319a6-fe02-486b-ba94-23d888b91cee\/vqk0pk_ouya-screenshot20160422-3-ih0gar.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b92319a6-fe02-486b-ba94-23d888b91cee\/thumbnails\/thumbnail20160422-3-1guznqe.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b92319a6-fe02-486b-ba94-23d888b91cee\/4zyub5_ouya-screenshot20160422-3-mkxk5o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b92319a6-fe02-486b-ba94-23d888b91cee\/thumbnails\/thumbnail20160422-3-1vivb7m.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Guillaume Swolfs  Guillaumesoft",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/guillaumesoft.x10.mx\/home.php",
+    "firstPublishedAt": "2016-04-25T23:03:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2016 by Guillaume Swolfs  Guillaumesoft.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.08,
+        "count": 48
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "packageName": "io.flowlab.ClassicCrazybots261027",
+    "title": "Classic Crazybots:The Black 'N' White Adventures Of Gaggle",
+    "description": "Uh-oh!A gameboy got caught in a machine and turned the laboratory black-and-white!Use the D-Pad to move.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Music",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "127ee6ef-b481-4903-a26f-085a6a3656ce",
+            "date": "2015-12-12T00:28:35Z",
+            "url": "https:\/\/archive.org\/download\/ouya_io.flowlab.ClassicCrazybots261027_1.0.0\/ClassicCrazybots_1.0.0_io.flowlab.ClassicCrazybots261027.apk",
+            "size": 4136478,
+            "md5sum": "613bde6a330bd1beed764c3a99c75e2a",
+            "publicSize": 85978,
+            "nativeSize": 11367500
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/io.flowlab.classiccrazybots261027\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wPq8mKEvRQee0F8xT6dD",
+        "video": "https:\/\/vimeo.com\/147283371",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gL2rBJU5TB6GlKN0okok",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7mPge5AsRWKoecRbEWEh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sRNDXySxSMiCGk4fbwpO",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a6hQomgoT8eSoCrj0YAB"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/147283371"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/gucuo_ouya-screenshot20151208-3-4sqjq6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/gucuo_ouya-screenshot20151208-3-4sqjq6.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/m2an5a_ouya-screenshot20151208-3-s25bi0.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/m2an5a_ouya-screenshot20151208-3-s25bi0.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/hhqoad_ouya-screenshot20151208-3-1nvgi10.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/hhqoad_ouya-screenshot20151208-3-1nvgi10.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/3e9t7l_ouya-screenshot20151208-3-vuroty.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/127ee6ef-b481-4903-a26f-085a6a3656ce\/3e9t7l_ouya-screenshot20151208-3-vuroty.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "ac12c2d2-7bba-4918-8244-4762d631f3db",
+        "name": "Googleygames",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/googleygames.webs.com",
+    "firstPublishedAt": "2015-12-12T00:28:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by Googleygames.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 1.67,
+        "count": 15
+    }
+}

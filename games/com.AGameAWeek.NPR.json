@@ -1,0 +1,82 @@
+{
+    "packageName": "com.AGameAWeek.NPR",
+    "title": "No Plumbing Required",
+    "description": "Climb the endless tower, and battle against the masses of wandering turtles.\nThere's no plumbing to be done, but sometimes everybody needs a good plumber.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5",
+            "date": "2016-05-02T21:23:23Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.AGameAWeek.NPR_1.0\/No Plumbing Required_1.0_com.AGameAWeek.NPR.apk",
+            "size": 3428476,
+            "md5sum": "af8864bb9e6360267db53c3ebea818d8",
+            "publicSize": 86639,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.npr\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9htorhg3QkaWuvymO0nx",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/REVWMX9ZTxCYrqYRLfIV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rBXXf7DpTO2hiSWnfhy8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GRrZJAnSQKmyDrSN4pmQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OSEEd18TPChPGoD7yZAY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6SbUVH0RQOcei4ELY1lw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/41th7v_ouya-screenshot20160501-3-5lk86l.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/thumbnails\/thumbnail20160501-3-ejq9om.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/9z39fp_ouya-screenshot20160501-3-1abeo4m.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/thumbnails\/thumbnail20160501-3-1t8jnn8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/9eq5qh_ouya-screenshot20160501-3-tcjm4f.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/thumbnails\/thumbnail20160501-3-1kr6yd3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/9kl075_ouya-screenshot20160501-3-1q6eqk5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/thumbnails\/thumbnail20160501-3-yh4r8v.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/cj1hwp_ouya-screenshot20160501-3-h4dpgl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/76c0fbe8-1f59-4728-8c1c-24fbe62ef2f5\/thumbnails\/thumbnail20160501-3-1xfu5j6.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "Http:\/\/AGameAWeek.com",
+    "firstPublishedAt": "2016-05-02T21:23:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2016 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.61,
+        "count": 18
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "packageName": "com.terra.minimon3d",
+    "title": "Minimon 3D",
+    "description": "Enter the world of Minimon!\r\n\u2022 Capture and raise your own monster team!\r\n\u2022 Meet other players in a online world!\r\n\u2022 Challenge all arena leaders and collect badges!\r\n\u2022 Pitch your team against other players!\r\n\u2022 Find secret areas with rare monsters!\r\n\u2022 And much more!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "047f23b8-25db-40b3-88ec-5aab2af7c68e",
+            "date": "2013-12-25T20:44:05Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.terra.minimon3d_1.2\/Minimon 3D_1.2_com.terra.minimon3d.apk",
+            "size": 44809025,
+            "md5sum": "537ca7a39e40c0814b6cea9a0f8de1f0",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.terra.minimon3d\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0O8PK8yhTFqTih7d1KlY",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q0UMkZRwS6SPWxyjDOEk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cxqXKY4wSm2IvofqLTLl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qiGoJW80QdC6CKjtkRvI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ImVUYa0Rlahmz7auqfF9",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MhUjnVLjQTexBTHShl3C"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/q0UMkZRwS6SPWxyjDOEk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/q0UMkZRwS6SPWxyjDOEk\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cxqXKY4wSm2IvofqLTLl\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cxqXKY4wSm2IvofqLTLl\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qiGoJW80QdC6CKjtkRvI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qiGoJW80QdC6CKjtkRvI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ImVUYa0Rlahmz7auqfF9\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ImVUYa0Rlahmz7auqfF9\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MhUjnVLjQTexBTHShl3C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MhUjnVLjQTexBTHShl3C\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Sergio Flores",
+        "supportEmail": "relfos@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.minimon3d.com",
+    "firstPublishedAt": "2013-12-16T18:46:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2013 by Sergio Flores.",
+    "premium": false,
+    "rating": {
+        "likeCount": 97,
+        "average": 2.49,
+        "count": 156
+    }
+}

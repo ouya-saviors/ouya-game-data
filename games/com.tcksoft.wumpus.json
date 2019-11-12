@@ -1,0 +1,86 @@
+{
+    "packageName": "com.tcksoft.wumpus",
+    "title": "Hunt The Wumpus",
+    "description": "The TI\/99 classic is back.\r\n\r\nEnter the caves of the Wumpus with your single arrow and try to track him down and fire it into his heart. \r\n\r\nAvoid troublesome bats who will carry you away. \r\n\r\nTry not to stumble into the lair of the Wumpus, or fall into a bottomless pits of slime.\r\n\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia",
+        "Retro",
+        "Sim\/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "af307480-1ba6-4855-b7d7-78d211ec9e6a",
+            "date": "2014-07-15T22:11:22Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.tcksoft.wumpus_1.0\/Hunt The Wumpus_1.0_com.tcksoft.wumpus.apk",
+            "size": 495846,
+            "md5sum": "de8c59d90ff0cc35e4d4f919341a948d",
+            "publicSize": 32180,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lag9t5CFQDCjZmXgfbWK",
+        "video": "https:\/\/vimeo.com\/99569097",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dZTi42tARPePJw6FcwX7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QTiappzpQqyvbN10BHU5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wuBqxDw1RcaB14rJWjwl"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/99569097"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/af307480-1ba6-4855-b7d7-78d211ec9e6a\/jp6d9m_ouya-screenshot20140712-2-z35epi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/af307480-1ba6-4855-b7d7-78d211ec9e6a\/thumbnails\/thumbnail20140712-2-mqc5um.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/af307480-1ba6-4855-b7d7-78d211ec9e6a\/yugidn_ouya-screenshot20140712-2-1e1d48n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/af307480-1ba6-4855-b7d7-78d211ec9e6a\/thumbnails\/thumbnail20140712-2-1llb8c7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/af307480-1ba6-4855-b7d7-78d211ec9e6a\/4d17jg_ouya-screenshot20140712-2-z6bzwn.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/af307480-1ba6-4855-b7d7-78d211ec9e6a\/thumbnails\/thumbnail20140712-2-79nn3d.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b0d56674-9b5a-4785-a3b1-88acbd1aff69",
+        "name": "TCKSOFT",
+        "supportEmail": "caffeinekid@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.tcksoft.co.uk",
+    "firstPublishedAt": "2014-07-15T22:11:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by TCKSOFT.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.31,
+        "count": 13
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "wumpus_buy",
+            "name": "Buy Hunt The Wumpus.",
+            "description": "Buy Hunt The Wumpus.\r\n\r\nThank you!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

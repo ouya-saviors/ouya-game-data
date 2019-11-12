@@ -1,0 +1,86 @@
+{
+    "packageName": "com.pigoutproductions.cactussam",
+    "title": "Cactus Sam",
+    "description": "Cactus Sam is cleaning up The West. Do you think you have the grit to help Sam dish out vigilante justice to the outlaws swarming the canyons? Clear wave after wave of enemies in this throwback, endless shooter. Dodge from corner to corner or brave it all and charge your enemies with guns-a-blazin'! Pick up dropped health packs to survive and collect cash to build your grit meter. After you've filled your grit meter, activate Rage and surprise dozing outlaws with your increased speed and rate of fire. Every outlaw down helps bring peace back to The West. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "243bdf81-f635-4752-9594-10e7150e07af",
+            "date": "2014-06-10T22:59:26Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.cactussam_1.0\/Cactus Sam_1.0_com.pigoutproductions.cactussam.apk",
+            "size": 18088006,
+            "md5sum": "48232d8ce0602ee1a30a8c73094a8c53",
+            "publicSize": 43025,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.cactussam\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CHPMbfY1Qv6rzt6gkLaB",
+        "video": "https:\/\/vimeo.com\/96017113",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9G2DHdsCSQyDMqUAfijZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0ipN0oFEQFy0pAJisyQC",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zHvBUckmRW2Y2YGyu50q"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/96017113"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9G2DHdsCSQyDMqUAfijZ",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9G2DHdsCSQyDMqUAfijZ"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0ipN0oFEQFy0pAJisyQC",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0ipN0oFEQFy0pAJisyQC"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/zHvBUckmRW2Y2YGyu50q",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/zHvBUckmRW2Y2YGyu50q"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-06-10T22:59:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.64,
+        "count": 11
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "CactusSamFull",
+            "name": "Cactus Sam Full Game",
+            "description": "Are you ready to shoot some cacti?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

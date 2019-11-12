@@ -1,0 +1,87 @@
+{
+    "packageName": "de.philweb.bubblr",
+    "title": "bubblr - dummy in trouble",
+    "description": "2014-01-30: NEW RELEASE v0.75:\r\n- switched player animations to skeletal animations for more fun :)\r\n- switched Ghost animations to mesh animations\r\n- changed music theme\r\n\r\n-------------\r\n\r\nbubblr is an addictive 2D arcade bubble shooter, jump and run platformer and will put your reaction skills to the test!\r\n\r\nThe single player mode is FREE.\r\nThe dual player mode can be purchased.\r\n\r\nFollow bubblr on facebook:\r\nhttps:\/\/www.facebook.com\/bubblr\r\n\r\nyou control \"dummy\", the crash test dummy, who gets attacked by monsters and has to defend himself and therefore needs your best reaction skills. Dummy has a soap bubble-cannon and can bubble monsters. Furthermore dummy can use the weapons of the attackers and shoot fireballs or fire cannons. \r\n\r\ndummy has to be quick to avoid that more monsters spawn into the area. dummy will get collectable items for neutralized Monsters and completed missions. Most of the items have points.\r\nYou will get extra items if you neutralize multiple monsters in a short time ( = hattrick) and if you \"kiss\" monsters, which means to neutralize them on a very short distance ( = monsterkiss).\r\nHattricks and monsterkisses raise your rank (please enable Swarm for highscores and ranks).\r\n\r\n\r\nTarget & Hints:\r\n===============\r\nFinish levels by neutralizing all monsters or reaching the exit (if the level has an exit).\r\nAlways try to complete the missions. This can be neccessary in order to be able to complete the levels.\r\nIf important items fall in unreachable areas you have to start over and try the level again.\r\nTry to be quick, otherwise more monsters may join in.\r\nTry to neutralize multiple monsters in a short time with a jump into the bubbles (hattrick) or to neutralize on very short distance (monsterkiss).\r\n\r\nBeware for monsters that escaped out of bubbles, because they will get faster!\r\n\r\nMonsters: \r\n- Alien: walks and jumps, may shoot fireballs\r\n- Ghosts: fly around, get neutralized by fireballs\r\n\r\nweapons:\r\n- Bubbles: catch aliens, ghosts will be redirected\r\n- cannons: neutralize only aliens, redirect ghosts\r\n- fireballs: neutralize all monsters\r\n- vertical Laser: neutralize all monsters\r\n\r\nSpecial functions:\r\n- Mine: don\u00b4t step on them ;)\r\n- + 1 Life\r\n- Super-Speed\r\n- Super-Jump\r\n- Immortality\r\n\r\n\r\nintegrated third-party products:\r\n=================================\r\n\r\n1. Swarm (http:\/\/swarmconnect.com)\r\nOnline leaderboards for Highscores and Achievements. \r\nYou can connect with your friends at Swarm and compare your bubblr-scores. Signup for Swarm is free of charge, but optional.\r\n\r\n2. ACRA for Crash-Reports (http:\/\/code.google.com\/p\/acra)\r\nSends crash-reports to heavily loaded games, so that we can fix the bugs.\r\n\r\n\r\nbubblr uses these libraries:\r\n=============================\r\n1. LibGDX (http:\/\/libgdx.badlogicgames.com)\r\n2. Box2D physics engine\r\n3. Box2D Lights\r\n\r\n\r\nWe appreciate every kind of feedback!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "0.75",
+            "versionCode": 0,
+            "uuid": "738549f9-13cf-4cdd-929d-d369b86478ce",
+            "date": "2014-01-31T18:38:54Z",
+            "url": "https:\/\/archive.org\/download\/ouya_de.philweb.bubblr_0.75\/bubblr_0.75_de.philweb.bubblr.apk",
+            "size": 13759470,
+            "md5sum": "9ac75ab3cc22e0aae0b6fece94283c3d",
+            "publicSize": 632469,
+            "nativeSize": 1934514
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.philweb.bubblr\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/S8xrZ5EuSSWajOpnvvtR",
+        "video": "https:\/\/vimeo.com\/84634051",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LgW18s59QvuUzZf7Hs4C",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7tx5VNrPTv6Xku95pqEd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cW3i19ZdSgysd2jowo2x",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d53cSd9SRHGFeBBlHTWH",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h11L3BXdTHWK9AMUMrWI"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/84634051"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/LgW18s59QvuUzZf7Hs4C\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/LgW18s59QvuUzZf7Hs4C\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7tx5VNrPTv6Xku95pqEd\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7tx5VNrPTv6Xku95pqEd\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cW3i19ZdSgysd2jowo2x\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cW3i19ZdSgysd2jowo2x\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/d53cSd9SRHGFeBBlHTWH\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/d53cSd9SRHGFeBBlHTWH\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/h11L3BXdTHWK9AMUMrWI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/h11L3BXdTHWK9AMUMrWI\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "heavily loaded games",
+        "supportEmail": "heavily.loaded.games@googlemail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/heavilyloadedgames.wordpress.com",
+    "firstPublishedAt": "2013-03-23T20:35:47Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by heavily loaded games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 30,
+        "average": 2.07,
+        "count": 15
+    }
+}

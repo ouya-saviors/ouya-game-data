@@ -1,0 +1,88 @@
+{
+    "packageName": "com.future.gamesmartOuya",
+    "title": "GameSmart.tv",
+    "description": "We give gamers the latest game reviews, previews, videos, images, and news.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 0,
+            "uuid": "aa7c2815-8c45-45c3-b5ef-eb372f179c62",
+            "date": "2015-11-25T15:50:24Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.future.gamesmartOuya_1.5\/GameSmart.tv_1.5_com.future.gamesmartOuya.apk",
+            "size": 1695522,
+            "md5sum": "55ceb42766e696dc08cfda850b8f0c37",
+            "publicSize": 722498,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.future.gamesmartouya\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nMvo3UT7RWSDBTNC0DF1",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4MNX91CDQM2R0If5bEYP",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gwwlkRaQlWygBgnHIqDf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RzmupRzwT0OKpf7hIUi8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6hqzqNkYQVOxrFUoffu2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zHjFc04RnCHXVb74O0HA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XdtGfG0YT6SlWWJphqWE"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/w0gdgz_ouya-screenshot20151123-3-1f5h166.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/thumbnails\/thumbnail20151123-3-rpyrt5.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/ywbths_ouya-screenshot20151123-3-mui21.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/thumbnails\/thumbnail20151123-3-daj2u8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/2s38if_ouya-screenshot20151123-3-hxyehm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/thumbnails\/thumbnail20151123-3-1a41jsv.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/tzourc_ouya-screenshot20151123-3-8ixng7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/thumbnails\/thumbnail20151123-3-1ndpv5j.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/sp4vja_ouya-screenshot20151123-3-104706n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/thumbnails\/thumbnail20151123-3-13b2nh4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/jwswmp_ouya-screenshot20151123-3-mrrc8q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aa7c2815-8c45-45c3-b5ef-eb372f179c62\/thumbnails\/thumbnail20151123-3-djcu7t.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "7ff6abdd-57c3-45a9-8036-2e2aa7e408de",
+        "name": "Future Today Inc",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.futuretodayinc.com",
+    "firstPublishedAt": "2015-10-15T14:51:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2015 by Future Today Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.08,
+        "count": 12
+    }
+}

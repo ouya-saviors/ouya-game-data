@@ -1,0 +1,81 @@
+{
+    "packageName": "com.FirehouseVideoGames.BatShipCrazy",
+    "title": "Bat Ship Crazy",
+    "description": "Using your Bat-Ship activate as many balls as you can before they are lost in the lake of fire below, or sucked into the traveling wormhole. How long will you last and can you beat the high score? \r\n\r\nAs with all 5 Minute Arcade games this was designed with the intention of being able to complete it in a relatively short amount of time with an addictive replay value.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "643ca08c-94a4-470b-931d-9acae416bb9d",
+            "date": "2013-10-31T18:46:59Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.FirehouseVideoGames.BatShipCrazy_1.0.0\/Bat Ship Crazy_1.0.0_com.FirehouseVideoGames.BatShipCrazy.apk",
+            "size": 48047177,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.firehousevideogames.batshipcrazy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pwukZRjdQA29k5kEXsig",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZALn31wNSlaTphTW3ndI",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7kZFtirKRJC9b5ctlwTo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mpP3qchSSNCx83N909Yc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E6WNVbG8SBi31zwf3E5F",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cFZvyW0Sie2BHXUPMVVD"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ZALn31wNSlaTphTW3ndI\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ZALn31wNSlaTphTW3ndI\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/7kZFtirKRJC9b5ctlwTo\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7kZFtirKRJC9b5ctlwTo\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mpP3qchSSNCx83N909Yc\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mpP3qchSSNCx83N909Yc\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/E6WNVbG8SBi31zwf3E5F\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/E6WNVbG8SBi31zwf3E5F\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/cFZvyW0Sie2BHXUPMVVD\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/cFZvyW0Sie2BHXUPMVVD\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Firehouse Video Games",
+        "supportEmail": "contact@firehousevideogames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.firehousevideogames.com",
+    "firstPublishedAt": "2013-10-31T18:46:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2013 by Firehouse Video Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 7,
+        "average": 2.5,
+        "count": 6
+    }
+}

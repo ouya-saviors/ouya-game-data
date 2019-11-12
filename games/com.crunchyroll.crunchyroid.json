@@ -1,0 +1,70 @@
+{
+    "packageName": "com.crunchyroll.crunchyroid",
+    "title": "Crunchyroll",
+    "description": "Watch over 25,000 episodes and 15,000 hours of latest and hottest Anime & Asian Drama 1 hour after TV broadcast! Catch the hottest shows like Naruto Shippuden, Attack on Titan, Gargantia, Sword Art Online, Bleach, Shugo Chara, Blue Exorcist, Gintama, Fate\/Zero, Hunter X Hunter, Toradora, and more.\r\nCrunchyroll offers both FREE (no membership required) and premium service.\r\nWith Premium membership:\r\n- Watch newest episodes 1-hour after airing in Japan\r\n- Access HD and DVD quality videos\r\n- No ads\r\n- Watch over 3G and 4G network on your mobile device\r\nGet the app today!\r\nCrunchyroll licenses all its content directly and legally to bring you the best and most recent shows from Asia and support the content creators.\r\n\r\n---\r\n\r\nVersion 0.9.1:\r\nUI localization",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "0.9.1",
+            "versionCode": 0,
+            "uuid": "56fcfa95-1cd1-4318-87a8-fb9cffce60b3",
+            "date": "2013-11-21T19:25:01Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.crunchyroll.crunchyroid_0.9.1\/Crunchyroll_0.9.1_com.crunchyroll.crunchyroid.apk",
+            "size": 4264005,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.crunchyroll.crunchyroid\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1Y28Vb9QifHkUT67bRPg",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ULASG7MQS2GoB75HL1iq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MdA0RnqITrmgAAtbzcP4",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m7d41fn0SCqZxF4L7VrY"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/ULASG7MQS2GoB75HL1iq\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ULASG7MQS2GoB75HL1iq\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/MdA0RnqITrmgAAtbzcP4\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/MdA0RnqITrmgAAtbzcP4\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/m7d41fn0SCqZxF4L7VrY\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/m7d41fn0SCqZxF4L7VrY\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Crunchyroll Inc.",
+        "supportEmail": "support@crunchyroll.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/www.crunchyroll.com",
+    "firstPublishedAt": "2013-10-21T17:36:30Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2013 by Crunchyroll Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 374,
+        "average": 4.39,
+        "count": 643
+    }
+}

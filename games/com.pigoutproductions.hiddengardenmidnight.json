@@ -1,0 +1,86 @@
+{
+    "packageName": "com.pigoutproductions.hiddengardenmidnight",
+    "title": "Hidden Garden Midnight",
+    "description": "Hidden Garden is back with even more beautiful scenes, more amazing music and an all new zoom feature. Continue your journey through the Hidden Gardens in this beautiful hidden object adventure game. Hidden Garden Midnight is the next title in the Hidden Garden series. Relax and enjoy the gorgeous scenery as you find hundreds of new items such as teacups, teapots, frogs, squirrels, keys, candles, umbrellas, cupcakes, rabbits, butterflies, birds, lady bugs, hearts, and honey bees throughout many breathtaking locations. The stunning visuals are accompanied by four new equally stunning musical compositions.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "4317d89d-8847-4881-b8d9-af4d534d58bd",
+            "date": "2014-07-15T16:50:39Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.pigoutproductions.hiddengardenmidnight_1.0\/Hidden Garden Midnight_1.0_com.pigoutproductions.hiddengardenmidnight.apk",
+            "size": 37666040,
+            "md5sum": "4d0b417b8d93e85387e499471fe78644",
+            "publicSize": 475169,
+            "nativeSize": 14689140
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.pigoutproductions.hiddengardenmidnight\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KiZwGd5pSZiqzqHneunS",
+        "video": "https:\/\/vimeo.com\/100725260",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H7YcmjXdTGmZ3E5lQX7W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VocWIgDRSeiNn5F8gbij",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xSw5lHf3SAO4ozCo39eS"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/100725260"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4317d89d-8847-4881-b8d9-af4d534d58bd\/ic8qiw_ouya-screenshot20140714-2-hwzjwv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4317d89d-8847-4881-b8d9-af4d534d58bd\/thumbnails\/thumbnail20140714-2-1bs00ro.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4317d89d-8847-4881-b8d9-af4d534d58bd\/9i9a77_ouya-screenshot20140714-2-k219d6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4317d89d-8847-4881-b8d9-af4d534d58bd\/thumbnails\/thumbnail20140714-2-1t4kr6d.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4317d89d-8847-4881-b8d9-af4d534d58bd\/2gcrfh_ouya-screenshot20140714-2-hpw1wh.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/4317d89d-8847-4881-b8d9-af4d534d58bd\/thumbnails\/thumbnail20140714-2-56ywwo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
+        "name": "Pig Out Productions, LLC",
+        "supportEmail": "support@pigoutproductions.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.pigoutproductions.com",
+    "firstPublishedAt": "2014-07-15T16:50:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Pig Out Productions, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 5,
+        "count": 1
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "HGMidnight",
+            "name": "Hidden Garden Midnight",
+            "description": "Journey through the Hidden Gardens in this relaxing and beautiful hidden object adventure game?",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "packageName": "com.creashockstudios.telepathyzero",
+    "title": "Telepathy Zero: Psychic Test",
+    "description": "\"Telepathy Zero is a must for you, if you looking for a fun challenge and also want to test your psychic abilities\" - Appyzilla.com\r\n\r\n\"This is a very fun game to compete with friends and family\" - Leimobile.com\r\n\r\nTest your psychic & telepathic abilities and superpowers using your third eye! Use your otherworldly connections to determine the figure that will be shown. Each correct answer in a row will add to your streak, increasing your score and proving your psychic abilities for all to see!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Kids List",
+        "Meditative",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "a837a8dd-b755-4d33-a41b-1e0c15410f42",
+            "date": "2014-11-30T02:35:36Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.creashockstudios.telepathyzero_1.0\/Telepathy Zero_ Psychic Test_1.0_com.creashockstudios.telepathyzero.apk",
+            "size": 19447526,
+            "md5sum": "ad00aecc7d331c32aaade2ee93474601",
+            "publicSize": 130549,
+            "nativeSize": 14992732
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.creashockstudios.telepathyzero\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3GDSTPBZQkeglU7PCEA6",
+        "video": "http:\/\/vimeo.com\/112681840",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5lHLd1nnSFmM5jFYlTKZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FBe2EnqzR8qNY71lubNX",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZpK8XkbRVi4sQ9GTSwpg"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/112681840"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a837a8dd-b755-4d33-a41b-1e0c15410f42\/rcxxx7_ouya-screenshot20141125-2-1ooulos.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a837a8dd-b755-4d33-a41b-1e0c15410f42\/thumbnails\/thumbnail20141125-2-yv3wwk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a837a8dd-b755-4d33-a41b-1e0c15410f42\/lc9cps_ouya-screenshot20141125-2-1pwvvjb.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a837a8dd-b755-4d33-a41b-1e0c15410f42\/thumbnails\/thumbnail20141125-2-xk0e1r.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a837a8dd-b755-4d33-a41b-1e0c15410f42\/7eweh7_ouya-screenshot20141125-2-nvsqwk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a837a8dd-b755-4d33-a41b-1e0c15410f42\/thumbnails\/thumbnail20141125-2-1ucashh.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "622b1e0d-49e1-4406-9884-252e30d6b984",
+        "name": "Andrii Vintsevych",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/creashock-studios.com\/",
+    "firstPublishedAt": "2014-11-30T02:35:36Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Andrii Vintsevych.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.25,
+        "count": 4
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "telepathyzerofull",
+            "name": "Telepathy Zero: Psychic Test",
+            "description": "Full Telepathy Zero: Psychic Test game. \r\n",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

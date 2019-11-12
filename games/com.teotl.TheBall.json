@@ -1,0 +1,85 @@
+{
+    "packageName": "com.teotl.TheBall",
+    "title": "The Ball",
+    "description": "The Ball is a first person action-adventure game featuring a full single-player experience built on Epic\u2019s Unreal\u2122 Engine 3 technology. As a swashbuckling archaeologist working on the slopes of a dormant volcano somewhere in Mexico, you get stuck in a cavern. It doesn\u2019t take long before you realize this is more than just a cave. You reveal ancient ruins that have been hidden from outsiders for centuries and discover a mysterious artifact, a gold and metal shelled Ball. As you progress towards solving the mystery of this amazing place you must unlock the secrets of the Ball and learn to control this ancient artifact. Venturing deeper into the volcano, you reveal some of mankind\u2019s greatest secrets and you will start to encounter not just puzzles and traps, but also various strange creatures \u2013 the guardians of this mystery. These creatures have to be overcome, using only the Ball to defend you.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "d4a7762d-f49e-4a14-95a0-5153c9fe016b",
+            "date": "2013-03-23T23:23:00Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.teotl.TheBall_1.0\/The Ball_1.0_com.teotl.TheBall.apk",
+            "size": 760849384,
+            "md5sum": null,
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.teotl.theball\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WTapsWqISGeZbUrFrAZa",
+        "video": "http:\/\/vimeo.com\/90599412",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qaDzJ0maS7O5VfWbRsLZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0ECI41m3SASFTYtmCgnu",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SgUq6v3sQ3OJ2iiRTmkG"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/90599412"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qaDzJ0maS7O5VfWbRsLZ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qaDzJ0maS7O5VfWbRsLZ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/0ECI41m3SASFTYtmCgnu\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/0ECI41m3SASFTYtmCgnu\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/SgUq6v3sQ3OJ2iiRTmkG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/SgUq6v3sQ3OJ2iiRTmkG\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tripwire Interactive",
+        "supportEmail": "support@tripwireinteractive.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.theballthegame.com",
+    "firstPublishedAt": "2013-03-23T23:23:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2013 by Tripwire Interactive.",
+    "premium": true,
+    "rating": {
+        "likeCount": 782,
+        "average": 3.95,
+        "count": 414
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "TheBallFull",
+            "name": "The Ball",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

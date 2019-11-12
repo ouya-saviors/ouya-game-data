@@ -1,0 +1,66 @@
+{
+    "packageName": "com.masseranolabs.snappyfrog",
+    "title": "Snappy Frog",
+    "description": "Snappy Frog is a retro 8-bit graphics game where the player is in control of a jumping frog that has to overcome a continuous series of ever increasing speed obstacles. The player's main challenge is figuring out the timing of the touch-hold-release sequence to make the frog jump as intended, without crashing into the walls.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "f77a4927-3fdc-40d8-8255-b18b71357910",
+            "date": "2014-05-13T17:09:00Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.masseranolabs.snappyfrog_1.0\/Snappy Frog_1.0_com.masseranolabs.snappyfrog.apk",
+            "size": 4442467,
+            "md5sum": "db0d9b5ca88965e97ef709c989539bf2",
+            "publicSize": 104116,
+            "nativeSize": 1344556
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.masseranolabs.snappyfrog\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XuhPY94SQpWyVbmdfBDJ",
+        "video": "https:\/\/vimeo.com\/93759118",
+        "screenshots": [],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/93759118"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "2f40e690-423a-4808-83fc-87316a27eac9",
+        "name": "MasseranoLabs LLC",
+        "supportEmail": "support@masseranolabs.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.playsnappyfrog.com",
+    "firstPublishedAt": "2014-05-13T17:09:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by MasseranoLabs LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.67,
+        "count": 3
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "snappy-frog-game",
+            "name": "Snappy Frog",
+            "description": "an 8-bit graphics game where the player is in control of a frog that has to overcome a continuous series of ever increasing speed obstacles.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "packageName": "com.monsterfingergames.uggseggs",
+    "title": "Uggs Eggs",
+    "description": "Are you ready for an epic pre-historic adventure?\nIf you like Dinosaurs, eggs and bones have we got a treat for you!\n\n4 levels of crazy arcade action insprired by the classic Grand Stand game Caveman! \n\nTry to get eggs back to Uggs Diner before the customers get angry, but beware of the dinosaur as he has just had a very spicy snack!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "97c5824d-296d-4526-b89e-30910727bf0a",
+            "date": "2016-03-18T18:21:17Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.monsterfingergames.uggseggs_1.0\/Uggs Eggs_1.0_com.monsterfingergames.uggseggs.apk",
+            "size": 5152247,
+            "md5sum": "1d2bce7af3a2af9af72a70f4ca6eefc9",
+            "publicSize": 3856953,
+            "nativeSize": 982704
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.uggseggs\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8uJG080TQWW8H4BnBoJO",
+        "video": "https:\/\/vimeo.com\/159148768",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HRmRJoXJSCUeDZbeXTQG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qMZdyZL5To2EpXC1b6Kf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZWmqu6FaQcqWtDko5DQZ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2EtKlozyRbej216zQEDM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kMAJkz7qTbqxnxsmoHp6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oiHSiJxsQRCYNUl1oX57"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/159148768"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/age1oh_ouya-screenshot20160315-3-uavh2h.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/thumbnails\/thumbnail20160315-3-30p7is.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/eb8m7u_ouya-screenshot20160315-3-1rfrorr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/thumbnails\/thumbnail20160315-3-1j58tr2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/9w438e_ouya-screenshot20160315-3-nkj2wl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/thumbnails\/thumbnail20160315-3-1orbi16.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/cnhj1h_ouya-screenshot20160315-3-1emqomz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/thumbnails\/thumbnail20160315-3-136rq02.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/ptmhn4_ouya-screenshot20160315-3-rykb3m.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/thumbnails\/thumbnail20160315-3-4d2jwr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/mavqlj_ouya-screenshot20160315-3-3ii84y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/97c5824d-296d-4526-b89e-30910727bf0a\/thumbnails\/thumbnail20160315-3-f7msak.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "a4ac8f4f-1c28-4f2a-9190-b06d525266bf",
+        "name": "Monster Finger Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2016-03-18T18:21:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2016 by Monster Finger Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.5,
+        "count": 2
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "uggseggsfullgame",
+            "name": "Uggs Eggs Full Game",
+            "description": "Come get some awesome prehistoric arcade action with Uggs Eggs, based on the 1980's Grand Stand classic.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

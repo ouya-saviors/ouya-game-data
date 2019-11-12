@@ -1,0 +1,96 @@
+{
+    "packageName": "com.FifteenSix.LegendDary",
+    "title": "Legend Dary",
+    "description": "Legend Dary\r\n\r\nTypical Plain Platformer game.\r\nBecause I like platformers!\r\n\r\nThe legendary hero named Dary starts his adventure to save the princess from the dragon! \r\nBecause the king told him she is pretty and Dary can marry her. \r\nSo it begins.\r\n\r\n\u203b This is the one-man game studio with an occasional help from a designer who is my wife. Please enjoy the game and feel free to leave a comment in my Facebook page if you have a suggestion for this game. \r\n\r\nFacebook: http:\/\/www.facebook.com\/FifteenSixKorea\r\n\r\n\u203b Trailer Movie \r\n- YouTube: http:\/\/youtu.be\/VmAIoOaIYcY",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.5.06",
+            "versionCode": 0,
+            "uuid": "3fe72b60-cdff-4b32-8b10-4ea38c64d02c",
+            "date": "2014-09-03T23:04:40Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.FifteenSix.LegendDary_1.5.06\/Legend Dary_1.5.06_com.FifteenSix.LegendDary.apk",
+            "size": 36297850,
+            "md5sum": "f032a670aee700c77cb67224557cedb2",
+            "publicSize": 1013805,
+            "nativeSize": 10669760
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fifteensix.legenddary\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KO3sh8GJT6idxvWsGJvE",
+        "video": "https:\/\/vimeo.com\/103779377",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1JK3iIPDRB6XhSBS9n7o",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kxUTqaTwSXanUneA0Aqj",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Wn22s6w3TqunhQl2FOtL",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zrQ9JILSL0Kj4AMMVwwU",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FYU54XlQZu7JrEwJjrgf"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/103779377"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/t06vfl_ouya-screenshot20140903-2-hhilcq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/thumbnails\/thumbnail20140903-2-5pqyqd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/ms0iht_ouya-screenshot20140903-2-4w2nwr.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/thumbnails\/thumbnail20140903-2-owt3sk.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/c4naiy_ouya-screenshot20140903-2-4f74km.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/thumbnails\/thumbnail20140903-2-1wuqgon.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/qeq67x_ouya-screenshot20140903-2-1qd0fsz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/thumbnails\/thumbnail20140903-2-12go3jg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/jgma0u_ouya-screenshot20140903-2-fkne8c.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3fe72b60-cdff-4b32-8b10-4ea38c64d02c\/thumbnails\/thumbnail20140903-2-feyrrh.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "b172e93b-ed74-4cc3-aebd-055e9418410b",
+        "name": "1506",
+        "supportEmail": "rightguy22@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.facebook.com\/FifteenSixKorea",
+    "firstPublishedAt": "2014-08-27T05:09:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by 1506.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.6,
+        "count": 5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "legendDary_game",
+            "name": "Legend Dary",
+            "description": "Get this amazing game!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

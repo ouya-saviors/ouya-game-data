@@ -1,0 +1,111 @@
+{
+    "packageName": "com.krisattfield.thebananatreebrothers",
+    "title": "The Bananatree Brothers",
+    "description": "Blaine Bananatree has returned to Banana Island - this time with his brother Albert in a banana-split-screen multiplayer mini-game where the brothers eat and plant their way to superstar status like a rock-band and a punny joke. Sibling rivalry has gone bananas.\n\nThis game consists of one 2-player competitive multiplayer game mode where, using rules very similar to the original Blaine Bananatree game, the players will vie for the highest score to win the game and maybe even get recognized as the High Score on the main menu.\n\nIf you want to try this game before you buy, play Blaine Bananatree - this is the two-player version of that game.\n\nPlease e-mail comments, suggestions and bug reports to krisa@icloud.com. Thanks for playing.\n\nNEW in v1.1.0: Better icon for Android TV main screen. Added optional rule where you get +1 point when your brother picks up your Banana. Made instructions easier to read.\nNEW in v1.1.1: Improved handling of offline-DRM play. Adds an 'Exit' option to the main menu.",
+    "players": [
+        2
+    ],
+    "genres": [
+        "Dual Stick",
+        "Kids List",
+        "Multiplayer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1.1",
+            "versionCode": 5,
+            "uuid": "1b1b10e1-8b19-4587-b2a2-30bd47bf394e",
+            "date": "2016-06-09T17:44:08Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.krisattfield.thebananatreebrothers_1.1.1\/The Bananatree Brothers_1.1.1_com.krisattfield.thebananatreebrothers.apk",
+            "size": 28587966,
+            "md5sum": "a146e3c4b170e37a6445063d742b5133",
+            "publicSize": 574539,
+            "nativeSize": 15035248
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.thebananatreebrothers\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IOjpCIFRRtmyEUohwXOH",
+        "video": "https:\/\/vimeo.com\/145946988",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6GU1usFBSiGOul2Y7gro",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xHgoo2WqReGNjdxTdi2A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/znE2LlNORoWZ5QWNtJ0E",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IsxifWuRSFyaAVqAlOzQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MmNe6wRFQXu0QNRdBzYB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rBZGhoARJKmAajZVO70l",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LCRLZyxDSvC1Pc3UgBY5"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/145946988"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/12od0u_ouya-screenshot20160601-3-6kq42g.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-qkttb1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/9sedp_ouya-screenshot20160601-3-1f0zrfz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-18hm1jo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/r5jqhb_ouya-screenshot20160601-3-1vsx8f6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-vn7szo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/lvsemq_ouya-screenshot20160601-3-17fjyab.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-31q4kz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/omksti_ouya-screenshot20160601-3-1mmj1hl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-jqd70t.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/vdbupt_ouya-screenshot20160601-3-1yhm46s.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-1jbq2dz.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/mvj601_ouya-screenshot20160601-3-1mmk2bc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1b1b10e1-8b19-4587-b2a2-30bd47bf394e\/thumbnails\/thumbnail20160601-3-1cbyglo.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Kris Attfield",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.krisattfield.com",
+    "firstPublishedAt": "2015-11-26T00:01:04Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2016 by Kris Attfield.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 5,
+        "count": 3
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "banana_brothers_full_game",
+            "name": "Bananatree Brothers Full Game Purchase",
+            "description": "Allows 2 players to play the 2 player split screen version of the Bananatree game. Full game purchase.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

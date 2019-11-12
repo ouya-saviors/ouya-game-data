@@ -1,0 +1,71 @@
+{
+    "packageName": "com.SD_Entertainment.TheCatFighter",
+    "title": "The Cat Fighter",
+    "description": "A fabulous feline warrior fought to save his girlfriend kidnapped by a rival.\r\nCurrently, the game is in development phase, where the updates are made continuously. The Alpha version currently available has yet to even awkward physics, which will be fixed in future updates.\r\nEveryone is free to test it.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Fight!",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "0.03",
+            "versionCode": 0,
+            "uuid": "7d01d28a-4035-43b0-aa00-d2a7e613e7b2",
+            "date": "2014-01-20T20:53:05Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.SD_Entertainment.TheCatFighter_0.03\/The Cat-Fighter_0.03_com.SD_Entertainment.TheCatFighter.apk",
+            "size": 8907275,
+            "md5sum": "9fa18ed6eb251ffb6db8897274a96cb4",
+            "publicSize": 233405,
+            "nativeSize": 14685052
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.sd_entertainment.thecatfighter\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CAMuFh41RUqTaKcsYTfC",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lCCxZPfzRVe8MWneIb5L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T71vXQQEzfse66IdKJAJ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XDlxVpKTXWsTXkQiXoIT"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/lCCxZPfzRVe8MWneIb5L\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/lCCxZPfzRVe8MWneIb5L\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/T71vXQQEzfse66IdKJAJ\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/T71vXQQEzfse66IdKJAJ\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/XDlxVpKTXWsTXkQiXoIT\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XDlxVpKTXWsTXkQiXoIT\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "a55d5df3-0075-488a-8f0f-03972ae940b0",
+        "name": "SD - Entetainiment",
+        "supportEmail": "suportesdentertainment@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/sdebr.wordpress.com\/",
+    "firstPublishedAt": "2013-10-21T15:52:50Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by SD - Entetainiment.",
+    "premium": false,
+    "rating": {
+        "likeCount": 22,
+        "average": 2.4,
+        "count": 15
+    }
+}

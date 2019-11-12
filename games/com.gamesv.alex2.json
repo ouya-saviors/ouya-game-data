@@ -1,0 +1,86 @@
+{
+    "packageName": "com.gamesv.alex2",
+    "title": "Mechanician Alex 2",
+    "description": "Mechanician Alex 2 is an arcade platform game.\r\nStory:\r\nWhen Alex has finished repairing his car,a terrible monster dropped a bomb on his house.Help  Alex to defeat the monster by travelling  different levels ..Take key to open doors,active lever to open gate....",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 0,
+            "uuid": "2f69d084-2b24-4e27-b97d-a67acb9bf0b0",
+            "date": "2015-01-02T23:12:16Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.gamesv.alex2_1.0\/Mechanician2_1.0_com.gamesv.alex2.apk",
+            "size": 11867714,
+            "md5sum": "8f1fa68f8e9113b13ddb8daad7c2cf8a",
+            "publicSize": 9955821,
+            "nativeSize": 898492
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesv.alex2\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rQXR6T4TuuTfU8Ij5Jz0",
+        "video": "https:\/\/vimeo.com\/113958244",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cLh96HvS3WubiWox9QX8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EvjIOvqMQhG2BvTP96Xk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Cm2eYSKiSaGU7gnahNGT"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/113958244"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2f69d084-2b24-4e27-b97d-a67acb9bf0b0\/9eq73b_ouya-screenshot20141229-2-kpucnx.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2f69d084-2b24-4e27-b97d-a67acb9bf0b0\/thumbnails\/thumbnail20141229-2-1wnn22w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2f69d084-2b24-4e27-b97d-a67acb9bf0b0\/2w2gtc_ouya-screenshot20141229-2-zsxwlu.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2f69d084-2b24-4e27-b97d-a67acb9bf0b0\/thumbnails\/thumbnail20141229-2-1db9lhj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2f69d084-2b24-4e27-b97d-a67acb9bf0b0\/90arpw_ouya-screenshot20141229-2-16gyrqw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2f69d084-2b24-4e27-b97d-a67acb9bf0b0\/thumbnails\/thumbnail20141229-2-m4n7xa.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "3T Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mremakes.free.fr",
+    "firstPublishedAt": "2015-01-02T23:12:16Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by 3T Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.14,
+        "count": 7
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "alex2",
+            "name": "Mechanician Alex 2",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

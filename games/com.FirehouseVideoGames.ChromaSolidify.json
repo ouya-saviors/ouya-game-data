@@ -1,0 +1,81 @@
+{
+    "packageName": "com.FirehouseVideoGames.ChromaSolidify",
+    "title": "Chroma Solidify",
+    "description": "In this new addictive game from the people who brought you \"Bat Ship Crazy\", you must turn all of the blocks in each level green. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "0cb40229-8bbb-4bf4-a704-4401aa786895",
+            "date": "2014-01-20T20:11:54Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.FirehouseVideoGames.ChromaSolidify_1.0.0\/ChromaSolidify_1.0.0_com.FirehouseVideoGames.ChromaSolidify.apk",
+            "size": 13818318,
+            "md5sum": "83f769feaa46f02d9b90e8e98168d0ff",
+            "publicSize": 1151359,
+            "nativeSize": 7783756
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.firehousevideogames.chromasolidify\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j7Uh9qLTUWgjTAld6mve",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q6UcLu70SJyze14KOzwy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uuPktE88SY22ILp6GUG6",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FZSWwsGDTPGunFOK0LJM",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mLdPOODZQP21IPrWbHrF",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1sb9K43UQAWUhPIUxbvk"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/q6UcLu70SJyze14KOzwy\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/q6UcLu70SJyze14KOzwy\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/uuPktE88SY22ILp6GUG6\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/uuPktE88SY22ILp6GUG6\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/FZSWwsGDTPGunFOK0LJM\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FZSWwsGDTPGunFOK0LJM\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/mLdPOODZQP21IPrWbHrF\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/mLdPOODZQP21IPrWbHrF\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/1sb9K43UQAWUhPIUxbvk\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/1sb9K43UQAWUhPIUxbvk\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Firehouse Video Games",
+        "supportEmail": "contact@firehousevideogames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.firehousevideogames.com",
+    "firstPublishedAt": "2014-01-20T20:11:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by Firehouse Video Games.",
+    "premium": false,
+    "rating": {
+        "likeCount": 5,
+        "average": 2.25,
+        "count": 4
+    }
+}

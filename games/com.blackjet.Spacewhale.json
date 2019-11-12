@@ -1,0 +1,112 @@
+{
+    "packageName": "com.blackjet.Spacewhale",
+    "title": "Spacewhale",
+    "description": "Spacewhale is a retro-inspired 'shmup that provides rank progression, weapon upgrades, item drops, slow down time feature, a choice between player ships and online leaderboard score submission.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "FPS\/Shooter",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 0,
+            "uuid": "b49ffd8d-bfca-458a-b6cb-de251046e05c",
+            "date": "2015-10-21T15:01:29Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.blackjet.Spacewhale_0.1\/Spacewhale_0.1_com.blackjet.Spacewhale.apk",
+            "size": 3823531,
+            "md5sum": "cad267fef92001f50626fdf38cc76ae6",
+            "publicSize": 52275,
+            "nativeSize": 0
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.blackjet.spacewhale\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FgIclZxzSy6I4EEbseS9",
+        "video": "https:\/\/vimeo.com\/142742061",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q5r1HSxRAezLvyWDbo4U",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nTFHdO6uTwGWaNmKXOnc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2Xi18rJRRAyyBOdaChy7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Dlp03UdR16apbc6Vv6gf",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/K9qjEQ9qTvGPjyYBrBuB",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uIbCmYbiTbusDQkMQewT",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yYjNzYeOQUGbkdKnkLqd",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M10RIfrCTF67AlL1ixI5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZXwLZJ0wQ80FNy7bSHqm"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/142742061"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/ho1sjv_ouya-screenshot20151017-3-10tpatp.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-10sunvd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/ymxi1t_ouya-screenshot20151017-3-1f03u6v.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-ktlsl1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/n0lsal_ouya-screenshot20151017-3-162ebrv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-1u86b3q.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/szgl0w_ouya-screenshot20151017-3-1ei64gk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-7lgt2w.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/8lkdqx_ouya-screenshot20151017-3-1cjfcf9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-136zof2.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/vx1zjg_ouya-screenshot20151017-3-1yceat1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-cq8cwc.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/fwk7iw_ouya-screenshot20151017-3-1oi7lki.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-1eqhwd3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/fmi5lx_ouya-screenshot20151017-3-zctfao.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-y1hliw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/hfadpt_ouya-screenshot20151017-3-rdvamm.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b49ffd8d-bfca-458a-b6cb-de251046e05c\/thumbnails\/thumbnail20151017-3-vnfhfe.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "c82c1f33-cb90-4a89-812b-e0e4b8b42c39",
+        "name": "BlackJet",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/blackjet.co.uk",
+    "firstPublishedAt": "2015-10-21T15:01:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by BlackJet.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.95,
+        "count": 39
+    }
+}

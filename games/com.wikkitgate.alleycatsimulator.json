@@ -1,0 +1,103 @@
+{
+    "packageName": "com.wikkitgate.alleycatsimulator",
+    "title": "Alley Cat Simulator",
+    "description": "Do you want to know how it is to be an alley cat? With this scientific simulator you can experience how it is, to get hunted by a vicious dog in an epic quest for food! Smash your way through a turtle infested town, interact with mind blowing owls and harvest the speed of rabbits. Find the precious fishbones while bringing havoc to the town in this town destruction - high speed - chase game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 0,
+            "uuid": "fe3410de-0c6e-4363-8a0c-f3d961d2b38d",
+            "date": "2014-10-21T07:09:36Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.wikkitgate.alleycatsimulator_1.1\/Alley Cat Simulator_1.1_com.wikkitgate.alleycatsimulator.apk",
+            "size": 26256977,
+            "md5sum": "b52003a2e0d24d314e40d02b4e6338a6",
+            "publicSize": 404882,
+            "nativeSize": 14993080
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.wikkitgate.alleycatsimulator\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/toynIuF2TJOaEwPLGoi4",
+        "video": "https:\/\/vimeo.com\/109258925",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6lWlRuU8SQC2uAtwXGRh",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f3Vd6pRRLC2vqlMM0rOm",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cYjywoMRSj2wCM2YUgXz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FCFpz7XUTmwHtBGQNJDA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ABAAZbgcRIehxl3myaGo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1OyUMBicSvaqeAiOha2H"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/109258925"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/rba425_ouya-screenshot20141017-2-1cskxb7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/thumbnails\/thumbnail20141017-2-c0lqb8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/bqoxlp_ouya-screenshot20141017-2-47dzjl.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/thumbnails\/thumbnail20141017-2-1tguhu1.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/rujy71_ouya-screenshot20141017-2-1y4gzp6.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/thumbnails\/thumbnail20141017-2-efa4wa.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/6tvxqn_ouya-screenshot20141017-2-v19odi.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/thumbnails\/thumbnail20141017-2-1gkfapq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/8q0eqa_ouya-screenshot20141017-2-n50ke7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/thumbnails\/thumbnail20141017-2-1bnpdbb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/23dwfx_ouya-screenshot20141017-2-1f5um9q.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fe3410de-0c6e-4363-8a0c-f3d961d2b38d\/thumbnails\/thumbnail20141017-2-1nwuaoz.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "4a06a7dc-49b9-4f46-bb91-9b8baebbf414",
+        "name": "Wikkit Gate",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.wikkit-gate.com",
+    "firstPublishedAt": "2014-10-16T12:03:08Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Wikkit Gate.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.18,
+        "count": 74
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "4a06a7dc-49b9-4f46-bb91-9b8baebbf414",
+            "name": "Alley Cat Simulator",
+            "description": "Do you want to know how it is to be an alley cat? ",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

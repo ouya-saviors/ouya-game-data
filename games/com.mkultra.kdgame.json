@@ -1,0 +1,109 @@
+{
+    "packageName": "com.mkultra.kdgame",
+    "title": "Knight & Damsel",
+    "description": "Knight & Damsel is a two-player \"uncooperative\" multiplayer game set on a papercraft stage that subverts the age-old tale of knights saving damsels, with the knight and damsel competing to rescue the other!\r\n\r\nIn Knight & Damsel, players attempt to delay their opponent so their chosen hero can recieve the most glory by getting the furthest through the stage. They do this by throwing blocks on to their opponents screen, warping the fourth wall between 2D screen and world space. Blocks have the ability to delay or knock back their opponent, with snow avalanches to pursuing ghosts at hand to ensure you can get the lead in the race.\r\n\r\nCompete as Knight and Damsel across four stages in the campaign mode, or simply kick back and enjoy the full selection of blocks via the arcade mode. Knight & Damsel offers a competitive twist on the Damsel in Distress trope, fun for all ages.",
+    "players": [
+        2
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!",
+        "Kids List",
+        "Multiplayer",
+        "Platformer",
+        "Puzzle\/Trivia",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 3,
+            "uuid": "2451eb48-e1b3-48a8-8c61-dad6c0309000",
+            "date": "2016-04-26T06:04:07Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.mkultra.kdgame_1.3\/Knight & Damsel_1.3_com.mkultra.kdgame.apk",
+            "size": 111366950,
+            "md5sum": "290de58c92b7f82793f1ffa500a212c6",
+            "publicSize": 949968,
+            "nativeSize": 3902828
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mkultra.kdgame\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GcM08jogReSlHD4HuyNg",
+        "video": "https:\/\/vimeo.com\/136733931",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E92XeDyNQACTIqquye4L",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FvkvnzHES8OKuHyJaeah",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7S9Dd69dSvSTjqwYVFSz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ulALmbnyRBeW072MIkLD"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/136733931"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/136734738"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/136735297"
+            },
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/136735928"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/y10jw_ouya-screenshot20160425-3-1ovywlo.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/thumbnails\/thumbnail20160425-3-m2kwbb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/50q8ps_ouya-screenshot20160425-3-1jxfr0w.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/thumbnails\/thumbnail20160425-3-ck8wqq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/aikudw_ouya-screenshot20160425-3-1o0ksdk.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/thumbnails\/thumbnail20160425-3-1n1muns.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/tcrn6s_ouya-screenshot20160425-3-1uupquf.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2451eb48-e1b3-48a8-8c61-dad6c0309000\/thumbnails\/thumbnail20160425-3-mvzwux.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "MK-ULTRA Games, Inc.",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/mkultragames.com",
+    "firstPublishedAt": "2015-08-20T20:31:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2016 by MK-ULTRA Games, Inc..",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.6,
+        "count": 5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "KD_FullGame",
+            "name": "Knght & Damsel",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

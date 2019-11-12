@@ -1,0 +1,71 @@
+{
+    "packageName": "com.cchsh.shadypoopong22",
+    "title": "Shady's Poopong: 22nd Anniversary Edition",
+    "description": "Shady's Poopong: 22nd Anniversary Edition is a revolutionary new installment in the series, featuring a staggering one gameplay mode, mere minutes of excitement, and realistic fart noises!\n\nOkay, so it's mostly a testbed and proof of concept. But hey, it's free! And professionally voice acted! And there's a photo of a real toilet!",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0.13",
+            "versionCode": 0,
+            "uuid": "72f77a35-5e2e-4daf-8d38-91533970c4a1",
+            "date": "2015-12-21T17:23:26Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.cchsh.shadypoopong22_1.0.13\/Shadys Poopong 22nd Anniversary Edition_1.0.13_com.cchsh.shadypoopong22.apk",
+            "size": 33868810,
+            "md5sum": "35c9596bb179028bb76541d8665e487f",
+            "publicSize": 786420,
+            "nativeSize": 8821100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cchsh.shadypoopong22\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QdnNIBChQzIMLzu4QYkK",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sTfw7YBTSWs3YHrmBPAo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W4aiX4bVSlQGtqa0LXcA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9gEt2bjaTpSgi2OC9K2g"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/72f77a35-5e2e-4daf-8d38-91533970c4a1\/omz7e_ouya-screenshot20151218-3-xq411u.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/72f77a35-5e2e-4daf-8d38-91533970c4a1\/thumbnails\/thumbnail20151218-3-hwk7xa.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/72f77a35-5e2e-4daf-8d38-91533970c4a1\/8ts3lm_ouya-screenshot20151218-3-17bkb0t.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/72f77a35-5e2e-4daf-8d38-91533970c4a1\/thumbnails\/thumbnail20151218-3-aa0nmt.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/72f77a35-5e2e-4daf-8d38-91533970c4a1\/3hfjnd_ouya-screenshot20151218-3-7xozp1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/72f77a35-5e2e-4daf-8d38-91533970c4a1\/thumbnails\/thumbnail20151218-3-kowvm9.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "58321b6c-9d92-4566-af22-4071544c8467",
+        "name": "CC & SH",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.ccshgames.com",
+    "firstPublishedAt": "2015-12-21T17:23:26Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2015 by CC & SH.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.47,
+        "count": 19
+    }
+}

@@ -1,0 +1,87 @@
+{
+    "packageName": "com.bluebox.PolarityCoop",
+    "title": "Polarity: Partners In Crime",
+    "description": "Polarity: Partners in crime is a cooperative (split screen) puzzle based action game. Battle your way side by side through 17 levels and a competitive VS mode. Inspired by the original OUYA exclusive Polarity this title features all mechanics, modes and brand new levels. XBOX 360 Controller support is also included.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter",
+        "Multiplayer",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1",
+            "versionCode": 0,
+            "uuid": "3a7fcffc-abf6-453a-b2c7-815d8fcd5979",
+            "date": "2015-01-05T21:18:46Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.bluebox.PolarityCoop_1\/Polarity_ Partners In Crime_1_com.bluebox.PolarityCoop.apk",
+            "size": 85607356,
+            "md5sum": "a3d6679ff129e12d308fea95ac2a5140",
+            "publicSize": 180046,
+            "nativeSize": 14993772
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bluebox.polaritycoop\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1zsVmgYGR9yUQWaM4Hcw",
+        "video": "https:\/\/vimeo.com\/115731470",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/plIK2NQeQE6oTWHLiAIl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FPGNbeujTbeiOqItVDDA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/isY9gpebRnGBgk2Ae1ni"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/115731470"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a7fcffc-abf6-453a-b2c7-815d8fcd5979\/65vmsb_ouya-screenshot20150105-2-snvm1j.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a7fcffc-abf6-453a-b2c7-815d8fcd5979\/thumbnails\/thumbnail20150105-2-10gyqj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a7fcffc-abf6-453a-b2c7-815d8fcd5979\/cbdm5k_ouya-screenshot20150105-2-6zwccw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a7fcffc-abf6-453a-b2c7-815d8fcd5979\/thumbnails\/thumbnail20150105-2-1lbvhep.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a7fcffc-abf6-453a-b2c7-815d8fcd5979\/bk71oh_ouya-screenshot20150105-2-1v38gjv.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a7fcffc-abf6-453a-b2c7-815d8fcd5979\/thumbnails\/thumbnail20150105-2-p2oqaf.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Bluebutton Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-01-05T21:18:46Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by Bluebutton Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.45,
+        "count": 29
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "polarityPartnersFullPurchase",
+            "name": "Polarity: Partners in crime",
+            "description": "A split-screen cooperative adventure featuring 17 levels and a competitive vs mode.",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

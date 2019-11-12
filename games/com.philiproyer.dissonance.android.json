@@ -1,0 +1,91 @@
+{
+    "packageName": "com.philiproyer.dissonance.android",
+    "title": "Dissonance",
+    "description": "Dissonance follows the story of Bartholomew Brittle (a movie theater projectionist) and Clementine Cleu (an inquisitive theater patron) in a thought provoking discussion of the meaning of life. \r\n\r\nDissonance combines novelette and point-and-click puzzles to create a unique video game experience. \r\n\r\nFrom the creator of Super Pixalo\r\nhttp:\/\/littletinman.com\r\n\r\nAnd with an amazing soundtrack by Cornukousa Friend\r\nhttps:\/\/soundcloud.com\/cornukousa-friend",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 0,
+            "uuid": "89f52edf-c0b3-4c04-9e15-f4bfcfd479c3",
+            "date": "2015-11-24T13:50:34Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.philiproyer.dissonance.android_1.0.0\/Dissonance_1.0.0_com.philiproyer.dissonance.android.apk",
+            "size": 72097106,
+            "md5sum": "219262d3779b2ad931c8ac4c39903acb",
+            "publicSize": 6860,
+            "nativeSize": 2109020
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.philiproyer.dissonance.android\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j3A1TZ55QeShXotXkGCX",
+        "video": "https:\/\/vimeo.com\/143502278",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3qauMHavQayLftdOw6Gk",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5ZeJ4c60SXyWVk2jo2uA",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/B4u6kkLVS1LERrPMbth2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rRmID7B3R5qjt3xv5wuk"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/143502278"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/65r909_ouya-screenshot20151110-3-1p5lmst.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/thumbnails\/thumbnail20151110-3-17v8eci.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/frilmw_ouya-screenshot20151110-3-18bc7ro.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/thumbnails\/thumbnail20151110-3-17cj4tr.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/xkspaw_ouya-screenshot20151110-3-zeyccs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/thumbnails\/thumbnail20151110-3-73kaos.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/fyuwvj_ouya-screenshot20151110-3-10124p7.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/89f52edf-c0b3-4c04-9e15-f4bfcfd479c3\/thumbnails\/thumbnail20151110-3-ffzrj0.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "97221744-8bc6-4f1f-8830-0b27a4e7e508",
+        "name": "Philip Royer",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "littletinman.com",
+    "firstPublishedAt": "2015-11-24T13:50:34Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2015 by Philip Royer.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.67,
+        "count": 3
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Dissonance_Game",
+            "name": "Dissonance Full Game",
+            "description": "Dissonance: An Interactive Novelette",
+            "localPrice": 0,
+            "originalPrice": 0,
+            "currency": "USD"
+        }
+    ]
+}

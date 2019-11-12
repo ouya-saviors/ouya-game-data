@@ -1,0 +1,83 @@
+{
+    "packageName": "com.erichkohl.chopperattack",
+    "title": "Chopper Attack",
+    "description": "Chopper Attack is a simple old-school type of arcade shooter.  The object is to use your turret to shoot down as many helicopters as you can before ten of them land on the ground.  There are a few customization options you can set, and the game also keeps track of local high scores.  Controller is required.\n\t\t\t\nFor tech support, questions, or comments, visit:\n\t\t\t\nhttp:\/\/www.erichkohl.blogspot.com\/p\/my-software.html\n\t\t\t\nOr send e-mail to ekohl@sbcglobal.net.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.00",
+            "versionCode": 100,
+            "uuid": "0460e87b-22d9-4621-ab34-6ec1244880ba",
+            "date": "2016-06-27T22:17:01Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.erichkohl.chopperattack_1.00\/Chopper Attack_1.00_com.erichkohl.chopperattack.apk",
+            "size": 26363320,
+            "md5sum": "e26199ce8cd6aae72c1c486a5d4ed305",
+            "publicSize": 183464,
+            "nativeSize": 16423188
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.erichkohl.chopperattack\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zAiZdY2TTCi5psXO9XrQ",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zSLYcch0T6e08JGJW8VN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/grEo83d0R8GPQ1J7rICq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xpysbvy0RA6pETeZnMpn",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v9ItXuAxS5mhVZiE7LxS",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4Qc2OKOYQqnrurri2vzh"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/ybfnjd_ouya-screenshot20160626-3-z7ou8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/thumbnails\/thumbnail20160626-3-1t5z8ml.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/ntpqbu_ouya-screenshot20160626-3-9avxcz.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/thumbnails\/thumbnail20160626-3-1oh0vor.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/rgulbp_ouya-screenshot20160626-3-1jyd431.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/thumbnails\/thumbnail20160626-3-afd5nx.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/zdjuyc_ouya-screenshot20160626-3-j5ht8y.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/thumbnails\/thumbnail20160626-3-1lruy0k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/mqbwvy_ouya-screenshot20160626-3-13fhi6z.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0460e87b-22d9-4621-ab34-6ec1244880ba\/thumbnails\/thumbnail20160626-3-1upil5.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "69328bc0-3dc0-4239-a1f2-4523b9b6c61f",
+        "name": "Erich Kohl",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/www.erichkohl.blogspot.com\/p\/my-software.html",
+    "firstPublishedAt": "2016-06-27T22:17:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2016 by Erich Kohl.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.24,
+        "count": 21
+    }
+}

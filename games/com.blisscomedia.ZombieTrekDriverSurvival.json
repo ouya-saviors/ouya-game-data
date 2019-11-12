@@ -1,0 +1,98 @@
+{
+    "packageName": "com.blisscomedia.ZombieTrekDriverSurvival",
+    "title": "Zombie Trek Driver Survival",
+    "description": "SPEED, FEAR, DARK & ZOMBIES!!!\r\n\r\nSurviving is not easy, you can stay in the dark surrounded by zombies that will tear you into pieces if you do not keep charging the battery of your vehicle.\r\nTo keep the lights on you will need to collect the batteries that you find along the way, but avoid the obstacles. \r\nThe obstacles make you blind, run the battery down and make you go so fast you completely lose control.\r\nRemember: Battery = 0 = dark = death.\r\nCan you reach the secret place at 1000?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade\/Pinball",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.11",
+            "versionCode": 0,
+            "uuid": "a7221afc-e385-44fd-8db2-43ade1a32b95",
+            "date": "2014-10-28T23:10:30Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.blisscomedia.ZombieTrekDriverSurvival_1.11\/Zombie Trek Driver Survival_1.11_com.blisscomedia.ZombieTrekDriverSurvival.apk",
+            "size": 18441300,
+            "md5sum": "49a31da6cdcb543e9ea4e57f189a2ed9",
+            "publicSize": 496437,
+            "nativeSize": 14955776
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.blisscomedia.zombietrekdriversurvival\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pJHwE3ReSUq6cKhsdOLZ",
+        "video": "https:\/\/vimeo.com\/106926754",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/10ch73JRQ2O1ue4o4P8A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H8MFU0axSTu1A1YKV2Re",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OqyaY0RLSI690cS9t4fV",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nRAQmUCwQemASq5Lerz7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ipfytMr0TwKLLusogp5S"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/106926754"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/2b2gz8_ouya-screenshot20141027-2-1ckj5eq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/thumbnails\/thumbnail20141027-2-1ucm1j9.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/d3dbg1_ouya-screenshot20141027-2-dmn5ug.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/thumbnails\/thumbnail20141027-2-1hpw9y7.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/1vx1ay_ouya-screenshot20141027-2-lbnyq4.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/thumbnails\/thumbnail20141027-2-bo8f61.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/s8nz14_ouya-screenshot20141027-2-qztn9p.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/thumbnails\/thumbnail20141027-2-1jks57c.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/lo68q5_ouya-screenshot20141027-2-1ps8c1x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a7221afc-e385-44fd-8db2-43ade1a32b95\/thumbnails\/thumbnail20141027-2-159sk3b.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Blisscomedia ",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.riomoko.com",
+    "firstPublishedAt": "2014-10-24T07:33:39Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2014 by Blisscomedia .",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.71,
+        "count": 7
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ZombieTrekDriverSurvival",
+            "name": "Zombie Trek Driver Survival full game",
+            "description": "Zombie Trek Driver Survival full game",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

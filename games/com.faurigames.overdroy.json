@@ -1,0 +1,116 @@
+{
+    "packageName": "com.faurigames.overdroy",
+    "title": "Overdroy",
+    "description": "Overdroy is a game that mix the traditional platform style with puzzles. The player assumes the role of Droy, a friendly robot on wheels who must face the most diverse challenges to collect their precious gears over 54 levels full of dangers and riddles.\r\n\r\nThe difficulty gradually increases in each new conquest, testing the most your reflex and skills to make quick and accurate decisions.\r\n\r\nJump, run, dash, dodge and fly with Overdroy, a very hard and challenging game made \u200b\u200bby just one person, for true gamers and lovers of old-school!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Platformer",
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.80",
+            "versionCode": 0,
+            "uuid": "154ad292-fcf7-4afe-bf18-b2d90d9c4ad4",
+            "date": "2014-06-19T21:28:31Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.faurigames.overdroy_1.0.80\/Overdroy_1.0.80_com.faurigames.overdroy.apk",
+            "size": 19785903,
+            "md5sum": "8ef9f1fa970665aecebfe42729aeb260",
+            "publicSize": 998775,
+            "nativeSize": 4035572
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.faurigames.overdroy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JU6T2zJUTsqb5kigLRn3",
+        "video": "http:\/\/vimeo.com\/97693387",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kJvUlC76QaiiKP4mgy8W",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HW9KkQwUTuKuvFu6thZz",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zr8i3D52SpiLxa1ek2Bc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EpNvCzAzQSNSnn2mDhtq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EaAlFlGBRHOgyLfO3zOo",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v0dH4dH4Sr671zMb825w",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9U5Y7TarSnCN2RJBzhbE",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2yWrqUSSedi9yGifNDgP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "http:\/\/vimeo.com\/97693387"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/kJvUlC76QaiiKP4mgy8W",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/kJvUlC76QaiiKP4mgy8W"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/HW9KkQwUTuKuvFu6thZz",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/HW9KkQwUTuKuvFu6thZz"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/Zr8i3D52SpiLxa1ek2Bc",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/Zr8i3D52SpiLxa1ek2Bc"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EpNvCzAzQSNSnn2mDhtq",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EpNvCzAzQSNSnn2mDhtq"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/EaAlFlGBRHOgyLfO3zOo",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/EaAlFlGBRHOgyLfO3zOo"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/v0dH4dH4Sr671zMb825w",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/v0dH4dH4Sr671zMb825w"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/9U5Y7TarSnCN2RJBzhbE",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/9U5Y7TarSnCN2RJBzhbE"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/2yWrqUSSedi9yGifNDgP",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/2yWrqUSSedi9yGifNDgP"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Roberto T. Fauri",
+        "supportEmail": "robertofauri@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/www.facebook.com\/overdroy",
+    "firstPublishedAt": "2014-06-19T21:28:31Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2014 by Roberto T. Fauri.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.5,
+        "count": 16
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "full_game",
+            "name": "Overdroy",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

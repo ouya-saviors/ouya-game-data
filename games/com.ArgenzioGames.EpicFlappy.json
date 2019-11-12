@@ -1,0 +1,103 @@
+{
+    "packageName": "com.ArgenzioGames.EpicFlappy",
+    "title": "Epic Flappy",
+    "description": "Help these cute little birds to fly through trees as far as possible.\r\nBeware, it is not as easy as you think!\r\nGet the best score!\r\n\r\nNEW VERSION:\r\n- 20 LEVELS OF PARALLASSE !!!\r\n- 3 NEW Birds\r\n- SMOOTER Gameplay\r\n\r\nGraphics:\r\n- 20 levels of paralalasse\r\n- Amazing hand drawn pastel like graphics\r\n- Background and obstacle random generated, every time different\r\n- 6 different bird\r\n\r\nGame Features:\r\n- Simple one button controls\r\n- Easy and fun to play, but a challenge to fully master\r\n- Stunning graphics\r\n- Lots of fun\r\n- Challenging gameplay\r\n\r\nHow to Play:\r\n- Press button to fly higher!\r\n- Avoid obstacles",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.03",
+            "versionCode": 0,
+            "uuid": "067669c8-5446-4a0e-bba2-4127ab27173e",
+            "date": "2014-05-13T17:01:58Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.ArgenzioGames.EpicFlappy_1.03\/Epic Flappy_1.03_com.ArgenzioGames.EpicFlappy.apk",
+            "size": 15061798,
+            "md5sum": "0c6185574dde91c7261cb6557ecafacf",
+            "publicSize": 201160,
+            "nativeSize": 14671620
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.argenziogames.epicflappy\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cYG04jQmTIWwcDSlOc2P",
+        "video": "https:\/\/vimeo.com\/94753935",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9TO0GgZySo6ArYCokUg5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Nx7M6hxSfGWMZjEaMWWw",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d11GbLv5RV2WFPajFXP7",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i7VRZw4SdmIF9mgI20l5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WDyXHGf2Se2pfSjlJSRg",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JBuCgHM3QyRGPubIl0Jp"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/94753935"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/4uvk1a_ouya-screenshot20140510-2-1c12n4o.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/thumbnails\/thumbnail20140510-2-o6uw4a.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/ysgm8z_ouya-screenshot20140510-2-3s9z7n.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/thumbnails\/thumbnail20140510-2-wooft4.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/le2s3g_ouya-screenshot20140510-2-rlncws.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/thumbnails\/thumbnail20140510-2-413vnq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/90qm6e_ouya-screenshot20140510-2-r33kix.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/thumbnails\/thumbnail20140510-2-16zaw3p.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/ar2oat_ouya-screenshot20140510-2-qxpykc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/thumbnails\/thumbnail20140510-2-1bz9095.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/jj2wbt_ouya-screenshot20140510-2-3rdxje.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/067669c8-5446-4a0e-bba2-4127ab27173e\/thumbnails\/thumbnail20140510-2-yj22im.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Ruggero Corridori",
+        "supportEmail": "ruggero.corridori@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https:\/\/plus.google.com\/u\/0\/communities\/100411656552410706789",
+    "firstPublishedAt": "2014-05-03T06:12:28Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Ruggero Corridori.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4,
+        "count": 17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "epicflappy",
+            "name": "Epic Flappy",
+            "description": "Thanks for purchase my game",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

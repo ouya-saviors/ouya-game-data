@@ -1,0 +1,89 @@
+{
+    "packageName": "com.undergrounddevelopments.angryranook",
+    "title": "Angry Ranook",
+    "description": "Ranook is a frog, he lives in peace in frogtown with his friends. But one day, the evil Blackbat and his bat army, arrives to frogtown destroying the town and hijacking Ranook's friends and family. Only Ranook could escape from the attack. Now he is so angry and starts a journey to rescue his friends.\r\nDuring his search, the bat army will try to defeat him, throwing rock blocks over his head. Ranook must use these blocks, putting them in the way to walk over them and scape from each stage ang go to the next, until he reaches Blackbat's castle.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Puzzle\/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.26",
+            "versionCode": 1000026,
+            "uuid": "d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb",
+            "date": "2016-01-12T20:02:24Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.undergrounddevelopments.angryranook_1.0.26\/Angry Ranook_1.0.26_com.undergrounddevelopments.angryranook.apk",
+            "size": 9559992,
+            "md5sum": "88660920c66eeaae3271869a55869a40",
+            "publicSize": 850121,
+            "nativeSize": 8821100
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.undergrounddevelopments.angryranook\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jkVz7haIRf6BnVRYzlKh",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f57zjchTCiyLqPqpwCQy",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aavo8336StGYPgSXuef3",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4iMWYQyoQVermn4tC3y8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ClSW5y5gQzWFXeKgUHJ5",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MUwPqD2aSeKlXVPXKDSq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z9XLz8hVQlOMvwG7SdD5"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/selxol_ouya-screenshot20151207-3-14f9dlg.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/thumbnails\/thumbnail20151207-3-1kpb9ys.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/zwwqb1_ouya-screenshot20151207-3-1xm268b.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/thumbnails\/thumbnail20151207-3-17rzhd8.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/6ymht2_ouya-screenshot20151207-3-75f08x.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/thumbnails\/thumbnail20151207-3-1u23mwy.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/1xw7i0_ouya-screenshot20151207-3-1bckqqe.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/thumbnails\/thumbnail20151207-3-lkhzmb.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/32srfr_ouya-screenshot20151207-3-1mt3hwq.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/thumbnails\/thumbnail20151207-3-1sihxcq.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/3lv0xr_ouya-screenshot20151207-3-bjlenc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d5470d5f-dbb0-423a-bc9e-7a7fec73bfcb\/thumbnails\/thumbnail20151207-3-1ftv3sj.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "55d2add5-c297-4a93-b293-759075ae1189",
+        "name": "Underground Developments",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2015-10-31T17:04:56Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Underground Developments.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.68,
+        "count": 19
+    }
+}

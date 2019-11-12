@@ -1,0 +1,87 @@
+{
+    "packageName": "com.bobmania.knockout",
+    "title": "Knockout",
+    "description": "Fight your friends in this multiplayer battle game where you must knock each other off the island without falling off yourself!\n\nKnockout was developed by Ben, a 12yr old kid learning to program.\n\nIncludes:\n\nVERSUS MODE:\nLast man standing wins.\n\nTOURNAMENT MODE:\nFirst player to get 3 kills win.\n\n1-4 PLAYERS\nGrab some friends, or play against the computer.\n\nCONTROLLER SUPPORT:\nOUYA, Ps3 & Xbox controllers.\n\nUpdate Log:\nVersion 1.2:\n- Added shadows to the characters\n- Added new shaders\n- Added new lighting effects\n- Slight changes to some 3D models\n- Fixed a bug where the player wouldn't die\n- Now supports M.O.J.O. with OUYA Everywhere\n\nVersion 1.1:\n- Added single player mode. Play against the computer!\n- Added pause & return to menu while playing. (press Y while playing)\n- Added how to play section.\n- Fixed bugs.\n- Fixed some crashing glitches.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 0,
+            "uuid": "6af9a5ed-658f-43f0-b988-c06bd27a31ca",
+            "date": "2014-11-03T21:24:29Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.bobmania.knockout_1.2\/Knockout_1.2_com.bobmania.knockout.apk",
+            "size": 52317995,
+            "md5sum": "2bbde3ce57f42aa93ba4aa3ac27d2bca",
+            "publicSize": 509844,
+            "nativeSize": 14992732
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bobmania.knockout\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HkHSsk5LQ4GbKQPhawQ5",
+        "video": "https:\/\/vimeo.com\/110511808",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hReNWd7Qv6oEZ9ADzV4M",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/o9jKfgk9R26mtm9s4Wxs",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DkeBWhyIS2nbOz21dHYy"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/110511808"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6af9a5ed-658f-43f0-b988-c06bd27a31ca\/9baw04_ouya-screenshot20141029-2-382ao1.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6af9a5ed-658f-43f0-b988-c06bd27a31ca\/thumbnails\/thumbnail20141029-2-gbyxpf.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6af9a5ed-658f-43f0-b988-c06bd27a31ca\/d8qcnv_ouya-screenshot20141101-2-1b0dpzw.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6af9a5ed-658f-43f0-b988-c06bd27a31ca\/thumbnails\/thumbnail20141101-2-1eqnqpd.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6af9a5ed-658f-43f0-b988-c06bd27a31ca\/9sygd6_ouya-screenshot20141101-2-1ma3vty.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6af9a5ed-658f-43f0-b988-c06bd27a31ca\/thumbnails\/thumbnail20141101-2-174o533.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "5d991fb6-b82c-46ab-82eb-cb732bccb626",
+        "name": "Bobmania",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.bobmania.com",
+    "firstPublishedAt": "2014-09-16T18:20:03Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Bobmania.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.79,
+        "count": 14
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Knockout",
+            "name": "Knockout (Full Game Purchase)",
+            "description": "Knockout is a 2-4 player battle game by a 12yr old programmer.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

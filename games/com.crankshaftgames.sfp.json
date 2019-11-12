@@ -1,0 +1,97 @@
+{
+    "packageName": "com.crankshaftgames.sfp",
+    "title": "Big Action Mega Fight!",
+    "description": "Classic single-player beat 'em up brawler with a modern twist! Hilarious arcade fighting meets high-score action frenzy. Megatropolis is overrun with vicious criminal gangs and it's up to Brick Strongarm and his killer moustache to save the city!\r\n\r\nPunch your way through over 35 stages of non-stop fighting action. Upgrade your fighter, unlock powerful buffs and learn new special attacks like: Fistnado, Fist of the Heavens, Poultry Rain and more. Featuring luscious hand-drawn animated characters in beautiful vivid environments, all backed by a roaring soundtrack. Supports XBox 360 and PlayStation 3 controllers!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade\/Pinball",
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "2.0.16",
+            "versionCode": 0,
+            "uuid": "43f32b65-5cfd-47a2-8f80-160f093485f8",
+            "date": "2015-09-16T20:09:11Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.crankshaftgames.sfp_2.0.16\/BAMF!_2.0.16_com.crankshaftgames.sfp.apk",
+            "size": 66362843,
+            "md5sum": "6ebad71495d30f9735d0b3fd7d5a90d3",
+            "publicSize": 1695949,
+            "nativeSize": 2299184
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.crankshaftgames.sfp\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2LkW2x34T4iBpEn2Dhj4",
+        "video": "https:\/\/vimeo.com\/97765087",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qY2bWCRYCkWBnENPt15A",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Dyw8VLZuTeK2mbE86QfK",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M0Fx1siuRXWR55x8bJqc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4ehEovECTGuc0bumU8ma",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7GqIamjORDG520M3P3Kk"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/97765087"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/25vi9a_ouya-screenshot20150909-3-br531e.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/thumbnails\/thumbnail20150909-3-ozwlxj.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/ey2iku_ouya-screenshot20150909-3-hvdhkt.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/thumbnails\/thumbnail20150909-3-vfd6oo.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/4i32ln_ouya-screenshot20150909-3-1jygvgs.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/thumbnails\/thumbnail20150909-3-91nh1k.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/6wdmh6_ouya-screenshot20150909-3-ldeof8.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/thumbnails\/thumbnail20150909-3-8ez795.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/yvfb4g_ouya-screenshot20150909-3-xlbpul.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43f32b65-5cfd-47a2-8f80-160f093485f8\/thumbnails\/thumbnail20150909-3-u9udeg.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": "11cea613-fee4-45b4-8365-40506d7e23d9",
+        "name": "Double Stallion Games",
+        "supportEmail": "info@dblstallion.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http:\/\/bigactionmegafight.com",
+    "firstPublishedAt": "2014-06-23T14:36:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2015 by Double Stallion Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.42,
+        "count": 276
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BAMF_Product",
+            "name": "Big Action Mega Fight!",
+            "description": "This is your ticket to BAMF!",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,85 @@
+{
+    "packageName": "com.bobsgame.bg",
+    "title": "bob's game",
+    "description": "It's every puzzle game combined- where the rules change as you play!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle\/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 0,
+            "uuid": "ab29a541-38f9-43fd-91c9-56468590e49d",
+            "date": "2014-01-03T02:36:29Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.bobsgame.bg_0.1\/bob_0.1_com.bobsgame.bg.apk",
+            "size": 11834433,
+            "md5sum": "62fa9e132deca7ed2d2390b94d7dbda7",
+            "publicSize": 29358,
+            "nativeSize": 8681496
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bobsgame.bg\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6eFCjbbLRqN0XoNk8OZv",
+        "video": "https:\/\/vimeo.com\/82601357",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qqoxahjSRRuI9ujRQ1RG",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OvmGQHEUTjOlhBYrlmFr",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wuzKRHsQAeolVSbGjjbi",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a0LtJoHJTjcqI8VGqkk8",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oI4CH9pYRBiTvsOgnoWS"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/82601357"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/qqoxahjSRRuI9ujRQ1RG\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qqoxahjSRRuI9ujRQ1RG\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/OvmGQHEUTjOlhBYrlmFr\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OvmGQHEUTjOlhBYrlmFr\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/wuzKRHsQAeolVSbGjjbi\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wuzKRHsQAeolVSbGjjbi\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/a0LtJoHJTjcqI8VGqkk8\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/a0LtJoHJTjcqI8VGqkk8\/convert?w=245"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/www.filepicker.io\/api\/file\/oI4CH9pYRBiTvsOgnoWS\/convert?w=720",
+                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oI4CH9pYRBiTvsOgnoWS\/convert?w=245"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "bob's game corporation",
+        "supportEmail": "bob@bobsgame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/bobsgame.com",
+    "firstPublishedAt": "2014-01-03T02:36:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2014 by bob's game corporation.",
+    "premium": false,
+    "rating": {
+        "likeCount": 48,
+        "average": 3.96,
+        "count": 47
+    }
+}

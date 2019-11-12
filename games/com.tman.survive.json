@@ -1,0 +1,69 @@
+{
+    "packageName": "com.tman.survive",
+    "title": "Survive!",
+    "description": "Survive as long as you can!\nDefend the generator from monster hoards. Stack crates as barricades and deploy turrets to help you. Get new weapon drops while progressing to higher and more challenging levels.\n\nWork in progress.\nOnline multiplayer is in development and will be added within the next months!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS\/Shooter"
+    ],
+    "releases": [
+        {
+            "name": "0.73",
+            "versionCode": 2,
+            "uuid": "a685b820-7b77-4a41-902a-684c5d8f08fc",
+            "date": "2016-04-18T19:24:21Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.tman.survive_0.73\/Survive!_0.73_com.tman.survive.apk",
+            "size": 39152505,
+            "md5sum": "2a322491246623a3cc7b122a1b2a3705",
+            "publicSize": 140645,
+            "nativeSize": 1919468
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tman.survive\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/COdVnkUTMiEi5g3nxo2k",
+        "video": null,
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yxrkhgyrR2DXaemVkPqY",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UGVeZHyjSfSNtx3dQSAq",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q2EzTH5vRv62keE70cYw"
+        ],
+        "details": [
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a685b820-7b77-4a41-902a-684c5d8f08fc\/1f9mwn_ouya-screenshot20160410-3-eoazx5.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a685b820-7b77-4a41-902a-684c5d8f08fc\/thumbnails\/thumbnail20160410-3-x3povu.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a685b820-7b77-4a41-902a-684c5d8f08fc\/zac2zz_ouya-screenshot20160410-3-1113mc.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a685b820-7b77-4a41-902a-684c5d8f08fc\/thumbnails\/thumbnail20160410-3-1jebon3.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a685b820-7b77-4a41-902a-684c5d8f08fc\/d2vmon_ouya-screenshot20160410-3-426h98.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a685b820-7b77-4a41-902a-684c5d8f08fc\/thumbnails\/thumbnail20160410-3-as1ycl.jpeg"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "Tm4n",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "17+",
+    "website": "http:\/\/tman.bplaced.net\/blog\/",
+    "firstPublishedAt": "2016-02-10T19:16:44Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2016 by Tm4n.",
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 3.23,
+        "count": 86
+    }
+}
