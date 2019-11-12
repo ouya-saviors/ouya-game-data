@@ -7,20 +7,25 @@
  */
 if (isset($argv[1]) && in_array($argv[1], ['-h', '--help'])) {
     error(
-        'Usage: convert-original.php ouya-game-details.json ouya-game-download.json'
+        'Usage: convert-original.php game-details.json game-apps.json game-apps-download.json'
     );
 }
 
 //cli arguments
 if (!isset($argv[1])) {
-    error('details json file parameter missing');
+    error('details json file parameter missing (api/v1/details?app=...');
 }
 $detailsFile = $argv[1];
 
 if (!isset($argv[2])) {
-    error('download json file parameter missing');
+    error('apps json file parameter missing (api/v1/apps/xxx');
 }
-$downloadFile = $argv[2];
+$appsFile = $argv[2];
+
+if (!isset($argv[3])) {
+    error('apps download json file parameter missing (api/v1/apps/xxx/download');
+}
+$downloadFile = $argv[3];
 
 
 //file loading
@@ -33,6 +38,15 @@ if ($detailsData === null) {
     error('Details JSON cannot de loaded');
 }
 
+$appsJson = file_get_contents($appsFile);
+if ($appsJson === false || trim($appsJson) === '') {
+    error('Apps file is empty');
+}
+$appsData = json_decode($appsJson);
+if ($appsData === null) {
+    error('App JSON cannot de loaded');
+}
+
 $downloadJson = file_get_contents($downloadFile);
 if ($downloadJson === false || trim($downloadJson) === '') {
     error('Download file is empty');
@@ -42,66 +56,76 @@ if ($downloadData === null) {
     error('Download JSON cannot de loaded');
 }
 
-$package = basename($detailsFile, '.json');
+
 //data building
+$package = basename($detailsFile, '.json');
+
+$developerUuid = null;
+if (isset($detailsData->developer->url)) {
+    parse_str(parse_url($detailsData->developer->url, PHP_URL_QUERY), $devParams);
+    $developerUuid = $devParams['developer'];
+}
+
 $gameData = [
-    'uuid'        => $detailsData->app->uuid,
-    'package'     => $package,
-    'title'       => $detailsData->app->title,
-    'description' => $detailsData->app->description,
-    'players'     => $detailsData->app->gamerNumbers,
-    'genres'      => $detailsData->app->genres,
+    'packageName' => $package,
+    'title'       => $appsData->app->title,
+    'description' => $appsData->app->description,
+    'players'     => $appsData->app->gamerNumbers,
+    'genres'      => $appsData->app->genres,
     
     'releases' => [
         [
-            'name'       => $detailsData->app->versionNumber,
-            'uuid'       => $detailsData->app->latestVersion,
-            'date'       => $detailsData->app->publishedAt,
-            'url'        => $downloadData->app->downloadLink,
-            'size'       => $downloadData->app->fileSize,
-            'md5sum'     => $detailsData->app->md5sum,
-            'publicSize' => $detailsData->app->publicSize,
-            'nativeSize' => $detailsData->app->nativeSize,
+            'name'        => $appsData->app->versionNumber,
+            'versionCode' => $detailsData->apk->versionCode,
+            'uuid'        => $appsData->app->latestVersion,
+            'date'        => $appsData->app->publishedAt,
+            'url'         => $downloadData->app->downloadLink,
+            'size'        => (int) $downloadData->app->fileSize,
+            'md5sum'      => $appsData->app->md5sum,
+            'publicSize'  => $appsData->app->publicSize,
+            'nativeSize'  => $appsData->app->nativeSize,
         ]
     ],
 
     'media' => [
         'discover'    => 'http://ouya.cweiske.de/game-images/' . strtolower($package) . '/discover',
-        'large'       => newImage($detailsData->app->mainImageFullUrl),
-        'video'       => $detailsData->app->videoUrl,
-        'screenshots' => newImages($detailsData->app->filepickerScreenshots),
+        'large'       => $appsData->app->mainImageFullUrl,
+        'video'       => $appsData->app->videoUrl,
+        'screenshots' => $appsData->app->filepickerScreenshots,
+        'details'     => details($detailsData->mediaTiles),
     ],
 
     'developer' => [
-        'name'         => $detailsData->app->developer,
-        'supportEmail' => $detailsData->app->supportEmailAddress,
-        'supportPhone' => $detailsData->app->supportPhone,
-        'founder'      => $detailsData->app->founder,
+        'uuid'         => $developerUuid,
+        'name'         => $appsData->app->developer,
+        'supportEmail' => $appsData->app->supportEmailAddress,
+        'supportPhone' => $appsData->app->supportPhone,
+        'founder'      => $appsData->app->founder,
     ],
 
-    'contentRating'    => $detailsData->app->contentRating,
-    'website'          => $detailsData->app->website,
-    'firstPublishedAt' => $detailsData->app->firstPublishedAt,
+    'contentRating'    => $appsData->app->contentRating,
+    'website'          => $appsData->app->website,
+    'firstPublishedAt' => $appsData->app->firstPublishedAt,
     'inAppPurchases'   => false,//FIXME: we would need discover data here
-    'overview'         => $detailsData->app->overview,
-    'premium'          => $detailsData->app->premium,
+    'overview'         => $appsData->app->overview,
+    'premium'          => $appsData->app->premium,
 
     'rating' => [
-        'likeCount' => $detailsData->app->likeCount,
-        'average'   => $detailsData->app->ratingAverage,
-        'count'     => $detailsData->app->ratingCount,
+        'likeCount' => $appsData->app->likeCount,
+        'average'   => $appsData->app->ratingAverage,
+        'count'     => $appsData->app->ratingCount,
     ],
 ];
 
-if (isset($detailsData->app->promotedProduct)) {
+if (isset($appsData->app->promotedProduct)) {
     $gameData['products'][] = [
         'promoted'      => true,
-        'identifier'    => $detailsData->app->promotedProduct->identifier,
-        'name'          => $detailsData->app->promotedProduct->name,
-        'description'   => $detailsData->app->promotedProduct->description,
-        'localPrice'    => $detailsData->app->promotedProduct->localPrice,
-        'originalPrice' => $detailsData->app->promotedProduct->originalPrice,
-        'currency'      => $detailsData->app->promotedProduct->currency,
+        'identifier'    => $appsData->app->promotedProduct->identifier,
+        'name'          => $appsData->app->promotedProduct->name,
+        'description'   => $appsData->app->promotedProduct->description,
+        'localPrice'    => $appsData->app->promotedProduct->localPrice,
+        'originalPrice' => $appsData->app->promotedProduct->originalPrice,
+        'currency'      => $appsData->app->promotedProduct->currency,
     ];
 }
 
@@ -138,38 +162,30 @@ if (count($iaDataFiles)) {
             'nativeSize' => 0,//FIXME
         ];
     }
-    var_dump($iaPkg, $gameData);die();
+    //var_dump($iaPkg, $gameData);die();
 }
 
 
 echo json_encode($gameData, JSON_PRETTY_PRINT) . "\n";
 
-function newImage($imageUrl)
+function details($mediaTiles)
 {
-    return $imageUrl;
-    static $mapping;
-    if ($mapping === null) {
-        $hdl = fopen(__DIR__ . '/../old-data/map-game-images.csv', 'r');
-        if (!$hdl) {
-            error('Cannot load image url map file');
-        }
-        $mapping = [];
-        while ($data = fgetcsv($hdl, 4096, ',')) {
-            if (count($data) == 2) {
-                $mapping[$data[0]] = $data[1];
-            }
+    $details = [];
+    foreach ($mediaTiles as $tile) {
+        if ($tile->type == 'video') {
+            $details[] = [
+                'type' => 'video',
+                'url'  => $tile->url,
+            ];
+        } else {
+            $details[] = [
+                'type'  => 'image',
+                'url'   => $tile->urls->full,
+                'thumb' => $tile->urls->thumbnail,
+            ];
         }
     }
-    return $mapping[$imageUrl] ?? $imageUrl;
-}
-
-function newImages($urls)
-{
-    $new = [];
-    foreach ($urls as $url) {
-        $new[] = newImage($url);
-    }
-    return $new;
+    return $details;
 }
 
 function error($msg)
