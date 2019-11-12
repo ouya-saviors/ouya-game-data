@@ -47,18 +47,42 @@ if ($appsData === null) {
     error('App JSON cannot de loaded');
 }
 
-$downloadJson = file_get_contents($downloadFile);
-if ($downloadJson === false || trim($downloadJson) === '') {
-    error('Download file is empty');
-}
-$downloadData = json_decode($downloadJson);
-if ($downloadData === null) {
-    error('Download JSON cannot de loaded');
+$package = basename($detailsFile, '.json');
+
+if (file_exists($downloadFile)) {
+    $downloadJson = file_get_contents($downloadFile);
+    if ($downloadJson === false || trim($downloadJson) === '') {
+        error('Download file is empty');
+    }
+    $downloadData = json_decode($downloadJson);
+    if ($downloadData === null) {
+        error('Download JSON cannot de loaded');
+    }
+    $downloadUrl = $downloadData->app->downloadLink;
+} else {
+    $downloadData = null;
+    $downloadUrl  = null;
+    //fetch download URL from internet archive files
+    $version = $appsData->app->versionNumber;
+    $iaJsonFile = __DIR__ . '/../old-data/ia-data/'
+        . 'ouya_' . $package . '_' . $version . '.json';
+    if (!file_exists($iaJsonFile)) {
+        error('No download file given, and no internet archive version found');
+    }
+    $iaData = json_decode(file_get_contents($iaJsonFile));
+    foreach ($iaData->files as $iaFile) {
+        if ($iaFile->format == 'Android Package Archive') {
+            $iaSlug = basename($iaJsonFile, '.json');
+            $downloadUrl = 'https://archive.org/download/' . $iaSlug . '/' . $iaFile->name;
+        }
+    }
+    if ($downloadUrl === null) {
+        error('No .apk download URL found in internet archive json file');
+    }
 }
 
 
 //data building
-$package = basename($detailsFile, '.json');
 
 $developerUuid = null;
 if (isset($detailsData->developer->url)) {
@@ -79,8 +103,10 @@ $gameData = [
             'versionCode' => (int) $detailsData->apk->versionCode,
             'uuid'        => $appsData->app->latestVersion,
             'date'        => $appsData->app->publishedAt,
-            'url'         => $downloadData->app->downloadLink,
-            'size'        => (int) $downloadData->app->fileSize,
+            'url'         => $downloadUrl,
+            'size'        => isset($downloadData->app->fileSize)
+                ? intval($downloadData->app->fileSize)
+                : intval($appsData->app->apkFileSize),
             'md5sum'      => $appsData->app->md5sum,
             'publicSize'  => $appsData->app->publicSize,
             'nativeSize'  => $appsData->app->nativeSize,
@@ -98,7 +124,8 @@ $gameData = [
     'developer' => [
         'uuid'         => $developerUuid,
         'name'         => $appsData->app->developer,
-        'supportEmail' => $appsData->app->supportEmailAddress,
+        'supportEmail' => $appsData->app->supportEmailAddress != ''
+            ? $appsData->app->supportEmailAddress : null,
         'supportPhone' => $appsData->app->supportPhone,
         'founder'      => $appsData->app->founder,
     ],
