@@ -240,14 +240,14 @@
 
                 "supportEmail": {
                     "description": "E-Mail address for support questions",
-                    "type": "string",
+                    "type": ["string", "null"],
                     "format": "email",
                     "default": null
                 },
 
                 "supportPhone": {
                     "description": "Telephone number",
-                    "type": "string",
+                    "type": ["string", "null"],
                     "default": null
                 },
 
@@ -272,29 +272,33 @@
 
         "website": {
             "description": "Game website",
-            "type": "string",
+            "type": ["string", "null"],
             "format": "url"
         },
 
         "firstPublishedAt": {
             "description": "When the game has first been published to the world",
-            "type": "string",
-            "format": "date|date-time"
+            "type": ["string", "null"],
+            "format": "date|date-time",
+            "default": null
         },
 
         "inAppPurchases": {
             "description": "If you can buy things in the game",
-            "type": "boolean"
+            "type": "boolean",
+            "default": false
         },
 
         "overview": {
             "description": "FIXME",
-            "type": "string"
+            "type": ["string", "null"],
+            "default": null
         },
 
         "premium": {
             "description": "FIXME",
-            "type": "boolean"
+            "type": "boolean",
+            "default": false
         },
 
         "rating": {
@@ -305,20 +309,23 @@
                 "likeCount": {
                     "description": "Number of likes this game has",
                     "type": "number",
-                    "minimum": 0
+                    "minimum": 0,
+                    "default": 0
                 },
 
                 "average": {
                     "description": "Average rating for this game",
                     "type": "number",
                     "minimum": 0,
-                    "maximum": 5
+                    "maximum": 5,
+                    "default": 0
                 },
 
                 "count": {
                     "description": "Number of ratings",
                     "type": "number",
-                    "minimum": 0
+                    "minimum": 0,
+                    "default": 0
                 }
             }
         },
