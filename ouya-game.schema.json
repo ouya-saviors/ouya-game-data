@@ -102,7 +102,7 @@
 
                     "versionCode": {
                         "description": "APK-internal version code. Run \"aapt dump badging file.apk\", field \"versionCode\"",
-                        "type": ["string", "null"]
+                        "type": ["number", "null"]
                     },
 
                     "uuid": {
@@ -135,7 +135,8 @@
 
                     "md5sum": {
                         "description": "MD5 hash of the .apk file contents",
-                        "type": "string"
+                        "type": ["string", "null"],
+                        "default": null
                     },
 
                     "publicSize": {
@@ -371,7 +372,8 @@
 
                     "description": {
                         "description": "Explanation of the features you will buy",
-                        "type": "string"
+                        "type": ["string", "null"],
+                        "default": null
                     },
 
                     "localPrice": {
