@@ -173,8 +173,9 @@
 
                 "video": {
                     "description": "Video for the store details page. Vimeo and Youtube URLs supported",
-                    "type": "string",
-                    "format": "url"
+                    "type": ["string", "null"],
+                    "format": "url",
+                    "default": null
                 },
 
                 "screenshots": {
@@ -230,7 +231,8 @@
 
                 "uuid": {
                     "description": "Unique ID for the developer",
-                    "type": "string"
+                    "type": ["string", "null"],
+                    "default": null
                 },
 
                 "name": {
