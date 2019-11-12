@@ -1,0 +1,102 @@
+{
+    "packageName": "com.forgottensystems.soccertron",
+    "title": "Soccertron",
+    "description": "Practice soccer and other sports the way they are meant to be played: sitting on a couch with your friends!\n\nSoccertron is a local multiplayer sports game for up to 4 players with a simple premise: Kick the ball or your friends to win the match! \n\nPlay across 5 different game fields resembling some typical ball games: soccer, basketball and volleyball. But beware! There's no referee around and everything is allowed, even the most treacherous actions!\n\nThe game mechanics are simple and accessible but matches are fast and unexpectedly fun, leading to friendly rivalry across the different game fields. Ideal for parties and \"king of the couch\" sessions!\nGame Features:\n* Up to 4 local players\n* Fast and frenetic action for up to 4 players.\n* Five different game fields ranging from easy to infuriatingly hard.\n* Competitive bots capable of multiple roles: defense, attack and all around. But really, play with friends.\n\nGame Styles\n - Soccertron: Futuristic soccer-like game \n - Shrinkotron: Reinventing the old-classics, shrink the other player's goal to win. \n - Basketron: Basketball! With neons! In the future!\n - Volleytron: Don't let the ball touch your field!\n - Pittron: Try not to fall on the pit! Beware of the holes!\n - Tournament: The winner of 3 out of 5 matches wins!",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Fight!",
+        "Multiplayer",
+        "Short on Time?",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "17.03.05",
+            "versionCode": 17030501,
+            "uuid": "eac741f6-7950-4e10-a8b7-5e65031e4244",
+            "date": "2017-03-08T00:15:37Z",
+            "url": "https:\/\/archive.org\/download\/ouya_com.forgottensystems.soccertron_17.03.05\/Soccertron_17.03.05_com.forgottensystems.soccertron.apk",
+            "size": 22997285,
+            "md5sum": "afee4840d14f59141bd26a3db4946732",
+            "publicSize": 401579,
+            "nativeSize": 20536724
+        }
+    ],
+    "media": {
+        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/discover",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/615fsVXCQFWk7Yf3LDeg",
+        "video": "https:\/\/vimeo.com\/206754674",
+        "screenshots": [
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pz0bpPtOQSO7YZy8GsJQ",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TDkyXE0fTPKZLKuKejR2",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wGLOtU4CQiOg1AaZEoAl",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/APiSKGWKRNOaYeJv21QN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fSyZd6efSnWrSaE8HMTP"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/206754674"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-4-1p9538i",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-4-3vqei6.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-1yb1jhq",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-v06qg7.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-ehw0a6",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-1kry4ks.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-c85uoz",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-1os18ht.png"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-r6q2es",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-25c1g5.png"
+            }
+        ]
+    },
+    "developer": {
+        "uuid": null,
+        "name": "David Erosa",
+        "supportEmail": "hello@soccertrongame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http:\/\/www.soccertrongame.com",
+    "firstPublishedAt": "2014-08-02T21:48:07Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2017 by David Erosa.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.88,
+        "count": 94
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "soccertron_full",
+            "name": "Soccertron full",
+            "description": "Enjoy Soccertron in its fullness!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}
