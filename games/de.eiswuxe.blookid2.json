@@ -15,8 +15,7 @@
             "versionCode": null,
             "uuid": "780688a9-95ee-429a-8755-69a8d0c88fe0",
             "date": "2015-10-23T09:58:19Z",
-            "latest": true,
-            "url": "https:\/\/archive.org\/download\/ouya_de.eiswuxe.blookid2_1.6\/Bloo%20Kid%202_1.6_de.eiswuxe.blookid2.apk",
+            "url": "https:\/\/archive.org\/download\/ouya_de.eiswuxe.blookid2_1.6\/Bloo Kid 2_1.6_de.eiswuxe.blookid2.apk",
             "size": 25507828,
             "md5sum": "a5b0f82d54df5f551a64295e43771a10",
             "publicSize": 27275,
@@ -25,18 +24,49 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/discover",
-        "large": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/main",
+        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MASaiOBlTEO7GKYXsIns",
         "video": "https:\/\/vimeo.com\/141878938",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-5"
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/imFTf4hNSAiOMDS7QNsN",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EsF8P1FrSCSOL7Kzz3Rc",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GzAR3RruTcnM7UpwMJ3i",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eAMvcs6WQuWK7G8li09y",
+            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pC6LJXKdTXegxDm6heCA"
+        ],
+        "details": [
+            {
+                "type": "video",
+                "url": "https:\/\/vimeo.com\/141878938"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/r1qv0q_ouya-screenshot20151022-3-1yz5wse.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-1nv0qak.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/u4at68_ouya-screenshot20151022-3-1fbsj14.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-a7rluw.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/5hvqlw_ouya-screenshot20151022-3-1keg8wy.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-beow47.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/kcvsmf_ouya-screenshot20151022-3-nwu1r9.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-v0mlwg.jpeg"
+            },
+            {
+                "type": "image",
+                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/o0jml3_ouya-screenshot20151022-3-1cgbph.jpeg",
+                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-1ychuwp.jpeg"
+            }
         ]
     },
     "developer": {
-        "uuid": "ea422c24-00a5-11ea-b424-937a35bf4309",
+        "uuid": "5a3fbb4d-852b-4af4-becc-324dce6a3b42",
         "name": "winterworks GmbH",
         "supportEmail": null,
         "supportPhone": null,
