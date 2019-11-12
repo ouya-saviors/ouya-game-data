@@ -76,7 +76,7 @@ $gameData = [
     'releases' => [
         [
             'name'        => $appsData->app->versionNumber,
-            'versionCode' => $detailsData->apk->versionCode,
+            'versionCode' => (int) $detailsData->apk->versionCode,
             'uuid'        => $appsData->app->latestVersion,
             'date'        => $appsData->app->publishedAt,
             'url'         => $downloadData->app->downloadLink,
@@ -128,43 +128,6 @@ if (isset($appsData->app->promotedProduct)) {
         'currency'      => $appsData->app->promotedProduct->currency,
     ];
 }
-
-$iaDataFiles = glob(__DIR__ . '/../old-data/ia-data/ouya_' . $package . '_*.json');
-if (count($iaDataFiles)) {
-    $iaPkg = [];
-    foreach ($iaDataFiles as $iaJsonFile) {
-        $iaData = json_decode(file_get_contents($iaJsonFile));
-        foreach ($iaData->files as $iaFile) {
-            if ($iaFile->format == 'Android Package Archive') {
-                $iaSlug = basename($iaJsonFile, '.json');
-                $iaFile->url = 'https://archive.org/download/' . $iaSlug . '/' . $iaFile->name;
-                $versionName = explode('_', $iaSlug)[2];
-                $iaPkg[$versionName] = $iaFile;
-            }
-        }
-    }
-
-    //update existing release
-    $exVersion = $gameData['releases'][0]['name'];
-    if (isset($iaPkg[$exVersion])) {
-        $gameData['releases'][0]['url'] = $iaPkg[$exVersion]->url;
-        unset($iaPkg[$exVersion]);
-    }
-    foreach ($iaPkg as $iaVersion => $iaApk) {
-        $gameData['releases'][] = [
-            'name'       => $iaVersion,
-            'uuid'       => null,
-            'date'       => '2010-01-01T00:00:00Z',//gmdate('c', $iaApk->mtime),
-            'url'        => $iaApk->url,
-            'size'       => $iaApk->size,
-            'md5sum'     => $iaApk->md5,
-            'publicSize' => 0,//FIXME
-            'nativeSize' => 0,//FIXME
-        ];
-    }
-    //var_dump($iaPkg, $gameData);die();
-}
-
 
 echo json_encode($gameData, JSON_PRETTY_PRINT) . "\n";
 
