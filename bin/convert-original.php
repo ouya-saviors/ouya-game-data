@@ -133,7 +133,7 @@ $gameData = [
     'contentRating'    => $appsData->app->contentRating,
     'website'          => $appsData->app->website,
     'firstPublishedAt' => $appsData->app->firstPublishedAt,
-    'inAppPurchases'   => false,//FIXME: we would need discover data here
+    'inAppPurchases'   => $detailsData->inAppPurchases,
     'overview'         => $appsData->app->overview,
     'premium'          => $appsData->app->premium,
 
