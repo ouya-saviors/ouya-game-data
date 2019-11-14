@@ -23,7 +23,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eVMMvZ9fQwmupvmh2hHR",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/large",
         "video": "https:\/\/vimeo.com\/101940332",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.hamsterrepublic.hamstermath_1.0.1\/gXbSjTzTQVCsckPFh97u.jpg",
@@ -38,23 +38,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/bh1b00_ouya-screenshot20140728-2-5kg56a.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-40w61l.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/61tia8_ouya-screenshot20140728-2-1nw1b6d.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-16g5y0u.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/lju99z_ouya-screenshot20140728-2-113bpdu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-1hoa2v4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/bxrbs7_ouya-screenshot20140728-2-1weu8w9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1e9bb13d-dd86-4a1c-9cbc-47f7f825805d\/thumbnails\/thumbnail20140728-2-e3rjbu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hamsterrepublic.hamstermath\/detail-4-thumb"
             }
         ]
     },

@@ -23,13 +23,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/flXjipB4RCmKCI6KGwhU",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/large",
         "video": "https:\/\/vimeo.com\/96426173",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mukkLOlDTr6L2mBX775P",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tP7ASXK7RouyFycFyZNS",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RJDuKGJsR8G5wjFer96o",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rMDZYwRxTJGawPEuC4LV"
+            "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/screenshot-4"
         ],
         "details": [
             {
@@ -38,23 +38,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/gyws4w_ouya-screenshot20150110-2-4hkx20.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/thumbnails\/thumbnail20150110-2-1hbx85g.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/ukquoy_ouya-screenshot20150110-2-ro2bbh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/thumbnails\/thumbnail20150110-2-1gwxkzz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/bceybx_ouya-screenshot20150110-2-7lr4p8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/thumbnails\/thumbnail20150110-2-17srj90.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/uxxs2t_ouya-screenshot20150110-2-v2shl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e2e33856-9a12-4e12-ae95-28ffb01365cd\/thumbnails\/thumbnail20150110-2-1s3b4vq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/pompipompi.platformer.afternoonhero\/detail-4-thumb"
             }
         ]
     },

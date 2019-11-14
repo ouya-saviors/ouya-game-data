@@ -26,7 +26,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1dIswyZoSSGR8xlfFQKc",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.krisattfield.pfhonge_2.2.0\/YGJ8jVmzRa2iB8rt7ypS.jpg",
@@ -38,28 +38,28 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/e3hygn_ouya-screenshot20160112-3-k6dk6a.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-1ll4wzi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/wru6au_ouya-screenshot20160112-3-pj27kh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-1e5rac.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/8nam9w_ouya-screenshot20160112-3-10zy77i.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-fash22.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/3s24tc_ouya-screenshot20160112-3-1kfmjkp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-vn71h6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/dmpn06_ouya-screenshot20160112-3-ygd8uu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ed22253a-df9e-4d96-a7cd-40e0f79cc6ce\/thumbnails\/thumbnail20160112-3-19bu116.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.pfhonge\/detail-5-thumb"
             }
         ]
     },

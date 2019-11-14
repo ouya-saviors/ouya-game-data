@@ -24,14 +24,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/h3AIngnRP2GauGak8L29",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/large",
         "video": "https:\/\/vimeo.com\/109466185",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/79WywPlSj606UHMGCYbk",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BW1fxz5QOmY64w4WB3dG",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yqvMY8GSSQmup5GIgVP1",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1GAyAEmnQtqyYbJ4YQbC",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y6AYiLSOQ9SDCVjeSWQq"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/screenshot-5"
         ],
         "details": [
             {
@@ -40,28 +40,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/94pcwf_ouya-screenshot20141020-2-3t963b.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-rzfo33.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/t3yor1_ouya-screenshot20141020-2-npz5o2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-1jkpchx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/1h1nnw_ouya-screenshot20141020-2-10ldlxz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-9iqihf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/oawgxy_ouya-screenshot20141020-2-1hv69rh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-9b0u8m.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/s0oz5l_ouya-screenshot20141020-2-dz3dhd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70c694fa-5970-4337-8ee9-a2ee95007eb0\/thumbnails\/thumbnail20141020-2-vdaqy1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.clockwatchers.galaxy\/detail-5-thumb"
             }
         ]
     },

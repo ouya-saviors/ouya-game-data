@@ -25,13 +25,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lQnD7GlYSiiDp4Oha1rL",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/large",
         "video": "https:\/\/vimeo.com\/106300140",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y26nMILnQoqT2dLP6qwQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4WXqmNU1SqSpvg3fV4Nb",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YwBok628QQeJEKkCMRts",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FIR0X1SQAmWsODcXqPo2"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/screenshot-4"
         ],
         "details": [
             {
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/mvkokn_ouya-screenshot20140916-2-19mkff5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-1n36qb3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/lpscsk_ouya-screenshot20140916-2-74hx9g.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-lqzxpo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/n370gg_ouya-screenshot20140916-2-1s6jrau.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-c2ab48.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/rg0nty_ouya-screenshot20140916-2-o6agju.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/60765f8c-515e-41dc-b933-f97bf0293f9c\/thumbnails\/thumbnail20140916-2-qpp15v.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.superxstudios.fob\/detail-4-thumb"
             }
         ]
     },

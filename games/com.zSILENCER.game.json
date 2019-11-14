@@ -27,13 +27,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zsilencer.game\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C5irOXL9SgOJVH5B824U",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/large",
         "video": "http:\/\/vimeo.com\/107626781",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IzXzlU74QyqiKoSdMD18",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rViIalmMRQOkfQzNPdCa",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aUGF84QXRcq4zw66xWFP",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0P8EhJyrRiZ2E1U6I5wb"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/screenshot-4"
         ],
         "details": [
             {
@@ -42,23 +42,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/uo0vdi_ouya-screenshot20140930-2-11d6aeq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-158rf6q.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/k7rtyg_ouya-screenshot20140930-2-19ikdu2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-pmfpzi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/gi1zjb_ouya-screenshot20140930-2-oahgj8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-1xbvufb.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/58pr5t_ouya-screenshot20140930-2-1b5qhfy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cbca2630-8def-44de-9989-666c1800a2a5\/thumbnails\/thumbnail20140930-2-udpz3t.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zSILENCER.game\/detail-4-thumb"
             }
         ]
     },

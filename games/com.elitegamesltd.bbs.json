@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kJvjxVnPTtm93S9BRLXF",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/large",
         "video": "https:\/\/vimeo.com\/116203308",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.elitegamesltd.bbs_1.100\/vD8tGZ4oQTKKSG84BFnn.jpg",
@@ -42,23 +42,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/cf0xii_ouya-screenshot20150107-2-1tjzxuc.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/thumbnails\/thumbnail20150107-2-1f1ffai.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/244ivv_ouya-screenshot20150107-2-yvt63.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/thumbnails\/thumbnail20150107-2-6fukls.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/uzv0dw_ouya-screenshot20150107-2-19s1gi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/thumbnails\/thumbnail20150107-2-1vb55gx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/92tqtm_ouya-screenshot20150107-2-cgjnkm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5d73219a-f726-476d-a50c-5f4e7b1e54c9\/thumbnails\/thumbnail20150107-2-1cr7rum.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.elitegamesltd.bbs\/detail-4-thumb"
             }
         ]
     },

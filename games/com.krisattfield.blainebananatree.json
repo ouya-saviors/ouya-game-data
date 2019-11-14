@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IXQd8OLSn2PlBHX7hO5v",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/large",
         "video": "https:\/\/vimeo.com\/131838412",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/no3JVq5EQRqsaHeKo4dJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NUMkQ8TnKZwDpXl6W83Q",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vF8YvHmtQnaHUxZRiKxo",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aankE1jRSqrN8Nck8MbQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eEpKvSWTTmOV9NkChfyd"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/jfoyr9_ouya-screenshot20151219-3-o1sk18.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-18x8fu8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/3sxw49_ouya-screenshot20151219-3-jkoz2p.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-1qi88zt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/kvr2c6_ouya-screenshot20151219-3-1mumozm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-1uwwcwo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/mwjfql_ouya-screenshot20151219-3-pt3bp8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-mh1kdo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/bh3xxc_ouya-screenshot20151219-3-19kglpw.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e63fe0db-3483-4b82-8786-5fff49fb368b\/thumbnails\/thumbnail20151219-3-1nq3jhw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.blainebananatree\/detail-5-thumb"
             }
         ]
     },

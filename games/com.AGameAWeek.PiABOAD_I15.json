@@ -24,40 +24,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.piaboad_i15\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/t2UiKia2RMSh5XJpA8U2",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rIY1XaTsqWqgE84KDBAv",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L8yTin08RFOLn1j9xWch",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xwNMgz5mT0VaabXl8JJl",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JFEbntZRLCSYOxz5WUSE",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4CnAOc28RhmHdPz0vUeF"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/6w3f4_ouya-screenshot20151229-3-16zhtvl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1x65yn8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/o48mrk_ouya-screenshot20151229-3-1td1rs0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1mcnjin.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/tfrsdc_ouya-screenshot20151229-3-1bjr3jq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-mnryh2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/svp2mv_ouya-screenshot20151229-3-1i38i0g.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1kl257o.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/abq3ac_ouya-screenshot20151229-3-12anrmd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/dd4d9743-9dd1-421e-9b66-b555ac4943e0\/thumbnails\/thumbnail20151229-3-1mjq9qc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.PiABOAD_I15\/detail-5-thumb"
             }
         ]
     },

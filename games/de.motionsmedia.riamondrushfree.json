@@ -24,28 +24,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nRJ1LHL1R1aSvIn6wqM4",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3Y9MzFAMTM26k1F0Fahb",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kEipL88aRXKMiSZYg3Hk",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/276ryEb5SmWTk8HyKrIR"
+            "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/fgk80x_ouya-screenshot20141112-2-msk9ov.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/thumbnails\/thumbnail20141112-2-117676t.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/potyga_ouya-screenshot20141112-2-1jvw44l.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/thumbnails\/thumbnail20141112-2-jqxzb6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/ljsrm6_ouya-screenshot20141112-2-taz5os.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/188b2a43-83b5-4f41-a7a1-1240f6beeff4\/thumbnails\/thumbnail20141112-2-15svzbc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.motionsmedia.riamondrushfree\/detail-3-thumb"
             }
         ]
     },

@@ -23,13 +23,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kLIkAYKAT7acwnZyloi2",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/large",
         "video": "https:\/\/vimeo.com\/101331669",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6hzA7VyzTLuRDnkvAo5I",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z4XyvnnsRi6gEiQWg4GJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cy6v3OcTIup5q2VrgGdg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D9Hr04x8SHy4B7yU8vEC"
+            "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/screenshot-4"
         ],
         "details": [
             {
@@ -38,23 +38,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/lrk4zx_ouya-screenshot20140723-2-1dodcuf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-1gsxu91.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/z7vyqe_ouya-screenshot20140723-2-1e33yv1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-1tb3tgi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/nrhw0z_ouya-screenshot20140723-2-9vl8hq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-19xvzu6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/we8o7g_ouya-screenshot20140723-2-1dcc7og.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/20801ceb-825c-4a0b-8d3d-a35f863e466f\/thumbnails\/thumbnail20140723-2-6urxao.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.com.drmikey.zombieheartschicken\/detail-4-thumb"
             }
         ]
     },

@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldouya\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/C58Pjf0zTfWYgKtYzroc",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.jdsoft.emojiworldOUYA_1.2.0\/hXzgn0pYRqe2WLu5HCwS.jpg",
@@ -34,18 +34,18 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/2bj87l_ouya-screenshot20160817-3-lzz5vg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/thumbnails\/thumbnail20160817-3-1uy2hjc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/ob3uz5_ouya-screenshot20160817-3-1efxvq5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/thumbnails\/thumbnail20160817-3-1inii0n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/dnhvqv_ouya-screenshot20160817-3-1jpoyqf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6ce1edbc-6acd-4aa1-a794-020b5296e990\/thumbnails\/thumbnail20160817-3-4y8wva.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jdsoft.emojiworldOUYA\/detail-3-thumb"
             }
         ]
     },

@@ -23,40 +23,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IGrbCo4OQk6koDPQO3b8",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oBE11FLtSFetvJFwIY8w",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SixiUq7nQmCl3ValGV1T",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2u5AOv8T5ii5KCCxDZkn",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qCTx7DlSo67KNyishSKU",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PBVYWkr6SQurrJkKlWds"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/whh2e_ouya-screenshot20151004-3-lobu4e.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/thumbnails\/thumbnail20151004-3-e1nmsq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/1k6u8d_ouya-screenshot20151004-3-kqqino.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/thumbnails\/thumbnail20151004-3-vq5rdu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/jn6vh_ouya-screenshot20151004-3-71s2lo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/thumbnails\/thumbnail20151004-3-1tpo7im.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/w1jkne_ouya-screenshot20151004-3-xpdhpj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/thumbnails\/thumbnail20151004-3-18b8dap.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/rwxd0p_ouya-screenshot20151004-3-1xh5el2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/df9677de-f2bf-4af6-be10-3a2befcd147f\/thumbnails\/thumbnail20151004-3-tx9ajw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.karmamiwa\/detail-5-thumb"
             }
         ]
     },

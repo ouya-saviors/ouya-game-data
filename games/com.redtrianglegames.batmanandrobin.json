@@ -23,13 +23,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NoTEO9XQRbKVnm35Inmr",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/large",
         "video": "https:\/\/vimeo.com\/139537179",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/R99oW2W7RTSoi26mKH0U",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CpCy6FEbSkKO8DEozlqJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lI2GAMrQyWaNxsVOVnfD",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aR16O0ijQOSHp1sNUXmg"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/screenshot-4"
         ],
         "details": [
             {
@@ -38,23 +38,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/57rgk5_ouya-screenshot20150917-3-1grt5if.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/thumbnails\/thumbnail20150917-3-1he042i.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/lqml6e_ouya-screenshot20150917-3-7p52qt.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/thumbnails\/thumbnail20150917-3-r24smf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/kwx1p3_ouya-screenshot20150917-3-g4f4ul.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/thumbnails\/thumbnail20150917-3-1gdo1sn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/u7v2t4_ouya-screenshot20150917-3-t46vfy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0ded637a-4549-40ce-86f3-8acd30f899c2\/thumbnails\/thumbnail20150917-3-1m5t2ve.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redtrianglegames.batmanandrobin\/detail-4-thumb"
             }
         ]
     },

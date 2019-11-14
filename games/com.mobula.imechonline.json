@@ -26,40 +26,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d48fORjtTDWbwvtfsLNi",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MNZxCMCoSB2xiDAQH2ri",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vqUhVCSYRYi3oKP1lu7m",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/THoY1amJQirHTAHPhiTA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xcjUcCI5SAO8lyTCQ87e",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6tf9lZYkRMmuYbmNJAas"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/f72fxq_ouya-screenshot20140811-2-1yow8m4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-1ogzh8x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/5xm3st_ouya-screenshot20140811-2-1vyt8ag.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-c9mnc4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/ix2fgg_ouya-screenshot20140811-2-f6fibi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-hghem6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/a1yfn6_ouya-screenshot20140811-2-wg67gm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-15uqjzn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/g8c7i9_ouya-screenshot20140811-2-ac0uju.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6c30441c-9100-400a-9cb8-385ed0cb7757\/thumbnails\/thumbnail20140811-2-zf0vv4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mobula.imechonline\/detail-5-thumb"
             }
         ]
     },

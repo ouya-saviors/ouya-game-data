@@ -25,40 +25,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.agameaweek.invisiblemunky2_i15\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oA7QWKNsQ6S7wgfaeMoV",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ESV9eVX8Rvea7oUDRn3o",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TvdWrZsYTgyHTVpjfRiE",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pJ2YmKvwTqCDCUpSyoT1",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LdhAW1xSymeFHLCYi1lD",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iW7QqyK9QCyJvMsLzkkw"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/ksjd5z_ouya-screenshot20151229-3-65ux6w.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/thumbnails\/thumbnail20151229-3-1mnwvcc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/l24kgz_ouya-screenshot20151229-3-18geskp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/thumbnails\/thumbnail20151229-3-1ewd1h.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/qoonrp_ouya-screenshot20151229-3-19msse2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/thumbnails\/thumbnail20151229-3-1x8dx8e.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/xobowr_ouya-screenshot20151229-3-t74jj0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/thumbnails\/thumbnail20151229-3-1b96b5l.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/esw59e_ouya-screenshot20151229-3-l3os5s.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/14c43c9f-391a-4f25-bf90-74f09dfea5d9\/thumbnails\/thumbnail20151229-3-1sahc41.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.AGameAWeek.InvisibleMunky2_I15\/detail-5-thumb"
             }
         ]
     },

@@ -24,28 +24,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3PXLCRWjQ4upIbTt7NEh",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bQpsUu6LTYCnOnmGh0gc",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eCAkSjU6RyiiSM94tzJB",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gkmcOJZHQHK96x6eCzuE"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/995bb7ba-2b53-4da2-9c37-d545d843c805\/3act4q_ouya-screenshot20150409-3-ybqsfe.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/995bb7ba-2b53-4da2-9c37-d545d843c805\/thumbnails\/thumbnail20150409-3-1al15zs.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/995bb7ba-2b53-4da2-9c37-d545d843c805\/fm5exc_ouya-screenshot20150409-3-1p9sqc8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/995bb7ba-2b53-4da2-9c37-d545d843c805\/thumbnails\/thumbnail20150409-3-hy80rn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/995bb7ba-2b53-4da2-9c37-d545d843c805\/kcd1f8_ouya-screenshot20150409-3-zd1fwc.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/995bb7ba-2b53-4da2-9c37-d545d843c805\/thumbnails\/thumbnail20150409-3-ufe96j.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.catchout\/detail-3-thumb"
             }
         ]
     },

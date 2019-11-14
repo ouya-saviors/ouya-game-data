@@ -23,13 +23,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.trilby.donniesescapade\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f2m2JPw1Q8mTvbUpaA7w",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/large",
         "video": "https:\/\/vimeo.com\/110558070",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eF5BkIjVR4yohCCfhUCz",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TlxuRaDvSA6eVZQfRCx2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Zkxs6PAVSrDOw4Ms7Ylr",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3wvS2jQuSAqMflPDPdD0"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/screenshot-4"
         ],
         "details": [
             {
@@ -38,23 +38,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/19vwpn_ouya-screenshot20141028-2-1jvz4r4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-gk7jyq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/xfxsa0_ouya-screenshot20141028-2-13d78sk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-1hi8fog.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/rs4vqf_ouya-screenshot20141028-2-3ne3pf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-n0tzxs.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/cwxqxs_ouya-screenshot20141028-2-rishmq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/58b865ac-fa7d-4e1d-ab5e-cbdedcff4b42\/thumbnails\/thumbnail20141028-2-lvsg24.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Trilby.DonniesEscapade\/detail-4-thumb"
             }
         ]
     },

@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.beekyr\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q5M92cRjK01Uj5KYWBAC",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/large",
         "video": "http:\/\/vimeo.com\/99190150",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zlX8Tq7TeCptG6BfoY3B",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/agmqSh4kQCutTfdCOy2q",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OitG7BxrR1epBnhRwXQw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LaICAtBsSnOhsNx8AEMy",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PhRNov1nSZW4fe3NdwkR"
+            "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/lkete8_ouya-screenshot20140625-2-b7modr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-1f5j6zu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/ebgm3s_ouya-screenshot20140625-2-18z8msv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-11716u3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/f6i4y9_ouya-screenshot20140625-2-1578py6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-1hpcgo3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/povna2_ouya-screenshot20140625-2-s134kx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-204crz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/3dgbbc_ouya-screenshot20140625-2-2lumtq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f288bcec-7815-4641-ab2e-04b3c95e368f\/thumbnails\/thumbnail20140625-2-1fx6myy.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.kaleidogames.Beekyr\/detail-5-thumb"
             }
         ]
     },

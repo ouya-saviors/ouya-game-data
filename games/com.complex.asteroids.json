@@ -25,28 +25,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cXPcNLLQSyagpp4qV1nY",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PKV3ioJ9RV2PRdhcSOiJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hWjRRMEiRXmhbfD60XWQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GuKQt8sVS9ebwXNJYllR"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/4gksij_ouya-screenshot20141029-2-gis9z9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/thumbnails\/thumbnail20141029-2-1heueie.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/ky1a3o_ouya-screenshot20141029-2-1w3ix5d.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/thumbnails\/thumbnail20141029-2-uxugj5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/c8vmag_ouya-screenshot20141029-2-e2w493.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c8e458a2-1850-4568-84c2-130a8ef00b1f\/thumbnails\/thumbnail20141029-2-ur8t4b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.complex.asteroids\/detail-3-thumb"
             }
         ]
     },

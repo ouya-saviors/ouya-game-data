@@ -24,40 +24,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DCgNtg8CRFaD9TQiFkoC",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GgvTfCbSk6qcfE8dNMcc",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6ed6VJJT7iP4obMOuWhe",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GY4Z1rQQtNMOaz52azWA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/34aPrwJ1Rtq02r03EW1q",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GAuwDFDoQr6xwyhRSeYu"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/pcvgpq_ouya-screenshot20140918-2-1ba7gnj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/thumbnails\/thumbnail20140918-2-gfy3rw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/dc3x8n_ouya-screenshot20140918-2-krnxo4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/thumbnails\/thumbnail20140918-2-ba0p3o.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/70vfj6_ouya-screenshot20140918-2-1exuit7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/thumbnails\/thumbnail20140918-2-11t7yyr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/7e92dh_ouya-screenshot20140918-2-1sxpowx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/thumbnails\/thumbnail20140918-2-m6xg5x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/ua76oo_ouya-screenshot20140918-2-1giz1m4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/400b5f10-8958-4098-89d5-a824fe45896b\/thumbnails\/thumbnail20140918-2-5d4fp1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.miner.ouya\/detail-5-thumb"
             }
         ]
     },

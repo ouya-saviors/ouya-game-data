@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.job_the_leprechaun\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9zw4wCqNTycWBSNGaBBk",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.herrero.Job_The_Leprechaun_1.3.2\/HHLpchfuRuOLqMe2Gfg7.jpg",
@@ -34,18 +34,18 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/hhwoi0_ouya-screenshot20151225-3-dxtv2i.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/thumbnails\/thumbnail20151225-3-1isno6d.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/p0fr5d_ouya-screenshot20151225-3-i0peb4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/thumbnails\/thumbnail20151225-3-jbe7v8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/2tnx8q_ouya-screenshot20151225-3-120jk2b.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d296ed2b-69e9-417a-9fdf-5747e71cf5b8\/thumbnails\/thumbnail20151225-3-13v05zl.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.herrero.Job_The_Leprechaun\/detail-3-thumb"
             }
         ]
     },

@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.robojets\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AolT9QZJSdqJg9TwaZiY",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.dannobotgames.RoboJets_1.1\/gzQZOJpjQCmv4jOX2coO.jpg",
@@ -35,18 +35,18 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/ir3l87_ouya-screenshot20141107-2-14ho6m2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/thumbnails\/thumbnail20141107-2-15c7zop.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/u7mrcd_ouya-screenshot20141107-2-163lwwt.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/thumbnails\/thumbnail20141107-2-1drgl01.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/1uhrp5_ouya-screenshot20141107-2-1pp1g5z.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/13f8640d-ec5a-4259-850f-d2c769c3e518\/thumbnails\/thumbnail20141107-2-1jpf9sn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dannobotgames.RoboJets\/detail-3-thumb"
             }
         ]
     },

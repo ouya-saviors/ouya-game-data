@@ -26,7 +26,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Dnx1t8Q9qfWhNrEyiIzg",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.twosquidgames.ninesquids.android_1.3.1\/qEmhlZY7SLenteR58vhi.jpg",
@@ -37,23 +37,23 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/ofx9tn_ouya-screenshot20160810-3-sfd58o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/thumbnails\/thumbnail20160810-3-u9njlx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/960bpu_ouya-screenshot20160810-3-1dibeha.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/thumbnails\/thumbnail20160810-3-qblobp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/qo8oyt_ouya-screenshot20160810-3-11zlodl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/thumbnails\/thumbnail20160810-3-bmvqef.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/f9xfec_ouya-screenshot20160810-3-1eyovb2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cedc79cd-84cb-42d0-a78f-0acbba8ba665\/thumbnails\/thumbnail20160810-3-labbrt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.twosquidgames.ninesquids.android\/detail-4-thumb"
             }
         ]
     },

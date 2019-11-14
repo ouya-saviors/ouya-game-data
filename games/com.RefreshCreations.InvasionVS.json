@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.refreshcreations.invasionvs\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/juhfSDDTuS9CbAxEd7FS",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.RefreshCreations.InvasionVS_1.0.1\/hZAxMp0oQX2ydbuLVyfp.jpg",
@@ -37,18 +37,18 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/8bjzp4_ouya-screenshot20141116-2-bfx6jl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/thumbnails\/thumbnail20141116-2-1n0snz9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/fmqzzw_ouya-screenshot20141116-2-23mt3y.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/thumbnails\/thumbnail20141116-2-8sexlh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/vcy0s_ouya-screenshot20141116-2-1d8hxf7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a91b975c-d995-4ad2-b646-d838a1310699\/thumbnails\/thumbnail20141116-2-1ulj7o9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.RefreshCreations.InvasionVS\/detail-3-thumb"
             }
         ]
     },

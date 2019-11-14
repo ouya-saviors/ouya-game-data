@@ -25,34 +25,34 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k6Pk2PSjQ4awLrbn1uVO",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UfEuxTlQAuo1JjAcIqdA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oboq3h0GQ5KxFjELMmfL",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AR5kO0Y4SNmlaiF9AFnF",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CoDU4PrHTaWgA3EIsemA"
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/f7gjzi_ouya-screenshot20140811-2-1aimdkd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-dbxt7g.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/plbp5l_ouya-screenshot20140811-2-b42s1h.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-8mq30v.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/e12c2y_ouya-screenshot20140811-2-1b0n4jr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-1mszvto.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/bxq13_ouya-screenshot20140811-2-s1ffvv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/044f58c6-3c6c-49a1-a051-75725861d01c\/thumbnails\/thumbnail20140811-2-1cdg7ll.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-4-thumb"
             }
         ]
     },

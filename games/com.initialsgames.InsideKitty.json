@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.insidekitty\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AKPagSEsSayLZLYPByB4",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/large",
         "video": "https:\/\/vimeo.com\/114117580",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.initialsgames.InsideKitty_3\/Zv1LOmEjQWezECjGKg7i.jpg",
@@ -39,23 +39,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/vb43es_ouya-screenshot20141210-2-1hrt8yy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-kobh3z.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/ri542s_ouya-screenshot20141210-2-1aouctk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-10fg8lo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/c5wc4b_ouya-screenshot20141210-2-1j19l2a.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-1vybyj4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/4yy8xv_ouya-screenshot20141210-2-32fxda.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/225ea8df-6acc-45fd-9175-20b2d6e73c96\/thumbnails\/thumbnail20141210-2-i791j0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.InsideKitty\/detail-4-thumb"
             }
         ]
     },

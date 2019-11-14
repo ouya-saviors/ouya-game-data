@@ -21,28 +21,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RDv2CLDgRyN6QLc0fDy6",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RXA1OjDCQUuHQYiRahK2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9Zu31XAAQoKYd16MwY1l",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Le5pN1VuSPf4VEKB5RNE"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/oky0z9_ouya-screenshot20140729-2-r56msu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/thumbnails\/thumbnail20140729-2-1ljc3ea.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/f45nbn_ouya-screenshot20140729-2-n086e0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/thumbnails\/thumbnail20140729-2-sp783f.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/47dna1_ouya-screenshot20140729-2-17od4xb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36cc788f-fe21-4d6f-adf9-145a72036ba9\/thumbnails\/thumbnail20140729-2-1iun14s.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aide.ui\/detail-3-thumb"
             }
         ]
     },

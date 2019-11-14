@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.popsaur.supercratelifting\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ezDPFjg8RAWkXbKdaN9M",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/large",
         "video": "https:\/\/vimeo.com\/101792807",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eKhcRKSS2nEoJ0tW0mHA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3q54F9QWSKSB1JyIxSIA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5WviFhi0TiqwIE6cVKwQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CuQoOqPwSqKAN5zvADHT",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sHNYNMEtTRmhdSvOP3pr"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/s64t4z_ouya-screenshot20140726-2-xey43g.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-ldp843.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/k04xxe_ouya-screenshot20140726-2-1dktyrd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-1uq1hgt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/4wnsb2_ouya-screenshot20140726-2-5jj5nx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-nob658.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/ci1ug4_ouya-screenshot20140726-2-2ohf9n.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-v8xhrc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/sh9o7c_ouya-screenshot20140726-2-g5zgl0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/392db7d1-4c43-44ae-854b-3029ffd9b775\/thumbnails\/thumbnail20140726-2-may41d.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Popsaur.SuperCrateLifting\/detail-5-thumb"
             }
         ]
     },

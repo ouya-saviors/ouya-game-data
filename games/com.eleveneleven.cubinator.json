@@ -23,13 +23,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jxBE6gzTlC53GIfMLO7a",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/large",
         "video": "http:\/\/vimeo.com\/104198705",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vf0FW1v7S5a1YnZ29PJJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2DS5iSqYSK3pEWMtahB7",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PdgZX4mTSXC0nnpYdXJb",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sU7zaleZQY21Hdgm9cC9"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/screenshot-4"
         ],
         "details": [
             {
@@ -38,23 +38,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/amm7hq_ouya-screenshot20140822-2-862ext.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/thumbnails\/thumbnail20140822-2-k4yhrj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/29ysj6_ouya-screenshot20140822-2-x9afye.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/thumbnails\/thumbnail20140822-2-vqgf1w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/ikiut7_ouya-screenshot20140822-2-1cuxrd8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/thumbnails\/thumbnail20140822-2-eskinz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/ke9ry8_ouya-screenshot20140822-2-r9yea8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9af73ce1-4259-4408-b4f3-28b64df36b2e\/thumbnails\/thumbnail20140822-2-12e2mn9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.eleveneleven.cubinator\/detail-4-thumb"
             }
         ]
     },

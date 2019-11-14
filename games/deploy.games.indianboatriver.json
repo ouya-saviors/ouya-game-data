@@ -23,28 +23,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oxVqyHCtSZ2PpmCnN2Cw",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NH5IBQexREGsCN3GJFBp",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XQ1yP5HiRpGbCIGQQTj1",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rE8i0pL3S46NuVj5JimM"
+            "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2d50e4db-32d1-4e3d-8ad7-fcdb664c16dc\/3jcfmz_ouya-screenshot20140728-2-1ys1ou3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2d50e4db-32d1-4e3d-8ad7-fcdb664c16dc\/thumbnails\/thumbnail20140728-2-2io4rc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2d50e4db-32d1-4e3d-8ad7-fcdb664c16dc\/309igo_ouya-screenshot20140728-2-10abudz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2d50e4db-32d1-4e3d-8ad7-fcdb664c16dc\/thumbnails\/thumbnail20140728-2-1exqc4b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2d50e4db-32d1-4e3d-8ad7-fcdb664c16dc\/7t27ke_ouya-screenshot20140728-2-1n6kttu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2d50e4db-32d1-4e3d-8ad7-fcdb664c16dc\/thumbnails\/thumbnail20140728-2-9jlo5u.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/deploy.games.indianboatriver\/detail-3-thumb"
             }
         ]
     },

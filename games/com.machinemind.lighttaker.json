@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BJND1gQdTNKMDRVBpkLc",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/large",
         "video": "https:\/\/vimeo.com\/103511610",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.machinemind.lighttaker_1.0\/WBTXdd3VRsCofCLgtnhw.jpg",
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/csi291_ouya-screenshot20140816-2-5pngge.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-8uctwf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/dfenew_ouya-screenshot20140816-2-ya530h.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-1wpu0q3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/u5uu11_ouya-screenshot20140816-2-iwsk32.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-18tn75y.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/hngrbe_ouya-screenshot20140816-2-1433cl6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/77d1c743-2701-4262-852e-bb2a78e6db0b\/thumbnails\/thumbnail20140816-2-1dh60p5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.machinemind.lighttaker\/detail-4-thumb"
             }
         ]
     },

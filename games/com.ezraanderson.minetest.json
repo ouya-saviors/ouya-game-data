@@ -25,21 +25,21 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8pvMGcDWSQesgtUg45Af",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/large",
         "video": "https:\/\/vimeo.com\/101976830",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0c8OOPflS0iUNsxn5M2p",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4nlL55oORgmgHT1rLKAm",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iw3NsPp8SMmkpGRuGY2R",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eTbkeNzwRTeA3dqWYUHA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sRqL8OOuQiekxgx54YXk",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KJHoiEzSQD6AOCHt07Lj",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TqNKUKxhTOyArIO7KPCg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nBFJzxtSmWfP7theXwKY",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l9zSEBe6R4mfW72mQQcq",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Rwj7tKIRnGCasbGxhjhZ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YVgb34SmuWaucKvSgPig",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ALvFtLVxQie9DxP74JiS"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-8",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-9",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-10",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-11",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/screenshot-12"
         ],
         "details": [
             {
@@ -48,63 +48,63 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/jjc5j5_ouya-screenshot20141006-2-1ryom12.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-f0mooo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/xg87t6_ouya-screenshot20141006-2-16yc0je.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-ywvww8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/4aokvc_ouya-screenshot20141006-2-yul9zr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-q77m21.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/s18ds3_ouya-screenshot20141006-2-dhrhr1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-188ux4d.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/69xpkx_ouya-screenshot20141006-2-o98569.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-126h441.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/gzov7y_ouya-screenshot20141006-2-105ztcx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-g2ko4p.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/f1bmkd_ouya-screenshot20141006-2-r2tk43.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-3xxexg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/9ea4yc_ouya-screenshot20141006-2-17huhj0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-s9ugyd.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-8-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/4umwbw_ouya-screenshot20141006-2-1qgf919.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-1gf6e2y.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-9",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-9-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/ofntos_ouya-screenshot20141006-2-1jwclo5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-1q91qj9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-10",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-10-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/swfvyx_ouya-screenshot20141006-2-3tihw9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-15i46f1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-11",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-11-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/p04bcd_ouya-screenshot20141006-2-v6wod1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/78eab1ac-23c9-4fa2-879b-07aafbe59481\/thumbnails\/thumbnail20141006-2-1tybgiv.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-12",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ezraanderson.minetest\/detail-12-thumb"
             }
         ]
     },

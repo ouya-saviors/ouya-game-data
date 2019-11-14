@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.brutalarena\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OBCuKICRuqcDvTi3puEA",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/large",
         "video": "https:\/\/vimeo.com\/102710916",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.gman.BrutalArena_1.3.7\/oyGyOWOtQnmaE0Z5aWD4.jpg",
@@ -40,28 +40,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/u5fnfl_ouya-screenshot20140806-2-ibf1h0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-16dz0uk.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/y1cry_ouya-screenshot20140806-2-9949vr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-15ulr7w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/a7sl4c_ouya-screenshot20140806-2-wsiv1u.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-kkmtk9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/s3r834_ouya-screenshot20140806-2-6pm6ro.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-u3ftwk.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/li6ev0_ouya-screenshot20140806-2-1xvg6c1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/51cedeec-c76f-4020-9ba3-68fa7b369d69\/thumbnails\/thumbnail20140806-2-yp51p4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gman.BrutalArena\/detail-5-thumb"
             }
         ]
     },

@@ -27,18 +27,18 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fd8dns9RPmiX5qN2DAG8",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/large",
         "video": "https:\/\/vimeo.com\/135116172",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eWclabSLQZmTA529zPoq",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QzNKeehS7OKr8IyGLSIw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/i4WuUT7IRbSltUubSdtp",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3Rcy5RfRSapkveJfAVHn",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iKjB1K9GSZGhpa8jzHu7",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PN8vbYXzTnadbUm2Cayv",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7VyLp37SwGk14Yro2TJj",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JWiINQq3R1lLHGFAMLec",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rC4G5IMoRpCbmdauvJJw"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-8",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/screenshot-9"
         ],
         "details": [
             {
@@ -47,48 +47,48 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/25zxzs_ouya-screenshot20150911-3-yef1s6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-1pyq76h.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/ddm8aj_ouya-screenshot20150911-3-14yj0xk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-1mdlejt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/q8ozi9_ouya-screenshot20150911-3-1oz7jep.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-ht6v3n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/g4ct2o_ouya-screenshot20150911-3-ii23sr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-d5ra1e.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/4l4y8j_ouya-screenshot20150911-3-bahrwb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-apcjhq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/ww4fzt_ouya-screenshot20150911-3-89s4zd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-18lx2cc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/zyj14b_ouya-screenshot20150911-3-1agl6ad.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-zu58h8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/xqjhm1_ouya-screenshot20150911-3-i13kvb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-gcom0b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-8-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/cyz8sw_ouya-screenshot20150911-3-1s2fh8o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bf98debf-5c8f-4f22-8e1c-651156b15601\/thumbnails\/thumbnail20150911-3-1rrxokg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-9",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.realrealityhd.myapp\/detail-9-thumb"
             }
         ]
     },

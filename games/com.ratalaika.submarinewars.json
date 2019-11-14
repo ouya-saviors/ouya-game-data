@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CUuucfH0REuuLvf0GGdA",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/large",
         "video": "https:\/\/vimeo.com\/113197276",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.ratalaika.submarinewars_1.0.0\/FLQmwzorRQicqm4ckzH1.jpg",
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/ytbthn_ouya-screenshot20141129-2-1f5mmqo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-qipdbi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/aaeczw_ouya-screenshot20141129-2-gfsfzj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-19mrbhm.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/kxq2t4_ouya-screenshot20141129-2-438i0l.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-xbj6ae.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/gexf98_ouya-screenshot20141129-2-ki446.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6f505bf9-d196-4925-81ef-4fccf4d172e7\/thumbnails\/thumbnail20141129-2-19yhk5m.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ratalaika.submarinewars\/detail-4-thumb"
             }
         ]
     },

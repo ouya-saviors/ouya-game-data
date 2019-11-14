@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.metalglove\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/e58wfxTHSZodY06WQqw6",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/large",
         "video": "https:\/\/vimeo.com\/90397747",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.hiddenachievement.MetalGlove_1.1.9\/prixfnasQHu5hFmhQKav.jpg",
@@ -43,28 +43,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/xnt8v1_ouya-screenshot20150930-3-ui44ed.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-1fgr3ol.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/4jxh8x_ouya-screenshot20150930-3-1brbi1n.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-msfziq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/y6dw8_ouya-screenshot20150930-3-v9osgd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-1ugzeny.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/526yn3_ouya-screenshot20150930-3-1j2qegr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-chmxil.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/r2v093_ouya-screenshot20150930-3-1hhyx6s.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c06612ea-b0e1-40bd-9dff-52d6a392c193\/thumbnails\/thumbnail20150930-3-1g0c19e.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.hiddenachievement.MetalGlove\/detail-5-thumb"
             }
         ]
     },

@@ -25,19 +25,19 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bbqgames.tiamatx\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/byvmyLuTQ8O5tzeHPlUD",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/large",
         "video": "https:\/\/vimeo.com\/99513193",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hgS17p8Ri2KMRjm6NEbg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/v3QpKuXQquJOKib4NcTP",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LHCzRKnSXO5c6dYHJxLc",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EW3JMyj2QqSz2N0RLMC8",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xrTB5PkQoy0opHtor4uw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CoHj9CG2Rde1oGvhpLh6",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/n1AMd1JkQiyQPgo5Vw5M",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/50ugslFZQI2xbY8IzBNr",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aUPcBTqWRe21790sRuiB",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/36rt53hjQHK4nzSsLVdh"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-8",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-9",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/screenshot-10"
         ],
         "details": [
             {
@@ -46,53 +46,53 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/9q52ol_ouya-screenshot20140807-2-w0576f.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-2g64f2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/cbmjye_ouya-screenshot20140807-2-onjnxe.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-15rm0dv.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/wyek5n_ouya-screenshot20140807-2-g6rvxq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-1bvd1z6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/9m997b_ouya-screenshot20140807-2-8yufk1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-ist83a.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/66ph94_ouya-screenshot20140807-2-1kk0hst.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-ygfo1n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/mqdgd5_ouya-screenshot20140807-2-n8kvhi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-bj06m.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/8hmq2e_ouya-screenshot20140807-2-9cu0k5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-nfb4o2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/dd2d3w_ouya-screenshot20140807-2-1v6pypf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-1p97hai.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-8-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/euas0w_ouya-screenshot20140807-2-1gzhhz5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-eqk0zn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-9",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-9-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/k9xi1i_ouya-screenshot20140807-2-17dyjum.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e63f8e6-2eba-4de8-be93-7a530eb23b2b\/thumbnails\/thumbnail20140807-2-wni1q4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-10",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.BBQGames.TiamatX\/detail-10-thumb"
             }
         ]
     },

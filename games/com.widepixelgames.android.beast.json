@@ -25,13 +25,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iSCVfRMzQy7ChvEfI2BI",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/large",
         "video": "https:\/\/vimeo.com\/114487458",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FWdEctNQlCTnlj5Xk9Zp",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M03pYPQRy06t9cl4bkyQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iownEIDRKuUtHdIvda4w",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qjQ3ts8ZTEmsk5X6Dbnl"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/screenshot-4"
         ],
         "details": [
             {
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/ogs6jj_ouya-screenshot20141215-2-1ahduq6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-gyfl3d.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/drpt6a_ouya-screenshot20141215-2-1vcpsku.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-pqdrzy.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/tvnqxk_ouya-screenshot20141215-2-9f743y.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-1k47wk6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/37igf6_ouya-screenshot20141215-2-1u5yrep.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e48088d3-c67c-417f-8828-7764c5496986\/thumbnails\/thumbnail20141215-2-1mddvum.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.widepixelgames.android.beast\/detail-4-thumb"
             }
         ]
     },

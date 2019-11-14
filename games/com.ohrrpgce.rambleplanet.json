@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/X8oA9vtbTm33tACp2JCw",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.ohrrpgce.rambleplanet_1.1.1\/atPXoMrT4aK99i5qYbdg.jpg",
@@ -35,23 +35,23 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/she71u_ouya-screenshot20160402-3-14wiaec.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-16htgpr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/d2929_ouya-screenshot20160402-3-t31ve9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-ciqdz8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/wu5ks_ouya-screenshot20160402-3-82z1iy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-13fzrtw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/xzgne5_ouya-screenshot20160402-3-o97bas.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f7d31daf-24fc-460f-99c2-5e12a4bac4cb\/thumbnails\/thumbnail20160402-3-1t15vz6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ohrrpgce.rambleplanet\/detail-4-thumb"
             }
         ]
     },

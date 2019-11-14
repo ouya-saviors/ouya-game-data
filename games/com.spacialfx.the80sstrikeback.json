@@ -24,34 +24,34 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OTCXgxAWRhCi793kGwKk",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wVmJVP1RN2g9iZgMZsQn",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y4l3kwWXS0a5Z5yxGh4S",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YGY2XiPnTFCteOVu8I7e",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wQ4CvX7TQ2mt3u9bzjUA"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/xxt2mp_ouya-screenshot20140721-2-1fmlqqp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1i68xbb.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/1m6iyz_ouya-screenshot20140721-2-i10s5c.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1mzasla.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/pl0sf5_ouya-screenshot20140721-2-1in2iru.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1qp7ll8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/geemvv_ouya-screenshot20140721-2-12bcqlv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/662a2db0-8e95-4608-94c0-76f5566f0330\/thumbnails\/thumbnail20140721-2-1oqa75t.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacialfx.the80sstrikeback\/detail-4-thumb"
             }
         ]
     },

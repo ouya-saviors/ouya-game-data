@@ -23,22 +23,22 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/g4oaTaXsSuyhoo8kSpqb",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ULGdtvWSVOEqy81FtMUw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iSgYEItMQayTVsfTrLzo"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/screenshot-2"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/2vz9h2_ouya-screenshot20140511-2-1i3ml47.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/thumbnails\/thumbnail20140511-2-1q8flzq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/tiauit_ouya-screenshot20140511-2-1l0cgu0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f2dfc43e-c867-4c98-a282-bdc75c694447\/thumbnails\/thumbnail20140511-2-1im6mva.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.andlabs.games.capturetheflag\/detail-2-thumb"
             }
         ]
     },

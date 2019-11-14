@@ -24,14 +24,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pC01N6yFT64kcpXKsJF6",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/large",
         "video": "https:\/\/vimeo.com\/89379968",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XmobdxfYQEaUMK2RTS4R",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/igvZepHgRlCu9cWczgov",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3hOnwe1kTGKV9t48eoFS",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nzV3e5rsQCaLDSkJAw0c",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/44gbS0KJTiGrsoQwb0c4"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/screenshot-5"
         ],
         "details": [
             {
@@ -40,28 +40,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/8hwkkj_ouya-screenshot20140622-2-1jwoy9j.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-x9s3cq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/2puwqf_ouya-screenshot20140622-2-m2t5g3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-1aixdja.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/ne223r_ouya-screenshot20140622-2-155qhqo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-v8bk9d.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/srreif_ouya-screenshot20140622-2-zzn185.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-d1e9jp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/s59i0r_ouya-screenshot20140622-2-ikcyu6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/70e527b5-4511-41e3-89d0-31cd3f73135c\/thumbnails\/thumbnail20140622-2-5igq11.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ghosttimegames.orbitsofconquest\/detail-5-thumb"
             }
         ]
     },

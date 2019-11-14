@@ -26,13 +26,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.strychipixel.christmas_tree_decoration_ouya\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yn9FKWQOTAWdyUhHEzMz",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/large",
         "video": "https:\/\/vimeo.com\/114897197",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YyBpRZbiTHu8ONhV0DDJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fx0kDUPyTW2ZeSvYZ95C",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/G85yYPgFTpmfdygYMJDW",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xkULlSm1S0qudctuvRjc"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/screenshot-4"
         ],
         "details": [
             {
@@ -41,23 +41,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/23efa7_ouya-screenshot20141218-2-1kltu9v.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-oxgffg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/rb69st_ouya-screenshot20141218-2-1p8h26q.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-gvslqs.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/cx25ft_ouya-screenshot20141218-2-14jzoba.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-19w5t7j.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/6i8o5x_ouya-screenshot20141218-2-1x6ezl2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1336bd29-1d63-40c0-ada3-8c8d35947bd6\/thumbnails\/thumbnail20141218-2-1c1x1qr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.StrychiPixel.Christmas_Tree_Decoration_Ouya\/detail-4-thumb"
             }
         ]
     },

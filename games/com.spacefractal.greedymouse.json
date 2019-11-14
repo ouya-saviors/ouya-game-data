@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GflATbQ4yTyd2xgRm0Qs",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.spacefractal.greedymouse_3.7\/qnEhj8XHQQ2fFFKsK123.jpg",
@@ -36,28 +36,28 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/75yccx_ouya-screenshot20160114-3-1yawrp6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-1q4b6h6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/1im1x0_ouya-screenshot20160114-3-160ijm2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-14xy89t.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/g728hq_ouya-screenshot20160114-3-1d2plfu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-hyhufg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/c56fwj_ouya-screenshot20160114-3-3skwrm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-1oso25n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/ft6sl4_ouya-screenshot20160114-3-n30vla.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36b86a11-91f8-4b5e-926e-28c1e7c9c254\/thumbnails\/thumbnail20160114-3-1ank6kg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.spacefractal.greedymouse\/detail-5-thumb"
             }
         ]
     },

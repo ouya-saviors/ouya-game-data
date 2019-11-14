@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HODL2dzzTVKE70Rebkbz",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/large",
         "video": "https:\/\/vimeo.com\/107310616",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eAfz19qYQF3NSvuuUYow",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rj0HgUBlTU7LtpdIGaQg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2RHMKbtsQx6jYsNO27B9",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9t8FCvqhQfSn7Pkjyos8",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mZ5vhzE7SRGKFXpW66nd"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/1nfpvo_ouya-screenshot20150927-3-1l4xme.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/thumbnails\/thumbnail20150927-3-1qoqwtc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/2zaqne_ouya-screenshot20150927-3-1kyoowv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/thumbnails\/thumbnail20150927-3-he4ydf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/21o6eb_ouya-screenshot20150927-3-1itlkf2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/thumbnails\/thumbnail20150927-3-yavcm8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/b3gri8_ouya-screenshot20150927-3-1kk04o2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/thumbnails\/thumbnail20150927-3-l1r5av.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/asfewd_ouya-screenshot20150927-3-12kjriy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e775f3f4-bc9b-4bbe-b1a5-0dd9eaddb3af\/thumbnails\/thumbnail20150927-3-na7j6y.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.airdefence\/detail-5-thumb"
             }
         ]
     },

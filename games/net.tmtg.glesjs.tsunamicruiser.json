@@ -26,12 +26,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iRrurMlSS8miqpqra6Fz",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/large",
         "video": "http:\/\/vimeo.com\/107342689",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ga3cLYVWQnif9qZ0h8xy",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YTm4ilQriDSCYbDu8Hxg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wRnPdObyQw6YvjrtRlZK"
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/screenshot-3"
         ],
         "details": [
             {
@@ -40,18 +40,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/qq1mb6_ouya-screenshot20140920-2-76116n.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/thumbnails\/thumbnail20140920-2-15iip1m.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/xzug08_ouya-screenshot20140920-2-tlw37q.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/thumbnails\/thumbnail20140920-2-1sghy60.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/lvyf18_ouya-screenshot20140920-2-4yugko.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b21db9e0-a2aa-4e27-b346-10513b071604\/thumbnails\/thumbnail20140920-2-1v3w0k0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.tsunamicruiser\/detail-3-thumb"
             }
         ]
     },

@@ -23,28 +23,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.schuler.alienbastards\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uNJEEltYQzuy7HwT2QiJ",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bHBlkWAURfOmX23lDasj",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/osfpCy2QrSgdwafb2a6A",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GLoxK3vIRdGe5IM4UxMv"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/rljhjt_ouya-screenshot20140724-2-1ry2btu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/thumbnails\/thumbnail20140724-2-14zb3je.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/ji4fbe_ouya-screenshot20140724-2-1lt7ukj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/thumbnails\/thumbnail20140724-2-1ozftct.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/uwyovm_ouya-screenshot20140724-2-1o15wo3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/28f026cb-3d96-4f90-b27b-ff68c2e1b8c9\/thumbnails\/thumbnail20140724-2-9kvq62.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Schuler.alienbastards\/detail-3-thumb"
             }
         ]
     },

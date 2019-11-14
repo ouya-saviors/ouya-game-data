@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZHoFx8hEQmW53HtOs1ey",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/large",
         "video": "https:\/\/vimeo.com\/129183089",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.mattrifiedgames.battlehigh2_2.4.1.1\/zOxKeRfTNOr6u88I3T6b.jpg",
@@ -39,18 +39,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/wtpxxi_ouya-screenshot20160106-3-y6po5l.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/thumbnails\/thumbnail20160106-3-ikl36b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/9uhs69_ouya-screenshot20160106-3-1y1ueuj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/thumbnails\/thumbnail20160106-3-fv76wc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/j9cset_ouya-screenshot20160106-3-1ddsjyb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eaaab2d3-5611-4b8d-8727-a30152391610\/thumbnails\/thumbnail20160106-3-m9bito.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mattrifiedgames.battlehigh2\/detail-3-thumb"
             }
         ]
     },

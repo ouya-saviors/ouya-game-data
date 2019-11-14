@@ -25,28 +25,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IcdYSCNzTuqed4ExltRW",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ofr7dpDPSdiFdRAyvvcQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xw3f88FOTXuIRSBi1Sfo",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FdmccK3DSsu3pmhjNtXa"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b6e0620b-d61d-4a27-b6df-c20269771ec2\/14rplr_ouya-screenshot20141208-2-t4yk5y.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b6e0620b-d61d-4a27-b6df-c20269771ec2\/thumbnails\/thumbnail20141208-2-1pdzu6b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b6e0620b-d61d-4a27-b6df-c20269771ec2\/8m4hdr_ouya-screenshot20140829-2-vwlit4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b6e0620b-d61d-4a27-b6df-c20269771ec2\/thumbnails\/thumbnail20140829-2-lv5zxb.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b6e0620b-d61d-4a27-b6df-c20269771ec2\/s8ju3t_ouya-screenshot20140829-2-1ddn9dm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b6e0620b-d61d-4a27-b6df-c20269771ec2\/thumbnails\/thumbnail20140829-2-91q8v.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dokigames.khaki2theswarm\/detail-3-thumb"
             }
         ]
     },

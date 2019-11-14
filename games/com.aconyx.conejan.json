@@ -26,17 +26,17 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wd3r5a6uSlq6lcNFnD7C",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/large",
         "video": "https:\/\/vimeo.com\/107533152",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BDdRv0UjT1qjfLdXihLX",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QUlEf95HT3Fk8ccwNNmx",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LQG5lvaKRsigis6qKI50",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/79cXVG7OQOexrhzXP8zD",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/U4sDfxxHQmucVQzrcczm",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LHqKfLlhQLWvwLBYZQVO",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gjEdBb3SfG75C7znOHBZ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fk1fIW52SmCDkexgOGkp"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/screenshot-8"
         ],
         "details": [
             {
@@ -45,43 +45,43 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/tmrjrs_ouya-screenshot20140929-2-ucjfut.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-1315rfo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/k87phx_ouya-screenshot20140929-2-i8gkw6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-1bzegdt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/wjt3zs_ouya-screenshot20140929-2-1m2ygag.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-gqwrym.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/nputp4_ouya-screenshot20140929-2-1qwo5gs.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-1txkn33.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/8vaeh0_ouya-screenshot20140929-2-pmlrgu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-twtj0o.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/ca0aou_ouya-screenshot20140929-2-zn3hy3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-1rmup3i.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/s52mev_ouya-screenshot20140929-2-6grn34.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-1jgi1we.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/vcz7vo_ouya-screenshot20140929-2-13vqzbf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/638050ed-a844-4bd9-bbac-5baadefdfe7c\/thumbnails\/thumbnail20140929-2-10lxkez.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aconyx.conejan\/detail-8-thumb"
             }
         ]
     },

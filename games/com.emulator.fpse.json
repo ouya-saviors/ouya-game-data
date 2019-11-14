@@ -26,28 +26,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k2IRsUi1R8St31Df0BFv",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HjpX5mMhQ5yiBkY75yAB",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6s6pJWBQqKQNsIYyyLgA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/f5Oa0CyZQh2yVrop83ZF"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/ouya-image20170907-3-19vjtnt",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/thumbnail20170907-3-17lqq4q.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/ouya-image20170907-3-1xprk64",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/thumbnail20170907-3-19t6q0w.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/ouya-image20170907-3-klg5hj",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/afac9524-d1fd-413c-a184-36350a1be5e7\/thumbnail20170907-3-kqa1de.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.emulator.fpse\/detail-3-thumb"
             }
         ]
     },

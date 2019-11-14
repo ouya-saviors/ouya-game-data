@@ -25,13 +25,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XQM49OVTHO9vASgEVuNi",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/large",
         "video": "https:\/\/vimeo.com\/100889267",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xGhPtVoJTrifsIE01F6Y",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aAX0MoSMTQyQmh7tGxkT",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lHzRimy6Q9eGxAdAxqHf",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IdCbUxfbSo2Xh2Cbhbaw"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/screenshot-4"
         ],
         "details": [
             {
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/rr83og_ouya-screenshot20140718-2-36jtym.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-1dbwf99.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/fbcc7r_ouya-screenshot20140718-2-1cf3oyx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-cuwcrk.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/i692tv_ouya-screenshot20140718-2-e1u7fh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-hkrztf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/2i48jc_ouya-screenshot20140718-2-hvbu82.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/bacbcf5b-fe19-4610-adcf-1bd39baf405f\/thumbnails\/thumbnail20140718-2-1du1wh3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesp.muffy\/detail-4-thumb"
             }
         ]
     },

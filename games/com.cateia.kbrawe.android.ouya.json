@@ -23,14 +23,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hqrIDw1REquUp1O2gUKv",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/large",
         "video": "https:\/\/vimeo.com\/102113342",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZDsRl0dRXyI9kD2oaXFr",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ev5z1j0cSQyiWzTFYpGL",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oQsvKniSxWgJgRaN1jTQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jhRUbIqyTruZfFsPBjGm",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fi9k4nEHTEi4ANaGsJWS"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/screenshot-5"
         ],
         "details": [
             {
@@ -39,28 +39,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/exp8kc_ouya-screenshot20140730-2-1ykq1rj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-1rrazhk.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/h4i315_ouya-screenshot20140730-2-tacn1x.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-53ks8x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/clh3hl_ouya-screenshot20140730-2-c2zp9n.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-jiqplx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/bf4otq_ouya-screenshot20140730-2-81mdk7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-1ftfdy8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/nby9le_ouya-screenshot20140730-2-pit41h.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fa5c838-32e3-46a8-ae66-fefba4f6686e\/thumbnails\/thumbnail20140730-2-bbxq9r.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cateia.kbrawe.android.ouya\/detail-5-thumb"
             }
         ]
     },

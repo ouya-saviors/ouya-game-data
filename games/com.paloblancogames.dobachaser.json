@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/1QNJRN2uSVqzXQaT6eZn",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/large",
         "video": "https:\/\/vimeo.com\/129394540",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.paloblancogames.dobachaser_1.0.0\/8Hgngk0TDa2FTdznEtsw.jpg",
@@ -43,28 +43,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/kr4yue_ouya-screenshot20150601-3-12a3ed8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-14s4kpq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/vqru14_ouya-screenshot20150601-3-1tc1ojm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-vy5cnj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/w1xjp3_ouya-screenshot20150601-3-ezwx9o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-19v5u3x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/io9kic_ouya-screenshot20150601-3-1tkorx1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-141825n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thp6lg_ouya-screenshot20150601-3-9ssdvh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62077491-0b8f-4fa1-b6ba-45a4b6593288\/thumbnails\/thumbnail20150601-3-g16tg0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.paloblancogames.dobachaser\/detail-5-thumb"
             }
         ]
     },

@@ -26,12 +26,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3S1yLVS2RRSaJ4orEFC8",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/large",
         "video": "https:\/\/vimeo.com\/96517358",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y7BEtDKtQxeCeJWuHkpx",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/YtSkdG5IRMOQLSk4wuuX",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/y1qv5ZT2GZzyzzkNEg7w"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/screenshot-3"
         ],
         "details": [
             {
@@ -40,18 +40,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/uy5vnz_ouya-screenshot20140715-2-17ceaz6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/thumbnails\/thumbnail20140715-2-kxvdqx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/43m2es_ouya-screenshot20140715-2-1mj6lw4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/thumbnails\/thumbnail20140715-2-bbysi5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/bjmyaf_ouya-screenshot20140715-2-kya8k2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3c95ffbc-95e8-4d2e-990c-3ad5e554ab0e\/thumbnails\/thumbnail20140715-2-jfy3fo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.molinware.super_cosmonauts\/detail-3-thumb"
             }
         ]
     },

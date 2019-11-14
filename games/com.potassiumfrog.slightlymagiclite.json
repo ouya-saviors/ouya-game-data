@@ -25,12 +25,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q5WU5c7TnmcI3s8QNZoD",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/large",
         "video": "http:\/\/vimeo.com\/99760766",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9CbvowaQfuFvPZaF7VQX",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gg6ttOlTNiHlNHyOyUeA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SGPNHHQZRnuPDoI59XiE"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/screenshot-3"
         ],
         "details": [
             {
@@ -39,18 +39,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/h1qbmc_ouya-screenshot20140919-2-p7itl9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/thumbnails\/thumbnail20140919-2-1etxuox.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/3l7sse_ouya-screenshot20140919-2-1m1hj0w.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/thumbnails\/thumbnail20140919-2-1qialnw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/9ih4s0_ouya-screenshot20140919-2-1uvgx4j.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/88f9e910-3549-47c4-9f59-bd12e4367409\/thumbnails\/thumbnail20140919-2-xcpedx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.slightlymagiclite\/detail-3-thumb"
             }
         ]
     },

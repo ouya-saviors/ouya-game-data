@@ -24,12 +24,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kjF9vRzfQmOaCIJ0UWzn",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/large",
         "video": "https:\/\/vimeo.com\/88688549",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/giooDmbhSDyIqNX3VQJv",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jd3xItT3QfqOfDaBVrpJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/85OLAhJTSRu6b20Isu1V"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/screenshot-3"
         ],
         "details": [
             {
@@ -38,18 +38,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9fec52e4-7ab7-48d1-837a-2a2e10745ec9\/hgw8op_ouya-screenshot20140929-2-18zaxow.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9fec52e4-7ab7-48d1-837a-2a2e10745ec9\/thumbnails\/thumbnail20140929-2-oznytv.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9fec52e4-7ab7-48d1-837a-2a2e10745ec9\/61m8z0_ouya-screenshot20140929-2-1o96wni.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9fec52e4-7ab7-48d1-837a-2a2e10745ec9\/thumbnails\/thumbnail20140929-2-sxmaqa.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9fec52e4-7ab7-48d1-837a-2a2e10745ec9\/5y2xdj_ouya-screenshot20140929-2-dp591w.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/9fec52e4-7ab7-48d1-837a-2a2e10745ec9\/thumbnails\/thumbnail20140929-2-ul65vf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameblabla.rubbybird\/detail-3-thumb"
             }
         ]
     },

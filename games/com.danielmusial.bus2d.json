@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yOqqT2zLR2ubqaHCGXGH",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/large",
         "video": "https:\/\/vimeo.com\/97903311",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yAoOKbnSeeCDZIQfEX6i",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MwkxkP5SS9SPvVc12eIO",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PhXB59uERNStgZmrR3MT",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Cn5xUK1vSQeO4LNp9FXv",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/O4pZccmTToe4E88KkuXf"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/tth7by_ouya-screenshot20140711-2-r9isqz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-v3irn0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/hulmzi_ouya-screenshot20140711-2-hsmhtb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-y0jhmh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/7dcpwv_ouya-screenshot20140711-2-ijxvrm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-sj18g4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/ayry5z_ouya-screenshot20140711-2-1jla8l3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-1lzy8m9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/vst37d_ouya-screenshot20140711-2-x9y7mh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7d92b5cc-25d8-4117-9691-752a6da73021\/thumbnails\/thumbnail20140711-2-p2vig6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.danielmusial.bus2d\/detail-5-thumb"
             }
         ]
     },

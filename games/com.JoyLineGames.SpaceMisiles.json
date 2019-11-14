@@ -26,28 +26,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.joylinegames.spacemisiles\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DQIwNIYPQDOVw1E1Jz0u",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MDN906akTeSOUKlb4IAt",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RtLIH7eoSPGRNtZDkw0c",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xLqqZ2LRA6ZsR1KfP9Ai"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/613d6f13-f9fc-4094-8789-eb0868874da4\/74eb94_ouya-screenshot20150901-3-rekurm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/613d6f13-f9fc-4094-8789-eb0868874da4\/thumbnails\/thumbnail20150901-3-autj2f.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/613d6f13-f9fc-4094-8789-eb0868874da4\/fzkbgo_ouya-screenshot20150901-3-1xb1bwk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/613d6f13-f9fc-4094-8789-eb0868874da4\/thumbnails\/thumbnail20150901-3-16cw97b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/613d6f13-f9fc-4094-8789-eb0868874da4\/h5l2er_ouya-screenshot20150901-3-1qmv37y.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/613d6f13-f9fc-4094-8789-eb0868874da4\/thumbnails\/thumbnail20150901-3-1ufqwwu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.JoyLineGames.SpaceMisiles\/detail-3-thumb"
             }
         ]
     },

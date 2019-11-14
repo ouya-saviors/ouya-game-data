@@ -29,14 +29,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/615fsVXCQFWk7Yf3LDeg",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/large",
         "video": "https:\/\/vimeo.com\/206754674",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pz0bpPtOQSO7YZy8GsJQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TDkyXE0fTPKZLKuKejR2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wGLOtU4CQiOg1AaZEoAl",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/APiSKGWKRNOaYeJv21QN",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fSyZd6efSnWrSaE8HMTP"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/screenshot-5"
         ],
         "details": [
             {
@@ -45,28 +45,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-4-1p9538i",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-4-3vqei6.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-1yb1jhq",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-v06qg7.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-ehw0a6",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-1kry4ks.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-c85uoz",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-1os18ht.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/ouya-image20170304-3-r6q2es",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/eac741f6-7950-4e10-a8b7-5e65031e4244\/thumbnail20170304-3-25c1g5.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.forgottensystems.soccertron\/detail-5-thumb"
             }
         ]
     },

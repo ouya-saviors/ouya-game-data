@@ -25,28 +25,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JEUSxgEHQgy5nFCS2sLt",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6pdxS3TuQqeRT3qXyaGu",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AkLwyZgySXa8Age0lUbw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vi13B3bSCK5cowd1NXZg"
+            "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e080b064-b9d6-47f6-936e-01e1bd15538f\/1ul7ez_ouya-screenshot20140818-2-fvfc7m.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e080b064-b9d6-47f6-936e-01e1bd15538f\/thumbnails\/thumbnail20140818-2-19pg2oe.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e080b064-b9d6-47f6-936e-01e1bd15538f\/8az9fo_ouya-screenshot20140818-2-fh5hnd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e080b064-b9d6-47f6-936e-01e1bd15538f\/thumbnails\/thumbnail20140818-2-1jjuxab.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e080b064-b9d6-47f6-936e-01e1bd15538f\/ay7nrf_ouya-screenshot20140818-2-1hj5nen.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e080b064-b9d6-47f6-936e-01e1bd15538f\/thumbnails\/thumbnail20140818-2-3s3ffd.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.pandora\/detail-3-thumb"
             }
         ]
     },

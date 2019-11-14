@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UnMqGCXSfyCGG0yRozBT",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/large",
         "video": "https:\/\/vimeo.com\/92102710",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/nktcDbrJQfiBCpTLTcun",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xF0LA39QSbG3Xg1Jv55A",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XM2Yc6HYQF2LZrlownfF",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/m8drkFx0TGSk7xbil5az",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/kPQlSlgTOm5DjaCN0hwQ"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/8w210q_ouya-screenshot20141005-2-6kqibj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-522wpe.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/smgs8x_ouya-screenshot20141005-2-1bdemzi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-1csizj0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/9gp6lb_ouya-screenshot20141005-2-1ucncra.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-5rb0fh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/nx1vrf_ouya-screenshot20141005-2-1bciia6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-sl3x6v.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/6xrg3l_ouya-screenshot20141005-2-2ptvl4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/86d4cbc0-5baa-4511-aa3c-bf97ec3c5767\/thumbnails\/thumbnail20141005-2-1ixkcr0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.farfromsleep.rubblenstrafe\/detail-5-thumb"
             }
         ]
     },

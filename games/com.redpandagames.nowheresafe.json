@@ -25,13 +25,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F23TmOBSCiFubbgEHaJN",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cfctEka0RZWUnBebwoph",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3OY7nYzxQCalC8FvvFMf",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/KIymFSV8SXSYfGf6xpa2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WMEdNcbRiChJqQxgNfGC"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/screenshot-4"
         ],
         "details": [
             {
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/4gg3bg_ouya-screenshot20140507-2-goxlga.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/thumbnails\/thumbnail20140507-2-9cq9ow.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/6scak_ouya-screenshot20140507-2-9x5rnr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/thumbnails\/thumbnail20140507-2-21rjxn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/sz7t3s_ouya-screenshot20140507-2-15cclgj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/thumbnails\/thumbnail20140507-2-7zjw2b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/n0gm4d_ouya-screenshot20140507-2-etwn20.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f617f9f1-8026-4451-9cdb-df1bdc797d41\/thumbnails\/thumbnail20140507-2-10ysei5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.redpandagames.nowheresafe\/detail-4-thumb"
             }
         ]
     },

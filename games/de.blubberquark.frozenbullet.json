@@ -25,28 +25,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xyX5wNAbTiqC8yqpe7Hs",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/38mf5Og9RoiTp2e8T8yg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5DBKmYgAQH6G35ih8nEw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xBJj5RGxR72AdtcDPbbA"
+            "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/q978u1_ouya-screenshot20141114-2-1csvxxi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/thumbnails\/thumbnail20141114-2-gstpoy.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/3zwbsc_ouya-screenshot20141114-2-1k3ah3x.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/thumbnails\/thumbnail20141114-2-1flmnyw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/3oir97_ouya-screenshot20141114-2-qyov6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/f192c599-19c4-4e1c-a991-07b428499175\/thumbnails\/thumbnail20141114-2-1t46bbi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.blubberquark.frozenbullet\/detail-3-thumb"
             }
         ]
     },

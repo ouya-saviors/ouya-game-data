@@ -23,34 +23,34 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DI7AIEr8R8md9zrxn4na",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wQ3uc8O4T4y2UJOve3Ig",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7MCinB1EQ3GuQKtkCKar",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mkV6FO4TbG9ODAXJq7vP",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J4jIeH3NQ6eFW8FPYowF"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/zxpsel_ouya-screenshot20141130-2-1gkhxpo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-15p0al1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/wqmpjz_ouya-screenshot20141130-2-1kjv0j2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-efwx3f.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/fw15m6_ouya-screenshot20141130-2-9530cx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-enzs4u.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/nwk3ns_ouya-screenshot20141130-2-epr8rz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6cfc7a61-bae8-414f-bbe8-cc3bdde882ae\/thumbnails\/thumbnail20141130-2-ndi8hx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dishmoth.miniquests\/detail-4-thumb"
             }
         ]
     },

@@ -24,14 +24,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MASaiOBlTEO7GKYXsIns",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/large",
         "video": "https:\/\/vimeo.com\/141878938",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/imFTf4hNSAiOMDS7QNsN",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EsF8P1FrSCSOL7Kzz3Rc",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GzAR3RruTcnM7UpwMJ3i",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eAMvcs6WQuWK7G8li09y",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pC6LJXKdTXegxDm6heCA"
+            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/screenshot-5"
         ],
         "details": [
             {
@@ -40,28 +40,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/r1qv0q_ouya-screenshot20151022-3-1yz5wse.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-1nv0qak.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/u4at68_ouya-screenshot20151022-3-1fbsj14.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-a7rluw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/5hvqlw_ouya-screenshot20151022-3-1keg8wy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-beow47.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/kcvsmf_ouya-screenshot20151022-3-nwu1r9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-v0mlwg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/o0jml3_ouya-screenshot20151022-3-1cgbph.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/780688a9-95ee-429a-8755-69a8d0c88fe0\/thumbnails\/thumbnail20151022-3-1ychuwp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.eiswuxe.blookid2\/detail-5-thumb"
             }
         ]
     },

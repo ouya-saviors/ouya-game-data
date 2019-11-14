@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xmIZyRvRTJ2q06fJg938",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/large",
         "video": "https:\/\/vimeo.com\/92159145",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.raganj.spaceroids_1.7\/6Ckb8d8tQyeA01mwLR2S.jpg",
@@ -44,43 +44,43 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/erh2ag_ouya-screenshot20140911-2-1l6o41o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-deogaf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/obzug4_ouya-screenshot20140911-2-186mbmy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-1wnd090.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/cjynzb_ouya-screenshot20140911-2-hjw94k.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-zvn9g1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/aw7jp1_ouya-screenshot20140911-2-1u9duyi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-200qjb.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/1ea7ik_ouya-screenshot20140911-2-t7v3n5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-hqjffm.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/4lwfbb_ouya-screenshot20140911-2-yncg63.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-qbeasw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/tu2x20_ouya-screenshot20140911-2-n65c1k.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-2kw6zf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/aj30b7_ouya-screenshot20140911-2-3mzo71.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/541234cb-99ee-4b33-a149-27b7ca0cfb7a\/thumbnails\/thumbnail20140911-2-62wsoa.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.raganj.spaceroids\/detail-8-thumb"
             }
         ]
     },

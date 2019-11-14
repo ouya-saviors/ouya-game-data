@@ -25,15 +25,15 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z5k7fquSkuZGIRhLxkql",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/large",
         "video": "http:\/\/vimeo.com\/107051200",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3opb45exTeDzP9cB5tIO",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/giaQ5vPTtWyKu01fkljA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/szPn9WaZSaGlEbiA1ufh",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vTt5SPQTLeucqQSnqry2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JJeEAo0MSxuFuS988JnP",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/lpaGf5ESxa5ONLEoNqG7"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/screenshot-6"
         ],
         "details": [
             {
@@ -42,33 +42,33 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/w3rzs2_ouya-screenshot20140925-2-1ln1q7m.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/thumbnails\/thumbnail20140925-2-1v70krp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/90v63_ouya-screenshot20140925-2-1ptg4z9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/thumbnails\/thumbnail20140925-2-er7g9w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/1lsw4k_ouya-screenshot20140925-2-1yjly4p.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/thumbnails\/thumbnail20140925-2-1jnx4tc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/ik3uop_ouya-screenshot20140925-2-2ax0g3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/thumbnails\/thumbnail20140925-2-1ha48yh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/743ufr_ouya-screenshot20140925-2-6q9yg9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/thumbnails\/thumbnail20140925-2-inbhqt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/4sdh9k_ouya-screenshot20140925-2-1fjrz0y.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c0b4c922-9c24-4279-9bd6-1057fe30d7a8\/thumbnails\/thumbnail20140925-2-1gbyxgw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.immersivedouro.jsclashofdimensions\/detail-6-thumb"
             }
         ]
     },

@@ -24,34 +24,34 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.gaurodan\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xSss39JtRmextUHvAP3n",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fu3FMwlQKSjlXEV9Pvw5",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EmuGKEF9QkCxpTjpC3UK",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NzcIPJlVSFinP3r7EhHe",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oSJvnFnBRnCWNphsZefQ"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/iew513_ouya-screenshot20141227-2-1361g2v.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-13x4ezl.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/y9baws_ouya-screenshot20141227-2-d6kg4g.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-1m0nmao.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/w1n2mt_ouya-screenshot20141227-2-myrpy4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-am1clx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/kbuk4i_ouya-screenshot20141227-2-tdk1l9.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c3e9e64f-0704-47ea-ab4d-07ce1f167d71\/thumbnails\/thumbnail20141227-2-118kssr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Locomalito.Gaurodan\/detail-4-thumb"
             }
         ]
     },

@@ -24,34 +24,34 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WkH4dtCT3m93LvCIRddN",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tw2cHiRSLWdFgEMMhlMO",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2X3nkMiTa2Gihd2MdsWt",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DiR88xU9RDmVwvbX85Fp",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WqWkhHzSyyu4mqEVg3Bn"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/74y51_ouya-screenshot20140625-2-in2bmv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-rvj050.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/mqelc6_ouya-screenshot20140625-2-19ex30d.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-4oqzh8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/zxceba_ouya-screenshot20140625-2-13lcg2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-t2x4af.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/bpvsza_ouya-screenshot20140625-2-rukyqk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c9ae001f-4483-471c-8940-8f0ae00d94fd\/thumbnails\/thumbnail20140625-2-1s12opo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesa.lazycaverns\/detail-4-thumb"
             }
         ]
     },

@@ -25,28 +25,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/naA5FpiSQwSFeHo58QAm",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l2FRpY6Ti6cfKts12owQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yEgfNwFNSzaicii4QQZZ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4mVjc22SJujRmweVXHO3"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/lg3z2v_ouya-screenshot20151007-3-r17vlo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/thumbnails\/thumbnail20151007-3-zgcq6b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/l54fqr_ouya-screenshot20151007-3-16ar4et.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/thumbnails\/thumbnail20151007-3-sbyd4k.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/zlqb41_ouya-screenshot20151007-3-2kmjkx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/36db2826-2b13-4e28-968e-f47845318a96\/thumbnails\/thumbnail20151007-3-pxhe68.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.wapo.posttv\/detail-3-thumb"
             }
         ]
     },

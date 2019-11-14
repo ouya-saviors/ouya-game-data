@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mLRhax2RQ62LhcO2wWze",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/large",
         "video": "https:\/\/vimeo.com\/103930378",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MX9CHIsCQLmh2sdrHAS6",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AI1em3nRASpvuA28uPNQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k1OYuGcS0OGL0F6hdEng",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9ROIx9irSDmtv1QPhOrj",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fq7kLRqxTnasHjCP0n9k"
+            "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/tquujh_ouya-screenshot20140820-2-29xua0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-ucw96i.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/x6ea5i_ouya-screenshot20140820-2-1ep9foq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-kxrvsu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/ac8mzf_ouya-screenshot20140820-2-1dzcdmy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-1iqu8vs.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/pn5hvx_ouya-screenshot20140820-2-141f2h.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-r1rewl.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/w0b6i_ouya-screenshot20140820-2-6esn4c.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/47568efe-1a6a-44c4-8e02-2b2efc8da52d\/thumbnails\/thumbnail20140820-2-1nnwg2q.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/games.justaconcept.celestoids\/detail-5-thumb"
             }
         ]
     },

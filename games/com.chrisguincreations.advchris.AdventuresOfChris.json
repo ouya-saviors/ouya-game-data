@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.adventuresofchris\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QHSb3dohQKit4qec7I5a",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/large",
         "video": "https:\/\/vimeo.com\/104359086",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9\/n7tTxj7cQtG4jmEXVK09.jpg",
@@ -42,33 +42,33 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/d0j2g5_ouya-screenshot20151215-3-1rnfcmj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-1w0porw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/qhdqtj_ouya-screenshot20151215-3-bpe49n.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-nvo51p.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/m7mg8v_ouya-screenshot20151215-3-peyppo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-1ydt8p2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/gwpoa8_ouya-screenshot20151215-3-1w0c22w.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-n54l9j.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/sqgx4y_ouya-screenshot20151215-3-zwlnm3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-3g5qu9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/24vssu_ouya-screenshot20151215-3-1s1tucy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7045ca6c-f219-45dc-941f-714a6e8536fe\/thumbnails\/thumbnail20151215-3-e6ad9j.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.chrisguincreations.advchris.AdventuresOfChris\/detail-6-thumb"
             }
         ]
     },

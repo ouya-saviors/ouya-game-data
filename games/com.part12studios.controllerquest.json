@@ -24,12 +24,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RIx4PxRQGG9EdZXtIcQV",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/large",
         "video": "https:\/\/vimeo.com\/112732205",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GidplCOuSluXtWw3sDsA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xSkmNjU3SuTDfbNK6QLw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ewujPHLRFytXzzgzHLZT"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/screenshot-3"
         ],
         "details": [
             {
@@ -38,18 +38,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35619779-2d5b-437a-aad4-9eed5a3cb832\/v8fso7_ouya-screenshot20141125-2-14hzjy3.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35619779-2d5b-437a-aad4-9eed5a3cb832\/thumbnails\/thumbnail20141125-2-1g523r6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35619779-2d5b-437a-aad4-9eed5a3cb832\/ieywtr_ouya-screenshot20141125-2-13718ca.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35619779-2d5b-437a-aad4-9eed5a3cb832\/thumbnails\/thumbnail20141125-2-zh3l04.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35619779-2d5b-437a-aad4-9eed5a3cb832\/l64p0s_ouya-screenshot20141125-2-1du6ll2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/35619779-2d5b-437a-aad4-9eed5a3cb832\/thumbnails\/thumbnail20141125-2-1lqisxu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-3-thumb"
             }
         ]
     },

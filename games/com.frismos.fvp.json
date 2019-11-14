@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZiUCmsBSRfe1vmSXCq27",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.frismos.fvp_1.2.2\/T0BH5SlkQMSL3CD3bkPF.jpg",
@@ -36,23 +36,23 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/nj6vcf_ouya-screenshot20141117-2-ja9khc.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/thumbnails\/thumbnail20141117-2-d6w8cu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/mttgr8_ouya-screenshot20141117-2-1a9lazi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/thumbnails\/thumbnail20141117-2-4heejh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/kq0rrm_ouya-screenshot20141117-2-1e009aq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/thumbnails\/thumbnail20141117-2-1u20n08.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/9pd2xj_ouya-screenshot20141117-2-12hcauj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5a665993-695d-4565-b5f0-7a7b36fac5bc\/thumbnails\/thumbnail20141117-2-181ad5w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.frismos.fvp\/detail-4-thumb"
             }
         ]
     },

@@ -24,58 +24,58 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Gt6ioNRVqxmJChcBemg",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/H1bbZGTbKcilXrSf7Vw6",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zivguA7sQUyY7D0cQW8Q",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Q3uvHfYRcKEaB5gHSROK",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/uWSoRjm7SfifnB1lFa9s",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/J0VGGgx8Q3WCj92Yyryi",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AJbZlCUMSheCrZ9UVBd8",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M9LLyysFQ7IguLPLGiyR",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j24YM4DHQ5WbSbpM0Ljg"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/screenshot-8"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/82gcrm_ouya-screenshot20140831-2-10uqye8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-a9uufg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/na7j8a_ouya-screenshot20140831-2-iu2vvw.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-1b2dazo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/aixorv_ouya-screenshot20140831-2-tl56tt.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-1ag4ale.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/z68ogx_ouya-screenshot20140831-2-i0k4ze.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-sh9p44.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/8m1mqb_ouya-screenshot20140831-2-1wfd0zg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-1grt8of.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/y3bizi_ouya-screenshot20140831-2-3wuz32.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-1ov3ps8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/rbhhrj_ouya-screenshot20140831-2-ijd9y1.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-1gem58f.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/p6b09u_ouya-screenshot20140831-2-zx05qy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a6538266-e65d-498c-8be4-25a1bdd0c11f\/thumbnails\/thumbnail20140831-2-1a4shtc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tozeleal.ouyacentralapp\/detail-8-thumb"
             }
         ]
     },

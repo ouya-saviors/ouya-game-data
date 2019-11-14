@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.level41225.darkspacerings\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zbKo5TXuS72AvVR07Nzj",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/large",
         "video": "https:\/\/vimeo.com\/77077389",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.Level41225.DarkSpaceRings_1.4\/B7Bnr9iwQmogn7B58m7R.jpg",
@@ -39,23 +39,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/9d4dwk_ouya-screenshot20140811-2-wv0wnr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/thumbnails\/thumbnail20140811-2-iyftnp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/357842_ouya-screenshot20140811-2-12475oy.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/thumbnails\/thumbnail20140811-2-1t0t1xj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/j48xjw_ouya-screenshot20140811-2-1rdz45z.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/thumbnails\/thumbnail20140811-2-bi1tp8.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/qq3mt6_ouya-screenshot20140811-2-1h93ctl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1d811d44-735d-4729-a2db-c4e517f554ac\/thumbnails\/thumbnail20140811-2-1ks16zu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Level41225.DarkSpaceRings\/detail-4-thumb"
             }
         ]
     },

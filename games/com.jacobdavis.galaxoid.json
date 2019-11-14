@@ -25,12 +25,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0saZ8XTfSp6DhAniVxEA",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/large",
         "video": "https:\/\/vimeo.com\/90061569",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0LNbvKH6QVOScfW3jD3d",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pUBM4GsROeqWZ4BOaz7t",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/whZ8awphQms8InRvjyr4"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/screenshot-3"
         ],
         "details": [
             {
@@ -39,18 +39,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c998bcca-cc11-4d5b-a1f5-942242e35cda\/eax1ea_ouya-screenshot20140627-2-1ijvg8d.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c998bcca-cc11-4d5b-a1f5-942242e35cda\/thumbnails\/thumbnail20140627-2-1ksog2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c998bcca-cc11-4d5b-a1f5-942242e35cda\/wm8gde_ouya-screenshot20140627-2-ni8k49.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c998bcca-cc11-4d5b-a1f5-942242e35cda\/thumbnails\/thumbnail20140627-2-ajiugg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c998bcca-cc11-4d5b-a1f5-942242e35cda\/gq9s1q_ouya-screenshot20140627-2-e1qqmo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c998bcca-cc11-4d5b-a1f5-942242e35cda\/thumbnails\/thumbnail20140627-2-1vdwcv.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jacobdavis.galaxoid\/detail-3-thumb"
             }
         ]
     },

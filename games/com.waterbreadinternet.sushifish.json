@@ -24,13 +24,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qAzzBZjRQ9yoICjWaXyC",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/large",
         "video": "https:\/\/vimeo.com\/102745886",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/JWhhj9inR4ib8Kf9Qv8B",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P2LGOU7rSnWt2HjAAJ2Z",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/giWBWflOTMOLg64LPBUq",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xP5dqA3WT8elXTcYXhqf"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/screenshot-4"
         ],
         "details": [
             {
@@ -39,23 +39,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/bxv9m2_ouya-screenshot20141123-2-l3024u.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-1sho4ol.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/4qramv_ouya-screenshot20141123-2-12nuu60.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-1j5k7a.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/kmfzwm_ouya-screenshot20141123-2-o6b8ng.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-11wn1ds.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/qovsea_ouya-screenshot20141123-2-110fryl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ec9c8a01-2e9b-46a5-8eb2-f74624469557\/thumbnails\/thumbnail20141123-2-iyxkvp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.waterbreadinternet.sushifish\/detail-4-thumb"
             }
         ]
     },

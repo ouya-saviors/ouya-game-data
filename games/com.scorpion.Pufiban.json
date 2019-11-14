@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.pufiban\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N1eJJPIcRtG321CL4bDa",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.scorpion.Pufiban_2.3.2015\/caY6ZMnmSgz3MUG1TLN6.jpg",
@@ -36,28 +36,28 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/4rp1aa_ouya-screenshot20160422-3-10h2u0g.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/thumbnails\/thumbnail20160422-3-ezreu1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/rofhmi_ouya-screenshot20160422-3-apc12v.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/thumbnails\/thumbnail20160422-3-1gcva2x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/kmjo2x_ouya-screenshot20160422-3-1h53qg7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/thumbnails\/thumbnail20160422-3-1tyabyq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/kvaq4l_ouya-screenshot20160422-3-s1z0ka.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/thumbnails\/thumbnail20160422-3-h9yuke.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/pjds37_ouya-screenshot20160422-3-1bba0y4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2a7848af-366f-4978-b1c7-30695ecdcfe1\/thumbnails\/thumbnail20160422-3-q8a6xj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.scorpion.Pufiban\/detail-5-thumb"
             }
         ]
     },

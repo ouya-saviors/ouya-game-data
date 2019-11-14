@@ -25,28 +25,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Tr1FwU5GRBi57pQ5F2uD",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/zgjSjcvR8m7cATzyp0Fg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TwDZkmYTTdaJa1pLzdLS",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l0PewFETNa8xao2msBh1"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/80c6e4f6-8dbb-475f-8ec6-c0bbd16e633e\/5veo8v_ouya-screenshot20141007-2-1t6m02c.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/80c6e4f6-8dbb-475f-8ec6-c0bbd16e633e\/thumbnails\/thumbnail20141007-2-1fcp7k0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/80c6e4f6-8dbb-475f-8ec6-c0bbd16e633e\/zgck28_ouya-screenshot20141007-2-1q66lf6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/80c6e4f6-8dbb-475f-8ec6-c0bbd16e633e\/thumbnails\/thumbnail20141007-2-nlj7av.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/80c6e4f6-8dbb-475f-8ec6-c0bbd16e633e\/ksq1jd_ouya-screenshot20141007-2-1b7cbho.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/80c6e4f6-8dbb-475f-8ec6-c0bbd16e633e\/thumbnails\/thumbnail20141007-2-13vrfwg.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.cyros.flappy\/detail-3-thumb"
             }
         ]
     },

@@ -23,12 +23,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.slf1989\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/d2MBl8PTwKWo41Aa2GnA",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/large",
         "video": "https:\/\/vimeo.com\/105531952",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/p1Jf1BDfSJGxnpn50IQc",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/j25uicurT9GUIWsfs0Ew",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xS3fSpEsSuebkOgbARbs"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/screenshot-3"
         ],
         "details": [
             {
@@ -37,18 +37,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/8il1zj_ouya-screenshot20140910-2-8ix7jr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/thumbnails\/thumbnail20140910-2-102woqt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/y56sl7_ouya-screenshot20140910-2-xf29vi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/thumbnails\/thumbnail20140910-2-w1ytq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/3637ov_ouya-screenshot20140910-2-1pagkod.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1067f007-0ba5-43c7-92a4-057e63bd35df\/thumbnails\/thumbnail20140910-2-1g83izj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.initialsgames.SLF1989\/detail-3-thumb"
             }
         ]
     },

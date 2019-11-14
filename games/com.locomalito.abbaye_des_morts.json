@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ncDcifzkT5q9mCZLevvn",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.locomalito.abbaye_des_morts_1.0.5\/5dDIxvH4RIWmQDQtwsYD.jpg",
@@ -37,28 +37,28 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/8guuoo_ouya-screenshot20140928-2-vcd3es.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-p2k6ji.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/wu6vwq_ouya-screenshot20140928-2-nonzp6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-14q8a6w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/us462r_ouya-screenshot20140928-2-1ptqamb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-gnetat.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/cn73n9_ouya-screenshot20140928-2-vs0619.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-gxkr3m.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/rzgpvu_ouya-screenshot20140928-2-1a247li.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7fad405f-fd01-4003-841f-d06f41797f3e\/thumbnails\/thumbnail20140928-2-i3s89g.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.locomalito.abbaye_des_morts\/detail-5-thumb"
             }
         ]
     },

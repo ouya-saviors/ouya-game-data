@@ -26,16 +26,16 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.quinmarkstudios.pinata\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UULE4kCpRgC44u5BgH0v",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/large",
         "video": "https:\/\/vimeo.com\/127449038",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/0TYC6WSGQS27JpV8aIsX",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4L3mkzozSqS2dFq0OwVv",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/SC2e7D1pRxqU80iM7wxQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gY1RMa90R5inpDUDgh3Z",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6PedyXEzQbatX4JF68zB",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/gARFXOMVSKmSQJ0zxdDy",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Jof9Xvb5RqGDOROtrWI1"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/screenshot-7"
         ],
         "details": [
             {
@@ -44,38 +44,38 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/m49s7p_ouya-screenshot20151104-3-e6ty9o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-1j3lidi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/rdrr4l_ouya-screenshot20151104-3-1y9ugrw.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-5bdpmz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/68azlt_ouya-screenshot20151104-3-1ojx9jc.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-vnq9p3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/jd6zdf_ouya-screenshot20151104-3-sanj2f.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-1xk2k6x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/z0bjrx_ouya-screenshot20151104-3-cxyhvz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-pw0jtq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/qkrdvq_ouya-screenshot20151104-3-otkulf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-8k0ak2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/p6uaaq_ouya-screenshot20151104-3-1n0g1fi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/865bc17b-1f25-415b-af89-f359531f1f6e\/thumbnails\/thumbnail20151104-3-1s171dh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.QuinmarkStudios.Pinata\/detail-7-thumb"
             }
         ]
     },

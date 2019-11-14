@@ -24,28 +24,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.c64emu\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I7ACPfvbSeiKe8aHkYvm",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Np3Mll9TT66PtAVxH6i2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k4w0xjrHR7ujr3DAfAjN",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XALYcIP1QfuMony2JO28"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/3ubho3_ouya-screenshot20150518-3-1abuei.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/thumbnails\/thumbnail20150518-3-9pbwlo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/cb23hx_ouya-screenshot20150518-3-15zy91m.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/thumbnails\/thumbnail20150518-3-12mjqfz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/5g8ms7_ouya-screenshot20150518-3-1vuyszo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0adc9edd-2f2c-4d55-82c0-e013d08db304\/thumbnails\/thumbnail20150518-3-wfb5d4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.C64Emu\/detail-3-thumb"
             }
         ]
     },

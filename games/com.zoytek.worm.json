@@ -25,40 +25,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DSIheBUzTj6XJipChkr3",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IUMKMShmSrqfzt6xqSH9",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WVr1cxsQemzW1qb3nEA6",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/q6EIjHT1TnuxduypIqfe",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dtWsAtqT6DwVBVQ3KrZw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PVtxDJGIR3GR9mnnjvcy"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/9jxcoe_ouya-screenshot20141213-2-xqvznf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/thumbnails\/thumbnail20141213-2-18zw4n6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/51mvoz_ouya-screenshot20141213-2-tqevvo.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/thumbnails\/thumbnail20141213-2-1lonkns.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/csa1k0_ouya-screenshot20141213-2-4xudxs.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/thumbnails\/thumbnail20141213-2-lq3o87.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/up756t_ouya-screenshot20141213-2-1693k0o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/thumbnails\/thumbnail20141213-2-1l3s4qt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/bbth5u_ouya-screenshot20141213-2-3e4zh8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2de2bd49-6ba0-4e42-b807-d3ac2f892a68\/thumbnails\/thumbnail20141213-2-1c8nz74.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.zoytek.worm\/detail-5-thumb"
             }
         ]
     },

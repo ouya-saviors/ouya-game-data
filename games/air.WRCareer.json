@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.wrcareer\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AUxeLxhVSXCVP90biN1Y",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_air.WRCareer_1.750\/Xq7IWWJuQNypD5o2yExV.jpg",
@@ -36,23 +36,23 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/285855_ouya-screenshot20141005-2-56i8e8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-eb2g2p.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/7cfzoi_ouya-screenshot20141005-2-4nh9z0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-12n4gc3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/9qbv0s_ouya-screenshot20141005-2-1abtti7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-1976jdw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/em7mkn_ouya-screenshot20141005-2-kahjh4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/81bbe435-0e58-4e52-970a-42f387823d5e\/thumbnails\/thumbnail20141005-2-1eiq5ob.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.WRCareer\/detail-4-thumb"
             }
         ]
     },

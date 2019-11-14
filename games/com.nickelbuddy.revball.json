@@ -25,12 +25,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AteKXoPSJK8x6t9N28mK",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/large",
         "video": "http:\/\/vimeo.com\/108171948",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qGnmhT14T2STeyz3s6Sr",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7YcDBHIfSTisTtEUX0ir",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/AZ5jer2zSQej8Dfyilqu"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/screenshot-3"
         ],
         "details": [
             {
@@ -39,18 +39,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/ry5312_ouya-screenshot20141006-2-154tbrz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/thumbnails\/thumbnail20141006-2-8x9ek2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/4nk7jm_ouya-screenshot20141006-2-fh1kzg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/thumbnails\/thumbnail20141006-2-6xptx0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/zf9963_ouya-screenshot20141006-2-p67tak.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/636ce2f3-6857-4b7a-adf8-43223f4c1b68\/thumbnails\/thumbnail20141006-2-1png9w5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.nickelbuddy.revball\/detail-3-thumb"
             }
         ]
     },

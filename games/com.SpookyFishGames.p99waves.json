@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.spookyfishgames.p99waves\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/sKNvDvHgSkmktFYbrrNV",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/large",
         "video": "https:\/\/vimeo.com\/86134841",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/otBI92i8TQGBvhInx9rc",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vHtsL4frRySZsJKgSMdw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IYoVmJt1SSm4rnW010EQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Iqgy0gaYSNedQJVEd7Ps",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VFKq65NRSsO2ejYoXHfY"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/4qelly_ouya-screenshot20140701-2-t361z6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-8i7rco.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/2v87l1_ouya-screenshot20140701-2-1fcchhg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1ux1o9c.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/hw63ev_ouya-screenshot20140701-2-1h9ltwl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1q6836m.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/8iow1g_ouya-screenshot20140701-2-1isgaqv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1h0zqhs.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/2xn7fw_ouya-screenshot20140701-2-t28202.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/e4a7736c-77c3-437c-ac1b-4d9febf89c33\/thumbnails\/thumbnail20140701-2-1pt2wkt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.SpookyFishGames.p99waves\/detail-5-thumb"
             }
         ]
     },

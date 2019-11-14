@@ -26,7 +26,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xUr1lCjtSECZi3kt4qHL",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/large",
         "video": "http:\/\/vimeo.com\/102169353",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.beaujamesgames.divebombchomp_1.7\/reytcY3YRWieFFktdSXk.jpg",
@@ -43,33 +43,33 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/jtxymw_ouya-screenshot20140818-2-ro0gcq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/thumbnails\/thumbnail20140818-2-cl74di.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/mu5zgm_ouya-screenshot20140818-2-1603iio.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/thumbnails\/thumbnail20140818-2-yc8887.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/f8wyjh_ouya-screenshot20140818-2-35pp38.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/thumbnails\/thumbnail20140818-2-1064pxi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/goaxkf_ouya-screenshot20140818-2-wotxxb.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/thumbnails\/thumbnail20140818-2-1bey5rn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/b5p84u_ouya-screenshot20140818-2-1m7quu8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/thumbnails\/thumbnail20140818-2-1o2akc7.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/2h5ron_ouya-screenshot20140818-2-128cawc.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5217accb-a52e-41ed-9d80-4c21e8c59e4c\/thumbnails\/thumbnail20140818-2-1hxxhde.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.beaujamesgames.divebombchomp\/detail-6-thumb"
             }
         ]
     },

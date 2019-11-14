@@ -24,40 +24,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E7F3bJZkRSK9VEjEKuud",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ld3RCZCSJic2o9h57bKS",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wVE2TouYTAu1DnTIt2jg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iBjK7gMaTwqfIMjkPdwW",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MHVF1MhQrSdrBAepSZYS",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/tCxPPegR72XocPYQHdpA"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/nca60h_ouya-screenshot20140815-2-mep70i.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-q6s1jq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/bw3a7d_ouya-screenshot20140815-2-ja4x0g.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-v02ist.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/lyd5kk_ouya-screenshot20140815-2-14swws2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-1dvrku.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/vgi0nq_ouya-screenshot20140815-2-5y8cej.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-e17w1c.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/x382oo_ouya-screenshot20140815-2-e7lb2i.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/a23c311e-0304-4fad-8b30-2928a945bc74\/thumbnails\/thumbnail20140815-2-1k4vxe0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.jenots.dummytown\/detail-5-thumb"
             }
         ]
     },

@@ -23,14 +23,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XNeXFrEmTDua3rYRXPen",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/large",
         "video": "http:\/\/vimeo.com\/115451619",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NzIpmuZGQYuRX7pmWJQ4",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jiXhfuHSQJiB3601sMyB",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XhQkQABRTOhwR7mbsSKY",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/W8wagaQGQuCLvPqKq68O",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Bbq5eKhZQ2GNcKrcuQ0M"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/screenshot-5"
         ],
         "details": [
             {
@@ -39,28 +39,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/gkxost_ouya-screenshot20141223-2-hfoaws.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/thumbnails\/thumbnail20141223-2-sl2z8w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/h3pxrx_ouya-screenshot20141223-2-1hemqes.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/thumbnails\/thumbnail20141223-2-x2vxa4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/lqjxu_ouya-screenshot20141223-2-kutctk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/thumbnails\/thumbnail20141223-2-34sgcj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/ix620w_ouya-screenshot20141223-2-17nma2q.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/thumbnails\/thumbnail20141223-2-1uy8knq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/gw7zw1_ouya-screenshot20141223-2-ref6yv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/43048eb2-2540-4ed1-b772-fecf27ff87ad\/thumbnails\/thumbnail20141223-2-t1c2o.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gheregames.gearhead\/detail-5-thumb"
             }
         ]
     },

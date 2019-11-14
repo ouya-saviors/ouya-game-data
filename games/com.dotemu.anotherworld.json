@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s5kymFPjQJiTuUmjhdW7",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/large",
         "video": "https:\/\/vimeo.com\/87631348",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.dotemu.anotherworld_1.1.9\/L3XGEpktQI2bDW307Hpi.jpg",
@@ -39,23 +39,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-1ihbqj5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-1bojsme.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-nv39c2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-ufet95.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-1fh6xnp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-d2biw3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/ouya-image20160916-3-npcios.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/422b1597-a383-48c3-8d55-f0b2aaa0bd69\/thumbnail20160916-3-1qai5ht.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.dotemu.anotherworld\/detail-4-thumb"
             }
         ]
     },

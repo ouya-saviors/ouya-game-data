@@ -23,28 +23,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.fantasyworlds\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aITBcn5JSw2BI2RWDZ9i",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LwWDOuF4SOOeyIV3QyvQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TK2uVTVjStP4GlkRetkT",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZAAVPW5SQXyX7Q864cwO"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ab7769e3-b6b5-4bfd-ba46-7b77c64cc295\/qtcpd4_ouya-screenshot20140506-2-m71t7m.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ab7769e3-b6b5-4bfd-ba46-7b77c64cc295\/thumbnails\/thumbnail20140506-2-1bh4gts.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ab7769e3-b6b5-4bfd-ba46-7b77c64cc295\/pnqrdg_ouya-screenshot20140506-2-uq17i7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ab7769e3-b6b5-4bfd-ba46-7b77c64cc295\/thumbnails\/thumbnail20140506-2-81v70g.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ab7769e3-b6b5-4bfd-ba46-7b77c64cc295\/du3x3k_ouya-screenshot20140506-2-17dpw67.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ab7769e3-b6b5-4bfd-ba46-7b77c64cc295\/thumbnails\/thumbnail20140506-2-1cl8waz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.steelteam.rhynn.FantasyWorlds\/detail-3-thumb"
             }
         ]
     },

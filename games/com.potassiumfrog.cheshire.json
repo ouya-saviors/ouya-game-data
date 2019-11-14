@@ -25,12 +25,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WStL3zxFTJ6AszKZYCUQ",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/large",
         "video": "https:\/\/vimeo.com\/106613300",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/s99XbEsSzC17JPnBcE9E",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/xBZsjm6aTAGrygZaRCRO",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dEO7qiwCT8a89hqvv6fp"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/screenshot-3"
         ],
         "details": [
             {
@@ -39,18 +39,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/d2ca0k_ouya-screenshot20140919-2-e2hyy2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/thumbnails\/thumbnail20140919-2-1cxtvef.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/l5wm2i_ouya-screenshot20140919-2-1cr3bfr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/thumbnails\/thumbnail20140919-2-1cyh6ax.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/y997r4_ouya-screenshot20140919-2-lohy22.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/2dc43bec-7f10-4b36-a3fc-0126dde70f77\/thumbnails\/thumbnail20140919-2-u26r01.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.potassiumfrog.cheshire\/detail-3-thumb"
             }
         ]
     },

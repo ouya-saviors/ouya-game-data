@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NDZzmgl6RGak3HAbzUFk",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/large",
         "video": "https:\/\/vimeo.com\/87655273",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.appsolutegames.frightfight_1.12.32.6784\/yFGsiJK8TCe2S02fcUdB.jpg",
@@ -40,28 +40,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/ff9nu6_ouya-screenshot20140730-2-xgwhoq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/thumbnails\/thumbnail20140730-2-g2lpf5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/k36c12_ouya-screenshot20140730-2-2k4dd0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/thumbnails\/thumbnail20140730-2-162jjxj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/4qjhdh_ouya-screenshot20140730-2-7293o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/thumbnails\/thumbnail20140730-2-dkzjxx.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/fl87kl_ouya-screenshot20140730-2-9apa7z.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/thumbnails\/thumbnail20140730-2-1m0tibr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/4xelwo_ouya-screenshot20140730-2-scdhdl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3408e7af-0f49-4d53-9800-51e60b5ad9fc\/thumbnails\/thumbnail20140730-2-1md0zpd.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.appsolutegames.frightfight\/detail-5-thumb"
             }
         ]
     },

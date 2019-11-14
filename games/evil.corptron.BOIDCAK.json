@@ -24,12 +24,12 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.boidcak\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dxMoaLMZQ7aqU9D1nNEt",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/large",
         "video": "https:\/\/vimeo.com\/100556011",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/L09ypMMBQSuJaS4uVYgg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bjbLRvhbSsyDdH20RWzJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CUDScwqLQWSPX2nOsqHr"
+            "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/screenshot-3"
         ],
         "details": [
             {
@@ -38,18 +38,18 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a9433a4-f313-4e5a-bbb8-02bedfb1b07a\/plw8yn_ouya-screenshot20140716-2-100en96.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a9433a4-f313-4e5a-bbb8-02bedfb1b07a\/thumbnails\/thumbnail20140716-2-c9ojit.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a9433a4-f313-4e5a-bbb8-02bedfb1b07a\/ja2b6j_ouya-screenshot20140716-2-1j5ixeq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a9433a4-f313-4e5a-bbb8-02bedfb1b07a\/thumbnails\/thumbnail20140716-2-bspncj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a9433a4-f313-4e5a-bbb8-02bedfb1b07a\/qvhd3z_ouya-screenshot20140716-2-v7kjss.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/3a9433a4-f313-4e5a-bbb8-02bedfb1b07a\/thumbnails\/thumbnail20140716-2-f1m1lv.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/evil.corptron.BOIDCAK\/detail-3-thumb"
             }
         ]
     },

@@ -26,7 +26,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/iKFeKhS6QqKFNKOHrbNU",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/large",
         "video": "http:\/\/vimeo.com\/103313081",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_se.skoggy.darkroastexample.android_1.0\/NQ8GI3VlTCBfXZF5x4OG.jpg",
@@ -41,23 +41,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/nv4kul_ouya-screenshot20140813-2-jqve65.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-spv7s6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/ory1gv_ouya-screenshot20140813-2-12f0cfh.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-agyyt1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/degzrm_ouya-screenshot20140813-2-vged2t.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-1yz14g3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/i3w67g_ouya-screenshot20140813-2-1lmbkqm.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/824b1173-1bbc-4e73-b41a-8229c9330824\/thumbnails\/thumbnail20140813-2-15bzekr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/se.skoggy.darkroastexample.android\/detail-4-thumb"
             }
         ]
     },

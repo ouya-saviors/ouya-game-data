@@ -29,17 +29,17 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.joylinegames.bruhadventure\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/60MsZSCcRymaBKY4heZK",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/large",
         "video": "https:\/\/vimeo.com\/147086675",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5iVqF4RxqOkMYo2oIqvQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ofhcQSxXT21YmrEn0mw0",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/M33J2HIdTh63XBXNNkx2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mMoagDlPRbWNrygwrgGW",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ZzT00GQtS2am8wb7jlqj",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oqnQsXCRqKP4NtJtaT4D",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qcu8JYGQt2GtJIVOWyT7",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/VkNkhF22SLmDqZn9pF7T"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/screenshot-8"
         ],
         "details": [
             {
@@ -48,43 +48,43 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/3nr0de_ouya-screenshot20151127-3-18rn4r6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-s2mt7g.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/tnme6g_ouya-screenshot20151127-3-hqettq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-masaoa.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/1us5on_ouya-screenshot20151127-3-1y52pkr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-1x08mms.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/6erfx5_ouya-screenshot20151127-3-k4q1h0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-7d0k52.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/rfh5dw_ouya-screenshot20151127-3-1br2mj4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-w22int.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/qwbyil_ouya-screenshot20151127-3-2bz1w0.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-e6t1k6.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/m32nts_ouya-screenshot20151127-3-ukduff.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-1kqo7q.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/3u69uh_ouya-screenshot20151127-3-18g25qj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/09131ff1-5045-40b0-a209-a094549c13f3\/thumbnails\/thumbnail20151127-3-1s2s911.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Joylinegames.BruhAdventure\/detail-8-thumb"
             }
         ]
     },

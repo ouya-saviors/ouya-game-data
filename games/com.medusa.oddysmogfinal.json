@@ -24,15 +24,15 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2kj5FlO0QZ6VRJdzSCR1",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/large",
         "video": "http:\/\/vimeo.com\/104999591",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/pQAKVflUT4acvCbgOAGl",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eDyzG62FSGSx2JnCyOdg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/IEJjJDhNRsGTUGMjbN6I",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/bIa4mU1QQuyhsFzRdC2j",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QwZroU3PRcC4RdzZAXkl",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WVX6FRMiTfqZh80EoyUm"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/screenshot-6"
         ],
         "details": [
             {
@@ -41,33 +41,33 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/lyocdg_ouya-screenshot20140904-2-lalv0e.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/thumbnails\/thumbnail20140904-2-1g28uej.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/q4ilu7_ouya-screenshot20140904-2-1acxufg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/thumbnails\/thumbnail20140904-2-frh6yb.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/czycw2_ouya-screenshot20140904-2-1ybymzr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/thumbnails\/thumbnail20140904-2-qpuv5p.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/y5s9nb_ouya-screenshot20140904-2-12fcpax.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/thumbnails\/thumbnail20140904-2-1uns1bo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/j0sb2s_ouya-screenshot20140904-2-1yydjjt.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/thumbnails\/thumbnail20140904-2-n7v21a.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/1jwrf5_ouya-screenshot20140904-2-1ud86kp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0fd76991-87cb-4748-bce6-79e5ee0b2fff\/thumbnails\/thumbnail20140904-2-1x8mi1n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.medusa.oddysmogfinal\/detail-6-thumb"
             }
         ]
     },

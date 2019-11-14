@@ -26,14 +26,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ipLMff2CRx7Dk42JH85b",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/large",
         "video": "https:\/\/vimeo.com\/115881685",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/jxuoONyZTZeujvpYcuvg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mfIuuMbQoumGrzICaGRO",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/3h4OiRvITt2SxSpGs5xq",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7jD7OP7sTRytb6aYmY0A",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/WBijX08GTXeswwnBlQZt"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/screenshot-5"
         ],
         "details": [
             {
@@ -42,28 +42,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/kg30x6_ouya-screenshot20151220-3-1k1qzta.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/thumbnails\/thumbnail20151220-3-n0r9jf.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/86pf6l_ouya-screenshot20151220-3-1xj15wx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/thumbnails\/thumbnail20151220-3-1r4d58u.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/zayjig_ouya-screenshot20151220-3-6g2hh8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/thumbnails\/thumbnail20151220-3-1fc270n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/kbv7xa_ouya-screenshot20151220-3-qgwy50.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/thumbnails\/thumbnail20151220-3-1hvc5c7.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/j1fru1_ouya-screenshot20151220-3-qtt3hd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0964f41e-8b53-45c3-be90-98097e9f49ba\/thumbnails\/thumbnail20151220-3-17bofgt.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.krisattfield.doorlessdarts\/detail-5-thumb"
             }
         ]
     },

@@ -28,40 +28,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ssgames.training\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XO2ikrwRSCWkFHXgZs5r",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HUTm8W6R8KtOfLqWlZ1M",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vvhUMWH1TRCD1fv2DIsI",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/4YcvALSjS5GJSE0PgUzw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DcSFyk8CSzi3drk9EXwv",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PXCjdO9GQiS3lHffvIlJ"
+            "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/9ebms1_ouya-screenshot20150813-3-bj92h7.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-w2nxsl.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/8ii5fx_ouya-screenshot20150813-3-1ujx87b.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-116x9jo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/6o2of7_ouya-screenshot20150813-3-iyly2a.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-1kxy7jq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/rjqy3s_ouya-screenshot20150813-3-1lrsnl4.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-27dh3x.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/wigr3k_ouya-screenshot20150813-3-90g9y6.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5def9dac-5c87-44fa-a816-4e1f58495a3f\/thumbnails\/thumbnail20150813-3-1wt5nfc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/Com.SSGames.Training\/detail-5-thumb"
             }
         ]
     },

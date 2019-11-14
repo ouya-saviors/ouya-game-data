@@ -26,13 +26,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/CkJGZ5XRgGxr9MpoCl8t",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/large",
         "video": "https:\/\/vimeo.com\/132937249",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5xDGaOb1T3uBkx9dNpcF",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/I7eJeLdDRGug39BeP6LJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Kwyr3IawR0fRqmBoXCzb",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Jhd723kLSJi5goyZjguU"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/screenshot-4"
         ],
         "details": [
             {
@@ -41,23 +41,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/vsdk36_ouya-screenshot20150812-3-f8rr4i.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-7as34d.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/fzvkvt_ouya-screenshot20150812-3-1qsrsnj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-1n758q1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/7mzmtd_ouya-screenshot20150812-3-yl2fwu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-bssxcr.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/t0dgkm_ouya-screenshot20150812-3-13tyene.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/1dc5f5e8-2d61-4c24-a7e5-1bb678dbc9d0\/thumbnails\/thumbnail20150812-3-1sh5vor.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gloriousapps.ultimatesquares.android\/detail-4-thumb"
             }
         ]
     },

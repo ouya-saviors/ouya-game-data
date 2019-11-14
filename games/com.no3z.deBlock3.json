@@ -24,14 +24,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deblock3\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/na6dyOKRObxHYQ0JlLeg",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/large",
         "video": "https:\/\/vimeo.com\/104504828",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MqXhpt9fTJig0ZS8IFyg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XUV2eAc8RyiQmYOF2EYm",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MXPqxBD5QWiH7hA6AguS",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HnbaCowqQtWXMoiZlJmY",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Gd3KvBrSYyrJpyp1hONw"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/screenshot-5"
         ],
         "details": [
             {
@@ -40,28 +40,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/7sovgu_ouya-screenshot20140826-2-1vbo5q.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140826-2-1ik3qv2.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/crb1p1_ouya-screenshot20140827-2-lg92br.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-73bcrd.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/iw4c4a_ouya-screenshot20140827-2-1sx8206.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-1nsng17.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/9ph26o_ouya-screenshot20140827-2-17brhtr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-1c9o7dh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/j4s5up_ouya-screenshot20140827-2-1a5uz6x.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/66360c15-1bdf-4f16-8125-b77376fbf33d\/thumbnails\/thumbnail20140827-2-1fo433v.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.no3z.deBlock3\/detail-5-thumb"
             }
         ]
     },

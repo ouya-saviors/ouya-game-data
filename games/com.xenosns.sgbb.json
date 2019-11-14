@@ -23,7 +23,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/vjr80xYRCW8PKd3A1gUJ",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.xenosns.sgbb_1.0.3\/GYck8H84RsSeoBt9n11M.jpg",
@@ -34,23 +34,23 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/b6lnhn_ouya-screenshot20140726-2-1k55uux.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-u6k46r.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/ks8acp_ouya-screenshot20140726-2-1p393cz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-1eazyzs.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/veiffw_ouya-screenshot20140726-2-19aa414.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-1uko0cn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/u38yj1_ouya-screenshot20140726-2-1cxwjk2.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/6e970a1a-ecb5-419d-9a9f-df638b410030\/thumbnails\/thumbnail20140726-2-13v3wng.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.xenosns.sgbb\/detail-4-thumb"
             }
         ]
     },

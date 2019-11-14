@@ -25,40 +25,40 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamedisciples.gd\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/LPrbAl6nSoq3MgVzD38J",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/MX9dQcJRTa258YyR1WB8",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/T4lxBgthQnGT0eBFPA6L",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/aUWnKtkTuaaYaO9fQDIf",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Vtg1YxMpQfOhMfT3NrTm",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/2qDwPbQ2eMmX0jHp6SQX"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/9b8t5t_ouya-screenshot20140813-2-wb6q6o.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1rvo9y7.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/bg8dbh_ouya-screenshot20140813-2-1t2y2xv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-y9nmiu.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/itsg6d_ouya-screenshot20140813-2-1j8uteu.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1dfw5em.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/c02mzd_ouya-screenshot20140813-2-1gqukpr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1qh5cz1.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/fbt02y_ouya-screenshot20140813-2-16kmr25.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/fbf29ae4-bd7f-4d94-8776-9d617bdc7517\/thumbnails\/thumbnail20140813-2-1gweapc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.GameDisciples.GD\/detail-5-thumb"
             }
         ]
     },

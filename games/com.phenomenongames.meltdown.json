@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/k4JJJUtRJG1zlzJ8Igba",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/large",
         "video": "https:\/\/vimeo.com\/80272383",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.phenomenongames.meltdown_1.6\/zKhDM6LOT0SKXqvIR0gb.jpg",
@@ -43,28 +43,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/mecnpu_ouya-screenshot20141223-2-88lnrj.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-1sm1qah.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/wvwv5i_ouya-screenshot20141223-2-k16el5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-zu2e8c.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/mtsu2a_ouya-screenshot20141223-2-oalsdf.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-xu915l.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/wbi8c6_ouya-screenshot20141223-2-pu3vn5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-jw4hd0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/er439e_ouya-screenshot20141223-2-1xcfz5n.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/7e3f3a43-cfc3-4db2-bdbd-58c6005465df\/thumbnails\/thumbnail20141223-2-9j7l11.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.phenomenongames.meltdown\/detail-5-thumb"
             }
         ]
     },

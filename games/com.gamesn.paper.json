@@ -24,28 +24,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/E8zrWNoMTWWmYZAyK4nM",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/liINuoGxTbq77eoSna9t",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/EQaCH3ZS4Ku94ArazvkA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NMyPV5SpRdSiNHRQtNrA"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/bi5e42_ouya-screenshot20140710-2-18o9hbs.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/thumbnails\/thumbnail20140710-2-1qnv6au.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/6dwtar_ouya-screenshot20140710-2-17afzxv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/thumbnails\/thumbnail20140710-2-i7snm3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/o2ndzb_ouya-screenshot20140710-2-1542fsg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/643f77df-dc8f-4da9-89df-7f2331ca94ef\/thumbnails\/thumbnail20140710-2-1hjm0k0.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesn.paper\/detail-3-thumb"
             }
         ]
     },

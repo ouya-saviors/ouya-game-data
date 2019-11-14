@@ -25,13 +25,13 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Fq7AV2JZSTyHfpXmgDhQ",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/large",
         "video": "https:\/\/vimeo.com\/107418629",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BMxRVJHPTCGt9ZoMdACh",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/P3CtY16zSiO0EdGEyQJ2",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/dg2pyLyToOskqCXYJXAQ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/fXv0XOSQfO2WGh0KS7Lz"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/screenshot-4"
         ],
         "details": [
             {
@@ -40,23 +40,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/vy78fn_ouya-screenshot20150219-3-1hsx5h8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/thumbnails\/thumbnail20150219-3-rbk59a.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/j044f6_ouya-screenshot20150219-3-1aitudk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/thumbnails\/thumbnail20150219-3-b3021l.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/bie78h_ouya-screenshot20150219-3-7kc9gi.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/thumbnails\/thumbnail20150219-3-1iokjro.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/31ff8i_ouya-screenshot20150219-3-g0gtmz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c411132d-efb0-4891-b435-89c9c2e82307\/thumbnails\/thumbnail20150219-3-1py0340.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.holymonkeystudio.snappyturtle\/detail-4-thumb"
             }
         ]
     },

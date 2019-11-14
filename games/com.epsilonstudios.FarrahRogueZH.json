@@ -24,7 +24,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.farrahroguezh\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/F7G6WTRNSzyGBjDwvl7w",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/large",
         "video": "https:\/\/vimeo.com\/99194248",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.epsilonstudios.FarrahRogueZH_1.0\/4XMnHxeMQ6W3IQ3Da9Cp.jpg",
@@ -39,23 +39,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/efxr8w_ouya-screenshot20140625-2-184eq5w.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-1m3fk1t.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/kirpuy_ouya-screenshot20140625-2-1qvihzr.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-bdax11.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/ss6xwo_ouya-screenshot20140625-2-1pzmzkq.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-1ccxknc.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/nj3khu_ouya-screenshot20140625-2-1albc06.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/ba6c711e-a5f5-4fad-abac-c8fcbcd9d2c3\/thumbnails\/thumbnail20140625-2-6g8p9r.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.epsilonstudios.FarrahRogueZH\/detail-4-thumb"
             }
         ]
     },

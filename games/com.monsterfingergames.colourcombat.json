@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/9hI1yPf4QlqJ0KULI2Qr",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/large",
         "video": "http:\/\/vimeo.com\/115631291",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.monsterfingergames.colourcombat_1.0\/EJC5QBgTkSbP4kSzpJdM.jpg",
@@ -42,23 +42,23 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/ql63ee_ouya-screenshot20141230-2-18qjnx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-1jdvj3k.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/jqm5hr_ouya-screenshot20141230-2-ll5ttk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-1c3yovd.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/qz2266_ouya-screenshot20141230-2-1xfwvbx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-fyo31y.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/4yk6et_ouya-screenshot20141230-2-15mt69c.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/5c63b2f5-8b22-4058-a97d-3220c710f089\/thumbnails\/thumbnail20141230-2-1yhch7e.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.monsterfingergames.colourcombat\/detail-4-thumb"
             }
         ]
     },

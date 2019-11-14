@@ -24,28 +24,28 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/skhqCvj4T0OxDeIelkv6",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Qva5VCyTCSSLUCdEcrHl",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/le5tTpExTnWkncHQa71f",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/GbmVWjoOQHy6Alvzs5ji"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/ewhcew_ouya-screenshot20140623-2-14ldew.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/thumbnails\/thumbnail20140623-2-lfd62a.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/4hhcuy_ouya-screenshot20140623-2-pr50py.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/thumbnails\/thumbnail20140623-2-1gmcrr9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/fafgq6_ouya-screenshot20140623-2-13e90fl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b73c4232-038a-4422-86da-900c6702d976\/thumbnails\/thumbnail20140623-2-6jsokp.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.mygdx.beltbarrage.android\/detail-3-thumb"
             }
         ]
     },

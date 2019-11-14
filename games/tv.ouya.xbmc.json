@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RgYQYky6RrC0jAWD5dK5",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_tv.ouya_4.1.2-1427\/n76gMAshQwaqk6z9Atb3.jpg",
@@ -37,28 +37,28 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-351jh6",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-1b0jmxj.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-1eoj8cw",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-1npenqw.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-17jjz6f",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-1qc10bw.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-1gqslgh",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-7803aj.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/ouya-image20161107-3-x0fh22",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/aaeae2da-65c1-4cb9-8b31-ee8f1569d0ca\/thumbnail20161107-3-c8igjd.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/tv.ouya.xbmc\/detail-5-thumb"
             }
         ]
     },

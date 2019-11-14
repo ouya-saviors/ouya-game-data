@@ -25,14 +25,14 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/c5XlbasQn2BsG05RG7kk",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/large",
         "video": "https:\/\/vimeo.com\/77857658",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BzUsyD15QN2D9OzUUSqk",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/hni8Zhf1SgiHTi66tsi8",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/N8b9yoqZQnirADSXTFLy",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ebtaBUvPSV6KiJlThuNd",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/PmIMfgbsTEGRK1ZJWDQu"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/screenshot-5"
         ],
         "details": [
             {
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/yz3guw_ouya-screenshot20150331-3-o4doha.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-hjzu83.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/roj39c_ouya-screenshot20150331-3-19l7ni8.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-obn7yh.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/rx8zu6_ouya-screenshot20150331-3-s0js4s.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-cy7mob.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/pm4l0m_ouya-screenshot20150331-3-18vyhkg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-1wr4m1o.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/etbfvs_ouya-screenshot20150331-3-1nu8hqg.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/cb74db0f-4e4b-442c-a99d-a66f601bfc14\/thumbnails\/thumbnail20150331-3-4q62ez.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ifightbears.abitofafistofawesome\/detail-5-thumb"
             }
         ]
     },

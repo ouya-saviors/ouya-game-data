@@ -26,7 +26,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/QcCvpEaRBK2aJX5tPHhg",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_de.bollaware.bsven_6.1\/4AYPavyJT7qlAfeRjMcB.jpg",
@@ -39,33 +39,33 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/poxymv_ouya-screenshot20141012-2-3c6n1v.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-16tinkw.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/etobcs_ouya-screenshot20141012-2-kkxh3r.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-1jfpv7v.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/fulkzh_ouya-screenshot20141012-2-126me76.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-bsxog9.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/97c99g_ouya-screenshot20141012-2-j8yhlx.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-1v4l4s5.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/559efz_ouya-screenshot20141012-2-1lge75i.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-1spl684.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/83mjj_ouya-screenshot20141012-2-1q5d1rp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/b61d782a-c81d-4716-b323-c881523e7833\/thumbnails\/thumbnail20141012-2-18pnj4b.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/de.bollaware.bsven\/detail-6-thumb"
             }
         ]
     },

@@ -27,7 +27,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Z3KgwV2QRsO2n9cjBdv2",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/large",
         "video": null,
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.limelight_5.6\/yEj3etn9QriqkO9GFOvQ.jpg",
@@ -37,18 +37,18 @@
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/ouya-image20171128-3-7yrs1r",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/thumbnail20171128-3-st0fgd.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/ouya-image20171128-3-1uwy3cz",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/thumbnail20171128-3-nsbnnj.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/ouya-image20171128-3-txcoee",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/62c70c72-6902-4f54-9191-07b97a27de1e\/thumbnail20171128-3-17y96ux.png"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.limelight\/detail-3-thumb"
             }
         ]
     },

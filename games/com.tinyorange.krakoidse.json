@@ -25,21 +25,21 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BylcdtSHTx2YHnZmssse",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/large",
         "video": "https:\/\/vimeo.com\/105044253",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rLcn77nxRpKkmZP7msDN",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UBRt2FJSQLyBuZrN4DEn",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/b68aOQK2J6lBlEZoIJQF",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Ae3npu3QWuXNxczEpqwt",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ENvRD8bHRpNoZvr1qJoR",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/cpV6ndUMSoi61Lq7z48V",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wkzZaOkRJGAu0tZwvq0K",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Buj4n59hRGxDEEQqlxzh",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/Y1pnoUtGTnek3veYnbGU",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/HMGXERSSnmirfxNNxTpM",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/D6zn0ybuQR6RroujRv7n",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/5KAVMqcERUWNdDkrvnhs"
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-4",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-5",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-6",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-7",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-8",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-9",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-10",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-11",
+            "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/screenshot-12"
         ],
         "details": [
             {
@@ -48,63 +48,63 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/bn7m4p_ouya-screenshot20141124-2-1blpd2y.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-mt2d2w.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/7eylm7_ouya-screenshot20141124-2-1giauoc.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-14s1r2n.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/mifqie_ouya-screenshot20141124-2-6h8hgn.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-1qeusfz.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/uxq55z_ouya-screenshot20141124-2-x5f5qt.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-wjpvp4.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/egrhpe_ouya-screenshot20141124-2-awkbgv.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-x7v4xj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/knk6ff_ouya-screenshot20141124-2-11s2u01.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-chhcsi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-6",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/nn8b3w_ouya-screenshot20141124-2-32w402.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-16bknrk.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-7",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/797y4n_ouya-screenshot20141124-2-136tbnd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-1u7qbpj.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-8",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-8-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/i3tcuz_ouya-screenshot20141124-2-obbamz.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-19mi2qi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-9",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-9-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/rp94lj_ouya-screenshot20141124-2-tdew04.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-1lvfu61.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-10",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-10-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/wmf0os_ouya-screenshot20141124-2-cxx0py.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-padh7h.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-11",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-11-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/9pmdzs_ouya-screenshot20141124-2-1qzqin5.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/c84dc1a6-52fe-4740-819b-72ed65e72042\/thumbnails\/thumbnail20141124-2-1kixjt3.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-12",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tinyorange.krakoidse\/detail-12-thumb"
             }
         ]
     },

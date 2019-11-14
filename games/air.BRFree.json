@@ -25,34 +25,34 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/air.brfree\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ulL2IZvnTFyTXRpUnrlE",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/large",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/mhSXtHF6SFeBKQE3GVds",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eoAFRVPjRY6tLJY6OAkU",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/UZFPq2gSLOK7x0LFXdZw",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/DJPYC29uS8OiBMSnHmJd"
+            "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/screenshot-1",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/screenshot-2",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/screenshot-3",
+            "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/w5qwn2_ouya-screenshot20141005-2-1k9gtrl.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-e10rdn.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/d5so5d_ouya-screenshot20141005-2-jso50l.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-14rk0eq.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/7nhx37_ouya-screenshot20141005-2-1wef601.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-b5rt65.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/lv1qsq_ouya-screenshot20141005-2-pf463a.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/0736dc06-ad9f-4410-a118-138e23918179\/thumbnails\/thumbnail20141005-2-lroybi.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/air.BRFree\/detail-4-thumb"
             }
         ]
     },

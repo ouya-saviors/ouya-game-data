@@ -25,7 +25,7 @@
     ],
     "media": {
         "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.thinice.twinrobots\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/yHSrQGsSTSGBodBUnvss",
+        "large": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/large",
         "video": "https:\/\/vimeo.com\/82265024",
         "screenshots": [
             "https:\/\/archive.org\/download\/ouya_com.Thinice.TwinRobots_1.83\/XSwH3RKJS8af979DAASh.jpg",
@@ -41,28 +41,28 @@
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/6zu4i_ouya-screenshot20140908-2-v6sagk.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-169l4ba.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-1",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/hf5wb9_ouya-screenshot20140908-2-1ek29cp.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-2tsn7r.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-2",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/y2ncgr_ouya-screenshot20140908-2-x291ta.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-1nfpjdo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-3",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/rzf28u_ouya-screenshot20140908-2-2heq7w.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-x1df53.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-4",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/y7qxu5_ouya-screenshot20140908-2-17ozzyd.jpeg",
-                "thumb": "https:\/\/s3.amazonaws.com\/ouya-screenshots\/d6192b56-9ca9-4f06-901c-e6b585b76091\/thumbnails\/thumbnail20140908-2-g9gjmo.jpeg"
+                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-5",
+                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.Thinice.TwinRobots\/detail-5-thumb"
             }
         ]
     },
