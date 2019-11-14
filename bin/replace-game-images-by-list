@@ -1,0 +1,59 @@
+#!/usr/bin/env php
+<?php
+/**
+ * Replace all game image URLs listed in the given CSV file with
+ * the ones in the second CSV column
+ */
+if (!isset($argv[1])) {
+    fwrite(STDERR, "CSV file missing\n");
+    exit(1);
+}
+$imageUrlMapFile = $argv[1];
+
+$hdl = fopen($imageUrlMapFile, 'r');
+if (!$hdl) {
+    fwrite(STDERR, "Cannot load image url map file\n");
+}
+$mapping = [];
+while ($data = fgetcsv($hdl, 4096, ',')) {
+    if (count($data) == 2) {
+        $mapping[$data[0]] = $data[1];
+    }
+}
+if (count($mapping) == 0) {
+    fwrite(STDERR, "Image url map file is empty\n");
+}
+
+
+$files = glob(__DIR__ . '/../games/*.json');
+foreach ($files as $file) {
+    $data = json_decode(file_get_contents($file));
+    $package = $data->packageName;
+    replaceImage($data->media->discover);
+    replaceImage($data->media->large);
+    if (count($data->media->screenshots ?? [])) {
+        $pos = 0;
+        foreach ($data->media->screenshots as &$url) {
+            replaceImage($url);
+        }
+    }
+    if (count($data->media->details ?? [])) {
+        $pos = 0;
+        foreach ($data->media->details as $detail) {
+            if ($detail->type == 'image') {
+                replaceImage($detail->url);
+                replaceimage($detail->thumb);
+            }
+        }
+    }
+    file_put_contents($file, json_encode($data, JSON_PRETTY_PRINT) . "\n");
+}
+
+function replaceImage(&$url)
+{
+    global $mapping;
+    if (isset($mapping[$url])) {
+        $url = $mapping[$url];
+    }
+}
+?>
