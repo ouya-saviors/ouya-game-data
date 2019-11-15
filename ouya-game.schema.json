@@ -147,6 +147,17 @@
                     "nativeSize": {
                         "description": "FIXME",
                         "type": "number"
+                    },
+                    
+                    "releaseType": {
+                        "description": "What quality of a release this is",
+                        "default": "general",
+                        "type": "string",
+                        "enum": [
+                            "alpha",
+                            "beta",
+                            "general"
+                        ]
                     }
                 }
             }
