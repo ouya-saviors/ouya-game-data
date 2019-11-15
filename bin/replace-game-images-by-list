@@ -52,6 +52,19 @@ foreach ($files as $file) {
 function replaceImage(&$url)
 {
     global $mapping;
+
+    preg_match('#https://www.filepicker.io/api/file/([^/]+)/convert\?w=720#', $url, $matches);
+    if (isset($matches[1])) {
+        $url = 'https://d3e4aumcqn8cw3.cloudfront.net/api/file/' . $matches[1];
+    }
+
+    if (strlen($url) == 55) {
+        preg_match('#https://www.filepicker.io/api/file/([^/]+)$#', $url, $matches);
+        if (isset($matches[1])) {
+            $url = 'https://d3e4aumcqn8cw3.cloudfront.net/api/file/' . $matches[1];
+        }
+    }
+
     if (isset($mapping[$url])) {
         $url = $mapping[$url];
     }
