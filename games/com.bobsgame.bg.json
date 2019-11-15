@@ -22,45 +22,15 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.bobsgame.bg\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/6eFCjbbLRqN0XoNk8OZv",
+        "discover": "https:\/\/archive.org\/download\/ouya_com.bobsgame.bg_0.1\/00ICON.png",
+        "large": "https:\/\/archive.org\/download\/ouya_com.bobsgame.bg_0.1\/00ICON.png",
         "video": "https:\/\/vimeo.com\/82601357",
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qqoxahjSRRuI9ujRQ1RG",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OvmGQHEUTjOlhBYrlmFr",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wuzKRHsQAeolVSbGjjbi",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a0LtJoHJTjcqI8VGqkk8",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oI4CH9pYRBiTvsOgnoWS"
         ],
         "details": [
             {
                 "type": "video",
                 "url": "https:\/\/vimeo.com\/82601357"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/qqoxahjSRRuI9ujRQ1RG",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/qqoxahjSRRuI9ujRQ1RG\/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/OvmGQHEUTjOlhBYrlmFr",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/OvmGQHEUTjOlhBYrlmFr\/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/wuzKRHsQAeolVSbGjjbi",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/wuzKRHsQAeolVSbGjjbi\/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/a0LtJoHJTjcqI8VGqkk8",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/a0LtJoHJTjcqI8VGqkk8\/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/oI4CH9pYRBiTvsOgnoWS",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/oI4CH9pYRBiTvsOgnoWS\/convert?w=245"
             }
         ]
     },

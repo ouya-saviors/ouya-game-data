@@ -23,30 +23,12 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.jslgames.enyo\/discover",
-        "large": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/BzoQsehyQ8OS9Yz7KXS2",
+        "discover": "https:\/\/archive.org\/download\/ouya_com.jslgames.enyo_1.0.1\/00ICON.png",
+        "large": "https:\/\/archive.org\/download\/ouya_com.jslgames.enyo_1.0.1\/00ICON.png",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FdRrXsIEToec2Oyu3ByA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NVuRBEjeTPSAH1RwSxxj",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l1JnPcSVTHOlwtf4zTTT"
         ],
         "details": [
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/FdRrXsIEToec2Oyu3ByA",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/FdRrXsIEToec2Oyu3ByA\/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/NVuRBEjeTPSAH1RwSxxj",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/NVuRBEjeTPSAH1RwSxxj\/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/l1JnPcSVTHOlwtf4zTTT",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/l1JnPcSVTHOlwtf4zTTT\/convert?w=245"
-            }
         ]
     },
     "developer": {
