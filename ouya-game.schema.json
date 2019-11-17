@@ -149,14 +149,14 @@
                         "type": "number"
                     },
                     
-                    "releaseType": {
+                    "stability": {
                         "description": "What quality of a release this is",
-                        "default": "general",
+                        "default": "stability",
                         "type": "string",
                         "enum": [
                             "alpha",
                             "beta",
-                            "general"
+                            "stable"
                         ]
                     }
                 }
