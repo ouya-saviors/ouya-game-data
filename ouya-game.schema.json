@@ -155,19 +155,12 @@
         "media": {
             "type": "object",
             "required": [
-                "discover",
-                "large"
+                "discover"
             ],
             "additionalProperties": false,
             "properties": {
                 "discover": {
-                    "description": "Image for the OUYA discover store. FIXME: Size",
-                    "type": "string",
-                    "format": "url"
-                },
-
-                "large": {
-                    "description": "Large game cover image for the store details page.",
+                    "description": "Main game image. Used in the OUYA discover store. Size 732x412",
                     "type": "string",
                     "format": "url"
                 },
