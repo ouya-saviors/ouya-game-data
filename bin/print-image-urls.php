@@ -13,7 +13,6 @@ foreach ($files as $file) {
     $data = json_decode(file_get_contents($file));
     $package = $data->packageName;
     collectFile($package, $data->media->discover, 'discover');
-    collectFile($package, $data->media->large, 'large');
     if (count($data->media->screenshots ?? [])) {
         $pos = 0;
         foreach ($data->media->screenshots as $url) {

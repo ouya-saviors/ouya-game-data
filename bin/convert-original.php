@@ -115,7 +115,6 @@ $gameData = [
 
     'media' => [
         'discover'    => 'http://ouya.cweiske.de/game-images/' . strtolower($package) . '/discover',
-        'large'       => $appsData->app->mainImageFullUrl,
         'video'       => $appsData->app->videoUrl,
         'screenshots' => $appsData->app->filepickerScreenshots,
         'details'     => details($detailsData->mediaTiles),

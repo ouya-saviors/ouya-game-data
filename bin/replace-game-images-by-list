@@ -30,7 +30,6 @@ foreach ($files as $file) {
     $data = json_decode(file_get_contents($file));
     $package = $data->packageName;
     replaceImage($data->media->discover);
-    replaceImage($data->media->large);
     if (count($data->media->screenshots ?? [])) {
         $pos = 0;
         foreach ($data->media->screenshots as &$url) {
