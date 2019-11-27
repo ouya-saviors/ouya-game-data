@@ -8,7 +8,7 @@
  *     - 583 in internet archive
  * - filepicker-URLs have the same IDs as cloudfront, and are down :/
  */
-$files = glob(__DIR__ . '/../games/*.json');
+$files = glob(__DIR__ . '/../classic/*.json');
 foreach ($files as $file) {
     $data = json_decode(file_get_contents($file));
     $package = $data->packageName;
