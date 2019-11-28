@@ -1,0 +1,11 @@
+language: minimal
+dist: bionic
+addons:
+  apt:
+    packages:
+      python3-pip
+      php-json-schema
+before_script:
+  - sudo pip3 install jsonschema
+script:
+  - ./bin/validate-all-games.sh
