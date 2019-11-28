@@ -1,6 +1,8 @@
 **************
 OUYA game data
 **************
+.. image:: https://travis-ci.com/ouya-saviors/ouya-game-data.svg?branch=master
+    :target: https://travis-ci.com/ouya-saviors/ouya-game-data
 
 Meta data of games for the OUYA console.
 Use them to populate your own "Discover" server.
