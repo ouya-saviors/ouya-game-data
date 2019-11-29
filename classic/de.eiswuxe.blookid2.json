@@ -7,7 +7,8 @@
     ],
     "genres": [
         "Platformer",
-        "Retro"
+        "Retro",
+        "Unlocked"
     ],
     "releases": [
         {
@@ -71,5 +72,8 @@
         "likeCount": 0,
         "average": 4.1,
         "count": 355
+    },
+    "links": {
+        "unlocked": "de.eiswuxe.blookid2_unlocked"
     }
 }
