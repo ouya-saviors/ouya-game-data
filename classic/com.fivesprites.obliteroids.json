@@ -1,12 +1,12 @@
 {
     "packageName": "com.fivesprites.obliteroids",
     "title": "Obliteroids",
-    "description": "Obliteroids is a completely free remake of the original Asteroids, but this time with two player support! Blast away with your buddy or take it out on them by bouncing their ship into an Asteroid, or alternatively - capture an asteroid and fling it at them for extra points! If you're feeling really kind you could always donate them a life if they've run out - but watch how many lives you have!\r\n\r\nControls:  \r\n\r\n- L1 or R1 to toggle bezel (on titlescreen only)\r\n- Left stick to turn\r\n- R2 -> Thrust\r\n- O -> Shoot \/ Join game\r\n- U -> Hold to capture an asteroid. Release to fling it!\r\n- Y -> Donate a life to the other player\r\n- A -> Hyperspace jump\r\n\r\nv1.03: Adjusted controller deadzones to be more agressive",
+    "description": "Obliteroids is a completely free remake of the original Asteroids, but this time with two player support! Blast away with your buddy or take it out on them by bouncing their ship into an Asteroid, or alternatively - capture an asteroid and fling it at them for extra points! If you're feeling really kind you could always donate them a life if they've run out - but watch how many lives you have!\r\n\r\nControls:  \r\n\r\n- L1 or R1 to toggle bezel (on titlescreen only)\r\n- Left stick to turn\r\n- R2 -> Thrust\r\n- O -> Shoot / Join game\r\n- U -> Hold to capture an asteroid. Release to fling it!\r\n- Y -> Donate a life to the other player\r\n- A -> Hyperspace jump\r\n\r\nv1.03: Adjusted controller deadzones to be more agressive",
     "players": [
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Retro"
     ],
     "releases": [
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "6f10a4de-ac1b-486e-a4f0-e08c52feda1d",
             "date": "2014-04-29T19:05:12Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.fivesprites.obliteroids_1.03\/Obliteroids_1.03_com.fivesprites.obliteroids.apk",
+            "url": "https://archive.org/download/ouya_com.fivesprites.obliteroids_1.03/Obliteroids_1.03_com.fivesprites.obliteroids.apk",
             "size": 1864882,
             "md5sum": "c8b8652c1b26eca00a91959a4400d656",
             "publicSize": 299778,
@@ -23,40 +23,40 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.fivesprites.obliteroids\/screenshot-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.fivesprites.obliteroids/screenshot-5-thumb"
             }
         ]
     },
@@ -68,7 +68,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.fivesprites.com",
+    "website": "http://www.fivesprites.com",
     "firstPublishedAt": "2014-03-17T21:51:13Z",
     "inAppPurchases": false,
     "overview": "Released in April 2014 by FiveSprites.",

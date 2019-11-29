@@ -1,12 +1,12 @@
 {
     "packageName": "gamesboro.openarena.net",
     "title": "OpenArena: OUYA EDITION",
-    "description": "100% FREE!\r\n\r\nMultiplayer 3D shooter, based on Quake 3 Arena FPS.\r\nSupports online matches and offline play with bots. Deathmatch, Capture the Flag, and 10 other game modes are available.\r\n\r\nPlay on PC and Android servers!  \r\n\r\nPS3 controller support.  \r\n\r\nFirst person mode available in settings.  Keyboard support, and limited mouse support.  Access in game console by pressing \"~\" on keyboard.\r\n\r\nIMPORTANT NOTE ABOUT PC SERVERS: \r\nWe have no control over how individuals run servers, therefor you may find an occasional menu that must be accessed with the trackpad cursor on your controller.\r\n\r\nSource code available at:\r\nhttp:\/\/sourceforge.net\/projects\/libsdl-android\/files\/OpenArena\/\r\n\r\nYou can run your own dedicated server, using this package: http:\/\/sourceforge.net\/projects\/libsdl-android\/files\/OpenArena\/OpenArena-dedicated-server-0.8.8.23.tar.gz or you may compile it from sources.\r\nMore info about running servers at http:\/\/openarena.wikia.com\/wiki\/Servers\r\n\r\nA special thank you to Pelya for all of his hard work on the android port of OpenArena as well as for assistance and help on the OUYA edition.  This project would have taken much longer without his guidance.\r\n\r\nAnother special thanks of course to the OA team, without them Open Arena would not exist at all.  \r\n\r\nPlease visit http:\/\/www.openarena.ws and join the OpenArena community! ",
+    "description": "100% FREE!\r\n\r\nMultiplayer 3D shooter, based on Quake 3 Arena FPS.\r\nSupports online matches and offline play with bots. Deathmatch, Capture the Flag, and 10 other game modes are available.\r\n\r\nPlay on PC and Android servers!  \r\n\r\nPS3 controller support.  \r\n\r\nFirst person mode available in settings.  Keyboard support, and limited mouse support.  Access in game console by pressing \"~\" on keyboard.\r\n\r\nIMPORTANT NOTE ABOUT PC SERVERS: \r\nWe have no control over how individuals run servers, therefor you may find an occasional menu that must be accessed with the trackpad cursor on your controller.\r\n\r\nSource code available at:\r\nhttp://sourceforge.net/projects/libsdl-android/files/OpenArena/\r\n\r\nYou can run your own dedicated server, using this package: http://sourceforge.net/projects/libsdl-android/files/OpenArena/OpenArena-dedicated-server-0.8.8.23.tar.gz or you may compile it from sources.\r\nMore info about running servers at http://openarena.wikia.com/wiki/Servers\r\n\r\nA special thank you to Pelya for all of his hard work on the android port of OpenArena as well as for assistance and help on the OUYA edition.  This project would have taken much longer without his guidance.\r\n\r\nAnother special thanks of course to the OA team, without them Open Arena would not exist at all.  \r\n\r\nPlease visit http://www.openarena.ws and join the OpenArena community! ",
     "players": [
         1
     ],
     "genres": [
-        "FPS\/Shooter",
+        "FPS/Shooter",
         "Multiplayer"
     ],
     "releases": [
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "914b147c-0af2-4530-9436-036d18432719",
             "date": "2013-10-09T16:09:10Z",
-            "url": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/OpenArena_0.8.8.04_gamesboro.openarena.net.apk",
+            "url": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/OpenArena_0.8.8.04_gamesboro.openarena.net.apk",
             "size": 425934624,
             "md5sum": null,
             "publicSize": 0,
@@ -23,44 +23,44 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/gamesboro.openarena.net\/discover",
-        "video": "https:\/\/vimeo.com\/76466112",
+        "discover": "http://ouya.cweiske.de/game-images/gamesboro.openarena.net/discover",
+        "video": "https://vimeo.com/76466112",
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/KAN0YpqrTNCTSIAKBEuy.jpg",
-            "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/j3zPKvcTqznxNBrZFKIw.jpg",
-            "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/7oTsDNqxTpKAGaES0FLS.jpg",
-            "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/GGc75JkQ0OZcKeq9xrfg.jpg",
-            "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/X5alZfXS5Gfrlvvk22El.jpg"
+            "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/KAN0YpqrTNCTSIAKBEuy.jpg",
+            "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/j3zPKvcTqznxNBrZFKIw.jpg",
+            "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/7oTsDNqxTpKAGaES0FLS.jpg",
+            "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/GGc75JkQ0OZcKeq9xrfg.jpg",
+            "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/X5alZfXS5Gfrlvvk22El.jpg"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/76466112"
+                "url": "https://vimeo.com/76466112"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/KAN0YpqrTNCTSIAKBEuy.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/KAN0YpqrTNCTSIAKBEuy_thumb.jpg"
+                "url": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/KAN0YpqrTNCTSIAKBEuy.jpg",
+                "thumb": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/KAN0YpqrTNCTSIAKBEuy_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/j3zPKvcTqznxNBrZFKIw.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/j3zPKvcTqznxNBrZFKIw_thumb.jpg"
+                "url": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/j3zPKvcTqznxNBrZFKIw.jpg",
+                "thumb": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/j3zPKvcTqznxNBrZFKIw_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/7oTsDNqxTpKAGaES0FLS.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/7oTsDNqxTpKAGaES0FLS_thumb.jpg"
+                "url": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/7oTsDNqxTpKAGaES0FLS.jpg",
+                "thumb": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/7oTsDNqxTpKAGaES0FLS_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/GGc75JkQ0OZcKeq9xrfg.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/GGc75JkQ0OZcKeq9xrfg_thumb.jpg"
+                "url": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/GGc75JkQ0OZcKeq9xrfg.jpg",
+                "thumb": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/GGc75JkQ0OZcKeq9xrfg_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/X5alZfXS5Gfrlvvk22El.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_gamesboro.openarena.net_0.8.8.04\/X5alZfXS5Gfrlvvk22El_thumb.jpg"
+                "url": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/X5alZfXS5Gfrlvvk22El.jpg",
+                "thumb": "https://archive.org/download/ouya_gamesboro.openarena.net_0.8.8.04/X5alZfXS5Gfrlvvk22El_thumb.jpg"
             }
         ]
     },
@@ -72,7 +72,7 @@
         "founder": true
     },
     "contentRating": "17+",
-    "website": "http:\/\/www.gamesboro.net",
+    "website": "http://www.gamesboro.net",
     "firstPublishedAt": "2013-09-24T16:35:36Z",
     "inAppPurchases": false,
     "overview": "Released in October 2013 by Gamesboro.",

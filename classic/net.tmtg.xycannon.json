@@ -6,8 +6,8 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
-        "FPS\/Shooter",
+        "Arcade/Pinball",
+        "FPS/Shooter",
         "Retro"
     ],
     "releases": [
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "32d428bc-e21f-433d-82fb-6b8175ec2b08",
             "date": "2013-09-17T20:49:35Z",
-            "url": "https:\/\/archive.org\/download\/ouya_net.tmtg.xycannon_1.0\/XY%20Cannon_1.0_net.tmtg.xycannon.apk",
+            "url": "https://archive.org/download/ouya_net.tmtg.xycannon_1.0/XY%20Cannon_1.0_net.tmtg.xycannon.apk",
             "size": 15573827,
             "md5sum": null,
             "publicSize": 0,
@@ -24,28 +24,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1",
+            "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2",
+            "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.xycannon\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3-thumb"
             }
         ]
     },
@@ -57,7 +57,7 @@
         "founder": false
     },
     "contentRating": "9+",
-    "website": "http:\/\/tmtg.net\/xycannon\/",
+    "website": "http://tmtg.net/xycannon/",
     "firstPublishedAt": "2013-09-17T20:49:35Z",
     "inAppPurchases": true,
     "overview": "Released in September 2013 by Boris van Schooten.",

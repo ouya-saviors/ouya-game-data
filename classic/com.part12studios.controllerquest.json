@@ -1,7 +1,7 @@
 {
     "packageName": "com.part12studios.controllerquest",
     "title": "Controller Quest",
-    "description": "What quest you may ask?  To find out if all of your controllers are working properly!  Do you know for sure?  Why take the chance?!  grab this app now and game with confidence! :)\r\n\r\nThis is a Utility App created to help you check the health and well-being of your Ouya Controllers.  Load it up and flip between any of your controllers (press \"o\" to switch) to see each controller respond (hopefully?!) to your every command.  \r\n\r\n---\r\n\r\nrelease 1.0.0 - initial launch hoping to be the 1000th game\/app launched (we got 1001!) \r\n\r\nrelease 1.0.1 - minor cosmetic enhancements, typos and bug fix (Thanks Tim for spotting that!).  Made donation effect just a little more awesome. :)",
+    "description": "What quest you may ask?  To find out if all of your controllers are working properly!  Do you know for sure?  Why take the chance?!  grab this app now and game with confidence! :)\r\n\r\nThis is a Utility App created to help you check the health and well-being of your Ouya Controllers.  Load it up and flip between any of your controllers (press \"o\" to switch) to see each controller respond (hopefully?!) to your every command.  \r\n\r\n---\r\n\r\nrelease 1.0.0 - initial launch hoping to be the 1000th game/app launched (we got 1001!) \r\n\r\nrelease 1.0.1 - minor cosmetic enhancements, typos and bug fix (Thanks Tim for spotting that!).  Made donation effect just a little more awesome. :)",
     "players": [
         1
     ],
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "35619779-2d5b-437a-aad4-9eed5a3cb832",
             "date": "2014-11-27T17:45:45Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.part12studios.controllerquest_Developer_Build\/Controller%20Quest_Developer%20Build_com.part12studios.controllerquest.apk",
+            "url": "https://archive.org/download/ouya_com.part12studios.controllerquest_Developer_Build/Controller%20Quest_Developer%20Build_com.part12studios.controllerquest.apk",
             "size": 18781751,
             "md5sum": "75074a2735ba75995a9a1ba7ac647d2b",
             "publicSize": 981236,
@@ -23,32 +23,32 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/discover",
-        "video": "https:\/\/vimeo.com\/112732205",
+        "discover": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/discover",
+        "video": "https://vimeo.com/112732205",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/screenshot-3"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/112732205"
+                "url": "https://vimeo.com/112732205"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.part12studios.controllerquest\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.controllerquest/detail-3-thumb"
             }
         ]
     },
@@ -60,7 +60,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/part12studios.com",
+    "website": "http://part12studios.com",
     "firstPublishedAt": "2014-11-25T00:42:15Z",
     "inAppPurchases": true,
     "overview": "Released in November 2014 by Part12 Studios.",
@@ -75,7 +75,7 @@
             "promoted": true,
             "identifier": "controller_quest_donation",
             "name": "Controller Quest Donation",
-            "description": "Do you wish to donate $2.99 for this helpful and fun utility?\r\n\r\nThis is a one time \/ restoreable purchase.",
+            "description": "Do you wish to donate $2.99 for this helpful and fun utility?\r\n\r\nThis is a one time / restoreable purchase.",
             "localPrice": 2.99,
             "originalPrice": 2.99,
             "currency": "EUR"

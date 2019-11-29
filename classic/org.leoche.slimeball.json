@@ -1,12 +1,12 @@
 {
     "packageName": "org.leoche.slimeball",
     "title": "SlimeBall",
-    "description": "SlimeBall is a 2 players sport game where you play with your friends many sports (Tennis\/FootBall\/VolleyBall and more). It's totally free!",
+    "description": "SlimeBall is a 2 players sport game where you play with your friends many sports (Tennis/FootBall/VolleyBall and more). It's totally free!",
     "players": [
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Sports"
     ],
     "releases": [
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "6b197703-8a59-46e0-9f14-c408a643953c",
             "date": "2013-08-14T13:48:50Z",
-            "url": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/SlimeBall_0.1_org.leoche.slimeball.apk",
+            "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/SlimeBall_0.1_org.leoche.slimeball.apk",
             "size": 6350609,
             "md5sum": null,
             "publicSize": 0,
@@ -23,34 +23,34 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.leoche.slimeball\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/org.leoche.slimeball/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/P4UoCbZ9QrWiRN3nsMQe.jpg",
-            "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/hRpBtXuxRTK5ASvUzrUa.jpg",
-            "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/pTQ44A6TmeXorqrwuz2g.jpg",
-            "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/0wzt6YmjT8O7RPke7Rdt.jpg"
+            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe.jpg",
+            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa.jpg",
+            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g.jpg",
+            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt.jpg"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/P4UoCbZ9QrWiRN3nsMQe.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/P4UoCbZ9QrWiRN3nsMQe_thumb.jpg"
+                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe.jpg",
+                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/hRpBtXuxRTK5ASvUzrUa.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/hRpBtXuxRTK5ASvUzrUa_thumb.jpg"
+                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa.jpg",
+                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/pTQ44A6TmeXorqrwuz2g.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/pTQ44A6TmeXorqrwuz2g_thumb.jpg"
+                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g.jpg",
+                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/0wzt6YmjT8O7RPke7Rdt.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_org.leoche.slimeball_0.1\/0wzt6YmjT8O7RPke7Rdt_thumb.jpg"
+                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt.jpg",
+                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt_thumb.jpg"
             }
         ]
     },
@@ -62,7 +62,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.leoche.org",
+    "website": "http://www.leoche.org",
     "firstPublishedAt": "2013-08-14T13:48:50Z",
     "inAppPurchases": false,
     "overview": "Released in August 2013 by Leoche.",

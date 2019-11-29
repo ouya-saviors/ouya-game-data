@@ -1,13 +1,13 @@
 {
     "packageName": "com.LokomotivGames.CosmiBall",
     "title": "CosmiBall",
-    "description": "Short 3D Platforming Adventure: CosmiBall One\n\nCosmiBall v17 (5\/23\/2016):\n-Initial release on PC\n-Added Cortex compatibility\n-Adjusted kill planes to be more fair\n\nCosmiBall v16 (2\/1\/2016):\n-Initial release on Ouya",
+    "description": "Short 3D Platforming Adventure: CosmiBall One\n\nCosmiBall v17 (5/23/2016):\n-Initial release on PC\n-Added Cortex compatibility\n-Adjusted kill planes to be more fair\n\nCosmiBall v16 (2/1/2016):\n-Initial release on Ouya",
     "players": [
         1
     ],
     "genres": [
         "Adventure",
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Meditative",
         "Platformer",
         "Short on Time?"
@@ -18,7 +18,7 @@
             "versionCode": 0,
             "uuid": "88f98fe8-384b-41c7-97a7-3e6f33cb3b65",
             "date": "2016-05-24T21:08:14Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.LokomotivGames.CosmiBall_17\/CosmiBall_17_com.LokomotivGames.CosmiBall.apk",
+            "url": "https://archive.org/download/ouya_com.LokomotivGames.CosmiBall_17/CosmiBall_17_com.LokomotivGames.CosmiBall.apk",
             "size": 26208965,
             "md5sum": "744d121c3c512179c884966009d3032f",
             "publicSize": 299367,
@@ -26,38 +26,38 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/discover",
-        "video": "https:\/\/vimeo.com\/167805446",
+        "discover": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/discover",
+        "video": "https://vimeo.com/167805446",
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.LokomotivGames.CosmiBall_17\/7VoSiuTSgqqeXBKDpRfx.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.LokomotivGames.CosmiBall_17\/pju5qBJ3SJuBuWJw7vdL.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.LokomotivGames.CosmiBall_17\/dQaqkaMVTcOOhTyXCxWB.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.LokomotivGames.CosmiBall_17\/bbgMtOcoQLCJg2EVzLKb.jpg"
+            "https://archive.org/download/ouya_com.LokomotivGames.CosmiBall_17/7VoSiuTSgqqeXBKDpRfx.jpg",
+            "https://archive.org/download/ouya_com.LokomotivGames.CosmiBall_17/pju5qBJ3SJuBuWJw7vdL.jpg",
+            "https://archive.org/download/ouya_com.LokomotivGames.CosmiBall_17/dQaqkaMVTcOOhTyXCxWB.jpg",
+            "https://archive.org/download/ouya_com.LokomotivGames.CosmiBall_17/bbgMtOcoQLCJg2EVzLKb.jpg"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/167805446"
+                "url": "https://vimeo.com/167805446"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.LokomotivGames.CosmiBall\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.LokomotivGames.CosmiBall/detail-4-thumb"
             }
         ]
     },

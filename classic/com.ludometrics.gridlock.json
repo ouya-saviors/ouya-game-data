@@ -1,13 +1,13 @@
 {
     "packageName": "com.ludometrics.gridlock",
     "title": "Gridlock",
-    "description": "Gridlock is an arena-based shooter that sees you take control of four gun emplacements. In the middle of the grid, a variety of abstract yet lethal geometric shapes emerge which will destroy your turrets. Unless, of course, you can shoot the shapes first. Game over comes when\/if all your turrets are destroyed.\r\n \r\nGridlock harkens back to a time when games were about beating your own high-score and also about shooting abstract shapes. Nothing more, nothing less. Supports XBox 360 and PlayStation 3 controllers!",
+    "description": "Gridlock is an arena-based shooter that sees you take control of four gun emplacements. In the middle of the grid, a variety of abstract yet lethal geometric shapes emerge which will destroy your turrets. Unless, of course, you can shoot the shapes first. Game over comes when/if all your turrets are destroyed.\r\n \r\nGridlock harkens back to a time when games were about beating your own high-score and also about shooting abstract shapes. Nothing more, nothing less. Supports XBox 360 and PlayStation 3 controllers!",
     "players": [
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
-        "FPS\/Shooter",
+        "Arcade/Pinball",
+        "FPS/Shooter",
         "Short on Time?"
     ],
     "releases": [
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "cd36457f-7707-448d-8698-bb93e40510c0",
             "date": "2013-10-19T07:34:10Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.ludometrics.gridlock_1.01\/Gridlock_1.01_com.ludometrics.gridlock.apk",
+            "url": "https://archive.org/download/ouya_com.ludometrics.gridlock_1.01/Gridlock_1.01_com.ludometrics.gridlock.apk",
             "size": 15152467,
             "md5sum": null,
             "publicSize": 0,
@@ -24,40 +24,40 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ludometrics.gridlock\/screenshot-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5-thumb"
             }
         ]
     },
@@ -69,7 +69,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/ludometrics.com\/game\/gridlock\/",
+    "website": "http://ludometrics.com/game/gridlock/",
     "firstPublishedAt": "2013-08-28T14:18:04Z",
     "inAppPurchases": true,
     "overview": "Released in October 2013 by Ludometrics Ltd.",

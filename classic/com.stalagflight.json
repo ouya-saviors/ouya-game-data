@@ -6,7 +6,7 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Multiplayer",
         "Platformer"
     ],
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "7d39eb72-1b1d-4604-8aff-0b78eff615ba",
             "date": "2013-07-08T18:20:23Z",
-            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/acf41986-2a09-4975-bbf9-7aad092b5a1a\/com.stalagflight\/7d39eb72-1b1d-4604-8aff-0b78eff615ba\/8JM9yQi5TjqK2GleCLUr_StalagflightWithPs3.apk",
+            "url": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/acf41986-2a09-4975-bbf9-7aad092b5a1a/com.stalagflight/7d39eb72-1b1d-4604-8aff-0b78eff615ba/8JM9yQi5TjqK2GleCLUr_StalagflightWithPs3.apk",
             "size": 11481476,
             "md5sum": null,
             "publicSize": 0,
@@ -24,34 +24,34 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.stalagflight\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.stalagflight/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/vlvpL2x2TLCvgQs70Fzc.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/lAMO2W5TBSJRuXsLofXG.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/zeUMgn8xQQussX8X6stO.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/VLirLqY3TJ2dl40XkYE8.jpg"
+            "https://archive.org/download/ouya_com.stalagflight_1.3/vlvpL2x2TLCvgQs70Fzc.jpg",
+            "https://archive.org/download/ouya_com.stalagflight_1.3/lAMO2W5TBSJRuXsLofXG.jpg",
+            "https://archive.org/download/ouya_com.stalagflight_1.3/zeUMgn8xQQussX8X6stO.jpg",
+            "https://archive.org/download/ouya_com.stalagflight_1.3/VLirLqY3TJ2dl40XkYE8.jpg"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/vlvpL2x2TLCvgQs70Fzc.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/vlvpL2x2TLCvgQs70Fzc_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.stalagflight_1.3/vlvpL2x2TLCvgQs70Fzc.jpg",
+                "thumb": "https://archive.org/download/ouya_com.stalagflight_1.3/vlvpL2x2TLCvgQs70Fzc_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/lAMO2W5TBSJRuXsLofXG.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/lAMO2W5TBSJRuXsLofXG_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.stalagflight_1.3/lAMO2W5TBSJRuXsLofXG.jpg",
+                "thumb": "https://archive.org/download/ouya_com.stalagflight_1.3/lAMO2W5TBSJRuXsLofXG_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/zeUMgn8xQQussX8X6stO.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/zeUMgn8xQQussX8X6stO_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.stalagflight_1.3/zeUMgn8xQQussX8X6stO.jpg",
+                "thumb": "https://archive.org/download/ouya_com.stalagflight_1.3/zeUMgn8xQQussX8X6stO_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/VLirLqY3TJ2dl40XkYE8.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.stalagflight_1.3\/VLirLqY3TJ2dl40XkYE8_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.stalagflight_1.3/VLirLqY3TJ2dl40XkYE8.jpg",
+                "thumb": "https://archive.org/download/ouya_com.stalagflight_1.3/VLirLqY3TJ2dl40XkYE8_thumb.jpg"
             }
         ]
     },
@@ -63,7 +63,7 @@
         "founder": true
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/stalagflight.com\/",
+    "website": "http://stalagflight.com/",
     "firstPublishedAt": "2013-03-24T22:23:17Z",
     "inAppPurchases": true,
     "overview": "Released in July 2013 by Jacob Korsgaard.",

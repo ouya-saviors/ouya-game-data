@@ -1,7 +1,7 @@
 {
     "packageName": "in.progressivethink.ouya.onscreenalerts",
     "title": "On Screen Alerts",
-    "description": "On Screen Alerts allows you to receive network based messages on your OUYA, even while gaming! This means no more missed CallerID messages or other alerts and that is just the start. This application functions in two ways, as a UDP receiver and as a PushBullet Client. Get your game on and stay connected too!\r\n\r\nCurrently UDP packets and PushBullet Notifications are supported methods to communicate with this application, both are free and easy to use options. If you would like to see examples of how I utilize this application then please visit: https:\/\/progressivethink.in\/applications\/on-screen-alerts\/\r\n\r\nIf you experience an issue then please email me at:\\n\r\n<Support@ProgressiveThink.in>\r\n\r\n\r\n==PushBullet==\r\nThis application monitors your PushBullet.com account for notifications to show on the OUYA. A great way to enhance this is to pair it with IFTTT.com (both are free) and bring a whole new level of integration for notifications.\r\n\r\n==UDP==\r\nSince the service runs over UDP and comes with a simple message format, any device that can send a UDP packet can talk to your OUYA\/TV. Do you have a \"few\" OUYAs in your house on the same network, if so On Screen Alerts also works with broadcast messages; meaning you can send one message from a device and it go to ALL your OUYAs at the same time.\r\n\r\nThis application is only the OUYA component and requires you to utilize a network ready device (PC\/Linux\/Mac\/Ardruino\/RaspberryPi\/Etc.) to send messages to your OUYA. The message format is available for anyone to see as well are example implementations, which can be found on the application website:\r\nhttp:\/\/www.ProgressiveThink.in\/applications\/on-screen-alerts\r\n\r\n==Demo\/Trial==\r\nThe app comes as a fully functional application and will remain that way for seven (7) days, after which you will need to buy a license to continue using it.\r\n\r\n==Support==\r\nIf you run into an issue or need help please email me at:\r\nsupport@progressivethink.in\r\n\r\n==Localization==\r\nThis application is only available in English and Italian as of now, but if you would like to help translate it into Spanish, French or German then please email me at the support address above and let me know!",
+    "description": "On Screen Alerts allows you to receive network based messages on your OUYA, even while gaming! This means no more missed CallerID messages or other alerts and that is just the start. This application functions in two ways, as a UDP receiver and as a PushBullet Client. Get your game on and stay connected too!\r\n\r\nCurrently UDP packets and PushBullet Notifications are supported methods to communicate with this application, both are free and easy to use options. If you would like to see examples of how I utilize this application then please visit: https://progressivethink.in/applications/on-screen-alerts/\r\n\r\nIf you experience an issue then please email me at:\\n\r\n<Support@ProgressiveThink.in>\r\n\r\n\r\n==PushBullet==\r\nThis application monitors your PushBullet.com account for notifications to show on the OUYA. A great way to enhance this is to pair it with IFTTT.com (both are free) and bring a whole new level of integration for notifications.\r\n\r\n==UDP==\r\nSince the service runs over UDP and comes with a simple message format, any device that can send a UDP packet can talk to your OUYA/TV. Do you have a \"few\" OUYAs in your house on the same network, if so On Screen Alerts also works with broadcast messages; meaning you can send one message from a device and it go to ALL your OUYAs at the same time.\r\n\r\nThis application is only the OUYA component and requires you to utilize a network ready device (PC/Linux/Mac/Ardruino/RaspberryPi/Etc.) to send messages to your OUYA. The message format is available for anyone to see as well are example implementations, which can be found on the application website:\r\nhttp://www.ProgressiveThink.in/applications/on-screen-alerts\r\n\r\n==Demo/Trial==\r\nThe app comes as a fully functional application and will remain that way for seven (7) days, after which you will need to buy a license to continue using it.\r\n\r\n==Support==\r\nIf you run into an issue or need help please email me at:\r\nsupport@progressivethink.in\r\n\r\n==Localization==\r\nThis application is only available in English and Italian as of now, but if you would like to help translate it into Spanish, French or German then please email me at the support address above and let me know!",
     "players": [
         1
     ],
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "3624925e-cb92-4398-9542-1505ac6f3236",
             "date": "2015-02-18T01:13:20Z",
-            "url": "https:\/\/archive.org\/download\/ouya_in.progressivethink.ouya.onscreenalerts_1.0.7\/On%20Screen%20Alerts_1.0.7_in.progressivethink.ouya.onscreenalerts.apk",
+            "url": "https://archive.org/download/ouya_in.progressivethink.ouya.onscreenalerts_1.0.7/On%20Screen%20Alerts_1.0.7_in.progressivethink.ouya.onscreenalerts.apk",
             "size": 511319,
             "md5sum": "c0852e49cebcd29f38b559e91755f3e6",
             "publicSize": 139522,
@@ -23,40 +23,40 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/screenshot-1",
+            "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/screenshot-2",
+            "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/screenshot-3",
+            "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/screenshot-4",
+            "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/in.progressivethink.ouya.onscreenalerts\/detail-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-5",
+                "thumb": "http://ouya.cweiske.de/game-images/in.progressivethink.ouya.onscreenalerts/detail-5-thumb"
             }
         ]
     },

@@ -1,7 +1,7 @@
 {
     "packageName": "com.explusalpha.MsxEmu",
     "title": "MSX.emu",
-    "description": "Advanced open-source MSX & Colecovision emulator based on BlueMSX. Before using, please see the guide on my site for initial setup instructions.\r\n\r\nNo ROMs are included with this app and must be supplied by the user. A number of public domain games\/demos are available at www.pdroms.de. Load ROM files located on your internal or external USB storage using the in-app file browser (.rom, .dsk, .col, & .zip formats).\r\n\r\nFollow me on Twitter for updates about my apps:\r\nhttps:\/\/twitter.com\/rakashazi\r\n\r\nVisit the homepage at explusalpha.com for more info, ports for other platforms, and my other apps.",
+    "description": "Advanced open-source MSX & Colecovision emulator based on BlueMSX. Before using, please see the guide on my site for initial setup instructions.\r\n\r\nNo ROMs are included with this app and must be supplied by the user. A number of public domain games/demos are available at www.pdroms.de. Load ROM files located on your internal or external USB storage using the in-app file browser (.rom, .dsk, .col, & .zip formats).\r\n\r\nFollow me on Twitter for updates about my apps:\r\nhttps://twitter.com/rakashazi\r\n\r\nVisit the homepage at explusalpha.com for more info, ports for other platforms, and my other apps.",
     "players": [
         1,
         2
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "0329f5d3-52af-498c-811f-c85a45552cb5",
             "date": "2015-06-07T22:03:26Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.explusalpha.MsxEmu_1.5.28\/MSX.emu_1.5.28_com.explusalpha.MsxEmu.apk",
+            "url": "https://archive.org/download/ouya_com.explusalpha.MsxEmu_1.5.28/MSX.emu_1.5.28_com.explusalpha.MsxEmu.apk",
             "size": 786318,
             "md5sum": "975f8134ef84ea6ec623d9e428927316",
             "publicSize": 18328,
@@ -24,28 +24,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.MsxEmu\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.MsxEmu/detail-3-thumb"
             }
         ]
     },
@@ -57,7 +57,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.explusalpha.com\/home\/msx-emu",
+    "website": "http://www.explusalpha.com/home/msx-emu",
     "firstPublishedAt": "2013-06-13T04:10:05Z",
     "inAppPurchases": false,
     "overview": "Released in June 2015 by Robert Broglia.",

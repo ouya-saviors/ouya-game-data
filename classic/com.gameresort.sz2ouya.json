@@ -6,8 +6,8 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
-        "FPS\/Shooter",
+        "Arcade/Pinball",
+        "FPS/Shooter",
         "Short on Time?"
     ],
     "releases": [
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "3ff91c09-44d2-427f-a8f6-dab30f117453",
             "date": "2013-03-28T15:49:50Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.gameresort.sz2ouya_1.2.1\/Stupid%20Zombies%202_1.2.1_com.gameresort.sz2ouya.apk",
+            "url": "https://archive.org/download/ouya_com.gameresort.sz2ouya_1.2.1/Stupid%20Zombies%202_1.2.1_com.gameresort.sz2ouya.apk",
             "size": 31830194,
             "md5sum": "bbd238f6d141f783e84338199596ae92",
             "publicSize": 486710,
@@ -24,46 +24,46 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gameresort.sz2ouya\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.gameresort.sz2ouya/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ChQlE2B4Q1aelqVszvVg",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Zw9v02aQYSBKe6LvSWX",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TEWguLXR2WWWq9jOkdTA",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7hiU3LIR2ejiDUDdoz0J",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RkOhsu2RR9WClGSDYF6w",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ArRuOqcT3euHFXsZDV9Y"
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ChQlE2B4Q1aelqVszvVg",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8Zw9v02aQYSBKe6LvSWX",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/TEWguLXR2WWWq9jOkdTA",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/7hiU3LIR2ejiDUDdoz0J",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/RkOhsu2RR9WClGSDYF6w",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ArRuOqcT3euHFXsZDV9Y"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ChQlE2B4Q1aelqVszvVg",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ChQlE2B4Q1aelqVszvVg\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ChQlE2B4Q1aelqVszvVg",
+                "thumb": "https://www.filepicker.io/api/file/ChQlE2B4Q1aelqVszvVg/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/8Zw9v02aQYSBKe6LvSWX",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/8Zw9v02aQYSBKe6LvSWX\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8Zw9v02aQYSBKe6LvSWX",
+                "thumb": "https://www.filepicker.io/api/file/8Zw9v02aQYSBKe6LvSWX/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/TEWguLXR2WWWq9jOkdTA",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/TEWguLXR2WWWq9jOkdTA\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/TEWguLXR2WWWq9jOkdTA",
+                "thumb": "https://www.filepicker.io/api/file/TEWguLXR2WWWq9jOkdTA/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/7hiU3LIR2ejiDUDdoz0J",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/7hiU3LIR2ejiDUDdoz0J\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/7hiU3LIR2ejiDUDdoz0J",
+                "thumb": "https://www.filepicker.io/api/file/7hiU3LIR2ejiDUDdoz0J/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/RkOhsu2RR9WClGSDYF6w",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/RkOhsu2RR9WClGSDYF6w\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/RkOhsu2RR9WClGSDYF6w",
+                "thumb": "https://www.filepicker.io/api/file/RkOhsu2RR9WClGSDYF6w/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/ArRuOqcT3euHFXsZDV9Y",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/ArRuOqcT3euHFXsZDV9Y\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ArRuOqcT3euHFXsZDV9Y",
+                "thumb": "https://www.filepicker.io/api/file/ArRuOqcT3euHFXsZDV9Y/convert?w=245"
             }
         ]
     },
@@ -75,7 +75,7 @@
         "founder": false
     },
     "contentRating": "9+",
-    "website": "http:\/\/www.gameresort.com",
+    "website": "http://www.gameresort.com",
     "firstPublishedAt": "2013-03-28T15:49:50Z",
     "inAppPurchases": true,
     "overview": "Released in March 2013 by GameResort LLC.",

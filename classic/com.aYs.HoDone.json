@@ -1,7 +1,7 @@
 {
     "packageName": "com.aYs.HoDone",
     "title": "Harvester of Dreams : EP1",
-    "description": "First-person point-and-click adventure game. Very early release. I'll update the game as often as possible. But it's just me, so please be patient...\n\nVersion 0.152\n- added logo animation in the beginning\n- first cutscene system implementation with intro sequence\n- ship exterior for intro and level\n- lensflares ;)\n- many minor improvements and asset changes\n- I changed the default resolution to 720p\n\nVersion 0.134\n- The look of the second room has changed.\n- I now also use the reflection mask to offset the reflection lookup. The reflections now kind of follow the surface structure. (like normal maps, but cheaper) It had no impact on the performance, so there you go.\n- The door texture is not that ugly anymore.\n- The hallway got a floor, a ceiling and a lightmap.\n- I found out about the shader variants in unity and merged several shaders together that will result in different shader programs, depending on the configuration of the material. (good reference: http:\/\/martinpalko.com\/Tutorials\/MultiCompileUnity\/MultiCompileUnity.html)\n\nVersion 0.129\n- There is a new room finally. Its needs some details and polishing though.\n- In that room you are going to find a new mini game. It does not provide you with any rewards right now. But it does not ask you for coins either.\n- Last, not least, I replaced the old unity plugin with the new OUYA everywhere SDK. That was quite some work.\nAnd of course other fixes, changes, addititions to the code.\n\nI'll try uploading new updates more frequently in the future.",
+    "description": "First-person point-and-click adventure game. Very early release. I'll update the game as often as possible. But it's just me, so please be patient...\n\nVersion 0.152\n- added logo animation in the beginning\n- first cutscene system implementation with intro sequence\n- ship exterior for intro and level\n- lensflares ;)\n- many minor improvements and asset changes\n- I changed the default resolution to 720p\n\nVersion 0.134\n- The look of the second room has changed.\n- I now also use the reflection mask to offset the reflection lookup. The reflections now kind of follow the surface structure. (like normal maps, but cheaper) It had no impact on the performance, so there you go.\n- The door texture is not that ugly anymore.\n- The hallway got a floor, a ceiling and a lightmap.\n- I found out about the shader variants in unity and merged several shaders together that will result in different shader programs, depending on the configuration of the material. (good reference: http://martinpalko.com/Tutorials/MultiCompileUnity/MultiCompileUnity.html)\n\nVersion 0.129\n- There is a new room finally. Its needs some details and polishing though.\n- In that room you are going to find a new mini game. It does not provide you with any rewards right now. But it does not ask you for coins either.\n- Last, not least, I replaced the old unity plugin with the new OUYA everywhere SDK. That was quite some work.\nAnd of course other fixes, changes, addititions to the code.\n\nI'll try uploading new updates more frequently in the future.",
     "players": [
         1
     ],
@@ -14,7 +14,7 @@
             "versionCode": 0,
             "uuid": "db72c6cb-8d92-49d3-ba70-e4ccd1d724e8",
             "date": "2015-01-13T18:20:54Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/HoD%20One%20by%20aYs_0.152_com.aYs.HoDone.apk",
+            "url": "https://archive.org/download/ouya_com.aYs.HoDone_0.152/HoD%20One%20by%20aYs_0.152_com.aYs.HoDone.apk",
             "size": 104174268,
             "md5sum": "b285537b89cb4e776133710c6122faa0",
             "publicSize": 309409,
@@ -22,64 +22,64 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/oy1jk6L2RsmfJMNPybMk.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/wC3IUZjxSBOyPB7ToZx8.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/0LVuHrHDRFaa64JtilKu.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/c5BzgEQSrB7pwszosjA3.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/MsGsHCmRROvoJ2uA9jJI.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/ybheUrYyQuilkkEvcyjr.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/EiMl2mc3R9i2fLSrxODT.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/fzL4yRypQb2wCpUAlqXO.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.aYs.HoDone_0.152\/AgXCjOjjSquIe9VlEpYr.jpg"
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/oy1jk6L2RsmfJMNPybMk.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/wC3IUZjxSBOyPB7ToZx8.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/0LVuHrHDRFaa64JtilKu.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/c5BzgEQSrB7pwszosjA3.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/MsGsHCmRROvoJ2uA9jJI.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/ybheUrYyQuilkkEvcyjr.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/EiMl2mc3R9i2fLSrxODT.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/fzL4yRypQb2wCpUAlqXO.jpg",
+            "https://archive.org/download/ouya_com.aYs.HoDone_0.152/AgXCjOjjSquIe9VlEpYr.jpg"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-6",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-6-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-6",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-7",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-7-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-7",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-8",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-8-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-8",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-8-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-9",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.aYs.HoDone\/detail-9-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-9",
+                "thumb": "http://ouya.cweiske.de/game-images/com.aYs.HoDone/detail-9-thumb"
             }
         ]
     },

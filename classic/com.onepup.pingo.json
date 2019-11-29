@@ -6,9 +6,9 @@
         1
     ],
     "genres": [
-        "Card\/Casino",
+        "Card/Casino",
         "Kids List",
-        "Puzzle\/Trivia"
+        "Puzzle/Trivia"
     ],
     "releases": [
         {
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "62d108cd-0bab-480e-ab30-c33ae5344bf1",
             "date": "2013-04-08T16:58:40Z",
-            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/d985f88a-643c-4038-960f-a69d9437e84e\/com.onepup.pingo\/62d108cd-0bab-480e-ab30-c33ae5344bf1\/zgda1DgDSOaLBrT5W0E8_PingoPuzzlePokerP4.apk",
+            "url": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/d985f88a-643c-4038-960f-a69d9437e84e/com.onepup.pingo/62d108cd-0bab-480e-ab30-c33ae5344bf1/zgda1DgDSOaLBrT5W0E8_PingoPuzzlePokerP4.apk",
             "size": 12973004,
             "md5sum": null,
             "publicSize": 0,
@@ -24,28 +24,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.onepup.pingo\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.onepup.pingo/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/HlNPxV7bSdaXSEkIpnJC.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/2CbRfb8T0S8QWepxWJwv.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/YDq8WrfgQM26O2Ouacwn.jpg"
+            "https://archive.org/download/ouya_com.onepup.pingo_1.1/HlNPxV7bSdaXSEkIpnJC.jpg",
+            "https://archive.org/download/ouya_com.onepup.pingo_1.1/2CbRfb8T0S8QWepxWJwv.jpg",
+            "https://archive.org/download/ouya_com.onepup.pingo_1.1/YDq8WrfgQM26O2Ouacwn.jpg"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/HlNPxV7bSdaXSEkIpnJC.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/HlNPxV7bSdaXSEkIpnJC_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.onepup.pingo_1.1/HlNPxV7bSdaXSEkIpnJC.jpg",
+                "thumb": "https://archive.org/download/ouya_com.onepup.pingo_1.1/HlNPxV7bSdaXSEkIpnJC_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/2CbRfb8T0S8QWepxWJwv.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/2CbRfb8T0S8QWepxWJwv_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.onepup.pingo_1.1/2CbRfb8T0S8QWepxWJwv.jpg",
+                "thumb": "https://archive.org/download/ouya_com.onepup.pingo_1.1/2CbRfb8T0S8QWepxWJwv_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/YDq8WrfgQM26O2Ouacwn.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.onepup.pingo_1.1\/YDq8WrfgQM26O2Ouacwn_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.onepup.pingo_1.1/YDq8WrfgQM26O2Ouacwn.jpg",
+                "thumb": "https://archive.org/download/ouya_com.onepup.pingo_1.1/YDq8WrfgQM26O2Ouacwn_thumb.jpg"
             }
         ]
     },

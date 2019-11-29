@@ -1,12 +1,12 @@
 {
     "packageName": "com.kokak.HereticGLES",
     "title": "HereticGLES",
-    "description": "HereticGLES is an unofficial 3D hardware accelerated source port of the Heretic Engine.\nIn Heretic, You are one of the last Sidhe elves. D'Sparil, the Serpent Rider, with its minions destroyed your civilization. Now, you will take revenge.\n\n!!! ORIGINAL GAMES DATA ARE NOT PRESENT IN THIS RELEASE !!!\n\nIf you choose to not pay, you will have access to the full demo episode, and the first level of any other WAD. Also, only the first two maps of the demo will always have the extra features (lighting, 3D monsters, etc.). On any other map, each day, you will have about 2 minutes of gameplay with the extra features. To access the full Heretic game, please follow this link: http:\/\/kokak.free.fr\/android\/HereticGLES_Ouya.htm#install\n\nThis app is a source port released under the GPL license. \"Heretic\" is a trademark of \"Raven Software\". All trademarks are used under the terms of fair use: usage is nominative. Kokak is not connected with \"Raven Software\".",
+    "description": "HereticGLES is an unofficial 3D hardware accelerated source port of the Heretic Engine.\nIn Heretic, You are one of the last Sidhe elves. D'Sparil, the Serpent Rider, with its minions destroyed your civilization. Now, you will take revenge.\n\n!!! ORIGINAL GAMES DATA ARE NOT PRESENT IN THIS RELEASE !!!\n\nIf you choose to not pay, you will have access to the full demo episode, and the first level of any other WAD. Also, only the first two maps of the demo will always have the extra features (lighting, 3D monsters, etc.). On any other map, each day, you will have about 2 minutes of gameplay with the extra features. To access the full Heretic game, please follow this link: http://kokak.free.fr/android/HereticGLES_Ouya.htm#install\n\nThis app is a source port released under the GPL license. \"Heretic\" is a trademark of \"Raven Software\". All trademarks are used under the terms of fair use: usage is nominative. Kokak is not connected with \"Raven Software\".",
     "players": [
         1
     ],
     "genres": [
-        "FPS\/Shooter",
+        "FPS/Shooter",
         "Retro"
     ],
     "releases": [
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "df267250-b545-4a3a-9a78-b3def05319a5",
             "date": "2015-05-20T18:48:45Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.kokak.HereticGLES_1.1.03\/HereticGLES_1.1.03_com.kokak.HereticGLES.apk",
+            "url": "https://archive.org/download/ouya_com.kokak.HereticGLES_1.1.03/HereticGLES_1.1.03_com.kokak.HereticGLES.apk",
             "size": 20164614,
             "md5sum": "4000eab9c2b208769caa07145ab9d2b7",
             "publicSize": 455001,
@@ -23,44 +23,44 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/discover",
-        "video": "https:\/\/vimeo.com\/127816923",
+        "discover": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/discover",
+        "video": "https://vimeo.com/127816923",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-5"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/127816923"
+                "url": "https://vimeo.com/127816923"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/screenshot-1"
+                "url": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/screenshot-1"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.kokak.HereticGLES\/detail-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.kokak.HereticGLES/detail-5-thumb"
             }
         ]
     },

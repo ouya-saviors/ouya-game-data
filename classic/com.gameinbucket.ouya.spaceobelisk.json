@@ -7,8 +7,8 @@
     ],
     "genres": [
         "Adventure",
-        "Arcade\/Pinball",
-        "FPS\/Shooter"
+        "Arcade/Pinball",
+        "FPS/Shooter"
     ],
     "releases": [
         {
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "e04d4c46-8f1a-4188-9515-86e0daf71687",
             "date": "2013-08-01T18:14:07Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.gameinbucket.ouya.spaceobelisk_1.0\/Space%20Obelisk_1.0_com.gameinbucket.ouya.spaceobelisk.apk",
+            "url": "https://archive.org/download/ouya_com.gameinbucket.ouya.spaceobelisk_1.0/Space%20Obelisk_1.0_com.gameinbucket.ouya.spaceobelisk.apk",
             "size": 4072703,
             "md5sum": null,
             "publicSize": 0,
@@ -24,40 +24,40 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gameinbucket.ouya.spaceobelisk\/screenshot-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gameinbucket.ouya.spaceobelisk/screenshot-5-thumb"
             }
         ]
     },
@@ -69,7 +69,7 @@
         "founder": false
     },
     "contentRating": "9+",
-    "website": "http:\/\/gameinbucket.neocities.org",
+    "website": "http://gameinbucket.neocities.org",
     "firstPublishedAt": "2013-08-01T18:14:07Z",
     "inAppPurchases": false,
     "overview": "Released in August 2013 by gameinbucket.",

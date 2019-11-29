@@ -1,14 +1,14 @@
 {
     "packageName": "com.noowanda.discovery",
     "title": "Discovery",
-    "description": "In 'Discovery' you can explore a giant world that is made of blocks and modify it with your own creations.\r\nConstruct your house, build villages, cities, monumental constructions or dig deep under the earth.\r\nPlace torches to light up your creations in the dark and enjoy beautiful sunsets or watch the stars at night.\r\n\r\n\r\nFeatures:\r\n-animals\r\n-smooth, high quality 3D graphics with up to 60 FPS\r\n-realistic light and shadows\r\n-giant world of blocks\r\n-different times of day\r\n-atmospheric music\r\n-TNT :)\r\n\r\nMore features (e.g. Multiplayer) are planned for later updates.\r\n\r\nFor further infos visit\r\nhttp:\/\/www.noowanda.com",
+    "description": "In 'Discovery' you can explore a giant world that is made of blocks and modify it with your own creations.\r\nConstruct your house, build villages, cities, monumental constructions or dig deep under the earth.\r\nPlace torches to light up your creations in the dark and enjoy beautiful sunsets or watch the stars at night.\r\n\r\n\r\nFeatures:\r\n-animals\r\n-smooth, high quality 3D graphics with up to 60 FPS\r\n-realistic light and shadows\r\n-giant world of blocks\r\n-different times of day\r\n-atmospheric music\r\n-TNT :)\r\n\r\nMore features (e.g. Multiplayer) are planned for later updates.\r\n\r\nFor further infos visit\r\nhttp://www.noowanda.com",
     "players": [
         1
     ],
     "genres": [
         "Adventure",
         "Role-Playing",
-        "Sim\/Strategy"
+        "Sim/Strategy"
     ],
     "releases": [
         {
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "e3346253-c4bb-4b76-8dc9-ef9b3aaf33bd",
             "date": "2015-06-03T22:25:05Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.noowanda.discovery_2.0.0.0\/Discovery_2.0.0.0_com.noowanda.discovery.apk",
+            "url": "https://archive.org/download/ouya_com.noowanda.discovery_2.0.0.0/Discovery_2.0.0.0_com.noowanda.discovery.apk",
             "size": 33073116,
             "md5sum": "63438861da9f0937006a460977fd6681",
             "publicSize": 286015,
@@ -24,62 +24,62 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/discover",
-        "video": "https:\/\/vimeo.com\/121012618",
+        "discover": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/discover",
+        "video": "https://vimeo.com/121012618",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-5",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-6",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-7",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/screenshot-8"
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-5",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-6",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-7",
+            "http://ouya.cweiske.de/game-images/com.noowanda.discovery/screenshot-8"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/121012618"
+                "url": "https://vimeo.com/121012618"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-6",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-6-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-6",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-6-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-7",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-7-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-7",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-7-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-8",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.noowanda.discovery\/detail-8-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-8",
+                "thumb": "http://ouya.cweiske.de/game-images/com.noowanda.discovery/detail-8-thumb"
             }
         ]
     },
@@ -91,7 +91,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.noowanda.com",
+    "website": "http://www.noowanda.com",
     "firstPublishedAt": "2015-06-03T22:25:05Z",
     "inAppPurchases": false,
     "overview": "Released in June 2015 by noowanda.",

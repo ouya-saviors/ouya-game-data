@@ -1,14 +1,14 @@
 {
     "packageName": "com.tcksoft.wumpus",
     "title": "Hunt The Wumpus",
-    "description": "The TI\/99 classic is back.\r\n\r\nEnter the caves of the Wumpus with your single arrow and try to track him down and fire it into his heart. \r\n\r\nAvoid troublesome bats who will carry you away. \r\n\r\nTry not to stumble into the lair of the Wumpus, or fall into a bottomless pits of slime.\r\n\r\n",
+    "description": "The TI/99 classic is back.\r\n\r\nEnter the caves of the Wumpus with your single arrow and try to track him down and fire it into his heart. \r\n\r\nAvoid troublesome bats who will carry you away. \r\n\r\nTry not to stumble into the lair of the Wumpus, or fall into a bottomless pits of slime.\r\n\r\n",
     "players": [
         1
     ],
     "genres": [
-        "Puzzle\/Trivia",
+        "Puzzle/Trivia",
         "Retro",
-        "Sim\/Strategy"
+        "Sim/Strategy"
     ],
     "releases": [
         {
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "af307480-1ba6-4855-b7d7-78d211ec9e6a",
             "date": "2014-07-15T22:11:22Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.tcksoft.wumpus_1.0\/Hunt%20The%20Wumpus_1.0_com.tcksoft.wumpus.apk",
+            "url": "https://archive.org/download/ouya_com.tcksoft.wumpus_1.0/Hunt%20The%20Wumpus_1.0_com.tcksoft.wumpus.apk",
             "size": 495846,
             "md5sum": "de8c59d90ff0cc35e4d4f919341a948d",
             "publicSize": 32180,
@@ -24,32 +24,32 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/discover",
-        "video": "https:\/\/vimeo.com\/99569097",
+        "discover": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/discover",
+        "video": "https://vimeo.com/99569097",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/screenshot-3"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/99569097"
+                "url": "https://vimeo.com/99569097"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.tcksoft.wumpus\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-3-thumb"
             }
         ]
     },

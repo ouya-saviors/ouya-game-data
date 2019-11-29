@@ -6,8 +6,8 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
-        "FPS\/Shooter"
+        "Arcade/Pinball",
+        "FPS/Shooter"
     ],
     "releases": [
         {
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "2b763922-ac63-405e-b403-e5b3d9dfddd3",
             "date": "2014-06-03T06:07:54Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.ncot.dotshooter_1.0.0\/ncot-1gam-may_1.0.0_com.ncot.dotshooter.apk",
+            "url": "https://archive.org/download/ouya_com.ncot.dotshooter_1.0.0/ncot-1gam-may_1.0.0_com.ncot.dotshooter.apk",
             "size": 20076427,
             "md5sum": "0f9092654d3e8d1713a33c5cd0ca18b9",
             "publicSize": 277195,
@@ -23,44 +23,44 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/discover",
-        "video": "https:\/\/vimeo.com\/97004406",
+        "discover": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/discover",
+        "video": "https://vimeo.com/97004406",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/97004406"
+                "url": "https://vimeo.com/97004406"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-1"
+                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-2"
+                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-3"
+                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-4"
+                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.ncot.dotshooter\/screenshot-5"
+                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5"
             }
         ]
     },
@@ -72,7 +72,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/ncotsoftware.co.uk",
+    "website": "http://ncotsoftware.co.uk",
     "firstPublishedAt": "2014-06-03T06:07:54Z",
     "inAppPurchases": true,
     "overview": "Released in June 2014 by NCOT Software.",

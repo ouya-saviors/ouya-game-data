@@ -7,7 +7,7 @@
     ],
     "genres": [
         "Adventure",
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Kids List"
     ],
     "releases": [
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "8216e350-c6f1-4170-9913-3215eebdafa9",
             "date": "2013-06-24T22:05:37Z",
-            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/92bf95ce-9621-44cf-8603-01477283f1c2\/com.octograb.AstronautRescue\/8216e350-c6f1-4170-9913-3215eebdafa9\/RAbdIkyKQomPZwtjzrxE_Astronaut-Rescue-menu_v4_update_1-1.apk",
+            "url": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/92bf95ce-9621-44cf-8603-01477283f1c2/com.octograb.AstronautRescue/8216e350-c6f1-4170-9913-3215eebdafa9/RAbdIkyKQomPZwtjzrxE_Astronaut-Rescue-menu_v4_update_1-1.apk",
             "size": 12857021,
             "md5sum": null,
             "publicSize": 0,
@@ -24,28 +24,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.octograb.AstronautRescue\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.octograb.AstronautRescue/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/s1FsWBBcTuS9ryREoKoT.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/XGupM3wGTSKBRYPD9M1I.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/1UMRfncTQyCDUTGLdpOL.jpg"
+            "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT.jpg",
+            "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I.jpg",
+            "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL.jpg"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/s1FsWBBcTuS9ryREoKoT.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/s1FsWBBcTuS9ryREoKoT_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT.jpg",
+                "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/XGupM3wGTSKBRYPD9M1I.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/XGupM3wGTSKBRYPD9M1I_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I.jpg",
+                "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/1UMRfncTQyCDUTGLdpOL.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.octograb.AstronautRescue_1.0.59\/1UMRfncTQyCDUTGLdpOL_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL.jpg",
+                "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL_thumb.jpg"
             }
         ]
     },
@@ -57,7 +57,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.octograb.com",
+    "website": "http://www.octograb.com",
     "firstPublishedAt": "2013-06-22T16:11:58Z",
     "inAppPurchases": true,
     "overview": "Released in June 2013 by Octograb Studio.",

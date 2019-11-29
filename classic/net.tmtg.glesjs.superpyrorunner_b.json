@@ -6,8 +6,8 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
-        "FPS\/Shooter",
+        "Arcade/Pinball",
+        "FPS/Shooter",
         "Retro"
     ],
     "releases": [
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "044f58c6-3c6c-49a1-a051-75725861d01c",
             "date": "2014-08-14T15:05:53Z",
-            "url": "https:\/\/archive.org\/download\/ouya_net.tmtg.glesjs.superpyrorunner_b_1.0\/Super%20Pyro%20Runner_1.0_net.tmtg.glesjs.superpyrorunner_b.apk",
+            "url": "https://archive.org/download/ouya_net.tmtg.glesjs.superpyrorunner_b_1.0/Super%20Pyro%20Runner_1.0_net.tmtg.glesjs.superpyrorunner_b.apk",
             "size": 3335155,
             "md5sum": "6cba760367f6a764f2b94548619b51a7",
             "publicSize": 97392,
@@ -24,34 +24,34 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/screenshot-4"
+            "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/screenshot-1",
+            "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/screenshot-2",
+            "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/screenshot-3",
+            "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/screenshot-4"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/net.tmtg.glesjs.superpyrorunner_b\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.glesjs.superpyrorunner_b/detail-4-thumb"
             }
         ]
     },
@@ -63,7 +63,7 @@
         "founder": false
     },
     "contentRating": "9+",
-    "website": "http:\/\/tmtg.net\/",
+    "website": "http://tmtg.net/",
     "firstPublishedAt": "2014-08-14T15:05:53Z",
     "inAppPurchases": true,
     "overview": "Released in August 2014 by Boris van Schooten.",

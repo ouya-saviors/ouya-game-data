@@ -1,7 +1,7 @@
 {
     "packageName": "com.explusalpha.NesEmu",
     "title": "NES.emu",
-    "description": "Advanced open-source NES\/Famicom emulator based on FCEUX.\r\n\r\nNo ROMs are included with this app and must be supplied by the user. A number of public domain games\/demos are available at www.pdroms.de. Load ROM files located on your internal or external USB storage using the in-app file browser (.nes, .fds, & .zip formats).\r\n\r\nFollow me on Twitter for updates about my apps:\r\nhttps:\/\/twitter.com\/rakashazi\r\n\r\nVisit the homepage at explusalpha.com for more info, ports for other platforms, and my other apps.",
+    "description": "Advanced open-source NES/Famicom emulator based on FCEUX.\r\n\r\nNo ROMs are included with this app and must be supplied by the user. A number of public domain games/demos are available at www.pdroms.de. Load ROM files located on your internal or external USB storage using the in-app file browser (.nes, .fds, & .zip formats).\r\n\r\nFollow me on Twitter for updates about my apps:\r\nhttps://twitter.com/rakashazi\r\n\r\nVisit the homepage at explusalpha.com for more info, ports for other platforms, and my other apps.",
     "players": [
         1,
         2,
@@ -18,7 +18,7 @@
             "versionCode": 0,
             "uuid": "f2aea772-e21f-4d51-abb8-58b4dfb8fda4",
             "date": "2015-06-07T22:03:33Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.explusalpha.NesEmu_1.5.28\/NES.emu_1.5.28_com.explusalpha.NesEmu.apk",
+            "url": "https://archive.org/download/ouya_com.explusalpha.NesEmu_1.5.28/NES.emu_1.5.28_com.explusalpha.NesEmu.apk",
             "size": 551427,
             "md5sum": "8d9e0346287cabfb4054ae359c690c6b",
             "publicSize": 21252,
@@ -26,28 +26,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.explusalpha.NesEmu\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-3-thumb"
             }
         ]
     },
@@ -59,7 +59,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.explusalpha.com\/",
+    "website": "http://www.explusalpha.com/",
     "firstPublishedAt": "2013-06-13T04:09:58Z",
     "inAppPurchases": false,
     "overview": "Released in June 2015 by Robert Broglia.",

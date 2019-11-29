@@ -1,7 +1,7 @@
 {
     "packageName": "com.reicast.emulator",
     "title": "reicast",
-    "description": "reicast is a multiplatform Sega Dreamcast Emulator\r\n\r\nTo run the emulator you need to provide a copy of the dreamcast bios and flash.\r\n\r\nIn the internal memory, make a folder name dc, and a folder named data inside it, and put dc_boot.bin and dc_flash.bin in the data folder. You can dump these files from your Dreamcast (there are many tutorials on the internet).\r\n\r\nIf you use an android file manager, \/sdcard\/dc\/data\/ is the path to put the files",
+    "description": "reicast is a multiplatform Sega Dreamcast Emulator\r\n\r\nTo run the emulator you need to provide a copy of the dreamcast bios and flash.\r\n\r\nIn the internal memory, make a folder name dc, and a folder named data inside it, and put dc_boot.bin and dc_flash.bin in the data folder. You can dump these files from your Dreamcast (there are many tutorials on the internet).\r\n\r\nIf you use an android file manager, /sdcard/dc/data/ is the path to put the files",
     "players": [
         1
     ],
@@ -14,7 +14,7 @@
             "versionCode": 0,
             "uuid": "a84a02f8-793a-4c4b-8543-2249e55f9ccb",
             "date": "2014-05-01T22:54:00Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.reicast.emulator_r6\/reicast_r6_com.reicast.emulator.apk",
+            "url": "https://archive.org/download/ouya_com.reicast.emulator_r6/reicast_r6_com.reicast.emulator.apk",
             "size": 1980980,
             "md5sum": "fee0f12973ad74df2412ee9077f75539",
             "publicSize": 373466,
@@ -22,28 +22,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.reicast.emulator/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.reicast.emulator\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.reicast.emulator/screenshot-3-thumb"
             }
         ]
     },
@@ -55,7 +55,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/reicast.com",
+    "website": "http://reicast.com",
     "firstPublishedAt": "2014-05-01T22:54:00Z",
     "inAppPurchases": false,
     "overview": "Released in May 2014 by nillware.",

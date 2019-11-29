@@ -6,9 +6,9 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Dual Stick",
-        "FPS\/Shooter"
+        "FPS/Shooter"
     ],
     "releases": [
         {
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "931e68ea-2650-4e92-b582-34fbb34915ef",
             "date": "2013-11-02T00:00:41Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.unbound.salvage_1.0.4\/Salvage_1.0.4_com.unbound.salvage.apk",
+            "url": "https://archive.org/download/ouya_com.unbound.salvage_1.0.4/Salvage_1.0.4_com.unbound.salvage.apk",
             "size": 6208849,
             "md5sum": null,
             "publicSize": 0,
@@ -24,40 +24,40 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.unbound.salvage/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-3",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-4",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-5"
+            "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-3",
+            "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-4",
+            "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-5"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.unbound.salvage\/screenshot-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.unbound.salvage/screenshot-5-thumb"
             }
         ]
     },
@@ -69,7 +69,7 @@
         "founder": false
     },
     "contentRating": "9+",
-    "website": "http:\/\/salvagegame.blogspot.com\/",
+    "website": "http://salvagegame.blogspot.com/",
     "firstPublishedAt": "2013-11-02T00:00:41Z",
     "inAppPurchases": true,
     "overview": "Released in November 2013 by Unbound Studios.",

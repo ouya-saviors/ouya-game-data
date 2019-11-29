@@ -1,13 +1,13 @@
 {
     "packageName": "com.marcogiorgini.ouya.roboXcape",
     "title": "roboXcape",
-    "description": "A new exciting 3D arcade game now available for your OUYA! \r\nFind your way out from each level, looking for keys, using elevators and teleports, avoiding guards, robots, spiders and lethal security systems, in order to get to the exit portal. Beware: time matters! Levels are flooding so you won\u2019t have too much time to spare. But remember, if you really want to master this game, no bonus should be left behind. \r\nThree worlds, with eight stages each, will challenge your skills, providing a fast-paced arcade\/puzzle game, meant to entertain your taste for logic and action.",
+    "description": "A new exciting 3D arcade game now available for your OUYA! \r\nFind your way out from each level, looking for keys, using elevators and teleports, avoiding guards, robots, spiders and lethal security systems, in order to get to the exit portal. Beware: time matters! Levels are flooding so you won\u2019t have too much time to spare. But remember, if you really want to master this game, no bonus should be left behind. \r\nThree worlds, with eight stages each, will challenge your skills, providing a fast-paced arcade/puzzle game, meant to entertain your taste for logic and action.",
     "players": [
         1
     ],
     "genres": [
         "Adventure",
-        "Arcade\/Pinball"
+        "Arcade/Pinball"
     ],
     "releases": [
         {
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "c1143ceb-d2e8-4d22-bc3f-df73cd1fb48b",
             "date": "2013-06-10T14:27:44Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.marcogiorgini.ouya.roboXcape_1.0\/roboXcape_1.0_com.marcogiorgini.ouya.roboXcape.apk",
+            "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.roboXcape_1.0/roboXcape_1.0_com.marcogiorgini.ouya.roboXcape.apk",
             "size": 10554035,
             "md5sum": null,
             "publicSize": 0,
@@ -23,28 +23,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/discover",
         "video": null,
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-3"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.marcogiorgini.ouya.roboXcape\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.roboXcape/screenshot-3-thumb"
             }
         ]
     },
@@ -56,7 +56,7 @@
         "founder": true
     },
     "contentRating": "12+",
-    "website": "http:\/\/marcogiorgini.com\/apps\/index.php\/roboxcape\/",
+    "website": "http://marcogiorgini.com/apps/index.php/roboxcape/",
     "firstPublishedAt": "2013-06-10T14:27:44Z",
     "inAppPurchases": true,
     "overview": "Released in June 2013 by Marco Giorgini Production.",

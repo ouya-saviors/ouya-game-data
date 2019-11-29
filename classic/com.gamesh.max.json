@@ -6,7 +6,7 @@
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Retro"
     ],
     "releases": [
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "7cfe8417-0067-40fe-bc92-4d0a8ff313a9",
             "date": "2014-07-22T16:05:02Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.gamesh.max_1.03\/Legend%20Of%20Max_1.03_com.gamesh.max.apk",
+            "url": "https://archive.org/download/ouya_com.gamesh.max_1.03/Legend%20Of%20Max_1.03_com.gamesh.max.apk",
             "size": 12390713,
             "md5sum": "7c30ccba46465312ff57267f07e3b8aa",
             "publicSize": 10335232,
@@ -23,32 +23,32 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/discover",
-        "video": "https:\/\/vimeo.com\/100645088",
+        "discover": "http://ouya.cweiske.de/game-images/com.gamesh.max/discover",
+        "video": "https://vimeo.com/100645088",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/com.gamesh.max/screenshot-1",
+            "http://ouya.cweiske.de/game-images/com.gamesh.max/screenshot-2",
+            "http://ouya.cweiske.de/game-images/com.gamesh.max/screenshot-3"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/100645088"
+                "url": "https://vimeo.com/100645088"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gamesh.max/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gamesh.max/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gamesh.max/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gamesh.max/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.gamesh.max\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.gamesh.max/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.gamesh.max/detail-3-thumb"
             }
         ]
     },

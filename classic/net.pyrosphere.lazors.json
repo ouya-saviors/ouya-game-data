@@ -6,7 +6,7 @@
         1
     ],
     "genres": [
-        "Puzzle\/Trivia"
+        "Puzzle/Trivia"
     ],
     "releases": [
         {
@@ -14,7 +14,7 @@
             "versionCode": 0,
             "uuid": "7633219a-ce2f-4915-b62c-d6a47a82e9a5",
             "date": "2014-03-31T16:13:56Z",
-            "url": "https:\/\/archive.org\/download\/ouya_net.pyrosphere.lazors_2.3.0\/Lazors_2.3.0_net.pyrosphere.lazors.apk",
+            "url": "https://archive.org/download/ouya_net.pyrosphere.lazors_2.3.0/Lazors_2.3.0_net.pyrosphere.lazors.apk",
             "size": 7161643,
             "md5sum": "cbeae6574d5e6a89ff9dc838d8d16696",
             "publicSize": 401064,
@@ -22,28 +22,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/net.pyrosphere.lazors\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/net.pyrosphere.lazors/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eXYD3XwxQI6JBArzuUwN",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XKCrz3hvTFe1C7sQXyqJ",
-            "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rDQvfHkoRsK78MuAfWJH"
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eXYD3XwxQI6JBArzuUwN",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XKCrz3hvTFe1C7sQXyqJ",
+            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/rDQvfHkoRsK78MuAfWJH"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/eXYD3XwxQI6JBArzuUwN",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/eXYD3XwxQI6JBArzuUwN\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eXYD3XwxQI6JBArzuUwN",
+                "thumb": "https://www.filepicker.io/api/file/eXYD3XwxQI6JBArzuUwN/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/XKCrz3hvTFe1C7sQXyqJ",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/XKCrz3hvTFe1C7sQXyqJ\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XKCrz3hvTFe1C7sQXyqJ",
+                "thumb": "https://www.filepicker.io/api/file/XKCrz3hvTFe1C7sQXyqJ/convert?w=245"
             },
             {
                 "type": "image",
-                "url": "https:\/\/d3e4aumcqn8cw3.cloudfront.net\/api\/file\/rDQvfHkoRsK78MuAfWJH",
-                "thumb": "https:\/\/www.filepicker.io\/api\/file\/rDQvfHkoRsK78MuAfWJH\/convert?w=245"
+                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/rDQvfHkoRsK78MuAfWJH",
+                "thumb": "https://www.filepicker.io/api/file/rDQvfHkoRsK78MuAfWJH/convert?w=245"
             }
         ]
     },
@@ -55,7 +55,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/pyrosphere.net\/",
+    "website": "http://pyrosphere.net/",
     "firstPublishedAt": "2013-10-10T23:20:15Z",
     "inAppPurchases": true,
     "overview": "Released in March 2014 by Pyrosphere.",

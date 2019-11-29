@@ -1,12 +1,12 @@
 {
     "packageName": "org.allbinary.game.minispacewar.vector",
-    "title": "MiniSpaceWar w\/Vectors",
+    "title": "MiniSpaceWar w/Vectors",
     "description": "Little ships big battles.\r\n\r\nShips, Space, Guns, Power Ups, and More..",
     "players": [
         1
     ],
     "genres": [
-        "Arcade\/Pinball"
+        "Arcade/Pinball"
     ],
     "releases": [
         {
@@ -14,7 +14,7 @@
             "versionCode": 0,
             "uuid": "e21059ee-645b-451d-95f6-19334ecc16a8",
             "date": "2013-12-11T03:32:45Z",
-            "url": "https:\/\/archive.org\/download\/ouya_org.allbinary.game.minispacewar.vector_1.2.0\/MiniSpaceWar%20Vector_1.2.0_org.allbinary.game.minispacewar.vector.apk",
+            "url": "https://archive.org/download/ouya_org.allbinary.game.minispacewar.vector_1.2.0/MiniSpaceWar%20Vector_1.2.0_org.allbinary.game.minispacewar.vector.apk",
             "size": 542777,
             "md5sum": null,
             "publicSize": 0,
@@ -22,32 +22,32 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/discover",
-        "video": "https:\/\/vimeo.com\/80300128",
+        "discover": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/discover",
+        "video": "https://vimeo.com/80300128",
         "screenshots": [
-            "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-1",
-            "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-2",
-            "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-3"
+            "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-1",
+            "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-2",
+            "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-3"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "https:\/\/vimeo.com\/80300128"
+                "url": "https://vimeo.com/80300128"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-1",
+                "thumb": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-2",
+                "thumb": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/org.allbinary.game.minispacewar.vector\/screenshot-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-3",
+                "thumb": "http://ouya.cweiske.de/game-images/org.allbinary.game.minispacewar.vector/screenshot-3-thumb"
             }
         ]
     },
@@ -59,7 +59,7 @@
         "founder": false
     },
     "contentRating": "9+",
-    "website": "http:\/\/www.allbinary.com",
+    "website": "http://www.allbinary.com",
     "firstPublishedAt": "2013-12-11T03:32:45Z",
     "inAppPurchases": true,
     "overview": "Released in December 2013 by AllBinary.",
@@ -73,7 +73,7 @@
         {
             "promoted": true,
             "identifier": "unlock_minispacewarvector_levels",
-            "name": "MiniSpaceWar w\/Vectors Levels",
+            "name": "MiniSpaceWar w/Vectors Levels",
             "description": "Unlocks all single player levels.",
             "localPrice": 0.99,
             "originalPrice": 0.99,

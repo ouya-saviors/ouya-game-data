@@ -6,7 +6,7 @@
         1
     ],
     "genres": [
-        "Sim\/Strategy",
+        "Sim/Strategy",
         "Sports"
     ],
     "releases": [
@@ -15,7 +15,7 @@
             "versionCode": 0,
             "uuid": "70c28d59-7b51-408c-9cb6-26439dc52000",
             "date": "2013-06-27T21:13:53Z",
-            "url": "https:\/\/devs-ouya-tv-prod.s3.amazonaws.com\/apps\/120ade5b-55f6-4190-9b38-57170b2dbd76\/com.tribaloid.aroundtherock\/70c28d59-7b51-408c-9cb6-26439dc52000\/F8mUuULERlKU8HOLePgA_OuyaATR_25June13.apk",
+            "url": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/120ade5b-55f6-4190-9b38-57170b2dbd76/com.tribaloid.aroundtherock/70c28d59-7b51-408c-9cb6-26439dc52000/F8mUuULERlKU8HOLePgA_OuyaATR_25June13.apk",
             "size": 27573945,
             "md5sum": null,
             "publicSize": 0,
@@ -23,28 +23,28 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.tribaloid.aroundtherock\/discover",
+        "discover": "http://ouya.cweiske.de/game-images/com.tribaloid.aroundtherock/discover",
         "video": null,
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/UyvthxrBR5qGgqY6utqk.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/yNmFZyk7Saq9ZotACIlo.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/oBvBflzqRCye4gVTksyA.jpg"
+            "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/UyvthxrBR5qGgqY6utqk.jpg",
+            "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/yNmFZyk7Saq9ZotACIlo.jpg",
+            "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/oBvBflzqRCye4gVTksyA.jpg"
         ],
         "details": [
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/UyvthxrBR5qGgqY6utqk.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/UyvthxrBR5qGgqY6utqk_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/UyvthxrBR5qGgqY6utqk.jpg",
+                "thumb": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/UyvthxrBR5qGgqY6utqk_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/yNmFZyk7Saq9ZotACIlo.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/yNmFZyk7Saq9ZotACIlo_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/yNmFZyk7Saq9ZotACIlo.jpg",
+                "thumb": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/yNmFZyk7Saq9ZotACIlo_thumb.jpg"
             },
             {
                 "type": "image",
-                "url": "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/oBvBflzqRCye4gVTksyA.jpg",
-                "thumb": "https:\/\/archive.org\/download\/ouya_com.tribaloid.aroundtherock_1.0.5\/oBvBflzqRCye4gVTksyA_thumb.jpg"
+                "url": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/oBvBflzqRCye4gVTksyA.jpg",
+                "thumb": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/oBvBflzqRCye4gVTksyA_thumb.jpg"
             }
         ]
     },
@@ -56,7 +56,7 @@
         "founder": true
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.atrdiscgolf.com",
+    "website": "http://www.atrdiscgolf.com",
     "firstPublishedAt": "2013-03-19T17:11:55Z",
     "inAppPurchases": true,
     "overview": "Released in June 2013 by Tribaloid.",

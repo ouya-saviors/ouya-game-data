@@ -1,12 +1,12 @@
 {
     "packageName": "com.soulareus.HardLander",
     "title": "Hard Lander",
-    "description": "The worlds first competitive 4 player rocket acrobatics game! Hone your piloting skills in challenge mode, then test them on your friends!\nversion 0.88 11\/08\/2014\n-New Level: \"Laser Tag\" where all ships have a laser weapon!!\n-More FREE levels and now it randomizes between them for more demo fun!\n-Laser Lab laser is now much easier to use\n-Tons of updates to levels including sharper graphics\n-Improved screen wrapping and smashed many bugs\nversion 0.86 10\/08\/2014\n-New free multiplayer level for demo users: Asteroids!\n-New Level Teeter Totter!\n-Asteroids are all procedurally generated now! \n-You can drop bombs on graveyard if you fly fast enough.\n\nversion 0.85 9\/14\/2014\n- Removed slow mo from Sumo Level, allows new strategies such as shoving to win!\n- Removed ship top mass by 30%.  Now ships have a lower center of gravity Which helps to balance when hovering.  Also Ships are now faster and land a little easier.  Should be more new user friendly.  Something for everybody!\n\nversion 0.84 8\/27\/2014\n-Updated Multiplayer level Laser Lab: New controllable laser to better balance risk reward  and make it more fun.\n-Updated Multiplayer level Death Sphere:  added large lasers to allow easier sphere rotation and laser melting.  Moved activation pads to the ehem, pads.  Increased size of death sphere slightly.\n\nversion 0.83 8\/2\/2014\n-Added trophies to challenge mode.\n-Improved random multiplayer option, added death sphere to random\n-Fixed Laser lab laser Glitch\n\nversion 0.8\n-Added new multiplayer level: Death Sphere.\n-completely retooled controller system.\n-tweaked final flight school level.\n\nversion 0.76\n-reduced mass of asteroids to make them easier to hit your friends with.\n-added screen shake on explosion.\n-removed ship on ship collision on sumo level\n-fixed teams multiplayer point icons.\n-increased resolution of some textures.\n\nversion 0.7\n-Changed FREE multiplayer level to TOWER!\n-Many graphics improvements to both one player and multiplayer.\n-Added point icons and win icons to multiplayer.\n-Added opposing thrusters to space levels for more controlled turns.\n-bug fixes\n\nv0.51: \nAdded Lasers to Laser Lab, Random option, bug fixes.",
+    "description": "The worlds first competitive 4 player rocket acrobatics game! Hone your piloting skills in challenge mode, then test them on your friends!\nversion 0.88 11/08/2014\n-New Level: \"Laser Tag\" where all ships have a laser weapon!!\n-More FREE levels and now it randomizes between them for more demo fun!\n-Laser Lab laser is now much easier to use\n-Tons of updates to levels including sharper graphics\n-Improved screen wrapping and smashed many bugs\nversion 0.86 10/08/2014\n-New free multiplayer level for demo users: Asteroids!\n-New Level Teeter Totter!\n-Asteroids are all procedurally generated now! \n-You can drop bombs on graveyard if you fly fast enough.\n\nversion 0.85 9/14/2014\n- Removed slow mo from Sumo Level, allows new strategies such as shoving to win!\n- Removed ship top mass by 30%.  Now ships have a lower center of gravity Which helps to balance when hovering.  Also Ships are now faster and land a little easier.  Should be more new user friendly.  Something for everybody!\n\nversion 0.84 8/27/2014\n-Updated Multiplayer level Laser Lab: New controllable laser to better balance risk reward  and make it more fun.\n-Updated Multiplayer level Death Sphere:  added large lasers to allow easier sphere rotation and laser melting.  Moved activation pads to the ehem, pads.  Increased size of death sphere slightly.\n\nversion 0.83 8/2/2014\n-Added trophies to challenge mode.\n-Improved random multiplayer option, added death sphere to random\n-Fixed Laser lab laser Glitch\n\nversion 0.8\n-Added new multiplayer level: Death Sphere.\n-completely retooled controller system.\n-tweaked final flight school level.\n\nversion 0.76\n-reduced mass of asteroids to make them easier to hit your friends with.\n-added screen shake on explosion.\n-removed ship on ship collision on sumo level\n-fixed teams multiplayer point icons.\n-increased resolution of some textures.\n\nversion 0.7\n-Changed FREE multiplayer level to TOWER!\n-Many graphics improvements to both one player and multiplayer.\n-Added point icons and win icons to multiplayer.\n-Added opposing thrusters to space levels for more controlled turns.\n-bug fixes\n\nv0.51: \nAdded Lasers to Laser Lab, Random option, bug fixes.",
     "players": [
         1
     ],
     "genres": [
-        "Arcade\/Pinball",
+        "Arcade/Pinball",
         "Fight!",
         "Multiplayer"
     ],
@@ -16,7 +16,7 @@
             "versionCode": 0,
             "uuid": "4fc82738-e56a-4796-a132-59812662ff51",
             "date": "2014-11-11T23:36:33Z",
-            "url": "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/HardLander_0.88_com.soulareus.HardLander.apk",
+            "url": "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/HardLander_0.88_com.soulareus.HardLander.apk",
             "size": 32650071,
             "md5sum": "9adb5002c1ea82eba69ac26838768100",
             "publicSize": 830770,
@@ -24,54 +24,54 @@
         }
     ],
     "media": {
-        "discover": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/discover",
-        "video": "http:\/\/vimeo.com\/111137549",
+        "discover": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/discover",
+        "video": "http://vimeo.com/111137549",
         "screenshots": [
-            "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/ACvfjl6RZ2f7GkreETC0.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/TuG86tgTv8Aj5M9aYTwn.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/OkF0meQXyExKYGyXGnbg.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/RxTj7l2gRIWVxYIxkrSP.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/4b17Ww1YT8Koot7E3evR.jpg",
-            "https:\/\/archive.org\/download\/ouya_com.soulareus.HardLander_0.88\/k1tVKeXOS56CU6E7dUQ3.jpg"
+            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/ACvfjl6RZ2f7GkreETC0.jpg",
+            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/TuG86tgTv8Aj5M9aYTwn.jpg",
+            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/OkF0meQXyExKYGyXGnbg.jpg",
+            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/RxTj7l2gRIWVxYIxkrSP.jpg",
+            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/4b17Ww1YT8Koot7E3evR.jpg",
+            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/k1tVKeXOS56CU6E7dUQ3.jpg"
         ],
         "details": [
             {
                 "type": "video",
-                "url": "http:\/\/vimeo.com\/111137549"
+                "url": "http://vimeo.com/111137549"
             },
             {
                 "type": "video",
-                "url": "http:\/\/vimeo.com\/97501454"
+                "url": "http://vimeo.com/97501454"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-1",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-1-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-1",
+                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-1-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-2",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-2-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-2",
+                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-2-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-3",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-3-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-3",
+                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-3-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-4",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-4-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-4",
+                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-4-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-5",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-5-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-5",
+                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-5-thumb"
             },
             {
                 "type": "image",
-                "url": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-6",
-                "thumb": "http:\/\/ouya.cweiske.de\/game-images\/com.soulareus.HardLander\/detail-6-thumb"
+                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-6",
+                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-6-thumb"
             }
         ]
     },
@@ -83,7 +83,7 @@
         "founder": false
     },
     "contentRating": "Everyone",
-    "website": "http:\/\/www.indiedb.com\/games\/hard-lander",
+    "website": "http://www.indiedb.com/games/hard-lander",
     "firstPublishedAt": "2014-05-01T19:18:56Z",
     "inAppPurchases": true,
     "overview": "Released in November 2014 by Soulareus Interactive.",
