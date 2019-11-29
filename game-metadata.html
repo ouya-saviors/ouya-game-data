@@ -508,7 +508,7 @@
     <tr>
      <td>media</td>
      <td>Main image</td>
-     <td>media.discover</td>
+     <td>discover</td>
      <td>image</td>
      <td>mainImageFullUrl</td>
      <td>tileImage</td>
@@ -536,7 +536,7 @@
     <tr>
      <td>media</td>
      <td>Video</td>
-     <td>media.video (optional)</td>
+     <td>media (first type=video)</td>
      <td></td>
      <td>videoUrl</td>
      <td></td>
@@ -547,7 +547,7 @@
     <tr>
      <td>media</td>
      <td>Game screenshots</td>
-     <td>media.screenshots (optional)</td>
+     <td>media (all of type=image)</td>
      <td></td>
      <td>filepickerScreenshots</td>
      <td>-</td>
@@ -558,7 +558,7 @@
     <tr>
      <td>media</td>
      <td>Detail video</td>
-     <td>media.details.*.url</td>
+     <td>media.*.url</td>
      <td></td>
      <td></td>
      <td>mediaTiles.*.url (type=video)</td>
@@ -577,19 +577,13 @@
       fp_url is not used in OUYA's launcher.
       The launcher loads the thumbnail at first, immediately after the full image.
       If no mediaTile is available, the app's mainImageFullUrl
-      is used. When offline, the apk image is used.<br/>
-      <br/>
-      Game data information:
-      If details is not given or an emtpy array,
-      "mediaTile" array should automatically be created by combining
-      "media.large", "media.video" and "media.screenshots" into the
-      mediaTiles format.
+      is used. When offline, the apk image is used.
      </td>
     </tr>
     <tr>
      <td>media</td>
      <td>Detail image thumbnail</td>
-     <td>media.details.*.thumb</td>
+     <td>media.*.thumb</td>
      <td></td>
      <td></td>
      <td>mediaTiles.*.urls.thumb (type=image)</td>
@@ -611,7 +605,7 @@
     <tr>
      <td>media</td>
      <td>Detail image full resolution</td>
-     <td>media.details.*.url</td>
+     <td>media.*.url</td>
      <td></td>
      <td></td>
      <td>mediaTiles.*.urls.full (type=image)</td>
