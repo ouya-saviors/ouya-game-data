@@ -22,48 +22,38 @@
             "nativeSize": 20274140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/discover",
-        "video": "https://vimeo.com/134597363",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/134597363"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/134597363"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playone.cowardhero2/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "79db0186-1dd6-4de1-991e-763c1bc70d29",
         "name": "PlayOne, Ltd.",

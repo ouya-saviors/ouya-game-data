@@ -22,44 +22,34 @@
             "nativeSize": 723548
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/net.geekytechguy.games.kineticassault/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/jh77b6o1QbYv0ieHY9lb.jpg",
-            "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/uUgmAPAFTKmXmuFZX3SY.jpg",
-            "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/Q971lrE8TXOLUdGBJbHb.jpg",
-            "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/CCswVPCOSoa5CgxE3qtV.jpg",
-            "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/iOkd1TstT02JNgq8tV3Y.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/jh77b6o1QbYv0ieHY9lb.jpg",
-                "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/jh77b6o1QbYv0ieHY9lb_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/uUgmAPAFTKmXmuFZX3SY.jpg",
-                "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/uUgmAPAFTKmXmuFZX3SY_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/Q971lrE8TXOLUdGBJbHb.jpg",
-                "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/Q971lrE8TXOLUdGBJbHb_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/CCswVPCOSoa5CgxE3qtV.jpg",
-                "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/CCswVPCOSoa5CgxE3qtV_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/iOkd1TstT02JNgq8tV3Y.jpg",
-                "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/iOkd1TstT02JNgq8tV3Y_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/net.geekytechguy.games.kineticassault/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/jh77b6o1QbYv0ieHY9lb.jpg",
+            "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/jh77b6o1QbYv0ieHY9lb_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/uUgmAPAFTKmXmuFZX3SY.jpg",
+            "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/uUgmAPAFTKmXmuFZX3SY_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/Q971lrE8TXOLUdGBJbHb.jpg",
+            "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/Q971lrE8TXOLUdGBJbHb_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/CCswVPCOSoa5CgxE3qtV.jpg",
+            "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/CCswVPCOSoa5CgxE3qtV_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/iOkd1TstT02JNgq8tV3Y.jpg",
+            "thumb": "https://archive.org/download/ouya_net.geekytechguy.games.kineticassault_1.0.3/iOkd1TstT02JNgq8tV3Y_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Barrett Games",

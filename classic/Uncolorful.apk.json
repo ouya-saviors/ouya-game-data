@@ -25,62 +25,49 @@
             "nativeSize": 15030768
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/Uncolorful.apk/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-1",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-2",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-3",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-4",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-5",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-6",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-7",
-            "http://ouya.cweiske.de/game-images/Uncolorful.apk/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/Uncolorful.apk/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/Uncolorful.apk/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": "7f539c96-19e7-4ff9-8f9d-822809629b71",
         "name": "Unicornio Games",

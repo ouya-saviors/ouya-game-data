@@ -1,7 +1,7 @@
 {
     "packageName": "com.nekki.vector",
     "title": "Vector",
-    "description": "Vector is an exciting, arcade-style game featuring you as the exceptional free runner who won\u2019t be held down by the system. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by \u201cBig Brother\u201d who\u2019s sole purpose is to capture you and bring you back.\r\nGame Features:\r\n\r\n- Arcade gameplay from the makers of the hit Android game\r\n- Astoundingly lifelike Parkour-inspired moves made possible by Cascadeur animation tools\r\n- Quick to learn, challenging to master",
+    "description": "Vector is an exciting, arcade-style game featuring you as the exceptional free runner who won’t be held down by the system. Run, vault, slide and climb using extraordinary techniques based on the urban ninja sport of Parkour all while being chased by “Big Brother” who’s sole purpose is to capture you and bring you back.\r\nGame Features:\r\n\r\n- Arcade gameplay from the makers of the hit Android game\r\n- Astoundingly lifelike Parkour-inspired moves made possible by Cascadeur animation tools\r\n- Quick to learn, challenging to master",
     "players": [
         1
     ],
@@ -22,32 +22,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.nekki.vector/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.nekki.vector/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nekki.vector/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Nekki GmbH",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.realtechvr.kosmikrevenge",
     "title": "Kosmik Revenge",
-    "description": "Defend the galaxy with Kosmik Revenge, the fast paced space shooter, inspired from classic shoot'em up and updated with challenges, online features and advanced graphics.\r\n\r\nFight a countless number of enemies, make your way in asteroid field to collect resources, fight huge boss with unpredictable behavior.\r\n\r\nBe amazed by HD definition graphics, high quality music and voices.\r\n\r\nCome play Kosmik Revenge now for a great experience!\r\n\r\nKey features\r\n\r\n\u2022 Shoot hordes of hostile space ships out, 2 games modes (Classic or daily challenge).\r\n\u2022 Full HD graphics with high end effects like motion blur, display post process, accelerometer 3D parallax.\r\n\u2022 Destroy asteroid and collect resources for upgrading your ship and power-ups including bullet time mode, multi-ways shot, (life, attack, defense).\r\n\u2022 32 levels with increasing difficulty.\r\n\u2022 Reach the top scores, see your progression, overtake you OUYA friends and watch their progression.\r\n",
+    "description": "Defend the galaxy with Kosmik Revenge, the fast paced space shooter, inspired from classic shoot'em up and updated with challenges, online features and advanced graphics.\r\n\r\nFight a countless number of enemies, make your way in asteroid field to collect resources, fight huge boss with unpredictable behavior.\r\n\r\nBe amazed by HD definition graphics, high quality music and voices.\r\n\r\nCome play Kosmik Revenge now for a great experience!\r\n\r\nKey features\r\n\r\n• Shoot hordes of hostile space ships out, 2 games modes (Classic or daily challenge).\r\n• Full HD graphics with high end effects like motion blur, display post process, accelerometer 3D parallax.\r\n• Destroy asteroid and collect resources for upgrading your ship and power-ups including bullet time mode, multi-ways shot, (life, attack, defense).\r\n• 32 levels with increasing difficulty.\r\n• Reach the top scores, see your progression, overtake you OUYA friends and watch their progression.\r\n",
     "players": [
         1
     ],
@@ -24,60 +24,48 @@
             "nativeSize": 2776276
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/discover",
-        "video": "https://vimeo.com/91528138",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/91Q4KGN6RUG36HVzaaT8.jpg",
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/5QWWpSEtSGar5atqBOf5.jpg",
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/nAdTFUFoSxm5LXEaouLE.jpg",
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/1caDOhySRTy0lrN2xz2A.jpg",
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/b9X1kT2FSz25JW0Lfs1X.jpg",
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/fkvI1qwuSXeFyunh9Gpz.jpg",
-            "https://archive.org/download/ouya_com.realtechvr.kosmikrevenge_1.5.1/ixXK2rEdRaK7S7jUtXbg.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/91528138"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/91528138"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.kosmikrevenge/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "realtech VR",

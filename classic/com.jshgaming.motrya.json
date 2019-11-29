@@ -21,36 +21,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/discover",
-        "video": "https://vimeo.com/76891112",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/76891112"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/76891112"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jshgaming.motrya/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "JSH Gaming",

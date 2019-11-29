@@ -23,38 +23,29 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamese.egghead/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamese.egghead/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamese.egghead/screenshot-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "3T Games",

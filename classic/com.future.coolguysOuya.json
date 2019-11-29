@@ -21,56 +21,44 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.future.coolguysOuya/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": "7ff6abdd-57c3-45a9-8036-2e2aa7e408de",
         "name": "Future Today Inc",

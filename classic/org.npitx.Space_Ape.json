@@ -1,7 +1,7 @@
 {
     "packageName": "org.npitx.Space_Ape",
     "title": "Space Ape",
-    "description": "Space Ape places players in the role of a highly-energized ape caught in a never-ending space journey. Players control Dmitri\u2019s spacecraft and quickly dodge numerous space hazards like meteors, comets, and aliens! Space Ape challenges players to survive as long as possible while also collecting valuable space bananas.",
+    "description": "Space Ape places players in the role of a highly-energized ape caught in a never-ending space journey. Players control Dmitri’s spacecraft and quickly dodge numerous space hazards like meteors, comets, and aliens! Space Ape challenges players to survive as long as possible while also collecting valuable space bananas.",
     "players": [
         1
     ],
@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-1",
-            "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-2",
-            "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-3",
-            "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-4",
-            "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/org.npitx.Space_Ape/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "f8683843-485f-4787-8a59-fca9b64d7f96",
         "name": "nonPareil Studio",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.nightlightinteractive.ww",
     "title": "Whispering Willows",
-    "description": "Young Elena Elkhorn embarks on a harrowing journey to find her missing father and discover the secrets of the Willows Mansion. Aiding her journey is a unique amulet, she received from her father, which allows her to astral project her spirit into a ghostly-realm and communicate with the dead. Play as Elena to find her missing father, use your astral projection to solve the mansion\u2019s tricks and puzzles, help the lingering souls and discover so much more in Whispering Willows.\r\n\r\n-Casual Connect - Winner 2014 for \"Best Story\"\r\n-SIGC (Seattle Indie Gaming Competition) - Winner 2014\r\n-OUYA CREATE Game Jam - Winner 2013 for \u201cMost Immersive,\u201d finalist for \u201cGrand Prize,\u201d and finalist for \u201cBest Visuals\u201d\r\n-Game Connection Europe - Finalist 2014\r\n-Captivate Conference Game Design Competition - Finalist 2013\r\n\r\nLatest Update:\r\n-Version 1.21\r\n-3rd party controller support\r\n-Language support - Spanish, German, French, Italian, Russian, Polish, Ukrainian, Chinese (NEW), and Portuguese-Brazilian (NEW)",
+    "description": "Young Elena Elkhorn embarks on a harrowing journey to find her missing father and discover the secrets of the Willows Mansion. Aiding her journey is a unique amulet, she received from her father, which allows her to astral project her spirit into a ghostly-realm and communicate with the dead. Play as Elena to find her missing father, use your astral projection to solve the mansion’s tricks and puzzles, help the lingering souls and discover so much more in Whispering Willows.\r\n\r\n-Casual Connect - Winner 2014 for \"Best Story\"\r\n-SIGC (Seattle Indie Gaming Competition) - Winner 2014\r\n-OUYA CREATE Game Jam - Winner 2013 for “Most Immersive,” finalist for “Grand Prize,” and finalist for “Best Visuals”\r\n-Game Connection Europe - Finalist 2014\r\n-Captivate Conference Game Design Competition - Finalist 2013\r\n\r\nLatest Update:\r\n-Version 1.21\r\n-3rd party controller support\r\n-Language support - Spanish, German, French, Italian, Russian, Polish, Ukrainian, Chinese (NEW), and Portuguese-Brazilian (NEW)",
     "players": [
         1
     ],
@@ -22,48 +22,38 @@
             "nativeSize": 14992732
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/discover",
-        "video": "http://vimeo.com/95470138",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.nightlightinteractive.ww_1.21/qSpzpiRMRKywdA1s55K9.jpg",
-            "https://archive.org/download/ouya_com.nightlightinteractive.ww_1.21/xjg9coMkR2WveAi9fICq.jpg",
-            "https://archive.org/download/ouya_com.nightlightinteractive.ww_1.21/tSP6uH8BS4CGJjkoic2m.jpg",
-            "https://archive.org/download/ouya_com.nightlightinteractive.ww_1.21/92TYjTvGRueUgbxmx01j.jpg",
-            "https://archive.org/download/ouya_com.nightlightinteractive.ww_1.21/1HekbXAReCMvT5UBfEi4.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/95470138"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/95470138"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nightlightinteractive.ww/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Night Light Interactive",

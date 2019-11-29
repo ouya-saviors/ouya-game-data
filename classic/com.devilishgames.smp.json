@@ -1,7 +1,7 @@
 {
     "packageName": "com.devilishgames.smp",
     "title": "Shopping Mall Parking",
-    "description": "Enough already! Let's put an end to all those lousy drivers who don\u2019t know how to park correctly, all those who hit and run, whose cars look like a sack of potatoes...\r\n\r\nProve you\u2019re not one of them! Show them how to park! Come to the shopping mall parking lot and see how many cars you can park.\r\nAfter the successful 2D & 3D versions for web, iOS & Android, here's the ultimate parking game for OUYA.\r\n\r\nWhat are people saying?\r\n\r\n\"Learning to park has changed my life. Now I'm the king of the streets and my white trash girlfriend is even more in love with me.\" - Kevin. \r\n\"Thanks to Shopping Mall Parking's accelerometer control I can play with just one hand while putting the other out of the window.\" - Johnny. \r\n\"I've tried to pass my driver's license 10 times now, this app is worthless!!!\" - Henry David.\r\n...ok, well, you can't win em all.",
+    "description": "Enough already! Let's put an end to all those lousy drivers who don’t know how to park correctly, all those who hit and run, whose cars look like a sack of potatoes...\r\n\r\nProve you’re not one of them! Show them how to park! Come to the shopping mall parking lot and see how many cars you can park.\r\nAfter the successful 2D & 3D versions for web, iOS & Android, here's the ultimate parking game for OUYA.\r\n\r\nWhat are people saying?\r\n\r\n\"Learning to park has changed my life. Now I'm the king of the streets and my white trash girlfriend is even more in love with me.\" - Kevin. \r\n\"Thanks to Shopping Mall Parking's accelerometer control I can play with just one hand while putting the other out of the window.\" - Johnny. \r\n\"I've tried to pass my driver's license 10 times now, this app is worthless!!!\" - Henry David.\r\n...ok, well, you can't win em all.",
     "players": [
         1
     ],
@@ -22,36 +22,28 @@
             "nativeSize": 14956816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/discover",
-        "video": "http://vimeo.com/115162904",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.devilishgames.smp/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.devilishgames.smp/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.devilishgames.smp/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/115162904"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/115162904"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.smp/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "SPHERICAL PIXEL, S.L",

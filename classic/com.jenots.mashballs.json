@@ -1,7 +1,7 @@
 {
     "packageName": "com.jenots.mashballs",
     "title": "Mashballs",
-    "description": "Have fun and mash some annoying balls! \r\nGreat entertainment for everybody!\r\nUltimate MashBall leader \u2013 the great Baller - has to stand up to mash all the annoying balls. Help him!\r\nBecame the leader yourself. Have some fight, have some fun and mash some annoying balls!\r\nCollect points, overcome obstacles, accelerate on super bouncers, switch gravity and even use magnetic fields from your own finger tips, all to smash the mocking balls.",
+    "description": "Have fun and mash some annoying balls! \r\nGreat entertainment for everybody!\r\nUltimate MashBall leader – the great Baller - has to stand up to mash all the annoying balls. Help him!\r\nBecame the leader yourself. Have some fight, have some fun and mash some annoying balls!\r\nCollect points, overcome obstacles, accelerate on super bouncers, switch gravity and even use magnetic fields from your own finger tips, all to smash the mocking balls.",
     "players": [
         1
     ],
@@ -23,44 +23,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jenots.mashballs/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "bbab3a03-0dff-48fb-97db-ec3e8cd9a6f9",
         "name": "JenotsCom",

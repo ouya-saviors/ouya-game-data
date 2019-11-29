@@ -1,7 +1,7 @@
 {
     "packageName": "com.dotemu.ddtrilogy",
     "title": "Double Dragon Trilogy",
-    "description": "A groundbreaking, uber-popular game upon its arcade debut in 1987, Double Dragon is the undisputed godfather of co-op beat \u2018em all!\r\nEnter Double Dragon Trilogy, a compilation specially optimized for OUYA and which includes all three installments of the beloved arcade series: Double Dragon, Double Dragon 2: The Revenge, and Double Dragon 3: The Rosetta Stone. The first one begins with Billy and his brother Jimmy, two martial arts experts, in a mission to rescue Billy's girlfriend, Marian, who\u2019s been kidnapped by the Black Shadows Gang. All your favorite moves are here:  punches, kicks, elbows, knees, head-butts and an assortment of not-exactly-street-legal weapons.\r\nBattle your way through all 3 titles and bask in the greatness of one of the \u201880s most popular arcade games!\r\n\r\nFEATURES:\r\n\u2022\tTwo game modes: \u201cArcade\u201d (play the game from beginning to end and go for the high score) and \u201cStory\u201d (unlock new stages while playing through the game)\r\n\u2022\tThree difficulty levels: \u201cmobile\u201d (specially balanced for mobile games), \u201coriginal\u201d (similar to the arcade version) and \u201cexpert\u201d (a real challenge!) \r\n\u2022\tLocal multiplayer\r\n\u2022\tChoose between the original 8-bit soundtrack and a brand-new remastered one! \r\n",
+    "description": "A groundbreaking, uber-popular game upon its arcade debut in 1987, Double Dragon is the undisputed godfather of co-op beat ‘em all!\r\nEnter Double Dragon Trilogy, a compilation specially optimized for OUYA and which includes all three installments of the beloved arcade series: Double Dragon, Double Dragon 2: The Revenge, and Double Dragon 3: The Rosetta Stone. The first one begins with Billy and his brother Jimmy, two martial arts experts, in a mission to rescue Billy's girlfriend, Marian, who’s been kidnapped by the Black Shadows Gang. All your favorite moves are here:  punches, kicks, elbows, knees, head-butts and an assortment of not-exactly-street-legal weapons.\r\nBattle your way through all 3 titles and bask in the greatness of one of the ‘80s most popular arcade games!\r\n\r\nFEATURES:\r\n•\tTwo game modes: “Arcade” (play the game from beginning to end and go for the high score) and “Story” (unlock new stages while playing through the game)\r\n•\tThree difficulty levels: “mobile” (specially balanced for mobile games), “original” (similar to the arcade version) and “expert” (a real challenge!) \r\n•\tLocal multiplayer\r\n•\tChoose between the original 8-bit soundtrack and a brand-new remastered one! \r\n",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 6112544
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/discover",
-        "video": "https://vimeo.com/96567948",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/96567948"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/96567948"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.ddtrilogy/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
         "name": "DotEmu SAS",

@@ -23,47 +23,37 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.miracleboxgames.toddlerzoo/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/SOpMhQvBTt2ANozQorFJ.jpg",
-            "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/IbQdSJ2mSFKeELkeK52q.jpg",
-            "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/tczFbdq0TLSwvKPXeuWA.jpg",
-            "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/dXSf9HQCSmqGYByLVNO6.jpg",
-            "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/zvrrpwdTfeF0OXnJs8mA.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/SOpMhQvBTt2ANozQorFJ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/SOpMhQvBTt2ANozQorFJ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/IbQdSJ2mSFKeELkeK52q.jpg",
-                "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/IbQdSJ2mSFKeELkeK52q_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/tczFbdq0TLSwvKPXeuWA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/tczFbdq0TLSwvKPXeuWA_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/dXSf9HQCSmqGYByLVNO6.jpg",
-                "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/dXSf9HQCSmqGYByLVNO6_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/zvrrpwdTfeF0OXnJs8mA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/zvrrpwdTfeF0OXnJs8mA_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.miracleboxgames.toddlerzoo/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/SOpMhQvBTt2ANozQorFJ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/SOpMhQvBTt2ANozQorFJ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/IbQdSJ2mSFKeELkeK52q.jpg",
+            "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/IbQdSJ2mSFKeELkeK52q_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/tczFbdq0TLSwvKPXeuWA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/tczFbdq0TLSwvKPXeuWA_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/dXSf9HQCSmqGYByLVNO6.jpg",
+            "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/dXSf9HQCSmqGYByLVNO6_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/zvrrpwdTfeF0OXnJs8mA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.miracleboxgames.toddlerzoo_1.0.1/zvrrpwdTfeF0OXnJs8mA_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
-        "name": "Ren\u00e8 Lange und Sebastian Geller GbR",
+        "name": "Renè Lange und Sebastian Geller GbR",
         "supportEmail": "contact@miracleboxgames.com",
         "supportPhone": null,
         "founder": true
@@ -72,7 +62,7 @@
     "website": "http://www.miracleboxgames.com",
     "firstPublishedAt": "2013-09-26T17:46:11Z",
     "inAppPurchases": true,
-    "overview": "Released in September 2013 by Ren\u00e8 Lange und Sebastian Geller GbR.",
+    "overview": "Released in September 2013 by Renè Lange und Sebastian Geller GbR.",
     "premium": false,
     "rating": {
         "likeCount": 15,

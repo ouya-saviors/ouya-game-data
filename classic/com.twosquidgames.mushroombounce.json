@@ -23,78 +23,63 @@
             "nativeSize": 739932
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/discover",
-        "video": "https://vimeo.com/82799202",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-10"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/82799202"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-10-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/82799202"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.mushroombounce/screenshot-10-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Two Squid Games",

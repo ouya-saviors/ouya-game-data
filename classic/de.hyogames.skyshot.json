@@ -22,62 +22,49 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-1",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-2",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-3",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-4",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-5",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-6",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-7",
-            "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/de.hyogames.skyshot/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Hyo Software",

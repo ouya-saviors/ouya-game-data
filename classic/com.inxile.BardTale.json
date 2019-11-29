@@ -1,7 +1,7 @@
 {
     "packageName": "com.inxile.BardTale",
     "title": "The Bard's Tale",
-    "description": "\u201cReady your weapon and bladder as you embark on this ridiculously addicting quest and the funniest adventure of the year, The Bard\u2019s Tale\u201d \u2013 Game Chronicles \r\n\r\nOver 20-30 hours of adventure, featuring: \r\n\r\n\u2022 50 enemy types plus over a dozen special boss enemies \r\n\u2022 A vast world to explore \r\n\u2022 A full cast of bizarre NPC\u2019s \r\n\u2022 16 magical characters to discover and summon to aid you \r\n\u2022 150+ unique items of weaponry, armor, instruments, tokens, artifacts and loot! \r\n\u2022 More Song & Dance numbers than any other game, including a zombie dance-off! \r\n\u2022 14+ hours of outstanding voice-acting from top Hollywood talent, including Cary Elwes (The Princess Bride) as the Bard, and the inimitable Tony Jay as the Narrator.\r\n\r\nOUYA adaptation by Square One Games. ",
+    "description": "“Ready your weapon and bladder as you embark on this ridiculously addicting quest and the funniest adventure of the year, The Bard’s Tale” – Game Chronicles \r\n\r\nOver 20-30 hours of adventure, featuring: \r\n\r\n• 50 enemy types plus over a dozen special boss enemies \r\n• A vast world to explore \r\n• A full cast of bizarre NPC’s \r\n• 16 magical characters to discover and summon to aid you \r\n• 150+ unique items of weaponry, armor, instruments, tokens, artifacts and loot! \r\n• More Song & Dance numbers than any other game, including a zombie dance-off! \r\n• 14+ hours of outstanding voice-acting from top Hollywood talent, including Cary Elwes (The Princess Bride) as the Bard, and the inimitable Tony Jay as the Narrator.\r\n\r\nOUYA adaptation by Square One Games. ",
     "players": [
         1
     ],
@@ -22,60 +22,48 @@
             "nativeSize": 5705940
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/discover",
-        "video": "https://vimeo.com/90798012",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.inxile.BardTale/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/90798012"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/90798012"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.inxile.BardTale/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "inXile entertainment",

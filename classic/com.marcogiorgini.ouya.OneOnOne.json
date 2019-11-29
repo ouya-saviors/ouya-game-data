@@ -1,7 +1,7 @@
 {
     "packageName": "com.marcogiorgini.ouya.OneOnOne",
     "title": "Street Basket: One on One",
-    "description": "A must have for every Basketball fan who want some true arcade rush!\r\nStreet Basket: One on One is a 3d game that will take the pleasure of the street version of this sport directly to your OUYA.\r\n\r\nFour players with different skills and attitude, two game modes (first to score 21 or five minutes matches), replay, 1 or 2 player support (to challenge your friends, once you feel you\u2019re good enough), all in just one side of a court.",
+    "description": "A must have for every Basketball fan who want some true arcade rush!\r\nStreet Basket: One on One is a 3d game that will take the pleasure of the street version of this sport directly to your OUYA.\r\n\r\nFour players with different skills and attitude, two game modes (first to score 21 or five minutes matches), replay, 1 or 2 player support (to challenge your friends, once you feel you’re good enough), all in just one side of a court.",
     "players": [
         1
     ],
@@ -22,38 +22,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.OneOnOne/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/67LKiD1hRkmP1ecjgfjj.jpg",
-            "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/9OkyYNqZS4W19Amm0rq3.jpg",
-            "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/B2EPagcpQIqQAri987cN.jpg",
-            "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/YPfQXhApRNGI4nbqeP80.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/67LKiD1hRkmP1ecjgfjj.jpg",
-                "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/67LKiD1hRkmP1ecjgfjj_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/9OkyYNqZS4W19Amm0rq3.jpg",
-                "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/9OkyYNqZS4W19Amm0rq3_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/B2EPagcpQIqQAri987cN.jpg",
-                "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/B2EPagcpQIqQAri987cN_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/YPfQXhApRNGI4nbqeP80.jpg",
-                "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/YPfQXhApRNGI4nbqeP80_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.marcogiorgini.ouya.OneOnOne/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/67LKiD1hRkmP1ecjgfjj.jpg",
+            "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/67LKiD1hRkmP1ecjgfjj_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/9OkyYNqZS4W19Amm0rq3.jpg",
+            "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/9OkyYNqZS4W19Amm0rq3_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/B2EPagcpQIqQAri987cN.jpg",
+            "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/B2EPagcpQIqQAri987cN_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/YPfQXhApRNGI4nbqeP80.jpg",
+            "thumb": "https://archive.org/download/ouya_com.marcogiorgini.ouya.OneOnOne_1.2/YPfQXhApRNGI4nbqeP80_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Marco Giorgini Production",

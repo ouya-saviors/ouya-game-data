@@ -1,7 +1,7 @@
 {
     "packageName": "com.craftinglegends.holydiver",
     "title": "Holy Diver",
-    "description": "\u201cOne Grail is not enough.\u201d\r\n\r\nNow updated with new Grailcounter and even better gameplay.\r\n\r\nUpdate 1.1: \"There's more fish on the plate\"\r\n\r\n- adjusted difficulty\r\n- added second level\r\n- added more fish, bigger fish and faster fish\r\n- fixed some camera issues\r\n- grails are more shiny now\r\n- the old man still has no real life\r\n\r\nUse a Gamepad with Left Control Stick and \u2018O\u2019.\r\n\r\nThe game is pretty hard and has only this one level. But that\u2019s part of the design.\r\n\r\nWe were a team of three on the Ludum Dare 29 Jam and hope that you have as much fun playing this as we had building this.",
+    "description": "“One Grail is not enough.”\r\n\r\nNow updated with new Grailcounter and even better gameplay.\r\n\r\nUpdate 1.1: \"There's more fish on the plate\"\r\n\r\n- adjusted difficulty\r\n- added second level\r\n- added more fish, bigger fish and faster fish\r\n- fixed some camera issues\r\n- grails are more shiny now\r\n- the old man still has no real life\r\n\r\nUse a Gamepad with Left Control Stick and ‘O’.\r\n\r\nThe game is pretty hard and has only this one level. But that’s part of the design.\r\n\r\nWe were a team of three on the Ludum Dare 29 Jam and hope that you have as much fun playing this as we had building this.",
     "players": [
         1
     ],
@@ -21,38 +21,29 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-4"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.craftinglegends.holydiver/screenshot-4"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "New Media Games",

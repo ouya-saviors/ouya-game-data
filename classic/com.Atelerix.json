@@ -21,38 +21,29 @@
             "nativeSize": 988928
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Atelerix/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.Atelerix_1.0/VeYkzqXlRKiYLYNW3z4B.jpg",
-            "https://archive.org/download/ouya_com.Atelerix_1.0/X8sJZoMRuO1TodmB0b6Q.jpg",
-            "https://archive.org/download/ouya_com.Atelerix_1.0/5MYrx9qzRYW90X3ELHCL.jpg",
-            "https://archive.org/download/ouya_com.Atelerix_1.0/KRoaposgSsCAfIWg6jJ5.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Atelerix/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Atelerix/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "3adb23fe-0f38-4012-a66e-4cd7bee37efa",
         "name": "Cogitare Computing",

@@ -22,38 +22,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/net.evgiz.worm/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-1",
-            "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-2",
-            "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-3",
-            "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/net.evgiz.worm/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/net.evgiz.worm/screenshot-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Evgiz",

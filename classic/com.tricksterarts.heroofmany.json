@@ -1,7 +1,7 @@
 {
     "packageName": "com.tricksterarts.heroofmany",
     "title": "Hero of Many",
-    "description": "8/10 - Pocket Gamer: \"a beautiful and innovative story-driven puzzle adventure\"\r\n5/5 - Know your Apps: \"proof that games can be art\"\r\n4/5 - Gamezebo: \"Gorgeous visuals and music\"\r\n9.5/10 - ArcadeLife: \"a personal journey, an emotional story without words\"\r\n5/5 - GameWoof: \"excellent game... ...a future classic.\"\r\n\r\nHero Of Many takes you on an epic journey as a tiny hero in a dangerous world. But you\u2019re not alone; you lead a swarm of water-beings through fierce battles for freedom across four different worlds and twenty-six choreographed levels. \r\n\r\nIt\u2019s an atmospheric action adventure that takes you deep into underwater caverns. Where you: \r\n\u2022 Explore mysterious places \r\n\u2022 Save your friends \r\n\u2022 Learn how to survive \r\n\u2022 Face array of challenges \r\n\u2022 Discover new powers \r\n\u2022 Defeat monsters \r\n\r\nHero Of Many is a story told with no words that explores what it means to be a hero. \r\n\u2022 4 different worlds \r\n\u2022 26 story levels \r\n\u2022 Aesthetic art design \r\n\u2022 Original soundtrack \r\n\u2022 Immersive audio \r\n\u2022 Physical puzzles \r\n\r\nIn Hero Of Many you will not survive alone. You need your friends and they need you. \r\nCan you rise to the challenge?",
+    "description": "8/10 - Pocket Gamer: \"a beautiful and innovative story-driven puzzle adventure\"\r\n5/5 - Know your Apps: \"proof that games can be art\"\r\n4/5 - Gamezebo: \"Gorgeous visuals and music\"\r\n9.5/10 - ArcadeLife: \"a personal journey, an emotional story without words\"\r\n5/5 - GameWoof: \"excellent game... ...a future classic.\"\r\n\r\nHero Of Many takes you on an epic journey as a tiny hero in a dangerous world. But you’re not alone; you lead a swarm of water-beings through fierce battles for freedom across four different worlds and twenty-six choreographed levels. \r\n\r\nIt’s an atmospheric action adventure that takes you deep into underwater caverns. Where you: \r\n• Explore mysterious places \r\n• Save your friends \r\n• Learn how to survive \r\n• Face array of challenges \r\n• Discover new powers \r\n• Defeat monsters \r\n\r\nHero Of Many is a story told with no words that explores what it means to be a hero. \r\n• 4 different worlds \r\n• 26 story levels \r\n• Aesthetic art design \r\n• Original soundtrack \r\n• Immersive audio \r\n• Physical puzzles \r\n\r\nIn Hero Of Many you will not survive alone. You need your friends and they need you. \r\nCan you rise to the challenge?",
     "players": [
         1
     ],
@@ -22,48 +22,38 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tricksterarts.heroofmany/discover",
-        "video": "https://vimeo.com/77889998",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/1Q6za5DRRGuCil1dqIwf.jpg",
-            "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/pgUe04lOQz9TmT7qCbaO.jpg",
-            "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/WFzFmPlMShCLJzdZCsOD.jpg",
-            "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/snKariFUQW2LFZXeUbkH.jpg",
-            "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/OWU3wfydQkSOPr5vHm5D.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/77889998"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/1Q6za5DRRGuCil1dqIwf.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/1Q6za5DRRGuCil1dqIwf_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/pgUe04lOQz9TmT7qCbaO.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/pgUe04lOQz9TmT7qCbaO_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/WFzFmPlMShCLJzdZCsOD.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/WFzFmPlMShCLJzdZCsOD_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/snKariFUQW2LFZXeUbkH.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/snKariFUQW2LFZXeUbkH_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/OWU3wfydQkSOPr5vHm5D.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/OWU3wfydQkSOPr5vHm5D_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tricksterarts.heroofmany/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/77889998"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/1Q6za5DRRGuCil1dqIwf.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/1Q6za5DRRGuCil1dqIwf_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/pgUe04lOQz9TmT7qCbaO.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/pgUe04lOQz9TmT7qCbaO_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/WFzFmPlMShCLJzdZCsOD.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/WFzFmPlMShCLJzdZCsOD_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/snKariFUQW2LFZXeUbkH.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/snKariFUQW2LFZXeUbkH_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/OWU3wfydQkSOPr5vHm5D.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tricksterarts.heroofmany_1.038/OWU3wfydQkSOPr5vHm5D_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Trickster Arts",

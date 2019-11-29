@@ -23,50 +23,39 @@
             "nativeSize": 7364260
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Mint.Burning/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-4"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-5"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-6"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Mint.Burning/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-5"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.Burning/screenshot-6"
+        }
+    ],
     "developer": {
         "uuid": "98690b90-9c3c-4060-bf26-bc755410e0b3",
         "name": "Team Omni",

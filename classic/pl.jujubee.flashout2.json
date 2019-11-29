@@ -1,7 +1,7 @@
 {
     "packageName": "pl.jujubee.flashout2",
     "title": "FLASHOUT 2",
-    "description": "FLASHOUT 2, the sequel to the highly-acclaimed anti-gravity racer FLASHOUT 3D is finally here! Get into one of many ultra-fast ships and use your arsenal of rockets, guns, bonuses and upgrades to fight your way to victory!\r\n\r\nFLASHOUT 2 offers a fresh and addicting racing experience featuring a redesigned and enhanced Career Mode with story elements, massive improvements in matter of steering, physics, opponent\u2019s AI, and other gameplay elements, an Online Multiplayer Mode and introduces completely new and exciting game modes, such as Destruction, Elimination and Versus!\r\n\r\nFLASHOUT 2 also features high-end console-quality graphics, some of the best and most accessible controls to allow you to focus on pure action, amazing licensed electronic music and game controllers support! Additionally the game offers a unique interactive equalizer, that analyzes in-game music and accordingly determines, in real-time, what the visual effects look like!\r\n\r\nFeatures and highlights:\r\n- Amazing racing experience!\r\n- Addicting and enhanced Career Mode!\r\n- Free Online Multiplayer with different game modes!\r\n- Console-quality high-end graphics!\r\n- Licensed electronic music!\r\n- 10 highly-detailed futuristic circuits (Los Angeles, London, Paris, Warsaw, Moscow, Frankfurt and more)!\r\n- Dozens of challenging races!\r\n- New and unique game modes (Destruction, Elimination, Versus)!\r\n- Upgradeable, super-fast ships!\r\n- Weapons and guns!\r\n- Precise, fun and awesome controls!\r\n- Many cool and useful bonuses!\r\n- Clever AI, adapting to your style of play!\r\n- Interactive Equalizer \u2013 music affects graphics!\r\n- Gorgeous visual effects!\r\n- Facebook and Twitter integration!\r\n\r\nSupported languages: English, Spanish, German, French, Italian, Polish, Japanese, Korean, Chinese, Portugese, Russian",
+    "description": "FLASHOUT 2, the sequel to the highly-acclaimed anti-gravity racer FLASHOUT 3D is finally here! Get into one of many ultra-fast ships and use your arsenal of rockets, guns, bonuses and upgrades to fight your way to victory!\r\n\r\nFLASHOUT 2 offers a fresh and addicting racing experience featuring a redesigned and enhanced Career Mode with story elements, massive improvements in matter of steering, physics, opponent’s AI, and other gameplay elements, an Online Multiplayer Mode and introduces completely new and exciting game modes, such as Destruction, Elimination and Versus!\r\n\r\nFLASHOUT 2 also features high-end console-quality graphics, some of the best and most accessible controls to allow you to focus on pure action, amazing licensed electronic music and game controllers support! Additionally the game offers a unique interactive equalizer, that analyzes in-game music and accordingly determines, in real-time, what the visual effects look like!\r\n\r\nFeatures and highlights:\r\n- Amazing racing experience!\r\n- Addicting and enhanced Career Mode!\r\n- Free Online Multiplayer with different game modes!\r\n- Console-quality high-end graphics!\r\n- Licensed electronic music!\r\n- 10 highly-detailed futuristic circuits (Los Angeles, London, Paris, Warsaw, Moscow, Frankfurt and more)!\r\n- Dozens of challenging races!\r\n- New and unique game modes (Destruction, Elimination, Versus)!\r\n- Upgradeable, super-fast ships!\r\n- Weapons and guns!\r\n- Precise, fun and awesome controls!\r\n- Many cool and useful bonuses!\r\n- Clever AI, adapting to your style of play!\r\n- Interactive Equalizer – music affects graphics!\r\n- Gorgeous visual effects!\r\n- Facebook and Twitter integration!\r\n\r\nSupported languages: English, Spanish, German, French, Italian, Polish, Japanese, Korean, Chinese, Portugese, Russian",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 15071604
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/discover",
-        "video": "http://vimeo.com/89663337",
-        "screenshots": [
-            "https://archive.org/download/ouya_pl.jujubee.flashout2_1.0.2/xV0ljbbaRPuapJWSMiho.jpg",
-            "https://archive.org/download/ouya_pl.jujubee.flashout2_1.0.2/McNiyGl4R6AjHTMP2Xdt.jpg",
-            "https://archive.org/download/ouya_pl.jujubee.flashout2_1.0.2/I3unYxldQVaDkw59v3de.jpg",
-            "https://archive.org/download/ouya_pl.jujubee.flashout2_1.0.2/sgcRyi0eSwyr9YCpX34K.jpg",
-            "https://archive.org/download/ouya_pl.jujubee.flashout2_1.0.2/CaTUxA1xTeqUi3H5Xdvd.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/89663337"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/89663337"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/pl.jujubee.flashout2/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Jujubee S.A.",

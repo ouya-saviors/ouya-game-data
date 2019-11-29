@@ -25,44 +25,34 @@
             "nativeSize": 18184808
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.cone.shadow/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.cone.shadow_4.3/HKgz8ttASHeI9vxRXHO3.jpg",
-            "https://archive.org/download/ouya_com.cone.shadow_4.3/Wo3nxdOjSQKkTX88CLDl.jpg",
-            "https://archive.org/download/ouya_com.cone.shadow_4.3/68fEhluYToa8SJ1wefEX.jpg",
-            "https://archive.org/download/ouya_com.cone.shadow_4.3/VviS1JKRCSQrCcTs4qKY.jpg",
-            "https://archive.org/download/ouya_com.cone.shadow_4.3/MLyY7JlpQqmXoxJrIun1.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.cone.shadow/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cone.shadow/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Cone Inc.",

@@ -23,126 +23,103 @@
             "nativeSize": 2924816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/discover",
-        "video": "http://vimeo.com/104420319",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-11",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-12",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-13",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-14",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-15",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-16",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-17",
-            "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/screenshot-18"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/104420319"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-11-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-12",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-12-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-13",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-13-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-14",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-14-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-15",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-15-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-16",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-16-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-17",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-17-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-18",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-18-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/104420319"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-11-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-12",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-12-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-13",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-13-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-14",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-14-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-15",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-15-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-16",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-16-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-17",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-17-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-18",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MattMakesGames.TowerFall/detail-18-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Matt Makes Games Inc.",

@@ -23,9 +23,8 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/org.blockinger.game/discover"
-    },
+    "discover": "http://ouya.cweiske.de/game-images/org.blockinger.game/discover",
+    "media": null,
     "developer": {
         "uuid": "ea422c24-00a5-11ea-b424-937a35bf4309",
         "name": "vocollapse"
@@ -33,5 +32,8 @@
     "contentRating": "Everyone",
     "website": "https://github.com/cweiske/Blockinger",
     "firstPublishedAt": "2019-11-04T21:02:23Z",
-    "inAppPurchases": false
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": null,
+    "rating": null
 }

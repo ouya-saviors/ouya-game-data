@@ -23,38 +23,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.schoendevelopment.sansarom/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/ehIJgtC6RUSxK8KzE0CG.jpg",
-            "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/W2tpB0uBQtOVBGbzs8ev.jpg",
-            "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/QmApJhBeQCDHijaxVeYR.jpg",
-            "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/dv6nqS1VRv2LTFwB6Ahu.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/ehIJgtC6RUSxK8KzE0CG.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/ehIJgtC6RUSxK8KzE0CG_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/W2tpB0uBQtOVBGbzs8ev.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/W2tpB0uBQtOVBGbzs8ev_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/QmApJhBeQCDHijaxVeYR.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/QmApJhBeQCDHijaxVeYR_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/dv6nqS1VRv2LTFwB6Ahu.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/dv6nqS1VRv2LTFwB6Ahu_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.schoendevelopment.sansarom/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/ehIJgtC6RUSxK8KzE0CG.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/ehIJgtC6RUSxK8KzE0CG_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/W2tpB0uBQtOVBGbzs8ev.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/W2tpB0uBQtOVBGbzs8ev_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/QmApJhBeQCDHijaxVeYR.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/QmApJhBeQCDHijaxVeYR_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/dv6nqS1VRv2LTFwB6Ahu.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schoendevelopment.sansarom_1.51/dv6nqS1VRv2LTFwB6Ahu_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "schoendevelopment",

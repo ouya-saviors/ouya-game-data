@@ -1,7 +1,7 @@
 {
     "packageName": "com.luckyframe.gentlemen_",
     "title": "Gentlemen!",
-    "description": "Gentlemen!\r\nLocal multiplayer Victorian-themed deathmatch! At least 2 players required.\r\nHead-to-Head Knife Pigeon Bomb Battles!\r\nUp to 4 Players, super fast paced arena multiplayer mayhem.\r\n\r\nEdge says: \"skilfully combines the arcade immediacy of Super Crate Box with the weaponised chaos of Super Smash Bros, and VVVVVV\u2019s instant gravity-switching\"",
+    "description": "Gentlemen!\r\nLocal multiplayer Victorian-themed deathmatch! At least 2 players required.\r\nHead-to-Head Knife Pigeon Bomb Battles!\r\nUp to 4 Players, super fast paced arena multiplayer mayhem.\r\n\r\nEdge says: \"skilfully combines the arcade immediacy of Super Crate Box with the weaponised chaos of Super Smash Bros, and VVVVVV’s instant gravity-switching\"",
     "players": [
         1
     ],
@@ -23,36 +23,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.luckyframe.gentlemen_/discover",
-        "video": "https://vimeo.com/87793047",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/IjKgfKw3QsWZSOtUeDt0.jpg",
-            "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/jGUzpmUuR0RYBj8fkaPD.jpg",
-            "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/InOlCc2RiSZPxvEIITpW.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/87793047"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/IjKgfKw3QsWZSOtUeDt0.jpg",
-                "thumb": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/IjKgfKw3QsWZSOtUeDt0_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/jGUzpmUuR0RYBj8fkaPD.jpg",
-                "thumb": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/jGUzpmUuR0RYBj8fkaPD_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/InOlCc2RiSZPxvEIITpW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/InOlCc2RiSZPxvEIITpW_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.luckyframe.gentlemen_/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87793047"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/IjKgfKw3QsWZSOtUeDt0.jpg",
+            "thumb": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/IjKgfKw3QsWZSOtUeDt0_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/jGUzpmUuR0RYBj8fkaPD.jpg",
+            "thumb": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/jGUzpmUuR0RYBj8fkaPD_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/InOlCc2RiSZPxvEIITpW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.luckyframe.gentlemen__1.5/InOlCc2RiSZPxvEIITpW_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Lucky Frame",

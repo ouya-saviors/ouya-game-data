@@ -21,53 +21,42 @@
             "nativeSize": 7104528
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/screenshot-1",
-            "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/screenshot-2",
-            "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/screenshot-3",
-            "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/screenshot-4",
-            "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/screenshot-5",
-            "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/danielnordstrom.mrmike/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
-        "name": "Daniel Nordstr\u00f6m",
+        "name": "Daniel Nordström",
         "supportEmail": null,
         "supportPhone": null,
         "founder": false
@@ -76,7 +65,7 @@
     "website": "",
     "firstPublishedAt": "2014-11-24T18:06:32Z",
     "inAppPurchases": false,
-    "overview": "Released in November 2014 by Daniel Nordstr\u00f6m.",
+    "overview": "Released in November 2014 by Daniel Nordström.",
     "premium": false,
     "rating": {
         "likeCount": 0,

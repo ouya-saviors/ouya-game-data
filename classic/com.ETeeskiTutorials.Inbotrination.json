@@ -22,44 +22,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ETeeskiTutorials.Inbotrination/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/1lLM6eAfSHWH2jcsHSdJ.jpg",
-            "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/JUS4bW6ORPm0RNTn9D6z.jpg",
-            "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/FUEHWYNySDSIE5BhmKc7.jpg",
-            "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/YUuJW9ZRQdeYMCxKU3a1.jpg",
-            "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/ia6FOChFRpysng027dyg.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/1lLM6eAfSHWH2jcsHSdJ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/1lLM6eAfSHWH2jcsHSdJ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/JUS4bW6ORPm0RNTn9D6z.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/JUS4bW6ORPm0RNTn9D6z_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/FUEHWYNySDSIE5BhmKc7.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/FUEHWYNySDSIE5BhmKc7_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/YUuJW9ZRQdeYMCxKU3a1.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/YUuJW9ZRQdeYMCxKU3a1_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/ia6FOChFRpysng027dyg.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/ia6FOChFRpysng027dyg_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ETeeskiTutorials.Inbotrination/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/1lLM6eAfSHWH2jcsHSdJ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/1lLM6eAfSHWH2jcsHSdJ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/JUS4bW6ORPm0RNTn9D6z.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/JUS4bW6ORPm0RNTn9D6z_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/FUEHWYNySDSIE5BhmKc7.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/FUEHWYNySDSIE5BhmKc7_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/YUuJW9ZRQdeYMCxKU3a1.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/YUuJW9ZRQdeYMCxKU3a1_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/ia6FOChFRpysng027dyg.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ETeeskiTutorials.Inbotrination_0.1/ia6FOChFRpysng027dyg_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "ETeeski",

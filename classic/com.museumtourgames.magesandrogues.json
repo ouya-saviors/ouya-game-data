@@ -1,7 +1,7 @@
 {
     "packageName": "com.museumtourgames.magesandrogues",
     "title": "Mages and Rogues",
-    "description": "Enter a world where Mages and Rogues are pitted against each other in an endless struggle for power and vengeance! Wage epic battles against your friends in rigid, fast-paced combat and claim victory for your team \u2013 or for yourself.\r\n\r\nCompete for glory:\r\n***With up to 6 players\r\n***Across 9 unique maps\r\n***In 4 fully-customizable game modes\r\n\r\nMages and Rogues is a rich, action-packed experience, featuring:\r\n***Innovative pixel art style\r\n***Original soundtrack\r\n***Realistic and brutal audio design\r\n***Support for Xbox 360 and PS3 controllers\r\n***NO DEMOS! Mages and Rogues is 100% FREE.\r\n\r\nGather as friends, leave as enemies. Who will rise to become champion among Mages and Rogues?\r\n\r\nFollow @MuseumTourGames on Twitter for updates!",
+    "description": "Enter a world where Mages and Rogues are pitted against each other in an endless struggle for power and vengeance! Wage epic battles against your friends in rigid, fast-paced combat and claim victory for your team – or for yourself.\r\n\r\nCompete for glory:\r\n***With up to 6 players\r\n***Across 9 unique maps\r\n***In 4 fully-customizable game modes\r\n\r\nMages and Rogues is a rich, action-packed experience, featuring:\r\n***Innovative pixel art style\r\n***Original soundtrack\r\n***Realistic and brutal audio design\r\n***Support for Xbox 360 and PS3 controllers\r\n***NO DEMOS! Mages and Rogues is 100% FREE.\r\n\r\nGather as friends, leave as enemies. Who will rise to become champion among Mages and Rogues?\r\n\r\nFollow @MuseumTourGames on Twitter for updates!",
     "players": [
         1
     ],
@@ -25,54 +25,43 @@
             "nativeSize": 14993772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/discover",
-        "video": "http://vimeo.com/116396595",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/116396595"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/116396595"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.museumtourgames.magesandrogues/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Museum Tour Games",

@@ -21,48 +21,38 @@
             "nativeSize": 2891604
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/brokenbyte.TowerInvadersOUYA/discover",
-        "video": "https://vimeo.com/86862299",
-        "screenshots": [
-            "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/uVP3pWMTtWnQcE87ZAgr.jpg",
-            "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/UtYAaLINScG9QisnhAJA.jpg",
-            "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Qw5C8sNTdGmB45et3jFQ.jpg",
-            "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Wronh9dPQZKnEMxhs3Ww.jpg",
-            "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/f9myB8lGTwWBUGSDI45F.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/86862299"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/uVP3pWMTtWnQcE87ZAgr.jpg",
-                "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/uVP3pWMTtWnQcE87ZAgr_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/UtYAaLINScG9QisnhAJA.jpg",
-                "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/UtYAaLINScG9QisnhAJA_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Qw5C8sNTdGmB45et3jFQ.jpg",
-                "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Qw5C8sNTdGmB45et3jFQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Wronh9dPQZKnEMxhs3Ww.jpg",
-                "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Wronh9dPQZKnEMxhs3Ww_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/f9myB8lGTwWBUGSDI45F.jpg",
-                "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/f9myB8lGTwWBUGSDI45F_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/brokenbyte.TowerInvadersOUYA/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/86862299"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/uVP3pWMTtWnQcE87ZAgr.jpg",
+            "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/uVP3pWMTtWnQcE87ZAgr_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/UtYAaLINScG9QisnhAJA.jpg",
+            "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/UtYAaLINScG9QisnhAJA_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Qw5C8sNTdGmB45et3jFQ.jpg",
+            "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Qw5C8sNTdGmB45et3jFQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Wronh9dPQZKnEMxhs3Ww.jpg",
+            "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/Wronh9dPQZKnEMxhs3Ww_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/f9myB8lGTwWBUGSDI45F.jpg",
+            "thumb": "https://archive.org/download/ouya_brokenbyte.TowerInvadersOUYA_1.2/f9myB8lGTwWBUGSDI45F_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "broken byte",

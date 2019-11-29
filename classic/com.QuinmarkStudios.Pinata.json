@@ -1,7 +1,7 @@
 {
     "packageName": "com.QuinmarkStudios.Pinata",
     "title": "Pinata Rampage!",
-    "description": "Pi\u00f1atas have come to life and are terrorizing the world!  Survive as long as you can so that you can take over the WORLD!!!",
+    "description": "Piñatas have come to life and are terrorizing the world!  Survive as long as you can so that you can take over the WORLD!!!",
     "players": [
         1
     ],
@@ -24,60 +24,48 @@
             "nativeSize": 19999348
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/discover",
-        "video": "https://vimeo.com/127449038",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/127449038"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/127449038"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QuinmarkStudios.Pinata/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Quinmark Studios",

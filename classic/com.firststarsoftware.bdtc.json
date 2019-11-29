@@ -1,7 +1,7 @@
 {
     "packageName": "com.firststarsoftware.bdtc",
-    "title": "Boulder Dash\u00ae-The FULL Collection\u2122",
-    "description": "The ultimate action-puzzle game, your challenge is to collect the required number of diamonds in each cave before time runs out in order to open the exit all while avoiding falling boulders and enemies! Leave through the exit in time and you\u2019ll advance to the next cave.\r\n\r\nBoulder Dash\u00ae-The FULL Collection\u2122 includes 5 Boulder Dash\u00ae games including the well know, much loved, multimillion-unit selling original game from 1984. Play the first 10 caves in Boulder Dash\u00ae-M.E.2\u2122 for free! In total there are more than 250 cave permutations ready to be unlocked.",
+    "title": "Boulder Dash®-The FULL Collection™",
+    "description": "The ultimate action-puzzle game, your challenge is to collect the required number of diamonds in each cave before time runs out in order to open the exit all while avoiding falling boulders and enemies! Leave through the exit in time and you’ll advance to the next cave.\r\n\r\nBoulder Dash®-The FULL Collection™ includes 5 Boulder Dash® games including the well know, much loved, multimillion-unit selling original game from 1984. Play the first 10 caves in Boulder Dash®-M.E.2™ for free! In total there are more than 250 cave permutations ready to be unlocked.",
     "players": [
         1
     ],
@@ -24,54 +24,43 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/discover",
-        "video": "https://vimeo.com/80356845",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/80356845"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/80356845"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.firststarsoftware.bdtc/screenshot-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "First Star Software, Inc.",
@@ -95,7 +84,7 @@
             "promoted": true,
             "identifier": "bdtcallpacks",
             "name": "All 5 Games",
-            "description": "This unlocks ALL 5 cave packs (level sets) from Boulder Dash\u00ae-The Collection\u2122 series, including the well know original game from 1984.",
+            "description": "This unlocks ALL 5 cave packs (level sets) from Boulder Dash®-The Collection™ series, including the well know original game from 1984.",
             "localPrice": 3.99,
             "originalPrice": 3.99,
             "currency": "EUR"

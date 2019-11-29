@@ -22,32 +22,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/info.hanhinen.OuyaClock/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/gdIlomdvRVmcG86Qk0zZ.jpg",
-            "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/5MuJtiGTiK4T6L9CMYgM.jpg",
-            "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/u3rixZRNQIizOgAJXW4D.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/gdIlomdvRVmcG86Qk0zZ.jpg",
-                "thumb": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/gdIlomdvRVmcG86Qk0zZ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/5MuJtiGTiK4T6L9CMYgM.jpg",
-                "thumb": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/5MuJtiGTiK4T6L9CMYgM_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/u3rixZRNQIizOgAJXW4D.jpg",
-                "thumb": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/u3rixZRNQIizOgAJXW4D_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/info.hanhinen.OuyaClock/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/gdIlomdvRVmcG86Qk0zZ.jpg",
+            "thumb": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/gdIlomdvRVmcG86Qk0zZ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/5MuJtiGTiK4T6L9CMYgM.jpg",
+            "thumb": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/5MuJtiGTiK4T6L9CMYgM_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/u3rixZRNQIizOgAJXW4D.jpg",
+            "thumb": "https://archive.org/download/ouya_info.hanhinen.OuyaClock_1.0/u3rixZRNQIizOgAJXW4D_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "MrMaw",

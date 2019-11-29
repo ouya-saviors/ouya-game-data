@@ -1,7 +1,7 @@
 {
     "packageName": "com.playdigious.mechanicescape",
     "title": "Mechanic Escape",
-    "description": "In a world oppressed by ruthless machines, a stronghold full of die-hard TV-sets resists the persecution. Your lost friends and the lack of resources drive you to take action against the extinction.  Brave the dangers and go find your comrades to rescue your species! \r\n\r\nMechanic escape is a platform game full of infernal chases. In order to find his lost friends, Mech (the hero) doesn't hesitate to play the human cannonball, to pass throughout high-voltage areas or even dodge the most deadly machines. As if that was not enough, many bosses will take a real pleasure in chasing you to stop your insane journey.\r\n\r\nMechanic Escape is a challenge for the most experienced players, that aims to defy your reflexes. Prepare yourself for a delirious escape combining rhythm and fun. A breathtaking adventure!\r\n\u25aa 80 levels \r\n\u25aa A hardcore game \r\n\u25aa An original universe \r\n\u25aa Plenty of achievements to unlock \r\n\u25aa Optimized for external controllers\r\n\u25aa Android TV support\r\n\r\nReviews: \r\n\u201cThe game ends up being a cool combination of Super Meat Boy\u2019s insane difficulty and Rayman\u2019s vibrant art style and replayability\u201d \r\n8/10 \u2013 The Gamescouts\r\n\r\n\u201cA classic and efficient die & retry, that will delight the admirers of this kind of game\u201d \r\n18/20 \u2013 Gamergen\r\n\r\n\u201cYour patience and your platforming skills will be tested to their highest levels\u201d \r\n8/10 \u2013 That videogame blog",
+    "description": "In a world oppressed by ruthless machines, a stronghold full of die-hard TV-sets resists the persecution. Your lost friends and the lack of resources drive you to take action against the extinction.  Brave the dangers and go find your comrades to rescue your species! \r\n\r\nMechanic escape is a platform game full of infernal chases. In order to find his lost friends, Mech (the hero) doesn't hesitate to play the human cannonball, to pass throughout high-voltage areas or even dodge the most deadly machines. As if that was not enough, many bosses will take a real pleasure in chasing you to stop your insane journey.\r\n\r\nMechanic Escape is a challenge for the most experienced players, that aims to defy your reflexes. Prepare yourself for a delirious escape combining rhythm and fun. A breathtaking adventure!\r\n▪ 80 levels \r\n▪ A hardcore game \r\n▪ An original universe \r\n▪ Plenty of achievements to unlock \r\n▪ Optimized for external controllers\r\n▪ Android TV support\r\n\r\nReviews: \r\n“The game ends up being a cool combination of Super Meat Boy’s insane difficulty and Rayman’s vibrant art style and replayability” \r\n8/10 – The Gamescouts\r\n\r\n“A classic and efficient die & retry, that will delight the admirers of this kind of game” \r\n18/20 – Gamergen\r\n\r\n“Your patience and your platforming skills will be tested to their highest levels” \r\n8/10 – That videogame blog",
     "players": [
         1
     ],
@@ -22,36 +22,28 @@
             "nativeSize": 20015028
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/discover",
-        "video": "https://vimeo.com/146789543",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/146789543"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/146789543"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.playdigious.mechanicescape/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Playdigious",

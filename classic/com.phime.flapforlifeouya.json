@@ -1,7 +1,7 @@
 {
     "packageName": "com.phime.flapforlifeouya",
     "title": "Flap For Life",
-    "description": "Cute parrot Polly is in trouble!\r\nEvil flying totems are trying to squash him ...\r\nIntroducing new mechanics to the flapping idea\r\nFlap faster forward and help bird Polly to evade the incoming obstacles or fly between them to survive\r\nGame Features:\r\n- One button control \r\n- Simple and innovative mechanics\r\n- Colorful pixel art \r\n- In-house authored chiptune music for your better playing experience\r\n- Flap your wings good and unlock all of the achievements\r\n\r\nSocial network player reviews\r\n\r\nPawe\u0142 S\u0142abi\u0144ski -> Now THIS is how you make a variation of Flappy Bird idea into something new.\r\nHenrique Kraemer -> If i earn a coin every time a read \"not a flappy bird clone\"... BUUUT, your game is awesome, i liked, 5 stars! Best variation so far!",
+    "description": "Cute parrot Polly is in trouble!\r\nEvil flying totems are trying to squash him ...\r\nIntroducing new mechanics to the flapping idea\r\nFlap faster forward and help bird Polly to evade the incoming obstacles or fly between them to survive\r\nGame Features:\r\n- One button control \r\n- Simple and innovative mechanics\r\n- Colorful pixel art \r\n- In-house authored chiptune music for your better playing experience\r\n- Flap your wings good and unlock all of the achievements\r\n\r\nSocial network player reviews\r\n\r\nPaweł Słabiński -> Now THIS is how you make a variation of Flappy Bird idea into something new.\r\nHenrique Kraemer -> If i earn a coin every time a read \"not a flappy bird clone\"... BUUUT, your game is awesome, i liked, 5 stars! Best variation so far!",
     "players": [
         1
     ],
@@ -21,48 +21,38 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/discover",
-        "video": "https://vimeo.com/90023684",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/90023684"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/90023684"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.phime.flapforlifeouya/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "7f0cce24-50d7-4f8e-87bf-724568cd9fab",
         "name": "phime studio",

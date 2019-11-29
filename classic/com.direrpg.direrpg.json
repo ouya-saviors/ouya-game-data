@@ -22,44 +22,34 @@
             "nativeSize": 18535228
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.direrpg.direrpg_1.13.107/srNZdTJ9QX66C2kalnmc.jpg",
-            "https://archive.org/download/ouya_com.direrpg.direrpg_1.13.107/fpRhUzKSVm06KpqZ3N48.jpg",
-            "https://archive.org/download/ouya_com.direrpg.direrpg_1.13.107/V5PkxcHqQx28FC4bQdWy.jpg",
-            "https://archive.org/download/ouya_com.direrpg.direrpg_1.13.107/MiEZha9RjyG8RwI5Ogiw.jpg",
-            "https://archive.org/download/ouya_com.direrpg.direrpg_1.13.107/C4ZH8XuFS5ive7jaadxw.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "CounterParry",

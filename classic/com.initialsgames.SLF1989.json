@@ -21,36 +21,28 @@
             "nativeSize": 2924816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/discover",
-        "video": "https://vimeo.com/105531952",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/105531952"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/105531952"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF1989/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Initials",

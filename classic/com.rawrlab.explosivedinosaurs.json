@@ -23,64 +23,52 @@
             "nativeSize": 4426352
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/discover",
-        "video": "https://vimeo.com/97717815",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/uVGzRizMQ42zdoH2HJsd",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3DUWBXcKQxOrhI7aUnQD",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/iq2vs4OYQSmvafmnZvY2",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/FdfGFbrSLCMywfycmJf2",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/jIBm0q1xRty7eCAZRg4e",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/PUAuWCXgQv6owtUWP2WW",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ypOoUdyQzSPj0eoocwZw"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/97717815"
-            },
-            {
-                "type": "video",
-                "url": "https://vimeo.com/97383643"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97717815"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97383643"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "RAWR Lab SL",

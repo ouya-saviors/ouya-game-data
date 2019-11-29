@@ -1,7 +1,7 @@
 {
     "packageName": "com.potassiumfrog.slightlymagiclite",
     "title": "Slightly Magic Lite",
-    "description": "He's back! Slightly returns in an authentic remake of the original classic arcade adventure.\r\nBigwiz the wizard has left the castle in a hurry, in order to turn the King\u2019s son Newton back into a frog. Indeed, he was in such a hurry that he forgot to pack his spare wand, forgot to lock his laboratory door, and most importantly, forgot to return his utterly stupid, idiotic, incompetent, brain-dead nephew Slightly to his parents\u2019 mud hut in the hills.\r\nOh well, it could be worse. A sunburnt dragon could be running off with the beautiful Princess Croak as we speak. The wizard\u2019s spell cabinet might have been knocked over by a Flaming Octarian Whirlwind, scattering the spells everywhere. His kingliness the King might, in a fit of blind panic, have given Slightly the wizard\u2019s private spell book to read. It might rain.\r\nYou see, it could be worse. But as it is, there\u2019s not a cloud in the sky, a breeze in the air, or a whiff of dragon\u2019s breath to be sniffed. Hang on, where\u2019s that pink fire-breathing creature going with that screaming princess? Is that a gentle wind wafting in through the door, or is it something stronger?\r\nOh no. Get the washing in mother, and lock all doors. Cancel the papers, and shoot the cow. I think it\u2019s going to be one of those days\u2026",
+    "description": "He's back! Slightly returns in an authentic remake of the original classic arcade adventure.\r\nBigwiz the wizard has left the castle in a hurry, in order to turn the King’s son Newton back into a frog. Indeed, he was in such a hurry that he forgot to pack his spare wand, forgot to lock his laboratory door, and most importantly, forgot to return his utterly stupid, idiotic, incompetent, brain-dead nephew Slightly to his parents’ mud hut in the hills.\r\nOh well, it could be worse. A sunburnt dragon could be running off with the beautiful Princess Croak as we speak. The wizard’s spell cabinet might have been knocked over by a Flaming Octarian Whirlwind, scattering the spells everywhere. His kingliness the King might, in a fit of blind panic, have given Slightly the wizard’s private spell book to read. It might rain.\r\nYou see, it could be worse. But as it is, there’s not a cloud in the sky, a breeze in the air, or a whiff of dragon’s breath to be sniffed. Hang on, where’s that pink fire-breathing creature going with that screaming princess? Is that a gentle wind wafting in through the door, or is it something stronger?\r\nOh no. Get the washing in mother, and lock all doors. Cancel the papers, and shoot the cow. I think it’s going to be one of those days…",
     "players": [
         1
     ],
@@ -23,36 +23,28 @@
             "nativeSize": 22265020
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/discover",
-        "video": "http://vimeo.com/99760766",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/99760766"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/99760766"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.slightlymagiclite/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Potassium Frog Ltd",

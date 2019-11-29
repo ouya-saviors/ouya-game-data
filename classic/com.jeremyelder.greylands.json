@@ -21,50 +21,39 @@
             "nativeSize": 8607772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jeremyelder.greylands/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "d33c7cd2-9629-47ef-8e40-41c39dddff81",
         "name": "Jeremy Elder",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.mediacitygames.games.cmanor",
     "title": "The Mystery of Crimson Manor",
-    "description": "THIS POINT AND CLICK GAME USE YOUR CONTROLLER TOUCHPAD.\r\n\r\nDiscover and solve the surprising secret behind the mysterious crimson manor.\r\nExplore the old mansion and its surroundings, solving puzzles and discovering its many intriguing secrets, in one of the best adventure games made for Android.\r\n\r\nIn the mystery of the crimson manor you will find:\r\n\r\nAmazing and beautiful graphics.\r\nEngaging and deep storyline.\r\nFun and addictive gameplay.\r\n\r\nFeatures:\r\n\r\n+Classic and intuitive point and click gameplay.\r\n+Fun, amazing and clever puzzles.\r\n+\"Map\" \"Clues\" and \"Hints\" features to help you get trough the game if you get stuck.\r\n+Many different environments to discover & explore.\r\n+An interactive original & unique storyline.\r\n+Superb level, puzzle and game design.\r\n+High-resolution graphics.\r\n+Multiple languages, AutoSave and much more ...\r\n+Also expect new game modes & new features in the free updates.\r\n\r\nPlot:\r\n\r\nStrange weather events are happening in town lately, some people blame the eccentric Mr. Strange, an old scientist who performs strange experiments in his hill manor.\r\n\r\nHe decides to invite you, the best reporter in town, with the idea of making public its latest & wonderful discovery, which he describes it as:\r\n\r\n\"Something so wonderful that will change forever the way we see the world & the very fate of humanity\"\r\n\r\nYou accept the invitation, but on arriving at the mansion, you cannot find anyone, you sense that something strange is happening there, so you decide to investigate...\r\n\r\nBuy It now\r\n\r\nIf you're new to adventure games, download it now, you will not regret, it is more than likely that you become an instant fan of the genre, if you are already a fan you probably already bought it, you\u2019re not going to waste the opportunity to play one of the best exponents of this genre.",
+    "description": "THIS POINT AND CLICK GAME USE YOUR CONTROLLER TOUCHPAD.\r\n\r\nDiscover and solve the surprising secret behind the mysterious crimson manor.\r\nExplore the old mansion and its surroundings, solving puzzles and discovering its many intriguing secrets, in one of the best adventure games made for Android.\r\n\r\nIn the mystery of the crimson manor you will find:\r\n\r\nAmazing and beautiful graphics.\r\nEngaging and deep storyline.\r\nFun and addictive gameplay.\r\n\r\nFeatures:\r\n\r\n+Classic and intuitive point and click gameplay.\r\n+Fun, amazing and clever puzzles.\r\n+\"Map\" \"Clues\" and \"Hints\" features to help you get trough the game if you get stuck.\r\n+Many different environments to discover & explore.\r\n+An interactive original & unique storyline.\r\n+Superb level, puzzle and game design.\r\n+High-resolution graphics.\r\n+Multiple languages, AutoSave and much more ...\r\n+Also expect new game modes & new features in the free updates.\r\n\r\nPlot:\r\n\r\nStrange weather events are happening in town lately, some people blame the eccentric Mr. Strange, an old scientist who performs strange experiments in his hill manor.\r\n\r\nHe decides to invite you, the best reporter in town, with the idea of making public its latest & wonderful discovery, which he describes it as:\r\n\r\n\"Something so wonderful that will change forever the way we see the world & the very fate of humanity\"\r\n\r\nYou accept the invitation, but on arriving at the mansion, you cannot find anyone, you sense that something strange is happening there, so you decide to investigate...\r\n\r\nBuy It now\r\n\r\nIf you're new to adventure games, download it now, you will not regret, it is more than likely that you become an instant fan of the genre, if you are already a fan you probably already bought it, you’re not going to waste the opportunity to play one of the best exponents of this genre.",
     "players": [
         1
     ],
@@ -22,48 +22,38 @@
             "nativeSize": 3767652
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/discover",
-        "video": "https://vimeo.com/105720966",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/105720966"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/105720966"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mediacitygames.games.cmanor/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "MediaCity Games",

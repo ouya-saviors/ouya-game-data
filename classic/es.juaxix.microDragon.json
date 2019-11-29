@@ -23,66 +23,53 @@
             "nativeSize": 19647788
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/discover",
-        "video": "http://vimeo.com/89400852",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-1",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-2",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-3",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-4",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-5",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-6",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-7",
-            "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/89400852"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/89400852"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/es.juaxix.microDragon/screenshot-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "XIXGAMES",

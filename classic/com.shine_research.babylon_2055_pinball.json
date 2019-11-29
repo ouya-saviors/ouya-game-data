@@ -22,48 +22,38 @@
             "nativeSize": 4073516
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/discover",
-        "video": "https://vimeo.com/112591540",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/112591540"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/112591540"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.shine_research.babylon_2055_pinball/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Shine Research",

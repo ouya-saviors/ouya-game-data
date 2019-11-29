@@ -1,7 +1,7 @@
 {
     "packageName": "com.tastypoisongames.dig",
     "title": "Dig!",
-    "description": "Join Douglas Chase as he digs up his backyard in search of treasures and fame! \r\n\r\nDouglas Chase is a not so great archeologist working for a failing museum. He must dig up objects to save his job and the museum as well.\u2028 Nigel the mummy will be out to get Douglas, but don\u2019t worry, Nigel\u2019s sense of direction is not so great (too many years buried in a tomb will do that), however if Nigel does touch your digging line, all heck will break loose!\r\n\r\nMany more enemies will join Nigel so collect hats (magic hats of course!), that will help Douglas along his adventure digging deeper and deeper to the center of the earth\u2026\r\n\r\nInspired by the arcade game \u201cQiX\u201d, Dig! is a fast paced game which requires quick changes of direction and strategy to dig out 75% of each level to complete. Different enemies will add to the difficulty however Nigel the mummy will always be close by, wandering around as he does. Collect artefacts for money to help the museum and to buy power-ups and hats. Collect exhibit pieces to put into the museum and earn a paycheck for Douglas. ",
+    "description": "Join Douglas Chase as he digs up his backyard in search of treasures and fame! \r\n\r\nDouglas Chase is a not so great archeologist working for a failing museum. He must dig up objects to save his job and the museum as well.\u2028 Nigel the mummy will be out to get Douglas, but don’t worry, Nigel’s sense of direction is not so great (too many years buried in a tomb will do that), however if Nigel does touch your digging line, all heck will break loose!\r\n\r\nMany more enemies will join Nigel so collect hats (magic hats of course!), that will help Douglas along his adventure digging deeper and deeper to the center of the earth…\r\n\r\nInspired by the arcade game “QiX”, Dig! is a fast paced game which requires quick changes of direction and strategy to dig out 75% of each level to complete. Different enemies will add to the difficulty however Nigel the mummy will always be close by, wandering around as he does. Collect artefacts for money to help the museum and to buy power-ups and hats. Collect exhibit pieces to put into the museum and earn a paycheck for Douglas. ",
     "players": [
         1
     ],
@@ -23,44 +23,34 @@
             "nativeSize": 18422064
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tastypoisongames.dig/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/HjHB9TkTnOaLJOZgqUcr.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/8uNQELwdRTOa1A536Nhg.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/M6PB3F3sTFyGYAmVvmPw.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/T1fcHD7TguvGkv8DSocQ.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/ol03YfNQbClIRQ4kZmUf.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/HjHB9TkTnOaLJOZgqUcr.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/HjHB9TkTnOaLJOZgqUcr_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/8uNQELwdRTOa1A536Nhg.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/8uNQELwdRTOa1A536Nhg_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/M6PB3F3sTFyGYAmVvmPw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/M6PB3F3sTFyGYAmVvmPw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/T1fcHD7TguvGkv8DSocQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/T1fcHD7TguvGkv8DSocQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/ol03YfNQbClIRQ4kZmUf.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/ol03YfNQbClIRQ4kZmUf_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tastypoisongames.dig/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/HjHB9TkTnOaLJOZgqUcr.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/HjHB9TkTnOaLJOZgqUcr_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/8uNQELwdRTOa1A536Nhg.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/8uNQELwdRTOa1A536Nhg_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/M6PB3F3sTFyGYAmVvmPw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/M6PB3F3sTFyGYAmVvmPw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/T1fcHD7TguvGkv8DSocQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/T1fcHD7TguvGkv8DSocQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/ol03YfNQbClIRQ4kZmUf.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tastypoisongames.dig_1.21/ol03YfNQbClIRQ4kZmUf_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Tasty Poison Games",

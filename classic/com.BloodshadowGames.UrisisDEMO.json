@@ -23,54 +23,43 @@
             "nativeSize": 8169028
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/discover",
-        "video": "http://vimeo.com/102894823",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/IuksDHl4QRe1BvDtOkw3",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/12TRDMaOSsyEpqjBLHcT",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ZVMWZxPGRiSbkfpoCWpt",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CTuEGr3PRAee7hT8CpxU",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/9VbLIeuHRCS0nKvK1veF",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/neOLhpdSAyfadijVPFHN"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/102894823"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/102894823"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BloodshadowGames.UrisisDEMO/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "894f6c13-5520-45dd-b793-9580b52ec89a",
         "name": "Bloodshadow Games",

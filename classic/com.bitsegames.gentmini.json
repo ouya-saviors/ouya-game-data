@@ -24,63 +24,51 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/discover",
-        "video": "https://vimeo.com/113222107",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/113222107"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/113222107"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bitsegames.gentmini/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": "2ca6f463-b0e0-4eb3-b4b7-1d83e833d372",
-        "name": "B\u00eftse Games",
+        "name": "Bïtse Games",
         "supportEmail": null,
         "supportPhone": null,
         "founder": false
@@ -89,7 +77,7 @@
     "website": "http://www.bitsegames.com/",
     "firstPublishedAt": "2014-11-23T23:59:57Z",
     "inAppPurchases": false,
-    "overview": "Released in December 2014 by B\u00eftse Games.",
+    "overview": "Released in December 2014 by Bïtse Games.",
     "premium": false,
     "rating": {
         "likeCount": 0,

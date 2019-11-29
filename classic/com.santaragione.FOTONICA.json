@@ -1,7 +1,7 @@
 {
     "packageName": "com.santaragione.FOTONICA",
     "title": "FOTONICA",
-    "description": "FOTONICA is a first person game about jumping, sense of speed and discovery. \r\nThe key is timing, the goal is exploring and traveling flawlessly through the environment. The setting is an abstract - mainly duotone - outlined world, with a look referring to the geometrical abstractions from the 50s and the 3D low-poly gaming era.\r\n\r\n\u201cIt\u2019s a remarkable game, and unlike anything else I\u2019ve played. - John Walker\u201d \r\nRock, Paper, Shotgun! \r\n\r\n\u201cUsain Bolt trapped in a feverish Tron daydream. - Kristan Reed\u201d \r\n8/10 \u2013 EuroGamer \r\n\r\n\u201cStriking and instantly impressive. - Ben Kuchera\u201d \r\nArsTechnica ",
+    "description": "FOTONICA is a first person game about jumping, sense of speed and discovery. \r\nThe key is timing, the goal is exploring and traveling flawlessly through the environment. The setting is an abstract - mainly duotone - outlined world, with a look referring to the geometrical abstractions from the 50s and the 3D low-poly gaming era.\r\n\r\n“It’s a remarkable game, and unlike anything else I’ve played. - John Walker” \r\nRock, Paper, Shotgun! \r\n\r\n“Usain Bolt trapped in a feverish Tron daydream. - Kristan Reed” \r\n8/10 – EuroGamer \r\n\r\n“Striking and instantly impressive. - Ben Kuchera” \r\nArsTechnica ",
     "players": [
         1
     ],
@@ -23,54 +23,43 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.santaragione.FOTONICA/discover",
-        "video": "https://vimeo.com/80728733",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/zKw7CHSSey1GKjy8k7Ox.jpg",
-            "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/nvg8mhOTraMzzW8v9y2E.jpg",
-            "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/x5EoMLl2R3eMLuGqXXg2.jpg",
-            "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Y9TI71qR0KtpKEYablxW.jpg",
-            "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/TDvC2bMQW505hwNNfuvw.jpg",
-            "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Fv427CLDTFi0JUNvzdlK.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/80728733"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/zKw7CHSSey1GKjy8k7Ox.jpg",
-                "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/zKw7CHSSey1GKjy8k7Ox_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/nvg8mhOTraMzzW8v9y2E.jpg",
-                "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/nvg8mhOTraMzzW8v9y2E_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/x5EoMLl2R3eMLuGqXXg2.jpg",
-                "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/x5EoMLl2R3eMLuGqXXg2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Y9TI71qR0KtpKEYablxW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Y9TI71qR0KtpKEYablxW_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/TDvC2bMQW505hwNNfuvw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/TDvC2bMQW505hwNNfuvw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Fv427CLDTFi0JUNvzdlK.jpg",
-                "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Fv427CLDTFi0JUNvzdlK_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.santaragione.FOTONICA/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/80728733"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/zKw7CHSSey1GKjy8k7Ox.jpg",
+            "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/zKw7CHSSey1GKjy8k7Ox_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/nvg8mhOTraMzzW8v9y2E.jpg",
+            "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/nvg8mhOTraMzzW8v9y2E_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/x5EoMLl2R3eMLuGqXXg2.jpg",
+            "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/x5EoMLl2R3eMLuGqXXg2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Y9TI71qR0KtpKEYablxW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Y9TI71qR0KtpKEYablxW_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/TDvC2bMQW505hwNNfuvw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/TDvC2bMQW505hwNNfuvw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Fv427CLDTFi0JUNvzdlK.jpg",
+            "thumb": "https://archive.org/download/ouya_com.santaragione.FOTONICA_1.0/Fv427CLDTFi0JUNvzdlK_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Santa Ragione",

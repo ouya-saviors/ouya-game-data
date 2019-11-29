@@ -23,44 +23,34 @@
             "nativeSize": 7539916
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Mint.OuyaSleepingSoulsDemo/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "98690b90-9c3c-4060-bf26-bc755410e0b3",
         "name": "Team Omni",

@@ -23,60 +23,48 @@
             "nativeSize": 404428
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/discover",
-        "video": "https://vimeo.com/121120744",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/121120744"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/121120744"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kronbits.inkanians/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Kronbits",

@@ -24,48 +24,38 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/discover",
-        "video": "https://vimeo.com/90551984",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/90551984"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/90551984"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dogpigfish.SuperPuzzleGuyAdventure/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "dogpigfish",

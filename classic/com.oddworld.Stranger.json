@@ -23,60 +23,48 @@
             "nativeSize": 10328128
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/discover",
-        "video": "http://vimeo.com/116757864",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/116757864"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/116757864"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Stranger/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": "c74fb854-fd7e-4243-bf18-74e4735be37f",
         "name": "Oddworld Inhabitants Inc.",

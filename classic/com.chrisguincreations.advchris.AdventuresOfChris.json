@@ -23,54 +23,43 @@
             "nativeSize": 19664671
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/discover",
-        "video": "https://vimeo.com/104359086",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9/n7tTxj7cQtG4jmEXVK09.jpg",
-            "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9/2f15QO8bTOL7Z8jmQ2f9.jpg",
-            "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9/2byMmgE4SfGxOxHfp04E.jpg",
-            "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9/Y0xvnMBpRFWo4LLPMpig.jpg",
-            "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9/X105CuQNSqWGSBnk3b9r.jpg",
-            "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.9/FNLf8qRBSI2O9Jdpaelv.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/104359086"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/104359086"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "038082dc-52a4-40d2-9fa1-dc2f4716b625",
         "name": "Guin Entertainment",

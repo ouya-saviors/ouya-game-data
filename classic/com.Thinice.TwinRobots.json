@@ -23,48 +23,38 @@
             "nativeSize": 14769772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/discover",
-        "video": "https://vimeo.com/82265024",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.Thinice.TwinRobots_1.83/XSwH3RKJS8af979DAASh.jpg",
-            "https://archive.org/download/ouya_com.Thinice.TwinRobots_1.83/ovBetdHNSmyck5fMEA8K.jpg",
-            "https://archive.org/download/ouya_com.Thinice.TwinRobots_1.83/lgfzHmxYTX6eKGpeSqqn.jpg",
-            "https://archive.org/download/ouya_com.Thinice.TwinRobots_1.83/JOBXmzg7TH6wL9KYYIzV.jpg",
-            "https://archive.org/download/ouya_com.Thinice.TwinRobots_1.83/93YMZQm7T76cOKKeKd24.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/82265024"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/82265024"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Thinice.TwinRobots/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "4e1f8b52-f417-4f85-a747-8dca9b5a0a5a",
         "name": "Thinice",

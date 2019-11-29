@@ -1,7 +1,7 @@
 {
     "packageName": "com.farsight.GhostBustersPinball.javaProject",
     "title": "Ghostbusters Pinball",
-    "description": "Who ya gonna call for the best playing pinball on Android?!\r\n \r\nFarSight Studios, the makers of the award winning Pinball Arcade, have created Ghostbusters\u2122 Pinball!\r\n \r\nGhostbusters\u2122 Pinball is fully licensed and based on the movies Ghostbusters and Ghostbusters 2 with music, sound effects, actor likenesses and quotes from both movies. \r\n \r\nThe pinball table is beautifully detailed.  Gameplay is a token based, free to play experience where the player receives ten free tokens to start and earns several free tokens each day.  Pinball fans with FarSight\u2019s Pinball Arcade installed on their device will free tokens twice as fast!\r\n \r\nThis game puts you in control of the Ghostbusters crew, featuring Egon, Peter, Ray and Winston, as they battle paranormal foes in New York City. The Playfield is divided into three levels representing iconic settings from the movies: the city, rooftop and subway. Use eight flippers to move the ball through the three levels by shooting up and down ramps, tubes and a manhole as you build up a huge Ghost Bonus. Raise the Slimer Pop Bumper to reveal a ball lock for Multi-Ball and then cross the streams on the roof to destroy the Stay Puft Marshmallow Man!\r\n \r\nThe gameplay is a blast!  There are even very detailed instructions and goals to accomplish that help players of all skill levels enjoy all of the table's features.\r\n \r\nWe hope you enjoy it!",
+    "description": "Who ya gonna call for the best playing pinball on Android?!\r\n \r\nFarSight Studios, the makers of the award winning Pinball Arcade, have created Ghostbusters™ Pinball!\r\n \r\nGhostbusters™ Pinball is fully licensed and based on the movies Ghostbusters and Ghostbusters 2 with music, sound effects, actor likenesses and quotes from both movies. \r\n \r\nThe pinball table is beautifully detailed.  Gameplay is a token based, free to play experience where the player receives ten free tokens to start and earns several free tokens each day.  Pinball fans with FarSight’s Pinball Arcade installed on their device will free tokens twice as fast!\r\n \r\nThis game puts you in control of the Ghostbusters crew, featuring Egon, Peter, Ray and Winston, as they battle paranormal foes in New York City. The Playfield is divided into three levels representing iconic settings from the movies: the city, rooftop and subway. Use eight flippers to move the ball through the three levels by shooting up and down ramps, tubes and a manhole as you build up a huge Ghost Bonus. Raise the Slimer Pop Bumper to reveal a ball lock for Multi-Ball and then cross the streams on the roof to destroy the Stay Puft Marshmallow Man!\r\n \r\nThe gameplay is a blast!  There are even very detailed instructions and goals to accomplish that help players of all skill levels enjoy all of the table's features.\r\n \r\nWe hope you enjoy it!",
     "players": [
         1
     ],
@@ -25,42 +25,33 @@
             "nativeSize": 12097020
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/discover",
-        "video": "https://vimeo.com/111053325",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/111053325"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/111053325"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.GhostBustersPinball.javaProject/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "36fb5ed1-b86f-4466-8633-8fe636f31cae",
         "name": "FarSight Studios",

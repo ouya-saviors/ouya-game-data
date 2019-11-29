@@ -21,38 +21,29 @@
             "nativeSize": 8218636
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.xenosns.sgbb_1.0.3/GYck8H84RsSeoBt9n11M.jpg",
-            "https://archive.org/download/ouya_com.xenosns.sgbb_1.0.3/78oqWWOwRo260Jx9PPp7.jpg",
-            "https://archive.org/download/ouya_com.xenosns.sgbb_1.0.3/Y65FciMKSYKwxsGC7xOd.jpg",
-            "https://archive.org/download/ouya_com.xenosns.sgbb_1.0.3/sZi7FUVWTuSUsgO1B2Tr.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xenosns.sgbb/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Adam Hartling",

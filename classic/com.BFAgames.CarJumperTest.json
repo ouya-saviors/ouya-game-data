@@ -1,7 +1,7 @@
 {
     "packageName": "com.BFAgames.CarJumperTest",
     "title": "Car Jumper",
-    "description": "A competitor in the OUYA/KillScreen \"CREATE\" Game Jam,\r\n\r\n\u201cCar Jumper\u201d is an arcade-style endless runner that tasks players with making the sport of car jumping the single most popular form of entertainment in history. Gameplay consists of jumping cars, FOR POINTS! All while collecting performance-enhancing energy drinks!\r\n\r\nIn development.",
+    "description": "A competitor in the OUYA/KillScreen \"CREATE\" Game Jam,\r\n\r\n“Car Jumper” is an arcade-style endless runner that tasks players with making the sport of car jumping the single most popular form of entertainment in history. Gameplay consists of jumping cars, FOR POINTS! All while collecting performance-enhancing energy drinks!\r\n\r\nIn development.",
     "players": [
         1
     ],
@@ -22,56 +22,44 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.BFAgames.CarJumperTest/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/J0IydH0ERsqTWLOZU5rU.jpg",
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/kk6XmDkRREidO1At8H09.jpg",
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/rJUYxYarTTO2qyzp6SO4.jpg",
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/TgvYizFjTUO3INLkGkn3.jpg",
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/4qeb5RkSWGA2qAnRDtzd.jpg",
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/DU0mRXASjuwInZBLyqdV.jpg",
-            "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/Az7dlbErRXyuhNLgkXOP.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/J0IydH0ERsqTWLOZU5rU.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/J0IydH0ERsqTWLOZU5rU_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/kk6XmDkRREidO1At8H09.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/kk6XmDkRREidO1At8H09_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/rJUYxYarTTO2qyzp6SO4.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/rJUYxYarTTO2qyzp6SO4_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/TgvYizFjTUO3INLkGkn3.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/TgvYizFjTUO3INLkGkn3_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/4qeb5RkSWGA2qAnRDtzd.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/4qeb5RkSWGA2qAnRDtzd_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/DU0mRXASjuwInZBLyqdV.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/DU0mRXASjuwInZBLyqdV_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/Az7dlbErRXyuhNLgkXOP.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/Az7dlbErRXyuhNLgkXOP_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.BFAgames.CarJumperTest/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/J0IydH0ERsqTWLOZU5rU.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/J0IydH0ERsqTWLOZU5rU_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/kk6XmDkRREidO1At8H09.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/kk6XmDkRREidO1At8H09_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/rJUYxYarTTO2qyzp6SO4.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/rJUYxYarTTO2qyzp6SO4_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/TgvYizFjTUO3INLkGkn3.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/TgvYizFjTUO3INLkGkn3_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/4qeb5RkSWGA2qAnRDtzd.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/4qeb5RkSWGA2qAnRDtzd_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/DU0mRXASjuwInZBLyqdV.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/DU0mRXASjuwInZBLyqdV_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/Az7dlbErRXyuhNLgkXOP.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BFAgames.CarJumperTest_0.31/Az7dlbErRXyuhNLgkXOP_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "BFA Games",

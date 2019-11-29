@@ -22,32 +22,24 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamesm.fast/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamesm.fast/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamesm.fast/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamesm.fast/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamesm.fast/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesm.fast/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "3T Games",

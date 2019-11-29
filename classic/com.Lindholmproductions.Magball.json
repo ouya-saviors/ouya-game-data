@@ -22,38 +22,29 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-4"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Lindholmproductions.Magball/screenshot-4"
+        }
+    ],
     "developer": {
         "uuid": "4db0a7e0-4381-42d4-9465-c569a3eec8e2",
         "name": "Lindholm Productions",

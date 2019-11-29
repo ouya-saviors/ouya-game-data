@@ -25,32 +25,24 @@
             "nativeSize": 946880
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.NesEmu/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Robert Broglia",

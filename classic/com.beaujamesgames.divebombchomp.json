@@ -1,7 +1,7 @@
 {
     "packageName": "com.beaujamesgames.divebombchomp",
     "title": "DiveBomb Chomp",
-    "description": "Whet your appetite and devour creatures in a frenetic free-fall adventure. The more you eat, the more you grow, climaxing into a super-sized, unstoppable ravenous pink monster. Chomp through a variety of twitchy levels, collecting fun powerups to assist in a quest to rescue your captured kin while achieving those coveted high scores and ratings. Unlock new characters and accessories to mix and match the appearance of your hero.\r\n\r\n\u2022 Play Through All 11 Levels of Chaotic Consumption!\r\n\u2022 Super Charge with Powerups to become Super Chomp!\r\n\u2022 Tons of Character & Accessory Combinations!\r\n\u2022 Feast with Friends or Enemies in Co-Op & VS Modes!\r\n\r\n\u201ca terrific new OUYA arcade game\u201d\r\n\t-Super Game Droid\r\n\u201cas addictive as it is cute and fun to play\u201d\r\n\t-Ouya Brew\r\n\u201cDiveBomb Chomp has charm\u201d\r\n\t-What\u2019s Your Tag?",
+    "description": "Whet your appetite and devour creatures in a frenetic free-fall adventure. The more you eat, the more you grow, climaxing into a super-sized, unstoppable ravenous pink monster. Chomp through a variety of twitchy levels, collecting fun powerups to assist in a quest to rescue your captured kin while achieving those coveted high scores and ratings. Unlock new characters and accessories to mix and match the appearance of your hero.\r\n\r\n• Play Through All 11 Levels of Chaotic Consumption!\r\n• Super Charge with Powerups to become Super Chomp!\r\n• Tons of Character & Accessory Combinations!\r\n• Feast with Friends or Enemies in Co-Op & VS Modes!\r\n\r\n“a terrific new OUYA arcade game”\r\n\t-Super Game Droid\r\n“as addictive as it is cute and fun to play”\r\n\t-Ouya Brew\r\n“DiveBomb Chomp has charm”\r\n\t-What’s Your Tag?",
     "players": [
         1
     ],
@@ -24,54 +24,43 @@
             "nativeSize": 14717912
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/discover",
-        "video": "http://vimeo.com/102169353",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.beaujamesgames.divebombchomp_1.7/reytcY3YRWieFFktdSXk.jpg",
-            "https://archive.org/download/ouya_com.beaujamesgames.divebombchomp_1.7/yDH5JpMTT4amjDbUmg6V.jpg",
-            "https://archive.org/download/ouya_com.beaujamesgames.divebombchomp_1.7/rOTDon1wSFOgpyBgBviQ.jpg",
-            "https://archive.org/download/ouya_com.beaujamesgames.divebombchomp_1.7/EyssEOMgTqLOZPRZU90l.jpg",
-            "https://archive.org/download/ouya_com.beaujamesgames.divebombchomp_1.7/Ne517eOcRWye3GhI7xzW.jpg",
-            "https://archive.org/download/ouya_com.beaujamesgames.divebombchomp_1.7/P63IgDZQ2CtCTq6N9w4y.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/102169353"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/102169353"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beaujamesgames.divebombchomp/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Beau James Games",

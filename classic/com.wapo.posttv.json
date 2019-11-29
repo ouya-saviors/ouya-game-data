@@ -1,7 +1,7 @@
 {
     "packageName": "com.wapo.posttv",
     "title": "WP Video",
-    "description": "Washington Post Video is your window into The Washington Post.  The app includes coverage of the biggest Washington issues and ideas.  You can sit back and enjoy the Post's experts in the newsroom or around the world with a full digest and deep-dive of the day's news.  Or skip to the stories that matter most to you.   Washington Post Video \u2014 It's Washington. Revealed.",
+    "description": "Washington Post Video is your window into The Washington Post.  The app includes coverage of the biggest Washington issues and ideas.  You can sit back and enjoy the Post's experts in the newsroom or around the world with a full digest and deep-dive of the day's news.  Or skip to the stories that matter most to you.   Washington Post Video — It's Washington. Revealed.",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 438880
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.wapo.posttv/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.wapo.posttv/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.wapo.posttv/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.wapo.posttv/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.wapo.posttv/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.wapo.posttv/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "The Washington Post",

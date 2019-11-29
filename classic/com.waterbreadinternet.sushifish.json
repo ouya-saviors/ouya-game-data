@@ -1,7 +1,7 @@
 {
     "packageName": "com.waterbreadinternet.sushifish",
     "title": "Sushi the Fish",
-    "description": "What happens if a fish from aquarium gets out to the wild waters. Well - it dies. But...\nWhat happens if scientifically enhanced fish escapes from aquarium of a mad scientist laboratory. Well it struggles every meter to survive its way, using more and more enhancements from laboratory only to get as further as possible away, without being captured. This is the story of our little hero named - Sushi.\n\n\u2022 Running away from the lab\n\u2022 Using and upgrading gadgets\n\u2022 Collecting coins\n\u2022 Shooting and dodging enemies\n\nAdded support for different controllers, as xbox, playstation, moga, etc",
+    "description": "What happens if a fish from aquarium gets out to the wild waters. Well - it dies. But...\nWhat happens if scientifically enhanced fish escapes from aquarium of a mad scientist laboratory. Well it struggles every meter to survive its way, using more and more enhancements from laboratory only to get as further as possible away, without being captured. This is the story of our little hero named - Sushi.\n\n• Running away from the lab\n• Using and upgrading gadgets\n• Collecting coins\n• Shooting and dodging enemies\n\nAdded support for different controllers, as xbox, playstation, moga, etc",
     "players": [
         1
     ],
@@ -22,42 +22,33 @@
             "nativeSize": 7096188
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/discover",
-        "video": "https://vimeo.com/102745886",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/102745886"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/102745886"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.sushifish/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "bb4ae5cb-6bd7-4c5e-af1e-643b4dcf7199",
         "name": "Water Bread Internet",

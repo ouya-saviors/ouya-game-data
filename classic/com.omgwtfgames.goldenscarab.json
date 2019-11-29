@@ -23,66 +23,53 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.omgwtfgames.goldenscarab/discover",
-        "video": "https://vimeo.com/84837509",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/aKeRpsgYTEaEs5hTrrL2.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9zbZGnQlyLWN2iZLURaQ.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iTSPOp12TSKetB0y2RQY.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/mMfvSVDyRKepi9N6Sj6j.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/uQKE2XLDSsKFbMi4WH6J.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/DXxKrPMyQsC0eVQn2AoS.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iu9v9JQES0Ofq8sX4FH2.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9bzhQncvSV6yjjj8bbii.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/84837509"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/aKeRpsgYTEaEs5hTrrL2.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/aKeRpsgYTEaEs5hTrrL2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9zbZGnQlyLWN2iZLURaQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9zbZGnQlyLWN2iZLURaQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iTSPOp12TSKetB0y2RQY.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iTSPOp12TSKetB0y2RQY_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/mMfvSVDyRKepi9N6Sj6j.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/mMfvSVDyRKepi9N6Sj6j_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/uQKE2XLDSsKFbMi4WH6J.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/uQKE2XLDSsKFbMi4WH6J_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/DXxKrPMyQsC0eVQn2AoS.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/DXxKrPMyQsC0eVQn2AoS_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iu9v9JQES0Ofq8sX4FH2.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iu9v9JQES0Ofq8sX4FH2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9bzhQncvSV6yjjj8bbii.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9bzhQncvSV6yjjj8bbii_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.omgwtfgames.goldenscarab/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/84837509"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/aKeRpsgYTEaEs5hTrrL2.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/aKeRpsgYTEaEs5hTrrL2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9zbZGnQlyLWN2iZLURaQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9zbZGnQlyLWN2iZLURaQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iTSPOp12TSKetB0y2RQY.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iTSPOp12TSKetB0y2RQY_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/mMfvSVDyRKepi9N6Sj6j.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/mMfvSVDyRKepi9N6Sj6j_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/uQKE2XLDSsKFbMi4WH6J.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/uQKE2XLDSsKFbMi4WH6J_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/DXxKrPMyQsC0eVQn2AoS.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/DXxKrPMyQsC0eVQn2AoS_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iu9v9JQES0Ofq8sX4FH2.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/iu9v9JQES0Ofq8sX4FH2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9bzhQncvSV6yjjj8bbii.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.goldenscarab_1.13/9bzhQncvSV6yjjj8bbii_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": "d85caf76-f735-4ff3-a398-460a6dd19192",
         "name": "OMGWTFGAMES !1!!",

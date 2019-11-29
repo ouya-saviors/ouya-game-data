@@ -23,36 +23,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.nway.chronoblade/discover",
-        "video": "https://vimeo.com/87812932",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.nway.chronoblade_1.00/UsM7r5iJSsOXiyQ8X7pH.jpg",
-            "https://archive.org/download/ouya_com.nway.chronoblade_1.00/OlIGT6QgTzCexC7TmlnO.jpg",
-            "https://archive.org/download/ouya_com.nway.chronoblade_1.00/mi4tZ8rRScqkqVgtPlZZ.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/87812932"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/UsM7r5iJSsOXiyQ8X7pH.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/UsM7r5iJSsOXiyQ8X7pH_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/OlIGT6QgTzCexC7TmlnO.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/OlIGT6QgTzCexC7TmlnO_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/mi4tZ8rRScqkqVgtPlZZ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/mi4tZ8rRScqkqVgtPlZZ_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.nway.chronoblade/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87812932"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/UsM7r5iJSsOXiyQ8X7pH.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/UsM7r5iJSsOXiyQ8X7pH_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/OlIGT6QgTzCexC7TmlnO.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/OlIGT6QgTzCexC7TmlnO_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/mi4tZ8rRScqkqVgtPlZZ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nway.chronoblade_1.00/mi4tZ8rRScqkqVgtPlZZ_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "nWay",

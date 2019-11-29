@@ -23,48 +23,38 @@
             "nativeSize": 7820628
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.denysoft.attackingzegeta/discover",
-        "video": "https://vimeo.com/89870332",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/f1TcEOhrQ5SMVzF5fA1f",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ljAF2aapSF28rCFZgIPl",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/y1m98KClTYS6uCGWlJdo",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CYr8rMxrTMajfMCRWAUb",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3B0HxxqQvm3Q02N7dKuM"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/89870332"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/f1TcEOhrQ5SMVzF5fA1f",
-                "thumb": "https://www.filepicker.io/api/file/f1TcEOhrQ5SMVzF5fA1f/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ljAF2aapSF28rCFZgIPl",
-                "thumb": "https://www.filepicker.io/api/file/ljAF2aapSF28rCFZgIPl/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/y1m98KClTYS6uCGWlJdo",
-                "thumb": "https://www.filepicker.io/api/file/y1m98KClTYS6uCGWlJdo/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CYr8rMxrTMajfMCRWAUb",
-                "thumb": "https://www.filepicker.io/api/file/CYr8rMxrTMajfMCRWAUb/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3B0HxxqQvm3Q02N7dKuM",
-                "thumb": "https://www.filepicker.io/api/file/3B0HxxqQvm3Q02N7dKuM/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.denysoft.attackingzegeta/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/89870332"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/f1TcEOhrQ5SMVzF5fA1f",
+            "thumb": "https://www.filepicker.io/api/file/f1TcEOhrQ5SMVzF5fA1f/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ljAF2aapSF28rCFZgIPl",
+            "thumb": "https://www.filepicker.io/api/file/ljAF2aapSF28rCFZgIPl/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/y1m98KClTYS6uCGWlJdo",
+            "thumb": "https://www.filepicker.io/api/file/y1m98KClTYS6uCGWlJdo/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CYr8rMxrTMajfMCRWAUb",
+            "thumb": "https://www.filepicker.io/api/file/CYr8rMxrTMajfMCRWAUb/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3B0HxxqQvm3Q02N7dKuM",
+            "thumb": "https://www.filepicker.io/api/file/3B0HxxqQvm3Q02N7dKuM/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Denysoft",

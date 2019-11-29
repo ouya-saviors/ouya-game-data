@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/tv.ouya.AmpGear/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/9Hphei6dRda9oFo1AMUA.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/EPcl7o89QxepTIhRqhLm.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/HWVdZABbTuOx6gsN9D0o.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/ww9z1FsSTRadPShIJUoV.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/yn0fWl4TT4ylEsxXymOe.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/9Hphei6dRda9oFo1AMUA.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/9Hphei6dRda9oFo1AMUA_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/EPcl7o89QxepTIhRqhLm.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/EPcl7o89QxepTIhRqhLm_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/HWVdZABbTuOx6gsN9D0o.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/HWVdZABbTuOx6gsN9D0o_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/ww9z1FsSTRadPShIJUoV.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/ww9z1FsSTRadPShIJUoV_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/yn0fWl4TT4ylEsxXymOe.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/yn0fWl4TT4ylEsxXymOe_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/tv.ouya.AmpGear/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/9Hphei6dRda9oFo1AMUA.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/9Hphei6dRda9oFo1AMUA_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/EPcl7o89QxepTIhRqhLm.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/EPcl7o89QxepTIhRqhLm_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/HWVdZABbTuOx6gsN9D0o.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/HWVdZABbTuOx6gsN9D0o_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/ww9z1FsSTRadPShIJUoV.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/ww9z1FsSTRadPShIJUoV_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/yn0fWl4TT4ylEsxXymOe.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/yn0fWl4TT4ylEsxXymOe_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "treeCL",

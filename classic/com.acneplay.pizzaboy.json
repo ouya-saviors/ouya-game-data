@@ -1,7 +1,7 @@
 {
     "packageName": "com.acneplay.pizzaboy",
     "title": "Pizza Boy",
-    "description": "A thief has stolen the pizza present! Oh no! You are forced to chase it through levels filled with threats and dangers but to your advantage you can throw bottles of soda. Watch out for evil birds and furious dogs while you collect pizza slices and strawberries in a yummy mix. And don\u2019t forget to keep an eye out for lost kittens on your way ahead. In miraculous surroundings Pizza Boy is a true retro game sensation.\r\nHurry and get it back before it runs cold!\r\n\r\nFeatures: \r\n# New school retro graphics\r\nThe unique graphic design truly is a joy for the eye.\r\nWith an arsenal of graphics including well over 50 different objects together with super detailed levels and backgrounds, Pizza Boy's visual presentation truly stands out.\r\n\r\n# Music and sound effect\r\nWith distinct inspiration from Chiptunes and Electronica the music sounds like your favourite retro game and even better.\r\n7 different tracks and more than 15 sound effects were created to always provide a compelling sound imagery for your gameplay experience, all through the game.\r\n\r\n# Storyline\r\nThe story of Pizza Boy is told in beautifully drawn comic strips and trough game animation.\r\n\r\n#The World of Pizza Boy\r\nPizza Boy contains hand crafted platform levels, each with its own puzzles, challenges, secrets and obstacles.\r\nThe world is divided into 3 beautiful themes that you will discover as progressing through the different levels.\r\nThere is always something new and exciting to jump on in Pizza Boy, one more unpredictable than the other.\r\n\r\n# Over 40 different enemies, obstacles and items\r\n# Collectibles and unlocks on all levels\r\n# Epic boss fight\r\n# Bonus Levels\r\n\r\nPizza Boy is a complete platform experience!",
+    "description": "A thief has stolen the pizza present! Oh no! You are forced to chase it through levels filled with threats and dangers but to your advantage you can throw bottles of soda. Watch out for evil birds and furious dogs while you collect pizza slices and strawberries in a yummy mix. And don’t forget to keep an eye out for lost kittens on your way ahead. In miraculous surroundings Pizza Boy is a true retro game sensation.\r\nHurry and get it back before it runs cold!\r\n\r\nFeatures: \r\n# New school retro graphics\r\nThe unique graphic design truly is a joy for the eye.\r\nWith an arsenal of graphics including well over 50 different objects together with super detailed levels and backgrounds, Pizza Boy's visual presentation truly stands out.\r\n\r\n# Music and sound effect\r\nWith distinct inspiration from Chiptunes and Electronica the music sounds like your favourite retro game and even better.\r\n7 different tracks and more than 15 sound effects were created to always provide a compelling sound imagery for your gameplay experience, all through the game.\r\n\r\n# Storyline\r\nThe story of Pizza Boy is told in beautifully drawn comic strips and trough game animation.\r\n\r\n#The World of Pizza Boy\r\nPizza Boy contains hand crafted platform levels, each with its own puzzles, challenges, secrets and obstacles.\r\nThe world is divided into 3 beautiful themes that you will discover as progressing through the different levels.\r\nThere is always something new and exciting to jump on in Pizza Boy, one more unpredictable than the other.\r\n\r\n# Over 40 different enemies, obstacles and items\r\n# Collectibles and unlocks on all levels\r\n# Epic boss fight\r\n# Bonus Levels\r\n\r\nPizza Boy is a complete platform experience!",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.acneplay.pizzaboy/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/TxdgMP9RzOzYvupEfk73.jpg",
-            "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/jphHNHQvTkiFAKHcHfdG.jpg",
-            "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/CJp0NgLBQ8CuDC5EMptY.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/TxdgMP9RzOzYvupEfk73.jpg",
-                "thumb": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/TxdgMP9RzOzYvupEfk73_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/jphHNHQvTkiFAKHcHfdG.jpg",
-                "thumb": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/jphHNHQvTkiFAKHcHfdG_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/CJp0NgLBQ8CuDC5EMptY.jpg",
-                "thumb": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/CJp0NgLBQ8CuDC5EMptY_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.acneplay.pizzaboy/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/TxdgMP9RzOzYvupEfk73.jpg",
+            "thumb": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/TxdgMP9RzOzYvupEfk73_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/jphHNHQvTkiFAKHcHfdG.jpg",
+            "thumb": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/jphHNHQvTkiFAKHcHfdG_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/CJp0NgLBQ8CuDC5EMptY.jpg",
+            "thumb": "https://archive.org/download/ouya_com.acneplay.pizzaboy_1.0/CJp0NgLBQ8CuDC5EMptY_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Acne Play",

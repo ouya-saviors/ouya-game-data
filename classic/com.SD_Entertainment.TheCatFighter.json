@@ -23,32 +23,24 @@
             "nativeSize": 14685052
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.SD_Entertainment.TheCatFighter/discover",
-        "video": null,
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/lCCxZPfzRVe8MWneIb5L",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/T71vXQQEzfse66IdKJAJ",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XDlxVpKTXWsTXkQiXoIT"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/lCCxZPfzRVe8MWneIb5L",
-                "thumb": "https://www.filepicker.io/api/file/lCCxZPfzRVe8MWneIb5L/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/T71vXQQEzfse66IdKJAJ",
-                "thumb": "https://www.filepicker.io/api/file/T71vXQQEzfse66IdKJAJ/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XDlxVpKTXWsTXkQiXoIT",
-                "thumb": "https://www.filepicker.io/api/file/XDlxVpKTXWsTXkQiXoIT/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.SD_Entertainment.TheCatFighter/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/lCCxZPfzRVe8MWneIb5L",
+            "thumb": "https://www.filepicker.io/api/file/lCCxZPfzRVe8MWneIb5L/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/T71vXQQEzfse66IdKJAJ",
+            "thumb": "https://www.filepicker.io/api/file/T71vXQQEzfse66IdKJAJ/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XDlxVpKTXWsTXkQiXoIT",
+            "thumb": "https://www.filepicker.io/api/file/XDlxVpKTXWsTXkQiXoIT/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": "a55d5df3-0075-488a-8f0f-03972ae940b0",
         "name": "SD - Entetainiment",

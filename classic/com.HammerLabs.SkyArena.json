@@ -1,7 +1,7 @@
 {
     "packageName": "com.HammerLabs.SkyArena",
     "title": "Sky Arena",
-    "description": "Version 0.5 Changelog (10. March 2014)\r\n\r\nThe \"everything is much faster now\" update :)\r\n\r\n-Added: Smaller deathmatch planets better suited for fast battles with 4 players or less\r\n-Added: Enemy position markers on screen, this replaces the minimap\r\n-Added: New secondary default weapon: Flare grenade\r\n-Added: New way of doing loopings and 180 turns: No more animations, you keep control the whole time\r\n-Added: New \"Killed by\" messages\r\n-Added: New score counter messages\r\n-Added: New target lock on mode for the primary laser charge\r\n-Added: New speed indicators. By doing advanced maneuvers you can go even faster\r\n-Added: Flyby cameras that show up in the empty splitscreen slots. Much nicer than black boxes\r\n-Changed: Pickup weapons now have limited ammo\r\n-Balancing: Primary weapons have been rebalanced to account for ammo\r\n-Updated: Now using the newest Ouya SDK, this should remove input lag\r\n\r\n\r\nThis is a demo for the still in development game \"Sky Arena\".\r\n\r\nSky Arena is a shoot \u2018em up in which you pilot a small fighter and fight against three of your friends in local couch-multiplayer. An online multiplayer mode is currently in development and we are looking for feedback to make this game as good as it can be.",
+    "description": "Version 0.5 Changelog (10. March 2014)\r\n\r\nThe \"everything is much faster now\" update :)\r\n\r\n-Added: Smaller deathmatch planets better suited for fast battles with 4 players or less\r\n-Added: Enemy position markers on screen, this replaces the minimap\r\n-Added: New secondary default weapon: Flare grenade\r\n-Added: New way of doing loopings and 180 turns: No more animations, you keep control the whole time\r\n-Added: New \"Killed by\" messages\r\n-Added: New score counter messages\r\n-Added: New target lock on mode for the primary laser charge\r\n-Added: New speed indicators. By doing advanced maneuvers you can go even faster\r\n-Added: Flyby cameras that show up in the empty splitscreen slots. Much nicer than black boxes\r\n-Changed: Pickup weapons now have limited ammo\r\n-Balancing: Primary weapons have been rebalanced to account for ammo\r\n-Updated: Now using the newest Ouya SDK, this should remove input lag\r\n\r\n\r\nThis is a demo for the still in development game \"Sky Arena\".\r\n\r\nSky Arena is a shoot ‘em up in which you pilot a small fighter and fight against three of your friends in local couch-multiplayer. An online multiplayer mode is currently in development and we are looking for feedback to make this game as good as it can be.",
     "players": [
         1
     ],
@@ -22,42 +22,33 @@
             "nativeSize": 14685052
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/discover",
-        "video": "https://vimeo.com/88761742",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/88761742"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/88761742"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.HammerLabs.SkyArena/screenshot-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Hammer Labs",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.ohrrpgce.voidpyramid",
     "title": "Void Pyramid",
-    "description": "Void Pyramid is a post-apocalyptic RPG set in the spacefaring Egyptian empire.\n\nIn the far future, the maniacal Prime Pharaoh rules the wastelands of Earth. Any who oppose him are exiled to the Void Pyramid. This outer space prison is populated by criminals, beasts, and mutants. No one has ever escaped, but you must try\u2026\n\n*Choose to be a soldier, slave, or scribe. Overcome challenges with your unique skills.\n\n*Explore the intricately designed pyramid. Each chamber is packed with foes, puzzles, traps, treasures, and other interesting stuff.\n\n*Develop your character however you want with an unusual but intuitive advancement system.\n\n*Use your brawn, wits, and agility stats to kick down doors, bend bars, hack computers, haggle with merchants, dodge traps, scale walls, and more.\n\n*Find numerous solutions to every problem. Explore multiple paths through the pyramid. Experience alternate endings. Fight optional bosses. Discover hidden treasures.\n\n*Experience a unique vision of the future. In the spacefaring future, the Egyptian empire has risen again. The Prime Pharaoh\u2019s mutant armies oppress mankind.",
+    "description": "Void Pyramid is a post-apocalyptic RPG set in the spacefaring Egyptian empire.\n\nIn the far future, the maniacal Prime Pharaoh rules the wastelands of Earth. Any who oppose him are exiled to the Void Pyramid. This outer space prison is populated by criminals, beasts, and mutants. No one has ever escaped, but you must try…\n\n*Choose to be a soldier, slave, or scribe. Overcome challenges with your unique skills.\n\n*Explore the intricately designed pyramid. Each chamber is packed with foes, puzzles, traps, treasures, and other interesting stuff.\n\n*Develop your character however you want with an unusual but intuitive advancement system.\n\n*Use your brawn, wits, and agility stats to kick down doors, bend bars, hack computers, haggle with merchants, dodge traps, scale walls, and more.\n\n*Find numerous solutions to every problem. Explore multiple paths through the pyramid. Experience alternate endings. Fight optional bosses. Discover hidden treasures.\n\n*Experience a unique vision of the future. In the spacefaring future, the Egyptian empire has risen again. The Prime Pharaoh’s mutant armies oppress mankind.",
     "players": [
         1
     ],
@@ -21,50 +21,39 @@
             "nativeSize": 1999544
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ohrrpgce.voidpyramid_1.3/9ZjlvJtQtuDU5pgcILTJ.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.voidpyramid_1.3/b9mnmpbxQQGylkmXNOMi.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.voidpyramid_1.3/vSaYa0gReGopACFvlSgP.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.voidpyramid_1.3/OXKF5TNCS7u4nq1cETzB.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.voidpyramid_1.3/oYtQQZ0LQfC6v6DzSG1A.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.voidpyramid_1.3/FTonDFmLTLiuY0KcLU7S.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.voidpyramid/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "A. Hagen",

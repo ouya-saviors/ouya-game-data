@@ -23,44 +23,34 @@
             "nativeSize": 5061840
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.seedstudio.PiratesBattleOUYA/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/gmWro0ztRiKIs8zdWOZ3.jpg",
-            "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/NayDXmmlS0ynP6yNoVJd.jpg",
-            "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/xn6fcPSY60PJFxcGvevQ.jpg",
-            "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/tE0H2vzzRZ6yRexMnwnv.jpg",
-            "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/fkDMMakQkGUV6ubuykNQ.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/gmWro0ztRiKIs8zdWOZ3.jpg",
-                "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/gmWro0ztRiKIs8zdWOZ3_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/NayDXmmlS0ynP6yNoVJd.jpg",
-                "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/NayDXmmlS0ynP6yNoVJd_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/xn6fcPSY60PJFxcGvevQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/xn6fcPSY60PJFxcGvevQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/tE0H2vzzRZ6yRexMnwnv.jpg",
-                "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/tE0H2vzzRZ6yRexMnwnv_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/fkDMMakQkGUV6ubuykNQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/fkDMMakQkGUV6ubuykNQ_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.seedstudio.PiratesBattleOUYA/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/gmWro0ztRiKIs8zdWOZ3.jpg",
+            "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/gmWro0ztRiKIs8zdWOZ3_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/NayDXmmlS0ynP6yNoVJd.jpg",
+            "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/NayDXmmlS0ynP6yNoVJd_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/xn6fcPSY60PJFxcGvevQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/xn6fcPSY60PJFxcGvevQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/tE0H2vzzRZ6yRexMnwnv.jpg",
+            "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/tE0H2vzzRZ6yRexMnwnv_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/fkDMMakQkGUV6ubuykNQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.seedstudio.PiratesBattleOUYA_1.0/fkDMMakQkGUV6ubuykNQ_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Seed Studio Inc.",

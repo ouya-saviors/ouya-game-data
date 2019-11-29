@@ -24,66 +24,53 @@
             "nativeSize": 15035200
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/discover",
-        "video": "https://vimeo.com/132606313",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/132606313"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/132606313"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tiz777.jaggyrace/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": "ef3df4e7-56f7-4948-9a8d-62e8d7cf13e6",
         "name": "Tiziano Bizzini",

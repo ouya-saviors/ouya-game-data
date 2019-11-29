@@ -1,7 +1,7 @@
 {
     "packageName": "com.orangepixel.meganoid2",
     "title": "Meganoid 2",
-    "description": "Subscribe to our newsletter for new and exclusive content: http://orangepixel.net/subscribe\r\n-------------------\r\n\r\nThe sequel to the much acclaimed Meganoid!  \r\n\r\nMeganoid 2 continues the brutal platform gaming that all you guys loved in the first part. Again: this game is not easy! You will need to bring your best game skills to complete the short but hard levels.\r\n\r\nMeganoid gets most of it\u2019s inspiration from 80s and 90s games, the pixel-art graphic style is on purpose! \r\n\r\n** THIS GAME IS NOT EASY!\r\nEach challenging level can be completed within a few seconds of gaming, making the pace of the game pretty fast, but many levels require multiply tries to complete. New levels will be added in updates  -  So tell your friends to download this game now! \r\n\r\n** GAME PLAY!\r\n- complete a level to earn a level star \r\n- complete the level within the time limit to earn the time-trophy\r\n- find the (hidden) treasure in evera level to earn the treasure-trophy\r\n\r\n** GAME STYLE\r\nMeganoid 2 comes in full 8bit retro pixelart style, complete with chiptune and sound effects, we love this style, and it fits the genre!  The game is set in an adventurous environment with tombs, temples, skulls, arrows, traps, boulders, snakes and bats!\r\n\r\nKeep updated on this game by checking: http://www.orangepixel.net/meganoid2/\r\n\r\nIf you are stuck in the game, check out facebook and ask for help:\r\nhttp://facebook.com/meganoidgame\r\n\r\n** BUGS\r\nif you run into problems or the game wont work on your device, instead of just rating 1 star, you could help us fix it by providing feedback!",
+    "description": "Subscribe to our newsletter for new and exclusive content: http://orangepixel.net/subscribe\r\n-------------------\r\n\r\nThe sequel to the much acclaimed Meganoid!  \r\n\r\nMeganoid 2 continues the brutal platform gaming that all you guys loved in the first part. Again: this game is not easy! You will need to bring your best game skills to complete the short but hard levels.\r\n\r\nMeganoid gets most of it’s inspiration from 80s and 90s games, the pixel-art graphic style is on purpose! \r\n\r\n** THIS GAME IS NOT EASY!\r\nEach challenging level can be completed within a few seconds of gaming, making the pace of the game pretty fast, but many levels require multiply tries to complete. New levels will be added in updates  -  So tell your friends to download this game now! \r\n\r\n** GAME PLAY!\r\n- complete a level to earn a level star \r\n- complete the level within the time limit to earn the time-trophy\r\n- find the (hidden) treasure in evera level to earn the treasure-trophy\r\n\r\n** GAME STYLE\r\nMeganoid 2 comes in full 8bit retro pixelart style, complete with chiptune and sound effects, we love this style, and it fits the genre!  The game is set in an adventurous environment with tombs, temples, skulls, arrows, traps, boulders, snakes and bats!\r\n\r\nKeep updated on this game by checking: http://www.orangepixel.net/meganoid2/\r\n\r\nIf you are stuck in the game, check out facebook and ask for help:\r\nhttp://facebook.com/meganoidgame\r\n\r\n** BUGS\r\nif you run into problems or the game wont work on your device, instead of just rating 1 star, you could help us fix it by providing feedback!",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/discover",
-        "video": "https://vimeo.com/108468375",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/108468375"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/108468375"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.meganoid2/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "caa4ecd5-5936-4b9e-883c-608a70105282",
         "name": "Orangepixel",

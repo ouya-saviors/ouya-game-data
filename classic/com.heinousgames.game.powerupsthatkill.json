@@ -22,38 +22,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.heinousgames.game.powerupsthatkill/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/p4jTvLliSsWh2NarwUn1.jpg",
-            "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/IlGo4HlZRPawg8cRQ1HW.jpg",
-            "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/MvfxOfBKRDKThBa3jxZW.jpg",
-            "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/TnrR7jJTTcSTZkfILcTH.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/p4jTvLliSsWh2NarwUn1.jpg",
-                "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/p4jTvLliSsWh2NarwUn1_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/IlGo4HlZRPawg8cRQ1HW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/IlGo4HlZRPawg8cRQ1HW_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/MvfxOfBKRDKThBa3jxZW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/MvfxOfBKRDKThBa3jxZW_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/TnrR7jJTTcSTZkfILcTH.jpg",
-                "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/TnrR7jJTTcSTZkfILcTH_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.heinousgames.game.powerupsthatkill/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/p4jTvLliSsWh2NarwUn1.jpg",
+            "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/p4jTvLliSsWh2NarwUn1_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/IlGo4HlZRPawg8cRQ1HW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/IlGo4HlZRPawg8cRQ1HW_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/MvfxOfBKRDKThBa3jxZW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/MvfxOfBKRDKThBa3jxZW_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/TnrR7jJTTcSTZkfILcTH.jpg",
+            "thumb": "https://archive.org/download/ouya_com.heinousgames.game.powerupsthatkill_1.5/TnrR7jJTTcSTZkfILcTH_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Steven Hanus",

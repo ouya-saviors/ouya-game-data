@@ -28,38 +28,29 @@
             "nativeSize": 2141788
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ouroborus.muzzle.android_1.0.5/7XeApW4IQR6IMXWlt5TM.jpg",
-            "https://archive.org/download/ouya_com.ouroborus.muzzle.android_1.0.5/FWK4PimLRqW1Rn3GNp4P.jpg",
-            "https://archive.org/download/ouya_com.ouroborus.muzzle.android_1.0.5/veOO6rx7TkOmxjuFkVaw.jpg",
-            "https://archive.org/download/ouya_com.ouroborus.muzzle.android_1.0.5/nCHWn4RYQOW5wuzIwqbK.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ouroborus.muzzle.android/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "588f94ba-1471-4f5d-9616-4fb9b4f13ea9",
         "name": "Ouroboros Softworks",

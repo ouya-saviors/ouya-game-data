@@ -1,7 +1,7 @@
 {
     "packageName": "com.deliriumstudios.kinitoninja",
     "title": "Kinito Ninja",
-    "description": "Hurdle obstacles, cut down bad guys, and collect treasure in record time now!\r\n\r\nDownload KINITO Ninja and discover hours of exciting side scrolling duck & dodge action, lightning fast entertainment, and your next mobile arcade addiction today!\r\n\r\n\u2022 Addictive action filled gameplay.\r\n\r\n\u2022 6 unique game worlds filled with more than 36 levels.\r\n\r\n\u2022 Two selectable ninjas to defend civilians and destroy villains with.\r\n\r\n\u2022 Special collectible combos.\r\n\r\n\u2022 Gorgeous graphics & awesome original soundtrack.",
+    "description": "Hurdle obstacles, cut down bad guys, and collect treasure in record time now!\r\n\r\nDownload KINITO Ninja and discover hours of exciting side scrolling duck & dodge action, lightning fast entertainment, and your next mobile arcade addiction today!\r\n\r\n• Addictive action filled gameplay.\r\n\r\n• 6 unique game worlds filled with more than 36 levels.\r\n\r\n• Two selectable ninjas to defend civilians and destroy villains with.\r\n\r\n• Special collectible combos.\r\n\r\n• Gorgeous graphics & awesome original soundtrack.",
     "players": [
         1
     ],
@@ -23,62 +23,49 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.deliriumstudios.kinitoninja/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/pj4JfueQs27VsRNWlGoQ.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/6SWpDy4tQBCVNlt8gTS3.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/HYeMsSERvDSrZMlhJScw.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/lswmpN0ERaC4vNoiD6ib.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/MKbGaGKeSdqz7oNmpN9u.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/KhDuURcMRcmajiBi0EtH.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/rvmuWrwCQYWChWYGjOkR.jpg",
-            "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/8mTPRVqbRhGG5FRhVVIA.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/pj4JfueQs27VsRNWlGoQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/pj4JfueQs27VsRNWlGoQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/6SWpDy4tQBCVNlt8gTS3.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/6SWpDy4tQBCVNlt8gTS3_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/HYeMsSERvDSrZMlhJScw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/HYeMsSERvDSrZMlhJScw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/lswmpN0ERaC4vNoiD6ib.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/lswmpN0ERaC4vNoiD6ib_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/MKbGaGKeSdqz7oNmpN9u.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/MKbGaGKeSdqz7oNmpN9u_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/KhDuURcMRcmajiBi0EtH.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/KhDuURcMRcmajiBi0EtH_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/rvmuWrwCQYWChWYGjOkR.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/rvmuWrwCQYWChWYGjOkR_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/8mTPRVqbRhGG5FRhVVIA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/8mTPRVqbRhGG5FRhVVIA_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.deliriumstudios.kinitoninja/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/pj4JfueQs27VsRNWlGoQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/pj4JfueQs27VsRNWlGoQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/6SWpDy4tQBCVNlt8gTS3.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/6SWpDy4tQBCVNlt8gTS3_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/HYeMsSERvDSrZMlhJScw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/HYeMsSERvDSrZMlhJScw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/lswmpN0ERaC4vNoiD6ib.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/lswmpN0ERaC4vNoiD6ib_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/MKbGaGKeSdqz7oNmpN9u.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/MKbGaGKeSdqz7oNmpN9u_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/KhDuURcMRcmajiBi0EtH.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/KhDuURcMRcmajiBi0EtH_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/rvmuWrwCQYWChWYGjOkR.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/rvmuWrwCQYWChWYGjOkR_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/8mTPRVqbRhGG5FRhVVIA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.1/8mTPRVqbRhGG5FRhVVIA_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Delirium Studios Evolution S.L.",

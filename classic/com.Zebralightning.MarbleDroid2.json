@@ -21,92 +21,74 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Zebralightning.MarbleDroid2/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/B818v6tSaOhwNe2gB3JA.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/g4yGj9khSGmaB5j9hBcN.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/idHLe6MS8qOvRY0QycWw.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/IPLj5On8SsycebPzjrAL.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/5u1xcstYS2O0YZMFehCy.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/nGShZKSHA2z0ViXirEA2.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/ws9n7WKETtagfoR36RWI.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/P5L413wyRXKPIwDwxIor.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/CK7v2w7THO53sozlaF3F.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Nf1IDtecRRGzP9kTQrU2.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Mm5smI8NSF2D0EnwYgTI.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/6yaIJRrQkyDX81kavkZj.jpg",
-            "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/2sIZJfDzSSGfSBDKHrQb.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/B818v6tSaOhwNe2gB3JA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/B818v6tSaOhwNe2gB3JA_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/g4yGj9khSGmaB5j9hBcN.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/g4yGj9khSGmaB5j9hBcN_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/idHLe6MS8qOvRY0QycWw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/idHLe6MS8qOvRY0QycWw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/IPLj5On8SsycebPzjrAL.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/IPLj5On8SsycebPzjrAL_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/5u1xcstYS2O0YZMFehCy.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/5u1xcstYS2O0YZMFehCy_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/nGShZKSHA2z0ViXirEA2.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/nGShZKSHA2z0ViXirEA2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/ws9n7WKETtagfoR36RWI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/ws9n7WKETtagfoR36RWI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/P5L413wyRXKPIwDwxIor.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/P5L413wyRXKPIwDwxIor_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/CK7v2w7THO53sozlaF3F.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/CK7v2w7THO53sozlaF3F_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Nf1IDtecRRGzP9kTQrU2.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Nf1IDtecRRGzP9kTQrU2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Mm5smI8NSF2D0EnwYgTI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Mm5smI8NSF2D0EnwYgTI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/6yaIJRrQkyDX81kavkZj.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/6yaIJRrQkyDX81kavkZj_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/2sIZJfDzSSGfSBDKHrQb.jpg",
-                "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/2sIZJfDzSSGfSBDKHrQb_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Zebralightning.MarbleDroid2/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/B818v6tSaOhwNe2gB3JA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/B818v6tSaOhwNe2gB3JA_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/g4yGj9khSGmaB5j9hBcN.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/g4yGj9khSGmaB5j9hBcN_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/idHLe6MS8qOvRY0QycWw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/idHLe6MS8qOvRY0QycWw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/IPLj5On8SsycebPzjrAL.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/IPLj5On8SsycebPzjrAL_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/5u1xcstYS2O0YZMFehCy.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/5u1xcstYS2O0YZMFehCy_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/nGShZKSHA2z0ViXirEA2.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/nGShZKSHA2z0ViXirEA2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/ws9n7WKETtagfoR36RWI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/ws9n7WKETtagfoR36RWI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/P5L413wyRXKPIwDwxIor.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/P5L413wyRXKPIwDwxIor_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/CK7v2w7THO53sozlaF3F.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/CK7v2w7THO53sozlaF3F_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Nf1IDtecRRGzP9kTQrU2.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Nf1IDtecRRGzP9kTQrU2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Mm5smI8NSF2D0EnwYgTI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/Mm5smI8NSF2D0EnwYgTI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/6yaIJRrQkyDX81kavkZj.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/6yaIJRrQkyDX81kavkZj_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/2sIZJfDzSSGfSBDKHrQb.jpg",
+            "thumb": "https://archive.org/download/ouya_com.Zebralightning.MarbleDroid_1.0/2sIZJfDzSSGfSBDKHrQb_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Zebralightning Studios",

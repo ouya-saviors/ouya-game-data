@@ -23,58 +23,47 @@
             "nativeSize": 14985148
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/discover",
-        "video": "http://vimeo.com/111137549",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/ACvfjl6RZ2f7GkreETC0.jpg",
-            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/TuG86tgTv8Aj5M9aYTwn.jpg",
-            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/OkF0meQXyExKYGyXGnbg.jpg",
-            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/RxTj7l2gRIWVxYIxkrSP.jpg",
-            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/4b17Ww1YT8Koot7E3evR.jpg",
-            "https://archive.org/download/ouya_com.soulareus.HardLander_0.88/k1tVKeXOS56CU6E7dUQ3.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/111137549"
-            },
-            {
-                "type": "video",
-                "url": "http://vimeo.com/97501454"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/111137549"
+        },
+        {
+            "type": "video",
+            "url": "http://vimeo.com/97501454"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.soulareus.HardLander/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Soulareus Interactive",

@@ -22,36 +22,28 @@
             "nativeSize": 3913908
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/discover",
-        "video": "https://vimeo.com/88688549",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/88688549"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/88688549"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameblabla.rubbybird/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Gameblabla",

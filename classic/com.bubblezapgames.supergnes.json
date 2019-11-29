@@ -1,7 +1,7 @@
 {
     "packageName": "com.bubblezapgames.supergnes",
     "title": "SuperGNES",
-    "description": "The premier Super Nintendo emulator! Developed from the ground up to deliver the fastest play possible. Easily locate and play your favorite titles by scanning your phone, viewing your list of installed ROMs complete with cover art. Save your progress at any time and return instantly to where you left off, thanks to a quick save state system. A huge database of Game Genie\u2122 and Pro Action Replay\u2122 codes rounds off the package to deliver the ultimate SNES emulation experience.\r\n\u2022 Fastest emulation, best game compatibility\r\n\u2022 Ultra-fast SuperFX core support for playing StarFox & Yoshi's Island\r\n\u2022 SA1 chip support for Mario RPG, Kirby, and more\r\n\u2022 Sync ROMs and Save States with Dropbox\r\n\u2022 Network multiplayer using WiFi\r\n\u2022 Visual effects! (OpenGL ES Shaders) Support for custom shaders!\r\n\u2022 Slick user interface\r\n\u2022 On-screen multitouch controls with optional rumble feedback\r\n\u2022 Advanced layout editor for on-screen controls\r\n\u2022 Custom screen size and orientation\r\n\u2022 Auto-detects games and displays cover art\r\n\u2022 Custom control mapping\r\n\u2022 Support for Moga and iCade 8-bitty game controllers\r\n\u2022 Save games with screen shot\r\n\u2022 Thousands of cheats (Pro Action Replay\u2122, Game Genie\u2122)\r\n\u2022 In-game GameFAQs\u2122 integration\r\n\u2022 Fast-forward games using turbo skip\r\n\u2022 Support for SMC, FIG, SFC, ZIP, and 7z formats\r\n\u2022 Helpful and responsive customer service\r\nSee FAQ or Game Compatibility List at SuperGNES.com.\r\nNo game titles are included. Please obtain self created backup copies of rightfully owned physical cartridges for use with SuperGNES.\r\nWe support the preservation of classic gaming through our corporate sponsorship of the Digital Game Museum. Check them out at www.digitalgamemuseum.org and keep retro alive!\r\n** Actual SNES emulation developers. SuperGNES is regularly updated and supported. **\r\nLEGAL: This product is not affiliated with, nor authorized, endorsed or licensed in any way by Nintendo Corporation, its affiliates or subsidiaries. Super Nintendo game software sold separately. \"Super Nintendo\" is a registered trademark of Nintendo Corporation. \"Nintendo\" is a registered trademark for the Nintendo Corporation. All individual games screen shots or audio that are simulated by SuperGNES software are property of their respective copyright holders and are only used by Bubble Zap Games for the purpose of informing the customer of the software's functionality.",
+    "description": "The premier Super Nintendo emulator! Developed from the ground up to deliver the fastest play possible. Easily locate and play your favorite titles by scanning your phone, viewing your list of installed ROMs complete with cover art. Save your progress at any time and return instantly to where you left off, thanks to a quick save state system. A huge database of Game Genie™ and Pro Action Replay™ codes rounds off the package to deliver the ultimate SNES emulation experience.\r\n• Fastest emulation, best game compatibility\r\n• Ultra-fast SuperFX core support for playing StarFox & Yoshi's Island\r\n• SA1 chip support for Mario RPG, Kirby, and more\r\n• Sync ROMs and Save States with Dropbox\r\n• Network multiplayer using WiFi\r\n• Visual effects! (OpenGL ES Shaders) Support for custom shaders!\r\n• Slick user interface\r\n• On-screen multitouch controls with optional rumble feedback\r\n• Advanced layout editor for on-screen controls\r\n• Custom screen size and orientation\r\n• Auto-detects games and displays cover art\r\n• Custom control mapping\r\n• Support for Moga and iCade 8-bitty game controllers\r\n• Save games with screen shot\r\n• Thousands of cheats (Pro Action Replay™, Game Genie™)\r\n• In-game GameFAQs™ integration\r\n• Fast-forward games using turbo skip\r\n• Support for SMC, FIG, SFC, ZIP, and 7z formats\r\n• Helpful and responsive customer service\r\nSee FAQ or Game Compatibility List at SuperGNES.com.\r\nNo game titles are included. Please obtain self created backup copies of rightfully owned physical cartridges for use with SuperGNES.\r\nWe support the preservation of classic gaming through our corporate sponsorship of the Digital Game Museum. Check them out at www.digitalgamemuseum.org and keep retro alive!\r\n** Actual SNES emulation developers. SuperGNES is regularly updated and supported. **\r\nLEGAL: This product is not affiliated with, nor authorized, endorsed or licensed in any way by Nintendo Corporation, its affiliates or subsidiaries. Super Nintendo game software sold separately. \"Super Nintendo\" is a registered trademark of Nintendo Corporation. \"Nintendo\" is a registered trademark for the Nintendo Corporation. All individual games screen shots or audio that are simulated by SuperGNES software are property of their respective copyright holders and are only used by Bubble Zap Games for the purpose of informing the customer of the software's functionality.",
     "players": [
         1
     ],
@@ -22,62 +22,49 @@
             "nativeSize": 1169024
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bubblezapgames.supergnes/screenshot-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Neutron Emulation",

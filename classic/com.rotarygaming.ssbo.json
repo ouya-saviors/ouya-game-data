@@ -23,32 +23,24 @@
             "nativeSize": 22269036
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.rotarygaming.ssbo_1.0/jCgDMirNTmqFHPNIaZoj.jpg",
-            "https://archive.org/download/ouya_com.rotarygaming.ssbo_1.0/8dqHzAlzRwGqXvupoHlx.jpg",
-            "https://archive.org/download/ouya_com.rotarygaming.ssbo_1.0/CKJtrLAURGrJC7mcg4Um.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rotarygaming.ssbo/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Rotary Gaming",

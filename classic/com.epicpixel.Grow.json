@@ -1,7 +1,7 @@
 {
     "packageName": "com.epicpixel.Grow",
     "title": "Grow",
-    "description": "Grow is not your typical fish game where you wait for your pet fish to grow and mindlessly tap on the screen to feed it. We\u2019re not catching fishes today so go ahead and throw away your fishing equipments. Be ready to be hungry, very hungry, even hungrier than a shark because, in Grow, your job is to eat everything in the aquarium!\r\n\r\nYou are a little fish with a big appetite and dreams. So you eat. And eat. Till eventually, you Grow. From a cramped jar to the open sea, play the adventure mode to explore different habitats. Collect coins to upgrade power-ups in the shop, then test your skills in survival mode, where endless hours of replay and online leader board awaits.\r\nFeatures:\r\n* 78 levels with 7 stunning environments\r\n* 7 endless survival levels with global leader board\r\n* Five unique power-ups with 17 upgrades to unlock\r\n* Six types of enemies with unique behaviors",
+    "description": "Grow is not your typical fish game where you wait for your pet fish to grow and mindlessly tap on the screen to feed it. We’re not catching fishes today so go ahead and throw away your fishing equipments. Be ready to be hungry, very hungry, even hungrier than a shark because, in Grow, your job is to eat everything in the aquarium!\r\n\r\nYou are a little fish with a big appetite and dreams. So you eat. And eat. Till eventually, you Grow. From a cramped jar to the open sea, play the adventure mode to explore different habitats. Collect coins to upgrade power-ups in the shop, then test your skills in survival mode, where endless hours of replay and online leader board awaits.\r\nFeatures:\r\n* 78 levels with 7 stunning environments\r\n* 7 endless survival levels with global leader board\r\n* Five unique power-ups with 17 upgrades to unlock\r\n* Six types of enemies with unique behaviors",
     "players": [
         1
     ],
@@ -23,50 +23,39 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.epicpixel.Grow/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/aCOFdmm8TRS4KJaeMdeZ.jpg",
-            "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/u1yxwruuTNC1un5955XN.jpg",
-            "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/GJgJXi1MQteZHcepLS3A.jpg",
-            "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/eWlPKLQPS7WBsZwPxGtf.jpg",
-            "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/WZph8TsKTFC677ByHrth.jpg",
-            "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/gj1LnIM7S3ilZRVLROFW.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/aCOFdmm8TRS4KJaeMdeZ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/aCOFdmm8TRS4KJaeMdeZ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/u1yxwruuTNC1un5955XN.jpg",
-                "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/u1yxwruuTNC1un5955XN_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/GJgJXi1MQteZHcepLS3A.jpg",
-                "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/GJgJXi1MQteZHcepLS3A_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/eWlPKLQPS7WBsZwPxGtf.jpg",
-                "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/eWlPKLQPS7WBsZwPxGtf_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/WZph8TsKTFC677ByHrth.jpg",
-                "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/WZph8TsKTFC677ByHrth_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/gj1LnIM7S3ilZRVLROFW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/gj1LnIM7S3ilZRVLROFW_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.epicpixel.Grow/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/aCOFdmm8TRS4KJaeMdeZ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/aCOFdmm8TRS4KJaeMdeZ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/u1yxwruuTNC1un5955XN.jpg",
+            "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/u1yxwruuTNC1un5955XN_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/GJgJXi1MQteZHcepLS3A.jpg",
+            "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/GJgJXi1MQteZHcepLS3A_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/eWlPKLQPS7WBsZwPxGtf.jpg",
+            "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/eWlPKLQPS7WBsZwPxGtf_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/WZph8TsKTFC677ByHrth.jpg",
+            "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/WZph8TsKTFC677ByHrth_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/gj1LnIM7S3ilZRVLROFW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.epicpixel.Grow_1.25/gj1LnIM7S3ilZRVLROFW_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Epic Pixel LLC",

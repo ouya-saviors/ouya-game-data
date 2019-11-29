@@ -24,48 +24,38 @@
             "nativeSize": 4759356
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/discover",
-        "video": "https://vimeo.com/109566185",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/109566185"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/109566185"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.strikewing.GG_green/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Crescent Moon Games",

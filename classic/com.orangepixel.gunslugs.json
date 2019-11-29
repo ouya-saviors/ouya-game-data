@@ -1,7 +1,7 @@
 {
     "packageName": "com.orangepixel.gunslugs",
     "title": "Gunslugs",
-    "description": "Gunslugs is the most chaotic, fun, arcade action game you'll find on any platform! Non-stop action from the guys behind Meganoid, Meganoid 2 and Stardash ! \r\n\r\n\u201cThere\u2019s so much praise I want to ramble on about, but I\u2019ll leave it at this: Gunslugs is a game you must get your hands on\u201d \u2013 Gamezebo\r\n\r\n\"Basically, it\u2019s everything you could ask for from a rampaging action game, all packed up in a neat little mobile release with ample amounts of retro-style visuals, music and secrets.\u201d \u2013 JayIsGames\r\n\r\nWe grabbed a bunch of expendable action hero's from the 80s and we made them team up as the Gunslugs to fight the war against the always evil Black Duck Army. Can you save the planet? maybe even the universe? \r\n\r\nFEATURES \r\n* Random level generation - no 2 game sessions will be the same! \r\n* Unlockable characters \r\n* Two player co-op mode is supported!\r\n* Thumping sound track \r\n* Fun variation of weapons \r\n* Tank driving! \r\n* Jetpack flying! \r\n* Secret levels \r\n* Objectives/achievements \r\n* Destruction \r\n* Chaos \r\n* Rain, snow, and big bad hell worms \r\n* Wizards, princesses, geeks, voodoo priests and many more surprises...! \r\n\r\nFor more info, check out http://orangepixel.net/gunslugs\r\n\r\n** BUGS\r\nif you run into problems or the game wont work on your device, instead of just rating 1 star, you could help us fix it by providing feedback!",
+    "description": "Gunslugs is the most chaotic, fun, arcade action game you'll find on any platform! Non-stop action from the guys behind Meganoid, Meganoid 2 and Stardash ! \r\n\r\n“There’s so much praise I want to ramble on about, but I’ll leave it at this: Gunslugs is a game you must get your hands on” – Gamezebo\r\n\r\n\"Basically, it’s everything you could ask for from a rampaging action game, all packed up in a neat little mobile release with ample amounts of retro-style visuals, music and secrets.” – JayIsGames\r\n\r\nWe grabbed a bunch of expendable action hero's from the 80s and we made them team up as the Gunslugs to fight the war against the always evil Black Duck Army. Can you save the planet? maybe even the universe? \r\n\r\nFEATURES \r\n* Random level generation - no 2 game sessions will be the same! \r\n* Unlockable characters \r\n* Two player co-op mode is supported!\r\n* Thumping sound track \r\n* Fun variation of weapons \r\n* Tank driving! \r\n* Jetpack flying! \r\n* Secret levels \r\n* Objectives/achievements \r\n* Destruction \r\n* Chaos \r\n* Rain, snow, and big bad hell worms \r\n* Wizards, princesses, geeks, voodoo priests and many more surprises...! \r\n\r\nFor more info, check out http://orangepixel.net/gunslugs\r\n\r\n** BUGS\r\nif you run into problems or the game wont work on your device, instead of just rating 1 star, you could help us fix it by providing feedback!",
     "players": [
         1
     ],
@@ -24,42 +24,33 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/discover",
-        "video": "https://vimeo.com/86201458",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/86201458"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/86201458"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs/screenshot-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "caa4ecd5-5936-4b9e-883c-608a70105282",
         "name": "Orangepixel",

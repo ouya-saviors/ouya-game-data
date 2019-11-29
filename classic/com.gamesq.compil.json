@@ -23,48 +23,38 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamesq.compil/discover",
-        "video": "https://vimeo.com/108800372",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamesq.compil/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamesq.compil/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamesq.compil/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gamesq.compil/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.gamesq.compil/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/108800372"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamesq.compil/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/108800372"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesq.compil/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "3T Games",

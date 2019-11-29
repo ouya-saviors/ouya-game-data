@@ -23,32 +23,24 @@
             "nativeSize": 10158352
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ccsh.chomperman_1.0.0/KG1dkIpzSEOabLPNH8Df.jpg",
-            "https://archive.org/download/ouya_com.ccsh.chomperman_1.0.0/EChZRmiyQNwTBFyLbBsW.jpg",
-            "https://archive.org/download/ouya_com.ccsh.chomperman_1.0.0/OkWQ4JuRumVI73FIug0w.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ccsh.chomperman/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "58321b6c-9d92-4566-af22-4071544c8467",
         "name": "CC & SH",

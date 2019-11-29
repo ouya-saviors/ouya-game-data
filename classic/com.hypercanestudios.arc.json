@@ -1,7 +1,7 @@
 {
     "packageName": "com.hypercanestudios.arc",
     "title": "Arc",
-    "description": "*Arc is a Work In Progress! See below for more details*\r\n\r\nArc is a 1-4 player cooperative game that combines run and jump PLATFORMER ACTION with reticle controlled SHOOTING.  Blast the bad guys, take down BOSSES, unlock unique MINI-GAMES and try not to shoot your friends!  Switch between an agile marine and a powerful heavy weapon, but watch out!  You\u2019ll have to risk your marine to replenish your limited heavy weapon ammo supplies.\r\n\r\nThis game is currently a work in progress.  This means that the game is not finished!  There may be a few bugs, some features may be broken and future updates to the game may completely change everything!  But more excitingly, your ideas and support can drastically change the course of the game!",
+    "description": "*Arc is a Work In Progress! See below for more details*\r\n\r\nArc is a 1-4 player cooperative game that combines run and jump PLATFORMER ACTION with reticle controlled SHOOTING.  Blast the bad guys, take down BOSSES, unlock unique MINI-GAMES and try not to shoot your friends!  Switch between an agile marine and a powerful heavy weapon, but watch out!  You’ll have to risk your marine to replenish your limited heavy weapon ammo supplies.\r\n\r\nThis game is currently a work in progress.  This means that the game is not finished!  There may be a few bugs, some features may be broken and future updates to the game may completely change everything!  But more excitingly, your ideas and support can drastically change the course of the game!",
     "players": [
         1
     ],
@@ -23,54 +23,43 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.hypercanestudios.arc/discover",
-        "video": "https://vimeo.com/81132544",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/yrfCN6MfRWyIjk41N3Oe",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/2j2FhlSrS06oyWpv2skQ",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eO2MrlZuTjaESHGBCP1f",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qxwospCgSgK42iG6Cirt",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3PE9An5SBWmAkNS7RtqT",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/QfuA30rORCieF4dRdttm"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/81132544"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/yrfCN6MfRWyIjk41N3Oe",
-                "thumb": "https://www.filepicker.io/api/file/yrfCN6MfRWyIjk41N3Oe/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/2j2FhlSrS06oyWpv2skQ",
-                "thumb": "https://www.filepicker.io/api/file/2j2FhlSrS06oyWpv2skQ/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eO2MrlZuTjaESHGBCP1f",
-                "thumb": "https://www.filepicker.io/api/file/eO2MrlZuTjaESHGBCP1f/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qxwospCgSgK42iG6Cirt",
-                "thumb": "https://www.filepicker.io/api/file/qxwospCgSgK42iG6Cirt/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3PE9An5SBWmAkNS7RtqT",
-                "thumb": "https://www.filepicker.io/api/file/3PE9An5SBWmAkNS7RtqT/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/QfuA30rORCieF4dRdttm",
-                "thumb": "https://www.filepicker.io/api/file/QfuA30rORCieF4dRdttm/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.hypercanestudios.arc/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/81132544"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/yrfCN6MfRWyIjk41N3Oe",
+            "thumb": "https://www.filepicker.io/api/file/yrfCN6MfRWyIjk41N3Oe/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/2j2FhlSrS06oyWpv2skQ",
+            "thumb": "https://www.filepicker.io/api/file/2j2FhlSrS06oyWpv2skQ/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eO2MrlZuTjaESHGBCP1f",
+            "thumb": "https://www.filepicker.io/api/file/eO2MrlZuTjaESHGBCP1f/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qxwospCgSgK42iG6Cirt",
+            "thumb": "https://www.filepicker.io/api/file/qxwospCgSgK42iG6Cirt/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3PE9An5SBWmAkNS7RtqT",
+            "thumb": "https://www.filepicker.io/api/file/3PE9An5SBWmAkNS7RtqT/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/QfuA30rORCieF4dRdttm",
+            "thumb": "https://www.filepicker.io/api/file/QfuA30rORCieF4dRdttm/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Hypercane Studios",

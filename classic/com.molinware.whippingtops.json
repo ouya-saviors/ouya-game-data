@@ -23,44 +23,34 @@
             "nativeSize": 7816532
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.molinware.whippingtops/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Guilherme Daniel Molin",

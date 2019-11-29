@@ -23,44 +23,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.noodlecake.boxcat/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/twFFARnHRAmyM7Xcpnvs.jpg",
-            "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/EFodgw9fRFq3pzQrO934.jpg",
-            "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/sqcDUvFVTyibaROVc5lF.jpg",
-            "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/2yLDdoNTUGjUuB99zQ1g.jpg",
-            "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/ArE6B3SRZeNOuAlaicwJ.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/twFFARnHRAmyM7Xcpnvs.jpg",
-                "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/twFFARnHRAmyM7Xcpnvs_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/EFodgw9fRFq3pzQrO934.jpg",
-                "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/EFodgw9fRFq3pzQrO934_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/sqcDUvFVTyibaROVc5lF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/sqcDUvFVTyibaROVc5lF_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/2yLDdoNTUGjUuB99zQ1g.jpg",
-                "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/2yLDdoNTUGjUuB99zQ1g_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/ArE6B3SRZeNOuAlaicwJ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/ArE6B3SRZeNOuAlaicwJ_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.noodlecake.boxcat/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/twFFARnHRAmyM7Xcpnvs.jpg",
+            "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/twFFARnHRAmyM7Xcpnvs_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/EFodgw9fRFq3pzQrO934.jpg",
+            "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/EFodgw9fRFq3pzQrO934_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/sqcDUvFVTyibaROVc5lF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/sqcDUvFVTyibaROVc5lF_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/2yLDdoNTUGjUuB99zQ1g.jpg",
+            "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/2yLDdoNTUGjUuB99zQ1g_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/ArE6B3SRZeNOuAlaicwJ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.noodlecake.boxcat_1.0/ArE6B3SRZeNOuAlaicwJ_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Noodlecake Studios",

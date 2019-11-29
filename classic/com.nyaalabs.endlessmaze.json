@@ -23,50 +23,39 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.nyaalabs.endlessmaze/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/3BS07peRV2Q4cRRkQPbt.jpg",
-            "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/UzYbqA0ASVKSyxJHhH4u.jpg",
-            "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/cGh6ZvwwRPuNXsKEUpWI.jpg",
-            "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/sJo5ZkVbQNUQDpWCxa5S.jpg",
-            "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/TQDI8UfvQXC7xuBUJIey.jpg",
-            "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/w3KqAw7yQRWjqQc1CmWZ.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/3BS07peRV2Q4cRRkQPbt.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/3BS07peRV2Q4cRRkQPbt_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/UzYbqA0ASVKSyxJHhH4u.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/UzYbqA0ASVKSyxJHhH4u_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/cGh6ZvwwRPuNXsKEUpWI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/cGh6ZvwwRPuNXsKEUpWI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/sJo5ZkVbQNUQDpWCxa5S.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/sJo5ZkVbQNUQDpWCxa5S_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/TQDI8UfvQXC7xuBUJIey.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/TQDI8UfvQXC7xuBUJIey_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/w3KqAw7yQRWjqQc1CmWZ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/w3KqAw7yQRWjqQc1CmWZ_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.nyaalabs.endlessmaze/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/3BS07peRV2Q4cRRkQPbt.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/3BS07peRV2Q4cRRkQPbt_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/UzYbqA0ASVKSyxJHhH4u.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/UzYbqA0ASVKSyxJHhH4u_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/cGh6ZvwwRPuNXsKEUpWI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/cGh6ZvwwRPuNXsKEUpWI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/sJo5ZkVbQNUQDpWCxa5S.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/sJo5ZkVbQNUQDpWCxa5S_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/TQDI8UfvQXC7xuBUJIey.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/TQDI8UfvQXC7xuBUJIey_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/w3KqAw7yQRWjqQc1CmWZ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.nyaalabs.endlessmaze_1.0/w3KqAw7yQRWjqQc1CmWZ_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Nyaa Labs",

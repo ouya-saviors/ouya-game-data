@@ -23,32 +23,24 @@
             "nativeSize": 8812608
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.aflatminer.soulshepherds/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "8ce5e1eb-67e5-4007-9a44-71a7b8e8a9df",
         "name": "AFlat Miner Studios",

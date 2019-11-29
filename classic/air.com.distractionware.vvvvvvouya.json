@@ -23,54 +23,43 @@
             "nativeSize": 19372131
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/discover",
-        "video": "https://vimeo.com/97445976",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-3",
-            "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-4",
-            "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-5",
-            "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/97445976"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-4"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-5"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-6"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97445976"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-5"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.distractionware.vvvvvvouya/screenshot-6"
+        }
+    ],
     "developer": {
         "uuid": "2f6df1a7-c222-4a6d-b683-ad00c6b80889",
         "name": "Terry Cavanagh",

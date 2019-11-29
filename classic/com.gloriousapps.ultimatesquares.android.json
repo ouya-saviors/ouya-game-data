@@ -1,7 +1,7 @@
 {
     "packageName": "com.gloriousapps.ultimatesquares.android",
     "title": "Ultimate Squares",
-    "description": "Who is the best square? \r\n\r\nCollect crystals and score higher! Be careful, and avoid the other squares. Get power-ups to dodge your enemies or to destroy them all! Increase your life or your chance to get power-ups. Collect the most crystals and reach the highest level. Break the world record and become the best square! Let\u2019s see if you are good enough to survive the skull.\r\n\r\nSupports:\r\nOUYA and PS3 Controller\r\n\r\nHints: \r\n- Your journey is long, as there are 20 levels to master\r\n- Get more and more power-ups but do not forget that you can take advantage of maximum 10 power-ups at the same time\r\n- Get things square with your favourite in-game music\r\n- It is not possible to destroy the big squares\u2026 except by bombs!",
+    "description": "Who is the best square? \r\n\r\nCollect crystals and score higher! Be careful, and avoid the other squares. Get power-ups to dodge your enemies or to destroy them all! Increase your life or your chance to get power-ups. Collect the most crystals and reach the highest level. Break the world record and become the best square! Let’s see if you are good enough to survive the skull.\r\n\r\nSupports:\r\nOUYA and PS3 Controller\r\n\r\nHints: \r\n- Your journey is long, as there are 20 levels to master\r\n- Get more and more power-ups but do not forget that you can take advantage of maximum 10 power-ups at the same time\r\n- Get things square with your favourite in-game music\r\n- It is not possible to destroy the big squares… except by bombs!",
     "players": [
         1
     ],
@@ -24,42 +24,33 @@
             "nativeSize": 481688
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/discover",
-        "video": "https://vimeo.com/132937249",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/132937249"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/132937249"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gloriousapps.ultimatesquares.android/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "GloriousApps",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.FifteenSix.LegendDary",
     "title": "Legend Dary",
-    "description": "Legend Dary\r\n\r\nTypical Plain Platformer game.\r\nBecause I like platformers!\r\n\r\nThe legendary hero named Dary starts his adventure to save the princess from the dragon! \r\nBecause the king told him she is pretty and Dary can marry her. \r\nSo it begins.\r\n\r\n\u203b This is the one-man game studio with an occasional help from a designer who is my wife. Please enjoy the game and feel free to leave a comment in my Facebook page if you have a suggestion for this game. \r\n\r\nFacebook: http://www.facebook.com/FifteenSixKorea\r\n\r\n\u203b Trailer Movie \r\n- YouTube: http://youtu.be/VmAIoOaIYcY",
+    "description": "Legend Dary\r\n\r\nTypical Plain Platformer game.\r\nBecause I like platformers!\r\n\r\nThe legendary hero named Dary starts his adventure to save the princess from the dragon! \r\nBecause the king told him she is pretty and Dary can marry her. \r\nSo it begins.\r\n\r\n※ This is the one-man game studio with an occasional help from a designer who is my wife. Please enjoy the game and feel free to leave a comment in my Facebook page if you have a suggestion for this game. \r\n\r\nFacebook: http://www.facebook.com/FifteenSixKorea\r\n\r\n※ Trailer Movie \r\n- YouTube: http://youtu.be/VmAIoOaIYcY",
     "players": [
         1
     ],
@@ -21,48 +21,38 @@
             "nativeSize": 10669760
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/discover",
-        "video": "https://vimeo.com/103779377",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/103779377"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/103779377"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.FifteenSix.LegendDary/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "b172e93b-ed74-4cc3-aebd-055e9418410b",
         "name": "1506",

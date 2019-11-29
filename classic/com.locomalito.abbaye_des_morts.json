@@ -23,44 +23,34 @@
             "nativeSize": 8607772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.locomalito.abbaye_des_morts_1.0.5/5dDIxvH4RIWmQDQtwsYD.jpg",
-            "https://archive.org/download/ouya_com.locomalito.abbaye_des_morts_1.0.5/95mFLQ4aStxQ3y55G51d.jpg",
-            "https://archive.org/download/ouya_com.locomalito.abbaye_des_morts_1.0.5/M5kgmksnRBuMoPlRL7jh.jpg",
-            "https://archive.org/download/ouya_com.locomalito.abbaye_des_morts_1.0.5/8273296oTK6LU1p2OxiY.jpg",
-            "https://archive.org/download/ouya_com.locomalito.abbaye_des_morts_1.0.5/st5todX3Tk2ijDtTR13b.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.locomalito.abbaye_des_morts/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Locomalito",

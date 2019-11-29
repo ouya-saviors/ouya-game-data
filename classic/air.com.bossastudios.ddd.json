@@ -1,7 +1,7 @@
 {
     "packageName": "air.com.bossastudios.ddd",
     "title": "Deep Dungeons of Doom",
-    "description": "\"Gorgeous pixel art and animations\" - 90% Touch Arcade \r\n\r\nYou\u2019re Going Down! Enter the Deep Dungeons of Doom if you dare\u2026 \r\n\r\nThis game is only for the brave. Dungeons await, each one deeper, each one more perilous and each one more challenging than the last. \r\n\r\nYou will meet monsters and you will need skill and tactics to defeat them. You will find weird and wonderful treasures along the way. Most will help you, but some might not. You may choose to play as a Crusader, a Witch or a Mercenary \u2013 in fact each one might well be required if you are to successfully complete your quest \u2013 but knowing when to use each one is something you are going to have to figure out for yourself. \r\n\r\nThe reward for your endeavours? The Deepest Dungeon of Doom. Never before has such evil existed on such a massive scale. Only the most battle-hardened rogues will stand a chance of making an impact. \r\n\r\nGame Features: \r\n\r\n\u2022 Relive the 8-bit era with super-stylised visuals, music and SFX \r\n\u2022 Simple gameplay with a wicked learning curve \r\n\u2022 Choose from 3 characters, each with their own unique abilities \r\n\u2022 Battle monsters in increasingly deep and difficult dungeons \r\n\u2022 Explore a world of magic, evil, power and redemption \r\n\r\n\r\n\"Deep Dungeons Of Doom Isn\u2019t Just For The Brave; It Should Be Played By Everyone.\" - Indie Statik \r\n\r\n\"Pacey and immediate, Deep Dungeons of Doom offers no-frills, retro-themed fantasy fun.\" - 8/10 AppSpy \r\n\r\n\"Deep Dungeons of Doom follows a path I don\u2019t think I\u2019ve ever quite seen before.\" - 4/5 148Apps",
+    "description": "\"Gorgeous pixel art and animations\" - 90% Touch Arcade \r\n\r\nYou’re Going Down! Enter the Deep Dungeons of Doom if you dare… \r\n\r\nThis game is only for the brave. Dungeons await, each one deeper, each one more perilous and each one more challenging than the last. \r\n\r\nYou will meet monsters and you will need skill and tactics to defeat them. You will find weird and wonderful treasures along the way. Most will help you, but some might not. You may choose to play as a Crusader, a Witch or a Mercenary – in fact each one might well be required if you are to successfully complete your quest – but knowing when to use each one is something you are going to have to figure out for yourself. \r\n\r\nThe reward for your endeavours? The Deepest Dungeon of Doom. Never before has such evil existed on such a massive scale. Only the most battle-hardened rogues will stand a chance of making an impact. \r\n\r\nGame Features: \r\n\r\n• Relive the 8-bit era with super-stylised visuals, music and SFX \r\n• Simple gameplay with a wicked learning curve \r\n• Choose from 3 characters, each with their own unique abilities \r\n• Battle monsters in increasingly deep and difficult dungeons \r\n• Explore a world of magic, evil, power and redemption \r\n\r\n\r\n\"Deep Dungeons Of Doom Isn’t Just For The Brave; It Should Be Played By Everyone.\" - Indie Statik \r\n\r\n\"Pacey and immediate, Deep Dungeons of Doom offers no-frills, retro-themed fantasy fun.\" - 8/10 AppSpy \r\n\r\n\"Deep Dungeons of Doom follows a path I don’t think I’ve ever quite seen before.\" - 4/5 148Apps",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.com.bossastudios.ddd/discover",
-        "video": "https://vimeo.com/89613186",
-        "screenshots": [
-            "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/2Cf6vL3ARh6cVVeMDDj6.jpg",
-            "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/PXbWxS1RRFyMt1sD4D0o.jpg",
-            "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/iw8qrQdaT72vFECKf1el.jpg",
-            "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/ZXSi4H0zQamkNS87NVmp.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/89613186"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/2Cf6vL3ARh6cVVeMDDj6.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/2Cf6vL3ARh6cVVeMDDj6_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/PXbWxS1RRFyMt1sD4D0o.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/PXbWxS1RRFyMt1sD4D0o_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/iw8qrQdaT72vFECKf1el.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/iw8qrQdaT72vFECKf1el_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/ZXSi4H0zQamkNS87NVmp.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/ZXSi4H0zQamkNS87NVmp_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.com.bossastudios.ddd/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/89613186"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/2Cf6vL3ARh6cVVeMDDj6.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/2Cf6vL3ARh6cVVeMDDj6_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/PXbWxS1RRFyMt1sD4D0o.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/PXbWxS1RRFyMt1sD4D0o_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/iw8qrQdaT72vFECKf1el.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/iw8qrQdaT72vFECKf1el_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/ZXSi4H0zQamkNS87NVmp.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.bossastudios.ddd_1.1.0/ZXSi4H0zQamkNS87NVmp_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Bossa Studios",

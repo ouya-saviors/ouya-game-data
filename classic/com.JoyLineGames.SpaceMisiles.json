@@ -24,32 +24,24 @@
             "nativeSize": 982704
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.JoyLineGames.SpaceMisiles/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9c975599-9263-4d42-a32f-a45133b04595",
         "name": "ripouya",

@@ -23,36 +23,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/discover",
-        "video": "http://vimeo.com/108171948",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/108171948"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/108171948"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nickelbuddy.revball/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "b4fe27c9-c518-4472-af7f-d35e036ea204",
         "name": "Nickel Buddy, LLC",

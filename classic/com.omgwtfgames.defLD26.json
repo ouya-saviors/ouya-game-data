@@ -1,7 +1,7 @@
 {
     "packageName": "com.omgwtfgames.defLD26",
     "title": "Def",
-    "description": "Huge update: Now with 30 levels, 'speedup' feature and more free levels !\n\nDef is a unique 'minimalist' tower defense/RTS hybrid with a lighthearted sci-fi story - and extra pheromones !\n\nStranded on the wrong side of the Rift during an attack on the enigmatic Def Flotilla, you are thrown into the deep end and left to control an unfamiliar alien defense system. But this isn't just about saving your own skin - millions of Def, and the fate of human-Def relations depend on your actions.\n\nFeatures:\n\u2022 Unique tower defense / realtime strategy hybrid\n\u2022 Enemy AI inspired by ants, with pathfinding influenced by pheromone trails\n\u2022 Guide the conversation with your alien host to unravel the story\n\u2022 Quick, pick up and play, seat-of-the-pants campaign chapters\n\u2022 Neo-retro visual aesthetic, inspired by _actual_ alien user interfaces !\n\u2022 Mod support - download levels made by the community",
+    "description": "Huge update: Now with 30 levels, 'speedup' feature and more free levels !\n\nDef is a unique 'minimalist' tower defense/RTS hybrid with a lighthearted sci-fi story - and extra pheromones !\n\nStranded on the wrong side of the Rift during an attack on the enigmatic Def Flotilla, you are thrown into the deep end and left to control an unfamiliar alien defense system. But this isn't just about saving your own skin - millions of Def, and the fate of human-Def relations depend on your actions.\n\nFeatures:\n• Unique tower defense / realtime strategy hybrid\n• Enemy AI inspired by ants, with pathfinding influenced by pheromone trails\n• Guide the conversation with your alien host to unravel the story\n• Quick, pick up and play, seat-of-the-pants campaign chapters\n• Neo-retro visual aesthetic, inspired by _actual_ alien user interfaces !\n• Mod support - download levels made by the community",
     "players": [
         1
     ],
@@ -21,72 +21,58 @@
             "nativeSize": 232940
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/discover",
-        "video": "https://vimeo.com/76290552",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/FCbLyR4XQXiol36KLA5y.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/q5bIdSZaSGyVUaUKb7Af.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/xd1iutQiSK6i4nfdVQwg.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/TwZivGWAREWctdGNw5NU.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/qv74H9WYTfyubZLTuyVW.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/xTdCJu0QzKs5tf7hD8Cw.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/IhnXN7ceTCiDNzyLTUIz.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/Gv1Ym0CRDyczdRjSbEl8.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.defLD26_2.19/wILOCTn0R3WgEBsrR8po.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/76290552"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/76290552"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.omgwtfgames.defLD26/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "d85caf76-f735-4ff3-a398-460a6dd19192",
         "name": "OMGWTFGAMES !1!!",

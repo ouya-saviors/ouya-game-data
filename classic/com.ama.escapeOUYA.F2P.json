@@ -1,7 +1,7 @@
 {
     "packageName": "com.ama.escapeOUYA.F2P",
     "title": "Escape",
-    "description": "Play limitless zen-like puzzles!\r\n\r\nDiscover a new gameplay experience with optimized controls for OUYA!\r\n\r\nNorm is stuck and he needs your help! Move him up, down, left and right, without retracing your steps and eliminate each stone in the sequence. This crazily addictive game will keep you going for hours and hours!\r\n\r\n\u2022Minimal and stylish graphics for maximum appeal.\r\n\u2022Simple controls for all ages.\r\n\u2022Surprisingly addictive.\r\n\u2022Dozens of levels to get you started.\r\n\u2022A unique brain teaser, complimented by relaxing audio and visual effects.\r\n",
+    "description": "Play limitless zen-like puzzles!\r\n\r\nDiscover a new gameplay experience with optimized controls for OUYA!\r\n\r\nNorm is stuck and he needs your help! Move him up, down, left and right, without retracing your steps and eliminate each stone in the sequence. This crazily addictive game will keep you going for hours and hours!\r\n\r\n•Minimal and stylish graphics for maximum appeal.\r\n•Simple controls for all ages.\r\n•Surprisingly addictive.\r\n•Dozens of levels to get you started.\r\n•A unique brain teaser, complimented by relaxing audio and visual effects.\r\n",
     "players": [
         1
     ],
@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ama.escapeOUYA.F2P/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/9R7DDXr2TNO28StClTC4.jpg",
-            "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/qASV382WSsitrc5U73q8.jpg",
-            "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/h1sCP0ffRhCTeAwLiDr7.jpg",
-            "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/FyjSChP4Qfumaku6YLhM.jpg",
-            "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/kqmSHqATPevJrK1cZIc9.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/9R7DDXr2TNO28StClTC4.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/9R7DDXr2TNO28StClTC4_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/qASV382WSsitrc5U73q8.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/qASV382WSsitrc5U73q8_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/h1sCP0ffRhCTeAwLiDr7.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/h1sCP0ffRhCTeAwLiDr7_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/FyjSChP4Qfumaku6YLhM.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/FyjSChP4Qfumaku6YLhM_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/kqmSHqATPevJrK1cZIc9.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/kqmSHqATPevJrK1cZIc9_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ama.escapeOUYA.F2P/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/9R7DDXr2TNO28StClTC4.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/9R7DDXr2TNO28StClTC4_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/qASV382WSsitrc5U73q8.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/qASV382WSsitrc5U73q8_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/h1sCP0ffRhCTeAwLiDr7.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/h1sCP0ffRhCTeAwLiDr7_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/FyjSChP4Qfumaku6YLhM.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/FyjSChP4Qfumaku6YLhM_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/kqmSHqATPevJrK1cZIc9.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.escapeOUYA.F2P_1.0.0/kqmSHqATPevJrK1cZIc9_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Advanced Mobile Applications Ltd.",

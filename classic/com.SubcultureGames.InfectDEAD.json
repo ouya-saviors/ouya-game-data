@@ -23,36 +23,28 @@
             "nativeSize": 149736
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/discover",
-        "video": "https://vimeo.com/102502132",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.SubcultureGames.InfectDEAD_1.0/0O6BbugRRdOmuiEzqW35.jpg",
-            "https://archive.org/download/ouya_com.SubcultureGames.InfectDEAD_1.0/7nz8QndFTj2z6OpgcH6V.jpg",
-            "https://archive.org/download/ouya_com.SubcultureGames.InfectDEAD_1.0/y6wmmo7FQXygoT4IiLGQ.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/102502132"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/102502132"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.SubcultureGames.InfectDEAD/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Subculture Games",

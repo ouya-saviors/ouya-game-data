@@ -1,7 +1,7 @@
 {
     "packageName": "com.terra.minimon3d",
     "title": "Minimon 3D",
-    "description": "Enter the world of Minimon!\r\n\u2022 Capture and raise your own monster team!\r\n\u2022 Meet other players in a online world!\r\n\u2022 Challenge all arena leaders and collect badges!\r\n\u2022 Pitch your team against other players!\r\n\u2022 Find secret areas with rare monsters!\r\n\u2022 And much more!",
+    "description": "Enter the world of Minimon!\r\n• Capture and raise your own monster team!\r\n• Meet other players in a online world!\r\n• Challenge all arena leaders and collect badges!\r\n• Pitch your team against other players!\r\n• Find secret areas with rare monsters!\r\n• And much more!",
     "players": [
         1
     ],
@@ -22,44 +22,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.terra.minimon3d/discover",
-        "video": null,
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/q0UMkZRwS6SPWxyjDOEk",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/cxqXKY4wSm2IvofqLTLl",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qiGoJW80QdC6CKjtkRvI",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ImVUYa0Rlahmz7auqfF9",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/MhUjnVLjQTexBTHShl3C"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/q0UMkZRwS6SPWxyjDOEk",
-                "thumb": "https://www.filepicker.io/api/file/q0UMkZRwS6SPWxyjDOEk/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/cxqXKY4wSm2IvofqLTLl",
-                "thumb": "https://www.filepicker.io/api/file/cxqXKY4wSm2IvofqLTLl/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qiGoJW80QdC6CKjtkRvI",
-                "thumb": "https://www.filepicker.io/api/file/qiGoJW80QdC6CKjtkRvI/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ImVUYa0Rlahmz7auqfF9",
-                "thumb": "https://www.filepicker.io/api/file/ImVUYa0Rlahmz7auqfF9/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/MhUjnVLjQTexBTHShl3C",
-                "thumb": "https://www.filepicker.io/api/file/MhUjnVLjQTexBTHShl3C/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.terra.minimon3d/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/q0UMkZRwS6SPWxyjDOEk",
+            "thumb": "https://www.filepicker.io/api/file/q0UMkZRwS6SPWxyjDOEk/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/cxqXKY4wSm2IvofqLTLl",
+            "thumb": "https://www.filepicker.io/api/file/cxqXKY4wSm2IvofqLTLl/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qiGoJW80QdC6CKjtkRvI",
+            "thumb": "https://www.filepicker.io/api/file/qiGoJW80QdC6CKjtkRvI/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ImVUYa0Rlahmz7auqfF9",
+            "thumb": "https://www.filepicker.io/api/file/ImVUYa0Rlahmz7auqfF9/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/MhUjnVLjQTexBTHShl3C",
+            "thumb": "https://www.filepicker.io/api/file/MhUjnVLjQTexBTHShl3C/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Sergio Flores",

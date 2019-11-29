@@ -26,36 +26,28 @@
             "nativeSize": 14992732
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/discover",
-        "video": "http://vimeo.com/112681840",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/112681840"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/112681840"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.creashockstudios.telepathyzero/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "622b1e0d-49e1-4406-9884-252e30d6b984",
         "name": "Andrii Vintsevych",

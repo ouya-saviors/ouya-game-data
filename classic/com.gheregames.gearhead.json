@@ -21,48 +21,38 @@
             "nativeSize": 489932
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/discover",
-        "video": "http://vimeo.com/115451619",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/115451619"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/115451619"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gheregames.gearhead/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "efe01644-9559-4981-b397-e4afedc170da",
         "name": "Ghere Game Studios",

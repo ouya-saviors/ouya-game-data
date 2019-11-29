@@ -1,7 +1,7 @@
 {
     "packageName": "com.madfingergames.shadowgun",
     "title": "SHADOWGUN",
-    "description": "The year is 2350, and corrupt intergalactic corporations are the rule of law, hiring bounty hunters and mercs to do their bidding. The best of the best are known as SHADOWGUNS. \r\n\r\nSHADOWGUN puts you into the role of John Slade, the galaxy\u2019s most infamous bounty hunter. Your mission: hunt down Dr. Edgar Simon, maniacal genius and leader of his own mutant army. Infiltrate Dr. Simon\u2019s mountain fortress and fight his personal guard of cyborgs, battle droids, and genetically-enhanced humanoids. Using state-of-the-art weaponry, ships, and the assistance of S.A.R.A.\u2014Slade\u2019s personal android assistant\u2014SHADOWGUN combines intense tactical combat with 3rd person action. ",
+    "description": "The year is 2350, and corrupt intergalactic corporations are the rule of law, hiring bounty hunters and mercs to do their bidding. The best of the best are known as SHADOWGUNS. \r\n\r\nSHADOWGUN puts you into the role of John Slade, the galaxy’s most infamous bounty hunter. Your mission: hunt down Dr. Edgar Simon, maniacal genius and leader of his own mutant army. Infiltrate Dr. Simon’s mountain fortress and fight his personal guard of cyborgs, battle droids, and genetically-enhanced humanoids. Using state-of-the-art weaponry, ships, and the assistance of S.A.R.A.—Slade’s personal android assistant—SHADOWGUN combines intense tactical combat with 3rd person action. ",
     "players": [
         1
     ],
@@ -21,56 +21,44 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.madfingergames.shadowgun/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/CwbP7oxgTIGIJmfAnxpu.jpg",
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/Aal3yhggQsSoJXi6H5CP.jpg",
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/doxtNtffRvCf5lONa8qz.jpg",
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/QCcvWBE2R6WYH8s9VOgH.jpg",
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/XuwTeTKHS5WFVh41EQqg.jpg",
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/sBHFAh5xRzKkPv0PwtI5.jpg",
-            "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/cWLUiqHbSMiCUvknlXVn.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/CwbP7oxgTIGIJmfAnxpu.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/CwbP7oxgTIGIJmfAnxpu_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/Aal3yhggQsSoJXi6H5CP.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/Aal3yhggQsSoJXi6H5CP_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/doxtNtffRvCf5lONa8qz.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/doxtNtffRvCf5lONa8qz_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/QCcvWBE2R6WYH8s9VOgH.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/QCcvWBE2R6WYH8s9VOgH_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/XuwTeTKHS5WFVh41EQqg.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/XuwTeTKHS5WFVh41EQqg_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/sBHFAh5xRzKkPv0PwtI5.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/sBHFAh5xRzKkPv0PwtI5_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/cWLUiqHbSMiCUvknlXVn.jpg",
-                "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/cWLUiqHbSMiCUvknlXVn_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.madfingergames.shadowgun/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/CwbP7oxgTIGIJmfAnxpu.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/CwbP7oxgTIGIJmfAnxpu_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/Aal3yhggQsSoJXi6H5CP.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/Aal3yhggQsSoJXi6H5CP_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/doxtNtffRvCf5lONa8qz.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/doxtNtffRvCf5lONa8qz_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/QCcvWBE2R6WYH8s9VOgH.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/QCcvWBE2R6WYH8s9VOgH_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/XuwTeTKHS5WFVh41EQqg.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/XuwTeTKHS5WFVh41EQqg_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/sBHFAh5xRzKkPv0PwtI5.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/sBHFAh5xRzKkPv0PwtI5_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/cWLUiqHbSMiCUvknlXVn.jpg",
+            "thumb": "https://archive.org/download/ouya_com.madfingergames.shadowgun_1.3.3/cWLUiqHbSMiCUvknlXVn_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "MADFINGER Games, a.s.",

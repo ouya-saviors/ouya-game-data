@@ -22,66 +22,53 @@
             "nativeSize": 14769772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/discover",
-        "video": "https://vimeo.com/103530035",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/103530035"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/103530035"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.excavatorsimulatorpro/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "idris Celik",

@@ -21,42 +21,33 @@
             "nativeSize": 14988636
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/discover",
-        "video": "https://vimeo.com/110558070",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/110558070"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/110558070"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Trilby.DonniesEscapade/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "ILickAsbestos",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.MaqnaInteractive.MussoumanoGame",
     "title": "Mussoumano Game",
-    "description": "In Mussoumano Saving the Latifas the most crazy rapper from Youtube Brasil had his beloved girls captured by the haters and trolls of the Mamilos Molengas channel while he was playing videogame.\n\nThe adventure is complete in this frenetic platform runner game with 3D graphics where the player has the help of mounts like a Camel, a Flying Carpet, a Magic Cloud and the amazing and customizable Armored Camel. You also have the possibility to use a Flying Skate inspired by the Hoverboard from the movie Back To The Future.\n\nYou can evolve your Armored Camel earning experience and getting higher levels to equip it with a variety of armors, weapons and special items that will help you save all the Mussoumano\u2019s girls.\n\nBesides customizing the Armored Camel you can also change Mussoumano\u2019s outfit choosing more than 800 visuals with different hats and clothes.",
+    "description": "In Mussoumano Saving the Latifas the most crazy rapper from Youtube Brasil had his beloved girls captured by the haters and trolls of the Mamilos Molengas channel while he was playing videogame.\n\nThe adventure is complete in this frenetic platform runner game with 3D graphics where the player has the help of mounts like a Camel, a Flying Carpet, a Magic Cloud and the amazing and customizable Armored Camel. You also have the possibility to use a Flying Skate inspired by the Hoverboard from the movie Back To The Future.\n\nYou can evolve your Armored Camel earning experience and getting higher levels to equip it with a variety of armors, weapons and special items that will help you save all the Mussoumano’s girls.\n\nBesides customizing the Armored Camel you can also change Mussoumano’s outfit choosing more than 800 visuals with different hats and clothes.",
     "players": [
         1
     ],
@@ -23,44 +23,34 @@
             "nativeSize": 14943384
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.MaqnaInteractive.MussoumanoGame/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Maqna Interactive",

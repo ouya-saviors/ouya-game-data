@@ -1,7 +1,7 @@
 {
     "packageName": "com.greenlavastudios.dreamtale",
     "title": "Dream Tale: The Golden Keys",
-    "description": "How far are you willing to go for a friend? Julia must face this dilemma after her inseparable dog \u201cFifo\u201d mysteriously disappeared.\r\n\r\nHelp Julia find Fifo by going through 4 magical worlds in this classic platform game.\r\n \r\nUse amazing powers given by stars to avoid different poisonous creatures located in strategic and challenging places. Find the 19 golden keys and unlock the final mystery on this hard and memorable journey.\r\n\r\nWill you be able to open the last door and solve the final puzzle? Or can you live knowing that you abandoned Fifo to his mysterious fate?",
+    "description": "How far are you willing to go for a friend? Julia must face this dilemma after her inseparable dog “Fifo” mysteriously disappeared.\r\n\r\nHelp Julia find Fifo by going through 4 magical worlds in this classic platform game.\r\n \r\nUse amazing powers given by stars to avoid different poisonous creatures located in strategic and challenging places. Find the 19 golden keys and unlock the final mystery on this hard and memorable journey.\r\n\r\nWill you be able to open the last door and solve the final puzzle? Or can you live knowing that you abandoned Fifo to his mysterious fate?",
     "players": [
         1
     ],
@@ -21,48 +21,38 @@
             "nativeSize": 7820628
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/discover",
-        "video": "https://vimeo.com/94513294",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/94513294"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/94513294"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.greenlavastudios.dreamtale/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9e34f561-b542-4086-89f7-954a5cb219a1",
         "name": "Green Lava Studios",

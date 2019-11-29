@@ -1,7 +1,7 @@
 {
     "packageName": "com.hg.savethepuppiesfree",
     "title": "Save the Puppies",
-    "description": "Full Game, NO DEMO, NO Trial... ENJOY!\r\n\r\nThe puppies have been kidnapped! Last night the dog-catcher came and took every last one of the sweet doggie babies in the neighborhood! Now they are being held captive at the city park\u2019s most inaccessible locations! Find the little tykes and free them from their cages! Use your crazy power of sausage eating and grow into an enormously long wiener dog or shrink yourself to the size of a tiny Chihuahua! Only you can save the world... uh, the little canines.",
+    "description": "Full Game, NO DEMO, NO Trial... ENJOY!\r\n\r\nThe puppies have been kidnapped! Last night the dog-catcher came and took every last one of the sweet doggie babies in the neighborhood! Now they are being held captive at the city park’s most inaccessible locations! Find the little tykes and free them from their cages! Use your crazy power of sausage eating and grow into an enormously long wiener dog or shrink yourself to the size of a tiny Chihuahua! Only you can save the world... uh, the little canines.",
     "players": [
         1
     ],
@@ -23,36 +23,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.hg.savethepuppiesfree/discover",
-        "video": "https://vimeo.com/81580091",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/HeMx1v9tSKWX2tUx5GMi.jpg",
-            "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/cVMSFfZcTRqU8thphVWF.jpg",
-            "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/ZLO6ZYDvQ2qavNvkrdbP.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/81580091"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/HeMx1v9tSKWX2tUx5GMi.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/HeMx1v9tSKWX2tUx5GMi_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/cVMSFfZcTRqU8thphVWF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/cVMSFfZcTRqU8thphVWF_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/ZLO6ZYDvQ2qavNvkrdbP.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/ZLO6ZYDvQ2qavNvkrdbP_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.hg.savethepuppiesfree/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/81580091"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/HeMx1v9tSKWX2tUx5GMi.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/HeMx1v9tSKWX2tUx5GMi_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/cVMSFfZcTRqU8thphVWF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/cVMSFfZcTRqU8thphVWF_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/ZLO6ZYDvQ2qavNvkrdbP.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.savethepuppiesfree_1.2.2/ZLO6ZYDvQ2qavNvkrdbP_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "HandyGames",

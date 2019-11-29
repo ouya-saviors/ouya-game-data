@@ -24,32 +24,24 @@
             "nativeSize": 8821100
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/screenshot-1",
-            "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/screenshot-2",
-            "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/ouya.imogiagames.flappynoug/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "1a8d56b5-4aec-4902-bc6d-332b01d993b7",
         "name": "ImogiaGames",

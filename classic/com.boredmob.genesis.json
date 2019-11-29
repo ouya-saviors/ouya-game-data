@@ -25,38 +25,29 @@
             "nativeSize": 19314591
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/discover",
-        "video": null,
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/SLXSx56aSlW9R0hJG1Cg",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/M4isJHRreUWA8yO8ERWA",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XAizPCp8TOiXR4jxPsMB",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/i2drOObwQbWMeE7E4x6G"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.boredmob.genesis/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "bef31b70-dcda-4a50-945a-4ac09d11d05b",
         "name": "boredmob.com",

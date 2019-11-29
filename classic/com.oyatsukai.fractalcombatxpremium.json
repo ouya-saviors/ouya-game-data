@@ -23,60 +23,48 @@
             "nativeSize": 2706600
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/discover",
-        "video": "https://vimeo.com/113529327",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/113529327"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/113529327"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oyatsukai.fractalcombatxpremium/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "OYK Games",

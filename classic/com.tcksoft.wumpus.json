@@ -23,36 +23,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/discover",
-        "video": "https://vimeo.com/99569097",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/99569097"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/99569097"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tcksoft.wumpus/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "b0d56674-9b5a-4785-a3b1-88acbd1aff69",
         "name": "TCKSOFT",

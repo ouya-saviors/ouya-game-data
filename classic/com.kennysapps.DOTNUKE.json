@@ -1,7 +1,7 @@
 {
     "packageName": "com.kennysapps.DOTNUKE",
     "title": "DOTNUKE",
-    "description": "A zen-like, experimental art game.\r\n\r\n- How do you play?\r\n- What is the goal?\r\n\r\nRelax and enjoy.\r\n\r\nWAR: How quickly can you \u2018detonate\u2019?\r\nPEACE: How long can you survive before \u2018detonation\u2019?\r\n\r\n@KennysApps",
+    "description": "A zen-like, experimental art game.\r\n\r\n- How do you play?\r\n- What is the goal?\r\n\r\nRelax and enjoy.\r\n\r\nWAR: How quickly can you ‘detonate’?\r\nPEACE: How long can you survive before ‘detonation’?\r\n\r\n@KennysApps",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 10417204
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/discover",
-        "video": "https://vimeo.com/124864135",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/124864135"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/124864135"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.DOTNUKE/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "be559626-667f-464c-8ac7-7ced4c723efb",
         "name": "Kenny's Apps, LLC",

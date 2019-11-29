@@ -1,7 +1,7 @@
 {
     "packageName": "com.Tripleslash.MagneticByNature",
     "title": "Magnetic By Nature",
-    "description": "Magnetic By Nature is platforming without platforms: a fast-paced, single-player, 2D adventure mixing fluid motion, split-second decision making, machine-age visuals, and a dynamic soundscape. Unique magnet physics propel the player from one challenge to the next.  Point One, the last remaining robot, must journey through dangerous caverns and forgotten ruins to reactivate friends damaged in a magnetic cataclysm.\r\n\r\nFeaturing:\r\n\u2022 physics-based puzzles action\r\n\u2022 cross platform leaderboards\r\n\u2022 120+ levels, including unlockable challenges and hidden bonus rounds!\r\n\u2022 100+ optional collectibles requiring greater skill\r\n\u2022 2 unlockable Speedrun play modes\r\n\u2022 9 types of magnets\r\n\u2022 2 types of magnetic force fields\r\n\r\nAccolades:\r\n\u2022 2014 Indie Mix Featured Game\r\n\u2022 Best Developed Game And Audience Choice Award - 2013 Utah Game Wars\r\n\u2022 Soundtrack featured in Loudr\u2019s Game Music Bundle #7\r\n\u2022 \"Magnetic By Nature delivers an unforgettable experience\" - Hardcore Gamer",
+    "description": "Magnetic By Nature is platforming without platforms: a fast-paced, single-player, 2D adventure mixing fluid motion, split-second decision making, machine-age visuals, and a dynamic soundscape. Unique magnet physics propel the player from one challenge to the next.  Point One, the last remaining robot, must journey through dangerous caverns and forgotten ruins to reactivate friends damaged in a magnetic cataclysm.\r\n\r\nFeaturing:\r\n• physics-based puzzles action\r\n• cross platform leaderboards\r\n• 120+ levels, including unlockable challenges and hidden bonus rounds!\r\n• 100+ optional collectibles requiring greater skill\r\n• 2 unlockable Speedrun play modes\r\n• 9 types of magnets\r\n• 2 types of magnetic force fields\r\n\r\nAccolades:\r\n• 2014 Indie Mix Featured Game\r\n• Best Developed Game And Audience Choice Award - 2013 Utah Game Wars\r\n• Soundtrack featured in Loudr’s Game Music Bundle #7\r\n• \"Magnetic By Nature delivers an unforgettable experience\" - Hardcore Gamer",
     "players": [
         1
     ],
@@ -25,88 +25,72 @@
             "nativeSize": 14995496
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/discover",
-        "video": "http://vimeo.com/112085754",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/screenshot-11"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/112085754"
-            },
-            {
-                "type": "video",
-                "url": "http://vimeo.com/103846636"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-11-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/112085754"
+        },
+        {
+            "type": "video",
+            "url": "http://vimeo.com/103846636"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Tripleslash.MagneticByNature/detail-11-thumb"
+        }
+    ],
     "developer": {
         "uuid": "1daaa632-e672-4762-a188-481c14d35688",
         "name": "Team Tripleslash",

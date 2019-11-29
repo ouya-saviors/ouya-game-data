@@ -24,36 +24,28 @@
             "nativeSize": 14993772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/discover",
-        "video": "https://vimeo.com/115731470",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/115731470"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/115731470"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bluebox.PolarityCoop/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Bluebutton Games",

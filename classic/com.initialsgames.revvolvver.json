@@ -22,48 +22,38 @@
             "nativeSize": 2924816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/discover",
-        "video": "https://vimeo.com/85646541",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/85646541"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/85646541"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.revvolvver/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Initials",

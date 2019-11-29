@@ -1,7 +1,7 @@
 {
     "packageName": "com.tokkao.PaperWings",
     "title": "Paper Wings",
-    "description": "Nothing speaks more of skills than a great tournament. So when they said not even the sky was a limit, pilots from all over the world (and universes) came flying to give it a try. Join this amazing competition where your skills and style will determine the winner. Use many powers: from Blu's energy shield or Jonas' incredible reflexes to Linda's power of attraction or even Gray's Mega Missiles. \r\nIn Paper Wings, characters are not just a decoration anymore. All the pilots have different innate abilities which will become available as power ups once they get unlocked. Flying is as easy as it could be, with an incredibly intuitive one-touch control: touch to fly up and release to fall down.\r\nTravel from the busy environment of the city park to the isolated and cold nature of the North Pole. Evade obstacle, enemies, and enjoy the nice feeling of the bonus sections.\r\n\r\nHighlights:\r\n\r\n\u2605 Chose from many different pilots.\r\n\u2605 Character are more than just decoration.\r\n\u2605 Each pilot contains their own unique ability.\r\n\u2605 New concept introduced! Unlocking pilots will unlock their abilities as power ups during the game.\r\n\u2605 Use Mega Stars to activate innate abilities.\r\n\u2605 Many different levels: From the busy city park to the isolated north pole.\r\n\u2605 Lots of objective for each level.\r\n\u2605 Randomly generated obstacles; never play the same game!\r\n\u2605 Collect power ups during the game to improve your flight.\r\n\u2605 Share your score with your friends on Game Center, OpenFeint, and even Facebook.\r\n\u2605 Lots of achievements.\r\n\u2605 Pilots can be upgraded to increase their skills.\r\n\u2605 Beautiful graphics and animated paper world.",
+    "description": "Nothing speaks more of skills than a great tournament. So when they said not even the sky was a limit, pilots from all over the world (and universes) came flying to give it a try. Join this amazing competition where your skills and style will determine the winner. Use many powers: from Blu's energy shield or Jonas' incredible reflexes to Linda's power of attraction or even Gray's Mega Missiles. \r\nIn Paper Wings, characters are not just a decoration anymore. All the pilots have different innate abilities which will become available as power ups once they get unlocked. Flying is as easy as it could be, with an incredibly intuitive one-touch control: touch to fly up and release to fall down.\r\nTravel from the busy environment of the city park to the isolated and cold nature of the North Pole. Evade obstacle, enemies, and enjoy the nice feeling of the bonus sections.\r\n\r\nHighlights:\r\n\r\n★ Chose from many different pilots.\r\n★ Character are more than just decoration.\r\n★ Each pilot contains their own unique ability.\r\n★ New concept introduced! Unlocking pilots will unlock their abilities as power ups during the game.\r\n★ Use Mega Stars to activate innate abilities.\r\n★ Many different levels: From the busy city park to the isolated north pole.\r\n★ Lots of objective for each level.\r\n★ Randomly generated obstacles; never play the same game!\r\n★ Collect power ups during the game to improve your flight.\r\n★ Share your score with your friends on Game Center, OpenFeint, and even Facebook.\r\n★ Lots of achievements.\r\n★ Pilots can be upgraded to increase their skills.\r\n★ Beautiful graphics and animated paper world.",
     "players": [
         1
     ],
@@ -21,32 +21,24 @@
             "nativeSize": 128536
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tokkao.PaperWings/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/XTm6A36QzGRy0RjAYahF.jpg",
-            "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/Tukioa6fSQuU8dVRlkzn.jpg",
-            "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/wsc0Il2VRnOc7a6DIEog.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/XTm6A36QzGRy0RjAYahF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/XTm6A36QzGRy0RjAYahF_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/Tukioa6fSQuU8dVRlkzn.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/Tukioa6fSQuU8dVRlkzn_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/wsc0Il2VRnOc7a6DIEog.jpg",
-                "thumb": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/wsc0Il2VRnOc7a6DIEog_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tokkao.PaperWings/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/XTm6A36QzGRy0RjAYahF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/XTm6A36QzGRy0RjAYahF_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/Tukioa6fSQuU8dVRlkzn.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/Tukioa6fSQuU8dVRlkzn_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/wsc0Il2VRnOc7a6DIEog.jpg",
+            "thumb": "https://archive.org/download/ouya_com.tokkao.PaperWings_1.2/wsc0Il2VRnOc7a6DIEog_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Tokkao",

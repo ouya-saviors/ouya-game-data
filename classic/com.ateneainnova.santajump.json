@@ -1,7 +1,7 @@
 {
     "packageName": "com.ateneainnova.santajump",
     "title": "Santa Jump 3D",
-    "description": "Santa Jump 3D, now the JUMP genre knows 3D and it\u2019s extremely addictive. \r\n\r\n\u201cYou will be amazed while you escape from Gr\u00f6nch, dodge snowballs and break your records\u201d - Dark V\u00f6der\r\n\r\n\u201cA spectacle of lights and sounds, it\u2019s a joy to play it in 3D\u201d \u2013 Sausage de Cantimpalo\r\n\r\n\"Catch same-colored storks and get Jump Boots\u201d - Robocop de Utrera\r\n\r\nPrepare to go on an epic jumping journey with Santa! \r\nCollect coins, keep the Gr\u00f6nch from catching you, catch crazy storks to launch yourself to infinity, and beyond!\r\n\r\nWhat are you waiting for? \r\nDownload Santa Jump 3D now and begin jumping!",
+    "description": "Santa Jump 3D, now the JUMP genre knows 3D and it’s extremely addictive. \r\n\r\n“You will be amazed while you escape from Grönch, dodge snowballs and break your records” - Dark Vöder\r\n\r\n“A spectacle of lights and sounds, it’s a joy to play it in 3D” – Sausage de Cantimpalo\r\n\r\n\"Catch same-colored storks and get Jump Boots” - Robocop de Utrera\r\n\r\nPrepare to go on an epic jumping journey with Santa! \r\nCollect coins, keep the Grönch from catching you, catch crazy storks to launch yourself to infinity, and beyond!\r\n\r\nWhat are you waiting for? \r\nDownload Santa Jump 3D now and begin jumping!",
     "players": [
         1
     ],
@@ -22,48 +22,38 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/discover",
-        "video": "https://vimeo.com/82495418",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/82495418"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/82495418"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ateneainnova.santajump/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Atenea Innova",

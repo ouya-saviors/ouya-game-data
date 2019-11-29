@@ -21,32 +21,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.bme.cardsharp/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.bme.cardsharp_1.0/U4RooElQkGFc8RI87iuw.jpg",
-            "https://archive.org/download/ouya_com.bme.cardsharp_1.0/iHKsTSkQTOzaZOaOo2hF.jpg",
-            "https://archive.org/download/ouya_com.bme.cardsharp_1.0/L4bUDTo2QuKjw9anO5m4.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/U4RooElQkGFc8RI87iuw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/U4RooElQkGFc8RI87iuw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/iHKsTSkQTOzaZOaOo2hF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/iHKsTSkQTOzaZOaOo2hF_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/L4bUDTo2QuKjw9anO5m4.jpg",
-                "thumb": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/L4bUDTo2QuKjw9anO5m4_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.bme.cardsharp/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/U4RooElQkGFc8RI87iuw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/U4RooElQkGFc8RI87iuw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/iHKsTSkQTOzaZOaOo2hF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/iHKsTSkQTOzaZOaOo2hF_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/L4bUDTo2QuKjw9anO5m4.jpg",
+            "thumb": "https://archive.org/download/ouya_com.bme.cardsharp_1.0/L4bUDTo2QuKjw9anO5m4_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "The Bureau of Memetic Engineering",

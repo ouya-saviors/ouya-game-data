@@ -1,7 +1,7 @@
 {
     "packageName": "com.dotemu.rtype2",
     "title": "R-Type II",
-    "description": "A CLASSIC OLD-SCHOOL GAME \r\n\r\nR-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989.\r\nThe Bydo Empire is back! Take it down with power-ups, two new types of weapons, and a new anti-ground unit bomb.\r\nWITH ORIGINAL FEATURES\r\n\u2022 Unlock six levels each with its own unique boss.\r\n\u2022 Upgrade to new weapons, power-ups, and attachments to fight wave of enemies.\r\n\u2022 Keep original graphics or choose improved ones thanks to filter and scanline options\r\n\r\n\u2026 AND NEW FEATURES TOO!\r\n\u2022 Choose between three difficulty settings: unlimited (unlimited lives), normal (same as original) & insane (more challenge!).\r\n\u2022 Auto Fire ON/OFF\r\n\u2022 Available in 10 languages: English, French, German, Italian, Spanish, Russian, Japanese, Korean, Chinese and Portuguese.\r\n\u2022 Play in full-screen, or keep the game\u2019s original screen ratio\r\n\r\nAre you looking for challenge? R-Type II is the perfect game!",
+    "description": "A CLASSIC OLD-SCHOOL GAME \r\n\r\nR-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989.\r\nThe Bydo Empire is back! Take it down with power-ups, two new types of weapons, and a new anti-ground unit bomb.\r\nWITH ORIGINAL FEATURES\r\n• Unlock six levels each with its own unique boss.\r\n• Upgrade to new weapons, power-ups, and attachments to fight wave of enemies.\r\n• Keep original graphics or choose improved ones thanks to filter and scanline options\r\n\r\n… AND NEW FEATURES TOO!\r\n• Choose between three difficulty settings: unlimited (unlimited lives), normal (same as original) & insane (more challenge!).\r\n• Auto Fire ON/OFF\r\n• Available in 10 languages: English, French, German, Italian, Spanish, Russian, Japanese, Korean, Chinese and Portuguese.\r\n• Play in full-screen, or keep the game’s original screen ratio\r\n\r\nAre you looking for challenge? R-Type II is the perfect game!",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 5639832
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/discover",
-        "video": "http://vimeo.com/104609678",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/104609678"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/104609678"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype2/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
         "name": "DotEmu SAS",

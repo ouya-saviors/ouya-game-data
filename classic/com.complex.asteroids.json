@@ -23,32 +23,24 @@
             "nativeSize": 406628
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.complex.asteroids/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.complex.asteroids/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.complex.asteroids/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.complex.asteroids/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.complex.asteroids/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.complex.asteroids/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "2-Complex",

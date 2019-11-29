@@ -23,42 +23,33 @@
             "nativeSize": 898492
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/discover",
-        "video": "https://vimeo.com/118399504",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamesw.karsus/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamesw.karsus/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamesw.karsus/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gamesw.karsus/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/118399504"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/118399504"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamesw.karsus/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "3T Games",

@@ -22,42 +22,33 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/net.mountainsheep.minigore2/discover",
-        "video": "https://vimeo.com/76625847",
-        "screenshots": [
-            "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/JuvVYZ9uQOW5NrYEknKh.jpg",
-            "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/d8jGay36TY2W1QtroJSp.jpg",
-            "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/fshgCjdbSHeXsIpSksHk.jpg",
-            "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/6FfMDr5kTba9oDFSDD4Q.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/76625847"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/JuvVYZ9uQOW5NrYEknKh.jpg",
-                "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/JuvVYZ9uQOW5NrYEknKh_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/d8jGay36TY2W1QtroJSp.jpg",
-                "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/d8jGay36TY2W1QtroJSp_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/fshgCjdbSHeXsIpSksHk.jpg",
-                "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/fshgCjdbSHeXsIpSksHk_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/6FfMDr5kTba9oDFSDD4Q.jpg",
-                "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/6FfMDr5kTba9oDFSDD4Q_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/net.mountainsheep.minigore2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/76625847"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/JuvVYZ9uQOW5NrYEknKh.jpg",
+            "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/JuvVYZ9uQOW5NrYEknKh_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/d8jGay36TY2W1QtroJSp.jpg",
+            "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/d8jGay36TY2W1QtroJSp_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/fshgCjdbSHeXsIpSksHk.jpg",
+            "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/fshgCjdbSHeXsIpSksHk_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/6FfMDr5kTba9oDFSDD4Q.jpg",
+            "thumb": "https://archive.org/download/ouya_net.mountainsheep.minigore2_1.6/6FfMDr5kTba9oDFSDD4Q_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Mountain Sheep, Inc.",

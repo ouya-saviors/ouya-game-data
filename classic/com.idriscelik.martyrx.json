@@ -1,7 +1,7 @@
 {
     "packageName": "com.idriscelik.martyrx",
     "title": "MartyrX",
-    "description": "A mysterious story \r\nFight in different missions in different times and places \r\nVarious myth beasts and boss \r\nGradually growing harder missions and immersive chapters \r\nOnly you can solve different puzzles \r\nFight and gather the trophies \r\nIncrease your character\u2019s physcial and mystical power \r\nSee the story with cinematic cutscenes \r\nComplete the extra missions\r\nThis game also available on the IOS, Android and Windows Phone 8 Markets",
+    "description": "A mysterious story \r\nFight in different missions in different times and places \r\nVarious myth beasts and boss \r\nGradually growing harder missions and immersive chapters \r\nOnly you can solve different puzzles \r\nFight and gather the trophies \r\nIncrease your character’s physcial and mystical power \r\nSee the story with cinematic cutscenes \r\nComplete the extra missions\r\nThis game also available on the IOS, Android and Windows Phone 8 Markets",
     "players": [
         1
     ],
@@ -23,72 +23,58 @@
             "nativeSize": 14769772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/discover",
-        "video": "https://vimeo.com/104863196",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/screenshot-9"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/104863196"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/104863196"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.idriscelik.martyrx/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "idris Celik",

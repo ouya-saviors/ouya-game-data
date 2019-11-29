@@ -23,42 +23,33 @@
             "nativeSize": 8712008
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/discover",
-        "video": "https://vimeo.com/106300140",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.superxstudios.fob/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.superxstudios.fob/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.superxstudios.fob/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.superxstudios.fob/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/106300140"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/106300140"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superxstudios.fob/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "5b015434-8a78-4274-aa5d-0cb2e330e50e",
         "name": "Super X Studios LLC",

@@ -1,7 +1,7 @@
 {
     "packageName": "evil.corptron.SPPD",
     "title": "Super Puzzle Platformer Deluxe",
-    "description": "The title says it all. Take one part falling block puzzle game, combine one part old-school platformer, add a couple thousand pixels, blend and serve. Why match colored blocks when you can just shoot the hell out of them? Your goal is to survive as long as you can. From celebrated indie developer Andrew Morrish and Adult Swim Games.\r\n\r\n\u201cEasily one of the best Tetris-style games to show up in a very long time.\u201d \r\n- Hardcore Gamer \r\n\r\n\u201cFans of simple, yet long-lasting arcade games will find this to be another title they come back to again and again.\u201d \r\n- Indie Statik \r\n\r\n\u201cHarkens back to a simpler time when the ultimate goal of a videogame was simply to obtain a high score.\u201d \r\n- Destructoid\r\n\r\n\"I helped make it, of course I'm gonna say its good.\"\r\n- Landon Podbielski",
+    "description": "The title says it all. Take one part falling block puzzle game, combine one part old-school platformer, add a couple thousand pixels, blend and serve. Why match colored blocks when you can just shoot the hell out of them? Your goal is to survive as long as you can. From celebrated indie developer Andrew Morrish and Adult Swim Games.\r\n\r\n“Easily one of the best Tetris-style games to show up in a very long time.” \r\n- Hardcore Gamer \r\n\r\n“Fans of simple, yet long-lasting arcade games will find this to be another title they come back to again and again.” \r\n- Indie Statik \r\n\r\n“Harkens back to a simpler time when the ultimate goal of a videogame was simply to obtain a high score.” \r\n- Destructoid\r\n\r\n\"I helped make it, of course I'm gonna say its good.\"\r\n- Landon Podbielski",
     "players": [
         1
     ],
@@ -25,42 +25,33 @@
             "nativeSize": 2908348
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/discover",
-        "video": "https://vimeo.com/101678001",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/screenshot-1",
-            "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/screenshot-2",
-            "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/screenshot-3",
-            "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/101678001"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/101678001"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/evil.corptron.SPPD/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Landon Podbielski",

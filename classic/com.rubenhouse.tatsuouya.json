@@ -23,60 +23,48 @@
             "nativeSize": 36444744
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/discover",
-        "video": "https://vimeo.com/89852282",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/89852282"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/89852282"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.rubenhouse.tatsuouya/screenshot-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Ruben House L.L.C.",

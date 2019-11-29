@@ -23,32 +23,24 @@
             "nativeSize": 8821100
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cchsh.shadypoopong22/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "58321b6c-9d92-4566-af22-4071544c8467",
         "name": "CC & SH",

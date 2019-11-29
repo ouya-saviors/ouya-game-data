@@ -23,32 +23,24 @@
             "nativeSize": 33860188
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/tv.ouya.pandora/screenshot-1",
-            "http://ouya.cweiske.de/game-images/tv.ouya.pandora/screenshot-2",
-            "http://ouya.cweiske.de/game-images/tv.ouya.pandora/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.pandora/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "OUYA, Inc.",

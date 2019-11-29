@@ -21,32 +21,24 @@
             "nativeSize": 22821996
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mdev.save.zombies/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "MDEV Games",

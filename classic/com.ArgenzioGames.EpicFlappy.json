@@ -22,54 +22,43 @@
             "nativeSize": 14671620
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/discover",
-        "video": "https://vimeo.com/94753935",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/94753935"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/94753935"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ArgenzioGames.EpicFlappy/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Ruggero Corridori",

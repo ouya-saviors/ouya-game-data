@@ -23,44 +23,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ludometrics.gridlock/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Ludometrics Ltd",

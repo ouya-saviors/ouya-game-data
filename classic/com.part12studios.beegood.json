@@ -23,42 +23,33 @@
             "nativeSize": 22269116
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/discover",
-        "video": "https://vimeo.com/100315059",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.part12studios.beegood/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.part12studios.beegood/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.part12studios.beegood/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.part12studios.beegood/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/100315059"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/100315059"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.part12studios.beegood/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9320c0ff-e979-4a27-8095-32f960eb7acf",
         "name": "Part12 Studios",

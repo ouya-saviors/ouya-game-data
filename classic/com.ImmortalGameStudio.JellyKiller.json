@@ -23,48 +23,38 @@
             "nativeSize": 4978820
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/discover",
-        "video": "http://vimeo.com/162602599",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/162602599"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/162602599"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ImmortalGameStudio.JellyKiller/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "6253f8c2-d6c8-44b2-ac55-4ca5c47fb5be",
         "name": "Immortal Game Studio",

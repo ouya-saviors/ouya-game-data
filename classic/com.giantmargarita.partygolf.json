@@ -26,54 +26,43 @@
             "nativeSize": 18205572
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/discover",
-        "video": "https://vimeo.com/127160112",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.giantmargarita.partygolf_1.1/hivUOuz7TCCGQNC2E87x.jpg",
-            "https://archive.org/download/ouya_com.giantmargarita.partygolf_1.1/7HJWV754RHKuW24l6wNI.jpg",
-            "https://archive.org/download/ouya_com.giantmargarita.partygolf_1.1/rMN6JAslSFus3Olg9IlP.jpg",
-            "https://archive.org/download/ouya_com.giantmargarita.partygolf_1.1/EmxbYDNpRiSAToSGgCU2.jpg",
-            "https://archive.org/download/ouya_com.giantmargarita.partygolf_1.1/3X9fo4pKSb6wh9zbaMG4.jpg",
-            "https://archive.org/download/ouya_com.giantmargarita.partygolf_1.1/I8m6RJS9TXyb4cFOpz1T.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/127160112"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/127160112"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.giantmargarita.partygolf/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "751a1b31-4a1a-4be4-a3a2-9d663493af24",
         "name": "Giant Margarita",

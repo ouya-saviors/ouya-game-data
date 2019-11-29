@@ -22,62 +22,49 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7",
-            "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Paul Lamb",

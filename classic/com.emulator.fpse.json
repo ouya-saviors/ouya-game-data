@@ -25,32 +25,24 @@
             "nativeSize": 5302760
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.emulator.fpse/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.emulator.fpse/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.emulator.fpse/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.emulator.fpse/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.emulator.fpse/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.emulator.fpse/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "EDSSOFT Limited",

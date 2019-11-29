@@ -1,7 +1,7 @@
 {
     "packageName": "com.infinitapgames.nightmare",
     "title": "Neverending Nightmares",
-    "description": "Neverending Nightmares is a psychological horror game inspired by the developer's actual battle with mental illness. In the game, you take on the role of Thomas who awakens from a terrible nightmare only to find that he is still dreaming. As he descends deeper through the layers of hellish dreamscapes, he must hide from horrifying apparitions and outrun his inner demons. He must discover which of the horrors he encounters are a manifestation of his own psychological state and figure out what reality will be when he finally wakes up.\r\n\r\n\u201cFor me, Neverending Nightmares was scarier than any ghost story or zombie infestation because it reopened old wounds.\u201d \r\nGamespot \r\n\r\n\u201cNot everyone will easily be able to see all the content the game has to offer. They'll be too freaked out.\u201d \r\nDestructoid \r\n\r\n\u201cThis will give even the most hardened horror fan the chills.\u201d \r\nDread Central ",
+    "description": "Neverending Nightmares is a psychological horror game inspired by the developer's actual battle with mental illness. In the game, you take on the role of Thomas who awakens from a terrible nightmare only to find that he is still dreaming. As he descends deeper through the layers of hellish dreamscapes, he must hide from horrifying apparitions and outrun his inner demons. He must discover which of the horrors he encounters are a manifestation of his own psychological state and figure out what reality will be when he finally wakes up.\r\n\r\n“For me, Neverending Nightmares was scarier than any ghost story or zombie infestation because it reopened old wounds.” \r\nGamespot \r\n\r\n“Not everyone will easily be able to see all the content the game has to offer. They'll be too freaked out.” \r\nDestructoid \r\n\r\n“This will give even the most hardened horror fan the chills.” \r\nDread Central ",
     "players": [
         1
     ],
@@ -21,48 +21,38 @@
             "nativeSize": 4135440
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/discover",
-        "video": "https://vimeo.com/105587615",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/105587615"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/105587615"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.infinitapgames.nightmare/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Infinitap Games, LLC",

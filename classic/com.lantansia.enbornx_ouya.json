@@ -1,7 +1,7 @@
 {
     "packageName": "com.lantansia.enbornx_ouya",
     "title": "EnbornX",
-    "description": "\u2606Story\u2606 \r\nThe Earth is under attack by an Endless Reborn Machine. \r\nEnborn-X is the final hope of humankind. \r\nYour mission is to deport that stopless machine to the Universe and safe the World. \r\n\r\n\u2606The Game\u2606 \r\nEnborn-X is a side-scrolling shooting game which concentrate on \"giant boss battle\". You control an armored girl Enborn-X to fight back a giant enemy named Enborn. Everytime you destroy Enborn, it reborns into a bigger and stronger creature. Your goal is to kill as many as you can and as fast as possible with your powerful weapons in order to get high score. ",
+    "description": "☆Story☆ \r\nThe Earth is under attack by an Endless Reborn Machine. \r\nEnborn-X is the final hope of humankind. \r\nYour mission is to deport that stopless machine to the Universe and safe the World. \r\n\r\n☆The Game☆ \r\nEnborn-X is a side-scrolling shooting game which concentrate on \"giant boss battle\". You control an armored girl Enborn-X to fight back a giant enemy named Enborn. Everytime you destroy Enborn, it reborns into a bigger and stronger creature. Your goal is to kill as many as you can and as fast as possible with your powerful weapons in order to get high score. ",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 8595736
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.lantansia.enbornx_ouya/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Lantansia",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.LunarPixelGames.beatdrift",
     "title": "BEAT DRIFT",
-    "description": "BEAT DRIFT is a pure action game that will test your reflexes and hone your skills. Feel the beat. Drift with the music. Push the limits to survive.\r\n\r\nFeatures:\r\n\u2022 Addictive, short-burst gameplay (60 seconds or less). \r\n\u2022 Smooth and simple finely tuned controls.\r\n\u2022 Trance-like music and visuals. \r\n\u2022 Feeling of progress and skill improvement.\r\n\u2022 Increasingly challenging gameplay.\r\n\u2022 Multiple difficulty levels.\r\n\u2022 Procedurally generated levels.",
+    "description": "BEAT DRIFT is a pure action game that will test your reflexes and hone your skills. Feel the beat. Drift with the music. Push the limits to survive.\r\n\r\nFeatures:\r\n• Addictive, short-burst gameplay (60 seconds or less). \r\n• Smooth and simple finely tuned controls.\r\n• Trance-like music and visuals. \r\n• Feeling of progress and skill improvement.\r\n• Increasingly challenging gameplay.\r\n• Multiple difficulty levels.\r\n• Procedurally generated levels.",
     "players": [
         1
     ],
@@ -22,60 +22,48 @@
             "nativeSize": 15342200
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/discover",
-        "video": "https://vimeo.com/110227951",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/ghH0fCeCTP6NZeKiTyXx.jpg",
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/v7v6R8ZYQSzYxrVmMTsQ.jpg",
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/3w4AXnzTHmLKXPgfsAbm.jpg",
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/ykEcXbSuRP2vLVCuDobX.jpg",
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/XUtRQ2dKTUGPh11A9wV6.jpg",
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/XrkchVG6Q3u5UDODnls8.jpg",
-            "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/vc0P0a8vRuSBVA6NmD0Y.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/110227951"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/110227951"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "LunarPixelGames",

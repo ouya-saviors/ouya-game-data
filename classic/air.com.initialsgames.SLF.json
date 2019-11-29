@@ -1,7 +1,7 @@
 {
     "packageName": "air.com.initialsgames.SLF",
     "title": "Super Lemonade Factory",
-    "description": "Post World War II, a region in political turmoil. Andre\u2019s father offers to give him his lemonade factory \u2013 but on one condition; he and his wife, Liselot, must journey through the entire factory, a task that is easier said than done. Andre and Liselot must combine their unique abilities to make it through each room together. Along the way they\u2019ll meet a cast of characters including the foreman, the chef, a food inspector and a general who wants the factory to supply drinks to the military, now engaged in a new war. ",
+    "description": "Post World War II, a region in political turmoil. Andre’s father offers to give him his lemonade factory – but on one condition; he and his wife, Liselot, must journey through the entire factory, a task that is easier said than done. Andre and Liselot must combine their unique abilities to make it through each room together. Along the way they’ll meet a cast of characters including the foreman, the chef, a food inspector and a general who wants the factory to supply drinks to the military, now engaged in a new war. ",
     "players": [
         1
     ],
@@ -23,54 +23,43 @@
             "nativeSize": 19368691
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/discover",
-        "video": "https://vimeo.com/78707892",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-1",
-            "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-2",
-            "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-3",
-            "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-4",
-            "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-5",
-            "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/78707892"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/78707892"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/screenshot-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Initials",

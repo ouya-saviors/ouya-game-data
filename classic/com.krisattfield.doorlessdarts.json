@@ -1,7 +1,7 @@
 {
     "packageName": "com.krisattfield.doorlessdarts",
     "title": "Doorless Darts",
-    "description": "Two friends have magically teleported into a room with no doors, and to get out they must compete with each other in a full round of darts!\n\nThe dartboard is a bit over-sized for people in the game world, but it\u2019s a good size for your TV.\n\nFree-to-play: Throw a few practice darts to get the feel of the controls. (1 Player)\n\nPaid: Engage in a friendly game of 501 or 301 with your friend. (2 Players)\n\nThis game includes hotseat mode, meaning one controller for two players.\n\nPlease email comments, suggestions and bug reports to krisa@icloud.com.\n\nNew in Version 1.1.1::: Cosmetic fix to make game look better on Forge.",
+    "description": "Two friends have magically teleported into a room with no doors, and to get out they must compete with each other in a full round of darts!\n\nThe dartboard is a bit over-sized for people in the game world, but it’s a good size for your TV.\n\nFree-to-play: Throw a few practice darts to get the feel of the controls. (1 Player)\n\nPaid: Engage in a friendly game of 501 or 301 with your friend. (2 Players)\n\nThis game includes hotseat mode, meaning one controller for two players.\n\nPlease email comments, suggestions and bug reports to krisa@icloud.com.\n\nNew in Version 1.1.1::: Cosmetic fix to make game look better on Forge.",
     "players": [
         1,
         2
@@ -24,48 +24,38 @@
             "nativeSize": 15035248
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/discover",
-        "video": "https://vimeo.com/115881685",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/115881685"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/115881685"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.krisattfield.doorlessdarts/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Kris Attfield",

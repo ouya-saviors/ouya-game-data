@@ -23,44 +23,34 @@
             "nativeSize": 8607772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrychiPixel.GiftScape_Ouya/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "8a5cafc0-0b46-4ef8-94e4-915a2d332167",
         "name": "Strychi Pixel",

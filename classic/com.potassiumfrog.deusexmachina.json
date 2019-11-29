@@ -1,7 +1,7 @@
 {
     "packageName": "com.potassiumfrog.deusexmachina",
     "title": "DEUS EX MACHINA GAME OF THE YEAR 30th ANNIVERSARY COLLECTOR'S EDITION",
-    "description": "Back by popular demand, the legendary video game and first ever interactive movie, starring Jon Pertwee (Doctor Who), Ian Dury (the Godfather of Punk), and Frankie Howerd (comic genius). \r\n\r\nHailed as a breakthrough in the development of video games, Deus Ex Machina won Game Of The Year, and is currently the subject of movies, books, exhibitions and even university courses. \r\n\r\nThis 30th Anniversary Collector\u2019s Edition includes the entire original version, a digitally remastered soundtrack, plus a brand new DIRECTOR\u2019S CUT with all-new graphics. \r\n\r\n\u201cPerfection! You\u2019ve got to play it to believe it.\u201d BBC \r\n\r\n\"An experienced unparalleled by any other game. Deus Ex Machina is a classic.\" PC World \r\n\r\n\"The most original concept since the Spectrum was a gleam in Clive Sinclair's eye. The computer equivalent to Pink Floyd's The Wall.\" Computer & Video Games \r\n\r\n\"Staggeringly original, unique and impressive.\" The Sunday Times \r\n\r\n\"The most unusual program ever released. A bizarre mixture of Aldous Huxley, rock album, psychedelia and the Marx Brothers.\" The Listener",
+    "description": "Back by popular demand, the legendary video game and first ever interactive movie, starring Jon Pertwee (Doctor Who), Ian Dury (the Godfather of Punk), and Frankie Howerd (comic genius). \r\n\r\nHailed as a breakthrough in the development of video games, Deus Ex Machina won Game Of The Year, and is currently the subject of movies, books, exhibitions and even university courses. \r\n\r\nThis 30th Anniversary Collector’s Edition includes the entire original version, a digitally remastered soundtrack, plus a brand new DIRECTOR’S CUT with all-new graphics. \r\n\r\n“Perfection! You’ve got to play it to believe it.” BBC \r\n\r\n\"An experienced unparalleled by any other game. Deus Ex Machina is a classic.\" PC World \r\n\r\n\"The most original concept since the Spectrum was a gleam in Clive Sinclair's eye. The computer equivalent to Pink Floyd's The Wall.\" Computer & Video Games \r\n\r\n\"Staggeringly original, unique and impressive.\" The Sunday Times \r\n\r\n\"The most unusual program ever released. A bizarre mixture of Aldous Huxley, rock album, psychedelia and the Marx Brothers.\" The Listener",
     "players": [
         1
     ],
@@ -26,48 +26,38 @@
             "nativeSize": 19778380
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/discover",
-        "video": "https://vimeo.com/118698797",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/118698797"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/118698797"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.deusexmachina/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Potassium Frog Ltd",

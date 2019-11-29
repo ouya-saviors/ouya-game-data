@@ -23,72 +23,58 @@
             "nativeSize": 19646951
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.com.distropolis.gravitygods/discover",
-        "video": "https://vimeo.com/86444394",
-        "screenshots": [
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/I7wECJCPSL2IWArJh6G5.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/GGdo3c7HRZ62deTLQA1r.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/YawhjwJER72pzvg4YhYu.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/KNrO1EfCTQ7GyW0ias4y.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/tD5vn5epSsWKS9ALRl5q.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/RK1ODMvVRSWLArhxzFUQ.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/DY00tEnQe2sMO6s4sTDg.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/UZ1hbw2ISWmLPanijVm7.jpg",
-            "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/jO8lcZqNSj2QI1Hnf2Co.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/86444394"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/I7wECJCPSL2IWArJh6G5.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/I7wECJCPSL2IWArJh6G5_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/GGdo3c7HRZ62deTLQA1r.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/GGdo3c7HRZ62deTLQA1r_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/YawhjwJER72pzvg4YhYu.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/YawhjwJER72pzvg4YhYu_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/KNrO1EfCTQ7GyW0ias4y.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/KNrO1EfCTQ7GyW0ias4y_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/tD5vn5epSsWKS9ALRl5q.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/tD5vn5epSsWKS9ALRl5q_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/RK1ODMvVRSWLArhxzFUQ.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/RK1ODMvVRSWLArhxzFUQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/DY00tEnQe2sMO6s4sTDg.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/DY00tEnQe2sMO6s4sTDg_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/UZ1hbw2ISWmLPanijVm7.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/UZ1hbw2ISWmLPanijVm7_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/jO8lcZqNSj2QI1Hnf2Co.jpg",
-                "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/jO8lcZqNSj2QI1Hnf2Co_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.com.distropolis.gravitygods/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/86444394"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/I7wECJCPSL2IWArJh6G5.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/I7wECJCPSL2IWArJh6G5_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/GGdo3c7HRZ62deTLQA1r.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/GGdo3c7HRZ62deTLQA1r_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/YawhjwJER72pzvg4YhYu.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/YawhjwJER72pzvg4YhYu_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/KNrO1EfCTQ7GyW0ias4y.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/KNrO1EfCTQ7GyW0ias4y_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/tD5vn5epSsWKS9ALRl5q.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/tD5vn5epSsWKS9ALRl5q_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/RK1ODMvVRSWLArhxzFUQ.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/RK1ODMvVRSWLArhxzFUQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/DY00tEnQe2sMO6s4sTDg.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/DY00tEnQe2sMO6s4sTDg_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/UZ1hbw2ISWmLPanijVm7.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/UZ1hbw2ISWmLPanijVm7_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/jO8lcZqNSj2QI1Hnf2Co.jpg",
+            "thumb": "https://archive.org/download/ouya_air.com.distropolis.gravitygods_1.0.1/jO8lcZqNSj2QI1Hnf2Co_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Distropolis Games",

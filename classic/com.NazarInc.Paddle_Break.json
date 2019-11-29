@@ -21,32 +21,24 @@
             "nativeSize": 18189128
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.NazarInc.Paddle_Break/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "02d20923-d2da-4461-8f78-0f704d6be93e",
         "name": "NazarInc",

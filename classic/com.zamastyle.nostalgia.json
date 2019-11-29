@@ -1,7 +1,7 @@
 {
     "packageName": "com.zamastyle.nostalgia",
     "title": "Nostalgia",
-    "description": "Have you been looking for a single app to unify all of your android emulators? Wish there was a way to show all of your different games with cover art and descriptions instead of just titles?Nostalgia is your answer. Nostalgia is a user interface compatible with many android emulators (check the list further down). You install the emulators and then use Nostalgia's configuration menu to set the emulator to use and the rom directory AND go out and fetch the best shot at the cover art and descriptions for the games. Once those steps are done you will have a fancy new menu for each of your emulated systems with cover art and all. \n\nNostalgia is still in development. Ideas are always welcome! \n\nAs always, Nostalgia only costs $1 to unlock fully and permanently.\n\nThe ONLY limitation in demo mode is that you can only select one game system to launch an emulator. You can still use all the other features and fully populate all of the menus for any system you have so you can see what it will look like.\n\nCurrent supported Emulators:\n\u2022Mupen64 Plus AE\n\u2022Fpse\n\u2022MD.EMU (no gamegear)\n\u2022NES.EMU\n\u2022SNES9x EX+\n\u2022GBC.EMU\n\u2022GBA.EMU\n\u2022PCE.EMU\n\u2022C64.EMU\n\u20222600.EMU\n\u2022NEO.EMU\n\u2022NESoid\n\u2022SNESoid\n\u2022N64oid\n\u2022Gensoid\n\u2022Gearoid\n\u2022GBCoid\n\u2022Gameboid\n\u2022ePSXe (If it works)\n\u2022MSX.EMU (colecovision)\n\u2022Retroarch\n\u2022Reicast\n\u2022Drastic\n\u2022SuperGnes (ouy version is broken atm)\n\u2022PPSSPP (download latest version from their site)\n\u2022Mame4droid\n\nChange log for Nostalgia v2.5.10\n\u2022 Bug fixes\n\u2022 IAP code reverted to support Ouya Everywhere\nChange log for Nostalgia v2.5.9\n\u2022 Fixed Purchase validation for Ouya Everywhere users\n\u2022 Fixed intent for mame4droid from the Ouya Store\n\u2022 Added emulator intent validation to prevent crashes when you don't have the emulator installed\n\u2022 Fixed metadata bug that would cause ignored files to show up again. Refresh metadata to resolve this\n\u2022 Added touch controls (does that apply to any discover devices?)\n\u2022 Added a controller re-mapper to support new controllers\n\n\nNostalgia is now on google play!\n\nFollow @zamastyle on twitter for updates on all things nostalgia\nPlease report bugs and errors by email to zamastyle.development@gmail.com",
+    "description": "Have you been looking for a single app to unify all of your android emulators? Wish there was a way to show all of your different games with cover art and descriptions instead of just titles?Nostalgia is your answer. Nostalgia is a user interface compatible with many android emulators (check the list further down). You install the emulators and then use Nostalgia's configuration menu to set the emulator to use and the rom directory AND go out and fetch the best shot at the cover art and descriptions for the games. Once those steps are done you will have a fancy new menu for each of your emulated systems with cover art and all. \n\nNostalgia is still in development. Ideas are always welcome! \n\nAs always, Nostalgia only costs $1 to unlock fully and permanently.\n\nThe ONLY limitation in demo mode is that you can only select one game system to launch an emulator. You can still use all the other features and fully populate all of the menus for any system you have so you can see what it will look like.\n\nCurrent supported Emulators:\n•Mupen64 Plus AE\n•Fpse\n•MD.EMU (no gamegear)\n•NES.EMU\n•SNES9x EX+\n•GBC.EMU\n•GBA.EMU\n•PCE.EMU\n•C64.EMU\n•2600.EMU\n•NEO.EMU\n•NESoid\n•SNESoid\n•N64oid\n•Gensoid\n•Gearoid\n•GBCoid\n•Gameboid\n•ePSXe (If it works)\n•MSX.EMU (colecovision)\n•Retroarch\n•Reicast\n•Drastic\n•SuperGnes (ouy version is broken atm)\n•PPSSPP (download latest version from their site)\n•Mame4droid\n\nChange log for Nostalgia v2.5.10\n• Bug fixes\n• IAP code reverted to support Ouya Everywhere\nChange log for Nostalgia v2.5.9\n• Fixed Purchase validation for Ouya Everywhere users\n• Fixed intent for mame4droid from the Ouya Store\n• Added emulator intent validation to prevent crashes when you don't have the emulator installed\n• Fixed metadata bug that would cause ignored files to show up again. Refresh metadata to resolve this\n• Added touch controls (does that apply to any discover devices?)\n• Added a controller re-mapper to support new controllers\n\n\nNostalgia is now on google play!\n\nFollow @zamastyle on twitter for updates on all things nostalgia\nPlease report bugs and errors by email to zamastyle.development@gmail.com",
     "players": [
         1
     ],
@@ -24,50 +24,39 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.zamastyle.nostalgia/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Zamastyle",

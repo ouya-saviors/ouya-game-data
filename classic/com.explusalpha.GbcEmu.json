@@ -22,32 +22,24 @@
             "nativeSize": 763028
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.explusalpha.GbcEmu/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Robert Broglia",

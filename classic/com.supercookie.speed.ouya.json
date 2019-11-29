@@ -23,36 +23,28 @@
             "nativeSize": 481688
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/discover",
-        "video": "https://vimeo.com/137909012",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/137909012"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/137909012"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.speed.ouya/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "3e3e5f2a-aba8-445b-828b-7726c495fa1c",
         "name": "Super Cookie Games",

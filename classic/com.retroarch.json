@@ -19,32 +19,24 @@
             "nativeSize": 1169736
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.retroarch/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.retroarch/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.retroarch/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Libretro",

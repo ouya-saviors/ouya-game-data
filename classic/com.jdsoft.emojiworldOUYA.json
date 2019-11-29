@@ -22,32 +22,24 @@
             "nativeSize": 8821100
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.jdsoft.emojiworldOUYA_1.2.0/hXzgn0pYRqe2WLu5HCwS.jpg",
-            "https://archive.org/download/ouya_com.jdsoft.emojiworldOUYA_1.2.0/hWIITNuOSdefFdPKmsKX.jpg",
-            "https://archive.org/download/ouya_com.jdsoft.emojiworldOUYA_1.2.0/fwN5urJTTOIJsbkMWRBM.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.jdsoft.emojiworldOUYA/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "6081cbf4-b732-4896-9604-f92351f97056",
         "name": "JDSoft",

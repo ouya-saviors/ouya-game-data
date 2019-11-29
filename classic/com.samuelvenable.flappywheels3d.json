@@ -1,7 +1,7 @@
 {
     "packageName": "com.samuelvenable.flappywheels3d",
     "title": "Flappy Wheels 3D",
-    "description": "Product Features    \n\n\u2022Official website - www.timekillergames.weebly.com\n\u2022The infinite objective - survive as many laps as you can\n\u2022Laps make you faster - speed reset after multiples of 50\n\u2022Steering gradually offset - you will need your D-pad\n\u2022Press something when it says to - jump 'n double jumpy\n\u2022Stay in touch with your inner child - play with toy cars\n\u2022Prepare to disobey gravity in some strange ways tho\n\n\nProduct Description   \n\nFlappy Bird + Hot Wheels + Temple Run + erm, Happy Wheels? I have absolutely no idea bruh. Survive as many laps as you can, use the D-pad as needed, and press something as instructed. Flap your wheels in this unique take on the classic infinite runner. Precise 3D physics wrote by Robert B. Colton. Everything else by Samuel J. Venable.",
+    "description": "Product Features    \n\n•Official website - www.timekillergames.weebly.com\n•The infinite objective - survive as many laps as you can\n•Laps make you faster - speed reset after multiples of 50\n•Steering gradually offset - you will need your D-pad\n•Press something when it says to - jump 'n double jumpy\n•Stay in touch with your inner child - play with toy cars\n•Prepare to disobey gravity in some strange ways tho\n\n\nProduct Description   \n\nFlappy Bird + Hot Wheels + Temple Run + erm, Happy Wheels? I have absolutely no idea bruh. Survive as many laps as you can, use the D-pad as needed, and press something as instructed. Flap your wheels in this unique take on the classic infinite runner. Precise 3D physics wrote by Robert B. Colton. Everything else by Samuel J. Venable.",
     "players": [
         1
     ],
@@ -24,66 +24,53 @@
             "nativeSize": 8620060
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/discover",
-        "video": "https://vimeo.com/140521926",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/140521926"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/140521926"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.samuelvenable.flappywheels3d/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": "391e8584-db0a-4231-a41a-1e1d27ca389a",
         "name": "Samuel Venable",

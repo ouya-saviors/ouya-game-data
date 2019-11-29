@@ -1,7 +1,7 @@
 {
     "packageName": "com.tinyorange.krakoidse",
     "title": "Krakoid: Special Edition",
-    "description": "Arkanoid style game like Krakout from old good known ZX-Spectrum.\r\n\r\nThe goal of the game is to destroy all possible bricks using balls and bat. You can shoot the bricks with missiles, lasers and other weapons (depends on bonus).\r\n\r\nGame features:\r\n\r\n\u2022 Multiple levels packs (episodes) support.\r\n\u2022 Original musics and sound effects. \r\n\u2022 Brilliant graphics and nice gameplay very close to original Krakout and Arkanoid game.\r\n\u2022 15 bonuses.\r\n\u2022 10 awesome space monsters.\r\n\u2022 Over 250 movable and static bricks types.\r\n\u2022 Weapons like Laser, Rocket Launcher, Plasma Gun.\r\n\u2022 Free bat moving using Space Engine.\r\n\u2022 Easter eggs (try to find them).\r\n\r\nThe game is dedicated to everyone who love Arkanoid and Brick Breaker games (Krakout, Ball Breaker, Crypton Egg, Batty, Ricochet), and to all fans of Sinclair ZX-Spectrum, Atari, Amiga, Nintendo.",
+    "description": "Arkanoid style game like Krakout from old good known ZX-Spectrum.\r\n\r\nThe goal of the game is to destroy all possible bricks using balls and bat. You can shoot the bricks with missiles, lasers and other weapons (depends on bonus).\r\n\r\nGame features:\r\n\r\n• Multiple levels packs (episodes) support.\r\n• Original musics and sound effects. \r\n• Brilliant graphics and nice gameplay very close to original Krakout and Arkanoid game.\r\n• 15 bonuses.\r\n• 10 awesome space monsters.\r\n• Over 250 movable and static bricks types.\r\n• Weapons like Laser, Rocket Launcher, Plasma Gun.\r\n• Free bat moving using Space Engine.\r\n• Easter eggs (try to find them).\r\n\r\nThe game is dedicated to everyone who love Arkanoid and Brick Breaker games (Krakout, Ball Breaker, Crypton Egg, Batty, Ricochet), and to all fans of Sinclair ZX-Spectrum, Atari, Amiga, Nintendo.",
     "players": [
         1
     ],
@@ -23,90 +23,73 @@
             "nativeSize": 2379068
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/discover",
-        "video": "https://vimeo.com/105044253",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-11",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/screenshot-12"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/105044253"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-11-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-12",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-12-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/105044253"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-11-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-12",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.krakoidse/detail-12-thumb"
+        }
+    ],
     "developer": {
         "uuid": "22acab5a-cd99-44c7-abdd-2567ad8d013f",
         "name": "Tiny Orange, OOO",

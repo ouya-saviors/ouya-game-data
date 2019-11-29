@@ -1,7 +1,7 @@
 {
     "packageName": "com.midnightryder.jumpmanforeverfull",
     "title": "Jumpman Forever",
-    "description": "Get ready for a mind-bending, heart pounding platform experience!  Forget old mustachioed plumbers who make games simple - Jumpman Forever brings back the roots of true platform games, challenging you on every level with a combination of puzzles and action that haven't been seen in ages!\r\n\r\nJumpman Forever features:\r\n    32 NEW Jumpman levels!\r\n    2 Playable Characters!\r\n    4 Difficulty Levels\r\n    4 Separate Missions\r\n    Tutorial\r\n\r\nAlso planned as part of the Kickstarter:\r\n    Quarterly FREE Level Packs\r\n    Level Editor\r\n    Level Sharing Community  \r\n\r\nThis is the first full release - what did people had to say about the pre-release and Beta versions?\r\n\r\n***** \"I had an exclusive look at the beta and I have to say: it is a faithful reproduction.\" --- Retro Gaming Society *****\r\n\r\n***** \"Even in beta form, this is rock-solid and I can\u2019t wait to try out the full game.\" --- Hard Core Gamer *****\r\n\r\n***** \"Looks like fans of old-school platformers are going to have a reason to celebrate.\" --- Everyday Gamers *****\r\n",
+    "description": "Get ready for a mind-bending, heart pounding platform experience!  Forget old mustachioed plumbers who make games simple - Jumpman Forever brings back the roots of true platform games, challenging you on every level with a combination of puzzles and action that haven't been seen in ages!\r\n\r\nJumpman Forever features:\r\n    32 NEW Jumpman levels!\r\n    2 Playable Characters!\r\n    4 Difficulty Levels\r\n    4 Separate Missions\r\n    Tutorial\r\n\r\nAlso planned as part of the Kickstarter:\r\n    Quarterly FREE Level Packs\r\n    Level Editor\r\n    Level Sharing Community  \r\n\r\nThis is the first full release - what did people had to say about the pre-release and Beta versions?\r\n\r\n***** \"I had an exclusive look at the beta and I have to say: it is a faithful reproduction.\" --- Retro Gaming Society *****\r\n\r\n***** \"Even in beta form, this is rock-solid and I can’t wait to try out the full game.\" --- Hard Core Gamer *****\r\n\r\n***** \"Looks like fans of old-school platformers are going to have a reason to celebrate.\" --- Everyday Gamers *****\r\n",
     "players": [
         1
     ],
@@ -23,36 +23,28 @@
             "nativeSize": 10914168
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/discover",
-        "video": "https://vimeo.com/95078566",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/95078566"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-3"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/95078566"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforeverfull/screenshot-3"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Midnight Ryder Technologies",

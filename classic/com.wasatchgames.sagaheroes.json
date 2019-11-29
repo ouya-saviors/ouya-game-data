@@ -22,66 +22,53 @@
             "nativeSize": 195984
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.wasatchgames.sagaheroes/discover",
-        "video": "https://vimeo.com/87808448",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4yIP0caQbOYzWZUEAdOD.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4Rkt8qYNTTaUIJofKMCZ.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/MC5tQCrvQ9yihbWKnqxP.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/Splpok2GSaqFy2qtq5Cc.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/pyMQrAEqRfawKd3d71y9.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/V0l4wkMQ5mlZQQ5fnshi.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/TomsHZ1S4OtOixGCdhgT.jpg",
-            "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/O50kQLaQEWo6FJKrrKEF.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/87808448"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4yIP0caQbOYzWZUEAdOD.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4yIP0caQbOYzWZUEAdOD_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4Rkt8qYNTTaUIJofKMCZ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4Rkt8qYNTTaUIJofKMCZ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/MC5tQCrvQ9yihbWKnqxP.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/MC5tQCrvQ9yihbWKnqxP_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/Splpok2GSaqFy2qtq5Cc.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/Splpok2GSaqFy2qtq5Cc_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/pyMQrAEqRfawKd3d71y9.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/pyMQrAEqRfawKd3d71y9_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/V0l4wkMQ5mlZQQ5fnshi.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/V0l4wkMQ5mlZQQ5fnshi_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/TomsHZ1S4OtOixGCdhgT.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/TomsHZ1S4OtOixGCdhgT_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/O50kQLaQEWo6FJKrrKEF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/O50kQLaQEWo6FJKrrKEF_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.wasatchgames.sagaheroes/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87808448"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4yIP0caQbOYzWZUEAdOD.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4yIP0caQbOYzWZUEAdOD_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4Rkt8qYNTTaUIJofKMCZ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/4Rkt8qYNTTaUIJofKMCZ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/MC5tQCrvQ9yihbWKnqxP.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/MC5tQCrvQ9yihbWKnqxP_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/Splpok2GSaqFy2qtq5Cc.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/Splpok2GSaqFy2qtq5Cc_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/pyMQrAEqRfawKd3d71y9.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/pyMQrAEqRfawKd3d71y9_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/V0l4wkMQ5mlZQQ5fnshi.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/V0l4wkMQ5mlZQQ5fnshi_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/TomsHZ1S4OtOixGCdhgT.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/TomsHZ1S4OtOixGCdhgT_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/O50kQLaQEWo6FJKrrKEF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.wasatchgames.sagaheroes_0.2.1/O50kQLaQEWo6FJKrrKEF_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": "93da684f-b660-42ca-a8c7-ffb67a790cdd",
         "name": "Wasatch Games",

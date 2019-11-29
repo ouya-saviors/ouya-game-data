@@ -24,72 +24,58 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/discover",
-        "video": "https://vimeo.com/142742061",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/screenshot-9"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/142742061"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/142742061"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blackjet.Spacewhale/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "c82c1f33-cb90-4a89-812b-e0e4b8b42c39",
         "name": "BlackJet",

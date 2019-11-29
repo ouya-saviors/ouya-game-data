@@ -23,72 +23,58 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/voltagerevolt.voltagerevolt/discover",
-        "video": "https://vimeo.com/70820213",
-        "screenshots": [
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/whKUEXQkmuT1lhMj2wGe.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/x6nOIXx0SiS1XmKTNVz2.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/nwXKtllfQK2meb8we0V0.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/OOtu2GVJQa04ZGpl04KA.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/srYeqIM2RiWUMSz6PVwt.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/YkXDfJgKQFu1WrcaDBup.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/rjUOGkkSQKCAemkVQPAN.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/imYY7hWySSidv2WVzpjf.jpg",
-            "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/NRYa8MGTS2Gz3lsMmPNo.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/70820213"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/whKUEXQkmuT1lhMj2wGe.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/whKUEXQkmuT1lhMj2wGe_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/x6nOIXx0SiS1XmKTNVz2.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/x6nOIXx0SiS1XmKTNVz2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/nwXKtllfQK2meb8we0V0.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/nwXKtllfQK2meb8we0V0_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/OOtu2GVJQa04ZGpl04KA.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/OOtu2GVJQa04ZGpl04KA_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/srYeqIM2RiWUMSz6PVwt.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/srYeqIM2RiWUMSz6PVwt_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/YkXDfJgKQFu1WrcaDBup.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/YkXDfJgKQFu1WrcaDBup_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/rjUOGkkSQKCAemkVQPAN.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/rjUOGkkSQKCAemkVQPAN_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/imYY7hWySSidv2WVzpjf.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/imYY7hWySSidv2WVzpjf_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/NRYa8MGTS2Gz3lsMmPNo.jpg",
-                "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/NRYa8MGTS2Gz3lsMmPNo_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/voltagerevolt.voltagerevolt/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/70820213"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/whKUEXQkmuT1lhMj2wGe.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/whKUEXQkmuT1lhMj2wGe_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/x6nOIXx0SiS1XmKTNVz2.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/x6nOIXx0SiS1XmKTNVz2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/nwXKtllfQK2meb8we0V0.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/nwXKtllfQK2meb8we0V0_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/OOtu2GVJQa04ZGpl04KA.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/OOtu2GVJQa04ZGpl04KA_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/srYeqIM2RiWUMSz6PVwt.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/srYeqIM2RiWUMSz6PVwt_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/YkXDfJgKQFu1WrcaDBup.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/YkXDfJgKQFu1WrcaDBup_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/rjUOGkkSQKCAemkVQPAN.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/rjUOGkkSQKCAemkVQPAN_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/imYY7hWySSidv2WVzpjf.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/imYY7hWySSidv2WVzpjf_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/NRYa8MGTS2Gz3lsMmPNo.jpg",
+            "thumb": "https://archive.org/download/ouya_voltagerevolt.voltagerevolt_1.0.1/NRYa8MGTS2Gz3lsMmPNo_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "klutzGames",

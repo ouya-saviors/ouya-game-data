@@ -1,7 +1,7 @@
 {
     "packageName": "tv.ouya.ArcadeyGames.ArcadeyS",
     "title": "Arcadey Shooter: Alpha",
-    "description": "Note: This is just the alpha, there is bound to be errors and if you find any, report it to lJoshua2009@live.com\n\nThis update was released early because I felt as if I haven't updated the game in a long time. I'll add everything I was meant to add in either version 0.1, or a small patch\n\nThe car in the main menu after you finish a match is only for show. I'm not planning on releasing cars and jets soon, it probably won't come in version 0.1\n\n\"Titanfall getting BLOWN THE F*** OUT.\ufeff\" - RoboJules\n\n\"I think Rocco's going to regret peeing on his Ouya now.\ufeff\" - ClassyJ Cassidy\n\nWelcome to Arcadey Shooter, a sci-fi FPS exclusive to the OUYA. There is high amounts of maneuverability in the game, allowing you to grenade jump and even use a grappling hook to get around the map. There are multiple game modes, for example, Deathmatch, Team Deathmatch, Lucky Shots (limited magazine size, increased damage), and Robot Onslaught, and some of these modes allowing you to start at a specific level, to change the pacing of the game. More features coming soon\n\n0.0.8:\n-The ability to change the settings of ANY game mode\n-Grappling hook has been updated\n-Grappling hook can now hook onto enemies/allies\n-Interaction when attaching a grappling hook onto an inanimate object has changed, you no longer just go to it linearly\n-Reduced size of data sent whilst networking in an attempt to make it smoother\n-New game mode released (which may not quite be ready yet)\n-Ability to do a side rolly polly\n-Boosting (or you can call it sprinting) has been removed from the game\n-In game descriptions for some main menu options\n-Adjustments to the speed increase, and animation speed gained per level\n-Pistol's damage increased, fire rate increased, spread reduced and recoil reduced. Range increased too\n-Grenade's health reduced, and adjustments to the force applied when a grenade blows up\n-Adjustment to friends list add a friend (it might work now)\n-More than one shield colour per bar of shield, instead of having the shield deplete slower if the shield goes larger than 100, 200 etc.\nAnd many more",
+    "description": "Note: This is just the alpha, there is bound to be errors and if you find any, report it to lJoshua2009@live.com\n\nThis update was released early because I felt as if I haven't updated the game in a long time. I'll add everything I was meant to add in either version 0.1, or a small patch\n\nThe car in the main menu after you finish a match is only for show. I'm not planning on releasing cars and jets soon, it probably won't come in version 0.1\n\n\"Titanfall getting BLOWN THE F*** OUT.﻿\" - RoboJules\n\n\"I think Rocco's going to regret peeing on his Ouya now.﻿\" - ClassyJ Cassidy\n\nWelcome to Arcadey Shooter, a sci-fi FPS exclusive to the OUYA. There is high amounts of maneuverability in the game, allowing you to grenade jump and even use a grappling hook to get around the map. There are multiple game modes, for example, Deathmatch, Team Deathmatch, Lucky Shots (limited magazine size, increased damage), and Robot Onslaught, and some of these modes allowing you to start at a specific level, to change the pacing of the game. More features coming soon\n\n0.0.8:\n-The ability to change the settings of ANY game mode\n-Grappling hook has been updated\n-Grappling hook can now hook onto enemies/allies\n-Interaction when attaching a grappling hook onto an inanimate object has changed, you no longer just go to it linearly\n-Reduced size of data sent whilst networking in an attempt to make it smoother\n-New game mode released (which may not quite be ready yet)\n-Ability to do a side rolly polly\n-Boosting (or you can call it sprinting) has been removed from the game\n-In game descriptions for some main menu options\n-Adjustments to the speed increase, and animation speed gained per level\n-Pistol's damage increased, fire rate increased, spread reduced and recoil reduced. Range increased too\n-Grenade's health reduced, and adjustments to the force applied when a grenade blows up\n-Adjustment to friends list add a friend (it might work now)\n-More than one shield colour per bar of shield, instead of having the shield deplete slower if the shield goes larger than 100, 200 etc.\nAnd many more",
     "players": [
         1,
         2
@@ -24,62 +24,51 @@
             "nativeSize": 27432396
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/discover",
-        "video": "https://vimeo.com/156173897",
-        "screenshots": [
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/h98COrL3ThOpNyMk9QHI.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/b1TsjnrQPOC8oM1bNGcs.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/zvtunvZEQCOxACRVbL5X.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/63zj3EZKS76OahqpDemm.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/cuCWwhqRCeCdArfK7yrb.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/RzJyvuAkRmGRaWr9GI2m.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/156173897"
-            },
-            {
-                "type": "video",
-                "url": "https://vimeo.com/156120621"
-            },
-            {
-                "type": "video",
-                "url": "https://vimeo.com/115349996"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/156173897"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/156120621"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/115349996"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/tv.ouya.ArcadeyGames.ArcadeyS/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "26c2dd31-af02-4ef5-ad75-b8c82e62413a",
         "name": "Joshua Lunsi",

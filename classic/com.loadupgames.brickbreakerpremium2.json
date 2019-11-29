@@ -1,7 +1,7 @@
 {
     "packageName": "com.loadupgames.brickbreakerpremium2",
     "title": "Brick Breaker Premium 2",
-    "description": "This is the sequel to the classic brick-breaker game.\r\n\r\nNO Ads, NO In-App Purchases!\r\n\r\nPart 2 is Here!!!\r\n\r\nYou are the hero \u201cBlippy\u201d the paddle, that has to save planet Earth from a new threat. Can you finish the game and save Earth from \u201cThe Little Snarfers\u201d?...\r\n\r\n- Over 40 Brand New Challenging Levels to Complete.\r\n- Continuation of the Heroic Storyline, Where It All Began!\r\n- Your Choice To Use Analogue Stick or D-pad.\r\n- Classic Power-ups.\r\n- New Additional Small Bricks.\r\n- See Brand New Ending Cutscenes If You Can Complete The Game!!!\r\n\r\nLots of Fun!!! Good Luck Blippy!",
+    "description": "This is the sequel to the classic brick-breaker game.\r\n\r\nNO Ads, NO In-App Purchases!\r\n\r\nPart 2 is Here!!!\r\n\r\nYou are the hero “Blippy” the paddle, that has to save planet Earth from a new threat. Can you finish the game and save Earth from “The Little Snarfers”?...\r\n\r\n- Over 40 Brand New Challenging Levels to Complete.\r\n- Continuation of the Heroic Storyline, Where It All Began!\r\n- Your Choice To Use Analogue Stick or D-pad.\r\n- Classic Power-ups.\r\n- New Additional Small Bricks.\r\n- See Brand New Ending Cutscenes If You Can Complete The Game!!!\r\n\r\nLots of Fun!!! Good Luck Blippy!",
     "players": [
         1
     ],
@@ -21,66 +21,53 @@
             "nativeSize": 8821100
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/discover",
-        "video": "https://vimeo.com/111633414",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/111633414"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/111633414"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.loadupgames.brickbreakerpremium2/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": "bf49ca86-c7b9-43b5-9d22-289423d57125",
         "name": "LoadUpGames.com",

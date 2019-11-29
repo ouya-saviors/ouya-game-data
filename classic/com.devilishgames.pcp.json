@@ -1,7 +1,7 @@
 {
     "packageName": "com.devilishgames.pcp",
     "title": "Police Cars Parking",
-    "description": "Have you ever been fined for wrong parking? Probably it\u2019s been because you didn\u2019t play Shopping Mall Parking so you didn\u2019t learn to park. Now you\u2019ve got a second chance, walking in the shoes of the ones that fined you: the police.\r\n\r\nWhat will you choose? Will you learn how to park or will you laugh in cops\u2019 faces, destroying their cars and parking lot?",
+    "description": "Have you ever been fined for wrong parking? Probably it’s been because you didn’t play Shopping Mall Parking so you didn’t learn to park. Now you’ve got a second chance, walking in the shoes of the ones that fined you: the police.\r\n\r\nWhat will you choose? Will you learn how to park or will you laugh in cops’ faces, destroying their cars and parking lot?",
     "players": [
         1
     ],
@@ -22,36 +22,28 @@
             "nativeSize": 14956816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/discover",
-        "video": "https://vimeo.com/114960289",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/114960289"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/114960289"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.pcp/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "SPHERICAL PIXEL, S.L",

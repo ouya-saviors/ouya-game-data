@@ -1,7 +1,7 @@
 {
     "packageName": "com.pixjuegos.ripolles",
     "title": "Ruzafa's Nightmare",
-    "description": "Classical and fast paced beat' em up.\r\nRuzafas' sculptures have came to live and are destroying Castell\u00f3n's city.\r\n\r\nWinner of the RANDOM prize in the Indie Developer Burger Awards 2013 in Barcelona.\r\nWinner of the 1st Castellon \r\ngame-development contest.\r\n\r\nIf you've read the whole description, there's a cheat for you :D\r\nIn the options menu, change 10 times between on and off the sound switch.\r\nA boy shouting will be heard, and after that you may activate some cheats in the Options menu!",
+    "description": "Classical and fast paced beat' em up.\r\nRuzafas' sculptures have came to live and are destroying Castellón's city.\r\n\r\nWinner of the RANDOM prize in the Indie Developer Burger Awards 2013 in Barcelona.\r\nWinner of the 1st Castellon \r\ngame-development contest.\r\n\r\nIf you've read the whole description, there's a cheat for you :D\r\nIn the options menu, change 10 times between on and off the sound switch.\r\nA boy shouting will be heard, and after that you may activate some cheats in the Options menu!",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 3922076
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/discover",
-        "video": "https://vimeo.com/87143164",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/87143164"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87143164"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixjuegos.ripolles/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "PiX Juegos",

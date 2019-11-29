@@ -1,7 +1,7 @@
 {
     "packageName": "com.intermediaware.sophiasworld",
     "title": "Sophia's World",
-    "description": "Help Sophia find and rescue kidnapped animals. \r\n\r\n\u2605 Fun for all age groups! \r\nIn this Jump \u2018n Run game for people of all ages, you can guide Sophia through the vividly colored levels and worlds. On each level, there are many hidden coins. You\u2019ll want to avoid animals such as snails, field mice and turtles however. \r\n\r\n\u2605 Classic platform game play in modern garb! \r\nPlaying this classic Jump \u2018n Run game, you'll note it is jam packed with vividly colored, timeless graphics and cute characters. It\u2019s fun for the whole family: from the youngest to as old as your Granny. Everyone can grasp the purpose of the game immediately and will not be able to resist trying to snatch up all the coins for all the levels. \r\n\r\nIf you like classic games like Canabalt, Rayman, Giana Sisters, Sonic The Hedgehog, Crash Bandicoot, Ratchet & Clank, Spyro, Oddworld, NyxQuest, Soosiz, Cordy, Earthworm Jim, NinJump, Dragon Rush, iRunner, Doodle Jump, Temple Run, Mega Jump, Leps World, Megaman or Donkey Kong you'll love Sophia's world! \r\n\r\n\u2605 Day and Night Levels \r\nYou can alternate between a daytime and a nighttime level. There are a total of 24 exciting levels waiting for you to explore them. More levels can be provided, if you like the game just that much. \r\n\r\n\u2605 Great Soundtrack \r\nGreat music (which can be muted) and stellar sound effects will accompany you on your adventures throughout Sophia's world.",
+    "description": "Help Sophia find and rescue kidnapped animals. \r\n\r\n★ Fun for all age groups! \r\nIn this Jump ‘n Run game for people of all ages, you can guide Sophia through the vividly colored levels and worlds. On each level, there are many hidden coins. You’ll want to avoid animals such as snails, field mice and turtles however. \r\n\r\n★ Classic platform game play in modern garb! \r\nPlaying this classic Jump ‘n Run game, you'll note it is jam packed with vividly colored, timeless graphics and cute characters. It’s fun for the whole family: from the youngest to as old as your Granny. Everyone can grasp the purpose of the game immediately and will not be able to resist trying to snatch up all the coins for all the levels. \r\n\r\nIf you like classic games like Canabalt, Rayman, Giana Sisters, Sonic The Hedgehog, Crash Bandicoot, Ratchet & Clank, Spyro, Oddworld, NyxQuest, Soosiz, Cordy, Earthworm Jim, NinJump, Dragon Rush, iRunner, Doodle Jump, Temple Run, Mega Jump, Leps World, Megaman or Donkey Kong you'll love Sophia's world! \r\n\r\n★ Day and Night Levels \r\nYou can alternate between a daytime and a nighttime level. There are a total of 24 exciting levels waiting for you to explore them. More levels can be provided, if you like the game just that much. \r\n\r\n★ Great Soundtrack \r\nGreat music (which can be muted) and stellar sound effects will accompany you on your adventures throughout Sophia's world.",
     "players": [
         1
     ],
@@ -21,38 +21,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/screenshot-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Jochen Heizmann, Intermediaware",

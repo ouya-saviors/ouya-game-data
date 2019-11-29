@@ -23,42 +23,33 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/discover",
-        "video": "https://vimeo.com/99271599",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/99271599"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/99271599"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pigoutproductions.hiddengarden/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9e40eed8-a159-449e-bc76-da5d13bc1e64",
         "name": "Pig Out Productions, LLC",

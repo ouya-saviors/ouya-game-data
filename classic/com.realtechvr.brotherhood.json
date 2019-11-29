@@ -23,78 +23,63 @@
             "nativeSize": 3309500
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/discover",
-        "video": "https://vimeo.com/91531247",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/screenshot-10"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/91531247"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-10-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/91531247"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.realtechvr.brotherhood/detail-10-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "realtech VR",

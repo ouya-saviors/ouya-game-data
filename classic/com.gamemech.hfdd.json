@@ -1,7 +1,7 @@
 {
     "packageName": "com.gamemech.hfdd",
     "title": "High Flyer Death Defyer",
-    "description": "ON SALE!!!!  Previously $3.99 but now $1.99!!  Enjoy the Holiday savings guys because it is only reduced in price for a limited time!!\r\n\r\n*Please use the Touchpad to navigate the games menus. Thanks!\r\n\r\nTake flight in an exciting action packed adventure through the skies of Machine City.  You will roll, dive, and dodge your way through dangerous obstacles in order to safely land on floating islands in the sky. Along the way, you must snag valuable treasures.\r\n\r\nThe story takes place 20 years after the Thundering. This great cataclysm destroyed the world as we know it, and Earth's survivors now live on the floating city of Caen. The Earth has changed, but that doesn't stop Arreon from fulfilling his dream of exploring the skies.\r\n\r\nYou'll fly up to speeds of 300 MPH, acquire awesome Boost and Speed rings, and zoom past gigantic killer beasts. Earn extended jetpack activation zones, and negotiate your way through gas clouds and other hair-raising obstacles. High Flyer is not for the faint of heart.\r\n\r\nHigh Flyer Jetpack Tests includes a hands-on tutorial, full calibration and control settings, a 100+ comic book panel story, and a sweeping musical score befitting an airborne epic. \r\n\r\nThere are two things every kid dreams of having, a Jetpack and a Lightsaber.  This game has the first half of that covered.\r\n\r\nStrap on your jetpack and take flight in this 3-D aerial adventure exclusively on OUYA.\r\n\r\n\u2022\t10 Story Missions\r\n\u2022\t17 Jetpack Test Missions\r\n\u2022\tPlay as either Arreon or Charisma\r\n\u2022\tDiscover all of the Floating Islands\r\n\u2022\tFree all of the enslaved Aliens\r\n\u2022\tEarn new powers like \u201cLife After Death\u201d\r\n\u2022\tHours of Replayability\r\n\u2022\tNon Linear Level Design\r\n\u2022\tSpeed and Treasure Challenges\r\n",
+    "description": "ON SALE!!!!  Previously $3.99 but now $1.99!!  Enjoy the Holiday savings guys because it is only reduced in price for a limited time!!\r\n\r\n*Please use the Touchpad to navigate the games menus. Thanks!\r\n\r\nTake flight in an exciting action packed adventure through the skies of Machine City.  You will roll, dive, and dodge your way through dangerous obstacles in order to safely land on floating islands in the sky. Along the way, you must snag valuable treasures.\r\n\r\nThe story takes place 20 years after the Thundering. This great cataclysm destroyed the world as we know it, and Earth's survivors now live on the floating city of Caen. The Earth has changed, but that doesn't stop Arreon from fulfilling his dream of exploring the skies.\r\n\r\nYou'll fly up to speeds of 300 MPH, acquire awesome Boost and Speed rings, and zoom past gigantic killer beasts. Earn extended jetpack activation zones, and negotiate your way through gas clouds and other hair-raising obstacles. High Flyer is not for the faint of heart.\r\n\r\nHigh Flyer Jetpack Tests includes a hands-on tutorial, full calibration and control settings, a 100+ comic book panel story, and a sweeping musical score befitting an airborne epic. \r\n\r\nThere are two things every kid dreams of having, a Jetpack and a Lightsaber.  This game has the first half of that covered.\r\n\r\nStrap on your jetpack and take flight in this 3-D aerial adventure exclusively on OUYA.\r\n\r\n•\t10 Story Missions\r\n•\t17 Jetpack Test Missions\r\n•\tPlay as either Arreon or Charisma\r\n•\tDiscover all of the Floating Islands\r\n•\tFree all of the enslaved Aliens\r\n•\tEarn new powers like “Life After Death”\r\n•\tHours of Replayability\r\n•\tNon Linear Level Design\r\n•\tSpeed and Treasure Challenges\r\n",
     "players": [
         1
     ],
@@ -22,36 +22,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/discover",
-        "video": "https://vimeo.com/76492108",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/76492108"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/76492108"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamemech.hfdd/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Game Mechanic Studios, LLC",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.dotemu.anotherworld",
     "title": "Another World",
-    "description": "Also known as Out Of This World\u2122 and released across more than a dozen platforms since its 1991 debut, Another World\u2122 has attained cult status among critics and sophisticated gamers alike for its cinematic effects in the graphics, sound and cut scenes.\r\n\r\nA CAPTIVATING ADVENTURE\r\nThe actor plays the part of Lester Knight Chaykin, a young physics researcher. While he is right in the middle of doing experiments, his laboratory is struck by lighting and completely destroyed, hurling him into another world, a world populated by humanoid creatures, where danger can spring at any moment.\r\n\r\nYou must escape from this strange civilization. You will nonetheless meet a companion who will soon become your ally and help you in this merciless fight!\r\n\r\n20th ANNIVERSARY EDITION SPECIALLY THOUGHT OUT FOR OUYA\r\n- 3 difficulty modes: Normal (easier than the original), Hard (similar to the original) and Hardcore (harder than the original)\r\n- Sound and sound effects are 100% remastered\r\n- 5 languages available (English, French, Italian, German, Spanish)\r\n\r\nMore information on:\r\nanotherworld.fr\r\nfacebook.com/another.world.official\r\nfacebook.com/dotemu \r\ntwitter.com/dotemu\r\nyoutube.com/dotemu\r\n",
+    "description": "Also known as Out Of This World™ and released across more than a dozen platforms since its 1991 debut, Another World™ has attained cult status among critics and sophisticated gamers alike for its cinematic effects in the graphics, sound and cut scenes.\r\n\r\nA CAPTIVATING ADVENTURE\r\nThe actor plays the part of Lester Knight Chaykin, a young physics researcher. While he is right in the middle of doing experiments, his laboratory is struck by lighting and completely destroyed, hurling him into another world, a world populated by humanoid creatures, where danger can spring at any moment.\r\n\r\nYou must escape from this strange civilization. You will nonetheless meet a companion who will soon become your ally and help you in this merciless fight!\r\n\r\n20th ANNIVERSARY EDITION SPECIALLY THOUGHT OUT FOR OUYA\r\n- 3 difficulty modes: Normal (easier than the original), Hard (similar to the original) and Hardcore (harder than the original)\r\n- Sound and sound effects are 100% remastered\r\n- 5 languages available (English, French, Italian, German, Spanish)\r\n\r\nMore information on:\r\nanotherworld.fr\r\nfacebook.com/another.world.official\r\nfacebook.com/dotemu \r\ntwitter.com/dotemu\r\nyoutube.com/dotemu\r\n",
     "players": [
         1
     ],
@@ -22,42 +22,33 @@
             "nativeSize": 3428800
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/discover",
-        "video": "https://vimeo.com/87631348",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.dotemu.anotherworld_1.1.9/L3XGEpktQI2bDW307Hpi.jpg",
-            "https://archive.org/download/ouya_com.dotemu.anotherworld_1.1.9/yaNJmfKeRgmZ1irBAW3y.jpg",
-            "https://archive.org/download/ouya_com.dotemu.anotherworld_1.1.9/I1oBnrHvRZelxCaXTxVR.jpg",
-            "https://archive.org/download/ouya_com.dotemu.anotherworld_1.1.9/MwU30cC8RJOnVJIKEqBr.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/87631348"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87631348"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.anotherworld/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
         "name": "DotEmu SAS",

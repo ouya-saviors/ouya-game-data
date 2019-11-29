@@ -1,7 +1,7 @@
 {
     "packageName": "com.cogworksmayhem.WildcardStudios",
     "title": "CogWorks - Mayhem",
-    "description": "Title: CogWorks \u2013 Mayhem\nPlayers: 4\nSingle Player : Yes\nMultiplayer : Yes\nOnline: No\nControl Type: Gamepads \nOnline: No\nDRM: Ticket saves to OUYA\nRazer Compatible: TBA\nDescription:\nCogWorks is a game where the players are put into various arenas with a lot of hazards must survive by being the last man standing. There are 4 goalie points which belong to the player. Red, Green, Blue, Yellow.\n\nThe player must grab the Goal Diamond and take it back to their respective goal to increase their timer. If the player wants they could take it to an opposing goal and decrease that players time.  As the timer runs down. The belt changes color to indicate the state of charge the bomb is in.  if it reaches 0 the bomb explodes.\nThe last player standing wins the match.  \n\nDeveloper Notes:  \nHey there!  While it has taken us a few months to nail everything together there may be some bugs. if you do encounter some bugs please head on over to our website at (www.wildcardstudios.org) and goto the contact us section and goto the bugs section.  \n\nAll of the funds generated will go towards patches and new materials for the game. There is a lot we wanted to add but funds ran short. Support us and purchase CogWorks - Mayhem..",
+    "description": "Title: CogWorks – Mayhem\nPlayers: 4\nSingle Player : Yes\nMultiplayer : Yes\nOnline: No\nControl Type: Gamepads \nOnline: No\nDRM: Ticket saves to OUYA\nRazer Compatible: TBA\nDescription:\nCogWorks is a game where the players are put into various arenas with a lot of hazards must survive by being the last man standing. There are 4 goalie points which belong to the player. Red, Green, Blue, Yellow.\n\nThe player must grab the Goal Diamond and take it back to their respective goal to increase their timer. If the player wants they could take it to an opposing goal and decrease that players time.  As the timer runs down. The belt changes color to indicate the state of charge the bomb is in.  if it reaches 0 the bomb explodes.\nThe last player standing wins the match.  \n\nDeveloper Notes:  \nHey there!  While it has taken us a few months to nail everything together there may be some bugs. if you do encounter some bugs please head on over to our website at (www.wildcardstudios.org) and goto the contact us section and goto the bugs section.  \n\nAll of the funds generated will go towards patches and new materials for the game. There is a lot we wanted to add but funds ran short. Support us and purchase CogWorks - Mayhem..",
     "players": [
         1,
         2,
@@ -25,176 +25,144 @@
             "nativeSize": 15038828
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-11",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-12",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-13",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-14",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-15",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-16",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-17",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-18",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-19",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-20",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-21",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-22",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-23",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-24",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-25",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-26",
-            "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/screenshot-27"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-11-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-12",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-12-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-13",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-13-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-14",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-14-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-15",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-15-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-16",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-16-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-17",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-17-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-18",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-18-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-19",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-19-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-20",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-20-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-21",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-21-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-22",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-22-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-23",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-23-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-24",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-24-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-25",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-25-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-26",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-26-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-27",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-27-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-11-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-12",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-12-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-13",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-13-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-14",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-14-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-15",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-15-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-16",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-16-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-17",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-17-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-18",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-18-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-19",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-19-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-20",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-20-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-21",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-21-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-22",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-22-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-23",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-23-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-24",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-24-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-25",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-25-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-26",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-26-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-27",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cogworksmayhem.WildcardStudios/detail-27-thumb"
+        }
+    ],
     "developer": {
         "uuid": "cad7eedd-517c-4e74-b99a-a93c81d5af2b",
         "name": "Wildcard Studios Gaming Division",

@@ -23,66 +23,53 @@
             "nativeSize": 15035568
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/discover",
-        "video": "https://vimeo.com/116287309",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/usfR2rmbReeBPJ0uulk0.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/t6OtK4UdT1C8RcWYbqyL.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/Up0d1EQ4iXDPZJ7OiiIA.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/YRF3lrkT3OzjqufPADBn.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/iHf4fnViSIs6t111xOC2.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/rWROaPt3QoODpR7ym9H3.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/6m1elflWSGyRgNfdSYMk.jpg",
-            "https://archive.org/download/ouya_com.Cerberus.DeltaStrikeFree_3.6/lI6dUuLBRcqTzJkLrv1Y.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/116287309"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/116287309"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Cerberus.DeltaStrikeFree/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Cerberus",

@@ -23,60 +23,48 @@
             "nativeSize": 22159216
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/discover",
-        "video": "https://vimeo.com/89251481",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/89251481"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/89251481"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.CloudMacaca.BulletWaltz/screenshot-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Rocky Hong",

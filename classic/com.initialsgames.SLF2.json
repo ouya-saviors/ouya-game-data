@@ -23,102 +23,83 @@
             "nativeSize": 2924816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/discover",
-        "video": "https://vimeo.com/95478269",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-11",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-12",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-13",
-            "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-14"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/95478269"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-4"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-5"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-6"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-7"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-8"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-9"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-10"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-11"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-12",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-12"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-13",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-13"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-14",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-14"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/95478269"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-5"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-6"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-7"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-8"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-9"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-10"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-11"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-12",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-12"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-13",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-13"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-14",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.SLF2/screenshot-14"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Initials",

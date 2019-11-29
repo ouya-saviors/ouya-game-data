@@ -23,42 +23,33 @@
             "nativeSize": 2027144
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/discover",
-        "video": "https://vimeo.com/113197276",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ratalaika.submarinewars_1.0.0/FLQmwzorRQicqm4ckzH1.jpg",
-            "https://archive.org/download/ouya_com.ratalaika.submarinewars_1.0.0/MpYlOs3WT3KXzVwO25Lw.jpg",
-            "https://archive.org/download/ouya_com.ratalaika.submarinewars_1.0.0/qJYZAvZlQvOKU24QifeG.jpg",
-            "https://archive.org/download/ouya_com.ratalaika.submarinewars_1.0.0/bivugExJTy6jStxTNIZg.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/113197276"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/113197276"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ratalaika.submarinewars/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "3d2464b2-45c9-455a-8d0e-654ec87c74b0",
         "name": "Ratalaika Games",

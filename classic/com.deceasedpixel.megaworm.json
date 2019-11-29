@@ -23,44 +23,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.deceasedpixel.megaworm/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/FUP8mO6wSXOubW1GTAiC.jpg",
-            "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/2yOnW3VkROKuHzez309H.jpg",
-            "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/V93lWSF9TCCdAHtyxdCm.jpg",
-            "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/zdyJ6N9rTWCeM0zcVWEI.jpg",
-            "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/ZTYXWqfiTji9LRaKwAL6.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/FUP8mO6wSXOubW1GTAiC.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/FUP8mO6wSXOubW1GTAiC_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/2yOnW3VkROKuHzez309H.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/2yOnW3VkROKuHzez309H_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/V93lWSF9TCCdAHtyxdCm.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/V93lWSF9TCCdAHtyxdCm_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/zdyJ6N9rTWCeM0zcVWEI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/zdyJ6N9rTWCeM0zcVWEI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/ZTYXWqfiTji9LRaKwAL6.jpg",
-                "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/ZTYXWqfiTji9LRaKwAL6_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.deceasedpixel.megaworm/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/FUP8mO6wSXOubW1GTAiC.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/FUP8mO6wSXOubW1GTAiC_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/2yOnW3VkROKuHzez309H.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/2yOnW3VkROKuHzez309H_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/V93lWSF9TCCdAHtyxdCm.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/V93lWSF9TCCdAHtyxdCm_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/zdyJ6N9rTWCeM0zcVWEI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/zdyJ6N9rTWCeM0zcVWEI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/ZTYXWqfiTji9LRaKwAL6.jpg",
+            "thumb": "https://archive.org/download/ouya_com.deceasedpixel.megaworm_1.0.8/ZTYXWqfiTji9LRaKwAL6_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Deceased Pixel",

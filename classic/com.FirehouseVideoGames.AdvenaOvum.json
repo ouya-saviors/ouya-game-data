@@ -23,44 +23,34 @@
             "nativeSize": 7816532
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.FirehouseVideoGames.AdvenaOvum/discover",
-        "video": null,
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/pUuH1XATlWLeASKTadhg",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/WuweVVERLefEgN6BMDoA",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/KxNpr7zaQJWYgF05O2hp",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/1IYX2QiLRvCqQtW22RXZ",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/RL9XcaPtSeyE2WlGcAaI"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/pUuH1XATlWLeASKTadhg",
-                "thumb": "https://www.filepicker.io/api/file/pUuH1XATlWLeASKTadhg/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/WuweVVERLefEgN6BMDoA",
-                "thumb": "https://www.filepicker.io/api/file/WuweVVERLefEgN6BMDoA/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/KxNpr7zaQJWYgF05O2hp",
-                "thumb": "https://www.filepicker.io/api/file/KxNpr7zaQJWYgF05O2hp/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/1IYX2QiLRvCqQtW22RXZ",
-                "thumb": "https://www.filepicker.io/api/file/1IYX2QiLRvCqQtW22RXZ/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/RL9XcaPtSeyE2WlGcAaI",
-                "thumb": "https://www.filepicker.io/api/file/RL9XcaPtSeyE2WlGcAaI/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.FirehouseVideoGames.AdvenaOvum/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/pUuH1XATlWLeASKTadhg",
+            "thumb": "https://www.filepicker.io/api/file/pUuH1XATlWLeASKTadhg/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/WuweVVERLefEgN6BMDoA",
+            "thumb": "https://www.filepicker.io/api/file/WuweVVERLefEgN6BMDoA/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/KxNpr7zaQJWYgF05O2hp",
+            "thumb": "https://www.filepicker.io/api/file/KxNpr7zaQJWYgF05O2hp/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/1IYX2QiLRvCqQtW22RXZ",
+            "thumb": "https://www.filepicker.io/api/file/1IYX2QiLRvCqQtW22RXZ/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/RL9XcaPtSeyE2WlGcAaI",
+            "thumb": "https://www.filepicker.io/api/file/RL9XcaPtSeyE2WlGcAaI/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Firehouse Video Games",

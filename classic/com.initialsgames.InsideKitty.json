@@ -22,42 +22,33 @@
             "nativeSize": 3025284
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/discover",
-        "video": "https://vimeo.com/114117580",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.initialsgames.InsideKitty_3/Zv1LOmEjQWezECjGKg7i.jpg",
-            "https://archive.org/download/ouya_com.initialsgames.InsideKitty_3/0JToBblQRimea8NJViwd.jpg",
-            "https://archive.org/download/ouya_com.initialsgames.InsideKitty_3/xxoT4sN7RKWLDEHm4Xgy.jpg",
-            "https://archive.org/download/ouya_com.initialsgames.InsideKitty_3/niq4kBvkS629j5qdFsps.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/114117580"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/114117580"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.initialsgames.InsideKitty/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Initials",

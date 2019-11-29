@@ -1,7 +1,7 @@
 {
     "packageName": "com.schleinzer.NaturalSoccer",
     "title": "Natural Soccer: OUYA Edition",
-    "description": "Natural Soccer is a highly playable and fun arcade soccer game.\r\n\r\nInspired by 90's classics like \"Kick Off\" and \"Sensible Soccer\", it brings that unrivaled playability and pure joy to your OUYA\u2122!\r\n\r\n=== FEATURES ===\r\n\r\n\u2605 Highly playable\r\n\u2605 Credible and fun ball physics\r\n\u2605 Full and direct control of the ball, including \"Aftertouch\"\r\n\u2605 Smooth graphics (60fps)\r\n\u2605 Simple controls - easy to learn, hard to master\r\n\u2605 Over 200 teams with more than 2.200 individual, carefully crafted players\r\n\u2605 League mode\r\n\r\nWHAT'S NEW:\r\n\r\nWay to much to list here :-) But these are the most important improvements:\r\n\r\n\u2605 League Mode\r\n\u2605 Whole new menu system\r\n\u2605 200 teams with over 2.200 players\r\n\u2605 Various gameplay improvements\r\n\u2605 Individual skin colors\r\n\u2605 Many, many more",
+    "description": "Natural Soccer is a highly playable and fun arcade soccer game.\r\n\r\nInspired by 90's classics like \"Kick Off\" and \"Sensible Soccer\", it brings that unrivaled playability and pure joy to your OUYA™!\r\n\r\n=== FEATURES ===\r\n\r\n★ Highly playable\r\n★ Credible and fun ball physics\r\n★ Full and direct control of the ball, including \"Aftertouch\"\r\n★ Smooth graphics (60fps)\r\n★ Simple controls - easy to learn, hard to master\r\n★ Over 200 teams with more than 2.200 individual, carefully crafted players\r\n★ League mode\r\n\r\nWHAT'S NEW:\r\n\r\nWay to much to list here :-) But these are the most important improvements:\r\n\r\n★ League Mode\r\n★ Whole new menu system\r\n★ 200 teams with over 2.200 players\r\n★ Various gameplay improvements\r\n★ Individual skin colors\r\n★ Many, many more",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 797158
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.schleinzer.NaturalSoccer/discover",
-        "video": "https://vimeo.com/77806321",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/A2B8FhZkTAxFpsHwfVkw.jpg",
-            "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/bVL8h1RNQue32aNWA3JK.jpg",
-            "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/5q8HuQSubMqlnrOWAAQB.jpg",
-            "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/duwxop93TYsLECaruKu8.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/77806321"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/A2B8FhZkTAxFpsHwfVkw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/A2B8FhZkTAxFpsHwfVkw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/bVL8h1RNQue32aNWA3JK.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/bVL8h1RNQue32aNWA3JK_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/5q8HuQSubMqlnrOWAAQB.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/5q8HuQSubMqlnrOWAAQB_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/duwxop93TYsLECaruKu8.jpg",
-                "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/duwxop93TYsLECaruKu8_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.schleinzer.NaturalSoccer/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/77806321"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/A2B8FhZkTAxFpsHwfVkw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/A2B8FhZkTAxFpsHwfVkw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/bVL8h1RNQue32aNWA3JK.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/bVL8h1RNQue32aNWA3JK_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/5q8HuQSubMqlnrOWAAQB.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/5q8HuQSubMqlnrOWAAQB_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/duwxop93TYsLECaruKu8.jpg",
+            "thumb": "https://archive.org/download/ouya_com.schleinzer.NaturalSoccer_1.2.1/duwxop93TYsLECaruKu8_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "www.schleinzer.com",

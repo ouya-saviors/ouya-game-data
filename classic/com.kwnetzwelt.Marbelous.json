@@ -22,60 +22,48 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/discover",
-        "video": "https://vimeo.com/80252055",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/80252055"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/80252055"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kwnetzwelt.Marbelous/screenshot-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Alluring Elements",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.ludosity.ittledew",
     "title": "Ittle Dew",
-    "description": "Adventuress Ittle Dew and her sidekick Tippsie crash onto a strange island, filled with loot and mysterious inhabitants. It quickly dawns on the duo that this might become their biggest adventure yet. \r\n\r\nIttle Dew boils down the classic adventure formula until there is only fun left. Experience devious puzzles, timeless gameplay and lots of exploration! \r\n- Lots of secrets and shortcuts to explore \r\n- Combine your tools in ingenious ways \r\n- Beautiful hand-drawn HD wobble graphics \r\n\r\n\u201cPrettier than a billionty pictures\u201d \r\nRock Paper Shotgun \r\n\r\n\u201cBright, colorful, and ingeniously irreverent, with a skip in its step and an endearing twinkle in its eye\u201d \r\n86 \u2013 Indie Game Magazine ",
+    "description": "Adventuress Ittle Dew and her sidekick Tippsie crash onto a strange island, filled with loot and mysterious inhabitants. It quickly dawns on the duo that this might become their biggest adventure yet. \r\n\r\nIttle Dew boils down the classic adventure formula until there is only fun left. Experience devious puzzles, timeless gameplay and lots of exploration! \r\n- Lots of secrets and shortcuts to explore \r\n- Combine your tools in ingenious ways \r\n- Beautiful hand-drawn HD wobble graphics \r\n\r\n“Prettier than a billionty pictures” \r\nRock Paper Shotgun \r\n\r\n“Bright, colorful, and ingeniously irreverent, with a skip in its step and an endearing twinkle in its eye” \r\n86 – Indie Game Magazine ",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ludosity.ittledew/discover",
-        "video": "https://vimeo.com/85229512",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/13nJjM8iQTaMRDImDnZg.jpg",
-            "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/3mvOxSfbRWSSkvKAcKVe.jpg",
-            "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/zIjrUFZYQiCiIhlQVPwe.jpg",
-            "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/FdoogPaQw2R5gsj9LHwN.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/85229512"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/13nJjM8iQTaMRDImDnZg.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/13nJjM8iQTaMRDImDnZg_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/3mvOxSfbRWSSkvKAcKVe.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/3mvOxSfbRWSSkvKAcKVe_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/zIjrUFZYQiCiIhlQVPwe.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/zIjrUFZYQiCiIhlQVPwe_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/FdoogPaQw2R5gsj9LHwN.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/FdoogPaQw2R5gsj9LHwN_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ludosity.ittledew/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/85229512"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/13nJjM8iQTaMRDImDnZg.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/13nJjM8iQTaMRDImDnZg_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/3mvOxSfbRWSSkvKAcKVe.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/3mvOxSfbRWSSkvKAcKVe_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/zIjrUFZYQiCiIhlQVPwe.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/zIjrUFZYQiCiIhlQVPwe_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/FdoogPaQw2R5gsj9LHwN.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/FdoogPaQw2R5gsj9LHwN_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": "8373e229-4377-4912-b4cb-a023107b1274",
         "name": "Ludosity",

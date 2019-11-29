@@ -1,7 +1,7 @@
 {
     "packageName": "com.binaryzoo.echoes_plus",
     "title": "Echoes",
-    "description": "Destroy the Universe in a rainbow of sugar rush colours, viewed through psychedelic sunglasses in a cheap 80\u2019s nightclub.\r\nTRANSLATION: A fun, chaotic twin-stick shoot-em-up with 6 game modes, 4 difficulty settings, 24 online high score tables, 100 trials, multiple power-ups and weapons. And it\u2019s not terrible (You might even like it!)",
+    "description": "Destroy the Universe in a rainbow of sugar rush colours, viewed through psychedelic sunglasses in a cheap 80’s nightclub.\r\nTRANSLATION: A fun, chaotic twin-stick shoot-em-up with 6 game modes, 4 difficulty settings, 24 online high score tables, 100 trials, multiple power-ups and weapons. And it’s not terrible (You might even like it!)",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 9905700
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/discover",
-        "video": "https://vimeo.com/123159782",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/123159782"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/123159782"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.binaryzoo.echoes_plus/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "68fe7094-703c-41e6-9d2d-1f15d5c354b6",
         "name": "Binary Zoo",

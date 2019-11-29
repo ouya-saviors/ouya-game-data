@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1",
-            "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2",
-            "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/net.tmtg.xycannon/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "f2ab665e-217f-41fc-98d6-bbdaa6ced57c",
         "name": "Boris van Schooten",

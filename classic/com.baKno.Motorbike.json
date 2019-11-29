@@ -23,48 +23,38 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.baKno.Motorbike/discover",
-        "video": "https://vimeo.com/77825075",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/DpdswhV0QeexJClyeDXY.jpg",
-            "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/H8yuNjKhRReUZFxx8swU.jpg",
-            "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/Ba3Lle3SfSv5JxJ15Dcw.jpg",
-            "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/zRnEUS6QwirffalpgLM8.jpg",
-            "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/wYFihxqKTkKSpxbp7WbG.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/77825075"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/DpdswhV0QeexJClyeDXY.jpg",
-                "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/DpdswhV0QeexJClyeDXY_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/H8yuNjKhRReUZFxx8swU.jpg",
-                "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/H8yuNjKhRReUZFxx8swU_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/Ba3Lle3SfSv5JxJ15Dcw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/Ba3Lle3SfSv5JxJ15Dcw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/zRnEUS6QwirffalpgLM8.jpg",
-                "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/zRnEUS6QwirffalpgLM8_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/wYFihxqKTkKSpxbp7WbG.jpg",
-                "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/wYFihxqKTkKSpxbp7WbG_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.baKno.Motorbike/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/77825075"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/DpdswhV0QeexJClyeDXY.jpg",
+            "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/DpdswhV0QeexJClyeDXY_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/H8yuNjKhRReUZFxx8swU.jpg",
+            "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/H8yuNjKhRReUZFxx8swU_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/Ba3Lle3SfSv5JxJ15Dcw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/Ba3Lle3SfSv5JxJ15Dcw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/zRnEUS6QwirffalpgLM8.jpg",
+            "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/zRnEUS6QwirffalpgLM8_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/wYFihxqKTkKSpxbp7WbG.jpg",
+            "thumb": "https://archive.org/download/ouya_com.baKno.Motorbike_5.5.0/wYFihxqKTkKSpxbp7WbG_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "baKno Games",

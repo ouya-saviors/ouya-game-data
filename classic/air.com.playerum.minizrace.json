@@ -1,7 +1,7 @@
 {
     "packageName": "air.com.playerum.minizrace",
     "title": "MiniZ Racers",
-    "description": "Engage in a fantastic minirace in unexpected places. Choose your favorite ZRacer and fight your way trough 16 tracks in 4 awesome worlds. Grab ZBags, unleash power-ups on your foes and earn Zcoins to improve your racer with several new equipments! Master 3 different game modes and difficulties levels to discover the full history of each racer.\r\n\r\n-\tDeal with Meatballs!\r\n-\tScape from dirty rats!\r\n-\tSlide trough wet marble!\r\n-\tFight giant AntZ!\r\n-\tMuch more! \r\n\r\nFEATURES:\r\n-\tClassic top down gameplay blending micromachines and mario kart!\r\n-\tIntuitive Gameplay\r\n-\tOnline time trial system\r\n-\t16 creative tracks\r\n-\t10 awesome ZDrivers with history and individual endings\r\n-\t13 unique powerups!\r\n-\t18 items to improve your Zkart!\r\n-\t10 Trophies\r\n\r\n*did you had any trouble? write for contato@playerum.com.br and we will try to help! don\u00b4t forget to write \"mini z\" on the subject.",
+    "description": "Engage in a fantastic minirace in unexpected places. Choose your favorite ZRacer and fight your way trough 16 tracks in 4 awesome worlds. Grab ZBags, unleash power-ups on your foes and earn Zcoins to improve your racer with several new equipments! Master 3 different game modes and difficulties levels to discover the full history of each racer.\r\n\r\n-\tDeal with Meatballs!\r\n-\tScape from dirty rats!\r\n-\tSlide trough wet marble!\r\n-\tFight giant AntZ!\r\n-\tMuch more! \r\n\r\nFEATURES:\r\n-\tClassic top down gameplay blending micromachines and mario kart!\r\n-\tIntuitive Gameplay\r\n-\tOnline time trial system\r\n-\t16 creative tracks\r\n-\t10 awesome ZDrivers with history and individual endings\r\n-\t13 unique powerups!\r\n-\t18 items to improve your Zkart!\r\n-\t10 Trophies\r\n\r\n*did you had any trouble? write for contato@playerum.com.br and we will try to help! don´t forget to write \"mini z\" on the subject.",
     "players": [
         1
     ],
@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-1",
-            "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-2",
-            "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-3",
-            "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-4",
-            "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.playerum.minizrace/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "PlayerUm",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.kankibros.multispace",
     "title": "Multispace",
-    "description": "Multispace takes the 90s cave-multiplayer-dogfight-shooter genre to... caves of 2013, outer space, and even further! Contains a level editor, and a random level generator. Network and local (split screen) multiplay.\r\n\r\nNOTE! Currently connection can be only established between iOS, Android and Ouya devices that have the same version of the game installed.\r\n\r\nWHAT'S NEW in v1.0.7:\r\n\r\n* Added OVERSCAN to Settings screen for people who play on TV\r\n* One cannot collide with a base flagpole any longer\r\n* Misc GUI improvements\r\n* Positioned clear camera in local 3P mode so that it doesn\u2019t show the playfield\r\n* No damage when colliding with a base\r\n* Gravity doesn\u2019t affect physics object mines\r\n* Background stars work now better in local 2-4P modes\r\n* Optimized background rendering\r\n* Added support for longer hostnames in direct connection dialog\r\n* Added AI players\r\n* An AI player can automatically host matches, too\r\n* Added IsStatic-property to physics objects, and made some\r\n",
+    "description": "Multispace takes the 90s cave-multiplayer-dogfight-shooter genre to... caves of 2013, outer space, and even further! Contains a level editor, and a random level generator. Network and local (split screen) multiplay.\r\n\r\nNOTE! Currently connection can be only established between iOS, Android and Ouya devices that have the same version of the game installed.\r\n\r\nWHAT'S NEW in v1.0.7:\r\n\r\n* Added OVERSCAN to Settings screen for people who play on TV\r\n* One cannot collide with a base flagpole any longer\r\n* Misc GUI improvements\r\n* Positioned clear camera in local 3P mode so that it doesn’t show the playfield\r\n* No damage when colliding with a base\r\n* Gravity doesn’t affect physics object mines\r\n* Background stars work now better in local 2-4P modes\r\n* Optimized background rendering\r\n* Added support for longer hostnames in direct connection dialog\r\n* Added AI players\r\n* An AI player can automatically host matches, too\r\n* Added IsStatic-property to physics objects, and made some\r\n",
     "players": [
         1
     ],
@@ -23,50 +23,39 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.kankibros.multispace/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/0fizlVCTRpuxgaJK2YRs.jpg",
-            "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/IxBJ75BgQvWYQPpf7KBT.jpg",
-            "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/evXvW9m5TnKuIYlhrSWW.jpg",
-            "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/HvzT9zSrylKDUWxP1eAD.jpg",
-            "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/nbCbQjrQIK2KW6X7vdwL.jpg",
-            "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/fioOfaNSTl6ClPXVz3Eu.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/0fizlVCTRpuxgaJK2YRs.jpg",
-                "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/0fizlVCTRpuxgaJK2YRs_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/IxBJ75BgQvWYQPpf7KBT.jpg",
-                "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/IxBJ75BgQvWYQPpf7KBT_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/evXvW9m5TnKuIYlhrSWW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/evXvW9m5TnKuIYlhrSWW_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/HvzT9zSrylKDUWxP1eAD.jpg",
-                "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/HvzT9zSrylKDUWxP1eAD_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/nbCbQjrQIK2KW6X7vdwL.jpg",
-                "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/nbCbQjrQIK2KW6X7vdwL_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/fioOfaNSTl6ClPXVz3Eu.jpg",
-                "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/fioOfaNSTl6ClPXVz3Eu_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.kankibros.multispace/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/0fizlVCTRpuxgaJK2YRs.jpg",
+            "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/0fizlVCTRpuxgaJK2YRs_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/IxBJ75BgQvWYQPpf7KBT.jpg",
+            "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/IxBJ75BgQvWYQPpf7KBT_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/evXvW9m5TnKuIYlhrSWW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/evXvW9m5TnKuIYlhrSWW_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/HvzT9zSrylKDUWxP1eAD.jpg",
+            "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/HvzT9zSrylKDUWxP1eAD_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/nbCbQjrQIK2KW6X7vdwL.jpg",
+            "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/nbCbQjrQIK2KW6X7vdwL_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/fioOfaNSTl6ClPXVz3Eu.jpg",
+            "thumb": "https://archive.org/download/ouya_com.kankibros.multispace_1.0.7/fioOfaNSTl6ClPXVz3Eu_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Kanki Bros",

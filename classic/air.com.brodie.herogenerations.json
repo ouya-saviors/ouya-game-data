@@ -22,48 +22,38 @@
             "nativeSize": 22992407
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/discover",
-        "video": "https://vimeo.com/121749022",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/screenshot-1",
-            "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/screenshot-2",
-            "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/screenshot-3",
-            "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/screenshot-4",
-            "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/121749022"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/121749022"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/air.com.brodie.herogenerations/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Heart Shaped Games LLC",

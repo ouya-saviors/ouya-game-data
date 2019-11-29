@@ -22,54 +22,43 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/art.var.pgo/discover",
-        "video": "https://vimeo.com/89464619",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-1",
-            "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-2",
-            "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-3",
-            "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-4",
-            "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-5",
-            "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/89464619"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/art.var.pgo/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/89464619"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/art.var.pgo/screenshot-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "VAR",

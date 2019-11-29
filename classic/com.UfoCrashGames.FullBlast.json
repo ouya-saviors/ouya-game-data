@@ -24,60 +24,48 @@
             "nativeSize": 14993772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/discover",
-        "video": "http://vimeo.com/113857243",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/113857243"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/113857243"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.UfoCrashGames.FullBlast/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": "68322107-e8e0-4476-85c7-cfeea5338560",
         "name": "Ufo Crash Games",

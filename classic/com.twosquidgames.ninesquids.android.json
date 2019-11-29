@@ -24,38 +24,29 @@
             "nativeSize": 489880
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.twosquidgames.ninesquids.android_1.3.1/qEmhlZY7SLenteR58vhi.jpg",
-            "https://archive.org/download/ouya_com.twosquidgames.ninesquids.android_1.3.1/xnqTny8wT0KiCPzvZySI.jpg",
-            "https://archive.org/download/ouya_com.twosquidgames.ninesquids.android_1.3.1/ASnmRIKwSajDOZqU6Pio.jpg",
-            "https://archive.org/download/ouya_com.twosquidgames.ninesquids.android_1.3.1/TbTprIqKQ5iAybp7vwi5.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Two Squid Games",

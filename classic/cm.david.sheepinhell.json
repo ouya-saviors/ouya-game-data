@@ -1,7 +1,7 @@
 {
     "packageName": "cm.david.sheepinhell",
     "title": "Sheep in Hell",
-    "description": "You\u2019re a wolf and you\u2019ve been bad. That\u2019s why you\u2019ve been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they\u2019re not normal sheep. No\u2026 They\u2019re possessed demonic sheep and won\u2019t hesitate to try to kill you!\r\n\r\nSo run! Defend yourself! Because, after all, a wolf is by nature a predator, not a prey.\r\n\r\nBreak through the dungeons, solve challenges and escape this hell\u2026 If you can!",
+    "description": "You’re a wolf and you’ve been bad. That’s why you’ve been put in the deepness of a hell plagued with your most hated enemies: the sheep! But they’re not normal sheep. No… They’re possessed demonic sheep and won’t hesitate to try to kill you!\r\n\r\nSo run! Defend yourself! Because, after all, a wolf is by nature a predator, not a prey.\r\n\r\nBreak through the dungeons, solve challenges and escape this hell… If you can!",
     "players": [
         1
     ],
@@ -21,42 +21,33 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/discover",
-        "video": "https://vimeo.com/93862922",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/screenshot-1",
-            "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/screenshot-2",
-            "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/screenshot-3",
-            "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/93862922"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/93862922"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/cm.david.sheepinhell/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "david.cm",
@@ -80,7 +71,7 @@
             "promoted": true,
             "identifier": "sheepinhell",
             "name": "Sheep in Hell",
-            "description": "You\u2019re a wolf and you\u2019ve been put in the deepness of a hell plagued with your most hated enemies: the sheep!",
+            "description": "You’re a wolf and you’ve been put in the deepness of a hell plagued with your most hated enemies: the sheep!",
             "localPrice": 0.99,
             "originalPrice": 0.99,
             "currency": "USD"

@@ -1,7 +1,7 @@
 {
     "packageName": "com.mocbjsoftware.ruin",
     "title": "Macabre",
-    "description": "Macabre is a post-apocalyptic, old-school JRPG in a medieval setting. It also features some modern mechanics, such as in-game achievements, crafting, and a unique random encounter system. \r\n\r\nFeatures:\r\n\r\n-Classic JRPG gameplay.\r\n-A refreshing take on the random battle system that rewards grinding, or allows you to skip fighting altogether.\r\n-Over a dozen side quests, many of which utilize a \u201cfast travel\u201d turn-in system.\r\n-Over 40 in-game achievements.\r\n-A simple, but tiered crafting system with over 100 craftable items.\r\n-Some customizable stat growth via the augment system.\r\n-Semi-randomized loot that encourages exploration.",
+    "description": "Macabre is a post-apocalyptic, old-school JRPG in a medieval setting. It also features some modern mechanics, such as in-game achievements, crafting, and a unique random encounter system. \r\n\r\nFeatures:\r\n\r\n-Classic JRPG gameplay.\r\n-A refreshing take on the random battle system that rewards grinding, or allows you to skip fighting altogether.\r\n-Over a dozen side quests, many of which utilize a “fast travel” turn-in system.\r\n-Over 40 in-game achievements.\r\n-A simple, but tiered crafting system with over 100 craftable items.\r\n-Some customizable stat growth via the augment system.\r\n-Semi-randomized loot that encourages exploration.",
     "players": [
         1
     ],
@@ -21,36 +21,28 @@
             "nativeSize": 2593568
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/discover",
-        "video": "https://vimeo.com/133359206",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/133359206"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/133359206"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.mocbjsoftware.ruin/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "fb374ba0-185c-4972-979b-23701055c3a0",
         "name": "MOCBJ Software",

@@ -22,38 +22,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/org.leoche.slimeball/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe.jpg",
-            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa.jpg",
-            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g.jpg",
-            "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe.jpg",
-                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa.jpg",
-                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g.jpg",
-                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt.jpg",
-                "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/org.leoche.slimeball/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe.jpg",
+            "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/P4UoCbZ9QrWiRN3nsMQe_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa.jpg",
+            "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/hRpBtXuxRTK5ASvUzrUa_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g.jpg",
+            "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/pTQ44A6TmeXorqrwuz2g_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt.jpg",
+            "thumb": "https://archive.org/download/ouya_org.leoche.slimeball_0.1/0wzt6YmjT8O7RPke7Rdt_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Leoche",

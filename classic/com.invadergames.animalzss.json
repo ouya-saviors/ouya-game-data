@@ -23,54 +23,43 @@
             "nativeSize": 4010768
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/discover",
-        "video": "https://vimeo.com/90683146",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/90683146"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/90683146"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.invadergames.animalzss/screenshot-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Manuel Etchegaray",

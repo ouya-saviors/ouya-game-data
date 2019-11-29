@@ -1,7 +1,7 @@
 {
     "packageName": "com.BitBanditsGames.URA",
     "title": "Ultimate Reindeer Adventure",
-    "description": "Christmas is approaching. Nature is covered with snow and you can even feel the pleasant scent of the pine trees. But one of Santa\u2019s reindeers fell into a deep and icy hollow. After a busy workday, give yourself a moment and get in the mood for Christmas. Help the desperate animal to find its way back to its master. Use Santa\u2019s presents but beware of the naughty goblin\u2019s bombs.",
+    "description": "Christmas is approaching. Nature is covered with snow and you can even feel the pleasant scent of the pine trees. But one of Santa’s reindeers fell into a deep and icy hollow. After a busy workday, give yourself a moment and get in the mood for Christmas. Help the desperate animal to find its way back to its master. Use Santa’s presents but beware of the naughty goblin’s bombs.",
     "players": [
         1
     ],
@@ -24,36 +24,28 @@
             "nativeSize": 15035568
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/discover",
-        "video": "https://vimeo.com/114882675",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/114882675"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/114882675"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.BitBanditsGames.URA/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "dd44fb40-147b-4c53-970e-b5b8f1a10b93",
         "name": "Bit Bandits Games",

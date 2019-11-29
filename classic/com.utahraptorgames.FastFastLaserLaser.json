@@ -1,7 +1,7 @@
 {
     "packageName": "com.utahraptorgames.FastFastLaserLaser",
     "title": "FAST FAST LASER LASER",
-    "description": "\"Harder than Dark Souls meets Super Meat Boy... this game is good.\" - Gamespot.com\r\n\r\nDodge incoming lasers, reflect projectiles with your off-brand laser sword, and test your reflexes against opponents in high-speed one-on-one duels.\r\n\r\nIf you don\u2019t have friends, no worries! Losers like you can fill out matches with deadly AI opponents.\r\n\r\n*Supports Xbox 360 and PS3 Controllers*\r\n\r\nEmail us at mail@utahraptorgames.com for feedback or suggestions for updates. We're listening!",
+    "description": "\"Harder than Dark Souls meets Super Meat Boy... this game is good.\" - Gamespot.com\r\n\r\nDodge incoming lasers, reflect projectiles with your off-brand laser sword, and test your reflexes against opponents in high-speed one-on-one duels.\r\n\r\nIf you don’t have friends, no worries! Losers like you can fill out matches with deadly AI opponents.\r\n\r\n*Supports Xbox 360 and PS3 Controllers*\r\n\r\nEmail us at mail@utahraptorgames.com for feedback or suggestions for updates. We're listening!",
     "players": [
         1
     ],
@@ -22,48 +22,38 @@
             "nativeSize": 2817576
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.utahraptorgames.FastFastLaserLaser/discover",
-        "video": "https://vimeo.com/85280507",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/mFXRCJE1QRucqO6t0oMG.jpg",
-            "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/p9RgUzdlTXyOpZXNy6zQ.jpg",
-            "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/LYWbl3t1RHGKo0BFwjul.jpg",
-            "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/oBTmGlO1RLqEORxvlOYc.jpg",
-            "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/ikNFiGakR9WKxcaIjCiY.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/85280507"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/mFXRCJE1QRucqO6t0oMG.jpg",
-                "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/mFXRCJE1QRucqO6t0oMG_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/p9RgUzdlTXyOpZXNy6zQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/p9RgUzdlTXyOpZXNy6zQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/LYWbl3t1RHGKo0BFwjul.jpg",
-                "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/LYWbl3t1RHGKo0BFwjul_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/oBTmGlO1RLqEORxvlOYc.jpg",
-                "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/oBTmGlO1RLqEORxvlOYc_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/ikNFiGakR9WKxcaIjCiY.jpg",
-                "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/ikNFiGakR9WKxcaIjCiY_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.utahraptorgames.FastFastLaserLaser/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/85280507"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/mFXRCJE1QRucqO6t0oMG.jpg",
+            "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/mFXRCJE1QRucqO6t0oMG_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/p9RgUzdlTXyOpZXNy6zQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/p9RgUzdlTXyOpZXNy6zQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/LYWbl3t1RHGKo0BFwjul.jpg",
+            "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/LYWbl3t1RHGKo0BFwjul_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/oBTmGlO1RLqEORxvlOYc.jpg",
+            "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/oBTmGlO1RLqEORxvlOYc_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/ikNFiGakR9WKxcaIjCiY.jpg",
+            "thumb": "https://archive.org/download/ouya_com.utahraptorgames.FastFastLaserLaser_1.0/ikNFiGakR9WKxcaIjCiY_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Utah Raptor Games",

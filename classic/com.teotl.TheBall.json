@@ -1,7 +1,7 @@
 {
     "packageName": "com.teotl.TheBall",
     "title": "The Ball",
-    "description": "The Ball is a first person action-adventure game featuring a full single-player experience built on Epic\u2019s Unreal\u2122 Engine 3 technology. As a swashbuckling archaeologist working on the slopes of a dormant volcano somewhere in Mexico, you get stuck in a cavern. It doesn\u2019t take long before you realize this is more than just a cave. You reveal ancient ruins that have been hidden from outsiders for centuries and discover a mysterious artifact, a gold and metal shelled Ball. As you progress towards solving the mystery of this amazing place you must unlock the secrets of the Ball and learn to control this ancient artifact. Venturing deeper into the volcano, you reveal some of mankind\u2019s greatest secrets and you will start to encounter not just puzzles and traps, but also various strange creatures \u2013 the guardians of this mystery. These creatures have to be overcome, using only the Ball to defend you.",
+    "description": "The Ball is a first person action-adventure game featuring a full single-player experience built on Epic’s Unreal™ Engine 3 technology. As a swashbuckling archaeologist working on the slopes of a dormant volcano somewhere in Mexico, you get stuck in a cavern. It doesn’t take long before you realize this is more than just a cave. You reveal ancient ruins that have been hidden from outsiders for centuries and discover a mysterious artifact, a gold and metal shelled Ball. As you progress towards solving the mystery of this amazing place you must unlock the secrets of the Ball and learn to control this ancient artifact. Venturing deeper into the volcano, you reveal some of mankind’s greatest secrets and you will start to encounter not just puzzles and traps, but also various strange creatures – the guardians of this mystery. These creatures have to be overcome, using only the Ball to defend you.",
     "players": [
         1
     ],
@@ -22,36 +22,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/discover",
-        "video": "http://vimeo.com/90599412",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/90599412"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/90599412"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.teotl.TheBall/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Tripwire Interactive",

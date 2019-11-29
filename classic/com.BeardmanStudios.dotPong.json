@@ -23,60 +23,48 @@
             "nativeSize": 14685052
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.BeardmanStudios.dotPong/discover",
-        "video": "https://vimeo.com/83922681",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/R6Cda6s8QlmVLlIziwR1.jpg",
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/TrQ2YqvXQKuZxnd9sI6k.jpg",
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/XWP28Op0SAmjEtUO5jQy.jpg",
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/nmuj0dRrTXmL4yx0X2Tv.jpg",
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/RtBPEViQyaQtCwfIfoDC.jpg",
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/tcQ0yrGSqS8ie4OpaIO2.jpg",
-            "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/GzudK2jQsOPEhSJfIQ0X.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/83922681"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/R6Cda6s8QlmVLlIziwR1.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/R6Cda6s8QlmVLlIziwR1_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/TrQ2YqvXQKuZxnd9sI6k.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/TrQ2YqvXQKuZxnd9sI6k_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/XWP28Op0SAmjEtUO5jQy.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/XWP28Op0SAmjEtUO5jQy_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/nmuj0dRrTXmL4yx0X2Tv.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/nmuj0dRrTXmL4yx0X2Tv_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/RtBPEViQyaQtCwfIfoDC.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/RtBPEViQyaQtCwfIfoDC_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/tcQ0yrGSqS8ie4OpaIO2.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/tcQ0yrGSqS8ie4OpaIO2_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/GzudK2jQsOPEhSJfIQ0X.jpg",
-                "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/GzudK2jQsOPEhSJfIQ0X_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.BeardmanStudios.dotPong/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/83922681"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/R6Cda6s8QlmVLlIziwR1.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/R6Cda6s8QlmVLlIziwR1_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/TrQ2YqvXQKuZxnd9sI6k.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/TrQ2YqvXQKuZxnd9sI6k_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/XWP28Op0SAmjEtUO5jQy.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/XWP28Op0SAmjEtUO5jQy_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/nmuj0dRrTXmL4yx0X2Tv.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/nmuj0dRrTXmL4yx0X2Tv_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/RtBPEViQyaQtCwfIfoDC.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/RtBPEViQyaQtCwfIfoDC_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/tcQ0yrGSqS8ie4OpaIO2.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/tcQ0yrGSqS8ie4OpaIO2_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/GzudK2jQsOPEhSJfIQ0X.jpg",
+            "thumb": "https://archive.org/download/ouya_com.BeardmanStudios.dotPong_1.5/GzudK2jQsOPEhSJfIQ0X_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Beardman Studios",

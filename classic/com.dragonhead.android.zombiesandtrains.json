@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dragonhead.android.zombiesandtrains/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/hGatxSJeTRu2dSGCQLvx.jpg",
-            "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/89dsT7MYR9iMO6Rt3IBh.jpg",
-            "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/DhGnTQbToGF02PvdsleA.jpg",
-            "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/EuXMBBLvQbCEcoyn0Ymw.jpg",
-            "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/01MAFujHS5mGFW45IqOd.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/hGatxSJeTRu2dSGCQLvx.jpg",
-                "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/hGatxSJeTRu2dSGCQLvx_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/89dsT7MYR9iMO6Rt3IBh.jpg",
-                "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/89dsT7MYR9iMO6Rt3IBh_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/DhGnTQbToGF02PvdsleA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/DhGnTQbToGF02PvdsleA_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/EuXMBBLvQbCEcoyn0Ymw.jpg",
-                "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/EuXMBBLvQbCEcoyn0Ymw_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/01MAFujHS5mGFW45IqOd.jpg",
-                "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/01MAFujHS5mGFW45IqOd_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dragonhead.android.zombiesandtrains/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/hGatxSJeTRu2dSGCQLvx.jpg",
+            "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/hGatxSJeTRu2dSGCQLvx_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/89dsT7MYR9iMO6Rt3IBh.jpg",
+            "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/89dsT7MYR9iMO6Rt3IBh_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/DhGnTQbToGF02PvdsleA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/DhGnTQbToGF02PvdsleA_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/EuXMBBLvQbCEcoyn0Ymw.jpg",
+            "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/EuXMBBLvQbCEcoyn0Ymw_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/01MAFujHS5mGFW45IqOd.jpg",
+            "thumb": "https://archive.org/download/ouya_com.dragonhead.android.zombiesandtrains_1.30/01MAFujHS5mGFW45IqOd_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Dragonhead Games",

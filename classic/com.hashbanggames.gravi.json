@@ -1,7 +1,7 @@
 {
     "packageName": "com.hashbanggames.gravi",
     "title": "Gravi",
-    "description": "Play Gravi's first 10 levels FREE, and unlock the full version of Gravi with ALL 40 levels.\n\nGravi is an intense puzzle-platformer that will test your tolerance for pain. Shoot and swing your way towards victory as Gravi, an adorable blue ball of energy. You\u2019ll launch through terrorizing traps and bend gravity to your will, evading the single-minded, psychotic Anti-Gravi as you go...",
+    "description": "Play Gravi's first 10 levels FREE, and unlock the full version of Gravi with ALL 40 levels.\n\nGravi is an intense puzzle-platformer that will test your tolerance for pain. Shoot and swing your way towards victory as Gravi, an adorable blue ball of energy. You’ll launch through terrorizing traps and bend gravity to your will, evading the single-minded, psychotic Anti-Gravi as you go...",
     "players": [
         1
     ],
@@ -23,78 +23,63 @@
             "nativeSize": 141968
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.hashbanggames.gravi/discover",
-        "video": "https://vimeo.com/60885482",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/H9uaMliPSYKwRwr9FcPV.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/UVsGfObFSh6dt2HaxbZJ.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/wS1Kaw2QKxKWl2QpkNA6.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3qhtx0CTQ0ecCj3ioOXI.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/nfv2YvyVSjGKVFsBfTCx.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/10yL61CiQuWVzPB6eNof.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/JZbkueC8R6T4r1adDyAQ.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3E5oqgQgSVSIF5OmFXMX.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/Ix5UR0zXQuaRIdPc0Try.jpg",
-            "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/4LQTX1WQTM2ZdBYJvR3Q.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/60885482"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/H9uaMliPSYKwRwr9FcPV.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/H9uaMliPSYKwRwr9FcPV_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/UVsGfObFSh6dt2HaxbZJ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/UVsGfObFSh6dt2HaxbZJ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/wS1Kaw2QKxKWl2QpkNA6.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/wS1Kaw2QKxKWl2QpkNA6_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3qhtx0CTQ0ecCj3ioOXI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3qhtx0CTQ0ecCj3ioOXI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/nfv2YvyVSjGKVFsBfTCx.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/nfv2YvyVSjGKVFsBfTCx_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/10yL61CiQuWVzPB6eNof.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/10yL61CiQuWVzPB6eNof_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/JZbkueC8R6T4r1adDyAQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/JZbkueC8R6T4r1adDyAQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3E5oqgQgSVSIF5OmFXMX.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3E5oqgQgSVSIF5OmFXMX_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/Ix5UR0zXQuaRIdPc0Try.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/Ix5UR0zXQuaRIdPc0Try_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/4LQTX1WQTM2ZdBYJvR3Q.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/4LQTX1WQTM2ZdBYJvR3Q_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.hashbanggames.gravi/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/60885482"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/H9uaMliPSYKwRwr9FcPV.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/H9uaMliPSYKwRwr9FcPV_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/UVsGfObFSh6dt2HaxbZJ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/UVsGfObFSh6dt2HaxbZJ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/wS1Kaw2QKxKWl2QpkNA6.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/wS1Kaw2QKxKWl2QpkNA6_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3qhtx0CTQ0ecCj3ioOXI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3qhtx0CTQ0ecCj3ioOXI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/nfv2YvyVSjGKVFsBfTCx.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/nfv2YvyVSjGKVFsBfTCx_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/10yL61CiQuWVzPB6eNof.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/10yL61CiQuWVzPB6eNof_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/JZbkueC8R6T4r1adDyAQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/JZbkueC8R6T4r1adDyAQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3E5oqgQgSVSIF5OmFXMX.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/3E5oqgQgSVSIF5OmFXMX_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/Ix5UR0zXQuaRIdPc0Try.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/Ix5UR0zXQuaRIdPc0Try_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/4LQTX1WQTM2ZdBYJvR3Q.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hashbanggames.gravi_1.0/4LQTX1WQTM2ZdBYJvR3Q_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": "28e70312-9df8-4b6f-875b-7d92d2160d35",
         "name": "Hashbang Games",

@@ -27,76 +27,62 @@
             "nativeSize": 14976720
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/discover",
-        "video": "https://vimeo.com/101303464",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.gamious.namethegame/screenshot-9"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/101303464"
-            },
-            {
-                "type": "video",
-                "url": "https://vimeo.com/91309610"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/101303464"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/91309610"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Gamious",

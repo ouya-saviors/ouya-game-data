@@ -22,54 +22,43 @@
             "nativeSize": 149736
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.headupgames.scifighters/discover",
-        "video": "http://vimeo.com/108895849",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/zmtayJuTkGtUiaGnAy8P.jpg",
-            "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/0IU1tEELTmCYx7Iw1q85.jpg",
-            "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/Y84avplzRnay0YvCKEkI.jpg",
-            "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/y79U4hjdRO6zRV3nsrnQ.jpg",
-            "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/pVgmY3MeQnyZTQb8qRLP.jpg",
-            "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/5l0F5LVQRju1KS49l4sj.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/108895849"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/zmtayJuTkGtUiaGnAy8P.jpg",
-                "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/zmtayJuTkGtUiaGnAy8P_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/0IU1tEELTmCYx7Iw1q85.jpg",
-                "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/0IU1tEELTmCYx7Iw1q85_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/Y84avplzRnay0YvCKEkI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/Y84avplzRnay0YvCKEkI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/y79U4hjdRO6zRV3nsrnQ.jpg",
-                "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/y79U4hjdRO6zRV3nsrnQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/pVgmY3MeQnyZTQb8qRLP.jpg",
-                "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/pVgmY3MeQnyZTQb8qRLP_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/5l0F5LVQRju1KS49l4sj.jpg",
-                "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/5l0F5LVQRju1KS49l4sj_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.headupgames.scifighters/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/108895849"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/zmtayJuTkGtUiaGnAy8P.jpg",
+            "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/zmtayJuTkGtUiaGnAy8P_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/0IU1tEELTmCYx7Iw1q85.jpg",
+            "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/0IU1tEELTmCYx7Iw1q85_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/Y84avplzRnay0YvCKEkI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/Y84avplzRnay0YvCKEkI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/y79U4hjdRO6zRV3nsrnQ.jpg",
+            "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/y79U4hjdRO6zRV3nsrnQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/pVgmY3MeQnyZTQb8qRLP.jpg",
+            "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/pVgmY3MeQnyZTQb8qRLP_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/5l0F5LVQRju1KS49l4sj.jpg",
+            "thumb": "https://archive.org/download/ouya_com.headupgames.scifighters_1.0/5l0F5LVQRju1KS49l4sj_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Headup Games GmbH & Co. KG",

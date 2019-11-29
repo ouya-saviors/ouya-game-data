@@ -23,36 +23,28 @@
             "nativeSize": 22264940
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/discover",
-        "video": "https://vimeo.com/106613300",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/106613300"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/106613300"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.potassiumfrog.cheshire/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Potassium Frog Ltd",

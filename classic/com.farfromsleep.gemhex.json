@@ -21,36 +21,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/discover",
-        "video": "https://vimeo.com/77568172",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/77568172"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/77568172"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farfromsleep.gemhex/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "b9dc320c-d675-47f1-9207-7ecfde2b5aea",
         "name": "Jay Griffin",

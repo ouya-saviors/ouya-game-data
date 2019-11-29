@@ -22,36 +22,28 @@
             "nativeSize": 20356076
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/discover",
-        "video": "https://vimeo.com/106724322",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Rrf0kzXBS2uaAdOHxhyz",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/98NOT859TrWcvxBRh15r",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/SNzNZg8JRuqp8lM1nCcg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/106724322"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/106724322"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tozeleal.weirdpongNEW/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "80fad51d-494e-46dc-b157-d6b4404adc37",
         "name": "Tozeleal",

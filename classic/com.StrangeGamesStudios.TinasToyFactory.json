@@ -24,60 +24,48 @@
             "nativeSize": 15030792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/discover",
-        "video": "https://vimeo.com/121608388",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/DMo6QFaTUWc0hPClptoz.jpg",
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/gsEWl8MkRBqYhlrmZJXS.jpg",
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/0ECFkhByRqevUUqD8TrI.jpg",
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/ckE8Rtp2TcuQdaZs6P1m.jpg",
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/11UuczbXTzep8Qk0c12t.jpg",
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/AaKS1yqQyaODDLkwoQtq.jpg",
-            "https://archive.org/download/ouya_com.StrangeGamesStudios.TinasToyFactory_1.3/XKgJ2PzRRoqQsTm3MbXO.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/121608388"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-5"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-7"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/121608388"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-5"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.StrangeGamesStudios.TinasToyFactory/screenshot-7"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Strange Games Studios",

@@ -22,38 +22,29 @@
             "nativeSize": 2396812
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ohrrpgce.rambleplanet_1.1.1/atPXoMrT4aK99i5qYbdg.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.rambleplanet_1.1.1/5BEeyvgR5ugdkvoToeOa.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.rambleplanet_1.1.1/ywQUEucEQ7iEylMMRWdK.jpg",
-            "https://archive.org/download/ouya_com.ohrrpgce.rambleplanet_1.1.1/0e2O1FYOQGeNbpWIZcgm.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ohrrpgce.rambleplanet/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "A. Hagen",

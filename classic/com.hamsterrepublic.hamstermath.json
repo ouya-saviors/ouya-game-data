@@ -21,42 +21,33 @@
             "nativeSize": 2499540
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/discover",
-        "video": "https://vimeo.com/101940332",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.hamsterrepublic.hamstermath_1.0.1/gXbSjTzTQVCsckPFh97u.jpg",
-            "https://archive.org/download/ouya_com.hamsterrepublic.hamstermath_1.0.1/MoXDSfoSSN6SFeOl90ng.jpg",
-            "https://archive.org/download/ouya_com.hamsterrepublic.hamstermath_1.0.1/cGp0HPXESBiBc9OYJ0oH.jpg",
-            "https://archive.org/download/ouya_com.hamsterrepublic.hamstermath_1.0.1/DUWiMnerQUigy3ukUQbR.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/101940332"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/101940332"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.hamsterrepublic.hamstermath/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "b515e94f-ac51-4b02-837d-76d0e5146b55",
         "name": "Hamster Republic Productions",

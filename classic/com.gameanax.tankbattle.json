@@ -1,7 +1,7 @@
 {
     "packageName": "com.gameanax.tankbattle",
     "title": "Doodle Tank Battle",
-    "description": "Do you have the guts to take on the Red Ribbon army? Buckle up soldier, our land is invaded. Secret bunkers and turrets have been unleashed. You are the last man standing. Take control of the Tank and blow \u2018em up! Strike for freedom. Proceed to Victory! \r\n\r\nFeatures: \r\n1. Prepare for glory in the adventurous Campaign Mode \r\n2. Vent out your anger in the Endless Mode \r\n3. Conquer all battle grounds \r\n4. Best of army supplies to upgrade and rule the battlefield \r\n\r\n",
+    "description": "Do you have the guts to take on the Red Ribbon army? Buckle up soldier, our land is invaded. Secret bunkers and turrets have been unleashed. You are the last man standing. Take control of the Tank and blow ‘em up! Strike for freedom. Proceed to Victory! \r\n\r\nFeatures: \r\n1. Prepare for glory in the adventurous Campaign Mode \r\n2. Vent out your anger in the Endless Mode \r\n3. Conquer all battle grounds \r\n4. Best of army supplies to upgrade and rule the battlefield \r\n\r\n",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/discover",
-        "video": "https://vimeo.com/76950377",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/76950377"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/76950377"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.tankbattle/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "GameAnax Inc.",

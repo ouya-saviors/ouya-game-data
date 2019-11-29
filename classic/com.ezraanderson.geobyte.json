@@ -22,88 +22,72 @@
             "nativeSize": 5922396
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/discover",
-        "video": "https://vimeo.com/107211846",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/screenshot-11"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/107211846"
-            },
-            {
-                "type": "video",
-                "url": "https://vimeo.com/107212050"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-11-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/107211846"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/107212050"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ezraanderson.geobyte/detail-11-thumb"
+        }
+    ],
     "developer": {
         "uuid": "87619bd8-52d4-4778-8674-0f29014d0c57",
         "name": "www.ezraanderson.com",

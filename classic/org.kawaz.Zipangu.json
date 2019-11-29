@@ -21,38 +21,29 @@
             "nativeSize": 4142060
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/screenshot-1",
-            "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/screenshot-2",
-            "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/screenshot-3",
-            "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/org.kawaz.Zipangu/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Kawaz",

@@ -1,7 +1,7 @@
 {
     "packageName": "com.QAG.TheBridge",
     "title": "The Bridge",
-    "description": "The Bridge is a 2D logic puzzle game that forces you to reevaluate your preconceptions of physics and perspective. It is Isaac Newton meets M. C. Escher. Manipulate gravity to redefine the ceiling as the floor while venturing through impossible architectures. Explore increasingly difficult worlds, each uniquely detailed and designed to leave you with a pronounced sense of intellectual accomplishment. The Bridge exemplifies games as an art form, with beautifully hand-drawn art in the style of a black-and-white lithograph.\r\n\r\n\u201cI was simply flabbergasted at the complexity and simplicity they present at the same time.\u201d \r\n9/10 \u2013 The Indie Game Magazine \r\n\r\n\u201cOne of the best puzzle games I've played in years...The Bridge is an experience that I haven't had since P.B. Winterbottom and Braid, and it gives both of them a run for their money\u201d \r\n90/100 \u2013 Destructoid \r\n\r\n\u201cThe best of the PAX 10.\u201d \r\n\u2013 VentureBeat \r\n\r\n\"I took more away from the experience than I have with any other game in recent memory\u201d \r\n\u2013 The Escapist",
+    "description": "The Bridge is a 2D logic puzzle game that forces you to reevaluate your preconceptions of physics and perspective. It is Isaac Newton meets M. C. Escher. Manipulate gravity to redefine the ceiling as the floor while venturing through impossible architectures. Explore increasingly difficult worlds, each uniquely detailed and designed to leave you with a pronounced sense of intellectual accomplishment. The Bridge exemplifies games as an art form, with beautifully hand-drawn art in the style of a black-and-white lithograph.\r\n\r\n“I was simply flabbergasted at the complexity and simplicity they present at the same time.” \r\n9/10 – The Indie Game Magazine \r\n\r\n“One of the best puzzle games I've played in years...The Bridge is an experience that I haven't had since P.B. Winterbottom and Braid, and it gives both of them a run for their money” \r\n90/100 – Destructoid \r\n\r\n“The best of the PAX 10.” \r\n– VentureBeat \r\n\r\n\"I took more away from the experience than I have with any other game in recent memory” \r\n– The Escapist",
     "players": [
         1
     ],
@@ -24,114 +24,93 @@
             "nativeSize": 15034480
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/discover",
-        "video": "https://vimeo.com/134046857",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-11",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-12",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-13",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-14",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-15",
-            "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/screenshot-16"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/134046857"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-11-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-12",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-12-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-13",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-13-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-14",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-14-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-15",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-15-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-16",
-                "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-16-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/134046857"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-11-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-12",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-12-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-13",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-13-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-14",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-14-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-15",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-15-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-16",
+            "thumb": "http://ouya.cweiske.de/game-images/com.QAG.TheBridge/detail-16-thumb"
+        }
+    ],
     "developer": {
         "uuid": "ba4da715-1b4c-42e0-bebc-bdec9e8e5ec8",
         "name": "The Quantum Astrophysicists Guild",

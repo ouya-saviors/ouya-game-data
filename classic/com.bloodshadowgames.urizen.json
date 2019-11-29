@@ -22,48 +22,38 @@
             "nativeSize": 8821100
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/discover",
-        "video": "https://vimeo.com/142335489",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/142335489"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/142335489"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.bloodshadowgames.urizen/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "894f6c13-5520-45dd-b793-9580b52ec89a",
         "name": "Bloodshadow Games",

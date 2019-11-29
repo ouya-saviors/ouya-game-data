@@ -23,32 +23,24 @@
             "nativeSize": 1070880
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.Splattersoft.IgnisMortis_0.7/PTssYgx9Rb6lpb2MZ8bu.jpg",
-            "https://archive.org/download/ouya_com.Splattersoft.IgnisMortis_0.7/MrBfCEImSEGgLe7SNJ6D.jpg",
-            "https://archive.org/download/ouya_com.Splattersoft.IgnisMortis_0.7/aPKTXJLQkqIzZ0R4ZZ1W.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Splattersoft.IgnisMortis/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "LordHannu",

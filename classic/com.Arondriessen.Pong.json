@@ -1,7 +1,7 @@
 {
     "packageName": "com.Arondriessen.Pong",
     "title": "Retro Pong",
-    "description": "-Retro Pong-\n\nA Simple Retro, Two player Pong game!\nChallenge your opponent to a fast paced match of Pong, and score\n10 goals to win the round!\n\n\u2022Simple Graphics!\n\u20226 themes to choose from!\n\u2022Smooth, 60 FPS Gameplay!\n\u2022Easy to learn controls!\n\u2022No In-App Purchases!",
+    "description": "-Retro Pong-\n\nA Simple Retro, Two player Pong game!\nChallenge your opponent to a fast paced match of Pong, and score\n10 goals to win the round!\n\n•Simple Graphics!\n•6 themes to choose from!\n•Smooth, 60 FPS Gameplay!\n•Easy to learn controls!\n•No In-App Purchases!",
     "players": [
         2
     ],
@@ -40,54 +40,43 @@
             "nativeSize": 8620060
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/discover",
-        "video": "https://vimeo.com/147038209",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/147038209"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/147038209"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Arondriessen.Pong/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "92345f8d-ddbd-43f2-afcf-2628b1234713",
         "name": "Arondriessen",

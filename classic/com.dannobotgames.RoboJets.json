@@ -23,32 +23,24 @@
             "nativeSize": 3379304
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.dannobotgames.RoboJets_1.1/gzQZOJpjQCmv4jOX2coO.jpg",
-            "https://archive.org/download/ouya_com.dannobotgames.RoboJets_1.1/qHvS4qPrQr648VkWTl1B.jpg",
-            "https://archive.org/download/ouya_com.dannobotgames.RoboJets_1.1/9h6qDQcHTN6nA9MCzsTA.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dannobotgames.RoboJets/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Dannobot Games",

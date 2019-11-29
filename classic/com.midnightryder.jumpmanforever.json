@@ -23,48 +23,38 @@
             "nativeSize": 10141588
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforever/discover",
-        "video": "https://vimeo.com/88129300",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BA4So9U9TBmK9HxUZfck",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/hK9QxHBcTaKC3WW1BlA6",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/rMLw77O3Q8KjGc8qxMkq",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Yg6Im0GwTBSXL0976BeJ",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/4f7eFv3GT8QD8JDRVyaW"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/88129300"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BA4So9U9TBmK9HxUZfck",
-                "thumb": "https://www.filepicker.io/api/file/BA4So9U9TBmK9HxUZfck/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/hK9QxHBcTaKC3WW1BlA6",
-                "thumb": "https://www.filepicker.io/api/file/hK9QxHBcTaKC3WW1BlA6/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/rMLw77O3Q8KjGc8qxMkq",
-                "thumb": "https://www.filepicker.io/api/file/rMLw77O3Q8KjGc8qxMkq/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Yg6Im0GwTBSXL0976BeJ",
-                "thumb": "https://www.filepicker.io/api/file/Yg6Im0GwTBSXL0976BeJ/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/4f7eFv3GT8QD8JDRVyaW",
-                "thumb": "https://www.filepicker.io/api/file/4f7eFv3GT8QD8JDRVyaW/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.midnightryder.jumpmanforever/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/88129300"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BA4So9U9TBmK9HxUZfck",
+            "thumb": "https://www.filepicker.io/api/file/BA4So9U9TBmK9HxUZfck/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/hK9QxHBcTaKC3WW1BlA6",
+            "thumb": "https://www.filepicker.io/api/file/hK9QxHBcTaKC3WW1BlA6/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/rMLw77O3Q8KjGc8qxMkq",
+            "thumb": "https://www.filepicker.io/api/file/rMLw77O3Q8KjGc8qxMkq/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Yg6Im0GwTBSXL0976BeJ",
+            "thumb": "https://www.filepicker.io/api/file/Yg6Im0GwTBSXL0976BeJ/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/4f7eFv3GT8QD8JDRVyaW",
+            "thumb": "https://www.filepicker.io/api/file/4f7eFv3GT8QD8JDRVyaW/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Midnight Ryder Technologies",

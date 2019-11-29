@@ -1,7 +1,7 @@
 {
     "packageName": "com.oddworld.Munch",
     "title": "Oddworld: Munch's Oddysee",
-    "description": "\u201cThe Oddworld franchise is to Super Mario Bros. what Game of Thrones is to The Lord of the Rings\u201d - Rolling Stone, Cult Classics: A to Z. \r\n\r\nPlayers guide Mudokon champion Abe, and his aquatic Gabbit partner Munch, in Oddworld\u2019s third adventure, using special psychic powers, cool power-ups, and other special abilities to deliver payback as they reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar. \r\n\r\nFirst time on Ouya and Forge! \r\n\r\nExperience the classic game Munch\u2019s Oddysee in high definition. Improved graphics and sound make for an even more thrilling ride! Play as the Munch the Gabbit as he hops and swims his way to bringing his species back from extinction. \r\n\r\nAbe is back! \r\n\r\nUsing special powers, cool power-ups, and other special abilities to deliver payback to the Vykkers, Abe and Munch reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar. May Odd help you!\r\n\r\nPlus:\r\n\r\n* A hilarious script and compelling storyline with multiple endings\r\n* Loads of depth, humour and charm\r\n* Includes everyone's favourite Gamespeak screen for both Abe & Munch!",
+    "description": "“The Oddworld franchise is to Super Mario Bros. what Game of Thrones is to The Lord of the Rings” - Rolling Stone, Cult Classics: A to Z. \r\n\r\nPlayers guide Mudokon champion Abe, and his aquatic Gabbit partner Munch, in Oddworld’s third adventure, using special psychic powers, cool power-ups, and other special abilities to deliver payback as they reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar. \r\n\r\nFirst time on Ouya and Forge! \r\n\r\nExperience the classic game Munch’s Oddysee in high definition. Improved graphics and sound make for an even more thrilling ride! Play as the Munch the Gabbit as he hops and swims his way to bringing his species back from extinction. \r\n\r\nAbe is back! \r\n\r\nUsing special powers, cool power-ups, and other special abilities to deliver payback to the Vykkers, Abe and Munch reclaim the last gabbit eggs on Oddworld, which have been packaged in a can of gabbiar. May Odd help you!\r\n\r\nPlus:\r\n\r\n* A hilarious script and compelling storyline with multiple endings\r\n* Loads of depth, humour and charm\r\n* Includes everyone's favourite Gamespeak screen for both Abe & Munch!",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 6126956
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/discover",
-        "video": "https://vimeo.com/146443112",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.oddworld.Munch/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Munch/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Munch/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Munch/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.oddworld.Munch/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/146443112"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/146443112"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.oddworld.Munch/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "c74fb854-fd7e-4243-bf18-74e4735be37f",
         "name": "Oddworld Inhabitants Inc.",

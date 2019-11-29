@@ -23,48 +23,38 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.FutureOfVideogames.WarDaddy/discover",
-        "video": "https://vimeo.com/81078201",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CAT6GZ4yRe2GIioC7YnK",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/jOxRrbXzS0yzg2GJHuJU",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/aFpnPZnUTi2zQkIAqJqZ",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/MCpHh6ESKuLbkF9Vq7c1",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8NvRqR9KREGw30sy6kMS"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/81078201"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CAT6GZ4yRe2GIioC7YnK",
-                "thumb": "https://www.filepicker.io/api/file/CAT6GZ4yRe2GIioC7YnK/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/jOxRrbXzS0yzg2GJHuJU",
-                "thumb": "https://www.filepicker.io/api/file/jOxRrbXzS0yzg2GJHuJU/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/aFpnPZnUTi2zQkIAqJqZ",
-                "thumb": "https://www.filepicker.io/api/file/aFpnPZnUTi2zQkIAqJqZ/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/MCpHh6ESKuLbkF9Vq7c1",
-                "thumb": "https://www.filepicker.io/api/file/MCpHh6ESKuLbkF9Vq7c1/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8NvRqR9KREGw30sy6kMS",
-                "thumb": "https://www.filepicker.io/api/file/8NvRqR9KREGw30sy6kMS/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.FutureOfVideogames.WarDaddy/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/81078201"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CAT6GZ4yRe2GIioC7YnK",
+            "thumb": "https://www.filepicker.io/api/file/CAT6GZ4yRe2GIioC7YnK/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/jOxRrbXzS0yzg2GJHuJU",
+            "thumb": "https://www.filepicker.io/api/file/jOxRrbXzS0yzg2GJHuJU/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/aFpnPZnUTi2zQkIAqJqZ",
+            "thumb": "https://www.filepicker.io/api/file/aFpnPZnUTi2zQkIAqJqZ/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/MCpHh6ESKuLbkF9Vq7c1",
+            "thumb": "https://www.filepicker.io/api/file/MCpHh6ESKuLbkF9Vq7c1/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8NvRqR9KREGw30sy6kMS",
+            "thumb": "https://www.filepicker.io/api/file/8NvRqR9KREGw30sy6kMS/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Bagfull Of Wrong",

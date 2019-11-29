@@ -1,7 +1,7 @@
 {
     "packageName": "com.beastgameware.bowling",
     "title": "BeastGameware Presents: Bowling",
-    "description": "BeastGameware Presents: Bowling is a game where you can enjoy bowling right on your couch. Play the game and upload your statistics to the online cloud services !.\n\n-The JANUARY UPDATE (1.1):\nThis update removes the online account requirement and now only asks for you to make a new username , this will be saved locally on the OUYA console.\nOther changes:\n-Players can now pick a ball texture.\n-Follow camera is now following the camera better (to none movement).\n-Exchange account login has been removed.\n-Leaderboards and uploading ingame can now be viewed without logging in.\n-Pin rendering issues have been resolved.\n-Graphical updates to the interior\n-Optmization of rendering\n\n-10 frame bowling game :\nPlay a chilled 10 frame bowling match at your own pace.\nUse the sticks to direct the bowling ball in the right direction giving you a wide variety of throws !\n\n-Ingame leaderboard statistics\nYou can check the realtime leaderboards ingame via the main menu.\n\nFor more info visit the game's website at www.beastgameware.com/bowling\n\nThis game utilizes the BeastGameware Exchange\u2122 social platform to login and keep track of gamedata , online interaction.\n\nThe Exchange platform is also a place where the devs are livestreaming or creating new exciting events !\n\nIf you have any problems or encounter bugs using our software please contact us directly at support@beastgameware.com",
+    "description": "BeastGameware Presents: Bowling is a game where you can enjoy bowling right on your couch. Play the game and upload your statistics to the online cloud services !.\n\n-The JANUARY UPDATE (1.1):\nThis update removes the online account requirement and now only asks for you to make a new username , this will be saved locally on the OUYA console.\nOther changes:\n-Players can now pick a ball texture.\n-Follow camera is now following the camera better (to none movement).\n-Exchange account login has been removed.\n-Leaderboards and uploading ingame can now be viewed without logging in.\n-Pin rendering issues have been resolved.\n-Graphical updates to the interior\n-Optmization of rendering\n\n-10 frame bowling game :\nPlay a chilled 10 frame bowling match at your own pace.\nUse the sticks to direct the bowling ball in the right direction giving you a wide variety of throws !\n\n-Ingame leaderboard statistics\nYou can check the realtime leaderboards ingame via the main menu.\n\nFor more info visit the game's website at www.beastgameware.com/bowling\n\nThis game utilizes the BeastGameware Exchange™ social platform to login and keep track of gamedata , online interaction.\n\nThe Exchange platform is also a place where the devs are livestreaming or creating new exciting events !\n\nIf you have any problems or encounter bugs using our software please contact us directly at support@beastgameware.com",
     "players": [
         1
     ],
@@ -24,68 +24,56 @@
             "nativeSize": 14956816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/discover",
-        "video": "https://vimeo.com/117173823",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/117173823"
-            },
-            {
-                "type": "video",
-                "url": "https://vimeo.com/117122450"
-            },
-            {
-                "type": "video",
-                "url": "http://vimeo.com/110988167"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/117173823"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/117122450"
+        },
+        {
+            "type": "video",
+            "url": "http://vimeo.com/110988167"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.beastgameware.bowling/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": "ad91e346-cb15-43c5-92ed-55b931415267",
         "name": "BeastGameware",

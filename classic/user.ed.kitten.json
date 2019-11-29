@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/user.ed.kitten/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_user.ed.kitten_1.0.2/DylSq9VFT1J6Qa6haDF0.jpg",
-            "https://archive.org/download/ouya_user.ed.kitten_1.0.2/z4j7Si8SKq2FfjTmglMQ.jpg",
-            "https://archive.org/download/ouya_user.ed.kitten_1.0.2/cAMUi1FaS4i1OUTz7xwt.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/DylSq9VFT1J6Qa6haDF0.jpg",
-                "thumb": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/DylSq9VFT1J6Qa6haDF0_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/z4j7Si8SKq2FfjTmglMQ.jpg",
-                "thumb": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/z4j7Si8SKq2FfjTmglMQ_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/cAMUi1FaS4i1OUTz7xwt.jpg",
-                "thumb": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/cAMUi1FaS4i1OUTz7xwt_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/user.ed.kitten/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/DylSq9VFT1J6Qa6haDF0.jpg",
+            "thumb": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/DylSq9VFT1J6Qa6haDF0_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/z4j7Si8SKq2FfjTmglMQ.jpg",
+            "thumb": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/z4j7Si8SKq2FfjTmglMQ_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/cAMUi1FaS4i1OUTz7xwt.jpg",
+            "thumb": "https://archive.org/download/ouya_user.ed.kitten_1.0.2/cAMUi1FaS4i1OUTz7xwt_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "user.ed",

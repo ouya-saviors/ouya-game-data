@@ -24,54 +24,43 @@
             "nativeSize": 450124
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/discover",
-        "video": "https://vimeo.com/167828723",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.quadowl.craftking/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.quadowl.craftking/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.quadowl.craftking/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.quadowl.craftking/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.quadowl.craftking/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.quadowl.craftking/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/167828723"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/167828723"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.quadowl.craftking/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "QUAD OWL GAMES",

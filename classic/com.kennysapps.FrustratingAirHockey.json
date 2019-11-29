@@ -26,48 +26,38 @@
             "nativeSize": 10867988
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/discover",
-        "video": "https://vimeo.com/127410036",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/127410036"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/127410036"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.kennysapps.FrustratingAirHockey/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "be559626-667f-464c-8ac7-7ced4c723efb",
         "name": "Kenny's Apps, LLC",

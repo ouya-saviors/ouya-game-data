@@ -1,7 +1,7 @@
 {
     "packageName": "PesterOuya.PesterOuya.apk",
     "title": "Pester",
-    "description": "'NOW WITH VERT SCREEN SUPPORT!!!'\r\n\r\n\u201cPrepare to be Pestered, in a good way!\" Pester is a vertical shoot em' up which blends the old school with the new creating a frantic and fun shooter experience. With over 100 combinations of play, a thumping techno soundtrack, 6 trophies to unlock and a unique old school-new school graphic style Pester is a game for both shooter enthusiasts and anyone up for a good challenge.",
+    "description": "'NOW WITH VERT SCREEN SUPPORT!!!'\r\n\r\n“Prepare to be Pestered, in a good way!\" Pester is a vertical shoot em' up which blends the old school with the new creating a frantic and fun shooter experience. With over 100 combinations of play, a thumping techno soundtrack, 6 trophies to unlock and a unique old school-new school graphic style Pester is a game for both shooter enthusiasts and anyone up for a good challenge.",
     "players": [
         1
     ],
@@ -23,56 +23,44 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-1",
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-2",
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-3",
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-4",
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-5",
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-6",
-            "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/PesterOuya.PesterOuya.apk/screenshot-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Paul Marrable",

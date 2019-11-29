@@ -21,32 +21,24 @@
             "nativeSize": 153864
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.renegadeware.Abbigale/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/wpJMsmdTJujdfBsWLQXF.jpg",
-            "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/Jk2tcjmQFWc7cvupxiQ3.jpg",
-            "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/WndnedsSmrQkDBY1PKvA.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/wpJMsmdTJujdfBsWLQXF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/wpJMsmdTJujdfBsWLQXF_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/Jk2tcjmQFWc7cvupxiQ3.jpg",
-                "thumb": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/Jk2tcjmQFWc7cvupxiQ3_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/WndnedsSmrQkDBY1PKvA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/WndnedsSmrQkDBY1PKvA_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.renegadeware.Abbigale/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/wpJMsmdTJujdfBsWLQXF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/wpJMsmdTJujdfBsWLQXF_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/Jk2tcjmQFWc7cvupxiQ3.jpg",
+            "thumb": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/Jk2tcjmQFWc7cvupxiQ3_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/WndnedsSmrQkDBY1PKvA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.renegadeware.Abbigale_1.0/WndnedsSmrQkDBY1PKvA_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Renegadeware",

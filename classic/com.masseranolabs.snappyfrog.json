@@ -22,17 +22,13 @@
             "nativeSize": 1344556
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.masseranolabs.snappyfrog/discover",
-        "video": "https://vimeo.com/93759118",
-        "screenshots": [],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/93759118"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.masseranolabs.snappyfrog/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/93759118"
+        }
+    ],
     "developer": {
         "uuid": "2f40e690-423a-4808-83fc-87316a27eac9",
         "name": "MasseranoLabs LLC",

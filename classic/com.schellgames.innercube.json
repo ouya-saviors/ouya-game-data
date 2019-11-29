@@ -1,7 +1,7 @@
 {
     "packageName": "com.schellgames.innercube",
     "title": "InnerCube",
-    "description": "Think, roll, match, survive!\r\n\r\nGet ready for InnerCube, an action-packed puzzle game where your very survival depends on the swiftness of your reflexes and the dexterity of your mind. Deftly control a multi-colored cube across a three dimensional grid to capture colored tiles. \r\n\r\nChoose from two tantalizing modes: a challenging Puzzle Mode where every move counts or a fast and frantic Survival Mode where combos score you huge points.\r\n \r\nFor just $0.99, you get 105 incredible puzzles and unlimited survival play. That\u2019s less than a penny a puzzle.\r\n \r\nPlay today!",
+    "description": "Think, roll, match, survive!\r\n\r\nGet ready for InnerCube, an action-packed puzzle game where your very survival depends on the swiftness of your reflexes and the dexterity of your mind. Deftly control a multi-colored cube across a three dimensional grid to capture colored tiles. \r\n\r\nChoose from two tantalizing modes: a challenging Puzzle Mode where every move counts or a fast and frantic Survival Mode where combos score you huge points.\r\n \r\nFor just $0.99, you get 105 incredible puzzles and unlimited survival play. That’s less than a penny a puzzle.\r\n \r\nPlay today!",
     "players": [
         1
     ],
@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.schellgames.innercube/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Schell Games",

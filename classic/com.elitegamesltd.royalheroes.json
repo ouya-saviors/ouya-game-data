@@ -23,72 +23,58 @@
             "nativeSize": 4539408
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/discover",
-        "video": "https://vimeo.com/116204702",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/screenshot-9"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/116204702"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/116204702"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.elitegamesltd.royalheroes/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "fe12cbc3-6538-4c9c-8be0-4882bff5932e",
         "name": "Badim",

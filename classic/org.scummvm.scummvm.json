@@ -23,32 +23,24 @@
             "nativeSize": 27341140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_org.scummvm.scummvm_1.9.0/OxbVW4RDQ2KFCC3FvHxE.jpg",
-            "https://archive.org/download/ouya_org.scummvm.scummvm_1.9.0/jsogRF66TcmunOrTri2T.jpg",
-            "https://archive.org/download/ouya_org.scummvm.scummvm_1.9.0/Oq7SWST26cQ6YjNR4VgA.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/org.scummvm.scummvm/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "02bbdc3e-0c4c-44c9-bf02-4c3f845f30b9",
         "name": "ScummVM Project",

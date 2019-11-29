@@ -24,32 +24,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/tv.ouya.tacograveyard.duplicity/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/wdHpq0l6QKe7wcICeNC7.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/pQo26pN6Tbui3jt1YL2Y.jpg",
-            "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/3eNS6aCXSAWV3QpbW4I4.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/wdHpq0l6QKe7wcICeNC7.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/wdHpq0l6QKe7wcICeNC7_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/pQo26pN6Tbui3jt1YL2Y.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/pQo26pN6Tbui3jt1YL2Y_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/3eNS6aCXSAWV3QpbW4I4.jpg",
-                "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/3eNS6aCXSAWV3QpbW4I4_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/tv.ouya.tacograveyard.duplicity/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/wdHpq0l6QKe7wcICeNC7.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/wdHpq0l6QKe7wcICeNC7_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/pQo26pN6Tbui3jt1YL2Y.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/pQo26pN6Tbui3jt1YL2Y_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/3eNS6aCXSAWV3QpbW4I4.jpg",
+            "thumb": "https://archive.org/download/ouya_tv.ouya_4.1.2-1427/3eNS6aCXSAWV3QpbW4I4_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Taco Graveyard",

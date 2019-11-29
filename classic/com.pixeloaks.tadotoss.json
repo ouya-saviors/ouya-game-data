@@ -27,48 +27,38 @@
             "nativeSize": 20723333
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/discover",
-        "video": "https://vimeo.com/108670566",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/108670566"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/108670566"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.pixeloaks.tadotoss/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9faab2cc-5b17-4449-a8a0-3c951720384d",
         "name": "Pixel Oaks",

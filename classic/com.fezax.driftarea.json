@@ -25,68 +25,54 @@
             "nativeSize": 2100828
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.fezax.driftarea/screenshot-9"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.fezax.driftarea/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "77eea47c-1925-40d7-838b-eb0584440026",
         "name": "Fezax",

@@ -25,42 +25,33 @@
             "nativeSize": 894792
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/discover",
-        "video": "http://vimeo.com/115631291",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.monsterfingergames.colourcombat_1.0/EJC5QBgTkSbP4kSzpJdM.jpg",
-            "https://archive.org/download/ouya_com.monsterfingergames.colourcombat_1.0/GQDhBLzQYSaU0x3k1c8w.jpg",
-            "https://archive.org/download/ouya_com.monsterfingergames.colourcombat_1.0/rRBGsQVAQ6aaGlE6iZxw.jpg",
-            "https://archive.org/download/ouya_com.monsterfingergames.colourcombat_1.0/dzPFxNi7QeuZLS7G8KWJ.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/115631291"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/115631291"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.monsterfingergames.colourcombat/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "a4ac8f4f-1c28-4f2a-9190-b06d525266bf",
         "name": "Monster Finger Games",

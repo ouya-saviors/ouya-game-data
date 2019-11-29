@@ -22,32 +22,24 @@
             "nativeSize": 14987304
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Abotics.StarFieldShooter/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Abotics99",

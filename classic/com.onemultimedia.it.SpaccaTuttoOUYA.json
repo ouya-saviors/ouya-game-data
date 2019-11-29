@@ -1,7 +1,7 @@
 {
     "packageName": "com.onemultimedia.it.SpaccaTuttoOUYA",
     "title": "SPACCA TUTTO (Breakout Style)",
-    "description": "Play with one of the great classics of the world of video games!\r\nStyle game Arkanoid (Breakout), but full of visual and sound effects with a fun and without boredom with many bonuses like multi ball that make this game so much fun.\r\n\r\nSmash all the bricks! but attention is not so simple, the destruction of the individual brick varies by the type, which can be identified by color. more watch out for the surprise bonus ..\r\n\r\nHave fun;-)\r\n\r\n\r\nGioca con uno dei grandi classici del mondo dei videogames!\r\nGioco in stile arkanoid (Breakout), ma pieno di effetti visivi e sonori con un gioco divertente e senza noia con tanti bonus come il multi ball che rendono questo gioco molto divertente .\r\n\r\nSpacca tutti i mattoncini! ma attenzione non \u00e8 cosi semplice, la distruzione del singolo mattoncino varia dal tipo, che puoi identificare dal colore. in pi\u00f9 fai attenzione per i bonus a sorpresa..\r\n\r\nBuon divertimento ;-)",
+    "description": "Play with one of the great classics of the world of video games!\r\nStyle game Arkanoid (Breakout), but full of visual and sound effects with a fun and without boredom with many bonuses like multi ball that make this game so much fun.\r\n\r\nSmash all the bricks! but attention is not so simple, the destruction of the individual brick varies by the type, which can be identified by color. more watch out for the surprise bonus ..\r\n\r\nHave fun;-)\r\n\r\n\r\nGioca con uno dei grandi classici del mondo dei videogames!\r\nGioco in stile arkanoid (Breakout), ma pieno di effetti visivi e sonori con un gioco divertente e senza noia con tanti bonus come il multi ball che rendono questo gioco molto divertente .\r\n\r\nSpacca tutti i mattoncini! ma attenzione non è cosi semplice, la distruzione del singolo mattoncino varia dal tipo, che puoi identificare dal colore. in più fai attenzione per i bonus a sorpresa..\r\n\r\nBuon divertimento ;-)",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.onemultimedia.it.SpaccaTuttoOUYA/screenshot-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "One Multimedia",

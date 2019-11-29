@@ -1,7 +1,7 @@
 {
     "packageName": "com.tastypoisongames.neonshadow",
     "title": "Neon Shadow",
-    "description": "Multiplayer update!\r\n* 5 New maps.\r\n* Mutant Mode (Kill the mutant to be the mutant!)\r\n* Insta Gib Mode. (One shot mayhem!)\r\n* Bot Match (All the modes against Bots!)\r\n* Controller fixes and adjustments.\r\n\r\nNeon Shadow is a fast paced Cyber Punk FPS inspired by classic shooters. Suit up and grab your shotgun. Your mission: Save humanity from the dark mechanoids who have taken control of your space station and soon the rest of the galaxy!\r\n\r\nDemo includes: single player campaign (3 levels), online and split screen deathmatch (1 map)\r\n\r\nFeatures:\r\n\u2022 Old school first person shooter game-play\r\n\u2022 Single player campaign\r\n\u2022 2 Player co-op campaign  \r\n\u2022 Online and LAN multiplayer deathmatch mode\r\n\u2022 Up to 4 player split screen for local multiplayer deathmatch \r\n\u2022 Cyberpunk soundtrack from Abducted by Sharks. (http://abductedbysharks.com/)\r\n\u2022 Support for multiple control layouts: south paw and legacy\r\n\u2022 PS3 and Xbox 360 controllers supported\r\n\r\nFollow @tasty_poison on Twitter for news and updates!",
+    "description": "Multiplayer update!\r\n* 5 New maps.\r\n* Mutant Mode (Kill the mutant to be the mutant!)\r\n* Insta Gib Mode. (One shot mayhem!)\r\n* Bot Match (All the modes against Bots!)\r\n* Controller fixes and adjustments.\r\n\r\nNeon Shadow is a fast paced Cyber Punk FPS inspired by classic shooters. Suit up and grab your shotgun. Your mission: Save humanity from the dark mechanoids who have taken control of your space station and soon the rest of the galaxy!\r\n\r\nDemo includes: single player campaign (3 levels), online and split screen deathmatch (1 map)\r\n\r\nFeatures:\r\n• Old school first person shooter game-play\r\n• Single player campaign\r\n• 2 Player co-op campaign  \r\n• Online and LAN multiplayer deathmatch mode\r\n• Up to 4 player split screen for local multiplayer deathmatch \r\n• Cyberpunk soundtrack from Abducted by Sharks. (http://abductedbysharks.com/)\r\n• Support for multiple control layouts: south paw and legacy\r\n• PS3 and Xbox 360 controllers supported\r\n\r\nFollow @tasty_poison on Twitter for news and updates!",
     "players": [
         1,
         2,
@@ -27,48 +27,38 @@
             "nativeSize": 15039000
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/discover",
-        "video": "https://vimeo.com/78607831",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.tastypoisongames.neonshadow_1.34/hc5bxRrRfuRV4eoveOIZ.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.neonshadow_1.34/XACXOHPzTT6cOjyxMay0.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.neonshadow_1.34/bYrCBclyRCmhuVZdAjo4.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.neonshadow_1.34/Aov3GKGRaqC8LTWxHMkI.jpg",
-            "https://archive.org/download/ouya_com.tastypoisongames.neonshadow_1.34/GaRAsmj4RPiRkjajjF2o.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/78607831"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/78607831"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tastypoisongames.neonshadow/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Tasty Poison Games",

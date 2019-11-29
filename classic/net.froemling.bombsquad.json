@@ -26,48 +26,38 @@
             "nativeSize": 9511196
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/discover",
-        "video": "http://vimeo.com/81224217",
-        "screenshots": [
-            "https://archive.org/download/ouya_net.froemling.bombsquad_1.4.58/75dSamHkQiuKpg7o3DXF.jpg",
-            "https://archive.org/download/ouya_net.froemling.bombsquad_1.4.58/g0sFFV1Tc2gidAYkaQPU.jpg",
-            "https://archive.org/download/ouya_net.froemling.bombsquad_1.4.58/zswgv6FOQcqZWt7oyV00.jpg",
-            "https://archive.org/download/ouya_net.froemling.bombsquad_1.4.58/51a1JNYKRaeQAAVeNedw.jpg",
-            "https://archive.org/download/ouya_net.froemling.bombsquad_1.4.58/0dnBNiw2Sser5X8kpezG.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/81224217"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/81224217"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/net.froemling.bombsquad/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Eric Froemling",

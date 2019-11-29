@@ -23,48 +23,38 @@
             "nativeSize": 4530756
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/discover",
-        "video": "https://vimeo.com/77857658",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/77857658"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/77857658"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ifightbears.abitofafistofawesome/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "I Fight Bears Ltd",

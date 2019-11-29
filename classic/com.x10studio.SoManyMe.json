@@ -1,7 +1,7 @@
 {
     "packageName": "com.x10studio.SoManyMe",
     "title": "So Many Me",
-    "description": "So Many Me combines puzzle-solving platform gameplay and the careful resource management of classic games like Lemmings!\r\n\r\nYou play as an unassuming green blob named Filo, who has an incredible ability: to control his many, many clones -- referred to as the \u201cME\u201d. These clones possess all sorts of fun abilities that can be used to solve puzzles throughout the game. As you progress further through Filo\u2019s adventure, you will find a variety of new types of clones. Understanding and harnessing their unique powers are key to your success. \r\n\r\nKey Features:\r\n-Discover new transformational abilities as you progress through each chapter. Learning to master these forms and using them in sequence, is key to solving the game\u2019s many puzzles. \r\n\r\n-Filo\u2019s endless adventures take you to a wondrous world of color filled with delightfully, intriguing characters. \r\n\r\n-Ride massive and powerful creatures. Utilize their unusual abilities to solve special puzzles and to smash through pesky obstacles on your way to the goal! \r\n\r\n-Boss monsters, each with their own distinct characteristics, will try to eliminate you. Challenge and overcome them. \r\n\r\n-Earn your rewards when you have solved the puzzles! Dozens of adorable costumes, ancient artifacts, and bonus levels are waiting for you!\r\n\r\nAccolades:\r\nTop 10 Family Game of E3 - Yahoo Tech\r\nIndieCade E3 Showcase - IndieCade\r\nUnity Showcase - GDC, China Joy, Tokyo Game Show, Korea Games Conference & G Star Global Game Exhibition \r\nIGF China 2014 - Honorable Mention",
+    "description": "So Many Me combines puzzle-solving platform gameplay and the careful resource management of classic games like Lemmings!\r\n\r\nYou play as an unassuming green blob named Filo, who has an incredible ability: to control his many, many clones -- referred to as the “ME”. These clones possess all sorts of fun abilities that can be used to solve puzzles throughout the game. As you progress further through Filo’s adventure, you will find a variety of new types of clones. Understanding and harnessing their unique powers are key to your success. \r\n\r\nKey Features:\r\n-Discover new transformational abilities as you progress through each chapter. Learning to master these forms and using them in sequence, is key to solving the game’s many puzzles. \r\n\r\n-Filo’s endless adventures take you to a wondrous world of color filled with delightfully, intriguing characters. \r\n\r\n-Ride massive and powerful creatures. Utilize their unusual abilities to solve special puzzles and to smash through pesky obstacles on your way to the goal! \r\n\r\n-Boss monsters, each with their own distinct characteristics, will try to eliminate you. Challenge and overcome them. \r\n\r\n-Earn your rewards when you have solved the puzzles! Dozens of adorable costumes, ancient artifacts, and bonus levels are waiting for you!\r\n\r\nAccolades:\r\nTop 10 Family Game of E3 - Yahoo Tech\r\nIndieCade E3 Showcase - IndieCade\r\nUnity Showcase - GDC, China Joy, Tokyo Game Show, Korea Games Conference & G Star Global Game Exhibition \r\nIGF China 2014 - Honorable Mention",
     "players": [
         1
     ],
@@ -24,72 +24,58 @@
             "nativeSize": 228844
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/discover",
-        "video": "https://vimeo.com/100926514",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/FJUgnMCTVOvHPBi7uRkU.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/hpt6fvcDR5ytae8XNHwQ.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/xCXmmu7uR0edr8u80nV4.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/4EH6b70Treq6CuifkfHg.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/y0L44ivhSdFRH4TDMYQo.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/u05VtNhSvqxHkhdkfCWx.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/ulhTtAHPRcaux0ZmMoWJ.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/9pU3OnsqS2GWQmgIWG8p.jpg",
-            "https://archive.org/download/ouya_com.x10studio.SoManyMe_1.0/fOKlbQPzTpqAdIpw9RQg.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/100926514"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/100926514"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.x10studio.SoManyMe/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9d9344ee-11b1-4bbe-bcf5-399f6474eabe",
         "name": "Extend Studio & ORiGO Games",

@@ -24,42 +24,33 @@
             "nativeSize": 11367500
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/discover",
-        "video": "https://vimeo.com/147283371",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/screenshot-1",
-            "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/screenshot-2",
-            "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/screenshot-3",
-            "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/147283371"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-1-thumb",
-                "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-2-thumb",
-                "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-3-thumb",
-                "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-4-thumb",
-                "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/147283371"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-1-thumb",
+            "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-2-thumb",
+            "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-3-thumb",
+            "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-4-thumb",
+            "thumb": "http://ouya.cweiske.de/game-images/io.flowlab.ClassicCrazybots261027/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "ac12c2d2-7bba-4918-8244-4762d631f3db",
         "name": "Googleygames",

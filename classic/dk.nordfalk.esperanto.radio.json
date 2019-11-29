@@ -1,7 +1,7 @@
 {
     "packageName": "dk.nordfalk.esperanto.radio",
     "title": "Esperanto-radio Muzaiko",
-    "description": "Listen to 9 radio stations in the international language of Esperanto on your TV!\r\n\r\nA\u016dskultu 9 diversajn radio-kanalojn en Esperanto sur via televidilo!\r\n- Muzaiko, la tuttempa tutmonda tutmojosa retradio en Esperanto, kun muziko, nova\u0135oj, informoj, raportoj, arkiva\u0135oj kaj multe pli\r\n- Pola Retradio (Pollando)\r\n- 3ZZZ en Esperanto (A\u016dstralio)\r\n- Radio Havano Kubo (Kubo)\r\n- Radio Vatikana (Vatikano)\r\n- Radio Verda (Kanado)\r\n- Varsovia Vento (Pollando)\r\n- Kaliningrada E-radio (Rusio)\r\n- Vinilkosmo (Francio)\r\n\r\n(\u0108ina Radio Internacia kaj Esperanto Retradio ne elekteblas, \u0109ar ili elsendas en ne-kongruaj formatoj)\r\n\r\nPor \u0109iu kanalo oni povas elekti ne nur inter la diversaj lastatempaj podkastoj, sed anka\u016d legi pri la podkasto kaj spekti la hejmpa\u011dojn de ili.\r\n\r\nVi povas e\u0109 uzi la programon kiel vekhorlo\u011do, tiel ke via preferata kanalo a\u016dtomate ekludi\u011dos je via preferata horo.\r\n\r\n\"La androjda radioprogramo estas tre utila, ja multe-multe simpligas la a\u016dskultadon de Esperantaj radioelsendoj. \"\r\n- Eventoj / Ret-Info\r\n\r\nLa programo estas malfermfonta. Tiel aliaj rajtas kopii kaj kontribui al la programo. La fontokodo trovi\u011das \u0109e http://code.google.com/p/esperanto-telefono/wiki/EsperantoRadio",
+    "description": "Listen to 9 radio stations in the international language of Esperanto on your TV!\r\n\r\nAŭskultu 9 diversajn radio-kanalojn en Esperanto sur via televidilo!\r\n- Muzaiko, la tuttempa tutmonda tutmojosa retradio en Esperanto, kun muziko, novaĵoj, informoj, raportoj, arkivaĵoj kaj multe pli\r\n- Pola Retradio (Pollando)\r\n- 3ZZZ en Esperanto (Aŭstralio)\r\n- Radio Havano Kubo (Kubo)\r\n- Radio Vatikana (Vatikano)\r\n- Radio Verda (Kanado)\r\n- Varsovia Vento (Pollando)\r\n- Kaliningrada E-radio (Rusio)\r\n- Vinilkosmo (Francio)\r\n\r\n(Ĉina Radio Internacia kaj Esperanto Retradio ne elekteblas, ĉar ili elsendas en ne-kongruaj formatoj)\r\n\r\nPor ĉiu kanalo oni povas elekti ne nur inter la diversaj lastatempaj podkastoj, sed ankaŭ legi pri la podkasto kaj spekti la hejmpaĝojn de ili.\r\n\r\nVi povas eĉ uzi la programon kiel vekhorloĝo, tiel ke via preferata kanalo aŭtomate ekludiĝos je via preferata horo.\r\n\r\n\"La androjda radioprogramo estas tre utila, ja multe-multe simpligas la aŭskultadon de Esperantaj radioelsendoj. \"\r\n- Eventoj / Ret-Info\r\n\r\nLa programo estas malfermfonta. Tiel aliaj rajtas kopii kaj kontribui al la programo. La fontokodo troviĝas ĉe http://code.google.com/p/esperanto-telefono/wiki/EsperantoRadio",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/dk.nordfalk.esperanto.radio/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/N9d4eqE4RJapiSJfW8jx.jpg",
-            "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/uawhJe1MQyCiNTMR6EDL.jpg",
-            "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/jiyNYESQ56XGwRQNnHQj.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/N9d4eqE4RJapiSJfW8jx.jpg",
-                "thumb": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/N9d4eqE4RJapiSJfW8jx_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/uawhJe1MQyCiNTMR6EDL.jpg",
-                "thumb": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/uawhJe1MQyCiNTMR6EDL_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/jiyNYESQ56XGwRQNnHQj.jpg",
-                "thumb": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/jiyNYESQ56XGwRQNnHQj_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/dk.nordfalk.esperanto.radio/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/N9d4eqE4RJapiSJfW8jx.jpg",
+            "thumb": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/N9d4eqE4RJapiSJfW8jx_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/uawhJe1MQyCiNTMR6EDL.jpg",
+            "thumb": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/uawhJe1MQyCiNTMR6EDL_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/jiyNYESQ56XGwRQNnHQj.jpg",
+            "thumb": "https://archive.org/download/ouya_dk.nordfalk.esperanto.radio_1.3/jiyNYESQ56XGwRQNnHQj_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": "793a2e4b-bbf8-4393-9a54-ce14fd6db8bf",
         "name": "Ludisto",

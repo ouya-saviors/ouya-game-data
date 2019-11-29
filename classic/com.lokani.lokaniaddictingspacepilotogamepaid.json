@@ -21,36 +21,28 @@
             "nativeSize": 783564
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/discover",
-        "video": "https://vimeo.com/95796415",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/95796415"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-3"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/95796415"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.lokani.lokaniaddictingspacepilotogamepaid/screenshot-3"
+        }
+    ],
     "developer": {
         "uuid": "1103f473-4eaa-4586-88b3-70adb357aa9b",
         "name": "STRIPE Marketing, LLC.",

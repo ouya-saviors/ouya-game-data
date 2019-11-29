@@ -21,26 +21,19 @@
             "nativeSize": 723548
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/screenshot-2"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-2-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.andlabs.games.capturetheflag/detail-2-thumb"
+        }
+    ],
     "developer": {
         "uuid": "ecc556b5-744f-470e-9383-2da36ee3c71c",
         "name": "Alexander Froehlich",

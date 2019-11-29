@@ -1,7 +1,7 @@
 {
     "packageName": "com.replay.festermudd1ouya",
     "title": "Fester Mudd: Episode 1",
-    "description": "Set in the Wild West, FESTER MUDD: CURSE OF THE GOLD is a three-part comic saga of exploration, reunion, and redemption...and a love letter to the classic adventure games of the 90s!\r\n\r\nRoused from a life of sloth to reunite with his long-lost brother in search of unimaginable riches, reluctant hero Fester Mudd somehow manages to be intrepid but cowardly, ambitious yet lazy, dimwitted but brilliant.\r\n\r\nIn Episode 1, Fester hits the trail to join his brother, Bud, in the downtrodden town of Loamsmouth. But when Bud is found to have mysteriously vanished, Fester realizes that the journey will be far longer and more treacherous than he bargained for...and he must enlist the aid of an experienced gunslinger to help him make his way through Indian territory to track down both his missing brother and the gold that awaits them both!\r\n\r\nBut gunslingers don't come cheap...and Fester must find a way to convince him to join him on the perilous quest.\r\n\r\nThis Episode sees Fester exploring Loamsmouth and surrounding territories. Along the way, he'll meet and deal with an assortment of Old West roughnecks, flim-flammers, and other larger-than-life characters...and give adventure game fans a huge blast from the past!\r\n\r\n\u2605 Perfectly optimized for OUYA controller!\r\n\u2605 Lush graphics and vivid sound effects that bring the Old West to life!\r\n\u2605 Classic adventuring interface allowing for sophisticated interactions!\r\n\u2605 Branching dialogues!\r\n\u2605 Dozens of classic inventory-style puzzles!\r\n\u2605 Overhead map for quick travel between regions!\r\n\u2605 An original soundtrack that perfectly evokes the era of Old West and Old School Adventure Games!\r\n\u2605 Cliffhanger ending that teases the next game in the series!\r\n\u2605 Countless jokes, gags, and tips-of-the-hat to the golden-age adventures of Sierra and LucasArts!\r\n\r\n*Sierra Online is a Trademark of Activision Blizzard Entertainment and LucasArts is a Trademark of Disney Inc.",
+    "description": "Set in the Wild West, FESTER MUDD: CURSE OF THE GOLD is a three-part comic saga of exploration, reunion, and redemption...and a love letter to the classic adventure games of the 90s!\r\n\r\nRoused from a life of sloth to reunite with his long-lost brother in search of unimaginable riches, reluctant hero Fester Mudd somehow manages to be intrepid but cowardly, ambitious yet lazy, dimwitted but brilliant.\r\n\r\nIn Episode 1, Fester hits the trail to join his brother, Bud, in the downtrodden town of Loamsmouth. But when Bud is found to have mysteriously vanished, Fester realizes that the journey will be far longer and more treacherous than he bargained for...and he must enlist the aid of an experienced gunslinger to help him make his way through Indian territory to track down both his missing brother and the gold that awaits them both!\r\n\r\nBut gunslingers don't come cheap...and Fester must find a way to convince him to join him on the perilous quest.\r\n\r\nThis Episode sees Fester exploring Loamsmouth and surrounding territories. Along the way, he'll meet and deal with an assortment of Old West roughnecks, flim-flammers, and other larger-than-life characters...and give adventure game fans a huge blast from the past!\r\n\r\n★ Perfectly optimized for OUYA controller!\r\n★ Lush graphics and vivid sound effects that bring the Old West to life!\r\n★ Classic adventuring interface allowing for sophisticated interactions!\r\n★ Branching dialogues!\r\n★ Dozens of classic inventory-style puzzles!\r\n★ Overhead map for quick travel between regions!\r\n★ An original soundtrack that perfectly evokes the era of Old West and Old School Adventure Games!\r\n★ Cliffhanger ending that teases the next game in the series!\r\n★ Countless jokes, gags, and tips-of-the-hat to the golden-age adventures of Sierra and LucasArts!\r\n\r\n*Sierra Online is a Trademark of Activision Blizzard Entertainment and LucasArts is a Trademark of Disney Inc.",
     "players": [
         1
     ],
@@ -22,44 +22,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.replay.festermudd1ouya/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Replay Games",

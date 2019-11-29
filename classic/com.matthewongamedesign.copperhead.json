@@ -26,50 +26,39 @@
             "nativeSize": 14992732
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.matthewongamedesign.copperhead/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "facfd55f-8f0b-4d4c-97a7-624a8f1e2aa6",
         "name": "Nuclear Wombat",

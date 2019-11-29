@@ -23,54 +23,43 @@
             "nativeSize": 7508656
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/discover",
-        "video": "http://vimeo.com/118240980",
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CZZz8TbARAehYWXksPT4",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eY4bVRo6T7S5YIirHpZu",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/PgzYXFHbSzyCk29D3C0U",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/VGPi94HWTlafVMiPV5kQ",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/5ufIrEXBQU6VlMD4lJxW",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/KbEDDgZ4RyZxmhwboeiq"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/118240980"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/118240980"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/miracle.fly.elagotech/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "ElagoTech",

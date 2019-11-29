@@ -23,48 +23,38 @@
             "nativeSize": 19648279
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/discover",
-        "video": "http://vimeo.com/99190150",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/screenshot-1",
-            "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/screenshot-2",
-            "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/screenshot-3",
-            "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/screenshot-4",
-            "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/99190150"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/99190150"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/air.kaleidogames.Beekyr/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "KaleidoGames",

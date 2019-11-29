@@ -1,7 +1,7 @@
 {
     "packageName": "com.farsight.AndroidPinball.javaProject",
     "title": "Pinball Arcade",
-    "description": "Purchase the best classic pinball tables now for your OUYA!\n\nWinner of the Best Mobile Game of 2012 by X-Play! \n\nTo celebrate the one year anniversary of the Pinball Arcade we are now offering Tales Of The Arabian Nights\u2122 for free!\n\nPinball Arcade features exact recreations of the all-time greatest pinball tables from Williams\u00ae, Bally\u00ae, Stern Pinball\u00ae, and Gottlieb\u00ae together in one game. Every flipper, bumper, sound effect, and display pixel has been painstakingly emulated in astonishing detail. \n\nJackBot\u2122, Cyclone\u2122, The Addams Family\u00ae, Starship Troopers\u2122, Earthshaker\u2122, Phantom of the Opera\u2122, Dracula\u2122, Diner\u2122, High Roller Casino\u2122, Lights...Camera...Action!\u2122, High Speed\u2122, Who Dunnit\u2122, Black Knight 2000\u2122, Black Rose\u2122, Fish Tales\u2122, Cue Ball Wizard\u2122, El Dorado\u2122, Class of 1812\u2122, Victory\u2122, Haunted House\u2122, Tee'd Off\u2122, Goin Nuts\u2122, Flight 2000\u2122, Terminator 2\u2122, Champion Pub\u2122, Whirlwind\u2122, Centaur\u2122, Pinbot\u2122, White Water\u2122, Space Shuttle\u2122, Cactus Canyon\u2122, Central Park\u2122, Dr. Dude\u2122, Firepower\u2122, Star Trek: The Next Generation\u2122, Twilight Zone\u2122, Scared Stiff\u2122, Big Shot\u2122, Elvira and the Party Monsters\u2122, No Good Gofers\u2122, Taxi\u2122, Harley-Davidson\u2122 Third Edition, Creature from the Black Lagoon\u00ae, Black Knight\u2122, Monster Bash\u2122, Gorgar\u2122, Circus Voltaire\u2122, Funhouse\u2122, Medieval Madness\u2122, The Machine: Bride of Pin\u2022Bot\u2122, Ripley's Believe It or Not\u00ae, Theatre of Magic\u00ae, and Black Hole\u2122 are all available for purchase from within the game. \n\nEach month, regular updates will add on classic pinball tables for purchase.\n\nOur goal is for the Pinball Arcade to become the most realistic and comprehensive pinball game ever created. Please support us in our efforts to preserve these tables and join the indelible part of Americana that is pinball!\n\nWhat reviews are saying: \n\u201cSimply one of the best pinball games I\u2019ve ever played\u201d \u2013 Touch Arcade \n\u201cAs close to the pinball experience as you will ever get in the palm of your hand\u201d \u2013Pocket Gamer \n\u201cPinball doesn\u2019t get any more real or fun on mobile\u201d \u2013Gamezebo \n\u201cThis game is superb along with great presentation\u201d \u2013 Inentertainment \n\u201can impressive title, and one that is bound to please pinball fans\u201d -148 Apps \n\u201cAuthenticity is the name of the game here, and Farsight has absolutely nailed it\u201d \u2013GameLive.TV \n\u201cquite impressive\u2026 with content this great, it doesn\u2019t need to use the hard sell\u201d -iLounge \n\u201ca pinball nerd\u2019s dream come true\u201d \u2013App Addict",
+    "description": "Purchase the best classic pinball tables now for your OUYA!\n\nWinner of the Best Mobile Game of 2012 by X-Play! \n\nTo celebrate the one year anniversary of the Pinball Arcade we are now offering Tales Of The Arabian Nights™ for free!\n\nPinball Arcade features exact recreations of the all-time greatest pinball tables from Williams®, Bally®, Stern Pinball®, and Gottlieb® together in one game. Every flipper, bumper, sound effect, and display pixel has been painstakingly emulated in astonishing detail. \n\nJackBot™, Cyclone™, The Addams Family®, Starship Troopers™, Earthshaker™, Phantom of the Opera™, Dracula™, Diner™, High Roller Casino™, Lights...Camera...Action!™, High Speed™, Who Dunnit™, Black Knight 2000™, Black Rose™, Fish Tales™, Cue Ball Wizard™, El Dorado™, Class of 1812™, Victory™, Haunted House™, Tee'd Off™, Goin Nuts™, Flight 2000™, Terminator 2™, Champion Pub™, Whirlwind™, Centaur™, Pinbot™, White Water™, Space Shuttle™, Cactus Canyon™, Central Park™, Dr. Dude™, Firepower™, Star Trek: The Next Generation™, Twilight Zone™, Scared Stiff™, Big Shot™, Elvira and the Party Monsters™, No Good Gofers™, Taxi™, Harley-Davidson™ Third Edition, Creature from the Black Lagoon®, Black Knight™, Monster Bash™, Gorgar™, Circus Voltaire™, Funhouse™, Medieval Madness™, The Machine: Bride of Pin•Bot™, Ripley's Believe It or Not®, Theatre of Magic®, and Black Hole™ are all available for purchase from within the game. \n\nEach month, regular updates will add on classic pinball tables for purchase.\n\nOur goal is for the Pinball Arcade to become the most realistic and comprehensive pinball game ever created. Please support us in our efforts to preserve these tables and join the indelible part of Americana that is pinball!\n\nWhat reviews are saying: \n“Simply one of the best pinball games I’ve ever played” – Touch Arcade \n“As close to the pinball experience as you will ever get in the palm of your hand” –Pocket Gamer \n“Pinball doesn’t get any more real or fun on mobile” –Gamezebo \n“This game is superb along with great presentation” – Inentertainment \n“an impressive title, and one that is bound to please pinball fans” -148 Apps \n“Authenticity is the name of the game here, and Farsight has absolutely nailed it” –GameLive.TV \n“quite impressive… with content this great, it doesn’t need to use the hard sell” -iLounge \n“a pinball nerd’s dream come true” –App Addict",
     "players": [
         1,
         2,
@@ -26,36 +26,28 @@
             "nativeSize": 20505160
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/discover",
-        "video": "https://vimeo.com/86057558",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.farsight.AndroidPinball.javaProject_2.0.16/sFVl0kw9T7uCb5lQCLds.jpg",
-            "https://archive.org/download/ouya_com.farsight.AndroidPinball.javaProject_2.0.16/lTvoEaFCSgOUjbmGqzly.jpg",
-            "https://archive.org/download/ouya_com.farsight.AndroidPinball.javaProject_2.0.16/VvpQsQDNRlO0y3TOln9u.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/86057558"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/86057558"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.farsight.AndroidPinball.javaProject/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "36fb5ed1-b86f-4466-8633-8fe636f31cae",
         "name": "FarSight Studios",

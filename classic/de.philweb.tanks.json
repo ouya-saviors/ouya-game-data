@@ -1,7 +1,7 @@
 {
     "packageName": "de.philweb.tanks",
     "title": "TankWar",
-    "description": "TankWar is a multiplayer game: just 4 guys, 4 controllers, 4 bottles of beer and a lot of fun :) \nGameModes: Deathmatch + Capture The Flag\n\n\u2022 up to 4 Players\n\u2022 !!! NEW: gamemode: CAPTURE THE FLAG (for 2 Players or 4 Players, collect 3 Flags to win!)\n\u2022 uses bluetooth controllers (OUYA, amazon Fire TV)\n\u2022 uses dual sticks per player\n\u2022 single player can fight against up to 3 AI tanks\n\u2022 playfield width can be configured: 50 to 250 meters\n\nnew features: \n... changed: cannon now fires only a certain range \n... added powerUp Cannon-Range that extends the range of the cannon \n... slightly changes in tank speed (forward / backward / rotation)\n... power-ups: only 4 packs parallel on screen \n... bufixes",
+    "description": "TankWar is a multiplayer game: just 4 guys, 4 controllers, 4 bottles of beer and a lot of fun :) \nGameModes: Deathmatch + Capture The Flag\n\n• up to 4 Players\n• !!! NEW: gamemode: CAPTURE THE FLAG (for 2 Players or 4 Players, collect 3 Flags to win!)\n• uses bluetooth controllers (OUYA, amazon Fire TV)\n• uses dual sticks per player\n• single player can fight against up to 3 AI tanks\n• playfield width can be configured: 50 to 250 meters\n\nnew features: \n... changed: cannon now fires only a certain range \n... added powerUp Cannon-Range that extends the range of the cannon \n... slightly changes in tank speed (forward / backward / rotation)\n... power-ups: only 4 packs parallel on screen \n... bufixes",
     "players": [
         1
     ],
@@ -23,50 +23,39 @@
             "nativeSize": 971664
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/de.philweb.tanks/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_de.philweb.tanks_00.14.000/idDaA9xASUebqKC7168N.jpg",
-            "https://archive.org/download/ouya_de.philweb.tanks_00.14.000/Bul2WZBDRG2wpSdMlFF1.jpg",
-            "https://archive.org/download/ouya_de.philweb.tanks_00.14.000/rNP1ciRBQR6CetgHfQQS.jpg",
-            "https://archive.org/download/ouya_de.philweb.tanks_00.14.000/v6pkDaeZQDBAZF0cgJSx.jpg",
-            "https://archive.org/download/ouya_de.philweb.tanks_00.14.000/BPvUjUnIRc27uBpKQnW3.jpg",
-            "https://archive.org/download/ouya_de.philweb.tanks_00.14.000/ziqz7dkxSMyv1Rs8mZV0.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/de.philweb.tanks/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.tanks/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "heavily loaded games",

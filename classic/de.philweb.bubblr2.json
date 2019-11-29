@@ -23,78 +23,63 @@
             "nativeSize": 1934514
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/discover",
-        "video": "https://vimeo.com/100092344",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-1",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-2",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-3",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-4",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-5",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-6",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-7",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-8",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-9",
-            "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/screenshot-10"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/100092344"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-10-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/100092344"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/de.philweb.bubblr2/detail-10-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "heavily loaded games",

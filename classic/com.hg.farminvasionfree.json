@@ -1,7 +1,7 @@
 {
     "packageName": "com.hg.farminvasionfree",
     "title": "Farm Invasion USA",
-    "description": "Full game! Now demo, no lite, no trial!\r\n\r\nIt\u2019s been a peaceful day in Texas, with the sun burning down its last rays on Redneck Pops and his two sons Joe and Otis, counting the harvested corn on their porch\u2026 when suddenly unknown flying objects are landing and hoggish blue noses start frying fresh corn to make popcorn of it! Reasons enough to welcome the new visitors the Earthling way! Help the two brothers Joe and Otis, get a shotgun, the deadly rocket launcher or a hunting rifle and start the engine of the family\u2019s heirloom, the mighty corn chopper! Race down the fields and banish the popcorn raiders with the sharp blades of your thresher! Use aimed shots to get down their spaceships and avoid obstacles on the field to collect the remaining corn! The craziest invasion of the third kind has just begun!",
+    "description": "Full game! Now demo, no lite, no trial!\r\n\r\nIt’s been a peaceful day in Texas, with the sun burning down its last rays on Redneck Pops and his two sons Joe and Otis, counting the harvested corn on their porch… when suddenly unknown flying objects are landing and hoggish blue noses start frying fresh corn to make popcorn of it! Reasons enough to welcome the new visitors the Earthling way! Help the two brothers Joe and Otis, get a shotgun, the deadly rocket launcher or a hunting rifle and start the engine of the family’s heirloom, the mighty corn chopper! Race down the fields and banish the popcorn raiders with the sharp blades of your thresher! Use aimed shots to get down their spaceships and avoid obstacles on the field to collect the remaining corn! The craziest invasion of the third kind has just begun!",
     "players": [
         1
     ],
@@ -21,36 +21,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.hg.farminvasionfree/discover",
-        "video": "https://vimeo.com/81503095",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/iMjJfZfWRy3f4jgVZeRW.jpg",
-            "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/AVCc12AMRQuN0p80N80Y.jpg",
-            "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/4kX0NZMCTzCGLg1ugwsP.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/81503095"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/iMjJfZfWRy3f4jgVZeRW.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/iMjJfZfWRy3f4jgVZeRW_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/AVCc12AMRQuN0p80N80Y.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/AVCc12AMRQuN0p80N80Y_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/4kX0NZMCTzCGLg1ugwsP.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/4kX0NZMCTzCGLg1ugwsP_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.hg.farminvasionfree/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/81503095"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/iMjJfZfWRy3f4jgVZeRW.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/iMjJfZfWRy3f4jgVZeRW_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/AVCc12AMRQuN0p80N80Y.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/AVCc12AMRQuN0p80N80Y_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/4kX0NZMCTzCGLg1ugwsP.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.farminvasionfree_1.1.4/4kX0NZMCTzCGLg1ugwsP_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "HandyGames",

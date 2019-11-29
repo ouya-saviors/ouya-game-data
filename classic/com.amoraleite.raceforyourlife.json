@@ -1,7 +1,7 @@
 {
     "packageName": "com.amoraleite.raceforyourlife",
     "title": "Race for Your Life",
-    "description": "Race! Stay alive and win! This cross platform game is online realtime, async and local multiplayer! Take the control of the super cars, machines developed to win! But be smart because the other player has the same technology and will not want to stay behind! \n\nFeatures:\n\u2022 Multiplayer online cross platform up to 4 players , severs around the world;\n\u2022 Multiplayer local up to 4 players;\n\u2022 New async mode, play with other player even if he\u2019s offline;\n\u2022 Online ranked match with all platforms together; \n\u2022 7 great tracks to race;\n\u2022 Simple gameplay and very addictive; \n\u2022 8 bits retro visual, but poisoned with technology; \n\u2022 Use the power-up boost and vacuum and surely you will win! \n\nWe are working on updates, we'd love to hear your suggestions write to us!\n\nRACE Vr. 2.1",
+    "description": "Race! Stay alive and win! This cross platform game is online realtime, async and local multiplayer! Take the control of the super cars, machines developed to win! But be smart because the other player has the same technology and will not want to stay behind! \n\nFeatures:\n• Multiplayer online cross platform up to 4 players , severs around the world;\n• Multiplayer local up to 4 players;\n• New async mode, play with other player even if he’s offline;\n• Online ranked match with all platforms together; \n• 7 great tracks to race;\n• Simple gameplay and very addictive; \n• 8 bits retro visual, but poisoned with technology; \n• Use the power-up boost and vacuum and surely you will win! \n\nWe are working on updates, we'd love to hear your suggestions write to us!\n\nRACE Vr. 2.1",
     "players": [
         1
     ],
@@ -25,42 +25,33 @@
             "nativeSize": 14993772
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/discover",
-        "video": "https://vimeo.com/107299578",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.amoraleite.raceforyourlife_2.1/gbwUGwMTLik8mdNUhMnS.jpg",
-            "https://archive.org/download/ouya_com.amoraleite.raceforyourlife_2.1/gptCTh8xSWEUvEDb3fmw.jpg",
-            "https://archive.org/download/ouya_com.amoraleite.raceforyourlife_2.1/jr5TYpJqT3e2WibUHj4u.jpg",
-            "https://archive.org/download/ouya_com.amoraleite.raceforyourlife_2.1/F0NpJZ1nSLNPbqZphvzJ.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/107299578"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/107299578"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.amoraleite.raceforyourlife/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": "d2b4125d-8c63-45b6-9b62-b11744c25ca4",
         "name": "Secret Weapon",

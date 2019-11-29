@@ -27,66 +27,53 @@
             "nativeSize": 982704
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/discover",
-        "video": "https://vimeo.com/147086675",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/147086675"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/147086675"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Joylinegames.BruhAdventure/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9c975599-9263-4d42-a32f-a45133b04595",
         "name": "ripouya",

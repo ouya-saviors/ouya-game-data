@@ -24,32 +24,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.thebancast.Love/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/yM7ob4AFSP6iGxF3lvVO.jpg",
-            "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/6RppJFUSGuxFoycukEx4.jpg",
-            "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/C70U1HdvQrOmKBUIw4sA.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/yM7ob4AFSP6iGxF3lvVO.jpg",
-                "thumb": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/yM7ob4AFSP6iGxF3lvVO_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/6RppJFUSGuxFoycukEx4.jpg",
-                "thumb": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/6RppJFUSGuxFoycukEx4_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/C70U1HdvQrOmKBUIw4sA.jpg",
-                "thumb": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/C70U1HdvQrOmKBUIw4sA_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.thebancast.Love/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/yM7ob4AFSP6iGxF3lvVO.jpg",
+            "thumb": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/yM7ob4AFSP6iGxF3lvVO_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/6RppJFUSGuxFoycukEx4.jpg",
+            "thumb": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/6RppJFUSGuxFoycukEx4_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/C70U1HdvQrOmKBUIw4sA.jpg",
+            "thumb": "https://archive.org/download/ouya_com.thebancast.Love_0.1.8/C70U1HdvQrOmKBUIw4sA_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Fred Wood",

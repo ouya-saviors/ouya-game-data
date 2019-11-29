@@ -23,66 +23,53 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/discover",
-        "video": "https://vimeo.com/97362284",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/97362284"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-4"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-5"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-6"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-7"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-8"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97362284"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-5"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-6"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-7"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.blumed.superblockshocker/screenshot-8"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "BluMed",

@@ -23,48 +23,38 @@
             "nativeSize": 14685052
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/discover",
-        "video": "https://vimeo.com/83851760",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/83851760"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/83851760"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.Solirax.CardMatch3D/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Tomas Mariancik",

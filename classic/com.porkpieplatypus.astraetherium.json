@@ -23,38 +23,29 @@
             "nativeSize": 19268304
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.porkpieplatypus.astraetherium_0.7777/os7wzlhS6ImWPjhUH1jQ.jpg",
-            "https://archive.org/download/ouya_com.porkpieplatypus.astraetherium_0.7777/6mdZ0utTx26aTvc8J2x1.jpg",
-            "https://archive.org/download/ouya_com.porkpieplatypus.astraetherium_0.7777/q9Vd0fHS4yabOPAy4Sn5.jpg",
-            "https://archive.org/download/ouya_com.porkpieplatypus.astraetherium_0.7777/aABRLA7fSLKOIsD7g7HK.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-4-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.porkpieplatypus.astraetherium/detail-4-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Porkpie Platypus Productions",

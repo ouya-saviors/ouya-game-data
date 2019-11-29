@@ -22,48 +22,38 @@
             "nativeSize": 7794216
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/discover",
-        "video": "https://vimeo.com/97004406",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/97004406"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97004406"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ncot.dotshooter/screenshot-5"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "NCOT Software",

@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.SassyBot.SmallBangTheory/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/DW56i8GOR8i6BkTnmwhI.jpg",
-            "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/qsBLandgQWK1OsDI56cx.jpg",
-            "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/f6P34qrhSuClX76r8CvK.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/DW56i8GOR8i6BkTnmwhI.jpg",
-                "thumb": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/DW56i8GOR8i6BkTnmwhI_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/qsBLandgQWK1OsDI56cx.jpg",
-                "thumb": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/qsBLandgQWK1OsDI56cx_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/f6P34qrhSuClX76r8CvK.jpg",
-                "thumb": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/f6P34qrhSuClX76r8CvK_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.SassyBot.SmallBangTheory/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/DW56i8GOR8i6BkTnmwhI.jpg",
+            "thumb": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/DW56i8GOR8i6BkTnmwhI_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/qsBLandgQWK1OsDI56cx.jpg",
+            "thumb": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/qsBLandgQWK1OsDI56cx_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/f6P34qrhSuClX76r8CvK.jpg",
+            "thumb": "https://archive.org/download/ouya_com.SassyBot.SmallBangTheory_1.02/f6P34qrhSuClX76r8CvK_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "SassyBot Studio",

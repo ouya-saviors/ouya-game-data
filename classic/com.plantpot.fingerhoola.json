@@ -24,90 +24,73 @@
             "nativeSize": 4155552
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/discover",
-        "video": "https://vimeo.com/106620138",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-9",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-10",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-11",
-            "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/screenshot-12"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/106620138"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-10-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-11",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-11-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-12",
-                "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-12-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/106620138"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-10-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-11",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-11-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-12",
+            "thumb": "http://ouya.cweiske.de/game-images/com.plantpot.fingerhoola/detail-12-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Plant Pot",

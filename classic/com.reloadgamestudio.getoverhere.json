@@ -1,7 +1,7 @@
 {
     "packageName": "com.reloadgamestudio.getoverhere",
     "title": "Get Over Here",
-    "description": "\u201cGet Over here\u201d puts you into the role of a Reality Show contestant!\r\nThis Reality Show is bloody competition where you gotta pull your enemies using your hook Gun and finish them with your special move. If you're skillful enough to survive the tournament, beat all your enemies and dodge all the traps, you will be crowned the winner!\r\n\r\nFeatures:\r\nUp to 4 players battle!\r\n7 over the top, stylized characters!\r\n4 different studios filled with dangerous Traps.\r\nSpice thing up with SPECIAL ITEMS that may make or break your strategy!\r\nStunning finishing moves!",
+    "description": "“Get Over here” puts you into the role of a Reality Show contestant!\r\nThis Reality Show is bloody competition where you gotta pull your enemies using your hook Gun and finish them with your special move. If you're skillful enough to survive the tournament, beat all your enemies and dodge all the traps, you will be crowned the winner!\r\n\r\nFeatures:\r\nUp to 4 players battle!\r\n7 over the top, stylized characters!\r\n4 different studios filled with dangerous Traps.\r\nSpice thing up with SPECIAL ITEMS that may make or break your strategy!\r\nStunning finishing moves!",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 14993836
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/discover",
-        "video": "https://vimeo.com/119444252",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/119444252"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/119444252"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.reloadgamestudio.getoverhere/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Reload Game Studio",

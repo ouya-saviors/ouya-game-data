@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ama.puzzle2.ouyaF2P/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/5qvIEYeCRPmUH5XZjhzf.jpg",
-            "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/rj8StmaoT6aMETfShY7z.jpg",
-            "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/eb9PoNTRRsGp4E01I95J.jpg",
-            "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/pjMt47kiSjqggtfrMOKc.jpg",
-            "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/teVosZIQsyCQj45XJwYg.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/5qvIEYeCRPmUH5XZjhzf.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/5qvIEYeCRPmUH5XZjhzf_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/rj8StmaoT6aMETfShY7z.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/rj8StmaoT6aMETfShY7z_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/eb9PoNTRRsGp4E01I95J.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/eb9PoNTRRsGp4E01I95J_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/pjMt47kiSjqggtfrMOKc.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/pjMt47kiSjqggtfrMOKc_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/teVosZIQsyCQj45XJwYg.jpg",
-                "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/teVosZIQsyCQj45XJwYg_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ama.puzzle2.ouyaF2P/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/5qvIEYeCRPmUH5XZjhzf.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/5qvIEYeCRPmUH5XZjhzf_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/rj8StmaoT6aMETfShY7z.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/rj8StmaoT6aMETfShY7z_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/eb9PoNTRRsGp4E01I95J.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/eb9PoNTRRsGp4E01I95J_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/pjMt47kiSjqggtfrMOKc.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/pjMt47kiSjqggtfrMOKc_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/teVosZIQsyCQj45XJwYg.jpg",
+            "thumb": "https://archive.org/download/ouya_com.ama.puzzle2.ouyaF2P_1.0.0/teVosZIQsyCQj45XJwYg_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Advanced Mobile Applications Ltd.",

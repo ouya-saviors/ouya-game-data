@@ -23,38 +23,29 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/io.arkeus.Antichromatic/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/w4l1RGcZQGKdJbMKsqJW.jpg",
-            "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/r4e3rmzT7S9SIpgbBjet.jpg",
-            "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/hJ19NT4CTEKBaIWy7ksK.jpg",
-            "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/QFNziQZaSL1Er3A4wANU.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/w4l1RGcZQGKdJbMKsqJW.jpg",
-                "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/w4l1RGcZQGKdJbMKsqJW_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/r4e3rmzT7S9SIpgbBjet.jpg",
-                "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/r4e3rmzT7S9SIpgbBjet_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/hJ19NT4CTEKBaIWy7ksK.jpg",
-                "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/hJ19NT4CTEKBaIWy7ksK_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/QFNziQZaSL1Er3A4wANU.jpg",
-                "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/QFNziQZaSL1Er3A4wANU_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/io.arkeus.Antichromatic/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/w4l1RGcZQGKdJbMKsqJW.jpg",
+            "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/w4l1RGcZQGKdJbMKsqJW_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/r4e3rmzT7S9SIpgbBjet.jpg",
+            "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/r4e3rmzT7S9SIpgbBjet_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/hJ19NT4CTEKBaIWy7ksK.jpg",
+            "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/hJ19NT4CTEKBaIWy7ksK_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/QFNziQZaSL1Er3A4wANU.jpg",
+            "thumb": "https://archive.org/download/ouya_io.arkeus.Antichromatic_1.0.0/QFNziQZaSL1Er3A4wANU_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Lee Miller",

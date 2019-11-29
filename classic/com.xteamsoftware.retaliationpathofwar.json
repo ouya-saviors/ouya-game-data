@@ -1,7 +1,7 @@
 {
     "packageName": "com.xteamsoftware.retaliationpathofwar",
     "title": "Retaliation Path of War",
-    "description": " Retaliation: Path of War is a new and original hex-and-counter turn based wargame. It has been designed and developed with the main purpose of offering a fun and easy to learn wargame, without the complexity and hyper realism of traditional simulation wargames while at the same time keeping all the interesting and challenging elements of tactical reasoning.\r\n\r\nHave you enjoyed playing many matches of Risk\u2122 with your friends but often felt limited by its simplicity and yearned for something more? Have you been engaged in realistic battle simulations lasting several hours (or days!) and wished you could just get to the point and vanquish your enemies?\r\nThen you've come to the right place: whether you are a seasoned strategist or a casual gamer, you will love crushing tanks and conquering bases in Retaliation!",
+    "description": " Retaliation: Path of War is a new and original hex-and-counter turn based wargame. It has been designed and developed with the main purpose of offering a fun and easy to learn wargame, without the complexity and hyper realism of traditional simulation wargames while at the same time keeping all the interesting and challenging elements of tactical reasoning.\r\n\r\nHave you enjoyed playing many matches of Risk™ with your friends but often felt limited by its simplicity and yearned for something more? Have you been engaged in realistic battle simulations lasting several hours (or days!) and wished you could just get to the point and vanquish your enemies?\r\nThen you've come to the right place: whether you are a seasoned strategist or a casual gamer, you will love crushing tanks and conquering bases in Retaliation!",
     "players": [
         1
     ],
@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.xteamsoftware.retaliationpathofwar/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "XTeam Software Solutions SRLS",

@@ -24,50 +24,39 @@
             "nativeSize": 14992732
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.WildcardStudios.StolenPresents.OuyaEdition/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "cad7eedd-517c-4e74-b99a-a93c81d5af2b",
         "name": "Wildcard Studios Gaming Division",

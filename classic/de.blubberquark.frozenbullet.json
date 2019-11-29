@@ -23,32 +23,24 @@
             "nativeSize": 3671272
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/screenshot-1",
-            "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/screenshot-2",
-            "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/de.blubberquark.frozenbullet/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "d73675e6-1720-469d-aa85-50d8c0b9dc96",
         "name": "Blubberquark Software",

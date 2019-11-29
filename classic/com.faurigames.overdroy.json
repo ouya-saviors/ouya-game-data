@@ -1,7 +1,7 @@
 {
     "packageName": "com.faurigames.overdroy",
     "title": "Overdroy",
-    "description": "Overdroy is a game that mix the traditional platform style with puzzles. The player assumes the role of Droy, a friendly robot on wheels who must face the most diverse challenges to collect their precious gears over 54 levels full of dangers and riddles.\r\n\r\nThe difficulty gradually increases in each new conquest, testing the most your reflex and skills to make quick and accurate decisions.\r\n\r\nJump, run, dash, dodge and fly with Overdroy, a very hard and challenging game made \u200b\u200bby just one person, for true gamers and lovers of old-school!",
+    "description": "Overdroy is a game that mix the traditional platform style with puzzles. The player assumes the role of Droy, a friendly robot on wheels who must face the most diverse challenges to collect their precious gears over 54 levels full of dangers and riddles.\r\n\r\nThe difficulty gradually increases in each new conquest, testing the most your reflex and skills to make quick and accurate decisions.\r\n\r\nJump, run, dash, dodge and fly with Overdroy, a very hard and challenging game made ​​by just one person, for true gamers and lovers of old-school!",
     "players": [
         1
     ],
@@ -23,66 +23,53 @@
             "nativeSize": 4035572
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/discover",
-        "video": "http://vimeo.com/97693387",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/97693387"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-4"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-5"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-6"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-7"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-8"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/97693387"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-5"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-6"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-7"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.faurigames.overdroy/screenshot-8"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Roberto T. Fauri",

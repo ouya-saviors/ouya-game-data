@@ -1,7 +1,7 @@
 {
     "packageName": "com.tinyorange.flyingorange",
     "title": "Flying Orange",
-    "description": "Who says oranges can't fly? Use your GamePad to help orange fly away in this amazing game. Cute oranges are around and is your job to help them. Flying Orange is a very simple game like Flappy Bird. Press \"action\" button on GamePad to flap your nimble orange and try to avoid obstacles.\r\n\r\nFeatures:\r\n\r\n\u2605 Easy controls.\r\n\u2605 Lots of fun. \r\n\u2605 Nice graphics.\r\n\u2605 Challenging gameplay.",
+    "description": "Who says oranges can't fly? Use your GamePad to help orange fly away in this amazing game. Cute oranges are around and is your job to help them. Flying Orange is a very simple game like Flappy Bird. Press \"action\" button on GamePad to flap your nimble orange and try to avoid obstacles.\r\n\r\nFeatures:\r\n\r\n★ Easy controls.\r\n★ Lots of fun. \r\n★ Nice graphics.\r\n★ Challenging gameplay.",
     "players": [
         1
     ],
@@ -23,50 +23,39 @@
             "nativeSize": 1981740
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.tinyorange.flyingorange/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "22acab5a-cd99-44c7-abdd-2567ad8d013f",
         "name": "Tiny Orange, OOO",

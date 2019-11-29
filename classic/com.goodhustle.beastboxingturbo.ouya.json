@@ -22,42 +22,33 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.goodhustle.beastboxingturbo.ouya/discover",
-        "video": "https://vimeo.com/89986869",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/SeQUoQZWTNu0Gumd7cp4.jpg",
-            "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/JAoHuOFWTcGIA0qc5DKF.jpg",
-            "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/fZS8Qa2TVSqt8nPJJu7g.jpg",
-            "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/9KLWoZLIRguyZII9tF2B.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/89986869"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/SeQUoQZWTNu0Gumd7cp4.jpg",
-                "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/SeQUoQZWTNu0Gumd7cp4_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/JAoHuOFWTcGIA0qc5DKF.jpg",
-                "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/JAoHuOFWTcGIA0qc5DKF_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/fZS8Qa2TVSqt8nPJJu7g.jpg",
-                "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/fZS8Qa2TVSqt8nPJJu7g_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/9KLWoZLIRguyZII9tF2B.jpg",
-                "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/9KLWoZLIRguyZII9tF2B_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.goodhustle.beastboxingturbo.ouya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/89986869"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/SeQUoQZWTNu0Gumd7cp4.jpg",
+            "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/SeQUoQZWTNu0Gumd7cp4_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/JAoHuOFWTcGIA0qc5DKF.jpg",
+            "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/JAoHuOFWTcGIA0qc5DKF_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/fZS8Qa2TVSqt8nPJJu7g.jpg",
+            "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/fZS8Qa2TVSqt8nPJJu7g_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/9KLWoZLIRguyZII9tF2B.jpg",
+            "thumb": "https://archive.org/download/ouya_com.goodhustle.beastboxingturbo.ouya_1.2.3/9KLWoZLIRguyZII9tF2B_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Goodhustle Studios, Inc.",

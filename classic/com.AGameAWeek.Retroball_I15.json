@@ -21,44 +21,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.AGameAWeek.Retroball_I15_1.3/vlvjgctSSFCe4Z2LsTvg.jpg",
-            "https://archive.org/download/ouya_com.AGameAWeek.Retroball_I15_1.3/WGbhK3EkT6wWqaJXHuaQ.jpg",
-            "https://archive.org/download/ouya_com.AGameAWeek.Retroball_I15_1.3/rXNuFBu9QJuYqOkzZVza.jpg",
-            "https://archive.org/download/ouya_com.AGameAWeek.Retroball_I15_1.3/5hbnbyWQGegvJlOs48y1.jpg",
-            "https://archive.org/download/ouya_com.AGameAWeek.Retroball_I15_1.3/ufBHTkHQi2pY7WZbxKWU.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Retroball_I15/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "8a1647c2-1d78-4c08-91cf-7916e720fd67",
         "name": "Jayenkai",

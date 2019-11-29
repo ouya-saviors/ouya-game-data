@@ -21,32 +21,24 @@
             "nativeSize": 1545368
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/screenshot-1",
-            "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/screenshot-2",
-            "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/deploy.games.indianboatriver/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Deploy Games",

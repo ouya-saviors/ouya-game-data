@@ -24,32 +24,24 @@
             "nativeSize": 15002800
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.slightlyobese.wai/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "b3bb284b-a1bf-4a4d-9bb6-7850ef0f6917",
         "name": "Maple Taco Studio",

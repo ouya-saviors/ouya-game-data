@@ -23,48 +23,38 @@
             "nativeSize": 5533336
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/discover",
-        "video": "https://vimeo.com/105760430",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.dotemu.rtype/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/105760430"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/105760430"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dotemu.rtype/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "a25ff919-ed9e-4e80-b06d-f0d53f5a367b",
         "name": "DotEmu SAS",

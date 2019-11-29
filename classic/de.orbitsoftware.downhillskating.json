@@ -1,7 +1,7 @@
 {
     "packageName": "de.orbitsoftware.downhillskating",
     "title": "Skater Dave - Downhill Skating",
-    "description": "Aged Skater Dave is dreaming of becoming the World Champion in Downhill Skating. At the beginning he has just his old surfboard with some plastic rolls which is hard to control. Falls seem to be unavoidable. Nevertheless, to get the trophy he needs a lot of training and upgrades of his board. You jump into the role of Skater Dave. \r\n\r\nUpgrade the boards to jump higher, get faster and protect Dave from crashes With your motivation you will help him to manage to be successful.\r\n\r\nHave a lot of fun with Skater Dave and his humor!\r\n\r\nFeatures:\r\n\u2022 11 levels with different themes, comic graphics, punk music and a lot of jokes\r\n\u2022 Tutorial level\r\n\u2022 3 different types of boards\r\n\u2022 different tricks for collecting coins and laughing\r\n\u2022 over 100 different obstacles\r\n\u2022 make trick combos for getting more coins\r\n\u2022 Attention: If Dave crashes, he will loose energy!\r\n\u2022 Use a First Aid Kit, if Dave is in Hospital\r\n\u2022 Game Center: Play against your friends!\r\n\u2022 5 Bonus Stages to earn coins\r\n\u2022 physic-engine to simulate Skater Dave",
+    "description": "Aged Skater Dave is dreaming of becoming the World Champion in Downhill Skating. At the beginning he has just his old surfboard with some plastic rolls which is hard to control. Falls seem to be unavoidable. Nevertheless, to get the trophy he needs a lot of training and upgrades of his board. You jump into the role of Skater Dave. \r\n\r\nUpgrade the boards to jump higher, get faster and protect Dave from crashes With your motivation you will help him to manage to be successful.\r\n\r\nHave a lot of fun with Skater Dave and his humor!\r\n\r\nFeatures:\r\n• 11 levels with different themes, comic graphics, punk music and a lot of jokes\r\n• Tutorial level\r\n• 3 different types of boards\r\n• different tricks for collecting coins and laughing\r\n• over 100 different obstacles\r\n• make trick combos for getting more coins\r\n• Attention: If Dave crashes, he will loose energy!\r\n• Use a First Aid Kit, if Dave is in Hospital\r\n• Game Center: Play against your friends!\r\n• 5 Bonus Stages to earn coins\r\n• physic-engine to simulate Skater Dave",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/discover",
-        "video": "https://vimeo.com/79976500",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-1",
-            "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-2",
-            "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-3",
-            "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-4",
-            "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/79976500"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/79976500"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/de.orbitsoftware.downhillskating/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Orbit Software",

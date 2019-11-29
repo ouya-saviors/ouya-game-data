@@ -1,7 +1,7 @@
 {
     "packageName": "com.dustycatmedia.caostriggergolem",
     "title": "Caos Trigger: Golem",
-    "description": "Support us on Kickstarter!\r\nhttps://www.kickstarter.com/projects/388262625/caos-trigger-golem\r\n\r\nCaos Trigger: Golem is a 2d, retro-style metroidvania game for multiple platforms; including PC, Android, iOS and Ouya (with more platforms coming soon!). It also serves as a tribute to TRUE and original metroidvania games (ie the PSX, GBA, and NDS Castlevania series) as it does not stray too far away from their simple but challenging gameplay and visuals combining traditional / pixel art with a slightly modern look (the likes of 2d games ranging from the SNES and the original PSX).\r\n\r\nPlayers take control of the main protagonist, Anaise in classic, metroidvania style fashion. Anaise can run, crouch, jump, and slash her way through 2d, sidescrolling areas encountering various enemies and obstacles. The game\u2019s main feature is the creation and summoning of magical beings called \u201cgolems\u201d. In order to summon a golem, the player must acquire \u201cGolem Scrolls\u201d, which in turn has information on what ingredients/materials are required to summon a specific golem. They make use of the player\u2019s Magic Points in performing their special attacks. They also grant the player / Anaise a special weapon and other various abilities.",
+    "description": "Support us on Kickstarter!\r\nhttps://www.kickstarter.com/projects/388262625/caos-trigger-golem\r\n\r\nCaos Trigger: Golem is a 2d, retro-style metroidvania game for multiple platforms; including PC, Android, iOS and Ouya (with more platforms coming soon!). It also serves as a tribute to TRUE and original metroidvania games (ie the PSX, GBA, and NDS Castlevania series) as it does not stray too far away from their simple but challenging gameplay and visuals combining traditional / pixel art with a slightly modern look (the likes of 2d games ranging from the SNES and the original PSX).\r\n\r\nPlayers take control of the main protagonist, Anaise in classic, metroidvania style fashion. Anaise can run, crouch, jump, and slash her way through 2d, sidescrolling areas encountering various enemies and obstacles. The game’s main feature is the creation and summoning of magical beings called “golems”. In order to summon a golem, the player must acquire “Golem Scrolls”, which in turn has information on what ingredients/materials are required to summon a specific golem. They make use of the player’s Magic Points in performing their special attacks. They also grant the player / Anaise a special weapon and other various abilities.",
     "players": [
         1
     ],
@@ -23,78 +23,63 @@
             "nativeSize": 8714344
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/discover",
-        "video": "https://vimeo.com/116375089",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/N5qVdLPzSOm8qVkGUjoG.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/dlRoyTmRyGuMvCwfkMoZ.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/JTkViifQQu6hwHpbt3h8.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/8IEE088zQ928nYFXDSBh.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/khbwq2r6R6ud7oKAmHrF.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/GyPt9TeTRi2U0td0NhBV.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/BeNnVmnxRmWwtmTOme32.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/h61ypNKaSmeU5GbzpLAx.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/T13qcbvkS0ewAUHMjoZb.jpg",
-            "https://archive.org/download/ouya_com.dustycatmedia.caostriggergolem_1.0.4/C5UbRWoVQhe1uzLbtp1H.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/116375089"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-9-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-10",
-                "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-10-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/116375089"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-9-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-10",
+            "thumb": "http://ouya.cweiske.de/game-images/com.dustycatmedia.caostriggergolem/detail-10-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "DustyCat Media",

@@ -23,36 +23,28 @@
             "nativeSize": 19287100
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/discover",
-        "video": "https://vimeo.com/159655809",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.guillaumesoft.platformer_3.0/H8SOssKqTJysCyQpDWsg.jpg",
-            "https://archive.org/download/ouya_com.guillaumesoft.platformer_3.0/7BcuxBMwSIGGxhZqqkjg.jpg",
-            "https://archive.org/download/ouya_com.guillaumesoft.platformer_3.0/g7JGgY7eT5uD7G7SeXV4.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/159655809"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/159655809"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.guillaumesoft.platformer/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Guillaume Swolfs  Guillaumesoft",

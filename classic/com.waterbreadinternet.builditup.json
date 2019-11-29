@@ -22,60 +22,48 @@
             "nativeSize": 7188876
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/discover",
-        "video": "https://vimeo.com/104861118",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/screenshot-7"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/104861118"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-7-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/104861118"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.waterbreadinternet.builditup/detail-7-thumb"
+        }
+    ],
     "developer": {
         "uuid": "bb4ae5cb-6bd7-4c5e-af1e-643b4dcf7199",
         "name": "Water Bread Internet",

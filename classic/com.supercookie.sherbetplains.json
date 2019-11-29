@@ -1,7 +1,7 @@
 {
     "packageName": "com.supercookie.sherbetplains",
     "title": "BetaMax - Sherbet Plains",
-    "description": "Help Max travel across his candy filled world to crush Mittens and save his beloved Min!\n\n\u2605\u2605 HOW TO PLAY \u2605\u2605\n\n\u2714 Press the Left/Right d-pad to move Max and tap O to jump\n\u2714 Bounce off enemies to defeat them\n\u2714 Collect all the candy and cookies to unlock all three stars on each level\n\n\u2605\u2605 FEATURES \u2605\u2605\n\n\u2714 Rewind back to the SNES and Megadrive 16bit era\n\u2714 Retro and colorful graphics\n\u2714 Cute characters\n\u2714 Free classic 2D action platform saga\n\u2714 21 sweet levels with a final boss\n\nNote: You can disable the funky CRT look by pressing L1 at any point in the game.",
+    "description": "Help Max travel across his candy filled world to crush Mittens and save his beloved Min!\n\n★★ HOW TO PLAY ★★\n\n✔ Press the Left/Right d-pad to move Max and tap O to jump\n✔ Bounce off enemies to defeat them\n✔ Collect all the candy and cookies to unlock all three stars on each level\n\n★★ FEATURES ★★\n\n✔ Rewind back to the SNES and Megadrive 16bit era\n✔ Retro and colorful graphics\n✔ Cute characters\n✔ Free classic 2D action platform saga\n✔ 21 sweet levels with a final boss\n\nNote: You can disable the funky CRT look by pressing L1 at any point in the game.",
     "players": [
         1
     ],
@@ -21,32 +21,24 @@
             "nativeSize": 481688
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.supercookie.sherbetplains/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "3e3e5f2a-aba8-445b-828b-7726c495fa1c",
         "name": "Super Cookie Games",

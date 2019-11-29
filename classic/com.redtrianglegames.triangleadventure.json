@@ -23,66 +23,53 @@
             "nativeSize": 2589484
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/discover",
-        "video": "https://vimeo.com/125902611",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/screenshot-8"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/125902611"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-8-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/125902611"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.redtrianglegames.triangleadventure/detail-8-thumb"
+        }
+    ],
     "developer": {
         "uuid": "51f87f80-2657-4f88-bbec-b7d9c70c315f",
         "name": "Red Triangle Games",

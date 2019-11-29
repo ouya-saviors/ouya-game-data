@@ -1,7 +1,7 @@
 {
     "packageName": "com.cyros.flappy",
     "title": "Flappy Crow",
-    "description": "It\u00b4s a Game like Flappy Bird . The Game is Opensource. You can download the source at www.cyros.de .",
+    "description": "It´s a Game like Flappy Bird . The Game is Opensource. You can download the source at www.cyros.de .",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 7816532
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.cyros.flappy/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.cyros.flappy/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.cyros.flappy/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.cyros.flappy/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.cyros.flappy/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.cyros.flappy/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Cyros ",

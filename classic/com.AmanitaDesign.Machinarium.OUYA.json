@@ -22,72 +22,58 @@
             "nativeSize": 1569032
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/discover",
-        "video": "https://vimeo.com/5937984",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-6",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-7",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-8",
-            "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/screenshot-9"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/5937984"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/5937984"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.AmanitaDesign.Machinarium.OUYA/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "fc4b2401-767c-49d8-886f-ef8cd6c9daa6",
         "name": "Amanita Design s.r.o.",

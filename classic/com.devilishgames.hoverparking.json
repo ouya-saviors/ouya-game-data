@@ -1,7 +1,7 @@
 {
     "packageName": "com.devilishgames.hoverparking",
     "title": "360 Hover Parking",
-    "description": "This is the year 2136 and we\u2019ve run out of space to store our cars. Fortunately, these new cars grip to any surface so we can drive them in the three dimensional axis.\r\n\r\nEnjoy parking cars in a 360 degrees experience, in every horizontal floor and every vertical wall, in a neon styled futuristic world. Park as many cars as you can before the time is over and before you lose your sense of direction.",
+    "description": "This is the year 2136 and we’ve run out of space to store our cars. Fortunately, these new cars grip to any surface so we can drive them in the three dimensional axis.\r\n\r\nEnjoy parking cars in a 360 degrees experience, in every horizontal floor and every vertical wall, in a neon styled futuristic world. Park as many cars as you can before the time is over and before you lose your sense of direction.",
     "players": [
         1
     ],
@@ -22,36 +22,28 @@
             "nativeSize": 14956816
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/discover",
-        "video": "https://vimeo.com/114959105",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/114959105"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/114959105"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.devilishgames.hoverparking/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "SPHERICAL PIXEL, S.L",

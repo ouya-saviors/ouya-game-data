@@ -22,48 +22,38 @@
             "nativeSize": 14942692
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/discover",
-        "video": "https://vimeo.com/98265428",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.botbiteindustries.ntd_1.2.99/WWXXxmVxSEITNsZWwrz8.jpg",
-            "https://archive.org/download/ouya_com.botbiteindustries.ntd_1.2.99/twrTHYcDQ9WnrtRJjsmK.jpg",
-            "https://archive.org/download/ouya_com.botbiteindustries.ntd_1.2.99/P9bFfSZwSsHVq951WV3g.jpg",
-            "https://archive.org/download/ouya_com.botbiteindustries.ntd_1.2.99/QrrDNt2hQGeBk9eckSbg.jpg",
-            "https://archive.org/download/ouya_com.botbiteindustries.ntd_1.2.99/pDKHdATS0iOGBwFhvfg4.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/98265428"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/98265428"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.botbiteindustries.ntd/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "c965c58d-d3b5-4a6e-93ec-a45dfc4e9d2d",
         "name": "BotBite Industries",

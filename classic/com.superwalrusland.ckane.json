@@ -22,36 +22,28 @@
             "nativeSize": 2605752
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/discover",
-        "video": "https://vimeo.com/107211478",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/107211478"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/107211478"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.superwalrusland.ckane/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": "18c61dc1-423e-4939-8d77-61ac08ee7f74",
         "name": "Super Walrus Games",

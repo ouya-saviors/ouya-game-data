@@ -22,54 +22,43 @@
             "nativeSize": 14884068
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/discover",
-        "video": "http://vimeo.com/104999591",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/104999591"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/104999591"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.medusa.oddysmogfinal/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "9f34b3d1-5efe-4018-9a2f-1ef3812a86cd",
         "name": "PlayMedusa",

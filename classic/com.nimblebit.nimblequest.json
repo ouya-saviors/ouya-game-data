@@ -1,7 +1,7 @@
 {
     "packageName": "com.nimblebit.nimblequest",
     "title": "Nimble Quest",
-    "description": "From the creators of Tiny Tower, Sky Burger and Pocket Planes comes Nimble Quest! Lead a conga line of heroes to glory against hordes of enemies across an endless number of stages. How many enemies can you defeat? Steer your unstoppable (seriously, you can\u2019t stop) party as they cut a path of destruction through levels filled with different enemies and power-ups.  Unlock and level up heroes to increase the size of your party and make them more powerful. Can your party make it from the tranquility of the Forest to the fire and brimstone of the Depths?\r\n\r\nTired of competing alone? Join a guild and compete with other players in special time-limited Guild Quests. Is your guild skilled enough to top the global leaderboards?",
+    "description": "From the creators of Tiny Tower, Sky Burger and Pocket Planes comes Nimble Quest! Lead a conga line of heroes to glory against hordes of enemies across an endless number of stages. How many enemies can you defeat? Steer your unstoppable (seriously, you can’t stop) party as they cut a path of destruction through levels filled with different enemies and power-ups.  Unlock and level up heroes to increase the size of your party and make them more powerful. Can your party make it from the tranquility of the Forest to the fire and brimstone of the Depths?\r\n\r\nTired of competing alone? Join a guild and compete with other players in special time-limited Guild Quests. Is your guild skilled enough to top the global leaderboards?",
     "players": [
         1
     ],
@@ -23,44 +23,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/discover",
-        "video": null,
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.nimblebit.nimblequest/screenshot-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Nimblebit LLC",

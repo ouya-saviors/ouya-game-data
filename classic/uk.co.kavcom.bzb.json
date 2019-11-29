@@ -1,7 +1,7 @@
 {
     "packageName": "uk.co.kavcom.bzb",
     "title": "Burn Zombie Burn!",
-    "description": "Welcome to the char-grilled world of Burn Zombie Burn, where the best type of undead is barbequed undead.\r\nThe goals are simple: keep Bruce alive, as he tries to keep Daisy alive, and get the highest score possible. Standing (well, ambling) in your way is a never ending horde of the rotting, stinking and stupid undead. Fortunately our mild-mannered hero Bruce can get hold of some tasty weaponry. Burn, batter, shoot, maim, blow up, mince, and obliterate as many zombies as possible before they make Bruce their dinner\u2026\r\nFlaming zombies are faster and more dangerous than regular uncooked zombies. But burning zombies drop better pickups and act as a score multiplier \u2013 light \u2018em up, score big, and have fun.",
+    "description": "Welcome to the char-grilled world of Burn Zombie Burn, where the best type of undead is barbequed undead.\r\nThe goals are simple: keep Bruce alive, as he tries to keep Daisy alive, and get the highest score possible. Standing (well, ambling) in your way is a never ending horde of the rotting, stinking and stupid undead. Fortunately our mild-mannered hero Bruce can get hold of some tasty weaponry. Burn, batter, shoot, maim, blow up, mince, and obliterate as many zombies as possible before they make Bruce their dinner…\r\nFlaming zombies are faster and more dangerous than regular uncooked zombies. But burning zombies drop better pickups and act as a score multiplier – light ‘em up, score big, and have fun.",
     "players": [
         1
     ],
@@ -23,54 +23,43 @@
             "nativeSize": 4301336
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/discover",
-        "video": "https://vimeo.com/91415878",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/screenshot-1",
-            "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/screenshot-2",
-            "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/screenshot-3",
-            "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/screenshot-4",
-            "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/screenshot-5",
-            "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/91415878"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/91415878"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/uk.co.kavcom.bzb/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": "e6ed91ed-771d-4901-9f9b-c37fbd83c1aa",
         "name": "Kavcom Limited",

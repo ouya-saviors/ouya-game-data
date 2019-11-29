@@ -1,7 +1,7 @@
 {
     "packageName": "com.twistory.ouchcouch",
     "title": "Ouch! Couch",
-    "description": "Ouch! Couch brings a gaming experience to the OUYA not seen since the days of the arcades.\r\n\r\nCruising the streets in custom designed sofas and davenports you\u2019ll pick-up avid fans who simply can\u2019t get enough of your downhill couching. Life's not all cupcakes and screaming girls - you must launch your couch into the air to avoid an assortment of different obstacles including: Fire Breathing Crocodiles, Flying Pigs and Dancing Robots!\r\n\r\nFeatures:\r\n- 3 unique couches to choose\r\n- Endless gameplay with increasing levels of challenge\r\n- Worldwide leaderboards\r\n- Share your high score with the world!",
+    "description": "Ouch! Couch brings a gaming experience to the OUYA not seen since the days of the arcades.\r\n\r\nCruising the streets in custom designed sofas and davenports you’ll pick-up avid fans who simply can’t get enough of your downhill couching. Life's not all cupcakes and screaming girls - you must launch your couch into the air to avoid an assortment of different obstacles including: Fire Breathing Crocodiles, Flying Pigs and Dancing Robots!\r\n\r\nFeatures:\r\n- 3 unique couches to choose\r\n- Endless gameplay with increasing levels of challenge\r\n- Worldwide leaderboards\r\n- Share your high score with the world!",
     "players": [
         1
     ],
@@ -23,42 +23,33 @@
             "nativeSize": 14689140
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/discover",
-        "video": "https://vimeo.com/97560703",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-4"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/97560703"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-1"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-2"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-3"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-4"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97560703"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-1"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-2"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-3"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.twistory.ouchcouch/screenshot-4"
+        }
+    ],
     "developer": {
         "uuid": "0376a6c9-7c08-4135-bf18-91f952c63db0",
         "name": "Twistory Entertainment Studios",

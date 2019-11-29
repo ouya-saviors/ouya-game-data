@@ -22,44 +22,34 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.omgwtfgames.phoboantre/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/rnhva2qnR7ycvrqrLXLp.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Y1XIHkuORGOCAACFwEvt.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/qTqr5c3pQhWUzwpoiAAx.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/LGyIpnJSvOrZkOQBanPf.jpg",
-            "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Hj0ARRgSBOa5KsJxiVCl.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/rnhva2qnR7ycvrqrLXLp.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/rnhva2qnR7ycvrqrLXLp_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Y1XIHkuORGOCAACFwEvt.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Y1XIHkuORGOCAACFwEvt_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/qTqr5c3pQhWUzwpoiAAx.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/qTqr5c3pQhWUzwpoiAAx_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/LGyIpnJSvOrZkOQBanPf.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/LGyIpnJSvOrZkOQBanPf_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Hj0ARRgSBOa5KsJxiVCl.jpg",
-                "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Hj0ARRgSBOa5KsJxiVCl_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.omgwtfgames.phoboantre/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/rnhva2qnR7ycvrqrLXLp.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/rnhva2qnR7ycvrqrLXLp_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Y1XIHkuORGOCAACFwEvt.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Y1XIHkuORGOCAACFwEvt_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/qTqr5c3pQhWUzwpoiAAx.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/qTqr5c3pQhWUzwpoiAAx_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/LGyIpnJSvOrZkOQBanPf.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/LGyIpnJSvOrZkOQBanPf_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Hj0ARRgSBOa5KsJxiVCl.jpg",
+            "thumb": "https://archive.org/download/ouya_com.omgwtfgames.phoboantre_1.1/Hj0ARRgSBOa5KsJxiVCl_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": "d85caf76-f735-4ff3-a398-460a6dd19192",
         "name": "OMGWTFGAMES !1!!",

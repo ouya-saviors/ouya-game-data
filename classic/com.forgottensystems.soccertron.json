@@ -27,48 +27,38 @@
             "nativeSize": 20536724
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/discover",
-        "video": "https://vimeo.com/206754674",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/206754674"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/206754674"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "David Erosa",

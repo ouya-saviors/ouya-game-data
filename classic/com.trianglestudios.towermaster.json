@@ -1,7 +1,7 @@
 {
     "packageName": "com.trianglestudios.towermaster",
     "title": "Tower Master",
-    "description": "Ready to save that princess again? No you\u2019re not. You\u2019re going to die. Over and over again. Please don\u2019t blame us, blame your friends!\r\n\r\nWhat is it?\r\nTower Master is a multiplayer game in which the contestants race each other in booby trap-filled levels designed and built by themselves.\r\n\r\nWhat do I do? \r\nSo you want to enter the race to the top of the tower? Well hold your horses for a moment, because first you must make a floor to enter a match! After you\u2019re done building your cleverly fiendish floor you must prove yourself by finishing it yourselves. Only then you are deemed worthy to claim your position at the gates of the tower!",
+    "description": "Ready to save that princess again? No you’re not. You’re going to die. Over and over again. Please don’t blame us, blame your friends!\r\n\r\nWhat is it?\r\nTower Master is a multiplayer game in which the contestants race each other in booby trap-filled levels designed and built by themselves.\r\n\r\nWhat do I do? \r\nSo you want to enter the race to the top of the tower? Well hold your horses for a moment, because first you must make a floor to enter a match! After you’re done building your cleverly fiendish floor you must prove yourself by finishing it yourselves. Only then you are deemed worthy to claim your position at the gates of the tower!",
     "players": [
         1
     ],
@@ -22,32 +22,24 @@
             "nativeSize": 128536
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.trianglestudios.towermaster/discover",
-        "video": null,
-        "screenshots": [
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XtVPG8kgQmeinDgP2oLj",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/td4pChw1R4GZOwvIJiea",
-            "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8XCtCWVGRCGkrSkTbkJW"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XtVPG8kgQmeinDgP2oLj",
-                "thumb": "https://www.filepicker.io/api/file/XtVPG8kgQmeinDgP2oLj/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/td4pChw1R4GZOwvIJiea",
-                "thumb": "https://www.filepicker.io/api/file/td4pChw1R4GZOwvIJiea/convert?w=245"
-            },
-            {
-                "type": "image",
-                "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8XCtCWVGRCGkrSkTbkJW",
-                "thumb": "https://www.filepicker.io/api/file/8XCtCWVGRCGkrSkTbkJW/convert?w=245"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.trianglestudios.towermaster/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XtVPG8kgQmeinDgP2oLj",
+            "thumb": "https://www.filepicker.io/api/file/XtVPG8kgQmeinDgP2oLj/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/td4pChw1R4GZOwvIJiea",
+            "thumb": "https://www.filepicker.io/api/file/td4pChw1R4GZOwvIJiea/convert?w=245"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8XCtCWVGRCGkrSkTbkJW",
+            "thumb": "https://www.filepicker.io/api/file/8XCtCWVGRCGkrSkTbkJW/convert?w=245"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Triangle Studios",

@@ -27,72 +27,58 @@
             "nativeSize": 3976676
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/discover",
-        "video": "http://vimeo.com/108618699",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/sVq0eN5OR9KjlX0E3n8p.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/DIA07ewpRUGERgaxLTVI.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/EEY94f3Rw2lxkcqJBPV1.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/feYP5E0iQlCrDFfqQcYt.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/3nMFHvc9Sy6H1nm5dcZe.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/OQ4O3vJkQDmsrJZA8g2b.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/ryOJuRxdQqur2QvmOGcu.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/ZeV4hgySk6XuLCvVkIZm.jpg",
-            "https://archive.org/download/ouya_com.ethanonengine.ouya.magicrampage_1.9.8/F9GOWWjTT2CLOwhUmzNp.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/108618699"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/108618699"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ethanonengine.ouya.magicrampage/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "006ffa4f-9e8e-4952-8729-9cc1e7e75861",
         "name": "Asantee Games",

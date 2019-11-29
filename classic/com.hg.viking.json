@@ -1,7 +1,7 @@
 {
     "packageName": "com.hg.viking",
     "title": "Happy Vikings",
-    "description": "Get aboard your dragonship and raid foreign lands for valuable loot! It\u2019s your job to stack and arrange the loot into combos and chains to earn points and dominate the world! Experience the might of those who reside in Valhalla's great halls. Combine ancient runes to earn favours from the Nordic Gods of Old! Prove your worthiness and strength and earn your right to enter the Gates of Valhalla as a Happy Viking!",
+    "description": "Get aboard your dragonship and raid foreign lands for valuable loot! It’s your job to stack and arrange the loot into combos and chains to earn points and dominate the world! Experience the might of those who reside in Valhalla's great halls. Combine ancient runes to earn favours from the Nordic Gods of Old! Prove your worthiness and strength and earn your right to enter the Gates of Valhalla as a Happy Viking!",
     "players": [
         1
     ],
@@ -21,36 +21,28 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.hg.viking/discover",
-        "video": "https://vimeo.com/81584552",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.hg.viking_1.3.0/WqvduDXqSgyEck60nd72.jpg",
-            "https://archive.org/download/ouya_com.hg.viking_1.3.0/ANEMSwRhSjKs5QLyeX1q.jpg",
-            "https://archive.org/download/ouya_com.hg.viking_1.3.0/rAqiSDbUR1u20s2eNSup.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/81584552"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.viking_1.3.0/WqvduDXqSgyEck60nd72.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.viking_1.3.0/WqvduDXqSgyEck60nd72_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.viking_1.3.0/ANEMSwRhSjKs5QLyeX1q.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.viking_1.3.0/ANEMSwRhSjKs5QLyeX1q_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.hg.viking_1.3.0/rAqiSDbUR1u20s2eNSup.jpg",
-                "thumb": "https://archive.org/download/ouya_com.hg.viking_1.3.0/rAqiSDbUR1u20s2eNSup_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.hg.viking/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/81584552"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.viking_1.3.0/WqvduDXqSgyEck60nd72.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.viking_1.3.0/WqvduDXqSgyEck60nd72_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.viking_1.3.0/ANEMSwRhSjKs5QLyeX1q.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.viking_1.3.0/ANEMSwRhSjKs5QLyeX1q_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.hg.viking_1.3.0/rAqiSDbUR1u20s2eNSup.jpg",
+            "thumb": "https://archive.org/download/ouya_com.hg.viking_1.3.0/rAqiSDbUR1u20s2eNSup_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "HandyGames",

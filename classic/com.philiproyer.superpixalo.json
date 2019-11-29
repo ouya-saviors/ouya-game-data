@@ -1,7 +1,7 @@
 {
     "packageName": "com.philiproyer.superpixalo",
     "title": "Super Pixalo",
-    "description": "Super Pixalo is the story of a pixel from a 1960s Rock & Roll themed arcade cabinet. Join Pixalo as he travels through over 50 years of pop culture in a journey of self discovery. \n\nREVIEWS\n\"Super Pixalo is to OUYA what Mario is to Nintendo\" - OUYA Brew\n\n\"The retro geek in me rejoices at Pixalo's simplicity and old school controller-throwing challenge!\" - Chris Downing \n\n\u201cTough and very rewarding - precision platforming at it's best!\u201d - TinyPixxels \n\n\u201cSuper Pixalo is the finest platformer on the OUYA!\u201d - Jeremy Peeples \n\n\u201cA great and enjoyable platformer that you can find yourself getting lost in for many hours.\u201d - Otaku Punk \n\nFULL GAME INCLUDES\n- 127 levels\n- 124 pixel art collectables\n- Two game modes\n- PS3 and XBOX360 controller support\n- Original Soundtrack by Saad Ali",
+    "description": "Super Pixalo is the story of a pixel from a 1960s Rock & Roll themed arcade cabinet. Join Pixalo as he travels through over 50 years of pop culture in a journey of self discovery. \n\nREVIEWS\n\"Super Pixalo is to OUYA what Mario is to Nintendo\" - OUYA Brew\n\n\"The retro geek in me rejoices at Pixalo's simplicity and old school controller-throwing challenge!\" - Chris Downing \n\n“Tough and very rewarding - precision platforming at it's best!” - TinyPixxels \n\n“Super Pixalo is the finest platformer on the OUYA!” - Jeremy Peeples \n\n“A great and enjoyable platformer that you can find yourself getting lost in for many hours.” - Otaku Punk \n\nFULL GAME INCLUDES\n- 127 levels\n- 124 pixel art collectables\n- Two game modes\n- PS3 and XBOX360 controller support\n- Original Soundtrack by Saad Ali",
     "players": [
         1
     ],
@@ -23,72 +23,58 @@
             "nativeSize": 2035292
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/discover",
-        "video": "https://vimeo.com/95684276",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/plnkAoXjSn2alEy0IjS6.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/aDnuCNONT1C31omJqK30.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/aUKo97sGQRSuKVWBpjEW.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/kucMFrFfTiKuglrWZ89G.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/R6QnxbIvT2aFrgXUYjVy.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/RNUvC4aUQmunpGpudEUm.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/2mkxeHikQZu6jQI8ecCt.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/4fKTHGLtSNSvq8zkj72R.jpg",
-            "https://archive.org/download/ouya_com.philiproyer.superpixalo_1.2.5/La50C84yTQClRieRO7Lr.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/95684276"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-6-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-7",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-7-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-8",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-8-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-9",
-                "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-9-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/95684276"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-7",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-8",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-8-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-9",
+            "thumb": "http://ouya.cweiske.de/game-images/com.philiproyer.superpixalo/detail-9-thumb"
+        }
+    ],
     "developer": {
         "uuid": "97221744-8bc6-4f1f-8830-0b27a4e7e508",
         "name": "Philip Royer",

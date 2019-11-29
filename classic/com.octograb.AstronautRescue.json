@@ -1,7 +1,7 @@
 {
     "packageName": "com.octograb.AstronautRescue",
     "title": "Astronaut Rescue",
-    "description": "A number of your astronaut colleagues have been stranded on distant moons. You must track them down and rescue them. But watch out! You\u2019re in the middle of an asteroid belt, and the risk of getting crushed by a hurtling asteroid is around every corner. Steer your ship through the asteroids, blasting them to bits with your energy blaster if they get in your way, and landing on moons to rescue the astronauts. Progress through a number of increasingly difficult levels as you move deeper into the heart of the asteroid belt.",
+    "description": "A number of your astronaut colleagues have been stranded on distant moons. You must track them down and rescue them. But watch out! You’re in the middle of an asteroid belt, and the risk of getting crushed by a hurtling asteroid is around every corner. Steer your ship through the asteroids, blasting them to bits with your energy blaster if they get in your way, and landing on moons to rescue the astronauts. Progress through a number of increasingly difficult levels as you move deeper into the heart of the asteroid belt.",
     "players": [
         1
     ],
@@ -23,32 +23,24 @@
             "nativeSize": 0
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.octograb.AstronautRescue/discover",
-        "video": null,
-        "screenshots": [
-            "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT.jpg",
-            "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I.jpg",
-            "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL.jpg"
-        ],
-        "details": [
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT.jpg",
-                "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I.jpg",
-                "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I_thumb.jpg"
-            },
-            {
-                "type": "image",
-                "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL.jpg",
-                "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL_thumb.jpg"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.octograb.AstronautRescue/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT.jpg",
+            "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/s1FsWBBcTuS9ryREoKoT_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I.jpg",
+            "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/XGupM3wGTSKBRYPD9M1I_thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL.jpg",
+            "thumb": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/1UMRfncTQyCDUTGLdpOL_thumb.jpg"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "Octograb Studio",

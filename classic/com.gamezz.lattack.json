@@ -23,36 +23,28 @@
             "nativeSize": 986976
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/discover",
-        "video": "https://vimeo.com/143930717",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.gamezz.lattack/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.gamezz.lattack/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.gamezz.lattack/screenshot-3"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/143930717"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-3-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/143930717"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gamezz.lattack/detail-3-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "3T Games",

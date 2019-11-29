@@ -23,48 +23,38 @@
             "nativeSize": 14802632
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/discover",
-        "video": "https://vimeo.com/100595078",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/screenshot-5"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/100595078"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/100595078"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.sophiehoulden.bangbangbang/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": "494fe477-3af0-4700-b052-dc048a3439d1",
         "name": "Sophie Houlden",

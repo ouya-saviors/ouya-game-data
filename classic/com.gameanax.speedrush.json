@@ -1,7 +1,7 @@
 {
     "packageName": "com.gameanax.speedrush",
     "title": "Speed Rush",
-    "description": "Are you ready to experience the biggest race of your life? Welcome to the world of roaring Super Bikes, insane drifts, sizzling races, stunning locations and electrifying racing tracks. Earn major respect on the track and race your way up before you challenge the best. Zoom past your rivals and feel your passion living through your bike. Buckle up, grab your helmet and mount your bike. It\u2019s time to GEAR UP and begin the race! \r\n\r\nExciting Features!\r\n\u2022 Collect a wide variety of Super Bikes. \r\n\u2022 Test your racing prowess in 4 thrilling racing formats.\r\n\u2022 Take on high-stakes rivalry in Black Knockout Race event.\r\n\u2022 12 real-life racing tracks inspired from world-class locations.",
+    "description": "Are you ready to experience the biggest race of your life? Welcome to the world of roaring Super Bikes, insane drifts, sizzling races, stunning locations and electrifying racing tracks. Earn major respect on the track and race your way up before you challenge the best. Zoom past your rivals and feel your passion living through your bike. Buckle up, grab your helmet and mount your bike. It’s time to GEAR UP and begin the race! \r\n\r\nExciting Features!\r\n• Collect a wide variety of Super Bikes. \r\n• Test your racing prowess in 4 thrilling racing formats.\r\n• Take on high-stakes rivalry in Black Knockout Race event.\r\n• 12 real-life racing tracks inspired from world-class locations.",
     "players": [
         1
     ],
@@ -23,48 +23,38 @@
             "nativeSize": 14648172
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/discover",
-        "video": "http://vimeo.com/104276867",
-        "screenshots": [
-            "https://archive.org/download/ouya_com.gameanax.speedrush_1.2/kv6L5jIRYS381kX0LZN1.jpg",
-            "https://archive.org/download/ouya_com.gameanax.speedrush_1.2/LnldzDizQ0av2SRqXG2Q.jpg",
-            "https://archive.org/download/ouya_com.gameanax.speedrush_1.2/g611zymTxeLXzVrto9AY.jpg",
-            "https://archive.org/download/ouya_com.gameanax.speedrush_1.2/Ae3n7M4TSXeed8yWsqdy.jpg",
-            "https://archive.org/download/ouya_com.gameanax.speedrush_1.2/QTLzuP9S6RrF2zV1oWQA.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "http://vimeo.com/104276867"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-5-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/104276867"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.gameanax.speedrush/detail-5-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "GameAnax Inc.",

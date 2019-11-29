@@ -1,7 +1,7 @@
 {
     "packageName": "com.ttssoftware.checkers",
     "title": "3D Checkers for OUYA",
-    "description": "If you like games of strategy, you'll enjoy playing Checkers on your TV.  Have fun playing against a friend or family member, or you can play against the computer at one of 3 difficulty levels.\r\n\r\nProduct Features\r\n\r\n\u2022  Save snapshots of your game so you can load and play from that point again in the future.\r\n\u2022  Edit the pieces in each position of the board to customize how they are laid out before playing.\r\n\u2022  View the move history in standard Checkers notation.\r\n\u2022  Compare high scores between yourself and your friends.\r\n\u2022  You can even watch as the computer plays itself.",
+    "description": "If you like games of strategy, you'll enjoy playing Checkers on your TV.  Have fun playing against a friend or family member, or you can play against the computer at one of 3 difficulty levels.\r\n\r\nProduct Features\r\n\r\n•  Save snapshots of your game so you can load and play from that point again in the future.\r\n•  Edit the pieces in each position of the board to customize how they are laid out before playing.\r\n•  View the move history in standard Checkers notation.\r\n•  Compare high scores between yourself and your friends.\r\n•  You can even watch as the computer plays itself.",
     "players": [
         1
     ],
@@ -22,54 +22,43 @@
             "nativeSize": 18666660
         }
     ],
-    "media": {
-        "discover": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/discover",
-        "video": "https://vimeo.com/122869315",
-        "screenshots": [
-            "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/screenshot-1",
-            "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/screenshot-2",
-            "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/screenshot-3",
-            "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/screenshot-4",
-            "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/screenshot-5",
-            "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/screenshot-6"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/122869315"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-1",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-1-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-2",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-2-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-3",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-3-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-4",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-4-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-5",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-5-thumb"
-            },
-            {
-                "type": "image",
-                "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-6",
-                "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-6-thumb"
-            }
-        ]
-    },
+    "discover": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/122869315"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-1",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-2",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-3",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-4",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-5",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-6",
+            "thumb": "http://ouya.cweiske.de/game-images/com.ttssoftware.checkers/detail-6-thumb"
+        }
+    ],
     "developer": {
         "uuid": null,
         "name": "TTS Software, LLC",
