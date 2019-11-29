@@ -9,6 +9,7 @@
         "packageName",
         "title",
         "releases",
+        "discover",
         "media",
         "developer"
     ],
@@ -150,7 +151,7 @@
                         "description": "FIXME",
                         "type": "number"
                     },
-                    
+
                     "stability": {
                         "description": "What quality of a release this is",
                         "default": "stability",
@@ -165,64 +166,40 @@
             }
         },
 
+        "discover": {
+            "description": "Main game image. Used in the OUYA discover store. Size 732x412",
+            "type": "string",
+            "format": "url"
+        },
+
         "media": {
-            "type": "object",
-            "required": [
-                "discover"
-            ],
-            "additionalProperties": false,
-            "properties": {
-                "discover": {
-                    "description": "Main game image. Used in the OUYA discover store. Size 732x412",
-                    "type": "string",
-                    "format": "url"
-                },
-
-                "video": {
-                    "description": "Video for the store details page. Vimeo and Youtube URLs supported",
-                    "type": ["string", "null"],
-                    "format": "url",
-                    "default": null
-                },
-
-                "screenshots": {
-                    "description": "Additional images for the store details page.",
-                    "type": "array",
-                    "items": {
+            "description": "Images and videos for the details page. Can be in any order. If no detail images and videos are given, the large image, video and screenshots are used instead",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "required": [
+                    "type",
+                    "url"
+                ],
+                "additionalProperties": false,
+                "properties": {
+                    "type": {
+                        "description": "Medium type: image or video",
+                        "type": "string",
+                        "enum": [
+                            "image",
+                            "video"
+                        ]
+                    },
+                    "url": {
+                        "description": "Image URL or video URL. Vimeo and Youtube URLs supported",
                         "type": "string",
                         "format": "url"
-                    }
-                },
-
-                "details": {
-                    "description": "Images and videos for the details page. Can be in any order. If no detail images and videos are given, the large image, video and screenshots are used instead",
-                    "type": "array",
-                    "items": {
-                        "type": "object",
-                        "required": [
-                            "type",
-                            "url"
-                        ],
-                        "additionalProperties": false,
-                        "properties": {
-                            "type": {
-                                "description": "Medium type: image or video",
-                                "type": "string",
-                                "enum": ["image", "video"]
-                            },
-
-                            "url": {
-                                "description": "Image URL or video URL. Vimeo and Youtube URLs supported",
-                                "type": "string",
-                                "format": "url"
-                            },
-
-                            "thumb": {
-                                "description": "Small preview image. Size should be 852x479.",
-                                "type": "string",
-                                "format": "url"
-                            }
-                        }
+                    },
+                    "thumb": {
+                        "description": "Small preview image. Size should be 852x479.",
+                        "type": "string",
+                        "format": "url"
                     }
                 }
             }
