@@ -1,6 +1,6 @@
 {
-    "packageName": "com.cosmos.babyloniantwins",
-    "title": "Babylonian Twins",
+    "packageName": "com.cosmos.babyloniantwins_unlocked",
+    "title": "Babylonian Twins unlocked",
     "description": "The award-winning puzzle platformer now on OUYA. Guide the twin princes of Babylon to solve challenging puzzles in unique historic environments.",
     "players": [
         1
@@ -8,17 +8,18 @@
     "genres": [
         "Adventure",
         "Platformer",
-        "Puzzle/Trivia"
+        "Puzzle/Trivia",
+        "Unlocked"
     ],
     "releases": [
         {
             "name": "1.7.2",
             "versionCode": 0,
-            "uuid": "19c17c23-be89-4311-b386-41d26ce055ec",
-            "date": "2013-12-06T19:43:22Z",
-            "url": "https://archive.org/download/ouya_com.cosmos.babyloniantwins_1.7.2/Babylonian%20Twins_1.7.2_com.cosmos.babyloniantwins.apk",
-            "size": 29141492,
-            "md5sum": null,
+            "uuid": "fb0693e8-135f-11ea-b478-73a438fd3fe8",
+            "date": "2019-11-30T10:55:42Z",
+            "url": "http://ouya.cweiske.de/unlocked/com.cosmos.babyloniantwins_unlocked-1.7.2.apk",
+            "size": 29183357,
+            "md5sum": "e8c130cdc32756701f0f275efe259632",
             "publicSize": 0,
             "nativeSize": 0
         }
@@ -86,6 +87,6 @@
         }
     ],
     "links": {
-        "unlocked": "com.cosmos.babyloniantwins_unlocked"
+        "original": "com.cosmos.babyloniantwins"
     }
 }
