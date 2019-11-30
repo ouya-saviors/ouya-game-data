@@ -379,17 +379,21 @@
         },
 
         "links": {
-            "type": "object",
-            "description": "Links to other applications",
-            "additionalProperties": false,
-            "properties": {
-                "unlocked": {
-                    "type": "string",
-                    "description": "Package name of unlocked application (full version if this is the demo)"
-                },
-                "original": {
-                    "type": "string",
-                    "description": "Package name of original application (demo version if this is the unlocked version)"
+            "description": "Buttons that will show up on details page",
+            "type": "array",
+            "items": {
+                "type": "object",
+                "description": "Links to other applications",
+                "additionalProperties": false,
+                "properties": {
+                    "unlocked": {
+                        "type": "string",
+                        "description": "Package name of unlocked application (full version if this is the demo)"
+                    },
+                    "original": {
+                        "type": "string",
+                        "description": "Package name of original application (demo version if this is the unlocked version)"
+                    }
                 }
             }
         }
