@@ -231,6 +231,13 @@
                     "default": null
                 },
 
+                "alternateEmail": {
+                    "description": "Alternate E-Mail address for support questions",
+                    "type": ["string", "null"],
+                    "format": "email",
+                    "default": null
+                },
+
                 "supportPhone": {
                     "description": "Telephone number",
                     "type": ["string", "null"],
