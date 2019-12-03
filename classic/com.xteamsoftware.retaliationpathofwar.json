@@ -1,7 +1,7 @@
 {
     "packageName": "com.xteamsoftware.retaliationpathofwar",
     "title": "Retaliation Path of War",
-    "description": " Retaliation: Path of War is a new and original hex-and-counter turn based wargame. It has been designed and developed with the main purpose of offering a fun and easy to learn wargame, without the complexity and hyper realism of traditional simulation wargames while at the same time keeping all the interesting and challenging elements of tactical reasoning.\r\n\r\nHave you enjoyed playing many matches of Risk™ with your friends but often felt limited by its simplicity and yearned for something more? Have you been engaged in realistic battle simulations lasting several hours (or days!) and wished you could just get to the point and vanquish your enemies?\r\nThen you've come to the right place: whether you are a seasoned strategist or a casual gamer, you will love crushing tanks and conquering bases in Retaliation!",
+    "description": "Retaliation: Path of War is a new and original hex-and-counter turn based wargame. It has been designed and developed with the main purpose of offering a fun and easy to learn wargame, without the complexity and hyper realism of traditional simulation wargames while at the same time keeping all the interesting and challenging elements of tactical reasoning.\r\n\r\nHave you enjoyed playing many matches of Risk™ with your friends but often felt limited by its simplicity and yearned for something more? Have you been engaged in realistic battle simulations lasting several hours (or days!) and wished you could just get to the point and vanquish your enemies?\r\nThen you've come to the right place: whether you are a seasoned strategist or a casual gamer, you will love crushing tanks and conquering bases in Retaliation!",
     "players": [
         1
     ],
@@ -50,7 +50,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "7473fe69-86e3-4f5f-9ddd-f6190e1e8e4e",
         "name": "XTeam Software Solutions SRLS",
         "supportEmail": "xteam@xteamsoftware.com",
         "supportPhone": null,
@@ -64,7 +64,7 @@
     "premium": false,
     "rating": {
         "likeCount": 20,
-        "average": 3,
+        "average": 3.0,
         "count": 84
     }
 }

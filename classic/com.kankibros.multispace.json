@@ -1,7 +1,7 @@
 {
     "packageName": "com.kankibros.multispace",
     "title": "Multispace",
-    "description": "Multispace takes the 90s cave-multiplayer-dogfight-shooter genre to... caves of 2013, outer space, and even further! Contains a level editor, and a random level generator. Network and local (split screen) multiplay.\r\n\r\nNOTE! Currently connection can be only established between iOS, Android and Ouya devices that have the same version of the game installed.\r\n\r\nWHAT'S NEW in v1.0.7:\r\n\r\n* Added OVERSCAN to Settings screen for people who play on TV\r\n* One cannot collide with a base flagpole any longer\r\n* Misc GUI improvements\r\n* Positioned clear camera in local 3P mode so that it doesn’t show the playfield\r\n* No damage when colliding with a base\r\n* Gravity doesn’t affect physics object mines\r\n* Background stars work now better in local 2-4P modes\r\n* Optimized background rendering\r\n* Added support for longer hostnames in direct connection dialog\r\n* Added AI players\r\n* An AI player can automatically host matches, too\r\n* Added IsStatic-property to physics objects, and made some\r\n",
+    "description": "Multispace takes the 90s cave-multiplayer-dogfight-shooter genre to... caves of 2013, outer space, and even further! Contains a level editor, and a random level generator. Network and local (split screen) multiplay.\r\n\r\nNOTE! Currently connection can be only established between iOS, Android and Ouya devices that have the same version of the game installed.\r\n\r\nWHAT'S NEW in v1.0.7:\r\n\r\n* Added OVERSCAN to Settings screen for people who play on TV\r\n* One cannot collide with a base flagpole any longer\r\n* Misc GUI improvements\r\n* Positioned clear camera in local 3P mode so that it doesn’t show the playfield\r\n* No damage when colliding with a base\r\n* Gravity doesn’t affect physics object mines\r\n* Background stars work now better in local 2-4P modes\r\n* Optimized background rendering\r\n* Added support for longer hostnames in direct connection dialog\r\n* Added AI players\r\n* An AI player can automatically host matches, too\r\n* Added IsStatic-property to physics objects, and made some",
     "players": [
         1
     ],
@@ -57,7 +57,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "7cc60471-6717-4d71-8ee9-620499d8f02e",
         "name": "Kanki Bros",
         "supportEmail": "kankibros@kankibros.com",
         "supportPhone": null,

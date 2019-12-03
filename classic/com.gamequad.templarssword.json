@@ -1,7 +1,7 @@
 {
     "packageName": "com.gamequad.templarssword",
     "title": "Templars' Sword",
-    "description": "After the fall of the Order of the Temple in 14th century, the monks hid their vast riches. They had accumulated enormous wealth which consequently contributed to their downfall. After so many years in France the main character sees a ghost of a killed Templar who gives her valuable hints concerning the hidden treasure.The character gets in touch with her old friend to solve the riddle.\r\n\r\nDiscover the mystery of the hidden Templars' treasure.\r\n",
+    "description": "After the fall of the Order of the Temple in 14th century, the monks hid their vast riches. They had accumulated enormous wealth which consequently contributed to their downfall. After so many years in France the main character sees a ghost of a killed Templar who gives her valuable hints concerning the hidden treasure.The character gets in touch with her old friend to solve the riddle.\r\n\r\nDiscover the mystery of the hidden Templars' treasure.",
     "players": [
         1
     ],
@@ -55,7 +55,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "2f4429b1-faf1-4e18-b0e5-59f7c49c5b9e",
         "name": "GAMEQUAD",
         "supportEmail": "support@gamequad.com",
         "supportPhone": null,
@@ -77,7 +77,7 @@
             "promoted": true,
             "identifier": "unlock",
             "name": "Unlock Full Game",
-            "description": "Discover the mystery of the hidden Templars' treasure. ",
+            "description": "Discover the mystery of the hidden Templars' treasure.",
             "localPrice": 4.99,
             "originalPrice": 4.99,
             "currency": "EUR"

@@ -7,8 +7,8 @@
     ],
     "genres": [
         "Dual Stick",
-        "FPS/Shooter",
         "Fight!",
+        "FPS/Shooter",
         "Multiplayer"
     ],
     "releases": [
@@ -52,7 +52,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "01ccc407-3e0a-4b3f-842e-8823c7183814",
         "name": "Erik Skoglund",
         "supportEmail": "skoggygames@gmail.com",
         "supportPhone": null,
@@ -75,8 +75,8 @@
             "identifier": "se_skoggy_friendlyfire_fullgame",
             "name": "Friendly Fire Full Game",
             "description": "Friendly Fire Full Game",
-            "localPrice": 0,
-            "originalPrice": 0,
+            "localPrice": 0.0,
+            "originalPrice": 0.0,
             "currency": "EUR"
         }
     ]
