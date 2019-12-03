@@ -6,8 +6,8 @@
         1
     ],
     "genres": [
-        "Open Source",
-        "Retro"
+        "Retro",
+        "Open Source"
     ],
     "releases": [
         {
@@ -15,7 +15,6 @@
             "versionCode": 14,
             "uuid": "386db666-ffe8-11e9-8536-a36ef253a98d",
             "date": "2019-11-04T21:02:23Z",
-            "latest": true,
             "url": "https://github.com/cweiske/Blockinger/releases/download/v1.9.0/blockinger-1.9.0.apk",
             "size": 12604401,
             "md5sum": "800ca8174ebc019a94ec1767e7d92036",
@@ -27,10 +26,14 @@
     "media": [],
     "developer": {
         "uuid": "ea422c24-00a5-11ea-b424-937a35bf4309",
-        "name": "vocollapse"
+        "name": "vocollapse",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
     },
     "contentRating": "Everyone",
     "website": "https://github.com/cweiske/Blockinger",
     "firstPublishedAt": "2019-11-04T21:02:23Z",
-    "inAppPurchases": false
+    "inAppPurchases": false,
+    "premium": false
 }

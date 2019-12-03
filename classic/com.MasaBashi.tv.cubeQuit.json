@@ -17,7 +17,7 @@
             "date": "2017-01-25T23:33:17Z",
             "url": "https://archive.org/download/ouya_com.MasaBashi.tv.cubeQuit_1.0.3/cubeQuit_1.0.3_com.MasaBashi.tv.cubeQuit.apk",
             "size": 35470948,
-            "md5sum": "ffda896fc1b2b3c9c9e79a692e2c395a-1",
+            "md5sum": "ffda896fc1b2b3c9c9e79a692e2c395a",
             "publicSize": 726610,
             "nativeSize": 8821100
         }
@@ -45,7 +45,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "f92b45ba-6fcf-4ced-b891-84a98f3269cb",
         "name": "Masa Bashi",
         "supportEmail": null,
         "supportPhone": null,
@@ -59,7 +59,7 @@
     "premium": false,
     "rating": {
         "likeCount": 0,
-        "average": 0,
+        "average": 0.0,
         "count": 0
     },
     "products": [
@@ -68,8 +68,8 @@
             "identifier": "cubeQuit_FullGame",
             "name": "cubeQuit",
             "description": "NOTICE: This console no longer accepts updates: cubeQuit is getting a remake, I am releasing this 'full old-version' for the low cost of $0.",
-            "localPrice": 0,
-            "originalPrice": 0,
+            "localPrice": 0.0,
+            "originalPrice": 0.0,
             "currency": "USD"
         }
     ]
