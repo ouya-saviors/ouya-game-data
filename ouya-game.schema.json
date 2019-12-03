@@ -378,9 +378,9 @@
             }
         },
 
-        "links": {
+        "relationships": {
             "type": "object",
-            "description": "Links to other applications",
+            "description": "Links to other OUYA applications",
             "additionalProperties": false,
             "properties": {
                 "unlocked": {
