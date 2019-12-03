@@ -1,7 +1,7 @@
 {
     "packageName": "eric.ironShell.ouyaCubed",
     "title": "OUYA Cubed",
-    "description": "Update!  \"Lock out\" glitch was targetted and confirmed as destroyed... at least the one I knew about. Keep letting me know about the bugs for ALPHA!\r\n\r\nJump into the world of OUYA Cubed, a 3D cube based sandbox with limitless worlds to explore. Uncover magical artifacts to help in your adventure, mine minerals from the mountains, or salvage materials from civilizations lost to the sands. \r\n\r\nThis is ALPHA for the game that was successfully Kickstarted. Where suggestions will have a large impact on the direction of the game and future progress.\r\n",
+    "description": "Update!  \"Lock out\" glitch was targetted and confirmed as destroyed... at least the one I knew about. Keep letting me know about the bugs for ALPHA!\r\n\r\nJump into the world of OUYA Cubed, a 3D cube based sandbox with limitless worlds to explore. Uncover magical artifacts to help in your adventure, mine minerals from the mountains, or salvage materials from civilizations lost to the sands. \r\n\r\nThis is ALPHA for the game that was successfully Kickstarted. Where suggestions will have a large impact on the direction of the game and future progress.",
     "players": [
         1
     ],
@@ -40,7 +40,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "0c3438f1-ecc1-4ec9-b621-4a01e21d6990",
         "name": "Eric Blackburn",
         "supportEmail": "eric.r.blackburn@gmail.com",
         "supportPhone": null,
@@ -62,7 +62,7 @@
             "promoted": true,
             "identifier": "ewrqwerqa",
             "name": "donation",
-            "description": "A donation to earn my love and affection! ",
+            "description": "A donation to earn my love and affection!",
             "localPrice": 0.99,
             "originalPrice": 0.99,
             "currency": "EUR"

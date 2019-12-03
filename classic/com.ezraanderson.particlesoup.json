@@ -1,7 +1,7 @@
 {
     "packageName": "com.ezraanderson.particlesoup",
     "title": "Particle Soup",
-    "description": "Particle simulator (sandbox) \r\n\r\nInspire yourself with interactive art.\r\nUnlimited visual displays waiting to be initiated by one touch/click.\r\nEncourage your creativity, sooth your soul, or mesmerize your mind with Particle Soup.\r\n\r\nFeatures:\r\nMake Explosions \r\nMake Implosions \r\nApply gravity (force)\r\nParticle Collision Detection\r\nAdd & Remove Particle\r\nChange Particle Image\r\nChange Particle Color\r\nChange Particle Size\r\nMake soup (causes strange collision)\r\nFreeze Particles\r\n\r\n",
+    "description": "Particle simulator (sandbox) \r\n\r\nInspire yourself with interactive art.\r\nUnlimited visual displays waiting to be initiated by one touch/click.\r\nEncourage your creativity, sooth your soul, or mesmerize your mind with Particle Soup.\r\n\r\nFeatures:\r\nMake Explosions \r\nMake Implosions \r\nApply gravity (force)\r\nParticle Collision Detection\r\nAdd & Remove Particle\r\nChange Particle Image\r\nChange Particle Color\r\nChange Particle Size\r\nMake soup (causes strange collision)\r\nFreeze Particles",
     "players": [
         1
     ],
@@ -204,9 +204,9 @@
             "promoted": true,
             "identifier": "id_particle_soup_1",
             "name": "Particle Soup",
-            "description": "Make Soup Today.\r\n",
-            "localPrice": 0,
-            "originalPrice": 0,
+            "description": "Make Soup Today.",
+            "localPrice": 0.0,
+            "originalPrice": 0.0,
             "currency": "USD"
         }
     ]

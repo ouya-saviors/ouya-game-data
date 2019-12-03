@@ -1,7 +1,7 @@
 {
     "packageName": "de.philweb.bubblr2",
     "title": "Bubblr in trouble HD",
-    "description": "Bubblr in trouble HD\r\n\r\nyou control \"dummy\", the crash test dummy, who gets attacked by zombies and has to defend himself and therefore needs your best reaction skills.\r\n\r\nDummy is jumping around the platforms and has a soap bubble-cannon and can bubble zombies. Furthermore dummy can use other weapons like fireballs or cannons. \r\n\r\ndummy has to be quick to avoid that more zombies spawn into the area. dummy will get collectable items for neutralized zombies and completed missions. Most of the items have points.\r\nYou will get extra items if you neutralize multiple zombies in a short time ( = hattrick) and if you \"kiss\" zombies, which means to neutralize them on a very short distance ( = monsterkiss).\r\nHattricks and monsterkisses raise your rank (please enable Swarm for highscores and ranks).\r\n",
+    "description": "Bubblr in trouble HD\r\n\r\nyou control \"dummy\", the crash test dummy, who gets attacked by zombies and has to defend himself and therefore needs your best reaction skills.\r\n\r\nDummy is jumping around the platforms and has a soap bubble-cannon and can bubble zombies. Furthermore dummy can use other weapons like fireballs or cannons. \r\n\r\ndummy has to be quick to avoid that more zombies spawn into the area. dummy will get collectable items for neutralized zombies and completed missions. Most of the items have points.\r\nYou will get extra items if you neutralize multiple zombies in a short time ( = hattrick) and if you \"kiss\" zombies, which means to neutralize them on a very short distance ( = monsterkiss).\r\nHattricks and monsterkisses raise your rank (please enable Swarm for highscores and ranks).",
     "players": [
         1
     ],
@@ -81,7 +81,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "be69036b-d0ff-44af-9543-ba165b47111f",
         "name": "heavily loaded games",
         "supportEmail": "heavily.loaded.games@googlemail.com",
         "supportPhone": null,
@@ -95,7 +95,7 @@
     "premium": false,
     "rating": {
         "likeCount": 0,
-        "average": 3,
+        "average": 3.0,
         "count": 28
     },
     "products": [
@@ -103,7 +103,6 @@
             "promoted": true,
             "identifier": "dualmode_special",
             "name": "DualMode SpecialDeal",
-            "description": null,
             "localPrice": 0.99,
             "originalPrice": 0.99,
             "currency": "EUR"

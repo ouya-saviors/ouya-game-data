@@ -1,7 +1,7 @@
 {
     "packageName": "de.GameDeveloperBenediktBessen.Dice",
     "title": "Play at Dice",
-    "description": "Achieve the highest score before time runs out. Develop strategies to win the match for you.\r\n\r\nDice is a great game for all ages. Play with up three friends. Random generated level with exciting powerups for endless fun. ",
+    "description": "Achieve the highest score before time runs out. Develop strategies to win the match for you.\r\n\r\nDice is a great game for all ages. Play with up three friends. Random generated level with exciting powerups for endless fun.",
     "players": [
         1
     ],
@@ -40,7 +40,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "72421fb5-4e05-4247-b8c8-fcf1acdc0ab4",
         "name": "Benedikt Bessen",
         "supportEmail": "benedikt.bessen@gmx.de",
         "supportPhone": null,
@@ -54,7 +54,7 @@
     "premium": false,
     "rating": {
         "likeCount": 10,
-        "average": 3,
+        "average": 3.0,
         "count": 7
     }
 }

@@ -1,7 +1,7 @@
 {
     "packageName": "com.captain.Valet",
     "title": "No Brakes Valet",
-    "description": "No Brakes Valet!\r\n\r\nFeatures: \r\n* parking lots \r\n* fast cars \r\n* definitely a steering wheel\r\n\r\n1 player\r\n 2 players\r\n  3 players\r\n   4 players!\r\n",
+    "description": "No Brakes Valet!\r\n\r\nFeatures: \r\n* parking lots \r\n* fast cars \r\n* definitely a steering wheel\r\n\r\n1 player\r\n 2 players\r\n  3 players\r\n   4 players!",
     "players": [
         1
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "9144eec3-328b-4205-bea1-1d03482e5b22",
         "name": "Captain Games",
         "supportEmail": "envirobear2010@gmail.com",
         "supportPhone": null,
@@ -73,7 +73,7 @@
             "promoted": true,
             "identifier": "unlock_full",
             "name": "Unlock Full Game (No Brakes Valet)",
-            "description": "Play two more levels:\r\n\"2 Brakes 2 Valet\" and \"NBV: Ontario Drift\" with tons more cars!\r\n",
+            "description": "Play two more levels:\r\n\"2 Brakes 2 Valet\" and \"NBV: Ontario Drift\" with tons more cars!",
             "localPrice": 1.99,
             "originalPrice": 1.99,
             "currency": "EUR"

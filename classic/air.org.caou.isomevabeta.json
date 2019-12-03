@@ -1,7 +1,7 @@
 {
     "packageName": "air.org.caou.isomevabeta",
     "title": "isomeva - beta version",
-    "description": "A turn based, online, strategy game.\r\nSetup a team to challenge other player's teams in \"catch the flag\" arena battles.\r\nYou take turns asynchronously: to need wait in front of the screen for the opponent to complete his turn. And you can start multiple battles at once.\r\n",
+    "description": "A turn based, online, strategy game.\r\nSetup a team to challenge other player's teams in \"catch the flag\" arena battles.\r\nYou take turns asynchronously: to need wait in front of the screen for the opponent to complete his turn. And you can start multiple battles at once.",
     "players": [
         1
     ],
@@ -51,7 +51,7 @@
         }
     ],
     "developer": {
-        "uuid": null,
+        "uuid": "2c0b2653-7430-4eb4-b1a7-367888564790",
         "name": "caou",
         "supportEmail": "info@caou.org",
         "supportPhone": null,
