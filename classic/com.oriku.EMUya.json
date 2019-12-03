@@ -1,7 +1,7 @@
 {
     "packageName": "com.oriku.EMUya",
     "title": "EMUya",
-    "description": "EMUya is an NES emulator with an indie game store.\r\n\r\nSupport for Atari 2600, SNES, and Gameboy coming soon!\r\n\r\n1.5.0 Release Notes:\r\n* Fixed default controller settings bug\r\n\r\n1.4.9 Release Notes:\r\n* Controller config settings.\r\n* Reset the game from the pause menu.\r\n* Load ROMS in the background (please send feedback!)\r\n* misc UI improvements\r\n* control the tabs with the joystick\r\n* freeze fix when saving state ",
+    "description": "EMUya is an NES emulator with an indie game store.\r\n\r\nSupport for Atari 2600, SNES, and Gameboy coming soon!\r\n\r\n1.5.0 Release Notes:\r\n* Fixed default controller settings bug\r\n\r\n1.4.9 Release Notes:\r\n* Controller config settings.\r\n* Reset the game from the pause menu.\r\n* Load ROMS in the background (please send feedback!)\r\n* misc UI improvements\r\n* control the tabs with the joystick\r\n* freeze fix when saving state",
     "players": [
         1
     ],
