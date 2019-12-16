@@ -1,0 +1,51 @@
+{
+    "packageName": "com.Eightbbgames.Parkouya",
+    "title": "PARKOUYA",
+    "description": "PARKOUYA is an Ouya exclusive 3D platformer with three vertical levels to climb and explore. Can you  reach the top?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "2019 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "ea8b5d29-f580-6377-44f1-011e52da082b",
+            "date": "2019-12-15T16:08:53Z",
+            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/com.Eightbbgames.Parkouya-1.0.0.apk",
+            "size": 39329192,
+            "md5sum": "750f1a1b00fcbaebe255c652a5f133ca",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/ss1.png",
+            "thumb": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/ss1-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "ea8b5d29-f580-6377-44f1-011e52da082b",
+        "name": "Toasterkidd",
+        "supportEmail": "liamkelk99@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2019-12-15T16:08:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2019 by Toasterkidd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
