@@ -1,0 +1,62 @@
+{
+    "packageName": "com.NYYLE.ZOMB",
+    "title": "ZombTack",
+    "description": "Protect the street from the zombs!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Short on Time?",
+        "2019 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 10000,
+            "uuid": "18142d74-7b7f-da99-22ab-edeb1c371989",
+            "date": "2019-12-15T06:02:22Z",
+            "url": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/com.NYYLE.ZOMB-1.0.apk",
+            "size": 2236179,
+            "md5sum": "7a3c8128ac9ca82669e685c736e33ee2",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/ss1.png",
+            "thumb": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/ss1-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/ss2.png",
+            "thumb": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/ss2-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/ss3.png",
+            "thumb": "https://statics.ouya.world/18142D74-7B7F-DA99-22AB-EDEB1C371989/com.NYYLE.ZOMB/ss3-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "18142d74-7b7f-da99-22ab-edeb1c371989",
+        "name": "NYYLE",
+        "supportEmail": "npkelk@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "2",
+    "website": "",
+    "firstPublishedAt": "2019-12-15T06:02:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2019 by NYYLE.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}

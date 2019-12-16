@@ -1,0 +1,58 @@
+{
+    "packageName": "com.oliverstogden.Rogue__OUYA",
+    "title": "Rogue - OUYA Edition",
+    "description": "A port of the 1980's game 'Rogue' for the OUYA.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Retro",
+        "Role-Playing",
+        "2019 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "b3d8e6a8-9f1d-f8d9-8945-6d0fcb12ea3f",
+            "date": "2019-12-16T18:29:12Z",
+            "url": "https://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/com.oliverstogden.Rogue__OUYA-1.0.0.apk",
+            "size": 6330603,
+            "md5sum": "aa4db40df05d92615a7e84d035eacc76",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "https://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/ss1.png",
+            "thumb": "https://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/ss1-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/ss2.png",
+            "thumb": "https://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/ss2-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "b3d8e6a8-9f1d-f8d9-8945-6d0fcb12ea3f",
+        "name": "Xeno_Aura",
+        "supportEmail": "Jenraux@hotmail.co.uk",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "0",
+    "website": "",
+    "firstPublishedAt": "2019-12-16T18:29:12Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2019 by Xeno_Aura.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
