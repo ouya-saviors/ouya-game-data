@@ -1,0 +1,51 @@
+{
+    "packageName": "com.blindsidegames.TheFalloutSurvival",
+    "title": "End of the World",
+    "description": "10 hours after a nuclear bomb has landed in your city.  You have to survive the apocalypse.  The radiation has turned some citizens into zombies. You have raidio'd in for help and they say it'll take 5 minutes to get to you. Survive in those 5 minutes.\r\nThis is a concept Alpha. no where near enough time during this jam. If it's popular we will build upon this into a full game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2019 GameJam",
+        "Adventure"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "11f5e663-03c6-6ed2-9d97-974d7f285f0e",
+            "date": "2019-12-16T21:46:22Z",
+            "url": "https://statics.ouya.world/11F5E663-03C6-6ED2-9D97-974D7F285F0E/com.blindsidegames.TheFalloutSurvival/com.blindsidegames.TheFalloutSurvival-0.1.apk",
+            "size": 53996056,
+            "md5sum": "4b93beab6736a8fac819429de2d56e02",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "https://statics.ouya.world/11F5E663-03C6-6ED2-9D97-974D7F285F0E/com.blindsidegames.TheFalloutSurvival/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://statics.ouya.world/11F5E663-03C6-6ED2-9D97-974D7F285F0E/com.blindsidegames.TheFalloutSurvival/ss1.png",
+            "thumb": "https://statics.ouya.world/11F5E663-03C6-6ED2-9D97-974D7F285F0E/com.blindsidegames.TheFalloutSurvival/ss1-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "11f5e663-03c6-6ed2-9d97-974d7f285f0e",
+        "name": "WildcardStudios",
+        "supportEmail": "chris@wildcardstudios.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://wildcardstudios.itch.io/end-of-the-world",
+    "firstPublishedAt": "2019-12-16T21:46:22Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2019 by WildcardStudios.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
