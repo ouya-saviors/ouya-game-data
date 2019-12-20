@@ -73,6 +73,17 @@
         "average": 4.1,
         "count": 355
     },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "blookid2_full",
+            "name": "Bloo Kid 2 full game",
+            "description": "Unlock all levels",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        }
+    ],
     "relationships": {
         "unlocked": "de.eiswuxe.blookid2_unlocked"
     }
