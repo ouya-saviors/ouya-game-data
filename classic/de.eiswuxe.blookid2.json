@@ -7,8 +7,7 @@
     ],
     "genres": [
         "Platformer",
-        "Retro",
-        "Unlocked"
+        "Retro"
     ],
     "releases": [
         {
@@ -83,8 +82,5 @@
             "originalPrice": 3.99,
             "currency": "EUR"
         }
-    ],
-    "relationships": {
-        "unlocked": "de.eiswuxe.blookid2_unlocked"
-    }
+    ]
 }
