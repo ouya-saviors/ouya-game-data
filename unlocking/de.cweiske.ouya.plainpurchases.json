@@ -1,0 +1,48 @@
+{
+    "packageName": "de.cweiske.ouya.plainpurchases",
+    "title": "OUYA plain purchases",
+    "description": "XPosed module that disables encryption on the OUYA.\nPurchase requests are sent unencrypted to the OUYA API server, and plain text receipt responses work.\n\nWill not appear as \"Installed\" on the OUYA!\n\nRequires XPosed framework (via XPosed installer)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Tutorials"
+    ],
+
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "9e10aa84-3565-11ea-bfc9-cba20f806f20",
+            "date": "2019-12-20T20:56:23Z",
+            "latest": true,
+
+            "url": "http://ouya.cweiske.de/unlocking-tools/xposed-ouya-plain-purchases-1.0.apk",
+            "size": 6100,
+            "md5sum": "93c8ac2c20b79f93422b9f757bd00ed8"
+        }
+    ],
+
+    "discover": "http://ouya.cweiske.de/unlocking-tools/unknown.jpg",
+    "media": [],
+
+    "developer": {
+        "uuid": "e55aa066-3565-11ea-9513-f3f831557180",
+        "name": "Christian Weiske",
+        "supportEmail": "cweiske+ouya@cweiske.de",
+        "founder": false
+    },
+
+    "contentRating": "Everyone",
+    "website": "http://cweiske.de/tagebuch/ouya-purchases.htm",
+    "firstPublishedAt": "2020-01-12T19:05:23Z",
+    "inAppPurchases": false,
+    "overview": "",
+    "premium": false,
+
+    "rating": {
+        "likeCount": 0,
+        "average": 5,
+        "count": 0
+    }
+}
