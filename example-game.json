@@ -13,7 +13,7 @@
     "releases": [
         {
             "name": "1.6",
-            "versionCode": "2725",
+            "versionCode": 2725,
             "uuid": "780688a9-95ee-429a-8755-69a8d0c88fe0",
             "date": "2015-10-23T09:58:19Z",
             "latest": true,
@@ -27,26 +27,18 @@
         }
     ],
 
-    "media": {
-        "discover": "http://example.org/game-menu.jpg",
-        "large": "http://example.org/game.jpg",
-        "video": "https://vimeo.com/141878938",
-        "screenshots": [
-            "http://example.org/game-1.jpg",
-            "http://example.org/game-2.jpg"
-        ],
-        "details": [
-            {
-                "type": "video",
-                "url": "https://vimeo.com/141878938"
-            },
-            {
-                "type": "image",
-                "url": "http://example.org/game-1.jpg",
-                "thumb": "http://example.org/game-1.thumbnail.jpg"
-            }
-        ]
-    },
+    "discover": "http://example.org/game-1.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://example.org/game-1.jpg",
+            "thumb": "http://example.org/game-1.thumbnail.jpg"
+        },
+        {
+            "type": "video",
+            "url": "https://vimeo.com/141878938"
+        }
+    ],
 
     "developer": {
         "uuid": "291aeae0-00a5-11ea-8d27-97acf1057970",
