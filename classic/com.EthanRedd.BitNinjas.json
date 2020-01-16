@@ -63,5 +63,16 @@
         "likeCount": 95,
         "average": 2.69,
         "count": 121
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "identifier": "8BN_FULLGAME",
+            "name": "8 bit ninjas full game",
+            "description": "Unlock all levels",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
