@@ -83,5 +83,25 @@
         "likeCount": 338,
         "average": 3.85,
         "count": 607
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "identifier": "com_kaasa_gianasisters_levelpack1",
+            "name": "First level pack",
+            "description": "Unlock some levels",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "com_kaasa_gianasisters_full",
+            "name": "Giana Sisters full game",
+            "description": "Unlock all levels",
+            "localPrice": 0.02,
+            "originalPrice": 0.02,
+            "currency": "EUR"
+        }
+    ]
 }
