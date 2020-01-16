@@ -58,5 +58,17 @@
         "likeCount": 121,
         "average": 3.02,
         "count": 111
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "TH-TrialUpgrade",
+            "name": "Trial upgrade",
+            "description": "Unlock full game",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
+
 }
