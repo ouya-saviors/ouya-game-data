@@ -8,7 +8,8 @@
     "genres": [
         "Arcade/Pinball",
         "Kids List",
-        "Multiplayer"
+        "Multiplayer",
+        "Unlocked"
     ],
     "releases": [
         {
@@ -21,6 +22,15 @@
             "md5sum": "05ee594c610d1231beeffdf64b78c45a",
             "publicSize": 225007,
             "nativeSize": 4426352
+        },
+        {
+            "name": "1",
+            "versionCode": 1,
+            "uuid": "e2235262-3ac4-11ea-a7f8-9bcff7fab566",
+            "date": "2019-01-08T03:17:00Z",
+            "url": "https://archive.org/download/ouya_com.rawrlab.explosivedinosaurs_1/Explosive%20Dinosaurs_1-unlocked_com.rawrlab.explosivedinosaurs.apk",
+            "size": 126394043,
+            "md5sum": "28f99a9349b0f264928f458039fb8b2c"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.rawrlab.explosivedinosaurs/discover",
