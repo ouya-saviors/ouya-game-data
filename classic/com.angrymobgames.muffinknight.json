@@ -82,6 +82,51 @@
             "localPrice": 2.99,
             "originalPrice": 2.99,
             "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "muffinknight_5points",
+            "name": "5 points",
+            "description": "",
+            "localPrice": 0.78,
+            "originalPrice": 0.78,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "muffinknight_15points",
+            "name": "15 points",
+            "description": "",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "muffinknight_25points",
+            "name": "25 points",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "muffinknight_50points",
+            "name": "50 points",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "muffinknight_100points",
+            "name": "100 points",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
         }
     ]
 }
