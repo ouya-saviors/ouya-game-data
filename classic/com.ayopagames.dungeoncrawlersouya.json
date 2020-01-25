@@ -82,6 +82,51 @@
             "localPrice": 4.99,
             "originalPrice": 4.99,
             "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "DC_1000Gold",
+            "name": "1.000 Gold",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "DC_7500Gold",
+            "name": "7.500 Gold",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "DC_20000Gold",
+            "name": "20.000 Gold",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "DC_50000Gold",
+            "name": "50.000 Gold",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "DC_200000Gold",
+            "name": "200.000 Gold",
+            "description": "",
+            "localPrice": 49.99,
+            "originalPrice": 49.99,
+            "currency": "EUR"
         }
     ]
 }
