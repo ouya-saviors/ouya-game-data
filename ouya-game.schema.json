@@ -345,6 +345,13 @@
                         "type": "boolean"
                     },
 
+                    "type": {
+                        "description": "Kind of product",
+                        "type": "string",
+                        "enum": ["entitlement", "consumable", "subscription"],
+                        "default": "entitlement"
+                    },
+
                     "identifier": {
                         "description": "Internal key",
                         "type": "string",

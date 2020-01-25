@@ -85,6 +85,7 @@
         },
         {
             "promoted": false,
+            "type": "consumable",
             "identifier": "DC_1000Gold",
             "name": "1.000 Gold",
             "description": "",
@@ -94,6 +95,7 @@
         },
         {
             "promoted": false,
+            "type": "consumable",
             "identifier": "DC_7500Gold",
             "name": "7.500 Gold",
             "description": "",
@@ -103,6 +105,7 @@
         },
         {
             "promoted": false,
+            "type": "consumable",
             "identifier": "DC_20000Gold",
             "name": "20.000 Gold",
             "description": "",
@@ -112,6 +115,7 @@
         },
         {
             "promoted": false,
+            "type": "consumable",
             "identifier": "DC_50000Gold",
             "name": "50.000 Gold",
             "description": "",
@@ -121,6 +125,7 @@
         },
         {
             "promoted": false,
+            "type": "consumable",
             "identifier": "DC_200000Gold",
             "name": "200.000 Gold",
             "description": "",
