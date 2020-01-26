@@ -79,6 +79,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "addamsfamily_promode",
+            "name": "The Addams Family Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "addamsfamily_propack",
             "name": "The Addams Family Pro",
             "localPrice": 7.99,
