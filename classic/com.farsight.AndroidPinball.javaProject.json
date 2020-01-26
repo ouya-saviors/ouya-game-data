@@ -65,5 +65,45 @@
         "likeCount": 668,
         "average": 3.64,
         "count": 1458
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "addamsfamily_tablepack",
+            "name": "The Addams Family",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "addamsfamily_propack",
+            "name": "The Addams Family Pro",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_4",
+            "name": "Season Four Table Pack",
+            "description": "Tables 31-40",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_4",
+            "name": "Season Four Pro Table Pack",
+            "description": "Tables 31-40",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        }
+    ]
 }
