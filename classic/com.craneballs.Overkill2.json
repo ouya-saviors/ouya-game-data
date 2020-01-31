@@ -71,5 +71,87 @@
         "likeCount": 269,
         "average": 3.32,
         "count": 465
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "identifier": "overkill2_om_1",
+            "name": "FIXME: OM 1",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_om_2",
+            "name": "FIXME: OM 2",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_om_3",
+            "name": "FIXME: OM 3",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_om_4",
+            "name": "FIXME: OM 4",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_om_5",
+            "name": "FIXME: OM 5",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_cash_1",
+            "name": "FIXME: Cash 1",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_cash_2",
+            "name": "FIXME: Cash 2",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_cash_3",
+            "name": "FIXME: Cash 3",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_cash_4",
+            "name": "FIXME: Cash 4",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "overkill2_cash_5",
+            "name": "FIXME: Cash 5",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
