@@ -36,12 +36,7 @@ Add a new version
    7. ``size`` is the apk file size in bytes
    8. ``md5sum`` can be created with the ``md5sum`` command line tool.
 
-4. Check if everything is correct with::
-
-     ./bin/validate-game.sh classic/$gamefile.json
-
-   This needs the ``validate-json`` and ``jsonschema`` commands that
-   are not that easy to obtain.
+4. Check if everything is correct -> See "validating the game files"
 
    You can also create a patch/pull request;
    Github will run the checks automatically.
@@ -57,6 +52,42 @@ Note that all URLs have to be plain ``http``, HTTPS is not supported!
 
 Use a random ``uuid`` as developer UUID.
 
+
+Games in demo mode
+==================
+When you start a game, it should be unlocked (full version) automatically.
+
+If a game is stuck in demo mode despite that you installed the
+`ouya-plain-purchases`__ module, this can have the following reasons:
+
+1. The game data file has no purchasable products (most often)
+2. The developer UUID is wrong. `Fix it!`__ (sometimes)
+3. The game does not fetch receipts from the server when starting up
+   (seldom)
+4. We have no game data file for it (seldom)
+
+__ http://cweiske.de/tagebuch/ouya-purchases.htm
+__ https://github.com/ouya-saviors/ouya-game-data/issues/14
+
+
+Adding products
+---------------
+When there are no products in the game data file, we have to get them from
+the game itself.
+
+1. Add a new line ``DEBUG=1`` in the ``ouya_config.properties`` file and reboot.
+2. Connect the OUYA to your PC and run ``adb logcat``.
+3. Start the game and look at the logcat output
+
+There will be lines like this::
+
+  D/HTTP    (  604): Request 33: GET /api/v1/developers/b8b9eb6d-.../products/?auth_token=...&only=overkill2_om_1%2Coverkill2_om_2
+
+Everything after ``&only=`` are product IDs.
+``%2C`` is an URL-encoded comma, so in the example we have two product IDs.
+
+Now have a look at the ``example-game.json`` file and add new products to
+your game's data file (in the ``classic/`` folder).
 
 
 Validating the game files
