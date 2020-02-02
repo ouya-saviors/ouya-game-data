@@ -66,5 +66,16 @@
         "likeCount": 62,
         "average": 3.36,
         "count": 58
-    }
+    },
+
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MDC_FullGame",
+            "name": "Marble Droid Classic Full Game",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
 }
