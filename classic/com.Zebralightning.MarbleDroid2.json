@@ -106,5 +106,35 @@
         "likeCount": 244,
         "average": 3.79,
         "count": 223
-    }
+    },
+
+    "products": [
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "MD2_100orbs",
+            "name": "100 Orbs",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "MD2_500orbs",
+            "name": "500 Orbs",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "MD2_1000orbs",
+            "name": "1000 Orbs",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
 }
