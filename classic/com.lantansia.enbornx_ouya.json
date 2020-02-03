@@ -58,5 +58,44 @@
         "likeCount": 149,
         "average": 3.08,
         "count": 233
-    }
+    },
+
+    "products": [
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_lantansia_enbornx_ouya_10laser",
+            "name": "10 Laser",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_lantansia_enbornx_ouya_5bomb",
+            "name": "5 Bombs",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_lantansia_enbornx_ouya_5timestopper",
+            "name": "5 Timestopper",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_lantansia_enbornx_ouya_5life",
+            "name": "5 Lives",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
