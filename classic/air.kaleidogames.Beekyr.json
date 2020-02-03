@@ -72,5 +72,34 @@
         "likeCount": 49,
         "average": 3.82,
         "count": 117
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "beekyr1_all_stages",
+            "name": "Unlock all worlds",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "beekyr_extra_life_1",
+            "name": "4 permanent extra lives",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "beekyr1_all_modes",
+            "name": "Unlock all game modes",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
