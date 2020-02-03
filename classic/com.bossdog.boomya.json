@@ -78,5 +78,16 @@
         "likeCount": 68,
         "average": 2.98,
         "count": 45
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "boomya-fullgame-cheaper",
+            "name": "Unlock the full game",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
