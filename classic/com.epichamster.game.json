@@ -82,5 +82,15 @@
         "likeCount": 51,
         "average": 3.11,
         "count": 27
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "hamster-hellstorm",
+            "name": "Hamster Hellstorm",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
 }
