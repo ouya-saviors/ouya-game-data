@@ -7,6 +7,9 @@ OUYA game data
 Meta data of games for the OUYA console.
 Use them to populate your own "Discover" server.
 
+Game ``.apk`` files are hosted on `The OUYA library`__ in the Internet Archive.
+
+__ https://archive.org/details/ouyalibrary
 
 
 How to help
