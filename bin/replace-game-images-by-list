@@ -25,27 +25,21 @@ if (count($mapping) == 0) {
 }
 
 
-$files = glob(__DIR__ . '/../games/*.json');
+$files = glob(__DIR__ . '/../second/*.json');
 foreach ($files as $file) {
     $data = json_decode(file_get_contents($file));
     $package = $data->packageName;
-    replaceImage($data->media->discover);
-    if (count($data->media->screenshots ?? [])) {
+    replaceImage($data->discover);
+    if (count($data->media ?? [])) {
         $pos = 0;
-        foreach ($data->media->screenshots as &$url) {
-            replaceImage($url);
-        }
-    }
-    if (count($data->media->details ?? [])) {
-        $pos = 0;
-        foreach ($data->media->details as $detail) {
+        foreach ($data->media as $detail) {
             if ($detail->type == 'image') {
                 replaceImage($detail->url);
                 replaceimage($detail->thumb);
             }
         }
     }
-    file_put_contents($file, json_encode($data, JSON_PRETTY_PRINT) . "\n");
+    file_put_contents($file, json_encode($data, JSON_PRETTY_PRINT|JSON_UNESCAPED_SLASHES) . "\n");
 }
 
 function replaceImage(&$url)
