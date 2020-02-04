@@ -54,6 +54,8 @@ You can get ``packageName`` from ``aapt`` as described above.
 Note that all URLs have to be plain ``http``, HTTPS is not supported!
 
 Use a random ``uuid`` as developer UUID.
+Use ``0`` for the first 8 characters so we can distinguish original UUIDs
+from self-generated ones.
 
 
 Games in demo mode
@@ -91,6 +93,8 @@ Everything after ``&only=`` are product IDs.
 
 Now have a look at the ``example-game.json`` file and add new products to
 your game's data file (in the ``classic/`` folder).
+
+If you do not know what price the product had, use ``0.01``.
 
 
 Validating the game files
