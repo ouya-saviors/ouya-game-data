@@ -1,0 +1,65 @@
+{
+    "packageName": "com.tribute.mercenarykingt",
+    "title": "Mercenary Kings",
+    "description": "In this frantic 2D action game, you are part of the Mercenary Kings, the most skilled team of warriors-for-hire on Earth, but when your comrades have fallen and the fearsome forces of CLAW have seized an island-wide top secret Laboratory Base, you must do what it takes to stop them.\r\n\r\nBut you're not going in unprepared! Your back-up is made of a crew of rogue geniuses and experts of their field! Able to craft & customize guns'n'blades or upgrading body armor, you've never been this ready to join the fight.\r\n\r\nWhether its solo or with friends, move out, cut down CLAW and save the world!\r\n\r\nFeatures:\r\n- Mission based run and gun game.\r\n- Looting and crafting. Craft new knives and gun parts.\r\n- Single player and local co-op up to 4 players.\r\n- Over 100 missions.\r\n- Gain rank points, rank up, unlock new missions and items.\r\n- Character animation by Paul Robertson.",
+    "players": [
+        1,
+        2,
+        3
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "FPS/Shooter",
+        "Multiplayer",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.36",
+            "versionCode": 36,
+            "uuid": "b06caa2a-540a-45c5-b2a0-03f6334815b1",
+            "date": "2014-01-01T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.tribute.mercenarykingt_1.36/Mercenary%20Kings_1.36_com.tribute.mercenarykingt.apk",
+            "size": 97550110,
+            "md5sum": "51a9f828db2cc896d74e486bb1dd6be1"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.tribute.mercenarykingt/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/154659699"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-79b5-4419-af5f-fc88206b685d",
+        "name": "OUYA Publishing",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2016-09-08T14:05:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2016 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 5,
+        "count": 1
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MercenaryKingsFull",
+            "name": "MercenaryKingsFull",
+            "description": "Mercenary Kings full game unlock.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "packageName": "com.AGameAWeek.Flappadiddle",
+    "title": "Flappadiddle",
+    "description": "Flap across the screen, stepping on the blue blocks as you go.\nYou score more for stepping quicker!\nAnd as always, Spike.. Dislike!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": "FIXME",
+            "uuid": "2f93b9b6-86b3-409f-b9c6-202df90534a7",
+            "date": "2017-05-15T21:33:36Z",
+            "latest": true,
+            "url": "FIXME",
+            "size": 2765389,
+            "md5sum": "1a2720d97a00bedde8ca82f6e4c622aa-1",
+            "publicSize": 123268,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/2lhBaGJ3SOKRkl4LwSSU",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Yx8TIRwkSwCcOMcCxaUL",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Yx8TIRwkSwCcOMcCxaUL"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Ff9p7fjuQv2Z0yxDoqEM",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Ff9p7fjuQv2Z0yxDoqEM"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/OQdhXXpJQrywr8JyzZj0",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/OQdhXXpJQrywr8JyzZj0"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/LHxMSADDQyS9NxlqDjG4",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/LHxMSADDQyS9NxlqDjG4"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/5bArcqclSUq80ylRB7ei",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/5bArcqclSUq80ylRB7ei"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BAeQOSpXSraiHggYss9s",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BAeQOSpXSraiHggYss9s"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-f6a1-41f7-a907-5a5f32b79f50",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http://AGameAWeek.com",
+    "firstPublishedAt": "2017-05-15T21:33:36Z",
+    "inAppPurchases": "FIXME",
+    "overview": "Released in May 2017 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

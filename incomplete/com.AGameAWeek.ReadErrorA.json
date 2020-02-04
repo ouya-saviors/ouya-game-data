@@ -1,0 +1,76 @@
+{
+    "packageName": "com.AGameAWeek.ReadErrorA",
+    "title": "Read Error A",
+    "description": "The tape's nearly loaded, and the fun is almost ready to go.\nBut wait.. What's that?!\nOh no, not another tape loading error!?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": "FIXME",
+            "uuid": "5adbaeea-422e-408a-9ee8-e3e3ce4d4903",
+            "date": "2017-05-02T18:29:21Z",
+            "latest": true,
+            "url": "FIXME",
+            "size": 3730054,
+            "md5sum": "8937700cda02ca6b741e8d6640998e15-1",
+            "publicSize": 114990,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3WK8rYRNT5aFKlVz8oLE",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/wrnRbtPjTGuq9CcVuJ55",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/wrnRbtPjTGuq9CcVuJ55"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qOmvT2J1QcCJZHtTxJFw",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qOmvT2J1QcCJZHtTxJFw"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BLL0uYuBSymLz1UUwm68",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/BLL0uYuBSymLz1UUwm68"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CVQRHpdKSb3Rj4o2Rzz3",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CVQRHpdKSb3Rj4o2Rzz3"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qFNlMgWSEyo0FDFYjYIw",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qFNlMgWSEyo0FDFYjYIw"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/guVXAKERc2SaQA7NZjE5",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/guVXAKERc2SaQA7NZjE5"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-bc2c-4ac1-b779-f51cce243b45",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http://AGameAWeek.com",
+    "firstPublishedAt": "2017-05-02T18:29:21Z",
+    "inAppPurchases": "FIXME",
+    "overview": "Released in May 2017 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

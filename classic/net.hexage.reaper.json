@@ -1,0 +1,62 @@
+{
+    "packageName": "net.hexage.reaper",
+    "title": "Reaper",
+    "description": "Enter the world ripe with magic and monsters! Become the Black Swordsman and slay thousands of enemies in an epic action RPG!\r\n\r\nTake countless quests and uncover the secrets of Wilderness. Level up your character with skills of your choice. Equip hundreds of swords, armor and accessories!\r\n\r\nThe game is free up to character level 10. There are no microtransactions!  If you like the game, you can upgrade to a premium edition.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.3.0",
+            "versionCode": 210300,
+            "uuid": "440e8534-f651-4806-8632-ce23de8b12d2",
+            "date": "2013-12-06T09:07:50Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_net.hexage.reaper_1.3.0/Reaper_1.3.0_net.hexage.reaper.apk",
+            "size": 28031631,
+            "md5sum": "cda7d37fe4c16ae43c6920538eb83367",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/net.hexage.reaper/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/77773309"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-711c-4e30-9a34-e26e8ef0b14b",
+        "name": "Hexage",
+        "supportEmail": "support@hexage.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http://www.hexage.net/reaper/",
+    "firstPublishedAt": "2013-09-17T17:20:43Z",
+    "inAppPurchases": true,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 771,
+        "average": 4.17,
+        "count": 1450
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "reaper-tier3",
+            "name": "Reaper Dark Legend Edition",
+            "description": "Unlocks the Dark Legend Edition of Reaper.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
+}

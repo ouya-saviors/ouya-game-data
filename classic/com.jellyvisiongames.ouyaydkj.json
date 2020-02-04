@@ -1,0 +1,60 @@
+{
+    "packageName": "com.jellyvisiongames.ouyaydkj",
+    "title": "YOU DON'T KNOW JACK",
+    "description": "Play YOU DON\u2019T KNOW JACK \u2013 the irreverent trivia party game - Social Game of the Year!\r\n\r\nPlay by yourself or, using your SMARTPHONES* as controllers play with up to 4 players. Discover a wide load of offbeat question types like Who\u2019s the Dummy?, Funky Trash, DisOrDat and the Jack Attack!\r\n\r\nFind The Wrong Answer of the Game to win virtual prizes like air-conditioned underwear!\r\n\r\nThere\u2019s a free version to try freely for free at absolutely no cost, plus a huge expansion pack of episodes to upgrade to. Play with 1-4 players \u2013 you can even use your phones as controllers! WHAT?!\r\n\r\nIt\u2019s \u201cthe best quiz-show game ever made\u201d according to The Onion A.V. Club. Are you ready?\r\n\r\n*Download the free JackPad\u2122 app to seamlessly interact with YOU DON\u2019T KNOW JACK on the OUYA console.  JackPad\u2122 is currently available in the GooglePlay store and is coming soon to the Apple App Store.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 1,
+            "uuid": "df7cac8d-0a39-4ec4-ac06-abdfcfc80190",
+            "date": "2013-06-07T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.jellyvisiongames.ouyaydkj_1.0.1/YOU%20DON_1.0.1_com.jellyvisiongames.ouyaydkj.apk",
+            "size": 189412476,
+            "md5sum": "c8a5ff34f73d568adf4b1086024ff42b"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.jellyvisiongames.ouyaydkj/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87208844"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-455d-4eee-a8ce-115820f502b2",
+        "name": "Jackbox Games, Inc",
+        "supportEmail": "support@jellyvisiongames.zendesk.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http://jackboxgames.com/?app=ydkj-for-ouya",
+    "firstPublishedAt": "2013-06-07T21:26:43Z",
+    "inAppPurchases": true,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 1265,
+        "average": 4.4,
+        "count": 1139
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "jp_01",
+            "name": "Jack Pack 1",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        }
+    ]
+}

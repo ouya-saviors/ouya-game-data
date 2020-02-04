@@ -1,0 +1,41 @@
+{
+    "packageName": "com.AGameAWeek.JNKPlat",
+    "title": "JNKPlat",
+    "description": "Guide Platdude through 15 quick levels in this Special Xmas Edition of JNKPlat.",
+    "players": [
+        1
+    ],
+    "genres": [],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "2cbf6033-01c3-4a2c-984b-ee8442c3b2af",
+            "date": "2013-12-18T22:37:07Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.AGameAWeek.JNKPlat_1.0/JNKPlat_1.0_com.AGameAWeek.JNKPlat.apk",
+            "size": 5487129,
+            "md5sum": "1d4d2250fee015e69afb81977bcad923"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.JNKPlat/discover",
+    "media": [],
+    "developer": {
+        "uuid": "00000000-4978-4c98-a542-f0aad20f85ba",
+        "name": "Jayenkai",
+        "supportEmail": "Jayenkai@Gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://AGameAWeek.com",
+    "firstPublishedAt": "2013-12-18T22:37:07Z",
+    "inAppPurchases": false,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 34,
+        "average": 3.49,
+        "count": 55
+    }
+}

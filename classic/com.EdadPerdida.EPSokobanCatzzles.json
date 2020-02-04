@@ -1,0 +1,64 @@
+{
+    "packageName": "com.EdadPerdida.EPSokobanCatzzles",
+    "title": "EP Sokoban Catzzles",
+    "description": "Train your brain while you have fun with this new version of the Sokoban classic puzzle.\r\nHelp the cats to complete the 1000 puzzles. What are you waiting for? Play it for FREE!\r\n\r\nFeatures:\r\n* Beautiful HD graphics\r\n* Perfectly balanced increasing difficulty\r\n* Easy controls\r\n* Save each level and continue later\r\n* Undo unlimited movements\r\n* Available in 21 languages\r\n* Register your free EP Games account and challenge your friends to make the highest score",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Meditative",
+        "Puzzle/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 9,
+            "uuid": "b7303e2e-c664-421a-b99f-be0cff5c1d03",
+            "date": "2015-03-04T02:16:58Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.EdadPerdida.EPSokobanCatzzles_1.0.0/EP%20Sokoban%20Catzzles_1.0.0_com.EdadPerdida.EPSokobanCatzzles.apk",
+            "size": 24558436,
+            "md5sum": "02ff2b94ca5f187b74020b09e99c0908",
+            "publicSize": 434287,
+            "nativeSize": 14988636
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.EdadPerdida.EPSokobanCatzzles/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/120011887"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-4c71-4704-a54d-759f68b63157",
+        "name": "Desarrollos de Software Edad Perdida, S.L.",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.epgames.eu",
+    "firstPublishedAt": "2015-03-04T02:16:58Z",
+    "inAppPurchases": false,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.57,
+        "count": 21
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "levelpacks_2_10",
+            "name": "Level Packs 2 to 10",
+            "description": "",
+            "localPrice": 8.99,
+            "originalPrice": 8.99,
+            "currency": "EUR"
+        }
+    ]
+}

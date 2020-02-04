@@ -1,0 +1,59 @@
+{
+    "packageName": "com.spstudios.soccer",
+    "title": "1v1 Arcade Soccer",
+    "description": "It's red team versus blue team in this classic styled soccer arcade game!\n\nThe single player is free and you can play two matches of multiplayer in the free version as well. If you like the game, please consider buying it for unlimited multiplayer!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Multiplayer",
+        "Retro",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "1402db1b-49a3-4874-9fbc-087e89766711",
+            "date": "2014-11-25T19:11:53Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.spstudios.soccer_1.0/1v1%20Arcade%20Soccer_1.0_com.spstudios.soccer.apk",
+            "size": 4992547,
+            "md5sum": "c294f3f0313ce8102e77a5f6fbf77825",
+            "publicSize": 3279239,
+            "nativeSize": 894792
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.spstudios.soccer/discover",
+    "media": [],
+    "developer": {
+        "uuid": "00000000-cea0-4021-90f2-3dd90deb82cd",
+        "name": "SpacialPumpkin Studios",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.spacialpumpkinstudios.webs.com",
+    "firstPublishedAt": "2014-11-25T19:11:53Z",
+    "inAppPurchases": false,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.22,
+        "count": 45
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fn43u9jd3eij20isk",
+            "name": "1v1 Arcade Soccer",
+            "description": "Purchase the full game to play unlimited multiplayer matches!",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "packageName": "com.AGameAWeek.Deflektivity",
+    "title": "Deflektivity",
+    "description": "Reflect the Beam!\nUse all the mirrors to make a super-beam, and destroy all of the mushrooms before time runs out.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "62738746-356c-486b-b49e-65058b11c5ad",
+            "date": "2016-07-12T21:48:06Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.AGameAWeek.Deflektivity_1.0/Deflektivity_1.0_com.AGameAWeek.Deflektivity.apk",
+            "size": 4954002,
+            "md5sum": "6158fe4a9b1029802e24432aea8bae26",
+            "publicSize": 170790,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Deflektivity/discover",
+    "media": [],
+    "developer": {
+        "uuid": "00000000-1177-479f-9d1f-23c799c1a39d",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http://AGameAWeek.com",
+    "firstPublishedAt": "2016-07-12T21:48:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2016 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

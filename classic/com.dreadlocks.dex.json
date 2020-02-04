@@ -1,0 +1,64 @@
+{
+    "packageName": "com.dreadlocks.dex",
+    "title": "Dex: Early Access",
+    "description": "Dex is a 2D, side-scrolling, open-world cyberpunk RPG with a focus on exploration and non-linear gameplay.\r\n\r\nEarly Access!\r\n\r\nEarlier on, we offered Early Access only privately to our Kickstarter backers. Now, with the more advanced version of the game, we\u2019ve decided to go with a more open Early Access so that everyone can join us on our cyberpunk journey. We want to start building a community \u2013 and we want to hear your feedback and involve you in the development of Dex. The current version is limited in both content and features and is slightly discounted compared to the full version. As we progress towards the final release, the price will gradually rise. \r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Fight!",
+        "Platformer",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1.0",
+            "versionCode": 1,
+            "uuid": "cc109beb-ed25-42b6-8e8a-23a6141b41d6",
+            "date": "2014-12-10T22:04:15Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.dreadlocks.dex_1.0.1.0/Dex_1.0.1.0_com.dreadlocks.dex.apk",
+            "size": 195957764,
+            "md5sum": "38a766ef3ae07c82f2be117cdbd69bf1",
+            "publicSize": 860411,
+            "nativeSize": 14989368
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.dreadlocks.dex/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/114011474"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-7e1f-48aa-8dfc-026d06153313",
+        "name": "Dreadlocks Ltd",
+        "supportEmail": "support@dreadlocks.cz",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "17+",
+    "website": "http://www.dex-rpg.com",
+    "firstPublishedAt": "2014-12-09T10:17:45Z",
+    "inAppPurchases": false,
+    "overview": "",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.56,
+        "count": 41
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DEX_EA_Purchase",
+            "name": "Dex Early Access",
+            "description": "The Early Access price, of course, includes the final version when it is released.",
+            "localPrice": 14.99,
+            "originalPrice": 14.99,
+            "currency": "EUR"
+        }
+    ]
+}

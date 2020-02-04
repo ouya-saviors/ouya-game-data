@@ -1,0 +1,44 @@
+{
+    "packageName": "com.pastagames.pixnloverush",
+    "title": "Pix'n Love Rush",
+    "description": "Run, jump and shoot!\r\n\r\nDiscover a new gameplay experience with optimized controls for OUYA!\r\n\r\nTake command of Pixel the cat and complete the different levels as quickly as possible, collecting as many bonuses as you can along the way!\r\nYour heartbeat cannot resist the Rush! All you love about classic Jump & Run games condensed into 5 minute sessions, or in infinite play mode, for those who have nerves of steel and incredible reflexes!\r\nWatch out for vertical and horizontal scrolling which may take you by surprise! There are 4 fast-paced game modes, including Cursed Rush, where getting a 100% score across all 5 daunting levels will exhaust your nerves and your fingers!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 104,
+            "uuid": "5e4b9b2d-9eab-42da-b29e-364f45b189f9",
+            "date": "2013-04-30T06:55:01Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.pastagames.pixnloverush_1.0.4/Pix_1.0.4_com.pastagames.pixnloverush.apk",
+            "size": 23920472,
+            "md5sum": "0011e4bda68d44d48f702600527bb8fe"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.pastagames.pixnloverush/discover",
+    "media": [],
+    "developer": {
+        "uuid": "00000000-4aae-4747-be41-56371ea728d2",
+        "name": "Advanced Mobile Applications Ltd.",
+        "supportEmail": "customersupport@ama.us",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.ama-studios.com",
+    "firstPublishedAt": "2013-03-27T15:29:32Z",
+    "inAppPurchases": true,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 201,
+        "average": 3.79,
+        "count": 78
+    }
+}

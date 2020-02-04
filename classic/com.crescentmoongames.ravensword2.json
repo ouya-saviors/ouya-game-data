@@ -1,0 +1,60 @@
+{
+    "packageName": "com.crescentmoongames.ravensword2",
+    "title": "Ravensword: Shadowlands",
+    "description": "Ravensword brings unprecedented visuals to the role playing and adventure \r\ngenre. Explore a vast and richly detailed world, gather powerful weapons, collect hundreds of items, increase your skills, and follow a deep storyline to solve the mysteries of the Kingdom of Tyreas.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.26",
+            "versionCode": 14,
+            "uuid": "a3b39697-2000-40ab-b278-a3a0e9eacb65",
+            "date": "2013-06-25T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.crescentmoongames.ravensword2_1.26/Ravensword_%20Shadowlands_1.26_com.crescentmoongames.ravensword2.apk",
+            "size": 580059520,
+            "md5sum": "e42ed8c849aa52de279ff098df1f658e"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.crescentmoongames.ravensword2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/87317338"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-4415-42ab-a8a7-9e81222055f0",
+        "name": "Crescent Moon Games",
+        "supportEmail": "support@crescentmoongames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "www.crescentmoongames.com",
+    "firstPublishedAt": "2013-06-25T14:59:05Z",
+    "inAppPurchases": true,
+    "overview": "Released in June 2013 by Crescent Moon Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 1451,
+        "average": 3.94,
+        "count": 992
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "iap_full_game",
+            "name": "Ravensword: Shadowlands Full Game",
+            "description": "Ravensword brings unprecedented visuals to the role playing and adventure genre. ",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        }
+    ]
+}

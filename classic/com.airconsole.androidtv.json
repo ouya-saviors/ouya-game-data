@@ -1,0 +1,50 @@
+{
+    "packageName": "com.airconsole.androidtv",
+    "title": "AirConsole",
+    "description": "AirConsole is an online video game console that brings back local multiplayer in the most intuitive way to a modern environment. Play games together in Forge TV and use your smartphones as gamepads.",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "1.0.4",
+            "versionCode": 6,
+            "uuid": "8f79d7f7-e5c7-486b-8abb-1e31cd825e1e",
+            "date": "2017-03-23T15:20:52Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.airconsole.androidtv_1.0.4/AirConsole_1.0.4_com.airconsole.androidtv.apk",
+            "size": 2043446,
+            "md5sum": "e561bdd11594cd6a1f242e680ef9bc5c",
+            "publicSize": 1219534,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.airconsole.androidtv/discover",
+    "media": [],
+    "developer": {
+        "uuid": "00000000-c0aa-4fb9-b2be-290a4a3d4dd9",
+        "name": "N-Dream AG / AirConsole",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.airconsole.com",
+    "firstPublishedAt": "2017-03-23T15:20:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2017 by N-Dream AG / AirConsole.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

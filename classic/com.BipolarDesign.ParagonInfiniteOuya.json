@@ -1,0 +1,61 @@
+{
+    "packageName": "com.BipolarDesign.ParagonInfiniteOuya",
+    "title": "Paragon Infinite",
+    "description": "Paragon Infinite is an infinite runner style arcade game. Ride up and down magnetic rails and press O to jump off at a 45 degree angle. Time your jumps to make it through the obstacles, and try to collect all the treasures for bonus points! Don't hesitate or you'll risk exploding on the spikes!\r\n\r\nFeatures infinite gameplay!\r\n4 game modes!\r\n4 graphical skins!\r\nA wicked electro-industrial soundtrack!*\r\n\r\n\"[Paragon Infinite] is something that you shouldn't let bounce past you.\" - Super Game Droid\r\n\r\nWant more Paragon action? Check out Paragon for PC at  J.mp/paragongame!\r\n\r\n*Get the soundtrack at music.exmachinae.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Retro",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "Ouya v1.3",
+            "versionCode": 4,
+            "uuid": "c74a89b5-ae14-4e16-a392-96f0602c451d",
+            "date": "2014-05-01T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.BipolarDesign.ParagonInfiniteOuya_Ouya_v1.3/Paragon%20Infinite_Ouya%20v1.3_com.BipolarDesign.ParagonInfiniteOuya.apk",
+            "size": 10123154,
+            "md5sum": "00f9950ec15e268bbb81ef8cf7274eb3"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.BipolarDesign.ParagonInfiniteOuya/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/93047061"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-53ce-422c-b333-feac14bf0027",
+        "name": "[-BipolarDesign+]",
+        "supportEmail": "bipolardesign@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://j.mp/BipolarDesign",
+    "firstPublishedAt": "2014-05-01T18:17:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by [-BipolarDesign+].",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.38,
+        "count": 13
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ParagonInfFull",
+            "name": "Paragon Infinite Full Game",
+            "description": "You are about to purchase Paragon Infinite. This will unlock everything in the game, forever!",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "packageName": "net.pandum.client",
+    "title": "Pandum",
+    "description": "Free to play Arcade MMORPG",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.11.11",
+            "versionCode": 46,
+            "uuid": "e1fac929-3385-43c6-9c8a-f7d07873da03",
+            "date": "2016-11-11T10:11:22Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_net.pandum.client_1.11.11/pandum_1.11.11_net.pandum.client.apk",
+            "size": 7879091,
+            "md5sum": "9c67dc4f0fc664a0c207312d34067cdc",
+            "publicSize": 137961,
+            "nativeSize": 817502
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/net.pandum.client/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/c491bc91-1245-4949-9256-993aee2472d3/wnhy7i_ouya-screenshot20160727-3-19ow8uo.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/c491bc91-1245-4949-9256-993aee2472d3/thumbnails/thumbnail20160727-3-a85ln8.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/c491bc91-1245-4949-9256-993aee2472d3/k6b0dv_ouya-screenshot20160727-3-26xjpr.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/c491bc91-1245-4949-9256-993aee2472d3/thumbnails/thumbnail20160727-3-lx7lhv.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/c491bc91-1245-4949-9256-993aee2472d3/s710a1_ouya-screenshot20160727-3-qvgc64.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/c491bc91-1245-4949-9256-993aee2472d3/thumbnails/thumbnail20160727-3-16723px.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-3b40-42f2-ba30-29a2b3f00109",
+        "name": "Electronic Experience",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.pandum.net",
+    "firstPublishedAt": "2016-09-09T10:14:17Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2016 by Electronic Experience.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 2.13,
+        "count": 55
+    }
+}

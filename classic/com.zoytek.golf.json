@@ -1,0 +1,82 @@
+{
+    "packageName": "com.zoytek.golf",
+    "title": "Infinite Golf",
+    "description": "Sit back, relax, and enjoy over 39 million possible course combinations with Infinite Golf!\r\n\r\n\u2022Procedurally generated courses\r\n\u2022Each hole is different with it's own unique terrain\r\n\u2022Every hole is a par 3!\r\n\u2022Scores can be reset back to Hole 1\r\n\u2022Infinite holes -play forever\r\n\r\nBuy now and enjoy the drive!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative",
+        "Short on Time?",
+        "Sim/Strategy",
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "Build",
+            "versionCode": null,
+            "uuid": "7a17c156-55e8-4873-b6cb-c86f73a6d1d9",
+            "date": "2014-12-19T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.zoytek.golf_Developer_Build/Infinite%20Golf_Developer%20Build_com.zoytek.golf.apk",
+            "size": 20529670,
+            "md5sum": "b3acd1aa7f984c754f0670c1e701d753"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.zoytek.golf/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/114866048"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/2ene3d_ouya-screenshot20141218-2-nirw8i.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/thumbnails/thumbnail20141218-2-181vbmf.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/4yklbv_ouya-screenshot20141218-2-1cfytw5.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/thumbnails/thumbnail20141218-2-fwt5gg.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/g3la3r_ouya-screenshot20141218-2-10t27xc.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/thumbnails/thumbnail20141218-2-bfkg69.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/nt671u_ouya-screenshot20141218-2-1d6ngqh.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b62a866-6309-4947-9cb2-a3caee9c95f5/thumbnails/thumbnail20141218-2-y8lq7n.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-397a-4e66-8589-68710aca125c",
+        "name": "Alan Quinn // Zoytek",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.zoytek.co.uk",
+    "firstPublishedAt": "2014-12-19T23:24:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Alan Quinn // Zoytek.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.24,
+        "count": 17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ig_fullgame",
+            "name": "Infinite Golf - Full Game",
+            "description": "Full Game",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

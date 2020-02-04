@@ -1,0 +1,59 @@
+{
+    "packageName": "pompipompi.ofer.racing.dieselracer2",
+    "title": "Diesel Racer 2",
+    "description": "Diesel Racer 2 is a beautifully rendered 3D racing game.\r\n\r\nThe story in Diesel Racer 2:\r\nA former illegal racing driver is living a peaceful life with her new family.\r\nUntil one day she has to race again for the same people who got her son into trouble in the first place.\r\n\r\n\r\nNote from the developer:\r\nI wished for a much bigger game originally, but a lot of features didn't get in.\r\nThere reason is that I didn't have a lot of time to work on the game.\r\nShowing support and telling your friends about this game will encourage me to keep on updating and developing it further.\r\n\r\nFeatures I would like to add in the future:\r\n- Story mode\r\n- More tracks.\r\n- Multiplayer.\r\n- Car upgrades.\r\n- Weapons.\r\n- Death match arena.\r\n- And more...\r\n\r\nThank you.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.36OUYA",
+            "versionCode": 99,
+            "uuid": "522ca457-4786-4053-9ccb-47c841d67751",
+            "date": "2015-01-27T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_pompipompi.ofer.racing.dieselracer2_1.36OUYA/Diesel%20Racer%202_1.36OUYA_pompipompi.ofer.racing.dieselracer2.apk",
+            "size": 47671813,
+            "md5sum": "20973cddde6675ca367f34b4cdf79b40"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/pompipompi.ofer.racing.dieselracer2/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/120868957"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-90b1-4970-a373-48314dd86a4d",
+        "name": "Pompi Pompi Entertainment",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http://www.PompiPompi.net/",
+    "firstPublishedAt": "2015-01-27T18:11:47Z",
+    "inAppPurchases": false,
+    "overview": "",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 3.38,
+        "count": 37
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "DieselRacer2_FullVersion",
+            "name": "Diesel Racer 2: Full Version",
+            "description": "Diesel Racer 2 is a beautifully 3D rendered racing game. The game is up to a lot of updates and additions.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        }
+    ]
+}

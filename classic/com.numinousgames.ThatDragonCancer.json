@@ -1,0 +1,76 @@
+{
+    "packageName": "com.numinousgames.ThatDragonCancer",
+    "title": "That Dragon, Cancer",
+    "description": "\u201cThis is where we go to remember our son Joel, up through here along this path. We want to show you who he was, and how his life changed us. Can we walk here together for a while?\u201d\r\n\r\nFollow Ryan and Amy Green on a journey of hope, memories, and sacred longing. Explore a world untethered from time but filled with the laughter of Joel Green, a brave knight who fought cancer for four years.\r\n\r\nUsing mostly first-person, point-and-click interaction, the player is invited to slow down and immerse themselves in a deeply personal memoir featuring audio taken from home videos, spoken word poetry, and in-game tributes to the loved ones of over 200 Kickstarter backers.\r\n\r\nCan you find hope in the face of death?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Meditative",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0 - Build-1a433de",
+            "versionCode": 1,
+            "uuid": "5482f83b-2b32-4be8-816d-43356fb22cb2",
+            "date": "2016-01-12T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.numinousgames.ThatDragonCancer_1.0_-_Build-1a433de/That%20Dragon%2C%20Cancer%20-%20Build-1a433de_1.0%20-%20Build-1a433de_com.numinousgames.ThatDragonCancer.apk",
+            "size": 966209175,
+            "md5sum": "d35d468510f93ba390dd64164b7f7e90"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.numinousgames.ThatDragonCancer/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/151436638"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/ca317198-521e-4b29-807a-51878b69726d/f2w27b_ouya-screenshot20151223-3-18uzr65.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/ca317198-521e-4b29-807a-51878b69726d/thumbnails/thumbnail20151223-3-1jtvj4z.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/ca317198-521e-4b29-807a-51878b69726d/81ty9t_ouya-screenshot20151223-3-ob7s2y.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/ca317198-521e-4b29-807a-51878b69726d/thumbnails/thumbnail20151223-3-xjyejm.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/ca317198-521e-4b29-807a-51878b69726d/nbmrsr_ouya-screenshot20151223-3-1bzslrm.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/ca317198-521e-4b29-807a-51878b69726d/thumbnails/thumbnail20151223-3-zem9p5.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-c8f7-48d9-aae8-ee290ea2986f",
+        "name": "Numinous Games",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.numinousgames.com",
+    "firstPublishedAt": "2016-01-12T08:06:55Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2016 by Numinous Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.78,
+        "count": 27
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_numinousgames_ThatDragonCancer",
+            "name": "That Dragon, Cancer",
+            "description": "A poetic, interactive retelling of Joel Green\u2019s 4-year fight against cancer, one full of love and sacred longing.",
+            "localPrice": 14.99,
+            "originalPrice": 14.99,
+            "currency": "EUR"
+        }
+    ]
+}

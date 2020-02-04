@@ -1,0 +1,67 @@
+{
+    "packageName": "net.hexage.evac",
+    "title": "EVAC",
+    "description": "Run for your life through colorful neon mazes, chased by countless and ever-vigilant security forces.\r\n\r\nBe creative - play stealthily to avoid encounters, prepare traps for your enemies or just rush as fast as you can right in front of their eyes. \r\n\r\nThe only way out is the way through! Break out and take revenge!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.4.0",
+            "versionCode": 220400,
+            "uuid": "320a3705-8c5d-4e20-8e8c-ab0b34b4b32b",
+            "date": "2013-12-06T09:07:36Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_net.hexage.evac_2.4.0/EVAC_2.4.0_net.hexage.evac.apk",
+            "size": 26080524,
+            "md5sum": "f7dd86e183a19e4b89303fc6a7c9fc89",
+            "publicSize": 0,
+            "nativeSize": 0
+        },
+        {
+            "name": "2.3.15",
+            "versionCode": 220315,
+            "uuid": "0c46e207-2e82-484e-b7ba-e5bba0f4f773",
+            "date": "2013-03-15T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_net.hexage.evac_2.3.15/EVAC_2.3.15_net.hexage.evac.apk",
+            "size": 25921780,
+            "md5sum": "8fdf0cab41151db2d77dfd333da72eca"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/net.hexage.evac/discover",
+    "media": [],
+    "developer": {
+        "uuid": "00000000-b5d1-4939-b6cf-641762c9129f",
+        "name": "Hexage",
+        "supportEmail": "support@hexage.net",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "http://www.hexage.net/evac/",
+    "firstPublishedAt": "2013-03-15T12:51:42Z",
+    "inAppPurchases": true,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 237,
+        "average": 3.92,
+        "count": 140
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "evac-trial",
+            "name": "EVAC Premium Upgrade",
+            "description": "Unlocks the Premium Edition of EVAC.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
+}

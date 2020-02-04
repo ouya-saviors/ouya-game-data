@@ -1,0 +1,72 @@
+{
+    "packageName": "com.AGameAWeek.RollingBall",
+    "title": "Rollyblob",
+    "description": "Roll the ball through the maze towards the goal.\nIt's not easy, though.  Especially when you can't stop.\nWatch out for the great balls of fire!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": "FIXME",
+            "uuid": "7cf25cf5-7bdd-4aaa-b0dc-2057fb8964b8",
+            "date": "2017-07-12T06:35:09Z",
+            "latest": true,
+            "url": "FIXME",
+            "size": 3337835,
+            "md5sum": "ce46999d1b2fbc7c0b9228bf875e9491-1",
+            "publicSize": 129784,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/xbf6iUX5QKesuZ7oxsbw",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/daRPIRhOQUeofOUA5m81",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/daRPIRhOQUeofOUA5m81"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Rxi0EgBCQum5g2GFU0ND",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Rxi0EgBCQum5g2GFU0ND"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/2konAJzZRNqeivWbAD2D",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/2konAJzZRNqeivWbAD2D"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/sXRzqJW3Q9yYvJUm6bom",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/sXRzqJW3Q9yYvJUm6bom"
+        },
+        {
+            "type": "image",
+            "url": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eCAWS3ERlailmykMXNF8",
+            "thumb": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eCAWS3ERlailmykMXNF8"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-4f55-4a3d-b45b-9d6d9e59a719",
+        "name": "Jayenkai",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Http://AGameAWeek.com",
+    "firstPublishedAt": "2017-07-12T06:35:09Z",
+    "inAppPurchases": "FIXME",
+    "overview": "Released in July 2017 by Jayenkai.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

@@ -1,0 +1,65 @@
+{
+    "packageName": "com.cowboycolor.ChargeShot",
+    "title": "ChargeShot",
+    "description": "Annually, from across dozens of galactic sectors, men, girblons, women, and children tune in to their local space TV stations for the most anticipated event of the year: \u201cChargeShot\u201d. Bounty hunters from across the known universe compete annually for eternal glory and a coveted $2,000,001 space-credit reward. \r\n\r\nIn ChargeShot, each player is armed with a Pulsar Cannon, capable of powerful blasts that bounce off walls and instantly destroy any life forms they touch; an Energy Shield, which can reflect Pulsar blasts and knock opponents into dangerous hazards; and a standard-issue jetpack for traversing the battlefield with deadly speed and grace. \r\n\r\nTest your reflexes against AI or up to 3 other friends (or enemies, as the case may be by the end of the night). \r\n\r\nFeatures: \r\nUp to 4 player competitive matches\r\n3 distinct game modes\r\n12 Unique levels that affect gameplay\r\nAdd Bots into matches\r\nSingle player campaign\r\nUnlockable characters and levels\r\nDynamic music",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Multiplayer",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.23",
+            "versionCode": 1000023,
+            "uuid": "8755b2a4-eef9-4d13-8c38-c06198ed6416",
+            "date": "2016-08-08T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.cowboycolor.ChargeShot_1.23/ChargeShot_1.23_com.cowboycolor.ChargeShot.apk",
+            "size": 79140530,
+            "md5sum": "00d6a3b804cb7f469dc2eec500668486"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/com.cowboycolor.ChargeShot/discover",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/154382431"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-3cad-4c4f-9ea7-e27cf33b72a8",
+        "name": "OUYA Publishing",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "12+",
+    "website": "www.cowboycolor.com",
+    "firstPublishedAt": "2016-06-28T14:58:52Z",
+    "inAppPurchases": false,
+    "overview": "Released in June 2016 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.57,
+        "count": 7
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ChargeShotFullPurchase",
+            "name": "ChargeShot",
+            "description": "The entire game of ChargeShot, no strings attached!",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        }
+    ]
+}
