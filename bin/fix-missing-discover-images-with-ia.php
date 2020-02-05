@@ -72,7 +72,7 @@ foreach ($files as $file) {
         . $game->packageName . '/discover';
     file_put_contents(
         $file,
-        json_encode($game, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
+        json_encode($game, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n"
     );
     echo " written\n";
 }

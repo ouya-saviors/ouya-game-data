@@ -36,7 +36,7 @@ foreach ($files as $file) {
         echo " updating file\n";
         file_put_contents(
             $file,
-            json_encode($game, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES) . "\n"
+            json_encode($game, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE) . "\n"
         );        
     }
 }
