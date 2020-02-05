@@ -59,7 +59,7 @@
     "premium": false,
     "rating": {
         "likeCount": 0,
-        "average": 0.0,
+        "average": 0,
         "count": 0
     },
     "products": [
@@ -68,8 +68,8 @@
             "identifier": "cubeQuit_FullGame",
             "name": "cubeQuit",
             "description": "NOTICE: This console no longer accepts updates: cubeQuit is getting a remake, I am releasing this 'full old-version' for the low cost of $0.",
-            "localPrice": 0.0,
-            "originalPrice": 0.0,
+            "localPrice": 0,
+            "originalPrice": 0,
             "currency": "USD"
         }
     ]
