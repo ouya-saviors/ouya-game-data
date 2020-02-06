@@ -19,7 +19,18 @@
             "size": 5571741,
             "md5sum": "6192c694643cdff79d4aca0f79c86bcf",
             "publicSize": 155197,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "65d10678-02ea-44a4-af3a-5a2418ce9053",
+            "date": "2016-01-04T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.AGameAWeek.SRA_I15_1.0/Space%20Rocket%20Adventurers_1.0_com.AGameAWeek.SRA_I15.apk",
+            "size": 5562482,
+            "md5sum": "b03ee7a196c16adce7e169f58e9937a7"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.SRA_I15/discover",

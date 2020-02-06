@@ -21,7 +21,18 @@
             "size": 29979867,
             "md5sum": "e9b9643b2dee1f13b91e883ea5570557",
             "publicSize": 689820,
-            "nativeSize": 8218636
+            "nativeSize": 8218636,
+            "latest": true
+        },
+        {
+            "name": "0.8.5",
+            "versionCode": 8005,
+            "uuid": "65a01256-d86f-411d-9fc3-a4821a37756e",
+            "date": "2014-11-03T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.molinware.super_cosmonauts_0.8.5/Super%20Cosmonauts_0.8.5_com.molinware.super_cosmonauts.apk",
+            "size": 28653206,
+            "md5sum": "a89ce8e9e1827a38f18bb0cbbdb44d18"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.molinware.super_cosmonauts/discover",

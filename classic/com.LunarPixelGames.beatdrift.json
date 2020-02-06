@@ -11,15 +11,16 @@
     ],
     "releases": [
         {
-            "name": "1.0.0",
-            "versionCode": 0,
+            "name": "1.2.0",
+            "versionCode": 120,
             "uuid": "dd9fe66b-6278-4533-9a76-3616df1ff557",
             "date": "2014-11-03T15:22:26Z",
-            "url": "https://devs-ouya-tv-prod.s3.amazonaws.com/apps/bd7984c1-f5f2-416c-8929-a34b57dad297/com.LunarPixelGames.beatdrift/dd9fe66b-6278-4533-9a76-3616df1ff557/7LEcFtWVSR6m2hTRtTUi_BEAT%20DRIFT%20Ouya.apk",
+            "url": "https://archive.org/download/ouya_com.LunarPixelGames.beatdrift_1.2.0/BEAT%20DRIFT_1.2.0_com.LunarPixelGames.beatdrift.apk",
             "size": 35408847,
             "md5sum": "0adf32971af109f5ad1db4b4d294fbe1",
             "publicSize": 870845,
-            "nativeSize": 15342200
+            "nativeSize": 15342200,
+            "latest": true
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.LunarPixelGames.beatdrift/discover",

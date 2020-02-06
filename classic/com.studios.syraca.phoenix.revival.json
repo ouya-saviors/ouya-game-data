@@ -20,7 +20,18 @@
             "size": 36812884,
             "md5sum": null,
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "0.9.6",
+            "versionCode": 4,
+            "uuid": "387c6599-d6ec-42c3-bba6-027c8182f83c",
+            "date": "2013-06-03T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.studios.syraca.phoenix.revival_0.9.6/Phoenix%20Revival_0.9.6_com.studios.syraca.phoenix.revival.apk",
+            "size": 36812884,
+            "md5sum": "14f40b4c3e214a77ea43827635042f1c"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.studios.syraca.phoenix.revival/discover",

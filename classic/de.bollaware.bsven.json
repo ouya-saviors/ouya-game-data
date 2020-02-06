@@ -21,7 +21,18 @@
             "size": 68336125,
             "md5sum": "0b97120c5df1f5819082b562a85e8208",
             "publicSize": 427673,
-            "nativeSize": 481740
+            "nativeSize": 481740,
+            "latest": true
+        },
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "7d52c88b-bff3-405e-bcad-605511000b4f",
+            "date": "2014-10-14T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_de.bollaware.bsven_1.0/Bollaware_1.0_de.bollaware.bsven.apk",
+            "size": 66279268,
+            "md5sum": "33fffe7344ed3c0dcdc39b6f6b14600a"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/de.bollaware.bsven/discover",

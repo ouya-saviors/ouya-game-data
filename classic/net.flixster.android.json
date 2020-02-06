@@ -20,7 +20,18 @@
             "size": 6873950,
             "md5sum": "8be8f6b5069a5f2f77b9b9b7d6b1551d",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "5.1.1.04",
+            "versionCode": 8000511,
+            "uuid": "e9ecea09-4efe-4fc0-923f-b87cd515b0da",
+            "date": "2013-08-07T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_net.flixster.android_5.1.1.04/Flixster_5.1.1.04_net.flixster.android.apk",
+            "size": 7045366,
+            "md5sum": "254519f85698604c7a5bcc12d8bb1ac6"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/net.flixster.android/discover",

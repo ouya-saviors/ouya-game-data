@@ -19,7 +19,18 @@
             "size": 102256724,
             "md5sum": "daf5f3e8818f9cb4a2a5e402445cf402",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "1.4",
+            "versionCode": 5,
+            "uuid": "e5687d2c-bfe4-4ed8-9f9a-c73c10f42d62",
+            "date": "2013-10-09T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.LaughinGullProductions.WhiteWater3D_1.4/WhiteWater%203D_1.4_com.LaughinGullProductions.WhiteWater3D.apk",
+            "size": 79414417,
+            "md5sum": "514b5df2e579f8cad006f5cbb208668c"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.LaughinGullProductions.WhiteWater3D/discover",

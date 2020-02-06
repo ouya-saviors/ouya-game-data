@@ -20,7 +20,18 @@
             "size": 337128404,
             "md5sum": null,
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "a729cf76-8920-40c9-a11e-4f134b058c81",
+            "date": "2013-07-15T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.Xyla.RushBros_1.0/RushBrothers_1.0_com.Xyla.RushBros.apk",
+            "size": 337128404,
+            "md5sum": "52f4bb5f14b08ed8a5d1b5ac1332854d"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.Xyla.RushBros/discover",

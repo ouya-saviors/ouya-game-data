@@ -20,7 +20,18 @@
             "size": 11872278,
             "md5sum": null,
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "0.8.0",
+            "versionCode": 8000,
+            "uuid": "8ebcde64-2479-45d2-ac37-c4b7f4eddc0c",
+            "date": "2013-07-08T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_air.gd.sos.badass_0.8.0/Badass%20vs%20Hipsters_0.8.0_air.gd.sos.badass.apk",
+            "size": 11872278,
+            "md5sum": "6c56a92cf69eeb2fce05f7fd2d4f1496"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/air.gd.sos.badass/discover",

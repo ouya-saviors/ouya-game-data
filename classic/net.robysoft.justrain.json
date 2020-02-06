@@ -20,7 +20,18 @@
             "size": 24377418,
             "md5sum": "bda5479f54d14c3fe8ee3ad728267f55",
             "publicSize": 2382367,
-            "nativeSize": 3860592
+            "nativeSize": 3860592,
+            "latest": true
+        },
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "93d6c59a-9b03-45a2-a8a7-37543917e789",
+            "date": "2014-06-03T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_net.robysoft.justrain_1.0/Just%20Rain_1.0_net.robysoft.justrain.apk",
+            "size": 38878996,
+            "md5sum": "1e69f463ea1c181264141f348d88a561"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/net.robysoft.justrain/discover",

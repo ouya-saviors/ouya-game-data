@@ -20,7 +20,28 @@
             "size": 167492843,
             "md5sum": "d8a198937aea4ef3e4a31cc3eca6607c",
             "publicSize": 649793,
-            "nativeSize": 18184808
+            "nativeSize": 18184808,
+            "latest": true
+        },
+        {
+            "name": "2.0.2.4",
+            "versionCode": 1,
+            "uuid": "42c4fe5f-c8f3-4fef-b6da-ed7eded406ee",
+            "date": "2016-01-08T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.mattrifiedgames.battlehigh2_2.0.2.4/Battle%20High%202_2.0.2.4_com.mattrifiedgames.battlehigh2.apk",
+            "size": 204804488,
+            "md5sum": "76e0b02eb1647f7a423e5b3681ddf060"
+        },
+        {
+            "name": "2.4.0.0",
+            "versionCode": 1,
+            "uuid": "7910cf19-0975-4aaa-8bbd-84271f2bc208",
+            "date": "2016-01-08T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.mattrifiedgames.battlehigh2_2.4.0.0/Battle%20High%202_2.4.0.0_com.mattrifiedgames.battlehigh2.apk",
+            "size": 167476911,
+            "md5sum": "8ca8eea052cba7c54eb655ac944ee29e"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.mattrifiedgames.battlehigh2/discover",

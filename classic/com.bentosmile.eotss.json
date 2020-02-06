@@ -19,7 +19,18 @@
             "size": 8460750,
             "md5sum": null,
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "001-android",
+            "versionCode": 1,
+            "uuid": "7ca2083a-0a62-4b67-80fb-88748e275cee",
+            "date": "2013-06-24T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.bentosmile.eotss_001-android/Enemy%20of%20the%20Solid%20State_001-android_com.bentosmile.eotss.apk",
+            "size": 8460750,
+            "md5sum": "f03e3e8ab7efffe523063b296257342e"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.bentosmile.eotss/discover",

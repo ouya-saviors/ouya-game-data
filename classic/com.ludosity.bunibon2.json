@@ -19,7 +19,18 @@
             "size": 17264011,
             "md5sum": null,
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "baa8fda0-6b8c-47c6-93ed-88ff5f48b257",
+            "date": "2013-04-18T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.ludosity.bunibon2_1.0/Bunibon%202_1.0_com.ludosity.bunibon2.apk",
+            "size": 17264011,
+            "md5sum": "762aebeccd805eca2bad0ef566313a7f"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.ludosity.bunibon2/discover",

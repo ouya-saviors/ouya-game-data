@@ -19,7 +19,18 @@
             "size": 6062321,
             "md5sum": "ad1eda2fa4a0a23b5008798c041314b0",
             "publicSize": 99971,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "b0c438bb-4970-4f44-a00e-dc0a70680f3b",
+            "date": "2015-12-30T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.AGameAWeek.PiAT_I15_1.0/Platdude%20in%20A%20Tube_1.0_com.AGameAWeek.PiAT_I15.apk",
+            "size": 6044289,
+            "md5sum": "a18587d4ca92e80787b8f5c289eb80bf"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.PiAT_I15/discover",

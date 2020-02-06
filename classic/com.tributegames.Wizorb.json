@@ -20,7 +20,18 @@
             "size": 35316831,
             "md5sum": "847d595e887a646f7a7786cad90911dc",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "1.14",
+            "versionCode": 1,
+            "uuid": "44d6a492-3b9e-44ef-816e-590ef1ada0a4",
+            "date": "2013-09-06T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.tributegames.Wizorb_1.14/Wizorb_1.14_com.tributegames.Wizorb.apk",
+            "size": 35316839,
+            "md5sum": "50d6c96f48aeea0b68f4a4e33069e037"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.tributegames.Wizorb/discover",

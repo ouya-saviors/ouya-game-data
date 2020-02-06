@@ -20,7 +20,18 @@
             "size": 45406618,
             "md5sum": "7ea779d6ddee2974c49ea5c29da14c4e",
             "publicSize": 161941,
-            "nativeSize": 846310
+            "nativeSize": 846310,
+            "latest": true
+        },
+        {
+            "name": "1.5",
+            "versionCode": 7,
+            "uuid": "349a9f9f-ddc5-4f28-8043-8d2f8513b43d",
+            "date": "2014-06-03T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.widepixelgames.android.flowers_1.5/Flowers_1.5_com.widepixelgames.android.flowers.apk",
+            "size": 45258412,
+            "md5sum": "4728a75c78aff81bc19743c128dd4dfa"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.widepixelgames.android.flowers/discover",

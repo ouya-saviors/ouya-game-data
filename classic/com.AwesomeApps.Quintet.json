@@ -20,7 +20,18 @@
             "size": 49248725,
             "md5sum": "39d234e8d65c85a66706b73014521a81",
             "publicSize": 477105,
-            "nativeSize": 14689140
+            "nativeSize": 14689140,
+            "latest": true
+        },
+        {
+            "name": "4.4",
+            "versionCode": 14,
+            "uuid": "513cbe7a-085b-4284-8280-ebfebddb7dee",
+            "date": "2014-05-21T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.AwesomeApps.Quintet_4.4/Quintet_4.4_com.AwesomeApps.Quintet.apk",
+            "size": 42260595,
+            "md5sum": "5c0ada7409cb3c70c0b675b5c57f19cf"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AwesomeApps.Quintet/discover",

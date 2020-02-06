@@ -19,7 +19,18 @@
             "size": 17269025,
             "md5sum": "4014024834eb820403ee02125ef48e8b",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "2.0.1",
+            "versionCode": 201,
+            "uuid": "30efeb6b-f805-42fc-858d-e893a7b13433",
+            "date": "2013-12-19T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.ninevsoftware.kothgame_2.0.1/King%20of%20the%20Hill_2.0.1_com.ninevsoftware.kothgame.apk",
+            "size": 15473622,
+            "md5sum": "67256518fac67daa05b84f623c5e0f45"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.ninevsoftware.kothgame/discover",

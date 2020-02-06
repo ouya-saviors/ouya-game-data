@@ -18,7 +18,18 @@
             "size": 37136478,
             "md5sum": "a445297c78473f944d222183d145e134",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": false
+        },
+        {
+            "name": "1.080",
+            "versionCode": 1080,
+            "uuid": "fe7adbdc-ba10-4ca9-9267-d1e1bf9ea7e5",
+            "date": "2013-07-31T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.spilgames.highwayrally_1.080/Highway%20Rally_1.080_com.spilgames.highwayrally.apk",
+            "size": 33355496,
+            "md5sum": "4a88429cc622ff77355a564ec1c8c97c"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.spilgames.highwayrally/discover",

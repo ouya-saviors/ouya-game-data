@@ -21,7 +21,18 @@
             "size": 9399583,
             "md5sum": "325a49cd366179c05e5c8261b908acef",
             "publicSize": 1189932,
-            "nativeSize": 489880
+            "nativeSize": 489880,
+            "latest": true
+        },
+        {
+            "name": "1.2.1",
+            "versionCode": 32,
+            "uuid": "1718bf9d-ccc5-40af-9fc0-f3a8a4014ef5",
+            "date": "2016-08-11T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.twosquidgames.ninesquids.android_1.2.1/Squid%20Sudoku_1.2.1_com.twosquidgames.ninesquids.android.apk",
+            "size": 10149928,
+            "md5sum": "f818fc5ee6275b357c91c48a7671ab19"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.twosquidgames.ninesquids.android/discover",

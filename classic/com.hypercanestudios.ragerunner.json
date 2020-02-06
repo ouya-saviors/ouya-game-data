@@ -20,7 +20,18 @@
             "size": 89980866,
             "md5sum": "1362f0ef23631aadad58562ee0521363",
             "publicSize": 317784,
-            "nativeSize": 9472616
+            "nativeSize": 9472616,
+            "latest": true
+        },
+        {
+            "name": "1.3.1",
+            "versionCode": 12,
+            "uuid": "c6074b5b-18ae-47ec-8648-93fc39773659",
+            "date": "2014-02-03T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.hypercanestudios.ragerunner_1.3.1/Rage%20Runner_1.3.1_com.hypercanestudios.ragerunner.apk",
+            "size": 49671855,
+            "md5sum": "c460cc9ae2305a0a72b1b90e1958815b"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.hypercanestudios.ragerunner/discover",

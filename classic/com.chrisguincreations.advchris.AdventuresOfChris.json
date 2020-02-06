@@ -20,7 +20,18 @@
             "size": 26460211,
             "md5sum": "d21c1d4640a91c571f1302fe6406eb85",
             "publicSize": 137848,
-            "nativeSize": 19664671
+            "nativeSize": 19664671,
+            "latest": true
+        },
+        {
+            "name": "1.1.4",
+            "versionCode": 1001004,
+            "uuid": "f525ac7b-9652-41b7-a660-f573142ee3fa",
+            "date": "2015-12-18T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.chrisguincreations.advchris.AdventuresOfChris_1.1.4/Adventures%20of%20Chris_1.1.4_com.chrisguincreations.advchris.AdventuresOfChris.apk",
+            "size": 26496093,
+            "md5sum": "88201daeaff4030b2804ba5ff3f2517b"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.chrisguincreations.advchris.AdventuresOfChris/discover",

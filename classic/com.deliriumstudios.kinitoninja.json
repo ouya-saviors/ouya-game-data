@@ -20,7 +20,18 @@
             "size": 40803955,
             "md5sum": "a6e444303b77cdc35646e7fb10547d14",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
+        },
+        {
+            "name": "2.0",
+            "versionCode": 20,
+            "uuid": "6a3d3e9f-cb67-44db-8983-a98145f66d6d",
+            "date": "2013-08-27T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.deliriumstudios.kinitoninja_2.0/Kinito%20Ninja_2.0_com.deliriumstudios.kinitoninja.apk",
+            "size": 39749014,
+            "md5sum": "398f9cb3ae4ac0a226ca413303f86bbe"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.deliriumstudios.kinitoninja/discover",

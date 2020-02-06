@@ -20,7 +20,18 @@
             "size": 105487917,
             "md5sum": "013e9ad3670c01192ba13a1e829977c6",
             "publicSize": 1118665,
-            "nativeSize": 7820628
+            "nativeSize": 7820628,
+            "latest": true
+        },
+        {
+            "name": "3.0.0",
+            "versionCode": 3000000,
+            "uuid": "abfd82ac-3e3b-43da-a375-604e62f4a0f0",
+            "date": "2014-08-13T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.SamuelVenable.Real_Men_Wear_Pink_HD_3.0.0/Real%20Men%20Wear%20Pink%20HD_3.0.0_com.SamuelVenable.Real_Men_Wear_Pink_HD.apk",
+            "size": 130571750,
+            "md5sum": "fcd57d41ce7bae9c284fca07ea74ca64"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.SamuelVenable.Real_Men_Wear_Pink_HD/discover",

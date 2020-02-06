@@ -20,7 +20,18 @@
             "size": 53974295,
             "md5sum": "e2d6f1f1e66dac0046819c62216e1fe1",
             "publicSize": 97421,
-            "nativeSize": 58290048
+            "nativeSize": 58290048,
+            "latest": true
+        },
+        {
+            "name": "12.3.2 (Ouya)",
+            "versionCode": 120302,
+            "uuid": "28fb13e5-588d-4feb-94d7-79bb586b2828",
+            "date": "2016-11-07T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_tv.ouya.xbmc_12.3.2_Ouya/XBMC%20on%20Ouya_12.3.2%20%28Ouya%29_tv.ouya.xbmc.apk",
+            "size": 53786760,
+            "md5sum": "dde361ab1df4ff12f498cfe1afec3b34"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/tv.ouya.xbmc/discover",

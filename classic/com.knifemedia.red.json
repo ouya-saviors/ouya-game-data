@@ -19,7 +19,18 @@
             "size": 50621703,
             "md5sum": "8c4c2ed46f939f62b7577809124feb0a",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": false
+        },
+        {
+            "name": "1.11",
+            "versionCode": 6,
+            "uuid": "063aefd1-5daa-431b-a8c9-4472d9fd0872",
+            "date": "2013-09-04T00:00:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.knifemedia.red_1.11/Red_1.11_com.knifemedia.red.apk",
+            "size": 46709804,
+            "md5sum": "947717074aae2bf628cc06731380eb40"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.knifemedia.red/discover",

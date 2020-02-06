@@ -24,7 +24,18 @@
             "size": 22997285,
             "md5sum": "afee4840d14f59141bd26a3db4946732",
             "publicSize": 401579,
-            "nativeSize": 20536724
+            "nativeSize": 20536724,
+            "latest": true
+        },
+        {
+            "name": "14.10.3",
+            "versionCode": 20141003,
+            "uuid": "ad952cd4-0135-45e3-b955-a30a752eeb78",
+            "date": "2017-03-08T00:00:00Z",
+            "latest": false,
+            "url": "https://archive.org/download/ouya_com.forgottensystems.soccertron_14.10.3/Soccertron_14.10.3_com.forgottensystems.soccertron.apk",
+            "size": 22029146,
+            "md5sum": "96732b65a8fee362b148fea2d7122c5a"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.forgottensystems.soccertron/discover",
