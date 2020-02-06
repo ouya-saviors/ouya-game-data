@@ -25,8 +25,10 @@ foreach ($files as $file) {
     echo $game->packageName . "\n";
 
     $modified = false;
-    foreach ($game->releases as $release) {
+    $unset = [];
+    foreach ($game->releases as $key => $release) {
         if ($release->versionCode !== null
+            && $release->versionCode !== 0//may be ok, but sometimes not
             && $release->versionCode !== 'FIXME'
         ) {
             echo " already ok for version " . $release->name . "\n";
@@ -40,6 +42,7 @@ foreach ($files as $file) {
         $apkFile = $dlDir . '/' . basename(urldecode($release->url));
         if (!file_exists($apkFile)) {
             echo " ERROR: .apk file missing at $apkFile\n";
+            echo " Download-URL: " . $release->url . "\n";
             continue;
         }
 
@@ -50,13 +53,21 @@ foreach ($files as $file) {
             echo $firstLine . "\n";
             continue;
         }
-        preg_match_all("#([^ ]+)='([^']+)'#", substr($firstLine, 8), $matches);
+
+        //versionCode may be empty string
+        preg_match_all("#([^ ]+)='([^']*)'#", substr($firstLine, 8), $matches);
         $data = array_combine($matches[1], $matches[2]);
+
         if (!isset($data['versionCode'])) {
             echo " ERROR: versionCode missing in $apkFile\n";
             $errorFiles[] = $file;
             continue;
+        } else if ($data['versionCode'] === '') {
+            $data['versionCode'] = null;
+        } else {
+            $data['versionCode'] = (int) $data['versionCode'];
         }
+
         if (!isset($data['versionName'])) {
             echo " ERROR: versionName missing in $apkFile\n";
             $errorFiles[] = $file;
@@ -69,16 +80,25 @@ foreach ($files as $file) {
         }
 
         if ($data['name'] != $game->packageName) {
-            echo " ERROR: Different package names in $apkFile:\n";
+            echo " WARNING: Different package names in $apkFile:\n";
             echo "  JSON: " . $game->packageName . "\n";
             echo "  .apk: " . $data['name'] . "\n";
-            $errorFiles[] = $file;
+            echo " removing release\n";
+            $unset[] = $key;
             continue;
         }
 
-        $release->versionCode = (int) $data['versionCode'];
+        $release->versionCode = $data['versionCode'];
         $release->name        = $data['versionName'];
         $modified = true;
+    }
+
+    if (count($unset)) {
+        foreach ($unset as $key) {
+            unset($game->releases[$key]);
+            $modified = true;
+        }
+        $game->releases = array_values($game->releases);//re-key
     }
 
     if ($modified) {
@@ -90,8 +110,11 @@ foreach ($files as $file) {
     }
 }
 
-echo "Errors in:\n";
-foreach ($errorFiles as $errorFile) {
-    echo $errorFile . "\n";
+if (count($errorFiles)) {
+    echo "Errors in:\n";
+    foreach ($errorFiles as $errorFile) {
+        echo $errorFile . "\n";
+    }
+    exit(1);
 }
 ?>

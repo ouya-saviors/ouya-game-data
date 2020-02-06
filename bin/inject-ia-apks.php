@@ -19,7 +19,7 @@ foreach ($files as $file) {
     $game = json_decode(file_get_contents($file));
     echo $game->packageName . "\n";
 
-    $iaFiles = glob($iaJsonDir . '/ouya_' . $game->packageName . '*.json');
+    $iaFiles = glob($iaJsonDir . '/ouya_' . $game->packageName . '_*.json');
     if (!count($iaFiles)) {
         echo "No internet archive files for " . $game->packageName . "\n";
         continue;
@@ -28,7 +28,12 @@ foreach ($files as $file) {
     foreach ($iaFiles as $iaJsonFile) {
         $iaData = json_decode(file_get_contents($iaJsonFile));
         $parts   = explode('_', basename($iaJsonFile, '.json'));
-        $version = end($parts);
+        $version = array_pop($parts);
+        if (!preg_match('#[0-9]#', $version)) {
+            // ouya_tv.ouya.xbmc_12.3.2_Ouya
+            // ouya_com.alienmantech.blue_board_ouya_0.1.0_Beta
+            $version = array_pop($parts);
+        }
 
         $url = null;
         $iapks = [];
@@ -60,8 +65,12 @@ foreach ($files as $file) {
             //one file in this version
             $apk = $iapks[0];
             $found = false;
+            echo "apk:     " . $apk['md5sum'] . "\n";
             foreach ($game->releases as $release) {
-                if ($release->name == $version) {
+                echo "release: " . $release->md5sum . "\n";
+                if ($release->name == $version
+                    || $release->md5sum == $apk['md5sum']
+                ) {
                     //same version! update!
                     echo " updating release $version\n";
                     $found = true;

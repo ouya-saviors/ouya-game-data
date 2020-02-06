@@ -17,14 +17,14 @@ foreach ($files as $file) {
     $highestCode = 0;
     $highestKey  = null;
     foreach ($game->releases as $key => $release) {
-        if (version_compare($release->versionCode, $highestCode, '>')) {
-            $highestCode = $release->versionCode;
+        if (version_compare($release->name, $highestCode, '>')) {
+            $highestCode = $release->name;
             $highestKey  = $key;
         }
     }
     foreach ($game->releases as $key => $release) {
         $highest = $highestKey == $key;
-        if ($release->latest == $highest) {
+        if (isset($release->latest) && $release->latest == $highest) {
             continue;
         }
         $release->latest = $highest;
