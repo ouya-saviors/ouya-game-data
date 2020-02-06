@@ -21,7 +21,8 @@
             "size": 35756083,
             "md5sum": "31564b257d8d61a1c2ff72984a36ce9a",
             "publicSize": 371655,
-            "nativeSize": 6451920
+            "nativeSize": 6451920,
+            "latest": false
         },
         {
             "name": "1.5",
@@ -32,7 +33,8 @@
             "size": 44765234,
             "md5sum": "575388017e3b28060ef85f4c27c7f9b9",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.ggalemb.ThunderingSkiesOuya/discover",

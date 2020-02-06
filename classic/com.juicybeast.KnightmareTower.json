@@ -20,7 +20,8 @@
             "size": 37010765,
             "md5sum": "a15debededdc4c2177f18fe36eb57481",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": true
         },
         {
             "name": "2.0.2",
@@ -31,7 +32,8 @@
             "size": 36547124,
             "md5sum": "6d74a5dfcac38348c67ff15245211775",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "latest": false
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.juicybeast.KnightmareTower/discover",
