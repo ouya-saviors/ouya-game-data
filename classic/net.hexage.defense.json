@@ -25,7 +25,7 @@
     "discover": "http://ouya.cweiske.de/game-images/net.hexage.defense/discover",
     "media": [],
     "developer": {
-        "uuid": "00000000-1313-4869-949f-fadd6aab4bdf",
+        "uuid": "2f161b7c-2f1d-48d4-919d-2525940b2fdc",
         "name": "Hexage",
         "supportEmail": "support@hexage.net",
         "supportPhone": null,
@@ -41,5 +41,47 @@
         "likeCount": 0,
         "average": 3.79,
         "count": 173
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "defense-burning",
+            "name": "Burning pack",
+            "description": "Burn aliens with Typhon Fury Flamer",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "defense-science",
+            "name": "Science pack",
+            "description": "Annihilate aliens with the mighty Omega Cannon!",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "defense-explosives",
+            "name": "Explosive pack",
+            "description": "Bombard alien hordes with target seeking Seraphim Missiles!",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "defense-xenobiology",
+            "name": "Xenobiology pack",
+            "description": "Terrify all aliens with Psionic Terrorshock!",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
