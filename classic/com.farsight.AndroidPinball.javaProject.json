@@ -121,6 +121,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "addamsfamily_ball_pack",
+            "name": "Addams Family Ball Pack",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "addamsfamily_promode",
             "name": "The Addams Family Pro Upgrade",
             "description": "Unlock the pro pack after buying the normal table",
@@ -151,8 +161,28 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "april_pack",
+            "name": "Medieval Madness + The Machine: Bride of Pin*Bot",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "attack_from_mars_pro_pack",
+            "name": "Attack from Mars + Genie Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "attack_from_mars_table_pack",
-            "name": "Attack from Mars",
+            "name": "Attack from Mars + Genie",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -171,11 +201,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "blackknight2000_promode",
+            "name": "Black Knight 2000 Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "blackknight2000_propack",
+            "name": "Black Knight 2000 Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "blackknight2000_tablepack",
             "name": "Black Knight 2000",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "blackrose_promode",
+            "name": "Black Rose Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "blackrose_propack",
+            "name": "Black Rose Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -192,7 +262,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "cactus_canyon_table_pack",
-            "name": "Cactus Canyon",
+            "name": "Cactus Canyon + Central Park",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -211,18 +281,48 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "centaur_pro_pack",
+            "name": "Pin*Bot + Centaur Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "centaur_table_pack",
-            "name": "Centaur",
+            "name": "Pin*Bot + Centaur",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "centigrade37_promode",
+            "name": "Jacks Open + Centigrade 37 Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "centigrade37_propack",
+            "name": "Jacks Open + Centigrade 37 Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
             "promoted": false,
             "type": "entitlement",
             "identifier": "centigrade37_tablepack",
-            "name": "Centigrade 37",
+            "name": "Jacks Open + Centigrade 37",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -231,8 +331,38 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "champion_pub_pro_pack",
+            "name": "The Champion Pub + Whirlwind Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "champion_pub_table_pack",
-            "name": "The Champion Pub",
+            "name": "The Champion Pub + Whirlwind",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cueballwizard_propack",
+            "name": "Cue Ball Wizard + El Dorado Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cueballwizard_tablepack",
+            "name": "Cue Ball Wizard + El Dorado",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -271,8 +401,18 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "doctorwhoregen_propack",
+            "name": "Doctor Who Master of Time",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "dr_dude_table_pack",
-            "name": "Dr. Dude",
+            "name": "Dr. Dude + Firepower",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -283,6 +423,16 @@
             "type": "entitlement",
             "identifier": "dracula_tablepack",
             "name": "Bram Stoker's Dracula",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "drwho_ball_pack",
+            "name": "Dr Who Ball Pack",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -311,6 +461,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "eyeball_ball",
+            "name": "Eyeball Ball",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "fathom_tablepack",
             "name": "Fathom",
             "description": "",
@@ -321,8 +481,18 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "fireball_propack",
+            "name": "El Dorado EM + Fireball Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "fireball_tablepack",
-            "name": "Fireball",
+            "name": "El Dorado EM + Fireball",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -341,8 +511,28 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "flight2000_goinnuts_pro_mode",
+            "name": "Flight 2000 + Goin Nuts Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "flight2000_pro_pack",
+            "name": "Flight 2000 + Goin Nuts Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "flight2000_table_pack",
-            "name": "Flight 2000",
+            "name": "Flight 2000 + Goin Nuts",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -373,6 +563,16 @@
             "type": "entitlement",
             "identifier": "gladiators_tablepack",
             "name": "Gladiators",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "glo_ball_pack",
+            "name": "Glo Balls Pack",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -441,6 +641,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "junkyard_promode",
+            "name": "Junk Yard Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "junkyard_propack",
+            "name": "Junk Yard Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "junkyard_tablepack",
             "name": "Junk Yard",
             "description": "",
@@ -481,11 +701,101 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pack_four",
+            "name": "Black Knight + Creature from the Black Lagoon",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pack_seven",
+            "name": "Scared Atiff + Big Shot",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pack_six",
+            "name": "Elvira and the Party Monsters + No Good Gofers",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pack_three",
+            "name": "Gorgar + Monster Bash",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pack_two",
+            "name": "FunHouse + Cirqus Voltaire",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "paragon_tablepack",
             "name": "Paragon",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_attack_from_mars",
+            "name": "Attack from Mars Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_dr_dude",
+            "name": "Dr. Dude Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_startrek",
+            "name": "Star Trek: The Next Generation Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_pack_four",
+            "name": "Black Knight + Creature from the Black Lagoon Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -501,6 +811,66 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "season_pack_1",
+            "name": "Season One Pack",
+            "description": "",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_1_pro",
+            "name": "Season One Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_2",
+            "name": "Season Two Pack",
+            "description": "",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_2_pro",
+            "name": "Season Two Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_3",
+            "name": "Season Three Pack",
+            "description": "",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_3_pro",
+            "name": "Season Three Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "season_pack_4",
             "name": "Season Four Table Pack",
             "description": "Tables 31-40",
@@ -511,11 +881,121 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "season_pack_4_pro",
+            "name": "Season Four Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_5",
+            "name": "Season Five Pack",
+            "description": "",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_5_pro",
+            "name": "Season Five Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_6",
+            "name": "Season Six Table Pack",
+            "description": "",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_6_pro",
+            "name": "Season Six Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_7",
+            "name": "Season Seven Pack",
+            "description": "",
+            "localPrice": 29.99,
+            "originalPrice": 29.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_7_pro",
+            "name": "Season Seven Pro Pack",
+            "description": "",
+            "localPrice": 39.99,
+            "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season1_ball_pack",
+            "name": "Season 1 Ball Pack",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season2_ball_pack",
+            "name": "Season 2 Ball Pack",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "startrek_ball_pack",
+            "name": "Star Trek Ball Pack",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "swordsoffury_tablepack",
             "name": "Swords of Fury",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "t2_ball_pack",
+            "name": "Terminator 2 Ball Pack",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
             "currency": "EUR"
         },
         {
@@ -552,7 +1032,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "table_pack_1812",
-            "name": "Class of 1812",
+            "name": "Class of 1812 + Victory",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -602,10 +1082,20 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "teedoff_tablepack",
-            "name": "Teed Off",
+            "name": "Teed Off + Haunted House",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "three_pack",
+            "name": "Repley's Believe it Or Not + Theatre of Magic  + Black Hole",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "EUR"
         },
         {
@@ -631,8 +1121,18 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "tz_ball",
+            "name": "Twilight Zone Ball",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "white_water_table_pack",
-            "name": "White Water",
+            "name": "White Water + Space Shuttle",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -651,6 +1151,46 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "wildspanish_propack",
+            "name": "Spanish Eyes + Wild Card Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "wildspanish_tablepack",
+            "name": "Spanish Eyes + Wild Card",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "wipeout_promode",
+            "name": "Wipe Out Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "wipeout_propack",
+            "name": "Wipe Out Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "wipeout_tablepack",
             "name": "Wipe Out",
             "description": "",
@@ -661,8 +1201,58 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "worldcup_propack",
+            "name": "World Chanpion Soccer Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "worldcup_tablepack",
+            "name": "World Chanpion Soccer",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "worldtour_propack",
+            "name": "Al's Garage Band Pro",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "worldtour_tablepack",
             "name": "Al's Garage Band",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "xenon_propack",
+            "name": "Xenon Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "xenon_tablepack",
+            "name": "Xenon",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
