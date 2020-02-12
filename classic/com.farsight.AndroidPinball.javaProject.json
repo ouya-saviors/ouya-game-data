@@ -761,6 +761,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pistolpoker_tablepack",
+            "name": "Pistol Poker",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pistolpoker_promode",
+            "name": "Pistol Poker Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "pro_mode_attack_from_mars",
             "name": "Attack from Mars Pro Upgrade",
             "description": "Unlock the pro pack after buying the normal table",
