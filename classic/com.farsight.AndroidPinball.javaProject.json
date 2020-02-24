@@ -191,6 +191,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "bighurt_promode",
+            "name": "Frank Thomas' Big Hurt Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "bighurt_propack",
+            "name": "Frank Thomas' Big Hurt Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "bighurt_tablepack",
             "name": "Frank Thomas' Big Hurt",
             "description": "",
@@ -261,11 +281,61 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "bonebusters_propack",
+            "name": "Bone Busters Inc Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "bonebusters_tablepack",
+            "name": "Bone Busters Inc",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cactus_canyon_pro_pack",
+            "name": "Cactus Canyon + Central Park Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "cactus_canyon_table_pack",
             "name": "Cactus Canyon + Central Park",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cactusjacks_promode",
+            "name": "Cactus Jacks Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cactusjacks_propack",
+            "name": "Cactus Jacks Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -351,6 +421,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "champion_pub_whirlwind_pro_mode",
+            "name": "The Champion Pub + Whirlwind Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cueballwizard_promode",
+            "name": "Cue Ball Wizard + El Dorado Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "cueballwizard_propack",
             "name": "Cue Ball Wizard + El Dorado Pro",
             "description": "",
@@ -371,6 +461,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "cyclone_promode",
+            "name": "Cyclone Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "cyclone_propack",
+            "name": "Cyclone Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "cyclone_tablepack",
             "name": "Cyclone",
             "description": "",
@@ -381,11 +491,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "diner_promode",
+            "name": "Diner Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "diner_propack",
+            "name": "Diner Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "diner_tablepack",
             "name": "Diner",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "doctorwho_promode",
+            "name": "Doctor Who Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "doctorwho_propack",
+            "name": "Doctor Who Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -411,11 +561,41 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "dr_dude_pro_pack",
+            "name": "Dr. Dude + Firepower Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "dr_dude_table_pack",
             "name": "Dr. Dude + Firepower",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "dracula_promode",
+            "name": "Bram Stoker's Dracula Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "dracula_propack",
+            "name": "Bram Stoker's Dracula Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -441,11 +621,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "earthshaker_promode",
+            "name": "Earchshaker Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "earthshaker_propack",
+            "name": "Earchshaker Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "earthshaker_tablepack",
             "name": "Earchshaker",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "eightball_promode",
+            "name": "Eight Ball Delux Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "eightball_propack",
+            "name": "Eight Ball Delux Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -471,11 +691,41 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "fathom_promode",
+            "name": "Fathom Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "fathom_propack",
+            "name": "Fathom Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "fathom_tablepack",
             "name": "Fathom",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "fireball_promode",
+            "name": "El Dorado EM + Fireball Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "EUR"
         },
         {
@@ -496,6 +746,26 @@
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "firepower2_promode",
+            "name": "Firepower 2 Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "firepower2_propack",
+            "name": "Firepower 2 Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -541,6 +811,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "frankenstein_promode",
+            "name": "Mary Shelley's Frankenstein Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "frankenstein_propack",
+            "name": "Mary Shelley's Frankenstein Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "frankenstein_tablepack",
             "name": "Mary Shelley's Frankenstein",
             "description": "",
@@ -551,11 +841,41 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "ghostbustersstern_propack",
+            "name": "Ghostbusters Pro",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "ghostbustersstern_tablepack",
             "name": "Ghostbusters",
             "description": "",
             "localPrice": 9.99,
             "originalPrice": 9.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "gladiators_promode",
+            "name": "Gladiators Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "gladiators_propack",
+            "name": "Gladiators Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -581,11 +901,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "highrollercasino_promode",
+            "name": "High Roller Casino Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "highrollercasino_propack",
+            "name": "High Roller Casino Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "highrollercasino_tablepack",
             "name": "High Roller Casino",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "highspeed_promode",
+            "name": "High Speed Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "highspeed_propack",
+            "name": "High Speed Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -601,11 +961,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "highspeed2_promode",
+            "name": "The Getaway: High Speed II Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "highspeed2_propack",
+            "name": "The Getaway: High Speed II Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "highspeed2_tablepack",
             "name": "The Getaway: High Speed II",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "hurricane_promode",
+            "name": "Hurricane Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "hurricane_propack",
+            "name": "Hurricane Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -621,11 +1021,81 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "indy500_promode",
+            "name": "Indy 500 Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "indy500_propack",
+            "name": "Indy 500 Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "indy500_tablepack",
             "name": "Indy 500",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "jackbot_promode",
+            "name": "JackBot Pro Mode",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "jackbot_propack",
+            "name": "JackBot Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "jackbot_tablepack",
+            "name": "JackBot",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "judgedredd_promode",
+            "name": "Judge Dredd Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "judgedredd_propack",
+            "name": "Judge Dredd Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -671,6 +1141,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "lastactionhero_promode",
+            "name": "Last Action Hero Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "lastactionhero_propack",
+            "name": "Last Action Hero Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "lastactionhero_tablepack",
             "name": "Last Action Hero",
             "description": "",
@@ -681,11 +1171,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "lightscameraaction_promode",
+            "name": "Lights… Camers… Action! Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "lightscameraaction_propack",
+            "name": "Lights… Camers… Action! Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "lightscameraaction_tablepack",
             "name": "Lights… Camers… Action!",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "nofear_promode",
+            "name": "No Fear: Dangerous Sports Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "nofear_propack",
+            "name": "No Fear: Dangerous Sports Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -712,7 +1242,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "pack_seven",
-            "name": "Scared Atiff + Big Shot",
+            "name": "Scared Stiff + Big Shot",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -751,6 +1281,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "paragon_promode",
+            "name": "Paragon Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "paragon_propack",
+            "name": "Paragon Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "paragon_tablepack",
             "name": "Paragon",
             "description": "",
@@ -761,8 +1311,38 @@
         {
             "promoted": false,
             "type": "entitlement",
-            "identifier": "pistolpoker_tablepack",
-            "name": "Pistol Poker",
+            "identifier": "partyzone_propack",
+            "name": "Party Zone Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "partyzone_tablepack",
+            "name": "Party Zone",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "phantom_propack",
+            "name": "Phantom of the Opera Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "phantom_tablepack",
+            "name": "Phantom of the Opera",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -781,6 +1361,36 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pistolpoker_propack",
+            "name": "Pistol Poker Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pistolpoker_tablepack",
+            "name": "Pistol Poker",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_1812",
+            "name": "Class of 1812 + Victory Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "pro_mode_attack_from_mars",
             "name": "Attack from Mars Pro Upgrade",
             "description": "Unlock the pro pack after buying the normal table",
@@ -791,9 +1401,29 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pro_mode_cactus_canyon",
+            "name": "Cactus Canyon + Central Park Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "pro_mode_dr_dude",
-            "name": "Dr. Dude Pro Upgrade",
+            "name": "Dr. Dude + Firepower Pro Upgrade",
             "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_medieval",
+            "name": "Medieval Madness + The Machine: Bride of Pin*Bot Pro Upgrade",
+            "description": "",
             "localPrice": 3.99,
             "originalPrice": 3.99,
             "currency": "EUR"
@@ -811,6 +1441,36 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pro_mode_twilightzone",
+            "name": "Twilight Zone Pro Upgrade",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_white_water",
+            "name": "White Water + Space Shuttle Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_pack_1812",
+            "name": "Class of 1812 + Victory Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "pro_pack_four",
             "name": "Black Knight + Creature from the Black Lagoon Pro",
             "description": "",
@@ -821,8 +1481,68 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "rescue911_promode",
+            "name": "Rescue 911 Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "rescue911_propack",
+            "name": "Rescue 911 Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "rescue911_tablepack",
             "name": "Rescue 911",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "roadshow_propack",
+            "name": "Red & Ted's RoadShow Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "roadshow_tablepack",
+            "name": "Red & Ted's RoadShow",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "safecracker_propack",
+            "name": "Safe Cracker Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "safecracker_tablepack",
+            "name": "Safe Cracker",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
@@ -991,11 +1711,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "starshiptroopers_promode",
+            "name": "Starship Troopers Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "starshiptroopers_propack",
+            "name": "Starship Troopers Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "starshiptroopers_tablepack",
+            "name": "Starship Troopers",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "startrek_ball_pack",
             "name": "Star Trek Ball Pack",
             "description": "",
             "localPrice": 0.99,
             "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "startrek_pro_pack",
+            "name": "Star Trek: The Next Generation Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -1042,7 +1802,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "table_medieval",
-            "name": "Medieval Madness",
+            "name": "Medieval Madness + The Machine: Bride of Pin*Bot",
             "description": "",
             "localPrice": 2.99,
             "originalPrice": 2.99,
@@ -1101,6 +1861,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "teedoff_promode",
+            "name": "Teed Off + Haunted House Pro Upgrade",
+            "description": "Unlock the pro pack after buying the normal table",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "teedoff_propack",
+            "name": "Teed Off + Haunted House Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "teedoff_tablepack",
             "name": "Teed Off + Haunted House",
             "description": "",
@@ -1121,11 +1901,61 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "tomcat_promode",
+            "name": "F-14 Tomcat Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "tomcat_propack",
+            "name": "F-14 Tomcat Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "tomcat_tablepack",
             "name": "F-14 Tomcat",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "twilightzone_pro_pack",
+            "name": "Twilight Zone Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "txsector_promode",
+            "name": "TX-Sector Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "txsector_propack",
+            "name": "TX-Sector Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -1151,6 +1981,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "white_water_pro_pack",
+            "name": "White Water + Space Shuttle Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "white_water_table_pack",
             "name": "White Water + Space Shuttle",
             "description": "",
@@ -1161,11 +2001,41 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "whodunnit_promode",
+            "name": "WHO dunnit Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "whodunnit_propack",
+            "name": "WHO dunnit Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "whodunnit_tablepack",
             "name": "WHO dunnit",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "wildspanish_promode",
+            "name": "Spanish Eyes + Wild Card Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "EUR"
         },
         {
@@ -1221,6 +2091,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "worldcup_promode",
+            "name": "World Chanpion Soccer Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "worldcup_propack",
             "name": "World Chanpion Soccer Pro",
             "description": "",
@@ -1241,11 +2121,21 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "worldtour_promode",
+            "name": "Al's Garage Band Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "worldtour_propack",
             "name": "Al's Garage Band Pro",
             "description": "Unlock the pro pack after buying the normal table",
-            "localPrice": 3.99,
-            "originalPrice": 3.99,
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
             "currency": "EUR"
         },
         {
@@ -1256,6 +2146,16 @@
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "xenon_promode",
+            "name": "Xenon Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "EUR"
         },
         {
