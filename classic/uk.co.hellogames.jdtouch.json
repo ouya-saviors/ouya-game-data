@@ -79,6 +79,51 @@
             "localPrice": 1.99,
             "originalPrice": 1.99,
             "currency": "USD"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "iap_coins_4000",
+            "name": "4.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "iap_coins_10000",
+            "name": "10.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "iap_coins_20000",
+            "name": "20.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "iap_coins_50000",
+            "name": "50.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "iap_coins_200000",
+            "name": "200.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
         }
     ]
 }
