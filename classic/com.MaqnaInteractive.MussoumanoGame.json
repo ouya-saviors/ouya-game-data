@@ -72,6 +72,7 @@
     },
     "products": [
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "moedas_001",
             "name": "10.000 coins",
@@ -80,6 +81,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "moedas_002",
             "name": "50.000 coins",
@@ -88,6 +90,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "moedas_003",
             "name": "130.000 coins",
@@ -96,6 +99,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "moedas_005",
             "name": "300.000 coins",
@@ -104,6 +108,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "esmeraldas_001",
             "name": "30 emeralds",
@@ -112,6 +117,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "esmeraldas_002",
             "name": "150 emeralds",
@@ -120,6 +126,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "esmeraldas_003",
             "name": "390 emeralds",
@@ -128,6 +135,7 @@
             "currency": "EUR"
         },
         {
+            "type": "consumable",
             "promoted": false,
             "identifier": "esmeraldas_005",
             "name": "900 emeralds",
