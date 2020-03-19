@@ -75,6 +75,15 @@ __ http://cweiske.de/tagebuch/ouya-purchases.htm
 __ https://github.com/ouya-saviors/ouya-game-data/issues/14
 
 
+
+Developer UUIDs
+---------------
+We do not have all developer UUIDs which are required for in-game purchases
+to work.
+Dummy UUIDs begin with ``00000000``.
+UUIDs that are not important because the game has no IAPs begin with ``11111111``.
+
+
 Adding products
 ---------------
 When there are no products in the game data file, we have to get them from
