@@ -59,5 +59,16 @@
         "likeCount": 72,
         "average": 3.2,
         "count": 49
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sbt_buy",
+            "name": "Full game",
+            "description": "Two more powerups, insane speeds, extra destruction",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        }
+    ]
 }
