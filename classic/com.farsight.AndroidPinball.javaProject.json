@@ -281,6 +281,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "bonebusters_promode",
+            "name": "Bone Busters Inc Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "bonebusters_propack",
             "name": "Bone Busters Inc Pro",
             "description": "",
@@ -1052,7 +1062,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "jackbot_promode",
-            "name": "JackBot Pro Mode",
+            "name": "JackBot Pro Upgrade",
             "description": "",
             "localPrice": 3.99,
             "originalPrice": 3.99,
@@ -1231,6 +1241,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pack_five",
+            "name": "Harley-Davidson 3rd Edition + Taxi",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "pack_four",
             "name": "Black Knight + Creature from the Black Lagoon",
             "description": "",
@@ -1311,6 +1331,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "partyzone_promode",
+            "name": "Party Zone Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "partyzone_propack",
             "name": "Party Zone Pro",
             "description": "",
@@ -1326,6 +1356,16 @@
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "phantom_promode",
+            "name": "Phantom of the Opera Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "EUR"
         },
         {
@@ -1421,8 +1461,38 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "pro_mode_four",
+            "name": "Black Knight + Creature from the Black Lagoon Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "pro_mode_medieval",
             "name": "Medieval Madness + The Machine: Bride of Pin*Bot Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_pinbot",
+            "name": "Pin*Bot Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_scaredstiff",
+            "name": "Scared Stiff + Big Shot Pro Upgrade",
             "description": "",
             "localPrice": 3.99,
             "originalPrice": 3.99,
@@ -1436,6 +1506,16 @@
             "description": "Unlock the pro pack after buying the normal table",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_mode_tales",
+            "name": "Tales if the arabian nights Pro Upgrade",
+            "description": "Medieval Madness + The Machine: Bride of Pin*Bot Pro Upgrade",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
             "currency": "EUR"
         },
         {
@@ -1511,6 +1591,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "roadshow_promode",
+            "name": "Red & Ted's RoadShow Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "roadshow_propack",
             "name": "Red & Ted's RoadShow Pro",
             "description": "",
@@ -1526,6 +1616,16 @@
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "safecracker_promode",
+            "name": "Safe Cracker Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "EUR"
         },
         {
@@ -1562,7 +1662,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_1_pro",
-            "name": "Season One Pro Pack",
+            "name": "Season One Pack Pro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1582,7 +1682,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_2_pro",
-            "name": "Season Two Pro Pack",
+            "name": "Season Two Pack Pro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1602,7 +1702,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_3_pro",
-            "name": "Season Three Pro Pack",
+            "name": "Season Three Pack Pro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1622,7 +1722,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_4_pro",
-            "name": "Season Four Pro Pack",
+            "name": "Season Four Pack Pro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1642,7 +1742,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_5_pro",
-            "name": "Season Five Pro Pack",
+            "name": "Season Five Pack Pro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1662,7 +1762,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_6_pro",
-            "name": "Season Six Pro Pack",
+            "name": "Season Six PackPro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1682,7 +1782,7 @@
             "promoted": false,
             "type": "entitlement",
             "identifier": "season_pack_7_pro",
-            "name": "Season Seven Pro Pack",
+            "name": "Season Seven Pack Pro",
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
@@ -1761,6 +1861,26 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "swordsoffury_promode",
+            "name": "Swords of Fury Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "swordsoffury_propack",
+            "name": "Swords of Fury Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "swordsoffury_tablepack",
             "name": "Swords of Fury",
             "description": "",
@@ -1781,11 +1901,51 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "t2_pro_mode",
+            "name": "Terminator 2 Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "t2_pro_pack",
+            "name": "Terminator 2 Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "t2_table_pack",
+            "name": "Terminator 2",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "table_blackknight",
             "name": "Black Knight",
             "description": "",
             "localPrice": 4.99,
             "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "table_bride",
+            "name": "Medieval Madness + The Machine: Bride of Pin*Bot",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
             "currency": "EUR"
         },
         {
