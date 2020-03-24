@@ -1,7 +1,7 @@
 {
     "packageName": "com.pushypixels.protonpulseouya",
     "title": "Proton Pulse",
-    "description": "Get ready for Classic Arcade Brick-Breaking Action from a whole new perspective!\r\nThe entity known as M.O.A.I. has attacked, and the fate of the world is in your hands!\r\nYou have been chosen to compete in the most diabolical game of atomic paddleball ever to grace the 3rd dimension.", 
+    "description": "Get ready for Classic Arcade Brick-Breaking Action from a whole new perspective!\r\nThe entity known as M.O.A.I. has attacked, and the fate of the world is in your hands!\r\nYou have been chosen to compete in the most diabolical game of atomic paddleball ever to grace the 3rd dimension.",
     "players": [
         1
     ],
@@ -9,7 +9,6 @@
         "Sim/Strategy",
         "Retro"
     ],
-
     "releases": [
         {
             "name": "1.0",
@@ -20,12 +19,10 @@
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/Proton%20Pulse%20OUYA_1.0_com.pushypixels.protonpulseouya.apk",
             "size": 28737514,
             "md5sum": "4f9afe034927899aa32f9fc48f5ecd84",
-            
             "publicSize": 27275,
             "nativeSize": 20292
         }
     ],
-
     "discover": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/00ICON.png",
     "media": [
         {
@@ -33,38 +30,37 @@
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/title.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/title_thumb.jpg"
         },
-		{
+        {
             "type": "image",
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/joypad.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/joypad_thumb.jpg"
         },
-		{
+        {
             "type": "image",
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/1.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/1_thumb.jpg"
         },
-		{
+        {
             "type": "image",
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/2.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/2_thumb.jpg"
         },
-		{
+        {
             "type": "image",
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/3.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/3_thumb.jpg"
         },
-		{
+        {
             "type": "image",
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/4.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/4_thumb.jpg"
         },
-		{
+        {
             "type": "image",
             "url": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/5.png",
             "thumb": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/5_thumb.jpg"
         }
     ],
-
     "developer": {
         "uuid": "c28ad265-49e3-41ca-99fe-f63b0b9f54cd",
         "name": "Zerotransfrom",
@@ -72,20 +68,17 @@
         "supportPhone": null,
         "founder": false
     },
-
     "contentRating": "Everyone",
     "website": "http://www.zerotransform.com/proton-pulse/",
     "firstPublishedAt": null,
     "inAppPurchases": true,
     "overview": "Released in June 2013 by Zerotransform.",
     "premium": false,
-
     "rating": {
         "likeCount": 0,
         "average": 0,
         "count": 0
     },
-
     "products": [
         {
             "promoted": true,
