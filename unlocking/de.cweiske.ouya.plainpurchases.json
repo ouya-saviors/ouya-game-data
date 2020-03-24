@@ -8,7 +8,6 @@
     "genres": [
         "Tutorials"
     ],
-
     "releases": [
         {
             "name": "1.1.0",
@@ -16,7 +15,6 @@
             "uuid": "61733bd6-45bf-11ea-88a4-eb9728bcc020",
             "date": "2020-02-02T14:23:23Z",
             "latest": true,
-
             "url": "http://ouya.cweiske.de/unlocking-tools/xposed-ouya-plain-purchases-1.1.0.apk",
             "size": 6216,
             "md5sum": "312d9a258483f3591e91c99f3914f37d"
@@ -27,30 +25,25 @@
             "uuid": "9e10aa84-3565-11ea-bfc9-cba20f806f20",
             "date": "2019-12-20T20:56:23Z",
             "latest": true,
-
             "url": "http://ouya.cweiske.de/unlocking-tools/xposed-ouya-plain-purchases-1.0.apk",
             "size": 6100,
             "md5sum": "93c8ac2c20b79f93422b9f757bd00ed8"
         }
     ],
-
     "discover": "http://ouya.cweiske.de/unlocking-tools/unknown.jpg",
     "media": [],
-
     "developer": {
         "uuid": "e55aa066-3565-11ea-9513-f3f831557180",
         "name": "Christian Weiske",
         "supportEmail": "cweiske+ouya@cweiske.de",
         "founder": false
     },
-
     "contentRating": "Everyone",
     "website": "http://cweiske.de/tagebuch/ouya-purchases.htm",
     "firstPublishedAt": "2020-01-12T19:05:23Z",
     "inAppPurchases": false,
     "overview": "",
     "premium": false,
-
     "rating": {
         "likeCount": 0,
         "average": 5,

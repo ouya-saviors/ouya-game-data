@@ -8,7 +8,6 @@
     "genres": [
         "Tutorials"
     ],
-
     "releases": [
         {
             "name": "1.0.1.8",
@@ -16,28 +15,23 @@
             "uuid": "07a317f0-3563-11ea-a167-1b1232a3235b",
             "date": "2015-10-23T09:58:19Z",
             "latest": true,
-
             "url": "http://ouya.cweiske.de/unlocking-tools/com.koushikdutta.superuser-1.0.1.8.apk",
             "size": 1599229,
             "md5sum": "ee046f396b51cb0eaea4b7f32cf298d2"
         }
     ],
-
     "discover": "http://ouya.cweiske.de/unlocking-tools/unknown.jpg",
     "media": [],
-
     "developer": {
         "uuid": "850a7986-3563-11ea-a268-73bca9ad942b",
         "name": "Koushik Dutta"
     },
-
     "contentRating": "Everyone",
     "website": "https://github.com/koush/Superuser",
     "firstPublishedAt": "2020-01-12T18:48:23Z",
     "inAppPurchases": false,
     "overview": "",
     "premium": false,
-
     "rating": {
         "likeCount": 0,
         "average": 5,
