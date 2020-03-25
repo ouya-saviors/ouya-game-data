@@ -1,0 +1,57 @@
+{
+    "packageName": "com.juicybeast.tototempledeluxe.forge",
+    "title": "Toto Temple Deluxe",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.5.1",
+            "versionCode": null,
+            "uuid": "0e4d68df-03b9-4ace-80de-20db18568095",
+            "date": "2015-12-04T23:10:19Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/C9UffdDgQEu7kIezDjaQ",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-7572-4d83-aa1e-39fc4a15f3a1",
+        "name": null,
+        "website": "www.juicybeast.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "www.juicybeast.com",
+    "firstPublishedAt": "2015-11-18T21:24:03Z",
+    "inAppPurchases": null,
+    "overview": "Released in December 2015 by Juicy Beast Studio.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "count": 15,
+        "average": 4.13
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "toto_fullgame_001",
+            "name": "Toto Temple Deluxe - Full Game",
+            "description": "Gain access to the full game, including future updates.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

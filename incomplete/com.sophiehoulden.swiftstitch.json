@@ -1,0 +1,83 @@
+{
+    "packageName": "com.sophiehoulden.swiftstitch",
+    "title": "Swift Stitch",
+    "description": "A game about going fast, taking the right route and trying not to crash into stuff.\r\n\r\n- 3 Game modes\r\n- 42 Levels\r\n- 7 Speed settings\r\n- Achievements\r\n- Customisable appearance (colourblind friendly!)\r\n- 8 tune soundtrack by Aeronic",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": null,
+            "uuid": "dbd52102-6b2d-48da-a662-1f1cbd319c9d",
+            "date": "2014-07-07T21:33:42Z",
+            "url": "FIXME:7pmI90JCRGK1iDKYdNfz_Game.apk",
+            "size": 30676175,
+            "md5sum": "2f60c58b2a72f00168d2059f03b58c73",
+            "publicSize": 26204,
+            "nativeSize": 14802632,
+            "latest": true
+        }
+    ],
+    "discover": "https://www.filepicker.io/api/file/IMeQ9v96R4aGuoXCbBOH",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/99986032"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/51qh98_ouya-screenshot20140705-2-1y81uia.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/thumbnails/thumbnail20140705-2-1ek5w5.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/rw1zjs_ouya-screenshot20140705-2-13bgk0h.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/thumbnails/thumbnail20140705-2-nrku5n.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/lqg942_ouya-screenshot20140705-2-8mh7et.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/thumbnails/thumbnail20140705-2-rt8ne7.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/u583uw_ouya-screenshot20140705-2-6mxzjp.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dbd52102-6b2d-48da-a662-1f1cbd319c9d/thumbnails/thumbnail20140705-2-10auv24.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-bd30-4b3e-acef-2d83fe1bc9e1",
+        "name": "Sophie Houlden",
+        "website": "http://swiftstitch.sophiehoulden.com/",
+        "supportEmail": "sophie@sophiehoulden.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://swiftstitch.sophiehoulden.com/",
+    "firstPublishedAt": "2014-07-07T21:33:42Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2014 by Sophie Houlden.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 10,
+        "average": 4.6
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "swiftstitch_fullgame",
+            "name": "Swift Stitch: Full Game",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

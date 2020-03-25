@@ -1,0 +1,82 @@
+{
+    "packageName": "com.tinytimgames.Sheepstacker",
+    "title": "Sheepstacker",
+    "description": "Stack sheep till the cows come home!\r\n\r\nSimple, one-button controls allow you to drop sheep onto other sheep, creating a stack into the stratosphere! This fun and funny game will challenge your timing and reflexes. Chaining combos of perfectly stacked sheep will not only improve your score, but your stack will stay steadier and sway less, allowing you to reach even greater heights and sights.\r\n\r\nFEATURES\r\n+ Simple controls -- just press a button!\r\n+ Fun, challenging gameplay.\r\n+ Cartoony, whimsical 3D art style.\r\n+ Catchy music and humorous sound effects.\r\n+ Cute and friendly sheep.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "2.0.4",
+            "versionCode": null,
+            "uuid": "21e80786-a346-41eb-8424-1f01e28dad01",
+            "date": "2015-01-05T18:51:54Z",
+            "url": "FIXME:hxMARIarR0yfcp6b8fZy_Sheepstacker (OUYA).apk",
+            "size": 36801902,
+            "md5sum": "ca9fa7c9a834d8442d2be2fac6363b8e",
+            "publicSize": 1780610,
+            "nativeSize": 14943384,
+            "latest": true
+        }
+    ],
+    "discover": "https://www.filepicker.io/api/file/RVcYmSGBQJGEZKAjZDe6",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/115551220"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/gajwk6_ouya-screenshot20150102-2-bxo2hf.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/thumbnails/thumbnail20150102-2-aft32s.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/gdee5q_ouya-screenshot20150102-2-1c2zbx2.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/thumbnails/thumbnail20150102-2-16s7tmq.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/3fs8qq_ouya-screenshot20150102-2-1fvqybp.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/thumbnails/thumbnail20150102-2-vil4o1.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/zs0vqi_ouya-screenshot20150102-2-14evoqk.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/21e80786-a346-41eb-8424-1f01e28dad01/thumbnails/thumbnail20150102-2-1ogiwwd.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-6398-46a1-b392-544a56838d56",
+        "name": "Continue Studios, LLC",
+        "website": "http://www.continuestudios.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.continuestudios.com",
+    "firstPublishedAt": "2015-01-02T20:01:27Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2015 by Continue Studios, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 18,
+        "average": 4.06
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "sheepstacker-fullgame",
+            "name": "Sheepstacker",
+            "description": "You are purchasing the full version of Sheepstacker. Sheepstacker contains no in-app purchases or advertisements.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

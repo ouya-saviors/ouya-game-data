@@ -1,0 +1,57 @@
+{
+    "packageName": "com.nightlightinteractive.ww.forge",
+    "title": "Whispering Willows: Cortex Edition",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": null,
+            "uuid": "042d3670-89e6-45e8-9b49-c62693d77eb6",
+            "date": "2015-11-20T17:39:01Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/moG9o0jGQ5O5oRcZGa3d",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-7932-4d04-bdaf-6708d67b0135",
+        "name": null,
+        "website": "nightlightinteractive.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "12+",
+    "website": "nightlightinteractive.com",
+    "firstPublishedAt": "2015-11-20T17:39:01Z",
+    "inAppPurchases": null,
+    "overview": "Released in November 2015 by Night Light Interactive.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "count": 5,
+        "average": 4.6
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "0",
+            "name": "Full Game",
+            "description": "Full game unlock for Whispering Willows!",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

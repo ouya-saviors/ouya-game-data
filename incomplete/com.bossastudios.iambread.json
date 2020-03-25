@@ -1,0 +1,57 @@
+{
+    "packageName": "com.bossastudios.iambread",
+    "title": "I Am Bread TV",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.18.0",
+            "versionCode": null,
+            "uuid": "127f7d23-ed2d-4ac3-8341-c3db26a5b65d",
+            "date": "2017-01-09T19:10:57Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/NrXGryNwSP61PoxcHKuN",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-0a6a-4a98-91ea-493d5be4eb3e",
+        "name": null,
+        "website": "www.ouya.tv",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2016-12-20T07:11:20Z",
+    "inAppPurchases": null,
+    "overview": "Released in January 2017 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 2,
+        "average": 4.5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Iambread_full",
+            "name": "I am Bread unlock",
+            "description": "You will have full access to the game.",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "USD"
+        }
+    ]
+}

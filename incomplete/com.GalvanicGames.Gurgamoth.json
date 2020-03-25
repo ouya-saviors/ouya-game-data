@@ -1,0 +1,57 @@
+{
+    "packageName": "com.GalvanicGames.Gurgamoth",
+    "title": "Gurgamoth",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 3,
+            "uuid": "6fe8e1d4-af94-42a4-a56c-a2fa08304975",
+            "date": "2016-10-05T12:53:59Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/OQDHf0uQBe61KvyR4g5o",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-ab97-436c-8e0f-9188413e783e",
+        "name": null,
+        "website": "www.ouya.tv",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "9+",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2016-10-05T12:53:59Z",
+    "inAppPurchases": null,
+    "overview": "Released in October 2016 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 2,
+        "average": 4.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Unlock_Gurgamoth",
+            "name": "Gurgamoth",
+            "description": "Unleash the evil that is Gurgamoth!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "packageName": "com.gamesy.bulky",
+    "title": "Bulky Ball",
+    "description": "Bulky ball is a breakout game.On this game all rounds are little and easy to play..\r\n\r\nCommand:\r\nUse left right pad to move,\r\nO to select in menu and Fire \r\nY to Pause game\r\n\r\n-Play over 70 rounds\r\n-High Score Online and offline\r\n-18 Power full bonus(fire,catch,lazer bar...)\r\n-Random Levels.You can start game with Randoms levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": null,
+            "uuid": "da02e489-985d-4d40-acf0-e37b7336b7b1",
+            "date": "2015-02-14T00:20:00Z",
+            "url": "FIXME:AmCrkX2eRZamDl21ndGI_bulky08fit.apk",
+            "size": 3624562,
+            "md5sum": "87dae18952ac7d5960ffb23e94ed9402",
+            "publicSize": 4479201,
+            "nativeSize": 898492,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/1GjD3LZgQqSQRGC1t5SG",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/119529127"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/da02e489-985d-4d40-acf0-e37b7336b7b1/tugrr0_ouya-screenshot20150213-3-yw2aoj.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/da02e489-985d-4d40-acf0-e37b7336b7b1/thumbnails/thumbnail20150213-3-1gppiah.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/da02e489-985d-4d40-acf0-e37b7336b7b1/km4uei_ouya-screenshot20150213-3-1qsqhxn.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/da02e489-985d-4d40-acf0-e37b7336b7b1/thumbnails/thumbnail20150213-3-1c4c2er.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/da02e489-985d-4d40-acf0-e37b7336b7b1/k92atd_ouya-screenshot20150213-3-7htiok.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/da02e489-985d-4d40-acf0-e37b7336b7b1/thumbnails/thumbnail20150213-3-6ubolx.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-0523-43a6-bc25-314b679e4c4d",
+        "name": "3T Games",
+        "website": "http://mremakes.free.fr",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://mremakes.free.fr",
+    "firstPublishedAt": "2015-02-14T00:20:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2015 by 3T Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 2,
+        "average": 3.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "bulky",
+            "name": "Bulky Ball",
+            "description": "Breakout Game",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

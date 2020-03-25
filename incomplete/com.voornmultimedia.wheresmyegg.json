@@ -1,0 +1,57 @@
+{
+    "packageName": "com.voornmultimedia.wheresmyegg",
+    "title": "Where's my Egg?",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.2.1",
+            "versionCode": null,
+            "uuid": "a66abbbe-47b0-4317-814c-991e85aaf0d7",
+            "date": "2015-02-25T08:37:21Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://www.filepicker.io/api/file/pJDNtrwwTTy6JKIz6Cea",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-e817-4c60-b6ec-d789b0d9bd2b",
+        "name": null,
+        "website": "http://voornmultimedia.nl/games/",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "http://voornmultimedia.nl/games/",
+    "firstPublishedAt": "2014-12-05T08:28:02Z",
+    "inAppPurchases": null,
+    "overview": "",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 9,
+        "average": 3.89
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "wheresmyegg_buy",
+            "name": "Where's my Egg",
+            "description": "You are about to purchase the wonderfull game \"Where's My Egg?\" for 0.99 USD.\r\n",
+            "localPrice": 999.99,
+            "originalPrice": 999.99,
+            "currency": "USD"
+        }
+    ]
+}

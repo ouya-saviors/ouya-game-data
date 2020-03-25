@@ -1,0 +1,79 @@
+{
+    "packageName": "com.clockwatchers.fourinrow",
+    "title": "Four In A Row",
+    "description": "Before gameboy there was CONNECT 4. Fans of this classic love FOUR IN A ROW!\r\n\r\nChallenge your brain in this deceptively simple game for OUYA. FOUR IN A ROW is reminiscent of the once popular - now retro - 1970s game Connect Four.\r\n\r\nAre you smart enough to color match four coins in-a-row and win?\r\n\r\nHOW TO PLAY FOUR IN A ROW\r\n\r\n- On the screen is an empty grid. \r\n- Each player is assigned a color, either RED or GOLD.\r\n- Players take turns, placing their COLORED COIN into an EMPTY SPACE in the grid. \r\n- The first player to place FOUR of their colored coins in a row - either vertically, horizontally, or diagonally - wins the game! \r\n\r\nHere are two COOL TIPS to IMPROVE YOUR GAME: \r\n\r\n1. In your first turn and early on in the game, place your coins in the empty spaces in the center of the board. From this position, you can open up more options for a potential win via vertical, horizontal, or diagonal four-in-a-rows!\r\n2. Color match coins until four-in-a-row wins you the game. Did you know three in a row is almost just as deadly? Head off your opponent and block them before they connect the lines, making three coins in a row. If you can keep the damage down to maximum two in a row, then you are doing well.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": null,
+            "uuid": "41dfe135-6f24-4ba7-8310-4f87d3c170d9",
+            "date": "2015-09-08T01:35:29Z",
+            "url": "FIXME:kSrYVLtkTCuSeSwN6XY0_FourInARow-ouya.apk",
+            "size": 3935267,
+            "md5sum": "e7e8b7d0204f20f7a8c3be46810b37d3",
+            "publicSize": 383368,
+            "nativeSize": 489932,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/mvpGimNRS2CEjqqiwgoI",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/137864037"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/41dfe135-6f24-4ba7-8310-4f87d3c170d9/ntistq_ouya-screenshot20150831-3-11b964j.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/41dfe135-6f24-4ba7-8310-4f87d3c170d9/thumbnails/thumbnail20150831-3-93yc9w.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/41dfe135-6f24-4ba7-8310-4f87d3c170d9/cs4j5l_ouya-screenshot20150831-3-1ellqy1.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/41dfe135-6f24-4ba7-8310-4f87d3c170d9/thumbnails/thumbnail20150831-3-1okj5fp.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/41dfe135-6f24-4ba7-8310-4f87d3c170d9/bge3ks_ouya-screenshot20150831-3-finkuz.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/41dfe135-6f24-4ba7-8310-4f87d3c170d9/thumbnails/thumbnail20150831-3-1kf0j5l.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-0c10-49f7-97bd-b81802630da9",
+        "name": "Clockwatchers Inc",
+        "website": "http://www.cwigames.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.cwigames.com",
+    "firstPublishedAt": "2015-09-08T01:35:29Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2015 by Clockwatchers Inc.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 0,
+        "average": 0.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fourinarow",
+            "name": "Four In A Row",
+            "description": "You are about to purchase Four In A Row.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}
