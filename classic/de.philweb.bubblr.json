@@ -73,5 +73,23 @@
         "likeCount": 30,
         "average": 2.07,
         "count": 15
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "identifier": "dualmode_special",
+            "name": "FIXME",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "identifier": "dualmode",
+            "name": "FIXME",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        }
+    ]
 }

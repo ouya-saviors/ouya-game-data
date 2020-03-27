@@ -68,5 +68,16 @@
         "likeCount": 67,
         "average": 3.05,
         "count": 42
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "tournament2",
+            "name": "FIXME",
+            "description": "",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
