@@ -13,7 +13,7 @@
         {
             "name": "1.0.3",
             "versionCode": 0,
-            "uuid": "b0a22c18-74c1-453c-91c4-73a5a6795e7b",
+            "uuid": "2c3fd08e-598c-475c-a941-1459f0fe1f66",
             "date": "2013-12-18T02:25:17Z",
             "url": "https://archive.org/download/ouya_com.warnerskoch.vertexblaster_1.0.3/Vertex%20Blaster_1.0.3_com.warnerskoch.vertexblaster.apk",
             "size": 39211905,
@@ -69,4 +69,15 @@
         "average": 4.02,
         "count": 202
     }
+	"products": [
+        {
+            "promoted": true,
+            "identifier": "vertexblaster_fullgame",
+            "name": "Vertex Blaster Full Version",
+            "description": "Vertex Blaster Unlock Full Game",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
