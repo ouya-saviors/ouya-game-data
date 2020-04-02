@@ -791,6 +791,36 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "fishtales",
+            "name": "Fish Tales",
+            "description": "",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "fishtales_pro",
+            "name": "Fish Tales Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "fishtales_promode",
+            "name": "Fish Tales Pro Upgrade",
+            "description": "",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "flight2000_goinnuts_pro_mode",
             "name": "Flight 2000 + Goin Nuts Pro Upgrade",
             "description": "Unlock the pro pack after buying the normal table",
@@ -1671,6 +1701,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "season_pack_1_pro_upgrade",
+            "name": "Season One Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "season_pack_2",
             "name": "Season Two Pack",
             "description": "",
@@ -1686,6 +1726,16 @@
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_2_pro_upgrade",
+            "name": "Season Two Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
             "currency": "EUR"
         },
         {
@@ -1711,6 +1761,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "season_pack_3_pro_upgrade",
+            "name": "Season Three Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "season_pack_4",
             "name": "Season Four Table Pack",
             "description": "Tables 31-40",
@@ -1726,6 +1786,16 @@
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_4_pro_upgrade",
+            "name": "Season Four Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
             "currency": "EUR"
         },
         {
@@ -1751,6 +1821,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "season_pack_5_pro_upgrade",
+            "name": "Season Five Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "season_pack_6",
             "name": "Season Six Table Pack",
             "description": "",
@@ -1771,6 +1851,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "season_pack_6_pro_upgrade",
+            "name": "Season Six Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "season_pack_7",
             "name": "Season Seven Pack",
             "description": "",
@@ -1786,6 +1876,16 @@
             "description": "",
             "localPrice": 39.99,
             "originalPrice": 39.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "season_pack_7_pro_upgrade",
+            "name": "Season Seven Pro Pack Upgrade",
+            "description": "",
+            "localPrice": 19.99,
+            "originalPrice": 19.99,
             "currency": "EUR"
         },
         {
