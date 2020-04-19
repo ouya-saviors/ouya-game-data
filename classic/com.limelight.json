@@ -14,6 +14,16 @@
     ],
     "releases": [
         {
+            "name": "8.11",
+            "versionCode": 216,
+            "uuid": "eddb769c-1e16-4a22-91e3-5a3c60c503fd",
+            "date": "2020-03-25T00:00:00Z",
+            "url": "https://github.com/moonlight-stream/moonlight-android/releases/download/v8.11/app-nonRoot-release.apk",
+            "size": 5397046,
+            "md5sum": "d23cf9469f4055e511474f9554a2e4d6",
+            "latest": true
+        },
+		{
             "name": "5.6",
             "versionCode": 138,
             "uuid": "62c70c72-6902-4f54-9191-07b97a27de1e",
