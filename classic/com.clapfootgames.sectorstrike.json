@@ -72,5 +72,61 @@
         "likeCount": 94,
         "average": 3.75,
         "count": 83
-    }
+    },
+    "products": [
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "credits_a",
+            "name": "1.000 Creds",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "credits_b",
+            "name": "3.000 Creds",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "credits_c",
+            "name": "10.000 Creds",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "energy_a",
+            "name": "10 Energy",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "energy_b",
+            "name": "30 Energy",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "energy_c",
+            "name": "100 Energy",
+            "localPrice": 14.99,
+            "originalPrice": 14.99,
+            "currency": "EUR"
+        }
+    ]
 }
