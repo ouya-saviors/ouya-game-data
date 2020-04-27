@@ -341,7 +341,7 @@
                 "properties": {
 
                     "promoted": {
-                        "description": "If this product is the currently promoted/visible one",
+                        "description": "If this product is visible in the ouya discover store",
                         "type": "boolean"
                     },
 
