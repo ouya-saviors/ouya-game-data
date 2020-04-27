@@ -79,5 +79,25 @@
         "likeCount": 31,
         "average": 3.37,
         "count": 19
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "push1",
+            "name": "FIXME",s
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "push2",
+            "name": "FIXME2",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
