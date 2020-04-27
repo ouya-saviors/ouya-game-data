@@ -74,5 +74,17 @@
         "likeCount": 31,
         "average": 2.83,
         "count": 6
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "com_kankibros_multispace_content_pack_1",
+            "name": "Content pack 1",
+            "description": "4 new levels, 7 new weapons, access to 2 bonus match-making servers",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
