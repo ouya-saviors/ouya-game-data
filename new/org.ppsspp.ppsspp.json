@@ -1,0 +1,42 @@
+{
+    "packageName": "org.ppsspp.ppsspp",
+    "title": "PPSSPP",
+    "description": "Play PSP games on your OUYA, at high definition with extra features!\n\nPPSSPP is the original and best PSP (PlayStationPortable) emulator for Android. It runs a lot of games, but depending on the power of your device all may not run at full speed.\n\nNo games are included with this emulator. Use your own real PSP games and turn them into .ISO or .CSO files, or simply play free homebrew games, which are available online. Put those in /PSP/GAME on your SD card / USB storage.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Emulator",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "1.9.3-667",
+            "versionCode": 19030667,
+            "uuid": "b2190695-486d-4336-89b1-c36a2391adec",
+            "date": "2020-04-28T05:10:35+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/ppsspp-v1.9.3-728-g1d783dde0-android.apk",
+            "size": 32182529,
+            "md5sum": "937df8d1136f434545ecba0760ced8c7"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/ppsspp.png",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-72b2-4f52-98cd-16638f211b52",
+        "name": "Henrik Rydgård",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://ppsspp.org/",
+    "firstPublishedAt": "2020-04-28T19:13:27+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
