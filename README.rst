@@ -59,6 +59,12 @@ Use a random ``uuid`` as developer UUID.
 Use ``0`` for the first 8 characters so we can distinguish original UUIDs
 from self-generated ones.
 
+Extract image
+.............
+On the command line::
+
+  $ unzip -j game.apk res/drawable-xhdpi-v4/ouya_icon.png
+
 
 Games in demo mode
 ==================
