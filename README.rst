@@ -47,6 +47,8 @@ Add a new version
 
 Add a new game/app
 ------------------
+You can use the script ``bin/create-from-apk.php`` to generate the JSON.
+Only adjust the FIXME fields afterwards!
 
 Copy ``example-game.json`` to the ``new/`` folder and adjust it.
 You can get ``packageName`` from ``aapt`` as described above.
