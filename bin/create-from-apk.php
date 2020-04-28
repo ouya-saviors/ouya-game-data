@@ -91,7 +91,7 @@ if (isset($badging['package'])) {
         $data['packageName'] = $package['name'];
     }
     if (isset($package['versionCode'])) {
-        $data['releases'][0]['versionCode'] = $package['versionCode'];
+        $data['releases'][0]['versionCode'] = (int) $package['versionCode'];
     }
     if (isset($package['versionName'])) {
         $data['releases'][0]['name'] = $package['versionName'];
