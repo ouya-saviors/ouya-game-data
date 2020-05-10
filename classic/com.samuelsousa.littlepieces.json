@@ -1,0 +1,101 @@
+{
+    "packageName": "com.samuelsousa.littlepieces",
+    "title": "63 Little Pieces",
+    "description": "63 Little Pieces is an atmospheric block sliding puzzle game in which you must destroy in order to build a path to lead one or several blocks to the goal.\r\n\r\nDETAILS:\r\nOriginally created in 48 hours for Ludum Dare 41, this game is still in development. This is not a Demo, this is an 'in development project build' - an alpha... or an alpha demo :)\r\nThe final game will consist of 60 or so Puzzle levels. Each containing 3 distinct rewarded solutions: Collect the key, reach goal in as less moves as possible and separately with less destruction as possible. In all, that means over 150 puzzles.\r\nAnd second simpler mode - 69 smaller pieces...\r\n\r\nHOW TO PLAY:\r\nUse: Left Joystick, D-Pad, Right Joystick, O, Y, L1, L2, R1 and R2."	
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "0.13.0.1",
+            "versionCode": 130001,
+		    "uuid": "a66fcc02-6cbc-4772-b15d-ab0bbdd3fc49",
+            "date": "2018-04-22T09:58:19Z",
+            "latest": true,
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/63%20Little%20Pieces_0.130.1_com.samuelsousa.littlepieces.apk",
+            "size": 77887614,
+            "md5sum": "aec2da5d4956a099a8774295f4f37540",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Discover.jpg",
+    "media": [
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Title.jpg",
+            "thumb": null
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L1.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L2.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L3.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L4.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L5.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L6.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/LevelSelect.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/AyLVCH.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/duXvK1.jpg",
+            "thumb": null
+        },
+		{
+            "type": "image",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/RNrq2x.jpg",
+            "thumb": null
+        }
+    ],
+    "developer": {
+        "uuid": "121ea10a-540e-40ad-9e14-f490e3352fb8",
+        "name": "Samuel Sousa",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://samuelsousa.itch.io/little-pieces",
+    "firstPublishedAt": "2020-05-10T07:53:25Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 4.1,
+        "count": 355
+    }
+}
