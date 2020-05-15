@@ -59,5 +59,25 @@
         "likeCount": 521,
         "average": 3.95,
         "count": 1065
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "PBFullGame",
+            "name": "Pizza boy full price",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "PBFullGameSale",
+            "name": "Pizza boy first time users",
+            "localPrice": 1.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        }
+    ]
 }
