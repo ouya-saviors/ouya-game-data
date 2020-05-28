@@ -1,0 +1,77 @@
+{
+    "packageName": "com.perfectwavegames.Gravitanks",
+    "title": "Gravitanks",
+    "description": "Gravitanks is a 2.5D dual stick shooter with a gravity based twist. Players drive massive tanks around planets or fly through space firing projectiles and other weapons. Projectiles are strongly affected by the gravity field of the planets. This can be used to the player’s advantage to fire from cover and arc shots into foes. Up to 4 players can compete in frenetic deathmatches. From 1 to 4 players can fight against the hordes cooperatively in survival mode. ",
+    "players": [
+        1, 2, 3, 4
+    ],
+    "genres": [
+        "Fight!",
+        "FPS/Shooter",
+        "Multiplayer"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "fb7575ce-6647-4452-a85f-4d111f9bdae0",
+            "date": "2020-05-28T20:32:48+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/gravitanks/gravitanks-0.1.apk",
+            "size": 146788672,
+            "md5sum": "54d6d7dd190bacda97eb19e3cab1ea56"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gravitanks/gravitanks-discover.png",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/gravitanks-gameplay-teaser.mp4"
+        },
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/gravitanks-survival-gameplay.mp4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/13-enemiescropped.jpg",
+            "thumb": "http://ouya.cweiske.de/apks/gravitanks/13-enemiescropped.thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/3-sunstatic.jpg",
+            "thumb": "http://ouya.cweiske.de/apks/gravitanks/3-sunstatic.thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/5-survival2.jpg",
+            "thumb": "http://ouya.cweiske.de/apks/gravitanks/5-survival2.thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/6-sticky_attack.jpg",
+            "thumb": "http://ouya.cweiske.de/apks/gravitanks/6-sticky_attack.thumb.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gravitanks/7-new_level.jpg",
+            "thumb": "http://ouya.cweiske.de/apks/gravitanks/7-new_level.thumb.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-1107-427f-af65-5041a0d152b2",
+        "name": "PerfectWaveGames",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.indiedb.com/games/gravitanks",
+    "firstPublishedAt": "2020-05-28T20:33:44+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
