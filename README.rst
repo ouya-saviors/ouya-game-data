@@ -65,6 +65,11 @@ On the command line::
 
   $ unzip -j game.apk res/drawable-xhdpi-v4/ouya_icon.png
 
+This image has a size of 732x412 pixels.
+
+Media images need to have a full size of 1280x720,
+while thumbnails have a size of 852x479.
+
 
 Games in demo mode
 ==================
