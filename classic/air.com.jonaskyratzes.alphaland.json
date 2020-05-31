@@ -1,0 +1,41 @@
+{
+    "packageName": "air.com.jonaskyratzes.alphaland",
+    "title": "Alphaland",
+    "description": "One day, while you're testing a level for a developer friend of yours, you accidentally discover a hidden world inside the game. Alphaland is the story of exploring that world.\n\nArrow keys or WASD to move\nUp/W/X/Space to jump\n\n[Alphaland is a minimalistic platformer. It's pretty straightforward to play, so I'd rather not say too much and let you explore it yourselves. I hope you enjoy it!]",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1000000,
+            "uuid": "5bcaa28b-23c1-43ac-9a6a-ccdf425d10a5",
+            "date": "2020-05-31T12:39:52+00:00",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_air.com.jonaskyratzes.alphaland_1.0/Alphaland_1.0_air.com.jonaskyratzes.alphaland.apk",
+            "size": 15383361,
+            "md5sum": "a3ba93c738ed0f58425a21ae4ae67c55"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/air.com.jonaskyratzes.alphaland/discover",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-cc81-4bba-9baf-9bb10c6c675d",
+        "name": "Jonas Kyratzes",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.jonas-kyratzes.net/games/alphaland/",
+    "firstPublishedAt": "2020-05-31T12:50:25+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
