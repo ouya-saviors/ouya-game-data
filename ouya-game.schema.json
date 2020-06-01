@@ -240,6 +240,13 @@
                     "default": null
                 },
 
+                "website": {
+                    "description": "Developer website",
+                    "type": ["string", "null"],
+                    "format": "url",
+                    "default": null
+                },
+
                 "supportPhone": {
                     "description": "Telephone number",
                     "type": ["string", "null"],
