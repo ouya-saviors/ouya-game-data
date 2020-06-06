@@ -851,6 +851,16 @@
         {
             "promoted": false,
             "type": "entitlement",
+            "identifier": "four_pack",
+            "name": "Scared Stiff + Big Shot Pro",
+            "description": "",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
             "identifier": "frankenstein_promode",
             "name": "Mary Shelley's Frankenstein Pro Upgrade",
             "description": "",
