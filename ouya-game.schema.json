@@ -154,6 +154,26 @@
                         "type": "number"
                     },
 
+                    "cert_fingerprint": {
+                        "description": "A SHA256 format fingerprint of the signing certificate that was used for this APK. Allows for authorization tracking.",
+                        "type": "string",
+                        "minLength": 95,
+                        "maxLength": 95,
+                        "pattern": "^([0-9A-F]{2}:){31}[0-9A-F]{2}$",
+                        "examples": [
+                            "EF:D5:B9:C0:58:C1:21:ED:97:F3:FD:89:21:12:B6:00:F6:D1:9B:C2:9B:EE:F7:47:40:0C:E0:BB:0D:25:1C:40"
+                        ]
+                    },
+
+                    "cert_subject": {
+                        "description": "The subject name of the signing certificate",
+                        "type": "string",
+                        "examples": [
+                            "C = US, O = Android, CN = Android Debug",
+                            "C = US, ST = CA, L = San Francisco, O = SEGA of America, OU = Mobile PD, CN = alben pedroso"
+                        ]
+                    },
+
                     "stability": {
                         "description": "What quality of a release this is",
                         "default": "stability",
