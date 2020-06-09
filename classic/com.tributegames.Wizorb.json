@@ -21,7 +21,9 @@
             "md5sum": "847d595e887a646f7a7786cad90911dc",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "FE:C8:BF:8F:98:A8:DE:47:02:34:55:A1:9C:23:E9:9A:B1:D1:A7:76:89:4E:02:AB:20:69:76:4E:30:B8:6F:58",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.14",
@@ -31,7 +33,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.tributegames.Wizorb_1.14/Wizorb_1.14_com.tributegames.Wizorb.apk",
             "size": 35316839,
-            "md5sum": "50d6c96f48aeea0b68f4a4e33069e037"
+            "md5sum": "50d6c96f48aeea0b68f4a4e33069e037",
+            "cert_fingerprint": "FE:C8:BF:8F:98:A8:DE:47:02:34:55:A1:9C:23:E9:9A:B1:D1:A7:76:89:4E:02:AB:20:69:76:4E:30:B8:6F:58",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.tributegames.Wizorb/discover",

@@ -20,7 +20,9 @@
             "size": 32502881,
             "md5sum": "b13f46c7c792c58df74e198a4a1b5c66",
             "publicSize": 887872,
-            "nativeSize": 15035272
+            "nativeSize": 15035272,
+            "cert_fingerprint": "A3:CA:7C:77:31:71:6F:C2:E3:26:3E:64:BD:2C:EE:B6:A6:58:A5:F3:2D:6D:9D:50:0F:46:54:A9:46:6A:53:0E",
+            "cert_subject": "CN = Kris Attfield-1257"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.krisattfield.bananatreebrotherseatcarrots/discover",

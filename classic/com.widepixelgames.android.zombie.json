@@ -21,7 +21,9 @@
             "md5sum": "192d1f23a5507cf61331c71faecdaeec",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "38:17:23:F1:30:BD:28:8C:9A:31:21:59:A7:16:C8:CC:61:57:91:C7:9D:DE:F0:B7:28:04:BE:BE:95:32:23:DB",
+            "cert_subject": "C = se, ST = sweden, L = stockholm, O = widepixelgames, OU = mob, CN = Mikael Tillander"
         },
         {
             "name": "1.21",
@@ -31,7 +33,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.widepixelgames.android.zombie_1.21/Heavy%20Recoil%20-%20Convoy%20Chaser_1.21_com.widepixelgames.android.zombie.apk",
             "size": 26554290,
-            "md5sum": "7e49bedef34ff924e1f6d030bce0c6f8"
+            "md5sum": "7e49bedef34ff924e1f6d030bce0c6f8",
+            "cert_fingerprint": "38:17:23:F1:30:BD:28:8C:9A:31:21:59:A7:16:C8:CC:61:57:91:C7:9D:DE:F0:B7:28:04:BE:BE:95:32:23:DB",
+            "cert_subject": "C = se, ST = sweden, L = stockholm, O = widepixelgames, OU = mob, CN = Mikael Tillander"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.widepixelgames.android.zombie/discover",

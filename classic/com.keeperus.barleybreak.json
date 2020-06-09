@@ -19,7 +19,9 @@
             "md5sum": "d09a97d1b1a496e9cfa6923bf168ba67",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "3B:F4:93:F9:82:80:A1:40:F1:76:17:8B:41:0A:63:02:05:07:60:D4:D8:92:AB:12:D8:89:72:AE:B7:82:BA:E7",
+            "cert_subject": "C = UA, ST = Zaporizhzhya, L = Zaporizhzhya, O = Keeperus, OU = Keeperus, CN = Alex Shapkin"
         },
         {
             "name": "0.9.7",
@@ -29,7 +31,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.keeperus.barleybreak_0.9.7/BarleyBreak_0.9.7_com.keeperus.barleybreak.apk",
             "size": 1216656,
-            "md5sum": "dcc5bb6e1337b4ba258211d0e819d799"
+            "md5sum": "dcc5bb6e1337b4ba258211d0e819d799",
+            "cert_fingerprint": "3B:F4:93:F9:82:80:A1:40:F1:76:17:8B:41:0A:63:02:05:07:60:D4:D8:92:AB:12:D8:89:72:AE:B7:82:BA:E7",
+            "cert_subject": "C = UA, ST = Zaporizhzhya, L = Zaporizhzhya, O = Keeperus, OU = Keeperus, CN = Alex Shapkin"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.keeperus.barleybreak/discover",

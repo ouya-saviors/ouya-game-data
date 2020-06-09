@@ -17,7 +17,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/unlocking-tools/com.koushikdutta.superuser-1.0.1.8.apk",
             "size": 1599229,
-            "md5sum": "ee046f396b51cb0eaea4b7f32cf298d2"
+            "md5sum": "ee046f396b51cb0eaea4b7f32cf298d2",
+            "cert_fingerprint": "EF:CE:A2:AC:5D:73:B8:9D:92:FC:02:82:97:10:21:25:DF:8A:4B:5A:45:8A:25:59:6E:C0:45:90:F0:34:30:80",
+            "cert_subject": "C = US, ST = WA, L = Seattle, O = koushikdutta.com, OU = Clockworks, CN = Koushik Dutta"
         }
     ],
     "discover": "http://ouya.cweiske.de/unlocking-tools/unknown.jpg",

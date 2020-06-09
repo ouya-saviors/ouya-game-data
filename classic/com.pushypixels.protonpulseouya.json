@@ -20,7 +20,9 @@
             "size": 28737514,
             "md5sum": "4f9afe034927899aa32f9fc48f5ecd84",
             "publicSize": 27275,
-            "nativeSize": 20292
+            "nativeSize": 20292,
+            "cert_fingerprint": "3D:E2:3D:40:6E:F0:68:E8:26:B8:BC:9C:3B:12:77:89:C9:78:FB:EA:81:CB:27:2A:80:42:6E:05:18:6C:0F:2D",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "https://archive.org/download/ouya_com.pushypixels.protonpulseouya_1.0/00ICON.png",

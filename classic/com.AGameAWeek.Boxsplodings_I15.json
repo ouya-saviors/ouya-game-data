@@ -20,7 +20,9 @@
             "md5sum": "cbe25fc95b4986196a6a4e6d3673e7c2",
             "publicSize": 120452,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "89:FC:76:49:A1:74:4C:06:86:EC:CD:1B:D9:AA:0C:BC:5A:78:02:3E:7B:38:1B:CA:F5:65:09:F7:0B:DD:CD:BE",
+            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
         },
         {
             "name": "1.0",
@@ -30,7 +32,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.AGameAWeek.Boxsplodings_I15_1.0/Boxsplodings_1.0_com.AGameAWeek.Boxsplodings_I15.apk",
             "size": 3472489,
-            "md5sum": "f38010bd8bcf32f6890bf0767bf5afda"
+            "md5sum": "f38010bd8bcf32f6890bf0767bf5afda",
+            "cert_fingerprint": "89:FC:76:49:A1:74:4C:06:86:EC:CD:1B:D9:AA:0C:BC:5A:78:02:3E:7B:38:1B:CA:F5:65:09:F7:0B:DD:CD:BE",
+            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Boxsplodings_I15/discover",

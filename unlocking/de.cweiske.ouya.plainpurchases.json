@@ -17,7 +17,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/unlocking-tools/xposed-ouya-plain-purchases-1.1.0.apk",
             "size": 6216,
-            "md5sum": "312d9a258483f3591e91c99f3914f37d"
+            "md5sum": "312d9a258483f3591e91c99f3914f37d",
+            "cert_fingerprint": "83:C9:B4:41:15:18:33:94:09:78:A4:EA:43:E4:87:EA:1F:1E:E0:F4:87:6B:16:E4:9B:BD:A0:1D:B6:4F:F0:20",
+            "cert_subject": "C = DE, CN = Christian Weiske"
         },
         {
             "name": "1.0",
@@ -27,7 +29,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/unlocking-tools/xposed-ouya-plain-purchases-1.0.apk",
             "size": 6100,
-            "md5sum": "93c8ac2c20b79f93422b9f757bd00ed8"
+            "md5sum": "93c8ac2c20b79f93422b9f757bd00ed8",
+            "cert_fingerprint": "83:C9:B4:41:15:18:33:94:09:78:A4:EA:43:E4:87:EA:1F:1E:E0:F4:87:6B:16:E4:9B:BD:A0:1D:B6:4F:F0:20",
+            "cert_subject": "C = DE, CN = Christian Weiske"
         }
     ],
     "discover": "http://ouya.cweiske.de/unlocking-tools/unknown.jpg",

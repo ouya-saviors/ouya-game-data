@@ -19,7 +19,9 @@
             "size": 7533600,
             "md5sum": "a261e6665c36098da368028bc7216de2",
             "publicSize": 365964,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "E4:C0:D2:66:96:AC:94:B1:B7:29:5A:D0:E0:F8:05:46:8A:13:09:A9:F6:7D:F1:AC:05:6B:A5:E6:54:4C:E3:44",
+            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.CubeGatherer/discover",

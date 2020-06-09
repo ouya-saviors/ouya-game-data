@@ -19,7 +19,9 @@
             "md5sum": "922919e21f02155784ac4b379096854b",
             "publicSize": 713261,
             "nativeSize": 1169736,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "D7:A5:EA:B3:09:02:C9:B2:77:5A:F6:FB:4E:AC:2D:29:4A:64:63:4F:B4:7D:D1:38:2B:C3:AC:5B:F6:69:98:2E",
+            "cert_subject": "O = Libretro"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.retroarch/discover",

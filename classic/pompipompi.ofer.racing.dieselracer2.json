@@ -17,7 +17,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_pompipompi.ofer.racing.dieselracer2_1.36OUYA/Diesel%20Racer%202_1.36OUYA_pompipompi.ofer.racing.dieselracer2.apk",
             "size": 47671813,
-            "md5sum": "20973cddde6675ca367f34b4cdf79b40"
+            "md5sum": "20973cddde6675ca367f34b4cdf79b40",
+            "cert_fingerprint": "A8:9C:A6:B6:7E:59:B6:7D:78:DC:5E:26:3D:A9:E7:E0:F2:F7:B8:F5:4C:B9:55:B6:88:0F:DC:30:58:86:C1:D4",
+            "cert_subject": "C = IL, O = PompiPompi, CN = Ofer"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/pompipompi.ofer.racing.dieselracer2/discover",

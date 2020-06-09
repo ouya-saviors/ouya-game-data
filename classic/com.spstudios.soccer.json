@@ -22,7 +22,9 @@
             "size": 4992547,
             "md5sum": "c294f3f0313ce8102e77a5f6fbf77825",
             "publicSize": 3279239,
-            "nativeSize": 894792
+            "nativeSize": 894792,
+            "cert_fingerprint": "DD:2E:8C:E3:59:DE:3D:20:26:C7:08:94:F1:6E:F1:5F:50:89:14:F8:18:DC:E2:71:2E:CC:00:C4:A0:77:4E:29",
+            "cert_subject": "C = USA, ST = NY, L = United States, O = SpacialPumpkin Studios, OU = SpacialPumpkin Studios, CN = SpacialPumpkin Studios"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.spstudios.soccer/discover",

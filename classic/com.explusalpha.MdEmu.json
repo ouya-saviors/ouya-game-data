@@ -22,7 +22,9 @@
             "md5sum": "6e5b782d86d99e8a95210724c5a4bae6",
             "publicSize": 34437,
             "nativeSize": 3320940,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.12",
@@ -32,7 +34,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.MdEmu_1.5.12/MD.emu_1.5.12_com.explusalpha.MdEmu.apk",
             "size": 770999,
-            "md5sum": "02ee97d258a9162024e35563e08c6c1d"
+            "md5sum": "02ee97d258a9162024e35563e08c6c1d",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.19",
@@ -42,7 +46,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.MdEmu_1.5.19/MD.emu_1.5.19_com.explusalpha.MdEmu.apk",
             "size": 807868,
-            "md5sum": "ddb209cdbf15e7fc7ee6d384ecbcdf2f"
+            "md5sum": "ddb209cdbf15e7fc7ee6d384ecbcdf2f",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.21",
@@ -52,7 +58,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.MdEmu_1.5.21/MD.emu_1.5.21_com.explusalpha.MdEmu.apk",
             "size": 862820,
-            "md5sum": "addf06252be6e120f375242fd896770f"
+            "md5sum": "addf06252be6e120f375242fd896770f",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.MdEmu/discover",

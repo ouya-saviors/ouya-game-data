@@ -20,7 +20,9 @@
             "md5sum": "f8196a5343fcea4bf4bd98637f92d1ab",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "10:A5:44:80:27:66:E4:23:FF:D1:2A:E0:B8:7B:01:D7:E2:59:81:D3:2D:E8:5C:8F:6A:48:12:D7:76:9A:5D:35",
+            "cert_subject": "CN = Evgiz"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/net.evgiz.worm/discover",

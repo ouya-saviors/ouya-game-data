@@ -20,7 +20,9 @@
             "md5sum": "56c2ac37e9135b324f1691b9ba8f084d",
             "publicSize": 51388,
             "nativeSize": 1120764,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.12",
@@ -30,7 +32,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.NeoEmu_1.5.12/NEO.emu_1.5.12_com.explusalpha.NeoEmu.apk",
             "size": 490319,
-            "md5sum": "727308a64243fc2f07819ec8eb471929"
+            "md5sum": "727308a64243fc2f07819ec8eb471929",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.19",
@@ -40,7 +44,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.NeoEmu_1.5.19/NEO.emu_1.5.19_com.explusalpha.NeoEmu.apk",
             "size": 475219,
-            "md5sum": "a2a7cf3031f64b359bf3c26ab16cd067"
+            "md5sum": "a2a7cf3031f64b359bf3c26ab16cd067",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.21",
@@ -50,7 +56,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.NeoEmu_1.5.21/NEO.emu_1.5.21_com.explusalpha.NeoEmu.apk",
             "size": 548156,
-            "md5sum": "2f8df479af65de51d08c3a15fa0f2137"
+            "md5sum": "2f8df479af65de51d08c3a15fa0f2137",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.NeoEmu/discover",

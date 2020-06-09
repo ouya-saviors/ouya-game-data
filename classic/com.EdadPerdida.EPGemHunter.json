@@ -21,7 +21,9 @@
             "size": 27255223,
             "md5sum": "f2f178722e04e8f7804412f3d5e3d105",
             "publicSize": 786490,
-            "nativeSize": 14803016
+            "nativeSize": 14803016,
+            "cert_fingerprint": "4A:6E:22:54:70:9A:F9:88:80:19:92:FE:B0:59:8A:67:C5:D1:A1:35:C3:41:B2:47:6D:6A:E9:D1:B4:DD:7C:56",
+            "cert_subject": "CN = EP Games, O = EP Games, L = Madrid, ST = Madrid, C = ES"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.EdadPerdida.EPGemHunter/discover",

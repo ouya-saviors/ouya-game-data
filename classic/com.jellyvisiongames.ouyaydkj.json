@@ -18,7 +18,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.jellyvisiongames.ouyaydkj_1.0.1/YOU%20DON_1.0.1_com.jellyvisiongames.ouyaydkj.apk",
             "size": 189412476,
-            "md5sum": "c8a5ff34f73d568adf4b1086024ff42b"
+            "md5sum": "c8a5ff34f73d568adf4b1086024ff42b",
+            "cert_fingerprint": "A7:58:33:1C:69:F0:58:36:E7:8B:B5:02:5F:1E:78:3A:3D:B4:D2:32:DC:82:0D:4D:E0:1A:4A:3C:27:0E:41:08",
+            "cert_subject": "C = US, ST = IL, L = Chicago, O = \"Jackbox Games, Inc.\", OU = Certification Division, CN = Mike Bilder"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.jellyvisiongames.ouyaydkj/discover",

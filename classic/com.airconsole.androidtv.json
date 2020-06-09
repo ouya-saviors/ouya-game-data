@@ -24,7 +24,9 @@
             "size": 2043446,
             "md5sum": "e561bdd11594cd6a1f242e680ef9bc5c",
             "publicSize": 1219534,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "11:9F:E3:F6:9A:87:42:A3:93:7C:67:39:AC:70:34:ED:98:18:EE:A8:1A:79:00:9C:E7:70:47:C7:34:9D:02:09",
+            "cert_subject": "CN = N-Dream AG / AirConsole-09c1"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.airconsole.androidtv/discover",

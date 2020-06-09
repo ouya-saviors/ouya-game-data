@@ -20,7 +20,9 @@
             "md5sum": "eef6109a6707ef42bc7f599e3092faaf",
             "publicSize": 157381,
             "nativeSize": 14802140,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "CE:09:5B:41:C1:2D:18:27:A3:4A:19:CE:DA:22:9B:9C:F1:3F:E5:14:E5:3B:12:D4:AA:CB:75:49:70:37:EF:C1",
+            "cert_subject": "CN = David Reichelt, O = Level 41225"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.Level41225.DarkSpaceRings/discover",

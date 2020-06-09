@@ -22,7 +22,9 @@
             "md5sum": "38dfee6a2d9707b4d7dd31437d313c71",
             "publicSize": 2696196,
             "nativeSize": 9636024,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "01:74:DA:BE:47:6A:44:84:63:9D:60:85:92:E3:0B:5E:72:0A:19:E6:75:0C:7C:92:B0:2E:02:34:85:8D:FE:67",
+            "cert_subject": "C = au, ST = Queensland, L = Brisbane, O = Halfbrick, OU = ATeam, CN = Shaniel Deo"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.halfbrick.ageofzombies/discover",

@@ -22,7 +22,9 @@
             "md5sum": "801434e3dd299d742159c676ea50dc33",
             "publicSize": 21354,
             "nativeSize": 9235724,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "2E:2B:82:16:E6:BD:B3:3B:6E:6C:85:88:6E:00:DB:91:30:EA:DC:A4:5B:39:43:EE:94:8A:56:0D:B3:E8:D6:10",
+            "cert_subject": "C = FR, ST = Aquitaine, L = Biarritz, O = Txori, OU = Txori, CN = Etienne B\\E2\\80\\9Agu\\E2\\80\\9A"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.Txori.RenjuOfMyYouth/discover",

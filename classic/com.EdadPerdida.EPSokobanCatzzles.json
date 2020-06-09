@@ -22,7 +22,9 @@
             "size": 24558436,
             "md5sum": "02ff2b94ca5f187b74020b09e99c0908",
             "publicSize": 434287,
-            "nativeSize": 14988636
+            "nativeSize": 14988636,
+            "cert_fingerprint": "D6:2A:0D:83:D0:9A:73:AD:51:60:3D:3F:82:1B:95:A6:7D:AA:D3:03:07:8D:30:B2:83:8D:30:68:EC:F8:EA:B9",
+            "cert_subject": "CN = EP Games, OU = EP Games, O = EP Games, L = Madrid, ST = Madrid, C = ES"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.EdadPerdida.EPSokobanCatzzles/discover",

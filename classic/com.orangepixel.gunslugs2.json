@@ -24,7 +24,9 @@
             "md5sum": "f6ce96f4f66139196fd51a13f0805cac",
             "publicSize": 9518151,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "3F:BF:5E:F4:30:6D:A8:CE:57:CE:8F:A1:A9:20:67:B4:FC:1E:CC:01:5C:7E:36:04:4D:6B:EC:62:80:76:4C:0B",
+            "cert_subject": "C = nl, ST = noordholland, L = den helder, O = orangepixel, OU = orangepixel, CN = pascal bestebroer"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.orangepixel.gunslugs2/discover",

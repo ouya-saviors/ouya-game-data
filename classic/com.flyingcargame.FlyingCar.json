@@ -19,7 +19,9 @@
             "md5sum": "d280253b2b12586fcac98f72e6cbf1f9",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "8F:C3:98:E3:4E:05:0F:69:DD:33:36:F7:28:DE:48:78:B6:95:82:B2:50:BA:B6:1D:68:99:3F:82:D6:7E:45:96",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.0",
@@ -29,7 +31,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.flyingcargame.FlyingCar_1.0/FlyingCarGame_1.0_com.flyingcargame.FlyingCar.apk",
             "size": 15416628,
-            "md5sum": "d280253b2b12586fcac98f72e6cbf1f9"
+            "md5sum": "d280253b2b12586fcac98f72e6cbf1f9",
+            "cert_fingerprint": "8F:C3:98:E3:4E:05:0F:69:DD:33:36:F7:28:DE:48:78:B6:95:82:B2:50:BA:B6:1D:68:99:3F:82:D6:7E:45:96",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.flyingcargame.FlyingCar/discover",

@@ -21,7 +21,9 @@
             "size": 16435538,
             "md5sum": "8a83f2316e9d32ce17ae5800d483e30b",
             "publicSize": 349280,
-            "nativeSize": 14803016
+            "nativeSize": 14803016,
+            "cert_fingerprint": "3D:C6:83:5C:13:BB:28:16:FC:AB:B5:59:53:F7:5B:47:8B:D8:1B:C7:4B:21:37:84:5E:EE:62:E0:9B:C4:41:D8",
+            "cert_subject": "CN = EP Games, OU = EP Games, O = EP Games, L = Getafe, ST = Madrid, C = ES"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.EdadPerdida.EPChainReaction/discover",

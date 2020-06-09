@@ -20,7 +20,9 @@
             "md5sum": "88f25f672eb731825adfbaae6e42d708",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "21:92:98:C2:16:0F:34:EB:B9:47:86:A7:9B:4A:84:62:09:AC:9C:3E:E9:FC:26:88:37:86:D8:E2:00:01:75:C8",
+            "cert_subject": "CN = Marco Jenny"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.bluemed.labyrinth/discover",

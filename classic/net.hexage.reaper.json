@@ -20,7 +20,9 @@
             "size": 28031631,
             "md5sum": "cda7d37fe4c16ae43c6920538eb83367",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "7F:11:AC:55:A9:FA:65:66:7E:A2:67:46:77:F5:10:EA:85:32:AD:19:A5:05:9E:06:4D:47:FF:D7:40:E3:D1:AA",
+            "cert_subject": "C = GB, CN = David Peroutka"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/net.hexage.reaper/discover",

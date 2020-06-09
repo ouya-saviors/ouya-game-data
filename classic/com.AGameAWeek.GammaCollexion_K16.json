@@ -23,7 +23,9 @@
             "size": 10397525,
             "md5sum": "6ef1b5fc3c852017dcc202e07be0728f",
             "publicSize": 118849,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "B5:3B:B5:EB:84:F1:FD:F0:4E:20:5F:F6:CF:6B:E6:C8:1A:34:4A:C8:F0:98:1C:49:76:CE:E0:3E:51:9F:DD:4D",
+            "cert_subject": "CN = Jayenkai-0696"
         },
         {
             "name": "1.2",
@@ -33,7 +35,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.AGameAWeek.GammaCollexion_K16_1.2/Gamma%20Collexion_1.2_com.AGameAWeek.GammaCollexion_K16.apk",
             "size": 10927534,
-            "md5sum": "f9ff909f30cebde42c84c575a1e3f191"
+            "md5sum": "f9ff909f30cebde42c84c575a1e3f191",
+            "cert_fingerprint": "26:FC:6A:58:97:0B:25:49:6E:5F:5C:26:1E:4C:F7:46:D8:AE:B4:64:AB:FC:54:1B:E2:D7:EA:9F:16:AE:2E:80",
+            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.GammaCollexion_K16/discover",
