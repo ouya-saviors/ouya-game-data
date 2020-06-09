@@ -20,7 +20,9 @@
             "size": 4954002,
             "md5sum": "6158fe4a9b1029802e24432aea8bae26",
             "publicSize": 170790,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "53:08:90:83:7B:86:CB:4C:14:C4:7D:9D:5A:55:E2:45:A4:39:37:BD:DC:11:25:DD:F7:F3:7E:0D:63:02:11:00",
+            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.Deflektivity/discover",

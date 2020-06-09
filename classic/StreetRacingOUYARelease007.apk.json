@@ -19,7 +19,9 @@
             "md5sum": "ce4205dbdf3f1a32193c9537df8c34da",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "42:58:A5:82:51:94:CC:BA:EC:1F:E5:98:F1:95:71:09:6E:C2:7C:7C:D0:0D:2C:F2:20:5F:7F:95:E1:C7:B4:91",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/StreetRacingOUYARelease007.apk/discover",

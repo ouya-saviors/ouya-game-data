@@ -22,7 +22,9 @@
             "md5sum": "cf14e3f771eed0318909ee09e37f7afa",
             "publicSize": 687888,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "FE:B3:DB:37:E3:1D:99:24:8E:E5:C6:1D:70:21:4D:E9:A8:CF:71:BF:98:C7:A4:62:81:15:B1:8E:58:4A:91:39",
+            "cert_subject": "C = 01, ST = Alberta, L = Calgary, CN = Kristian Attfield"
         },
         {
             "name": "1.2.0",
@@ -32,7 +34,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.krisattfield.pfhonge_1.2.0/Pfhonge_1.2.0_com.krisattfield.pfhonge.apk",
             "size": 527969,
-            "md5sum": "ce567ac84e371635799fbbb9cc3ed211"
+            "md5sum": "ce567ac84e371635799fbbb9cc3ed211",
+            "cert_fingerprint": "FE:B3:DB:37:E3:1D:99:24:8E:E5:C6:1D:70:21:4D:E9:A8:CF:71:BF:98:C7:A4:62:81:15:B1:8E:58:4A:91:39",
+            "cert_subject": "C = 01, ST = Alberta, L = Calgary, CN = Kristian Attfield"
         },
         {
             "name": "2.0.14",
@@ -42,7 +46,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.krisattfield.pfhonge_2.0.14/Pfhonge_2.0.14_com.krisattfield.pfhonge.apk",
             "size": 978019,
-            "md5sum": "fe6eeb33e0e1d9bde4446dc890b586a1"
+            "md5sum": "fe6eeb33e0e1d9bde4446dc890b586a1",
+            "cert_fingerprint": "FE:B3:DB:37:E3:1D:99:24:8E:E5:C6:1D:70:21:4D:E9:A8:CF:71:BF:98:C7:A4:62:81:15:B1:8E:58:4A:91:39",
+            "cert_subject": "C = 01, ST = Alberta, L = Calgary, CN = Kristian Attfield"
         },
         {
             "name": "2.0.4",
@@ -52,7 +58,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.krisattfield.pfhonge_2.0.4/Pfhonge_2.0.4_com.krisattfield.pfhonge.apk",
             "size": 958711,
-            "md5sum": "a34f6f6ac81e904d46b6b2e6aa9f794b"
+            "md5sum": "a34f6f6ac81e904d46b6b2e6aa9f794b",
+            "cert_fingerprint": "FE:B3:DB:37:E3:1D:99:24:8E:E5:C6:1D:70:21:4D:E9:A8:CF:71:BF:98:C7:A4:62:81:15:B1:8E:58:4A:91:39",
+            "cert_subject": "C = 01, ST = Alberta, L = Calgary, CN = Kristian Attfield"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.krisattfield.pfhonge/discover",

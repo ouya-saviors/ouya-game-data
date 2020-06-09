@@ -17,7 +17,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/unlocking-tools/de.robv.android.xposed.installer-2.6.1.apk",
             "size": 728857,
-            "md5sum": "de4f0dc569f96dbcc5668d40fa76040b"
+            "md5sum": "de4f0dc569f96dbcc5668d40fa76040b",
+            "cert_fingerprint": "80:94:FB:5B:3B:02:A0:9F:A8:87:5B:D2:55:CC:D3:F7:39:02:20:7B:E8:24:11:55:C3:6A:0F:DA:06:E8:C3:AE",
+            "cert_subject": "CN = rovo89"
         },
         {
             "name": "2.5.1",
@@ -27,7 +29,9 @@
             "latest": false,
             "url": "http://ouya.cweiske.de/unlocking-tools/de.robv.android.xposed.installer-2.5.1.apk",
             "size": 572561,
-            "md5sum": "665be7a5c2f8d5a3a4cc330c2b8b2abf"
+            "md5sum": "665be7a5c2f8d5a3a4cc330c2b8b2abf",
+            "cert_fingerprint": "80:94:FB:5B:3B:02:A0:9F:A8:87:5B:D2:55:CC:D3:F7:39:02:20:7B:E8:24:11:55:C3:6A:0F:DA:06:E8:C3:AE",
+            "cert_subject": "CN = rovo89"
         }
     ],
     "discover": "http://ouya.cweiske.de/unlocking-tools/unknown.jpg",

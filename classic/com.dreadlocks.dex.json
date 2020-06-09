@@ -22,7 +22,9 @@
             "size": 195957764,
             "md5sum": "38a766ef3ae07c82f2be117cdbd69bf1",
             "publicSize": 860411,
-            "nativeSize": 14989368
+            "nativeSize": 14989368,
+            "cert_fingerprint": "F9:95:21:6F:A7:33:4E:BB:B9:69:B7:65:EC:D8:F1:19:D2:97:9A:19:C9:FA:7E:C2:2D:3F:F9:57:7F:B0:CB:DE",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.dreadlocks.dex/discover",

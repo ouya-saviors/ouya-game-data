@@ -21,7 +21,9 @@
             "size": 45775670,
             "md5sum": "93d85bf0d0260815cbe9596d06e851e2",
             "publicSize": 608017,
-            "nativeSize": 15030792
+            "nativeSize": 15030792,
+            "cert_fingerprint": "11:34:59:71:81:AD:87:5F:C7:D7:5B:DA:2E:25:A7:6F:79:2F:C2:C5:6E:EA:25:9B:3C:9D:AA:FE:74:79:D1:F5",
+            "cert_subject": "CN = Yowan Langlais, OU = JBS2009, O = Juicy Beast Studio Ltd., L = Sainte-Th\\C3\\A9r\\C3\\A8se, ST = Qu\\C3\\A9bec, C = CA"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.juicybeast.KnightmareTower.forge/discover",

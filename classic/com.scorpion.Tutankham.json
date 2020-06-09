@@ -20,7 +20,9 @@
             "md5sum": "a3ef8131d9de99f7befce871c3ea8c02",
             "publicSize": 674154,
             "nativeSize": 8821100,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.scorpion.Tutankham/discover",

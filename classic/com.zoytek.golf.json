@@ -20,7 +20,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.zoytek.golf_Developer_Build/Infinite%20Golf_Developer%20Build_com.zoytek.golf.apk",
             "size": 20529670,
-            "md5sum": "b3acd1aa7f984c754f0670c1e701d753"
+            "md5sum": "b3acd1aa7f984c754f0670c1e701d753",
+            "cert_fingerprint": "62:D8:43:6C:58:1B:E5:4B:93:F3:CF:B6:B6:9E:66:17:63:71:52:93:AD:C7:5E:D7:BE:0E:E5:F7:0E:A0:59:8B",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.zoytek.golf/discover",

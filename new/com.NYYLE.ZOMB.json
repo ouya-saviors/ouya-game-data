@@ -21,7 +21,9 @@
             "size": 2236179,
             "md5sum": "7a3c8128ac9ca82669e685c736e33ee2",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "6F:66:3A:4A:82:24:B2:BD:2F:FA:43:25:4D:6D:FA:F1:C4:C3:C6:FC:44:41:B9:04:73:5F:11:F4:95:66:EB:3B",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
         }
     ],
     "discover": "http://statics.ouya.world/655BAEBB-DB67-05E2-AA36-016186730E60/com.NYYLE.ZOMB/discover.png",

@@ -21,7 +21,9 @@
             "md5sum": "4b1161f40bc549099c97ed06d852d96b",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "E8:E3:AB:BF:2A:6D:38:19:00:E5:C0:52:C9:7E:15:66:77:39:FD:E4:52:85:95:97:92:2C:E6:C0:84:C7:A4:91",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1",
@@ -31,7 +33,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.EthanRedd.BitNinjas_1/8Bit%20Ninjas_1_com.EthanRedd.BitNinjas.apk",
             "size": 61896633,
-            "md5sum": "4b1161f40bc549099c97ed06d852d96b"
+            "md5sum": "4b1161f40bc549099c97ed06d852d96b",
+            "cert_fingerprint": "E8:E3:AB:BF:2A:6D:38:19:00:E5:C0:52:C9:7E:15:66:77:39:FD:E4:52:85:95:97:92:2C:E6:C0:84:C7:A4:91",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.EthanRedd.BitNinjas/discover",

@@ -19,7 +19,9 @@
             "md5sum": "abc0d0c065f24af859880b25f7726aac",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "45:A1:47:CB:74:AB:B2:93:FC:6F:76:D6:D6:48:3D:22:E5:C1:A9:28:21:F4:4B:77:31:FB:FB:15:8A:30:D3:AC",
+            "cert_subject": "C = DE, ST = BW, L = Karlsruhe, O = Intermediaware, OU = Intermediaware, CN = Jochen Heizmann"
         },
         {
             "name": "1.1",
@@ -29,7 +31,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.intermediaware.sophiasworld_1.1/Sophia_1.1_com.intermediaware.sophiasworld.apk",
             "size": 13420014,
-            "md5sum": "abc0d0c065f24af859880b25f7726aac"
+            "md5sum": "abc0d0c065f24af859880b25f7726aac",
+            "cert_fingerprint": "45:A1:47:CB:74:AB:B2:93:FC:6F:76:D6:D6:48:3D:22:E5:C1:A9:28:21:F4:4B:77:31:FB:FB:15:8A:30:D3:AC",
+            "cert_subject": "C = DE, ST = BW, L = Karlsruhe, O = Intermediaware, OU = Intermediaware, CN = Jochen Heizmann"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.intermediaware.sophiasworld/discover",

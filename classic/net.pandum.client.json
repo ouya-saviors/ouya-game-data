@@ -20,7 +20,9 @@
             "size": 7879091,
             "md5sum": "9c67dc4f0fc664a0c207312d34067cdc",
             "publicSize": 137961,
-            "nativeSize": 817502
+            "nativeSize": 817502,
+            "cert_fingerprint": "DD:3A:A5:BF:2A:A3:AD:9E:38:06:14:5B:79:E2:7F:C1:B9:5F:2C:C4:E2:B3:C5:ED:A1:E2:C4:46:C7:D2:48:49",
+            "cert_subject": "C = 75012, L = PARIS, O = Electronic Experience, CN = Davy Rives"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/net.pandum.client/discover",

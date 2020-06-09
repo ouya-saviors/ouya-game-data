@@ -20,7 +20,9 @@
             "md5sum": "2049dfe5d252f212d43b367976c32bac",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "3E:CF:43:56:60:57:B3:99:64:26:D0:34:E9:2B:01:6E:89:33:04:B3:77:BF:AD:BC:2A:F7:42:1A:68:73:FA:F7",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.0",
@@ -30,7 +32,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_tv.ouya.demo.OuyaUnityApplication_1.0/SpaceRoads_1.0_tv.ouya.demo.OuyaUnityApplication.apk",
             "size": 59681703,
-            "md5sum": "2049dfe5d252f212d43b367976c32bac"
+            "md5sum": "2049dfe5d252f212d43b367976c32bac",
+            "cert_fingerprint": "3E:CF:43:56:60:57:B3:99:64:26:D0:34:E9:2B:01:6E:89:33:04:B3:77:BF:AD:BC:2A:F7:42:1A:68:73:FA:F7",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/tv.ouya.demo.OuyaUnityApplication/discover",

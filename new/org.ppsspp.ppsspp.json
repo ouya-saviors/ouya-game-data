@@ -18,7 +18,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/apks/ppsspp-v1.9.3-728-g1d783dde0-android.apk",
             "size": 32182529,
-            "md5sum": "937df8d1136f434545ecba0760ced8c7"
+            "md5sum": "937df8d1136f434545ecba0760ced8c7",
+            "cert_fingerprint": "0E:A5:8C:2F:F1:2B:25:8D:CE:E2:87:DB:00:74:AB:EB:DE:C6:A9:B8:15:57:32:18:54:2D:FB:4E:66:5F:B9:11",
+            "cert_subject": "C = SE, ST = Stockholm, L = Stockholm, O = Orphis.net, OU = Buildbot, CN = Florent Castelli"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/ppsspp.png",

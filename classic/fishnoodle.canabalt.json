@@ -22,7 +22,9 @@
             "md5sum": "bbc89b5e5230bdc9a5ee69ad00cc2f72",
             "publicSize": 15822884,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "EC:D1:4A:A7:05:96:27:B9:8A:46:9D:BC:9E:44:A8:CD:3D:67:86:70:07:23:3D:43:77:55:4C:93:DF:6F:C8:A5",
+            "cert_subject": "C = US, ST = TX, L = Houston, O = Kittehface Software, OU = ???, CN = Jeremy Statz"
         },
         {
             "name": "2.02",
@@ -32,7 +34,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_fishnoodle.canabalt_2.02/Canabalt%20HD_2.02_fishnoodle.canabalt.apk",
             "size": 13100077,
-            "md5sum": "97e3b3f748b7b80be4dd1fd1a206b00f"
+            "md5sum": "97e3b3f748b7b80be4dd1fd1a206b00f",
+            "cert_fingerprint": "EC:D1:4A:A7:05:96:27:B9:8A:46:9D:BC:9E:44:A8:CD:3D:67:86:70:07:23:3D:43:77:55:4C:93:DF:6F:C8:A5",
+            "cert_subject": "C = US, ST = TX, L = Houston, O = Kittehface Software, OU = ???, CN = Jeremy Statz"
         },
         {
             "name": "2.1",
@@ -42,7 +46,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_fishnoodle.canabalt_2.1/Canabalt%20HD_2.1_fishnoodle.canabalt.apk",
             "size": 13792343,
-            "md5sum": "fc65df6d3884ff7975260596ab2d5958"
+            "md5sum": "fc65df6d3884ff7975260596ab2d5958",
+            "cert_fingerprint": "EC:D1:4A:A7:05:96:27:B9:8A:46:9D:BC:9E:44:A8:CD:3D:67:86:70:07:23:3D:43:77:55:4C:93:DF:6F:C8:A5",
+            "cert_subject": "C = US, ST = TX, L = Houston, O = Kittehface Software, OU = ???, CN = Jeremy Statz"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/fishnoodle.canabalt/discover",

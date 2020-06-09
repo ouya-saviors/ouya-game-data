@@ -25,7 +25,9 @@
             "md5sum": "e1b3df77c1157460376facd13bb96234",
             "publicSize": 332913,
             "nativeSize": 14976720,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "CA:1F:0E:0A:35:00:1D:60:11:DB:15:F5:14:3F:AA:ED:3C:DA:E0:69:06:76:40:CB:38:AA:ED:91:30:5E:33:05",
+            "cert_subject": "C = NL, ST = Unknown, L = Unknown, O = Gamious, OU = Developer, CN = Sander Verbeek"
         },
         {
             "name": "2.1",
@@ -35,7 +37,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.gamious.namethegame_2.1/iO_2.1_com.gamious.namethegame.apk",
             "size": 63817272,
-            "md5sum": "28ab7a676701cb77541eea646ade99fe"
+            "md5sum": "28ab7a676701cb77541eea646ade99fe",
+            "cert_fingerprint": "CA:1F:0E:0A:35:00:1D:60:11:DB:15:F5:14:3F:AA:ED:3C:DA:E0:69:06:76:40:CB:38:AA:ED:91:30:5E:33:05",
+            "cert_subject": "C = NL, ST = Unknown, L = Unknown, O = Gamious, OU = Developer, CN = Sander Verbeek"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.gamious.namethegame/discover",

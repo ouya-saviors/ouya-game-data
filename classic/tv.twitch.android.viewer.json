@@ -21,7 +21,9 @@
             "md5sum": "e424b78a9d36b20efe7edbaa16f2a938",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "A8:6B:3F:85:02:31:24:5D:7F:D6:31:BD:A1:43:39:DA:28:6A:10:F1:F9:72:B2:2F:D3:FD:98:08:8A:30:2A:28",
+            "cert_subject": "C = US, ST = CA, L = San Francisco, O = TwitchTV"
         },
         {
             "name": "1.0.5",
@@ -31,7 +33,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_tv.twitch.android.viewer_1.0.5/TwitchTV_1.0.5_tv.twitch.android.viewer.apk",
             "size": 6999701,
-            "md5sum": "0da8b31f62d83396de7b5806140cf67f"
+            "md5sum": "0da8b31f62d83396de7b5806140cf67f",
+            "cert_fingerprint": "B1:E7:BA:44:AD:5A:CD:E8:53:7C:1C:17:74:3C:58:91:23:B9:2B:6E:F7:5A:CF:5F:8C:66:66:3F:35:06:B5:A4",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.4.0",
@@ -41,7 +45,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_tv.twitch.android.viewer_1.4.0/Twitch_1.4.0_tv.twitch.android.viewer.apk",
             "size": 7065958,
-            "md5sum": "e424b78a9d36b20efe7edbaa16f2a938"
+            "md5sum": "e424b78a9d36b20efe7edbaa16f2a938",
+            "cert_fingerprint": "A8:6B:3F:85:02:31:24:5D:7F:D6:31:BD:A1:43:39:DA:28:6A:10:F1:F9:72:B2:2F:D3:FD:98:08:8A:30:2A:28",
+            "cert_subject": "C = US, ST = CA, L = San Francisco, O = TwitchTV"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/tv.twitch.android.viewer/discover",

@@ -19,7 +19,9 @@
             "md5sum": "be89aec584a2697e3f118d2b93d9ae5f",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "6A:DD:81:1E:DB:62:4D:63:10:68:1D:02:0C:9D:19:7E:09:BB:4D:E0:A4:9A:00:DC:59:D1:EE:A5:64:FB:3D:52",
+            "cert_subject": "C = IT, ST = Reggio Emilia, L = Reggio Emilia, O = Pixel Heart srl, OU = Pixel Heart srl, CN = Alessandro Cuzzocrea"
         },
         {
             "name": "1.1.1",
@@ -29,7 +31,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.pixelheartstudios.pixelrush_1.1.1/Pixel%20Rush_1.1.1_com.pixelheartstudios.pixelrush.apk",
             "size": 15021098,
-            "md5sum": "be89aec584a2697e3f118d2b93d9ae5f"
+            "md5sum": "be89aec584a2697e3f118d2b93d9ae5f",
+            "cert_fingerprint": "6A:DD:81:1E:DB:62:4D:63:10:68:1D:02:0C:9D:19:7E:09:BB:4D:E0:A4:9A:00:DC:59:D1:EE:A5:64:FB:3D:52",
+            "cert_subject": "C = IT, ST = Reggio Emilia, L = Reggio Emilia, O = Pixel Heart srl, OU = Pixel Heart srl, CN = Alessandro Cuzzocrea"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.pixelheartstudios.pixelrush/discover",

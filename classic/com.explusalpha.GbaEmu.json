@@ -19,7 +19,9 @@
             "md5sum": "e4838aa3287d034b42a208cced02dace",
             "publicSize": 35393,
             "nativeSize": 1109064,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.12",
@@ -29,7 +31,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.GbaEmu_1.5.12/GBA.emu_1.5.12_com.explusalpha.GbaEmu.apk",
             "size": 394493,
-            "md5sum": "dc1b69667110e2b56d9f15632d3bc5c4"
+            "md5sum": "dc1b69667110e2b56d9f15632d3bc5c4",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.19",
@@ -39,7 +43,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.GbaEmu_1.5.19/GBA.emu_1.5.19_com.explusalpha.GbaEmu.apk",
             "size": 1252135,
-            "md5sum": "3ec89dd2252e16b106b6a587be6b7f3e"
+            "md5sum": "3ec89dd2252e16b106b6a587be6b7f3e",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         },
         {
             "name": "1.5.21",
@@ -49,7 +55,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.explusalpha.GbaEmu_1.5.21/GBA.emu_1.5.21_com.explusalpha.GbaEmu.apk",
             "size": 1331423,
-            "md5sum": "9ff0e2a3a68decea01cd0b78e2a47ad6"
+            "md5sum": "9ff0e2a3a68decea01cd0b78e2a47ad6",
+            "cert_fingerprint": "AF:1B:DC:5B:05:1E:E9:26:74:BB:0E:EC:7E:34:18:11:7B:CD:4A:98:CE:AD:A1:35:98:4D:2F:BD:87:49:8B:27",
+            "cert_subject": "C = US, ST = DC, L = Washington, O = Unknown, OU = Unknown, CN = Robert Broglia"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.explusalpha.GbaEmu/discover",

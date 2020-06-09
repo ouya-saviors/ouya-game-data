@@ -20,7 +20,9 @@
             "md5sum": "a2ca3ae2c29f30697d5e227d4dc1d0ea",
             "publicSize": 348507,
             "nativeSize": 18535228,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "74:33:18:34:AC:95:40:A1:50:8D:F3:19:03:A3:1D:7C:92:4E:C5:D7:28:0E:A4:07:5F:7F:B0:AD:60:BB:2A:97",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.06.49",
@@ -30,7 +32,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.direrpg.direrpg_1.06.49/DireRPG_1.06.49_com.direrpg.direrpg.apk",
             "size": 16715523,
-            "md5sum": "9e47027f131ee09fc434915f7ec6e1d2"
+            "md5sum": "9e47027f131ee09fc434915f7ec6e1d2",
+            "cert_fingerprint": "74:33:18:34:AC:95:40:A1:50:8D:F3:19:03:A3:1D:7C:92:4E:C5:D7:28:0E:A4:07:5F:7F:B0:AD:60:BB:2A:97",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.direrpg.direrpg/discover",

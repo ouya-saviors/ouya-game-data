@@ -21,7 +21,9 @@
             "md5sum": "bda5479f54d14c3fe8ee3ad728267f55",
             "publicSize": 2382367,
             "nativeSize": 3860592,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "D8:F6:52:C7:A1:D2:7E:2B:58:22:06:DA:C3:31:A9:B8:14:B5:33:AA:AF:F7:34:E4:FF:5B:CE:17:BA:6F:95:A2",
+            "cert_subject": "C = US, ST = NY, L = New York, O = Robysoft, OU = Independent, CN = Nick Santaniello"
         },
         {
             "name": "1.0",
@@ -31,7 +33,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_net.robysoft.justrain_1.0/Just%20Rain_1.0_net.robysoft.justrain.apk",
             "size": 38878996,
-            "md5sum": "1e69f463ea1c181264141f348d88a561"
+            "md5sum": "1e69f463ea1c181264141f348d88a561",
+            "cert_fingerprint": "8D:53:6A:27:98:FD:CF:A7:0D:BB:2E:34:76:43:C9:5D:DB:23:8B:50:FD:8B:B1:B2:DC:86:AA:80:C9:A8:93:13",
+            "cert_subject": "C = US, ST = NY, L = New York, O = Robysoft, OU = Independent, CN = Nick Santaniello"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/net.robysoft.justrain/discover",

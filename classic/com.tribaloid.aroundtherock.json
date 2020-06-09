@@ -20,7 +20,9 @@
             "md5sum": "502a26a9b9ac8874d871bfe509417aa5",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "AB:CD:89:43:2B:32:E6:C8:9B:A2:DE:E5:9E:BD:C1:A9:01:2D:0A:8E:F6:18:BA:9E:86:79:A0:37:EA:83:07:B6",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.0.5",
@@ -30,7 +32,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.tribaloid.aroundtherock_1.0.5/Around%20The%20Rock%20Disc%20Golf_1.0.5_com.tribaloid.aroundtherock.apk",
             "size": 27573945,
-            "md5sum": "502a26a9b9ac8874d871bfe509417aa5"
+            "md5sum": "502a26a9b9ac8874d871bfe509417aa5",
+            "cert_fingerprint": "AB:CD:89:43:2B:32:E6:C8:9B:A2:DE:E5:9E:BD:C1:A9:01:2D:0A:8E:F6:18:BA:9E:86:79:A0:37:EA:83:07:B6",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.tribaloid.aroundtherock/discover",

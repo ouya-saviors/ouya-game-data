@@ -21,7 +21,9 @@
             "md5sum": "7469753731854f67e7a975b2727adbf9",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "09:48:76:CD:7E:CB:F4:9F:95:4A:F0:C4:07:19:3C:CD:7B:3A:52:F5:E3:8C:50:61:E3:F2:16:EF:EA:AB:D1:5C",
+            "cert_subject": "C = USA, L = Utah, O = Octograb Studio, OU = Development, CN = Astronaut Rescue"
         },
         {
             "name": "1.0.59",
@@ -31,7 +33,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.octograb.AstronautRescue_1.0.59/Astronaut%20Rescue_1.0.59_com.octograb.AstronautRescue.apk",
             "size": 12857021,
-            "md5sum": "7469753731854f67e7a975b2727adbf9"
+            "md5sum": "7469753731854f67e7a975b2727adbf9",
+            "cert_fingerprint": "09:48:76:CD:7E:CB:F4:9F:95:4A:F0:C4:07:19:3C:CD:7B:3A:52:F5:E3:8C:50:61:E3:F2:16:EF:EA:AB:D1:5C",
+            "cert_subject": "C = USA, L = Utah, O = Octograb Studio, OU = Development, CN = Astronaut Rescue"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.octograb.AstronautRescue/discover",

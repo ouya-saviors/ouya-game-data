@@ -21,7 +21,9 @@
             "md5sum": "bc18e4b8cbee4e800587897102853129",
             "publicSize": 4363901,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "82:2C:D1:24:68:84:BE:96:0E:0F:26:67:EB:8A:FC:5F:7D:F0:89:20:36:3C:2F:16:74:29:33:BF:EB:57:17:C6",
+            "cert_subject": "C = Unknown, ST = Unknown, L = Unknown, O = \"Plex, Inc.\", OU = Unknown, CN = \"Plex, Inc.\""
         },
         {
             "name": "3.0.12.19 (a749af56)",
@@ -31,7 +33,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.plexapp.android_3.0.12.19_a749af56/Plex_3.0.12.19%20%28a749af56%29_com.plexapp.android.apk",
             "size": 3398270,
-            "md5sum": "f7a06368670e953e80363fa309c3f75c"
+            "md5sum": "f7a06368670e953e80363fa309c3f75c",
+            "cert_fingerprint": "82:2C:D1:24:68:84:BE:96:0E:0F:26:67:EB:8A:FC:5F:7D:F0:89:20:36:3C:2F:16:74:29:33:BF:EB:57:17:C6",
+            "cert_subject": "C = Unknown, ST = Unknown, L = Unknown, O = \"Plex, Inc.\", OU = Unknown, CN = \"Plex, Inc.\""
         },
         {
             "name": "3.7.1.288",
@@ -41,7 +45,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.plexapp.android_3.7.1.288/Plex_3.7.1.288_com.plexapp.android.apk",
             "size": 6462294,
-            "md5sum": "fb664b98af818fca65aa7a2e86dbfa9c"
+            "md5sum": "fb664b98af818fca65aa7a2e86dbfa9c",
+            "cert_fingerprint": "82:2C:D1:24:68:84:BE:96:0E:0F:26:67:EB:8A:FC:5F:7D:F0:89:20:36:3C:2F:16:74:29:33:BF:EB:57:17:C6",
+            "cert_subject": "C = Unknown, ST = Unknown, L = Unknown, O = \"Plex, Inc.\", OU = Unknown, CN = \"Plex, Inc.\""
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.plexapp.android/discover",

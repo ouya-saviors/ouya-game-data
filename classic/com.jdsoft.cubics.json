@@ -21,7 +21,9 @@
             "size": 18317730,
             "md5sum": "f88a8145da1129f06485d429730feebd",
             "publicSize": 778822,
-            "nativeSize": 8821100
+            "nativeSize": 8821100,
+            "cert_fingerprint": "09:BD:C2:DD:71:B3:17:29:C0:38:AD:02:19:9A:71:48:06:81:C5:80:BE:0A:2C:5C:87:A6:9A:84:8D:B7:D9:D3",
+            "cert_subject": "CN = JDSoft-4208"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.jdsoft.cubics/discover",

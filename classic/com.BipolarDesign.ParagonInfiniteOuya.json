@@ -19,7 +19,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_com.BipolarDesign.ParagonInfiniteOuya_Ouya_v1.3/Paragon%20Infinite_Ouya%20v1.3_com.BipolarDesign.ParagonInfiniteOuya.apk",
             "size": 10123154,
-            "md5sum": "00f9950ec15e268bbb81ef8cf7274eb3"
+            "md5sum": "00f9950ec15e268bbb81ef8cf7274eb3",
+            "cert_fingerprint": "95:6B:3D:79:EA:D8:FD:FC:19:35:67:30:4D:02:35:54:0F:05:79:5A:AA:40:C3:07:A6:13:F9:EE:D3:E6:4D:8A",
+            "cert_subject": "C = US, ST = WA, L = Lacey, O = BipolarDesign, OU = Unknown, CN = Michael Lasch"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.BipolarDesign.ParagonInfiniteOuya/discover",

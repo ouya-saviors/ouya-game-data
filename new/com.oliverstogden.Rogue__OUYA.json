@@ -21,7 +21,9 @@
             "size": 6330603,
             "md5sum": "aa4db40df05d92615a7e84d035eacc76",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "66:E3:1D:0B:D9:08:82:19:71:3F:EC:DD:44:26:38:05:9D:C8:77:F3:2F:EA:B5:3E:DD:19:3C:97:A2:E0:E1:A2",
+            "cert_subject": "C = GB, L = Pontefract, O = Oliver Stogden, OU = Development, CN = Oliver Stogden"
         }
     ],
     "discover": "http://statics.ouya.world/B3D8E6A8-9F1D-F8D9-8945-6D0FCB12EA3F/com.oliverstogden.Rogue__OUYA/discover.png",

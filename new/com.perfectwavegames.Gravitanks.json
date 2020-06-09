@@ -22,7 +22,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/apks/gravitanks/gravitanks-0.1.apk",
             "size": 146788672,
-            "md5sum": "54d6d7dd190bacda97eb19e3cab1ea56"
+            "md5sum": "54d6d7dd190bacda97eb19e3cab1ea56",
+            "cert_fingerprint": "F8:A3:D2:23:3C:F2:15:2A:EF:F0:98:68:A8:D0:D7:61:66:D8:2C:FF:23:00:A4:D9:14:8C:2A:A0:1D:B4:EA:8C",
+            "cert_subject": "O = Perfect Wave Games"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/gravitanks/gravitanks-discover.png",

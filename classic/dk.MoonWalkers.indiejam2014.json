@@ -20,7 +20,9 @@
             "md5sum": "62f1dcf48da082afeba7636fa3a0f4ea",
             "publicSize": 151250,
             "nativeSize": 19242100,
-            "latest": false
+            "latest": false,
+            "cert_fingerprint": "4D:2E:D2:79:E0:4C:EA:9B:86:DC:1A:BE:36:BF:F4:F4:C2:C7:66:CD:CB:6F:71:6E:B7:B0:13:08:1B:3A:8A:7A",
+            "cert_subject": "CN = Kasper Olesen, O = MoonWalkers, L = Aalborg, C = 45"
         },
         {
             "name": "1.11",
@@ -30,7 +32,9 @@
             "latest": true,
             "url": "https://archive.org/download/ouya_dk.MoonWalkers.indiejam2014_1.11/indiejam2014_1.11_dk.MoonWalkers.indiejam2014.apk",
             "size": 30287802,
-            "md5sum": "f3b6c5564e8de486ddc11a62f9d7bcaa"
+            "md5sum": "f3b6c5564e8de486ddc11a62f9d7bcaa",
+            "cert_fingerprint": "4D:2E:D2:79:E0:4C:EA:9B:86:DC:1A:BE:36:BF:F4:F4:C2:C7:66:CD:CB:6F:71:6E:B7:B0:13:08:1B:3A:8A:7A",
+            "cert_subject": "CN = Kasper Olesen, O = MoonWalkers, L = Aalborg, C = 45"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/dk.MoonWalkers.indiejam2014/discover",

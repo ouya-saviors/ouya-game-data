@@ -20,7 +20,9 @@
             "md5sum": "86900d5d5d30cb41fe941b58e7ab85b4",
             "publicSize": 171597,
             "nativeSize": 14689140,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "33:6B:56:BF:FD:CE:34:07:5C:F4:41:46:9B:35:B2:9D:30:4F:3B:4A:1E:7E:52:66:82:2B:F4:05:B1:82:3E:A6",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         },
         {
             "name": "1.06",
@@ -30,7 +32,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.norwindinteractive.simplerunner_1.06/FP%20Runner_1.06_com.norwindinteractive.simplerunner.apk",
             "size": 18803093,
-            "md5sum": "4ad6b2bb24dbf1f4d9c36dc52193c623"
+            "md5sum": "4ad6b2bb24dbf1f4d9c36dc52193c623",
+            "cert_fingerprint": "33:6B:56:BF:FD:CE:34:07:5C:F4:41:46:9B:35:B2:9D:30:4F:3B:4A:1E:7E:52:66:82:2B:F4:05:B1:82:3E:A6",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.norwindinteractive.simplerunner/discover",

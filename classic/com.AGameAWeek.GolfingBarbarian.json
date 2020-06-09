@@ -19,7 +19,9 @@
             "size": 3581278,
             "md5sum": "4c6ebb47a33305d3ec1ba164ce00a57d",
             "publicSize": 76180,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "3F:72:3E:05:E8:6D:F6:A7:04:01:C0:30:7D:F4:EC:AE:11:6B:49:80:FD:4C:8D:D4:96:68:25:9C:69:40:3D:91",
+            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.AGameAWeek.GolfingBarbarian/discover",

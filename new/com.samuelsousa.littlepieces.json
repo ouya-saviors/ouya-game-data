@@ -20,7 +20,9 @@
             "size": 77887614,
             "md5sum": "aec2da5d4956a099a8774295f4f37540",
             "publicSize": 0,
-            "nativeSize": 0
+            "nativeSize": 0,
+            "cert_fingerprint": "07:84:C9:D2:5B:1B:15:A2:69:2B:76:B9:D1:6F:1E:0C:81:C9:A3:BC:99:93:62:80:EE:E6:44:F0:22:DF:06:1D",
+            "cert_subject": "C = PT, L = Mirandela, O = Samuel Sousa, OU = Development, CN = Samuel"
         }
     ],
     "discover": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Discover.jpg",

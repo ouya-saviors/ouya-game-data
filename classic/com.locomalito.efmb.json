@@ -21,7 +21,9 @@
             "md5sum": "b52be0aa2112a9adfb04189abde476d8",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true
+            "latest": true,
+            "cert_fingerprint": "9F:F5:02:D4:ED:B8:63:25:72:47:91:99:09:7A:23:48:CE:F5:03:B3:73:CE:75:9D:41:1D:C5:AF:B9:2D:34:DC",
+            "cert_subject": "C = ES, L = Malaga, O = Locomalito, OU = Development, CN = Locomalito"
         },
         {
             "name": "1.0.16",
@@ -31,7 +33,9 @@
             "latest": false,
             "url": "https://archive.org/download/ouya_com.locomalito.efmb_1.0.16/EFMB_1.0.16_com.locomalito.efmb.apk",
             "size": 12212760,
-            "md5sum": "f8c52389ed5b44e464688920f87fca8b"
+            "md5sum": "f8c52389ed5b44e464688920f87fca8b",
+            "cert_fingerprint": "9F:F5:02:D4:ED:B8:63:25:72:47:91:99:09:7A:23:48:CE:F5:03:B3:73:CE:75:9D:41:1D:C5:AF:B9:2D:34:DC",
+            "cert_subject": "C = ES, L = Malaga, O = Locomalito, OU = Development, CN = Locomalito"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.locomalito.efmb/discover",
