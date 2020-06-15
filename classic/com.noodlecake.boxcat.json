@@ -71,5 +71,31 @@
         "likeCount": 131,
         "average": 3.77,
         "count": 233
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "com_noodlecake_boxcat_unlock1",
+            "name": "Unlock",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "com_noodlecake_boxcat_unlock2",
+            "name": "Unlock",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "identifier": "com_noodlecake_boxcat_unlock3",
+            "name": "Unlock",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        }
+    ]
 }
