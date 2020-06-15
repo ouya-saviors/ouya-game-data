@@ -91,5 +91,322 @@
         "likeCount": 39,
         "average": 2.8,
         "count": 45
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_bigPawsPowerUp",
+            "name": "Big paws power up",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_cupOfMilk",
+            "name": "Cup of milk",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_jugOfMilk",
+            "name": "Jug of milk",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_pajamasPowerUp",
+            "name": "Pajamas power up",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_superCapePowerUp",
+            "name": "Super cape power up",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_waterShield",
+            "name": "Water shield",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "LavaCat_waterSphere",
+            "name": "Water sphere",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin1",
+            "name": "Cat skin 1",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin2",
+            "name": "Cat skin 2",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin3",
+            "name": "Cat skin 3",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin4",
+            "name": "Cat skin 4",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin5",
+            "name": "Cat skin 5",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin6",
+            "name": "Cat skin 6",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin7",
+            "name": "Cat skin 7",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin8",
+            "name": "Cat skin 8",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin9",
+            "name": "Cat skin 9",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin10",
+            "name": "Cat skin 10",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin11",
+            "name": "Cat skin 11",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin12",
+            "name": "Cat skin 12",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin13",
+            "name": "Cat skin 13",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin14",
+            "name": "Cat skin 14",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin15",
+            "name": "Cat skin 15",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin16",
+            "name": "Cat skin 16",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin17",
+            "name": "Cat skin 17",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin18",
+            "name": "Cat skin 18",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin19",
+            "name": "Cat skin 19",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin20",
+            "name": "Cat skin 20",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin21",
+            "name": "Cat skin 21",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin22",
+            "name": "Cat skin 22",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin23",
+            "name": "Cat skin 23",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin24",
+            "name": "Cat skin 24",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin25",
+            "name": "Cat skin 25",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin26",
+            "name": "Cat skin 26",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "CatSkin27",
+            "name": "Cat skin 27",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": true,
+            "type": "entitlement",
+            "identifier": "LavaCat_FullUnlock",
+            "name": "Full game unlock",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
