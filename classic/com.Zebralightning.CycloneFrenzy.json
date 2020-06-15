@@ -75,5 +75,34 @@
         "likeCount": 44,
         "average": 3.92,
         "count": 25
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "CF_1mil",
+            "name": "$1 Million",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "CF_5mil",
+            "name": "$5 Million",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "CF_10mil",
+            "name": "$10 Million",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        }
+    ]
 }
