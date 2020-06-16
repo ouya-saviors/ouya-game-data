@@ -71,5 +71,16 @@
         "likeCount": 37,
         "average": 3.54,
         "count": 206
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "shaark-tip-01",
+            "name": "Tip Rusty",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
