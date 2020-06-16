@@ -64,5 +64,52 @@
         "likeCount": 77,
         "average": 3.06,
         "count": 35
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "type": "entitlement",
+            "identifier": "IMPULSE12_XP1728_FULL",
+            "name": "Full game",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "IMPULSE12_XP1728_25K",
+            "name": "25.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "IMPULSE12_XP1728_75K",
+            "name": "75.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "IMPULSE12_XP1728_200K",
+            "name": "200.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "IMPULSE12_XP1728_500K",
+            "name": "500.000 coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
