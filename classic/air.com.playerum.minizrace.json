@@ -69,5 +69,16 @@
         "likeCount": 58,
         "average": 3.24,
         "count": 66
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "type": "entitlement",
+            "identifier": "minizracers_full",
+            "name": "Unlock The game",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
