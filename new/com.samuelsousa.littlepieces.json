@@ -1,7 +1,7 @@
 {
     "packageName": "com.samuelsousa.littlepieces",
     "title": "63 Little Pieces",
-    "description": "63 Little Pieces is an atmospheric block sliding puzzle game in which you must destroy in order to build a path to lead one or several blocks to the goal.\r\n\r\nDETAILS:\r\nOriginally created in 48 hours for Ludum Dare 41, this game is still in development. This is not a Demo, this is an 'in development project build' - an alpha... or an alpha demo :)\r\nThe final game will consist of 60 or so Puzzle levels. Each containing 3 distinct rewarded solutions: Collect the key, reach goal in as less moves as possible and separately with less destruction as possible. In all, that means over 150 puzzles.\r\nAnd second simpler mode - 69 smaller pieces...\r\n\r\nHOW TO PLAY:\r\nUse: Left Joystick, D-Pad, Right Joystick, O, Y, L1, L2, R1 and R2.",
+    "description": "63 Little Pieces is an atmospheric block sliding puzzle game with a shooting mechanic, to destroy walls, in order to build a path to lead one or several blocks to the goal.\r\n\r\nSlide, fire, destroy blocks, collect collectibles, hit switches and manage the other blocks movements. Will you be able to piece it back together?\r\n\r\nThis game project is still in development, this alpha demo features 12 levels. The final game will consist of 60 or so levels. Each containing 3 distinct challenges: Collect the collectible; Reach the goal in as less moves as possible; Reach the goal with as less destruction as possible;\r\nIn all, that means over 150 puzzles.\r\n\r\nSwitch art style from large pixelated black & white sprites to a 2.5 or 2D coloured top down view.",
     "players": [
         1
     ],
@@ -33,43 +33,27 @@
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L1.jpg"
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_01.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L2.jpg"
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_02.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L3.jpg"
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_03.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L4.jpg"
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_04.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L5.jpg"
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_05.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/L6.jpg"
-        },
-        {
-            "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/LevelSelect.jpg"
-        },
-        {
-            "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/AyLVCH.jpg"
-        },
-        {
-            "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/duXvK1.jpg"
-        },
-        {
-            "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/RNrq2x.jpg"
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_06.png"
         }
     ],
     "developer": {
