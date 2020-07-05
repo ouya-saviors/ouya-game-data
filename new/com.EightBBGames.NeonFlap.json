@@ -1,0 +1,53 @@
+{
+    "packageName": "com.EightBBGames.NeonFlap",
+    "title": "NeonFlap",
+    "description": "Satirical Flappy Bird Style game for OUYA",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "d8c974fa-73b7-49ee-a85b-db4077178dc8",
+            "date": "2020-07-05T16:08:53Z",
+            "url": "http://statics.ouya.world/d8c974fa-73b7-49ee-a85b-db4077178dc8/com.EightBBGames.NeonFlap/NeonFlap.apk",
+            "size": 39329192,
+            "md5sum": "",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/sc1.png",
+            "thumb": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/sc1-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "d8c974fa-73b7-49ee-a85b-db4077178dc8",
+        "name": "Toasterkidd",
+        "supportEmail": "liamkelk99@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2020-07-05T16:08:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2020 by Toasterkidd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
