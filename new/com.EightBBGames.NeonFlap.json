@@ -6,33 +6,33 @@
         1
     ],
     "genres": [
-        "Arcade/Pinball",
-        "2020 GameJam"
+        "2020 GameJam",
+        "Arcade/Pinball"
     ],
     "releases": [
         {
-            "name": "1.0.0",
+            "name": "1.0",
             "versionCode": 1,
-            "uuid": "d8c974fa-73b7-49ee-a85b-db4077178dc8",
+            "uuid": "fe2bf1f8-db88-43ce-8b64-de42e44eda8d",
             "date": "2020-07-05T16:08:53Z",
-            "url": "http://statics.ouya.world/d8c974fa-73b7-49ee-a85b-db4077178dc8/com.EightBBGames.NeonFlap/NeonFlap.apk",
-            "size": 39329192,
-            "md5sum": "",
+            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/NeonFlap.apk",
+            "size": 32040140,
+            "md5sum": "80A63A336B130BAF4C38E575696FEF27",
             "publicSize": 0,
             "nativeSize": 0,
-            "cert_subject": "C = US, O = Android, CN = Android Debug"
+            "cert_subject": "C = US, O = Android, CN = Android Debug",
+            "cert_fingerprint": "F9:A7:25:80:49:3E:61:49:89:31:1F:8D:29:25:61:0E:E5:30:C2:3F:6C:A8:48:27:95:C1:6A:AA:A0:74:71:0C"
         }
     ],
-    "discover": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/discover.png",
+    "discover": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/discover.jpg",
     "media": [
         {
             "type": "image",
-            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/sc1.png",
-            "thumb": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/sc1-thumb.png"
+            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/sc1.jpg"
         }
     ],
     "developer": {
-        "uuid": "d8c974fa-73b7-49ee-a85b-db4077178dc8",
+        "uuid": "EA8B5D29-F580-6377-44F1-011E52DA082B",
         "name": "Toasterkidd",
         "supportEmail": "liamkelk99@gmail.com",
         "supportPhone": null,
