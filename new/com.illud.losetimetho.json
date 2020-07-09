@@ -1,0 +1,45 @@
+{
+    "packageName": "com.illud.losetimetho",
+    "title": "Lose(Time)Tho",
+    "description": "a relaxing and interactive image of a window (with music), only on Ouya",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2020 GameJam",
+        "Other"
+    ],
+    "releases": [
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "354fbc07-7978-454a-85cf-fe9f5fdab0a4",
+            "date": "2020-07-05T16:08:53Z",
+            "url": "http://statics.ouya.world/2141fef0-0913-4574-adab-bdfda0dfbc09/com.illud.losetimetho/com.illud.losetimetho_Lose(Time)Tho_1.0.apk",
+            "size": 12148269,
+            "md5sum": "8CAED3274572FF73D0D4AAF973B60BDB",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_subject": "C = UK, ST = Italy, L = illud, O = illud, OU = illud, CN = illud",
+            "cert_fingerprint": "6A:A1:51:F6:8D:43:3E:8C:3F:CF:7E:BF:06:F4:2E:EF:84:AE:EC:90:48:76:74:5A:D3:26:66:31:8D:B0:B8:A4"
+    ],
+    "discover": "http://statics.ouya.world/2141fef0-0913-4574-adab-bdfda0dfbc09/com.illud.losetimetho/Discover.png",
+    "media": [],
+    "developer": {
+        "uuid": "2141fef0-0913-4574-adab-bdfda0dfbc09",
+        "name": "illud",
+        "supportEmail": "illud.illud@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2020-07-05T16:08:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2020 by illud.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
