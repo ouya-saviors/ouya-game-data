@@ -1,0 +1,42 @@
+{
+    "packageName": "com.illu.NeonFlap",
+    "title": "NeonFlap",
+    "description": "Satirical Flappy Bird Style game for OUYA",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2020 GameJam",
+        "Arcade/Pinball"
+    ],
+    "releases": [
+        {
+
+        }
+    ],
+    "discover": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.EightBBGames.NeonFlap/sc1.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "EA8B5D29-F580-6377-44F1-011E52DA082B",
+        "name": "Toasterkidd",
+        "supportEmail": "liamkelk99@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2020-07-05T16:08:53Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2020 by Toasterkidd.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
