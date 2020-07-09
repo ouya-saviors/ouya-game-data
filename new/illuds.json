@@ -1,13 +1,13 @@
 {
-    "packageName": "com.illu.NeonFlap",
-    "title": "NeonFlap",
-    "description": "Satirical Flappy Bird Style game for OUYA",
+    "packageName": "com.illud.losetimetho",
+    "title": "Lose(Time)Tho",
+    "description": "a relaxing and interactive image of a window (with music), only on Ouya",
     "players": [
         1
     ],
     "genres": [
         "2020 GameJam",
-        "Arcade/Pinball"
+        "Other"
     ],
     "releases": [
         {
@@ -23,8 +23,8 @@
     ],
     "developer": {
         "uuid": "EA8B5D29-F580-6377-44F1-011E52DA082B",
-        "name": "Toasterkidd",
-        "supportEmail": "liamkelk99@gmail.com",
+        "name": "illud",
+        "supportEmail": "illud.illud@gmail.com",
         "supportPhone": null,
         "founder": false
     },
@@ -32,7 +32,7 @@
     "website": null,
     "firstPublishedAt": "2020-07-05T16:08:53Z",
     "inAppPurchases": false,
-    "overview": "Released in July 2020 by Toasterkidd.",
+    "overview": "Released in July 2020 by illud.",
     "premium": false,
     "rating": {
         "likeCount": 0,
