@@ -10,6 +10,7 @@
         "Other"
     ],
     "releases": [
+        {
             "name": "1.0",
             "versionCode": 1,
             "uuid": "354fbc07-7978-454a-85cf-fe9f5fdab0a4",
@@ -21,6 +22,7 @@
             "nativeSize": 0,
             "cert_subject": "C = UK, ST = Italy, L = illud, O = illud, OU = illud, CN = illud",
             "cert_fingerprint": "6A:A1:51:F6:8D:43:3E:8C:3F:CF:7E:BF:06:F4:2E:EF:84:AE:EC:90:48:76:74:5A:D3:26:66:31:8D:B0:B8:A4"
+        }
     ],
     "discover": "http://statics.ouya.world/2141fef0-0913-4574-adab-bdfda0dfbc09/com.illud.losetimetho/Discover.png",
     "media": [],
