@@ -25,7 +25,12 @@
         }
     ],
     "discover": "http://statics.ouya.world/2141fef0-0913-4574-adab-bdfda0dfbc09/com.illud.losetimetho/Discover.png",
-    "media": [],
+    "media": [
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/2141fef0-0913-4574-adab-bdfda0dfbc09/com.illud.losetimetho/Discover.png"
+        }
+    ],
     "developer": {
         "uuid": "2141fef0-0913-4574-adab-bdfda0dfbc09",
         "name": "illud",
