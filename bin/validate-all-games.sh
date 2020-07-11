@@ -2,8 +2,8 @@
 # Validate all ouya game data files
 # in all the folders listed in the folders file
 set -e
-for gamefile in `git diff --name-only HEAD~1 | grep -E "^(\`paste -d '|' -s folders\`)"`; do
-    iparams="$iparams -i $gamefile"
+foldersToCheck=$(paste -d '|' -s folders)
+for gamefile in `git diff --name-only HEAD~1 | grep -E "^$foldersToCheck"`; do
     echo "$gamefile"
     validate-json "$gamefile" ouya-game.schema.json
 done
