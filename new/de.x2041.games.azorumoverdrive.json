@@ -1,0 +1,42 @@
+{
+    "packageName": "de.x2041.games.azorumoverdrive",
+    "title": "AzorumOverdrive",
+    "description": "Fast paced HD rail shooter for OUYA",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "2020 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "9d8d08cb-62d5-4994-94ca-00b3fd4fc791",
+            "date": "2020-07-12T19:06:18+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/azorumovd_v0_6.apk",
+            "size": 13149407,
+            "md5sum": "236b5ff3120173bf66da1f60391c240e"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/azorumovd.png",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-5b94-44e4-8933-fbaa8737fc05",
+        "name": "zondarg",
+        "founder": false
+    },
+    "contentRating": "FIXME:Everyone,9+,12+,17+",
+    "website": "https://zondarg.itch.io/azorum-overdrive",
+    "firstPublishedAt": "2020-07-12T19:06:58+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
