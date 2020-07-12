@@ -1,0 +1,42 @@
+{
+    "packageName": "com.ProHiScoreStudios.CakeSlideStarCatchOUYA",
+    "title": "Cake Slide Star Catch",
+    "description": "Slide the Cake to Catch the Star, what could possibly be more fun than that?!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 1,
+            "uuid": "23c6f1b4-a28c-4687-b84b-a5d0b4a4aa17",
+            "date": "2020-07-12T19:14:31+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/Cake%20Slide%20Star%20Catch%20OUYA%20v1.2.apk",
+            "size": 21970959,
+            "md5sum": "1bb5ddec6573f472891f7e4b7a570377"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/Cake%20Slide%20Star%20Catch%20OUYA.png",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-841e-4712-8116-480e515517ee",
+        "name": "ProHiScore",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://prohiscore.itch.io/cake-slide-star-catch-ouya",
+    "firstPublishedAt": "2020-07-12T19:15:14+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
