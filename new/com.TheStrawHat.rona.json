@@ -1,0 +1,42 @@
+{
+    "packageName": "com.TheStrawHat.rona",
+    "title": "ScrubWars",
+    "description": "Avoid deadly diseases for as long as possible. Please submit your high score!\n\nA score of over 100 is very difficult, if you can achieve it please tell me.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": 10100,
+            "uuid": "477cbe0d-a2c3-46e1-9e30-69af2821cae1",
+            "date": "2020-07-12T19:29:56+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.TheStrawHat.rona-1.1.apk",
+            "size": 3800571,
+            "md5sum": "fc79b8507f54beee19b666ca269df873"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.TheStrawHat.rona.png",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-e042-48ca-b63c-cbc6e540c6ff",
+        "name": "TheStrawHat",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://thestrawhat.itch.io/scrubwars",
+    "firstPublishedAt": "2020-07-12T19:30:16+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
