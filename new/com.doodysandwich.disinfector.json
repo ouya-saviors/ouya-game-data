@@ -1,0 +1,42 @@
+{
+    "packageName": "com.doodysandwich.disinfector",
+    "title": "Disinfector",
+    "description": "Try to save everyone from disease and don't catch it yourself.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "e58ea078-c0a8-4477-831d-84cc4e4de6f9",
+            "date": "2020-07-14T18:27:39+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.doodysandwich.disinfector-1.0.apk",
+            "size": 4334563,
+            "md5sum": "0cfb3c12801bea3aa67904d89b60c336"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.doodysandwich.disinfector.png",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-4de6-4db7-b03b-b3c326b9f0ec",
+        "name": "DOODYsandwich",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://doodysandwich.itch.io/disinfector",
+    "firstPublishedAt": "2020-07-14T18:27:57+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
