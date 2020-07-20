@@ -38,12 +38,16 @@
             "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
-    "discover": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/discover.png",
+    "discover": "http://ouya.cweiske.de/apks/com.Eightbbgames.Parkouya/discover.jpg",
     "media": [
         {
             "type": "image",
             "url": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/ss1.png",
             "thumb": "http://statics.ouya.world/EA8B5D29-F580-6377-44F1-011E52DA082B/com.Eightbbgames.Parkouya/ss1-thumb.png"
+        },
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/com.Eightbbgames.Parkouya/trailer.mp4"
         }
     ],
     "developer": {
