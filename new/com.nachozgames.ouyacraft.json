@@ -1,0 +1,51 @@
+{
+    "packageName": "com.nachozgames.ouyacraft",
+    "title": "OUYA Craft",
+    "description": "A minecraft style sandbox game built for ouya.  Check out the ouya.world forums if you have any feedback or issues.  Lots of features planned for the future stay tuned for more updates!\n\nLT - place\nRT - Break\nLB/RB -Scroll blocks\nO - Jump\nY - pause\n\nRecommended you install on the ouya not external storage. Save and quit your worlds before exiting game to avoid corrupting your save.\n\nV 1.0:\nFirst official release!\nDay/Night Cycle\nCreative Mode\nInfinite world Gen\nMany different types of blocks\nLots of bugfixes since gamejam version\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2020 GameJam",
+        "Kids List"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "740f0178-00d6-4f18-abff-07707749143c",
+            "date": "2020-08-09T18:22:58+00:00",
+            "latest": true,
+            "url": "http://statics.ouya.world/11111111-4323-4a42-bbc5-85e28bbc5e3b/com.nachozgames.ouyacraft/com.nachozgames.ouyacraft_OUYACraft_1.0.0.apk",
+            "size": 4647217,
+            "md5sum": "C8FDDDDBD3F82DFA9D44B73A8E1E8406"
+        }
+    ],
+    "discover": "http://statics.ouya.world/11111111-4323-4a42-bbc5-85e28bbc5e3b/com.nachozgames.ouyacraft/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/11111111-4323-4a42-bbc5-85e28bbc5e3b/com.nachozgames.ouyacraft/screen1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/11111111-4323-4a42-bbc5-85e28bbc5e3b/com.nachozgames.ouyacraft/screen2.png"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-4323-4a42-bbc5-85e28bbc5e3b",
+        "name": "nachoz12341",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://nachoz12341.itch.io/ouya-craft",
+    "firstPublishedAt": "2020-07-14T18:23:19+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
