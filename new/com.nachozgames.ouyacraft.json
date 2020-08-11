@@ -1,7 +1,7 @@
 {
     "packageName": "com.nachozgames.ouyacraft",
-    "title": "OuyaCraft",
-    "description": "Special thanks to @Xenos for testing early builds before I got my ouya\n\n\nSuper experimental needs a lot of work!!!\n\nBe patient with bugs I didn't have time to fix:\n\ngame might start with buttons pressed\n\nAvoid double tapping ouya menu as it'll mess up rendering\n\nGive world a second to load\n\nno saving/loading for now (just not enough time)\n\nchunk seams can be visible at times\n\nCollisions have issues\n\n\nControls:\n\nleft stick move\n\nright stick look\n\nleft trigger place block\n\nright trigger break block\n\nLeft/Right bumper- cycle through blocks\n\nO - jump\n\nA - fly\n\nDpad left/right- fly up and down",
+    "title": "OUYA Craft",
+    "description": "A minecraft style sandbox game built for ouya.  Check out the ouya.world forums if you have any feedback or issues.  Lots of features planned for the future stay tuned for more updates!\n\nLT - place\nRT - Break\nLB/RB -Scroll blocks\nO - Jump\nY - pause\n\nRecommended you install on the ouya not external storage. Save and quit your worlds before exiting game to avoid corrupting your save.\n\nV 1.0:\nFirst official release!\nDay/Night Cycle\nCreative Mode\nInfinite world Gen\nMany different types of blocks\nLots of bugfixes since gamejam version\n",
     "players": [
         1
     ],
