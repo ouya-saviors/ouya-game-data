@@ -3,7 +3,7 @@
 # in all the folders listed in the folders file
 set -e
 foldersToCheck=$(paste -d '|' -s folders)
-for gamefile in `git diff --name-only HEAD~1 | grep -E "^$foldersToCheck"`; do
+for gamefile in `git diff --name-status HEAD~1 | grep -v -e "^D" | sed -r 's/^.\s+//' | grep -E "^$foldersToCheck"`; do
     echo "$gamefile"
     validate-json "$gamefile" ouya-game.schema.json
 done
