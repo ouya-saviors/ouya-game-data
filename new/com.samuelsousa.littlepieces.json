@@ -1,7 +1,7 @@
 {
     "packageName": "com.samuelsousa.littlepieces",
     "title": "63 Little Pieces",
-    "description": "63 Little Pieces is an atmospheric block sliding puzzle game with a shooting mechanic, to destroy walls, in order to build a path to lead one or several blocks to the goal.\r\n\r\nSlide, fire, destroy blocks, collect collectibles, hit switches and manage the other blocks movements. Will you be able to piece it back together?\r\n\r\nThis game project is still in development, this alpha demo features 12 levels. The final game will consist of 60 or so levels. Each containing 3 distinct challenges: Collect the collectible; Reach the goal in as less moves as possible; Reach the goal with as less destruction as possible;\r\nIn all, that means over 150 puzzles.\r\n\r\nSwitch art style from large pixelated black & white sprites to a 2.5 or 2D coloured top down view.",
+    "description": "This is a demo of the full game found at: samuelsousa.itch.io/little-pieces\r\n\r\nNote:You need to uninstall previous versions of this game first.\r\n\r\n63 Little Pieces is an atmospheric block sliding puzzle game with a shooting mechanic, to destroy walls, in order to build a path to lead one or several blocks to the goal.\r\n\r\nSlide, fire, destroy blocks, collect collectibles, hit switches and manage the other blocks movements. Will you be able to piece it back together?\r\n\r\nThis game project is still in development, this alpha demo features 12 levels. The final game will consist of 60 or so levels. Each containing 3 distinct challenges: Collect the collectible; Reach the goal in as less moves as possible; Reach the goal with as less destruction as possible;\r\nIn all, that means over 150 puzzles.\r\n\r\nSwitch art style from large pixelated black & white sprites to a 2.5 or 2D coloured top down view.",
     "players": [
         1
     ],
@@ -14,8 +14,7 @@
             "name": "0.13.0.1",
             "versionCode": 130001,
             "uuid": "a66fcc02-6cbc-4772-b15d-ab0bbdd3fc49",
-            "date": "2018-04-22T09:58:19Z",
-            "latest": true,
+            "date": "2020-05-10T07:53:25Z",
             "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/63%20Little%20Pieces_0.130.1_com.samuelsousa.littlepieces.apk",
             "size": 77887614,
             "md5sum": "aec2da5d4956a099a8774295f4f37540",
@@ -23,6 +22,20 @@
             "nativeSize": 0,
             "cert_fingerprint": "07:84:C9:D2:5B:1B:15:A2:69:2B:76:B9:D1:6F:1E:0C:81:C9:A3:BC:99:93:62:80:EE:E6:44:F0:22:DF:06:1D",
             "cert_subject": "C = PT, L = Mirandela, O = Samuel Sousa, OU = Development, CN = Samuel"
+        },
+        {
+            "name": "0.40.0",
+            "versionCode": "40000",
+            "uuid": "a76f9fea-fe6e-4b22-b5cb-0a81b4979b11",
+            "date": "2020-08-31T13:18:32z",
+            "latest": true,
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/63%20Little%20Pieces_0.40.0_com.samuelsousa.littlepieces.apk",
+            "size": 80615900,
+            "md5sum": "CC07D28638983A2FC73896315B0A5DE2",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
+            "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
         }
     ],
     "discover": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Discover.jpg",
@@ -65,7 +78,7 @@
     },
     "contentRating": "Everyone",
     "website": "https://samuelsousa.itch.io/little-pieces",
-    "firstPublishedAt": "2020-05-10T07:53:25Z",
+    "firstPublishedAt": "2018-04-22T09:58:19Z",
     "inAppPurchases": false,
     "overview": null,
     "premium": false,
