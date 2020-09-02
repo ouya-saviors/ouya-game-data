@@ -1,6 +1,6 @@
 {
     "packageName": "com.samuelsousa.littlepieces",
-    "title": "63 Little Pieces",
+    "title": "63 Little Pieces (Demo)",
     "description": "This is a demo of the full game found at: samuelsousa.itch.io/little-pieces\r\n\r\nNote:You need to uninstall previous versions of this game first.\r\n\r\n63 Little Pieces is an atmospheric block sliding puzzle game with a shooting mechanic, to destroy walls, in order to build a path to lead one or several blocks to the goal.\r\n\r\nSlide, fire, destroy blocks, collect collectibles, hit switches and manage the other blocks movements. Will you be able to piece it back together?\r\n\r\nThis game project is still in development, this alpha demo features 12 levels. The final game will consist of 60 or so levels. Each containing 3 distinct challenges: Collect the collectible; Reach the goal in as less moves as possible; Reach the goal with as less destruction as possible;\r\nIn all, that means over 150 puzzles.\r\n\r\nSwitch art style from large pixelated black & white sprites to a 2.5 or 2D coloured top down view.",
     "players": [
         1
@@ -25,7 +25,7 @@
         },
         {
             "name": "0.40.0",
-            "versionCode": "40000",
+            "versionCode": 40000,
             "uuid": "a76f9fea-fe6e-4b22-b5cb-0a81b4979b11",
             "date": "2020-08-31T13:18:32z",
             "latest": true,
