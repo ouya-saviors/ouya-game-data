@@ -25,12 +25,22 @@
         }
     ],
 
-    "discover": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/ouya_icon.png",
+    "discover": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/discover.png",
     "media": [
         {
             "type": "image",
-            "url": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/ouya_icon.png",
-            "thumb": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/ouya_icon_thumb.jpg"
+            "url": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/spmc-01.png",
+            "thumb": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/spmc-thumb-01.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/spmc-02.png",
+            "thumb": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/spmc-thumb-02.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/spmc-03.png",
+            "thumb": "https://archive.org/download/spmc-armeabi-v7a_14.2.0/spmc-thumb-03.png"
         }
     ],
 
