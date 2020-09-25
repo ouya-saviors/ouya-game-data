@@ -1,0 +1,64 @@
+{
+    "packageName": "ru.littlevictor.powermenu",
+    "title": "Power Menu (ROOT)",
+    "description": "This program do exactly what its name says: It give to you a menu where you can turn off, reboot (hard or soft reboot) the OUYA and more, just using the controller.\r\n\r\nATTENTION:\r\n\r\n- It is mandatory to have root enabled in OUYA.\r\n- A request for root access will be displayed the first time you use the application. Just confirm, allowing forever and confirm the desired command again. For the next uses, it will not be necessary to confirm this authorization.\r\n- Use the dark mode to correctly display the name of the options.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "1.6",
+            "versionCode": 0,
+            "uuid": "93bd27b6-ddd9-4642-bb89-9d7e1f7064e5",
+            "date": "2020-09-24T21:48:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/power-menu-1.6-ouya-signed/PowerMenu_1.6-OUYA-signed.apk",
+            "size": 179347,
+            "md5sum": "47585962b8a22a2551cee9ddea540033",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+
+    "discover": "https://archive.org/download/power-menu-1.6-ouya-signed/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/power-menu-1.6-ouya-signed/powermenu_01.png",
+            "thumb": "https://archive.org/download/power-menu-1.6-ouya-signed/powermenu_01-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/power-menu-1.6-ouya-signed/powermenu_02.png",
+            "thumb": "https://archive.org/download/power-menu-1.6-ouya-signed/powermenu_02-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/power-menu-1.6-ouya-signed/powermenu_03.png",
+            "thumb": "https://archive.org/download/power-menu-1.6-ouya-signed/powermenu_03-thumb.png"
+        }
+    ],
+
+    "developer": {
+        "uuid": "00000000--ddd9-4642-bb89-9d7e1f7064e5",
+        "name": "LittleVictor",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+
+    "contentRating": "Everyone",
+    "website": "http://littlevictor.narod2.ru/powermenu",
+    "firstPublishedAt": "2016-03-04T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2016 by LittleVictor.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
