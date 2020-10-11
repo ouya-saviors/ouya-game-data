@@ -75,5 +75,61 @@
         "likeCount": 232,
         "average": 3.73,
         "count": 905
-    }
+    },
+    "products": [
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "com_dedalord_skiingfred_bk1",
+            "name": "100 gems",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "com_dedalord_skiingfred_bk2",
+            "name": "300 gems",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "com_dedalord_skiingfred_bk3",
+            "name": "600 gems",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "com_dedalord_skiingfred_bk4",
+            "name": "2.000 gems",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "com_dedalord_skiingfred_bk5",
+            "name": "3.500 gems",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "com_dedalord_skiingfred_bk6",
+            "name": "7.500 gems",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        }
+    ]
 }
