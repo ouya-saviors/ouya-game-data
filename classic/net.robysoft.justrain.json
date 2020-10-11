@@ -77,5 +77,16 @@
         "likeCount": 561,
         "average": 4.18,
         "count": 1582
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "type": "consumable",
+            "identifier": "donate_justrain",
+            "name": "Donate",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
 }
