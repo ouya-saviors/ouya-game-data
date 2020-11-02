@@ -1,7 +1,7 @@
 {
     "packageName": "com.AGameAWeek.SpikeDislike3_I15",
     "title": "SpikeDislike3",
-    "description": "The essential Spike Avoidance Simulator returns, and things are much more challenging this time around.\nWith Bananas to collect, Cubes to bounce around, Tires to bounce and Spikes to Dislike, there's plenty to keep you playing.\nOver 100 levels to play through, and an Endless mode for each and every theme, this latest bout of dislike will keep you returning for more.\n\nEverybody Likes SpikeDislike!",
+    "description": "The essential Spike Avoidance Simulator returns, and things are much more challenging this time around.\nWith Bananas to collect, Cubes to bounce around, Tires to bounce and Spikes to Dislike, there's plenty to keep you playing.\nOver 100 levels to play through, and an Endless mode for each and every theme, this latest bout of dislike will keep you returning for more.\n\nEverybody Likes SpikeDislike!\n\nVersion 1.8 crashes, so we only make v1.6 available",
     "players": [
         1
     ],
@@ -12,25 +12,11 @@
     ],
     "releases": [
         {
-            "name": "1.8",
-            "versionCode": 18,
-            "uuid": "b9de44a6-805f-451a-a6a4-e45c9492ae3a",
-            "date": "2016-08-16T06:21:14Z",
-            "url": "https://archive.org/download/ouya_com.AGameAWeek.SpikeDislike3_I15_1.8/SpikeDislike3_1.8_com.AGameAWeek.SpikeDislike3_I15.apk",
-            "size": 24323649,
-            "md5sum": "9175335309a6794a68500141d13f7dbe",
-            "publicSize": 168524,
-            "nativeSize": 0,
-            "latest": true,
-            "cert_fingerprint": "32:91:01:F5:04:D0:DD:11:9C:A4:2C:E6:D6:04:AC:96:C8:A4:D1:62:6E:87:3D:EC:AC:EB:39:93:4F:5B:FF:83",
-            "cert_subject": "C = GB, ST = GM, L = Bolton, O = agameaweek, OU = Unknown, CN = Jayenkai"
-        },
-        {
             "name": "1.6",
             "versionCode": 16,
             "uuid": "6f998886-d6c1-4ef7-93d5-c8cda5322c58",
             "date": "2016-08-16T00:00:00Z",
-            "latest": false,
+            "latest": true,
             "url": "https://archive.org/download/ouya_com.AGameAWeek.SpikeDislike3_I15_1.6/SpikeDislike3_1.6_com.AGameAWeek.SpikeDislike3_I15.apk",
             "size": 24305099,
             "md5sum": "800ec803d1b9adeb84ff13831a440c5e",
