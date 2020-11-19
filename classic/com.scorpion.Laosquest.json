@@ -21,7 +21,20 @@
             "md5sum": "d8b60e1fc36bb4b065865a84e6b075d4",
             "publicSize": 739407,
             "nativeSize": 8821100,
+            "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
+            "name": "10.1.2020",
+            "versionCode": 100012020,
+            "uuid": "80d6877d-a24b-426c-a9ac-080934100320",
+            "date": "2020-11-18T20:10:02z",
             "latest": true,
+            "url": "https://archive.org/details/ouya_com.scorpion.Laosquest_9.6.2016/Laos Quest_10.1.2020_com.scorpion.Laosquest.apk",
+            "size": 17739423,
+            "md5sum": "50EDA56FF7E7E692EC7398779765BAF8",
+            "publicSize": 0,
+            "nativeSize": 0,
             "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
             "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
         }
