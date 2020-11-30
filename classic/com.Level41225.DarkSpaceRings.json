@@ -1,8 +1,7 @@
 {
     "packageName": "com.Level41225.DarkSpaceRings",
     "title": "Dark Space Rings",
-    "description": "Challenging puzzle ahead!\r\n\r\n!UPDATE 1.4!\r\n-------------\r\n- Game is now easier to beat!\r\nNo more time limits, play as long as you want!\r\n\r\n- QUIT/SAVE in pause menu will now allow you to enter your current score in the online leaderboards!\r\n\r\n- Dark Space Rings is now OUYA EVERYWHERE compatible!\r\n\r\nDescription\r\n-----------\r\nIn this 100% FREE puzzle game you have to guide a little star through 20 complex alien ring labyrinths and help it escape into Dark Space.\r\n\r\n* 100% FREE !\r\n* OUYA Exclusive !\r\n* 20 challenging levels\r\n* Supports Xbox 360 and PS3 controllers\r\n* Online leaderboards\r\n* Helps you improve your timing and memory skills",
-    "players": [
+"description": "Challenging puzzle ahead!\r\n\r\n!\n-------------\r\nDescription\r\n-----------\r\nIn this 100% FREE puzzle game you have to guide a little star through 20 complex alien ring labyrinths and help it escape into Dark Space.\r\n\r\n* 100% FREE !\r\n* 20 challenging levels\r\n* Supports Xbox 360 and PS3 controllers\r\n* Online leaderboards\r\n* Helps you improve your timing and memory skills",    "players": [
         1
     ],
     "genres": [
@@ -20,9 +19,22 @@
             "md5sum": "eef6109a6707ef42bc7f599e3092faaf",
             "publicSize": 157381,
             "nativeSize": 14802140,
-            "latest": true,
             "cert_fingerprint": "CE:09:5B:41:C1:2D:18:27:A3:4A:19:CE:DA:22:9B:9C:F1:3F:E5:14:E5:3B:12:D4:AA:CB:75:49:70:37:EF:C1",
             "cert_subject": "CN = David Reichelt, O = Level 41225"
+        },
+        {
+            "name": "1.5",
+            "versionCode": 1,
+            "uuid": "69797a5f-bab4-433b-bc10-68774a33c0da",
+            "date": "2020-11-30T11:29:42z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.Level41225.DarkSpaceRings_1.4/Dark%20Space%20Rings_1.5_com.Level41225.DarkSpaceRings.apk",
+            "size": 128141088,
+            "md5sum": "7D4ADECE6940947D265532ABDAE86893",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "DA:A9:E4:0A:D2:A2:62:DC:F0:A2:9B:6F:1A:CD:A6:0C:DA:77:2A:99:ED:28:F1:A9:2C:13:17:A8:52:C9:D7:7D",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.Level41225.DarkSpaceRings/discover",
