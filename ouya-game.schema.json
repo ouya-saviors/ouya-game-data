@@ -82,6 +82,22 @@
             }
         },
 
+        "languages": {
+            "description": "Language of text/audio content",
+            "type": "array",
+            "items": {
+                "type": "string",
+                "uniqueItems": true,
+                "enum": [
+                    "de",
+                    "en",
+                    "es",
+                    "fr",
+                    "it"
+                ]
+            }
+        },
+
         "releases": {
             "type": "array",
             "items": {
