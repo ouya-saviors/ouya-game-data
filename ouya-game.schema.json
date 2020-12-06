@@ -83,17 +83,36 @@
         },
 
         "languages": {
-            "description": "Language of text/audio content",
+            "description": "Language of text/audio content (ISO 639-1)",
             "type": "array",
             "items": {
                 "type": "string",
                 "uniqueItems": true,
                 "enum": [
+                    "cs",
+                    "da",
                     "de",
+                    "el",
                     "en",
+                    "eo",
                     "es",
+                    "fi",
                     "fr",
-                    "it"
+                    "hu",
+                    "it",
+                    "ja",
+                    "ko",
+                    "nl",
+                    "no",
+                    "pl",
+                    "pt",
+                    "ru",
+                    "sr",
+                    "sv",
+                    "th",
+                    "tk",
+                    "uk",
+                    "zh"
                 ]
             }
         },
