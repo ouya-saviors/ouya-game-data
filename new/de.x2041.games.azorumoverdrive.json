@@ -1,7 +1,7 @@
 {
     "packageName": "de.x2041.games.azorumoverdrive",
     "title": "AzorumOverdrive",
-    "description": "Fast paced HD rail shooter for OUYA",
+    "description": "An OUYA ANNIVERSARY JAM 2020 entry.\n\nAZORUM OVERDRIVE is a fast paced arcade rail shooter for the OUYA with a nod to old superscaler 3D shooting and racing games. Try to get through Azorum, an ancient city full of traps and dangers. Shoot gates and adapt your polarity to forcefields.\n\nAnd.. TRY AGAIN!\n\nMade with Godot Engine. (2.1.4)\n\nSmall update: 0.68 - Fixed some bugs and issues, and reworked some shaders. There is more to come.",
     "players": [
         1
     ],
@@ -15,13 +15,26 @@
             "versionCode": 1,
             "uuid": "9d8d08cb-62d5-4994-94ca-00b3fd4fc791",
             "date": "2020-07-12T13:06:18-06:00",
-            "latest": true,
             "url": "http://ouya.cweiske.de/apks/de.x2041.games.azorumoverdrive-1.0.apk",
             "size": 13149407,
             "md5sum": "236b5ff3120173bf66da1f60391c240e"
+        },
+        {
+            "name": "0.68",
+            "versionCode": 7,
+            "uuid": "a9efb9a5-d970-4aab-b5e7-53fbeb950484",
+            "date": "2020-12-15T07:33:58z",
+            "latest": true,
+            "url": "http://statics.ouya.world/11111111-5b94-44e4-8933-fbaa8737fc05/de.x2041.games.azorumoverdrive/AzorumOverdrive_0.68_de.x2041.games.azorumoverdrive.apk",
+            "size": 14345264,
+            "md5sum": "F25B2C81CDC9AA024E7FBD21A6AABB76",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "84:DE:84:A1:17:CB:8B:17:CD:D7:4B:3D:D6:D8:7A:FD:EA:2D:FF:34:FC:CC:96:1D:AD:C5:0B:4C:0B:F7:38:5A",
+            "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
         }
     ],
-    "discover": "http://ouya.cweiske.de/apks/de.x2041.games.azorumoverdrive.png",
+    "discover": "http://statics.ouya.world/11111111-5b94-44e4-8933-fbaa8737fc05/de.x2041.games.azorumoverdrive/discover.png",
     "media": [],
     "developer": {
         "uuid": "11111111-5b94-44e4-8933-fbaa8737fc05",
