@@ -1,0 +1,59 @@
+{
+    "packageName": "net.newmoonfestival.nocri",
+    "title": "Labyrinth of Nocri",
+    "description": "This game was made in about two weeks for OUYA Winter Game Jam 2020.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "b5604386-9e9b-40d4-9ff5-805e6ff10a6c",
+            "date": "2020-12-19T21:12:54+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/net.newmoonfestival.nocri-1.apk",
+            "size": 24305361,
+            "md5sum": "837a1580c9e7419258b059e09b807940"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/net.newmoonfestival.nocri.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/labyrinth-of-nocri-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/labyrinth-of-nocri-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/labyrinth-of-nocri-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/labyrinth-of-nocri-4.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5dbd-468e-bfbe-51c8447b30b2",
+        "name": "newmoonfestival",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://newmoonfestival.itch.io/labyrinth-of-nocri",
+    "firstPublishedAt": "2020-12-19T21:13:16+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
