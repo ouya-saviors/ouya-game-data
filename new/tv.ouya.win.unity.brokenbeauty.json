@@ -1,0 +1,50 @@
+{
+    "packageName": "tv.ouya.win.unity.brokenbeauty",
+    "title": "Broken But Still Beautiful",
+    "description": "Broken But Still Beautiful is my entry for the 2020 Christian Devs Speedgame: Hard Mode.\n\nPlay as a young lady, broken physically as she is bound to a wheelchair, but is still beautiful, as she has a tender and compassionate soul and won't use her disability as an excuse to find some poor lost children.\n\nControls:\n\nArrow Keys to Move\n\nEsc to Pause\n\n\nObjective:\n\nFind the 10 Missing Children",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "5b9de339-c0ae-4b69-b81f-eff1d10edd1b",
+            "date": "2020-12-19T18:04:53+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/tv.ouya.win.unity.brokenbeauty-1.apk",
+            "size": 28761453,
+            "md5sum": "1bae6bf790ca50f14a53d1a45ce82ba3"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/broken-but-still-beautiful.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/broken-but-still-beautiful-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/broken-but-still-beautiful-3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/broken-but-still-beautiful",
+    "firstPublishedAt": "2020-12-19T18:06:33+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

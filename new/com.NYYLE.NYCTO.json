@@ -1,0 +1,43 @@
+{
+    "packageName": "com.NYYLE.NYCTO",
+    "title": "NYCTOPHOBIA",
+    "description": "I wanted to make a game without graphics as a little challenge to myself. Outrun what's chasing you by listening closely to the audio cues to dodge the walls.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "490aac28-ecd9-4a15-9b3a-61522ca767e3",
+            "date": "2020-12-19T17:37:08+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.NYYLE.NYCTO-1.apk",
+            "size": 25915509,
+            "md5sum": "8c00737a8337aa749b9718d0157167dc"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/nyctophobia.png",
+    "media": [],
+    "developer": {
+        "uuid": "655baebb-db67-05e2-aa36-016186730e60",
+        "name": "NYYLE",
+        "supportEmail": "npkelk@gmail.com",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://nyyle.itch.io/nyctophobia",
+    "firstPublishedAt": "2020-12-19T17:37:46+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

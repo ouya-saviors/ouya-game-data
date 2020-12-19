@@ -1,0 +1,52 @@
+{
+    "packageName": "com.Eightbbgames.yahayor",
+    "title": "You Are Here At Your Own Risk",
+    "description": "You were warned not to come here. You're here at your own risk. The abandoned town is haunted by terrible beings and they'll attempt to trap you here forever.\n\nCollect the ten energy orbs to take down the walls they put up to trap you in town. Reach your car and escape!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1.1",
+            "versionCode": 1,
+            "uuid": "c2dcd1b1-2d20-494b-bf37-d00ac321aca4",
+            "date": "2020-12-19T17:55:20+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.Eightbbgames.yahayor-1.apk",
+            "size": 66766912,
+            "md5sum": "fb9f38472fe17bca190635e4d64b0ee2"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/you-are-here-at-your-own-risk.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/you-are-here-at-your-own-risk-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/you-are-here-at-your-own-risk-2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "ea8b5d29-f580-6377-44f1-011e52da082b",
+        "name": "Toasterkidd",
+        "supportEmail": "liamkelk99@gmail.com",
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "https://toasterkidd.itch.io/you-are-here-at-your-own-risk",
+    "firstPublishedAt": "2020-12-19T17:55:37+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

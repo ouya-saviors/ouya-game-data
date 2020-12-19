@@ -1,0 +1,42 @@
+{
+    "packageName": "com.StrawHat.Fall",
+    "title": "OneLongStrawHatFall",
+    "description": "Help the hat fall to the bottom of the blocks to get a high score",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "5296de31-930f-4bac-8cf7-5cb7306c57a4",
+            "date": "2020-12-19T18:11:24+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.StrawHat.Fall-1.apk",
+            "size": 26229640,
+            "md5sum": "c5257421aa777b51c1c702a9c3e2933f"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/straw-hat.jpg",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-e042-48ca-b63c-cbc6e540c6ff",
+        "name": "TheStrawHat",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://thestrawhat.itch.io/one-long-straw-hat-fall",
+    "firstPublishedAt": "2020-12-19T18:11:54+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

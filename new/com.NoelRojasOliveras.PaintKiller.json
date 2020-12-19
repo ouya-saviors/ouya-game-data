@@ -1,0 +1,64 @@
+{
+    "packageName": "com.NoelRojasOliveras.PaintKiller",
+    "title": "Paint Killer",
+    "description": "ake Revenge:\nPlay against your friends in a\nsplit screen FPS game\n\ngame was made in 10 days,\n\nHow to play:\neach player press start\/O to be spawn in to the game (up to 4 players)\ncontrollers are simple\n\nCredit:\nChase Bethea - Composer (https:\/\/chasebethea.com\/)\n\nNoel Rojas Oliveras - Programmer (https:\/\/www.linkedin.com\/in\/noel-rojas-oliveras-48073a1a5\/)\n\nnachoz12341 - Tester(didn't give personal info)\n\nXavier Torres Santiago - 3D modeler (didn't give personal info)",
+    "players": [
+        1, 2, 3, 4
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "85a6d8c9-d601-4258-ba59-bf2f7fd17fd3",
+            "date": "2020-12-19T17:42:22+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.NoelRojasOliveras.PaintKiller-1.apk",
+            "size": 25230358,
+            "md5sum": "329aa1aad03261046c0ee5e6962d3de0"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/paint-killer.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/paint-killer-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/paint-killer-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/paint-killer-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/paint-killer-4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/paint-killer-5.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-916a-4184-8585-f055a59fe6c2",
+        "name": "Aionmagan",
+        "supportEmail": "noelrock9@gmail.com",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://aionmagan.itch.io/paint-killer",
+    "firstPublishedAt": "2020-12-19T17:42:45+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

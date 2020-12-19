@@ -1,0 +1,59 @@
+{
+    "packageName": "com.samuelsousa.shootdestroy",
+    "title": "Shoot and Destroy",
+    "description": "Shoot & Destroy is a short modern 1-bit top-down shoot'em up. \n\nAn outer space threat is at large destroying and conquering the galaxy. \nFly through 4 stages and defeat the Boss.\n\n\nCreated by Samuel Sousa\nMusic by Shawn Andrew \n\n\nCreated in 2011 with Game Maker, this port aims to preserve this project in its essence.\nMaking it playable on OUYA for the OUYA Winter Jam 2020",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.20.20",
+            "versionCode": 1020020,
+            "uuid": "f84f2bff-d110-4aa2-a9a7-3c6bfa2ee461",
+            "date": "2020-12-19T18:16:48+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.samuelsousa.shootdestroy-1020020.apk",
+            "size": 25413285,
+            "md5sum": "a510ea728adbc655fb9aaff1b60490b5"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/shoot-destroy.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shoot-destroy-1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shoot-destroy-2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shoot-destroy-3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shoot-destroy-4.png"
+        }
+    ],
+    "developer": {
+        "uuid": "121ea10a-540e-40ad-9e14-f490e3352fb8",
+        "name": "Samuel Sousa",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://samuelsousa.itch.io/shoot-destroy",
+    "firstPublishedAt": "2020-12-19T18:18:32+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

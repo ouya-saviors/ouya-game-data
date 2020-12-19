@@ -1,0 +1,60 @@
+{
+    "packageName": "com.oliverstogden.trf",
+    "title": "The Race Factory",
+    "description": "TRF - OUYA Edition is a port of The Race Factory to the OUYA console for the 2020 Winter Ouya Jam. It is a free version of the game, with some features removed to make it run on the OUYA.\n\nThe AI does less calculations and therefore is quite a bit slower than the equivalent AI on PC. So you may find the game a little easy.\nFEATURES OF THE OUYA EDITION:\n\n    8 Vehicle Classes (Street, Sports, Super, Hyper, Karts, Formula, Trucks, Boats)\n    16 Tracks (4 are removed compared to PC Edition due to performance issues.)\n    3 Battle Arenas\n    9 Game Modes (Race, Elimination, Drift, Zen, Infection, Pass The Bomb, Hold The Gold, King of the Hill, Return the Flag)\n    1-4 Player local multiplayer\n    Event settings such as weapons, drafting, catch-up etc. can be changed.\n    Use in-game coins to buy cosmetic changes for your vehicles.\n\nCONTROLS:\n\n    O - Fire Weapon, Confirm Button\n    Y - Reset Car\n    RT - Accelerate\n    LT - Brake\n    RB - Pause\n    LB - Toggle Player Names\n    L3 - Toggle Headlights\n    Left Stick \/ Left\/Right D-Pad - Steer\n\nTested Controllers: OUYA Controller & Wired Xbox 360 Controller.\nKnown Issues:\n\n    Sometimes buttons can't be clicked in the menu on an OUYA controller.\n    AI gets stuck on Ocean Battle Arena.\n    Poor Performance in battle modes.\n    Poor Performance in split-screen.\n    If multiple controllers are connected to the OUYA, they should join as a player, or else the cursor may not be able to be moved.\n\n\nFollow me on Twitter for regular Dev updates on the PC edition: https:\/\/twitter.com\/O_Stogden",
+    "players": [
+        1, 2, 3, 4
+    ],
+    "genres": [
+        "Multiplayer",
+        "Racing",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "b456db57-cb90-4eeb-8033-3c49b276b1b6",
+            "date": "2020-12-19T15:34:26+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.oliverstogden.trf-1000000.apk",
+            "size": 39639880,
+            "md5sum": "16d31dbe9a25bd3fab4e3b0d35a8b208"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/the-race-factory.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/the-race-factory-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/the-race-factory-2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/the-race-factory-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/the-race-factory-4.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "b3d8e6a8-9f1d-f8d9-8945-6d0fcb12ea3f",
+        "name": "Oliver Stogden",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://o-stogden.itch.io/trf-the-race-factory-ouya-edition",
+    "firstPublishedAt": "2020-12-19T15:34:49+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
