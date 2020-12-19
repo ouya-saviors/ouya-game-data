@@ -1,0 +1,51 @@
+{
+    "packageName": "com.DESKINK.ToneTests",
+    "title": "Controller Quartet",
+    "description": "Controller Quartet was originally designed and built by DESK INK for the OUYA Winter Game Jam 2020.\n\n\nPlay melodies and stack chords with Controller Quartet.\n\nEmbrace all the Bb key has to offer! Bb! C! and many more notable frequencies!!\n\n\nControls:\n\nFace Buttons: Play Notes\n\nL1\/R1: Select Octave\n\nD-Pad Up\/Down: Accidentals\n\nR2: Credits\n\n\nFollow @bherdm on Twitter for more DESK INK games.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Music",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "2c5ad93e-c7dd-4cd6-a2e3-747f250bc11a",
+            "date": "2020-12-19T15:19:52+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.DESKINK.ToneTests-1.apk",
+            "size": 16607828,
+            "md5sum": "3f5585a2c270cd080b5d21b39d08ef7f"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/controller-quartet.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/controller-quartet-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/controller-quartet-2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-15e6-42e2-8ee2-46ee122269eb",
+        "name": "DESK INK",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://bherdm.itch.io/c4",
+    "firstPublishedAt": "2020-12-19T15:20:49+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

@@ -1,0 +1,63 @@
+{
+    "packageName": "com.sd_game_dev.aliens_taste_my_sword",
+    "title": "Aliens Taste My Sword",
+    "description": "A brave knight facing aliens to save his beloved. An epic adventure that can change the history of the world.\n\nMechanical prototype, started in #gbjam3, just as mechanical test.\n\nPalette: D7E895h AEC440h 527F39h 204631h\n\nBy: SD - Entertainment and Independent Cake.\n\nUptated for OUYA Winter Game Jam 2020. \n\nBy: SD - Game Dev.\n\n* Note 1 .: The game being a prototype does not have sound effects and may contain bugs.\n\n*Note 2 .: Character models and animation motion based game Tiny Dangerous Dungeons (http:\/\/gamejolt.com\/games\/platformer\/tiny-dangerous-dungeons\/19440\/)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "02a46068-0efc-4563-8cf7-deaf2c719dd9",
+            "date": "2020-12-19T15:06:52+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.sd_game_dev.aliens_taste_my_sword-1.apk",
+            "size": 27943696,
+            "md5sum": "c8fbd5e2545a185c673e2527d9094c1f"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/aliens-taste-my-sword-1.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/aliens-taste-my-sword-1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/aliens-taste-my-sword-2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/aliens-taste-my-sword-3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/aliens-taste-my-sword-4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/aliens-taste-my-sword-5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-ab6e-4ca2-819a-032329edf02a",
+        "name": "Saulo Daniel",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://saulodfp.itch.io/aliens-taste-my-sword-prototype",
+    "firstPublishedAt": "2020-12-19T15:07:16+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

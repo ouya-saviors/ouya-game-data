@@ -1,0 +1,63 @@
+{
+    "packageName": "com.scorpion.shootout",
+    "title": "Shootout",
+    "description": "You are the new sheriff, and the town is full with bad guys!\n\n- Use left and right shoulder buttons to shoot bad guys. You can also use d-pad left and A-button to shoot. You can only shoot when arm is moving.\n\n- You can also touch the left and right side of the screen to shoot, on tablet\/phone\/touchscreen device. Game will also work entirely with touchscreen devices.\n\n- Use Z and M to shoot when using keyboards\n\n- Shoot cactus for extra hearts\n\n- Shoot shield for extra armor\n\nWorks on OUYA, Nvidia Shield TV and most android devices with touchscreen, keyboard or gamepads\n\nHow long can you survive?\n\nGood luck!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "2.1.2020",
+            "versionCode": 20012020,
+            "uuid": "c4ede743-8fbe-433f-bfca-650f2c4566a9",
+            "date": "2020-12-19T15:27:21+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.scorpion.shootout-20012020.apk",
+            "size": 10125215,
+            "md5sum": "3d185a796a40c65f22960c9049747b11"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/shootout.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shootout-1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shootout-2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shootout-3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shootout-4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/shootout-5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "041c1942-4c52-41b8-9d3b-3f0619284313",
+        "name": "Scorpion Software",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://scorpion-software.itch.io/shoot-out",
+    "firstPublishedAt": "2020-12-19T15:27:49+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

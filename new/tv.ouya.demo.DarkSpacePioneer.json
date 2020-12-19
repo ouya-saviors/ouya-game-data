@@ -1,0 +1,63 @@
+{
+    "packageName": "tv.ouya.demo.DarkSpacePioneer",
+    "title": "Dark Space Pioneer",
+    "description": "Attention pilot!\n\nYour mission objectives are as follows:\n\n- Shoot down as many enemies as possible\n- Navigate your aircraft with the analog thumbstick\n- Align the crosshair over the enemies to tag them\n- Fire your missiles with the O button and score points\n- Dodge missiles by quickly switching flight directions and score points\n\nWarning: This is a PROTOTYPE which is likely to have bugs!\n\nCreated by:\n- David Reichelt\n\nMusic:\n- Fast Anxiety - Jeremy Korpas\n- Higher Octane - Vans in Japan\n\nSound FX:\n- Noam Guterman",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1",
+            "versionCode": 1,
+            "uuid": "7a386014-775a-4071-9bc9-e5ead9df6fcd",
+            "date": "2020-12-19T14:50:53+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/DarkSpacePioneer_v1.apk",
+            "size": 36958329,
+            "md5sum": "cef8260fa12a9d3e3ea94cee918dcd9b"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/dark-space-pioneer.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/dark-space-pioneer-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/dark-space-pioneer-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/dark-space-pioneer-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/dark-space-pioneer-4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/dark-space-pioneer-5.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-0f0e-4f7c-8354-f1b6fda7b127",
+        "name": "David Reichelt",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://freakdave.itch.io/dark-space-pioneer",
+    "firstPublishedAt": "2020-12-19T14:53:17+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
