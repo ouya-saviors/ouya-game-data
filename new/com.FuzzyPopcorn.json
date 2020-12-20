@@ -1,0 +1,42 @@
+{
+    "packageName": "com.FuzzyPopcorn",
+    "title": "Snuggle Puggle",
+    "description": "",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "d6d4b4b1-ce01-457d-997a-1165bdb39f16",
+            "date": "2020-12-20T17:20:18+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.FuzzyPopcorn-1.apk",
+            "size": 29194209,
+            "md5sum": "8986330e62b380e8e3ad72c835295e9d"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/snuggle-puggle.png",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-ea9c-4291-95de-6d7a49e7e61f",
+        "name": "Xaby",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://folker.itch.io/snuggle-puggle",
+    "firstPublishedAt": "2020-12-20T17:24:06+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
