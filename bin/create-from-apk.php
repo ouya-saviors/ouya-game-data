@@ -42,7 +42,7 @@ $data = [
             'uuid'        => uuid_create(),
             'date'        => gmdate('c', filectime($apk)),
             'latest'      => true,
-            'url'         => 'FIXME',
+            'url'         => 'FIXME/' . basename($apk),
             'size'        => filesize($apk),
             'md5sum'      => md5_file($apk),
         ]
@@ -84,10 +84,13 @@ foreach ($lines as $line) {
 if (isset($badging['application-label'])) {
     $data['title'] = trim($badging['application-label'], "'");
 }
+
+$packageName = null;
 if (isset($badging['package'])) {
     preg_match_all("#([^ ]+)='([^']*)'#", $badging['package'], $matches);
     $package = array_combine($matches[1], $matches[2]);
     if (isset($package['name'])) {
+        $packageName = $package['name'];
         $data['packageName'] = $package['name'];
     }
     if (isset($package['versionCode'])) {
@@ -100,6 +103,20 @@ if (isset($badging['package'])) {
 //var_dump($badging);die();
 
 
-echo json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
+$json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
     . "\n";
+
+if ($packageName) {
+    $jsonfile = realpath(__DIR__ . '/../new/' . $packageName . '.json');
+    if (!file_exists($jsonfile)) {
+        file_put_contents($jsonfile, $json);
+        echo 'Wrote file ' . $jsonfile . "\n";
+    } else {
+        echo $json;
+        fwrite(STDERR, 'File exists already: ' . $jsonfile . "\n");
+        exit(1);
+    }
+} else {
+    echo $json;
+}
 ?>
