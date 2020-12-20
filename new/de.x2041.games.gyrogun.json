@@ -1,0 +1,47 @@
+{
+    "packageName": "de.x2041.games.gyrogun",
+    "title": "Gyrogun",
+    "description": "Defend your space station in this 2.5D sidescrolling shooter with a ..twist.\n\nWorks on OUYA with controller. Early prototype, lots of bugs, not feature complete.\n\nMade in less than 7 days for OUYA Winter Game Jam 2020.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.51",
+            "versionCode": 3,
+            "uuid": "cea3852e-e9b5-4fae-9800-b19841a700eb",
+            "date": "2020-12-20T07:17:35+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/de.x2041.games.gyrogun_v051.apk",
+            "size": 13000858,
+            "md5sum": "67aabaf30c2ebafa098c166878b676ca"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/gyrogun.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/gyrogun-1.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5b94-44e4-8933-fbaa8737fc05",
+        "name": "zondarg",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://zondarg.itch.io/gyrogun",
+    "firstPublishedAt": "2020-12-20T07:19:29+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

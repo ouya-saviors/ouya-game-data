@@ -1,0 +1,42 @@
+{
+    "packageName": "ht.sr.git.arcticGrind.embed",
+    "title": "Arctic Grind OWGJ 2020",
+    "description": "",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "4583250f-7ef5-48e0-be45-562bedb5411b",
+            "date": "2020-12-20T07:31:06+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/ht.sr.git.arcticGrind.embed-1.apk",
+            "size": 12960505,
+            "md5sum": "e5b5f2d45259d65bd6db2ad0e53a5d79"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/arctic-grind.jpg",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-2c5c-418f-b7fd-1da378b5dbff",
+        "name": "xordspar",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://xordspar0.itch.io/arctic-grind",
+    "firstPublishedAt": "2020-12-20T07:32:16+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

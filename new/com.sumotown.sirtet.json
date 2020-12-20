@@ -1,0 +1,59 @@
+{
+    "packageName": "com.sumotown.sirtet",
+    "title": "Sirtet",
+    "description": "My submission for the OUYA Winter Game JAM 2020!\n\nA Tetris clone made with GM 1.4 for the OUYA.  Tried to get a good look and feel both aesthetically and with how the game felt while playing.  There's two different controller layouts available and three different graphic styles.   \n\nPlease play around and see what you like!\n\n\nKnown issues:\n\n    Controls may have problems.  I only received my OUYA console for playtesting the day submissions were due and I found that changing the control scheme didn't work on the OUYA (PS3 controller).  In testing it did work on PC so your results may vary.  I would like to address this in a later update.\n    The credits page currently doesn't exist.  Ran out of time :(\n\nUpcoming features:\n\n    Peaceful mode - ability to play without the speed increasing.  Possibly the leaderboard will be disabled in this mode.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "a02f3e85-0669-4dd9-a1a0-49da6d3d36d9",
+            "date": "2020-12-20T07:24:12+00:00",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.sumotown.sirtet-1000000.apk",
+            "size": 115374558,
+            "md5sum": "e759e7858f16755a93d3259d9c902e4a"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/sirtet.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/sirtet-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/sirtet-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/sirtet-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/sirtet-4.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-8e85-4a70-b590-af9f760a8a03",
+        "name": "greeneman",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://greeneman42.itch.io/sirtet",
+    "firstPublishedAt": "2020-12-20T07:27:08+00:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "overview": null,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
