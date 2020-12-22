@@ -1,9 +1,12 @@
 {
     "packageName": "com.NoelRojasOliveras.PaintKiller",
     "title": "Paint Killer",
-    "description": "ake Revenge:\nPlay against your friends in a\nsplit screen FPS game\n\ngame was made in 10 days,\n\nHow to play:\neach player press start\/O to be spawn in to the game (up to 4 players)\ncontrollers are simple\n\nCredit:\nChase Bethea - Composer (https:\/\/chasebethea.com\/)\n\nNoel Rojas Oliveras - Programmer (https:\/\/www.linkedin.com\/in\/noel-rojas-oliveras-48073a1a5\/)\n\nnachoz12341 - Tester(didn't give personal info)\n\nXavier Torres Santiago - 3D modeler (didn't give personal info)",
+    "description": "ake Revenge:\nPlay against your friends in a\nsplit screen FPS game\n\ngame was made in 10 days,\n\nHow to play:\neach player press start/O to be spawn in to the game (up to 4 players)\ncontrollers are simple\n\nCredit:\nChase Bethea - Composer (https://chasebethea.com/)\n\nNoel Rojas Oliveras - Programmer (https://www.linkedin.com/in/noel-rojas-oliveras-48073a1a5/)\n\nnachoz12341 - Tester(didn't give personal info)\n\nXavier Torres Santiago - 3D modeler (didn't give personal info)",
     "players": [
-        1, 2, 3, 4
+        1,
+        2,
+        3,
+        4
     ],
     "genres": [
         "FPS/Shooter",
@@ -54,8 +57,8 @@
     "website": "https://aionmagan.itch.io/paint-killer",
     "firstPublishedAt": "2020-12-19T17:42:45+00:00",
     "inAppPurchases": false,
-    "premium": false,
     "overview": null,
+    "premium": false,
     "rating": {
         "likeCount": 0,
         "average": 0,
