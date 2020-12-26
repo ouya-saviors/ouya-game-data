@@ -1,0 +1,56 @@
+{
+    "packageName": "com.shotmood",
+    "title": "Roly-Polo",
+    "description": "Roly-Polo it's a fast and fun sport videogame for up to four players.\n\nIn the game you control a PillBugBear (or a pair of them if you chose Twins-Mode), to win you have to score 15 points by throwing the purple ball thought the ring goals.\n\nIt's available for Windows, Linux, Ouya and Android, it has support for gamepads, keyboard, and touchscreen, feel free to download the FREE DEMO and test it on your system.\n\nThe controllers have an auto throw to goal aid that you can turn On and Off on the options menu, also options for twin-mode, and the number of A.I. players that you want to play with.\n\nIt's local-multiplayer against friends or CPU controlled players,  and doesn't have any online mode but it can be played online using streaming software like PARSEC (https:\/\/parsecgaming.com\/) or Remote Play Detached (https:\/\/github.com\/smaTc\/RemotePlayDetached).\n\nBy the time of release it comes with 8 hand-made stages that are selected one after the other in semi-random order for non-stop fun, and more will be added in the near future.\n\nI made a Discord to help people find people to play online using the streaming software or talk about the game: https:\/\/discord.gg\/tVUHz8NQ",
+    "players": [
+        1, 2, 3, 4
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Multiplayer",
+        "2020 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 100002,
+            "uuid": "c9536ab1-1f81-42e3-9e50-99cc6df65c3e",
+            "date": "2020-12-26T07:10:03Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.shotmood-100002.apk",
+            "size": 39632521,
+            "md5sum": "5408404f5f9d97589a3f15cf8cf12185"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2020-12-jam/com.shotmood.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/roly-polo-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/roly-polo-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/roly-polo-3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-feaa-48bc-ae28-eaecab04d90c",
+        "name": "Sergio Caballero",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://lapieza.itch.io/roly-polo",
+    "firstPublishedAt": "2020-12-26T07:58:09Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
