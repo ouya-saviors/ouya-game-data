@@ -5,6 +5,8 @@
  *
  * @author Christian Weiske <cweiske+ouya@cweiske.de>
  */
+require_once __DIR__ . '/functions.php';
+
 if (!function_exists('uuid_create')) {
     fwrite(STDERR, "Error: uuid PHP extension missing\n");
     exit(2);
@@ -68,39 +70,23 @@ $data = [
     ],
 ];
 
-exec('aapt dump badging ' . escapeshellarg($apk), $lines, $exitcode);
-if ($exitcode != 0) {
-    fwrite(STDERR, "error running aapt\n");
-    exit(2);
-}
-foreach ($lines as $line) {
-    if (strpos($line, ':') === false) {
-        continue;
-    }
-    list($key, $val) = explode(':', $line, 2);
-    $badging[$key] = trim($val);
-}
-
+$badging = loadBadgingInfo($apk);
 if (isset($badging['application-label'])) {
     $data['title'] = trim($badging['application-label'], "'");
 }
 
 $packageName = null;
-if (isset($badging['package'])) {
-    preg_match_all("#([^ ]+)='([^']*)'#", $badging['package'], $matches);
-    $package = array_combine($matches[1], $matches[2]);
-    if (isset($package['name'])) {
-        $packageName = $package['name'];
-        $data['packageName'] = $package['name'];
-    }
-    if (isset($package['versionCode'])) {
-        $data['releases'][0]['versionCode'] = (int) $package['versionCode'];
-    }
-    if (isset($package['versionName'])) {
-        $data['releases'][0]['name'] = $package['versionName'];
-    }
+if (isset($badging['packageName'])) {
+    $packageName = $badging['packageName'];
+    $data['packageName'] = $badging['packageName'];
 }
-//var_dump($badging);die();
+if (isset($badging['packageVersionCode'])) {
+    $data['releases'][0]['versionCode'] = (int) $badging['packageVersionCode'];
+}
+if (isset($badging['packageVersionName'])) {
+    $data['releases'][0]['name'] = $badging['packageVersionName'];
+}
+//var_dump($data);die();
 
 
 $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
