@@ -3,6 +3,9 @@
 /**
  * Create a game data JSON file from an .apk
  *
+ * Usage:
+ * $ create-from-apk.php <apk> <urlBase?> <screenshots?>
+ *
  * @author Christian Weiske <cweiske+ouya@cweiske.de>
  */
 require_once __DIR__ . '/functions.php';
@@ -15,10 +18,16 @@ if ($argc < 2) {
     fwrite(STDERR, "Error: apk file missing\n");
     exit(1);
 }
-$apk = $argv[1];
+array_shift($argv);
+$apk = array_shift($argv);
 if (!file_exists($apk)) {
     fwrite(STDERR, "Error: apk file does not exist\n");
     exit(1);
+}
+
+$urlBasePath = 'FIXME/';
+if (count($argv)) {
+    $urlBasePath = array_shift($argv);
 }
 
 $data = [
@@ -44,7 +53,7 @@ $data = [
             'uuid'        => uuid_create(),
             'date'        => gmdate('Y-m-d\TH:i:s\Z', filectime($apk)),
             'latest'      => true,
-            'url'         => 'FIXME/' . basename($apk),
+            'url'         => $urlBasePath . basename($apk),
             'size'        => filesize($apk),
             'md5sum'      => md5_file($apk),
         ]
@@ -86,14 +95,33 @@ if (isset($badging['packageVersionCode'])) {
 if (isset($badging['packageVersionName'])) {
     $data['releases'][0]['name'] = $badging['packageVersionName'];
 }
-//var_dump($data);die();
 
+//discover icon
+// can be extracted with ./bin/icon-from-apk.php
+if ($packageName) {
+    $iconBase = dirname($apk) . '/' . $packageName;
+    if (file_exists($iconBase . '.jpg')) {
+        $data['discover'] = $urlBasePath . $packageName . '.jpg';
+    } else if (file_exists($iconBase . '.png')) {
+        $data['discover'] = $urlBasePath . $packageName . '.png';
+    }
+}
+
+//screenshots as additional arguments to this script
+if ($argv > 2) {
+    foreach ($argv as $image) {
+        $data['media'][] = [
+            'type' => 'image',
+            'url'  => $urlBasePath . basename($image),
+        ];
+    }
+}
 
 $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
     . "\n";
 
 if ($packageName) {
-    $jsonfile = realpath(__DIR__ . '/../new/' . $packageName . '.json');
+    $jsonfile = realpath(__DIR__ . '/../new') . '/' . $packageName . '.json';
     if (!file_exists($jsonfile)) {
         file_put_contents($jsonfile, $json);
         echo 'Wrote file ' . $jsonfile . "\n";
