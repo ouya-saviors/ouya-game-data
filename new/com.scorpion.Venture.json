@@ -1,0 +1,77 @@
+{
+    "packageName": "com.scorpion.Venture",
+    "title": "Venture",
+    "description": "This is an enhanced version of the original game 'Venture' from Exidy.\r\n\r\nRoam the dungeons with your hero and rob them clean of all the treasures.\r\nWatch out as the dungeons are filled with monsters and all kinds of traps.\r\nAlso, new weapons can be found, scattered throughout the dungeons.\r\n\r\nThis version has new rooms and dungeons, new traps, new enemies and a much harder difficulty!\r\n\r\n- Use D-pad or left analog stick to move your player.\r\n- Use O button to shoot, and U and Y button to change weapons if available.\r\n  You can also change weapons with the shoulder buttons.\r\n- Use A button to pause the game.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade/Pinball",
+        "FPS/Shooter",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "10.5.20",
+            "versionCode": 10005020,
+            "uuid": "25e637ab-a484-495c-a7de-2e08d04bd970",
+            "date": "2020-12-28T18:42:09Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/com.scorpion.Venture-10005020.apk",
+            "size": 13358523,
+            "md5sum": "51f40c72ce89fe619ee66c1acafcb49b"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.scorpion.Venture/com.scorpion.Venture.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/5.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/6.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/7.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/8.png"
+        }
+    ],
+    "developer": {
+        "uuid": "041c1942-4c52-41b8-9d3b-3f0619284313",
+        "name": "Scorpion Software",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.jrxs.net/home.php?page=venture",
+    "firstPublishedAt": "2020-12-28T18:45:22Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

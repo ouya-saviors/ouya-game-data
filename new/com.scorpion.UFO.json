@@ -1,0 +1,63 @@
+{
+    "packageName": "com.scorpion.UFO",
+    "title": "UFO",
+    "description": "In this retro styled game you have to try to land your UFO on hostile ground!\r\n\r\nYour UFO has a force field which helps you to destroy objects, but you also have to dodge moving stars, falling rocks, and semi-friendly green UFOs. Sometimes hostile vessels appears which are out to destroy you, as they relentlessly fire missiles. Also, every once in a while there are challenge levels to boost your points and lives.\r\n\r\nAs your force field destroys an object, its pieces can initiate a chain reaction of destruction. This way you can blast your way through some star packed regions, which might seem unsafe at first. Combos of destruction will also give you great scores and extra lives.\r\n\r\nA strategic game combined with some brutal arcade action, where you need some fast reflexes! To get through a level, you must strategically plan your route to get through safely.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "3.4.2020",
+            "versionCode": 30042020,
+            "uuid": "3f1c5da0-a3d2-4c56-826a-3d5c4be718b1",
+            "date": "2020-12-28T18:42:17Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.UFO/com.scorpion.UFO-30042020.apk",
+            "size": 10756470,
+            "md5sum": "c5161e499e66caa2008ba7a28f93aa90"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.scorpion.UFO/com.scorpion.UFO.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.UFO/1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.UFO/2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.UFO/3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.UFO/4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.UFO/5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "041c1942-4c52-41b8-9d3b-3f0619284313",
+        "name": "Scorpion Software",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.jrxs.net/home.php?page=ufo",
+    "firstPublishedAt": "2020-12-28T18:53:22Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
