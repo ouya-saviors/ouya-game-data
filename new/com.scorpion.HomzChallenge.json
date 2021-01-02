@@ -1,0 +1,63 @@
+{
+    "packageName": "com.scorpion.HomzChallenge",
+    "title": "Homz Challenge",
+    "description": "This is a Sokoban puzzle game!\n\nPuzzles designed by Marti Homz, with some alterations done by Jordi Domenech.\n\nMove all the brown boxes to a designated position. \nYou can only push one block at a time and you can undo any move! \nRecords are saved, including number of moves and time you solved it. \n\nGame includes instructions on how to play the game.\n\nFeatures:\n* 80 compact puzzles with at most 4 boxes, but very challenging!\n* You can undo every move you make, and you can replay your solution!\n* With tutorial.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "2.2.2020",
+            "versionCode": 20022020,
+            "uuid": "284e01f4-6aab-4976-97c1-0580b7d4a440",
+            "date": "2021-01-02T10:08:25Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/com.scorpion.HomzChallenge-20022020.apk",
+            "size": 12701735,
+            "md5sum": "24fdd465ca4ab4671366bb371784bf2b"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/com.scorpion.HomzChallenge.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "041c1942-4c52-41b8-9d3b-3f0619284313",
+        "name": "Scorpion Software",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.jrxs.net/homz",
+    "firstPublishedAt": "2021-01-02T10:09:38Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
