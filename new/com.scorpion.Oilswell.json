@@ -1,0 +1,71 @@
+{
+    "packageName": "com.scorpion.Oilswell",
+    "title": "OilsWell",
+    "description": "Drill deeper into the ground through winding tunnels and collect oil!\n\nSome enemies can be destroyed by your drill. \nBut, watch out, as some enemies will harm your pipe!\nOther enemies will eat their way through the ground or harm or zap your drill.\n\n- Move your drill with the d-pad or the left analogue stick.\n- You can retract your drill pipe with the U button.\n\nThere are 16 different levels in total.\n\nHappy drilling!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "4.0.2020",
+            "versionCode": 40002020,
+            "uuid": "fcc69d79-416f-4878-bd4f-43617fcfe348",
+            "date": "2021-01-02T10:02:02Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/com.scorpion.Oilswell-40002020.apk",
+            "size": 11194787,
+            "md5sum": "d6b0355278a90a664faf80acbb4e88d7"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/com.scorpion.Oilswell.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/5.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/6.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/7.png"
+        }
+    ],
+    "developer": {
+        "uuid": "041c1942-4c52-41b8-9d3b-3f0619284313",
+        "name": "Scorpion Software",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.jrxs.net/oilswell",
+    "firstPublishedAt": "2021-01-02T10:04:37Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
