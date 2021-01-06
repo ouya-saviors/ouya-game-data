@@ -3,7 +3,10 @@
     "title": "TankWar",
     "description": "TankWar is a multiplayer game: just 4 guys, 4 controllers, 4 bottles of beer and a lot of fun :) \nGameModes: Deathmatch + Capture The Flag\n\n• up to 4 Players\n• !!! NEW: gamemode: CAPTURE THE FLAG (for 2 Players or 4 Players, collect 3 Flags to win!)\n• uses bluetooth controllers (OUYA, amazon Fire TV)\n• uses dual sticks per player\n• single player can fight against up to 3 AI tanks\n• playfield width can be configured: 50 to 250 meters\n\nnew features: \n... changed: cannon now fires only a certain range \n... added powerUp Cannon-Range that extends the range of the cannon \n... slightly changes in tank speed (forward / backward / rotation)\n... power-ups: only 4 packs parallel on screen \n... bufixes",
     "players": [
-        1
+        1,
+        2,
+        3,
+        4
     ],
     "genres": [
         "Dual Stick",

@@ -3,12 +3,19 @@
     "title": "PiX Bros",
     "description": "PiX Bros is a platform game inspired in three different historical arcade games: Bubble Bobble, Snow Bros and Tumble Pop. \r\n\r\nThree siblings end up transformed into their favourite videogame heroes to show off who's the best!\r\n\r\nUpdate:\r\n- Solved slowness in 1080p\r\n- 3 players at the same time\r\n- More languages supported: English, Spanish and Italian.",
     "players": [
-        1
+        1,
+        2,
+        3
     ],
     "genres": [
         "Arcade/Pinball",
         "Multiplayer",
         "Retro"
+    ],
+    "languages": [
+        "en",
+        "es",
+        "it"
     ],
     "releases": [
         {

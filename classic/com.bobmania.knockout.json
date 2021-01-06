@@ -3,7 +3,10 @@
     "title": "Knockout",
     "description": "Fight your friends in this multiplayer battle game where you must knock each other off the island without falling off yourself!\n\nKnockout was developed by Ben, a 12yr old kid learning to program.\n\nIncludes:\n\nVERSUS MODE:\nLast man standing wins.\n\nTOURNAMENT MODE:\nFirst player to get 3 kills win.\n\n1-4 PLAYERS\nGrab some friends, or play against the computer.\n\nCONTROLLER SUPPORT:\nOUYA, Ps3 & Xbox controllers.\n\nUpdate Log:\nVersion 1.2:\n- Added shadows to the characters\n- Added new shaders\n- Added new lighting effects\n- Slight changes to some 3D models\n- Fixed a bug where the player wouldn't die\n- Now supports M.O.J.O. with OUYA Everywhere\n\nVersion 1.1:\n- Added single player mode. Play against the computer!\n- Added pause & return to menu while playing. (press Y while playing)\n- Added how to play section.\n- Fixed bugs.\n- Fixed some crashing glitches.",
     "players": [
-        1
+        1,
+        2,
+        3,
+        4
     ],
     "genres": [
         "Fight!",
