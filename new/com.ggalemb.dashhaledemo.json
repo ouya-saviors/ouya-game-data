@@ -1,0 +1,57 @@
+{
+    "packageName": "com.ggalemb.dashhaledemo",
+    "title": "Dash Hale (Demo)",
+    "description": "INHALE. SAVE THE WORLD. EXHALE. REPEAT.\n\nHostile aliens, brain-eating zombies, mankind-enslaving machines and every other staple of the action genre get thrown in a blender. The result may not make much sense, but you won\u2019t need that.\n\nDash Hale is a combat-based autorunner set in a freely rotating world. Run faster or slower by changing the ground incline, turn it into a steep slope for sliding or drop to a free fall - bringing your enemies down with you.\n\nThis demo contains 3 of the 10 levels in the full game:\n\n- Aliens \/ Area 51\n- Demons \/ Hell\n- Orcs & Dragons \/ The Castle Of Naharoth",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "bee3e232-c26b-4b07-af7e-992fbfc12792",
+            "date": "2021-01-30T19:36:52Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/com.ggalemb.dashhaledemo-1.apk",
+            "size": 33464070,
+            "md5sum": "4afac54c8d1df32ed7ca2d026d9843c6"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo.jpg",
+    "media": [
+        {
+            "type": "image",
+            "thumb": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/thumb1.jpg",
+            "url": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "thumb": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/thumb2.jpg",
+            "url": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "thumb": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/thumb3.jpg",
+            "url": "http://ouya.cweiske.de/apks/com.ggalemb.dashhaledemo/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-e1c9-4e3f-8ab8-ba18a01abe95",
+        "name": "Flat Voxel",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://store.steampowered.com/app/1485730/Dash_Hale/",
+    "firstPublishedAt": "2021-01-30T19:40:41Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
