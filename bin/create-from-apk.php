@@ -16,6 +16,7 @@ if (!function_exists('uuid_create')) {
 }
 if ($argc < 2) {
     fwrite(STDERR, "Error: apk file missing\n");
+    fwrite(STDERR, "Usage: create-from-apk.php <apk> [urlBasePath] [images]\n");
     exit(1);
 }
 array_shift($argv);
