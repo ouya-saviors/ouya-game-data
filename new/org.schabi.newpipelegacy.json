@@ -1,6 +1,6 @@
 {
     "packageName": "org.schabi.newpipelegacy",
-    "title": "NewPipe Legacy 0.18.6",
+    "title": "NewPipe Legacy",
     "description": "NewPipe Legacy Lightweight YouTube frontend for OS versions 4.x.\r\n\r\nNewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use NewPipe, and it's FLOSS.",
     "players": [
         1
@@ -12,11 +12,23 @@
     ],
     "releases": [
         {
+            "name": "0.20.8",
+            "versionCode": 0,
+            "uuid": "ba8e745f-d2b5-4827-9e31-96798311c9f2",
+            "date": "2021-02-07T19:51:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-OUYA-signed.apk",
+            "size": 8357555,
+            "md5sum": "0ebd1f5a158ce1f4993b611b13eee947",
+            "publicSize": 0,
+            "nativeSize": 0
+        },
+        {
             "name": "0.18.6",
             "versionCode": 0,
             "uuid": "e32bc703-7a59-47c7-b36f-baf4c7445be3",
             "date": "2020-09-05T20:36:00Z",
-            "latest": true,
+            "latest": false,
             "url": "https://archive.org/download/new-pipe-legacy-v-0.18.6/NewPipeLegacy-v0.18.6.apk",
             "size": 6976179,
             "md5sum": "5f84ccb125c53c6eb34b604467b20714",
@@ -24,17 +36,17 @@
             "nativeSize": 0
         }
     ],
-    "discover": "https://archive.org/download/new-pipe-legacy-v-0.18.6/discover.png",
+    "discover": "https://archive.org/download/new-pipe-legacy-ouya-signed/discover.png",
     "media": [
         {
             "type": "image",
-            "url": "https://archive.org/download/new-pipe-legacy-v-0.18.6/NewPipeLegacy-01.png",
-            "thumb": "https://archive.org/download/new-pipe-legacy-v-0.18.6/NewPipeLegacy-thumb-01.png"
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-01.png",
+            "thumb": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-thumb-01.png"
         },
         {
             "type": "image",
-            "url": "https://archive.org/download/new-pipe-legacy-v-0.18.6/NewPipeLegacy-02.png",
-            "thumb": "https://archive.org/download/new-pipe-legacy-v-0.18.6/NewPipeLegacy-thumb-02.png"
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-02.png",
+            "thumb": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-thumb-02.png"
         }
     ],
     "developer": {
