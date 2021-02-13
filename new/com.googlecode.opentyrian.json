@@ -1,0 +1,62 @@
+{
+    "packageName": "com.googlecode.opentyrian",
+    "title": "Open Tyrian",
+    "description": "Port of Open Tyrian from pleya's fork of Commander Genius and other LibSDL games.\n\nTyrian is an arcade-style vertical scrolling shooter. The story is set in 20,031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight MicroSol and save the galaxy.\n\nTyrian features a story mode, one- and two-player arcade modes,",
+    "players": [
+        1,2
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "languages": ["en"],
+    "releases": [
+        {
+            "name": "2.1.25",
+            "versionCode": 2125,
+            "uuid": "0304ac20-c1f9-4d8d-a569-2198f5637926",
+            "date": "2021-02-13T07:28:45Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.googlecode.opentyrian/com.googlecode.opentyrian-2125.apk",
+            "size": 11739077,
+            "md5sum": "2bf4c16501197e66803cb43fbeb2cbae"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.googlecode.opentyrian/com.googlecode.opentyrian.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.googlecode.opentyrian/01-menu.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.googlecode.opentyrian/02-gameselect.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.googlecode.opentyrian/03-ship.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.googlecode.opentyrian/04-in-game.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "46733877-abbe-447f-9595-fdeb13874cca",
+        "name": "Steven Hanus",
+        "supportEmail": "ministeve412@gmail.com",
+        "supportPhone": null,
+        "founder": true,
+        "website": "https://www.heinousgames.net/"
+    },
+    "contentRating": "Everyone",
+    "website": "https://github.com/HeinousGames/commandergenius",
+    "firstPublishedAt": "2021-02-11T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2021 by Steven Hanus.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
