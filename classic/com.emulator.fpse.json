@@ -122,5 +122,16 @@
         "likeCount": 1726,
         "average": 4.11,
         "count": 1788
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "fullversion",
+            "name": "Full version",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
