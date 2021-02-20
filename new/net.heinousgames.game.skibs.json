@@ -1,0 +1,78 @@
+{
+    "packageName": "net.heinousgames.game.skibs",
+    "title": "Skibs",
+    "description": "Skibs is a minimalistic, psychedelic, infinite runner. Navigate down the endless multicolored wormhole, surviving the skibs, these \"power ups\" that cause anomalies and try to kill you. If you can live long enough, you just might see some things, as this game is designed to explicitly cause visual illusions within skilled players.\n\nSkibs is a unique game in that it uses geometric art to induce a motion aftereffect. Many video games of today use ultra realistic graphics to envelope players in fantasy worlds that seem like they could be real. Skibs on the other hand does more with less, giving players the option to visually enhance the real world around them.\n\nPlay if you dare!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "languages": ["en"],
+    "releases": [
+        {
+            "name": "2.0.0",
+            "versionCode": 30,
+            "uuid": "03fb9ca0-4890-45b0-9c43-7a65df9df72d",
+            "date": "2021-02-20T12:10:08Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs-30.apk",
+            "size": 36591198,
+            "md5sum": "4043674e5af1d99b3cc389f704e0933f"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/01-warning.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/02-main-menu.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/03-help.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/04-level-objectives.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/05-playing.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/06-playing.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/07-playing.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/08-statistics.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "46733877-abbe-447f-9595-fdeb13874cca",
+        "name": "Steven Hanus",
+        "supportEmail": "ministeve412@gmail.com",
+        "supportPhone": null,
+        "founder": true,
+        "website": "https://www.heinousgames.net/"
+    },
+    "contentRating": "Everyone",
+    "website": "http://skibs.heinousgames.net",
+    "firstPublishedAt": "2021-02-29T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2021 by Steven Hanus.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
