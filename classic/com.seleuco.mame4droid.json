@@ -1,7 +1,7 @@
 {
-    "packageName": "com.seleuco.mame4droid_0139u1",
-    "title": "MAME4droid (0.139u1)",
-    "description": "MAME4droid (0.139u1) is developed by David Valdeita (Seleuco), port of MAME 0.139 emulator by Nicola Salmoria and TEAM. MAME4droid (0.139u1) emulates arcade games supported by original MAME 0.139u1.\n* MAME4droid is an EMULATOR and DOES NOT INCLUDE ROMS OR COPYRIGHTED MATERIAL OF ANY KIND.\nThis version emulates over 8000 different romsets.\n\nNew on 1.8\nAdded selectable HQx image enhancer. \nAdded a new custom BIOS setting to set an alternate BIOS like unibios on Neogeo. \nNew Help by Shane R. Monroe. \nSome serious bugs fixed.\n\nNew on 1.7\nAdded android.intent.action.VIEW filter to open ROM files from a URI file scheme.\nImproved overlay (scanlines) rendering.\nAdded selectable true color rendering (improves artwork rendering).",
+    "packageName": "com.seleuco.mame4droid",
+    "title": "MAME4droid",
+    "description": "MAME4droid is developed by David Valdeita (Seleuco), port of MAME 0.139u1 emulator by Nicola Salmoria and TEAM. MAME4droid emulates arcade games supported by original MAME 0.139u1.\r\n\r\nATTENTION: If you already have the OUYA's version installed, you must uninstall it first before install this new version\r\n\r\nThis MAME4droid version is targeted to Dual-Core devices, because it is based on a high specs 2010 PC MAME build. Anyway don't expect arcade games of the 90 to work at full speed. With some games that are really bad optimized (like outrun or mk series) you will need at least a 1.5 ghz dual-core device (Cortex A15).\r\n\r\nThis is related to MAME build used, since it is targeted to high specs PC's as i said before.This version emulates over 8000 different romsets.\r\n\r\nPlease, try to understand that that with that amount of games, some will run better than others and some might not even run with MAME4droid.",
     "players": [
         1
     ],
@@ -9,6 +9,20 @@
         "Emulator"
     ],
     "releases": [
+        {
+            "name": "1.15.2",
+            "versionCode": 0,
+            "uuid": "b0e57029-07be-4f47-babc-83b50ce902f3",
+            "date": "2021-02-25T02:01:00Z",
+            "url": "https://archive.org/download/mame4droid-ouya/MAME4droid_0.139u1-1.15.2-release.apk",
+            "size": 38717543,
+            "md5sum": "fe20b5591ed8f59659cb3e7db15edf60",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "latest": true,
+            "cert_fingerprint": "EF:D5:B9:C0:58:C1:21:ED:97:F3:FD:89:21:12:B6:00:F6:D1:9B:C2:9B:EE:F7:47:40:0C:E0:BB:0D:25:1C:40",
+            "cert_subject": "CN = Seleuco"
+        },
         {
             "name": "1.8",
             "versionCode": 0,
@@ -19,7 +33,7 @@
             "md5sum": "02051c1f5f63a42f7776bc6bcccfa179",
             "publicSize": 4572584,
             "nativeSize": 45781568,
-            "latest": true,
+            "latest": false,
             "cert_fingerprint": "EF:D5:B9:C0:58:C1:21:ED:97:F3:FD:89:21:12:B6:00:F6:D1:9B:C2:9B:EE:F7:47:40:0C:E0:BB:0D:25:1C:40",
             "cert_subject": "CN = Seleuco"
         },
