@@ -1,7 +1,7 @@
 {
-    "packageName": "com.retroarch",
+    "packageName": "com.retroarch.ra32",
     "title": "RetroArch",
-    "description": "RetroArch is a powerful engine that allows you to:\r\n\r\n* Play games (retro and more current ones)\r\n* Watch movies (soon)\r\n* Other stuff (augmented reality, etc) (soon)\r\n\r\nIt comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment.",
+    "description": "ATTENTION: If you already have the OUYA's version installed, you must uninstall it first before install this new version.\r\n\r\nRetroArch is a powerful engine that allows you to:\r\n\r\n* Play games (retro and more current ones)\r\n* Watch movies (soon)\r\n* Other stuff (augmented reality, etc) (soon)\r\n\r\nIt comes with its own built-in collection of applications to provide you with a 'one-stop-shop' for entertainment.",
     "players": [
         1
     ],
@@ -9,6 +9,20 @@
         "Emulator"
     ],
     "releases": [
+        {
+            "name": "1.8.5_GIT",
+            "versionCode": 0,
+            "uuid": "78e9b078-02a8-4ca5-9053-81fe2af4df43",
+            "date": "2021-02-25T00:15:00Z",
+            "url": "https://archive.org/download/retroarch-ouya-signed/RetroArch-v1.8.5-OUYA-signed.apk",
+            "size": 96937894,
+            "md5sum": "a21a62315fecb89ef79bf87fa1037acb",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "latest": true,
+            "cert_fingerprint": "8E:35:B6:10:84:BA:FA:94:83:1A:3C:93:8B:CA:27:A1:9A:5E:7E:F2:05:67:FE:DF:16:91:71:63:18:E3:16:C0",
+            "cert_subject": "C = BR, ST = Minas Gerais, L = Belo Horizonte, O = OUYA Saviors, OU = Discord, CN = Zachary Foxx"
+        },
         {
             "name": "1.0.0.2",
             "versionCode": 0,
@@ -19,7 +33,7 @@
             "md5sum": "922919e21f02155784ac4b379096854b",
             "publicSize": 713261,
             "nativeSize": 1169736,
-            "latest": true,
+            "latest": false,
             "cert_fingerprint": "D7:A5:EA:B3:09:02:C9:B2:77:5A:F6:FB:4E:AC:2D:29:4A:64:63:4F:B4:7D:D1:38:2B:C3:AC:5B:F6:69:98:2E",
             "cert_subject": "O = Libretro"
         }
