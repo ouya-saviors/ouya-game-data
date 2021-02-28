@@ -11,11 +11,21 @@
     "languages": ["en"],
     "releases": [
         {
+            "name": "2.0.1",
+            "versionCode": 31,
+            "uuid": "cc2dceb8-5a05-4c7f-9819-948ed614678c",
+            "date": "2021-02-28T09:16:04Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs-31.apk",
+            "size": 36988832,
+            "md5sum": "ed9b42f25c6c35eb584207bc40fa653d"
+        },
+        {
             "name": "2.0.0",
             "versionCode": 30,
             "uuid": "03fb9ca0-4890-45b0-9c43-7a65df9df72d",
             "date": "2021-02-20T12:10:08Z",
-            "latest": true,
+            "latest": false,
             "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs-30.apk",
             "size": 36591198,
             "md5sum": "4043674e5af1d99b3cc389f704e0933f"
