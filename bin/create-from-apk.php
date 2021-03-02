@@ -97,6 +97,36 @@ if (isset($badging['packageVersionName'])) {
     $data['releases'][0]['name'] = $badging['packageVersionName'];
 }
 
+$za = new ZipArchive();
+$za->open($apk);
+for ($n = 0; $n < $za->count(); $n++) {
+    $name = $za->statIndex($n)['name'];
+    if (!fnmatch('META-INF/*.RSA', $name)) {
+        continue;
+    }
+    //extract certificate file
+    $fpZip = $za->getStream($name);
+    $tmpCertFile = tempnam(sys_get_temp_dir(), 'apk-cert-');
+    $fpTmpCertFile = fopen($tmpCertFile, 'w');
+    while (!feof($fpZip)) {
+        fwrite($fpTmpCertFile, fread($fpZip, 2048));
+    }
+    fclose($fpTmpCertFile);
+    //extract meta info from cert file
+    exec(
+        'openssl pkcs7 -inform DER -in ' . escapeshellarg($tmpCertFile) . ' -print_certs'
+        . ' | openssl x509 -noout -subject -fingerprint -sha256',
+        $lines
+    );
+    if (substr($lines[1], 0, 19) == 'SHA256 Fingerprint=') {
+        $data['releases'][0]['cert_fingerprint'] = substr($lines[1], 19);
+    }
+    if (substr($lines[0], 0, 8) == 'subject=') {
+        $data['releases'][0]['cert_subject'] = substr($lines[0], 8);
+    }
+    unlink($tmpCertFile);
+}
+
 //discover icon
 // can be extracted with ./bin/icon-from-apk.php
 if ($packageName) {

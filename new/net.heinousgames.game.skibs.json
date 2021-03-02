@@ -18,7 +18,9 @@
             "latest": true,
             "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs-31.apk",
             "size": 36988832,
-            "md5sum": "ed9b42f25c6c35eb584207bc40fa653d"
+            "md5sum": "ed9b42f25c6c35eb584207bc40fa653d",
+            "cert_fingerprint": "6C:B9:E7:94:BB:FB:7C:98:F1:AB:B3:C6:89:06:5B:D9:BF:A0:0D:77:96:72:C4:7B:C3:BC:D5:C7:42:C2:32:5B",
+            "cert_subject": "ST = MI, O = Heinous Games LLC"
         },
         {
             "name": "2.0.0",
@@ -28,7 +30,9 @@
             "latest": false,
             "url": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs-30.apk",
             "size": 36591198,
-            "md5sum": "4043674e5af1d99b3cc389f704e0933f"
+            "md5sum": "4043674e5af1d99b3cc389f704e0933f",
+            "cert_fingerprint": "6C:B9:E7:94:BB:FB:7C:98:F1:AB:B3:C6:89:06:5B:D9:BF:A0:0D:77:96:72:C4:7B:C3:BC:D5:C7:42:C2:32:5B",
+            "cert_subject": "ST = MI, O = Heinous Games LLC"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/net.heinousgames.game.skibs/net.heinousgames.game.skibs.jpg",
