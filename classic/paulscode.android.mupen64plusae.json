@@ -1,7 +1,7 @@
 {
-    "packageName": "paulscode.android.mupen64plusae",
-    "title": "Mupen64Plus AE (N64 Emulator)",
-    "description": "Mupen64Plus AE is a port of the popular open-source Nintendo 64 emulator \"Mupen64Plus\" to Android, and now the OUYA video game console!  This emulator allows you to play your backed-up N64 games (called ROMs) on your OUYA.  It does NOT come with any ROMs (you must provide them yourself).  For instructions on backing up your games, or other FAQ visit the support forum at PaulsCode.Com",
+    "packageName": "org.mupen64plusae.v3.fzurita",
+    "title": "M64Plus FZ Emulator",
+    "description": "M64Plus FZ is an updated build from Mupen64Plus AE from the same sources, which was a port of the popular open-source Nintendo 64 emulator \"Mupen64Plus\"! This emulator allows you to play your backed-up N64 games (called ROMs) on your OUYA. It does NOT come with any ROMs (you must provide them yourself).r\n\r\n* This is the last version compatible with OUYA. You SHOULD UNINSTALL previous versions before install this version.\r\n* There will be issues with specific games or devices.\r\n* Not all games work, but most do.\r\n* For games that do work, you may have to try different video plugins.\r\n* Although this version includes the new GLideN64, the OUYA is not powerful enough.\r\n* Not all video plugins will work with every device, and there could be glitches.\r\n* There are many missing translations. It may be better to stick with English.",
     "players": [
         1
     ],
@@ -9,6 +9,20 @@
         "Emulator"
     ],
     "releases": [
+        {
+            "name": "3.0.121 (beta)",
+            "versionCode": 0,
+            "uuid": "d649b0d7-45bf-424b-b58d-428524be0ec4",
+            "date": "2021-03-14T18:31:00Z",
+            "url": "https://archive.org/download/M64Plus_FZ_Emulator/org.mupen64plusae.v3.fzurita-121.apk",
+            "size": 15305161,
+            "md5sum": "a20d0135f8fa9b02ae07a9b4ab68d021",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "latest": true,
+            "cert_fingerprint": "1B:CE:02:7B:A4:E9:29:35:B2:21:76:46:87:54:E0:CE:7B:F7:94:90:AC:82:55:07:E3:95:26:5C:12:F5:31:6D",
+            "cert_subject": "CN=Francisco Zurita, L=Liverpool, ST=NY, C=US"
+        },        
         {
             "name": "2.4.2",
             "versionCode": 0,
@@ -19,7 +33,7 @@
             "md5sum": "bb95858a8e9ae36a0237295be917ad36",
             "publicSize": 0,
             "nativeSize": 0,
-            "latest": true,
+            "latest": false,
             "cert_fingerprint": "45:C3:84:C5:EE:BC:FF:05:38:55:F4:68:E2:41:3E:21:46:6A:F3:CA:A6:DA:12:20:96:66:E9:40:A5:BA:7B:2C",
             "cert_subject": "C = US, ST = Kansas, L = Halstead, O = PaulsCode.Com, OU = Android, CN = Paul Lamb"
         },
