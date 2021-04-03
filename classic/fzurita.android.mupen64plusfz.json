@@ -1,0 +1,88 @@
+{
+    "packageName": "org.mupen64plusae.v3.fzurita",
+    "title": "Mupen64Plus FZ Emulator",
+    "description": "M64Plus FZ is an updated build from Mupen64Plus AE from the same sources, which was a port of the popular open-source Nintendo 64 emulator \"Mupen64Plus\"! This emulator allows you to play your backed-up N64 games (called ROMs) on your OUYA. It does NOT come with any ROMs (you must provide them yourself).r\n\r\n* This is the last version compatible with OUYA. You SHOULD UNINSTALL previous versions before install this version.\r\n* There will be issues with specific games or devices.\r\n* Not all games work, but most do.\r\n* For games that do work, you may have to try different video plugins.\r\n* Although this version includes the new GLideN64, the OUYA is not powerful enough.\r\n* Not all video plugins will work with every device, and there could be glitches.\r\n* There are many missing translations. It may be better to stick with English.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Emulator"
+    ],
+    "releases": [
+        {
+            "name": "3.0.121 (beta)",
+            "versionCode": 0,
+            "uuid": "d649b0d7-45bf-424b-b58d-428524be0ec4",
+            "date": "2021-03-14T18:31:00Z",
+            "url": "https://archive.org/download/M64Plus_FZ_Emulator/org.mupen64plusae.v3.fzurita-121.apk",
+            "size": 15305161,
+            "md5sum": "a20d0135f8fa9b02ae07a9b4ab68d021",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "latest": true,
+            "cert_fingerprint": "1B:CE:02:7B:A4:E9:29:35:B2:21:76:46:87:54:E0:CE:7B:F7:94:90:AC:82:55:07:E3:95:26:5C:12:F5:31:6D",
+            "cert_subject": "CN=Francisco Zurita, L=Liverpool, ST=NY, C=US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-1-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-2-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-3-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-4-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-5-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-6-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-7-thumb"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8",
+            "thumb": "http://ouya.cweiske.de/game-images/paulscode.android.mupen64plusae/screenshot-8-thumb"
+        }
+    ],
+    "developer": {
+        "uuid": "9bfdd9ac-d30b-4334-b89d-3648251c0a59",
+        "name": "Francisco Zurita",
+        "supportEmail": "fzurita@gmail.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://github.com/mupen64plus-ae/mupen64plus-ae",
+    "firstPublishedAt": "2016-07-22T01:23:09Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2016 by Francisco Zurita.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
