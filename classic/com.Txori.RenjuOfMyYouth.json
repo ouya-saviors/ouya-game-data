@@ -1,7 +1,7 @@
 {
     "packageName": "com.Txori.RenjuOfMyYouth",
     "title": "Renju of my youth",
-    "description": "わが青春の連珠 - Waga seishun no Renju\r\n\r\nRenju is played with black and white stones on a 15x15 board.\r\nThe rules are simple: be the first to get an unbroken row of five stones horizontally, vertically or diagonally. The first player (black) must avoid forbidden moves, while the white player can corner him into making one.\r\n\r\nHere, we're playing the gentleman's way: all dangerous moves will blink as a warning, and forbidden moves are simply prevented. The game philosophy is to avoid low blows and to politely announce what's going on.\r\n\r\n\"Life is short, but there is always time enough for courtesy.\"\r\n- Ralph Waldo Emerson\r\n\r\n\r\nFeatures:\r\n- Rules from The Renju International Federation\r\n- 24 opening paterns\r\n- Forbiden moves for the black player\r\n- Simple, yet beautiful black and white vectorial graphics\r\n- Possibility to cancel moves\r\n\r\nTo do:\r\n- Computer's AI\r\n\r\n\r\nVersion 0.3.1:\r\n- Quick bugfix for handling several gamepads",
+    "description": "わが青春の連珠 - Waga seishun no Renju\r\n\r\nRenju is played with black and white stones on a 15x15 board.\r\nThe rules are simple: be the first to get an unbroken row of five stones horizontally, vertically or diagonally. The first player (black) must avoid forbidden moves, while the white player can corner him into making one.\r\n\r\nHere, we're playing the gentleman's way: all dangerous moves will blink as a warning, and forbidden moves are simply prevented. The game philosophy is to avoid low blows and to politely announce what's going on.\r\n\r\n\"Life is short, but there is always time enough for courtesy.\"\r\n- Ralph Waldo Emerson\r\n\r\n\r\nFeatures:\r\n- Rules from The Renju International Federation\r\n- 24 opening paterns\r\n- Forbiden moves for the black player\r\n- Play against a friend or against the computer\r\n- Simple, yet beautiful black and white vectorial graphics\r\n- Possibility to cancel moves\r\n\r\nVersion 0.4.2",
     "players": [
         2
     ],
@@ -13,7 +13,7 @@
     ],
     "releases": [
         {
-            "name": "0.3.1",
+            "name": "0.4.2",
             "versionCode": 0,
             "uuid": "8ceefbdb-6db1-4b9e-afab-3115d0e81d2f",
             "date": "2015-02-13T08:11:54Z",
