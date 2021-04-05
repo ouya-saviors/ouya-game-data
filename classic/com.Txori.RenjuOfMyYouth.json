@@ -1,7 +1,7 @@
 {
     "packageName": "com.Txori.RenjuOfMyYouth",
     "title": "Renju of my youth",
-    "description": "わが青春の連珠 - Waga seishun no Renju\r\n\r\nRenju is played with black and white stones on a 15x15 board.\r\nThe rules are simple: be the first to get an unbroken row of five stones horizontally, vertically or diagonally. The first player (black) must avoid forbidden moves, while the white player can corner him into making one.\r\n\r\nHere, we're playing the gentleman's way: all dangerous moves will blink as a warning, and forbidden moves are simply prevented. The game philosophy is to avoid low blows and to politely announce what's going on.\r\n\r\n\"Life is short, but there is always time enough for courtesy.\"\r\n- Ralph Waldo Emerson\r\n\r\n\r\nFeatures:\r\n- Rules from The Renju International Federation\r\n- 24 opening paterns\r\n- Forbiden moves for the black player\r\n- Simple, yet beautiful black and white vectorial graphics\r\n- Possibility to cancel moves\r\n\r\nTo do:\r\n- Computer's AI\r\n\r\n\r\nVersion 0.3.1:\r\n- Quick bugfix for handling several gamepads",
+    "description": "わが青春の連珠 - Waga seishun no Renju\r\n\r\nRenju is played with black and white stones on a 15x15 board.\r\nThe rules are simple: be the first to get an unbroken row of five stones horizontally, vertically or diagonally. The first player (black) must avoid forbidden moves, while the white player can corner him into making one.\r\n\r\nHere, we're playing the gentleman's way: all dangerous moves will blink as a warning, and forbidden moves are simply prevented. The game philosophy is to avoid low blows and to politely announce what's going on.\r\n\r\n\"Life is short, but there is always time enough for courtesy.\"\r\n- Ralph Waldo Emerson\r\n\r\n\r\nFeatures:\r\n- Rules from The Renju International Federation\r\n- 24 opening paterns\r\n- Forbiden moves for the black player\r\n- Play against a friend or against the computer\r\n- Simple, yet beautiful black and white vectorial graphics\r\n- Possibility to cancel moves\r\n\r\nVersion 0.4.2",
     "players": [
         2
     ],
@@ -22,9 +22,22 @@
             "md5sum": "801434e3dd299d742159c676ea50dc33",
             "publicSize": 21354,
             "nativeSize": 9235724,
-            "latest": true,
             "cert_fingerprint": "2E:2B:82:16:E6:BD:B3:3B:6E:6C:85:88:6E:00:DB:91:30:EA:DC:A4:5B:39:43:EE:94:8A:56:0D:B3:E8:D6:10",
             "cert_subject": "C = FR, ST = Aquitaine, L = Biarritz, O = Txori, OU = Txori, CN = Etienne B\\E2\\80\\9Agu\\E2\\80\\9A"
+        },
+        {
+            "name": "0.4.2",
+            "versionCode": 1578,
+            "uuid": "401de9cf-315c-4df5-8c07-7662303d5ad4",
+            "date": "2021-04-05T10:06:37z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.Txori.RenjuOfMyYouth_0.3.1/Renju%20of%20my%20youth_0.4.2_com.Txori.RenjuOfMyYouth.apk",
+            "size": 19676786,
+            "md5sum": "303CBE30BE08F0274AB933FBB7CD5BDF",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "C3:39:B6:89:59:9C:25:33:CB:F1:08:C9:02:71:1E:AB:2D:8C:B2:EF:C7:B8:3D:E9:C5:08:04:11:14:7C:91:3C",
+            "cert_subject": "C = 64, ST = Pays Basque, L = Biarritz, O = Txori, OU = Argia, CN = Begue Etienne"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.Txori.RenjuOfMyYouth/discover",
