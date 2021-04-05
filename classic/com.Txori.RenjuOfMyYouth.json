@@ -22,9 +22,22 @@
             "md5sum": "801434e3dd299d742159c676ea50dc33",
             "publicSize": 21354,
             "nativeSize": 9235724,
-            "latest": true,
             "cert_fingerprint": "2E:2B:82:16:E6:BD:B3:3B:6E:6C:85:88:6E:00:DB:91:30:EA:DC:A4:5B:39:43:EE:94:8A:56:0D:B3:E8:D6:10",
             "cert_subject": "C = FR, ST = Aquitaine, L = Biarritz, O = Txori, OU = Txori, CN = Etienne B\\E2\\80\\9Agu\\E2\\80\\9A"
+        },
+        {
+            "name": "0.4.2",
+            "versionCode": 1578,
+            "uuid": "401de9cf-315c-4df5-8c07-7662303d5ad4",
+            "date": "2021-04-05T10:06:37z",
+            "latest": true,
+            "url": "https://w3g3a5v6.ssl.hwcdn.net/upload2/game/498098/1735919?GoogleAccessId=uploader@moonscript2.iam.gserviceaccount.com&Expires=1617638806&Signature=cx8HGmCNggsfcRJNRtr2MXv42sAVB4G%2B9q%2FIXl1iw%2B9vSXFKhKlcwD6abMDEt%2FERvUQze6PKmQJxM%2F9fvNy9zB6AgAE4%2Fb6FDgOfNWuNZ7CGl0cquZWeTc41xShQpKlovvffQxyjGcjAlTehLkV3fvLRMfxT0wL6n0MxJrF4UY9CperiAW6%2FMs8XM6unHSqrfx58dN55dr1caJlJ5%2Fx5ubhegaGahmkyadV5CjpX60D5ElVpYgx7ELLLQLcNKj2c9PjHCpIi2VYZiH5783quMspT7KKk2hUidD4wQK%2FohssjsWPg3enPBvtDcT3MKYxO2%2FCJqZ4vy%2BE%2FtE2CepHDNw==&hwexp=1617639066&hwsig=0c7b1289a15d9521d9541499d0591cf1",
+            "size": 19676786,
+            "md5sum": "303CBE30BE08F0274AB933FBB7CD5BDF",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "C3:39:B6:89:59:9C:25:33:CB:F1:08:C9:02:71:1E:AB:2D:8C:B2:EF:C7:B8:3D:E9:C5:08:04:11:14:7C:91:3C",
+            "cert_subject": "C = 64, ST = Pays Basque, L = Biarritz, O = Txori, OU = Argia, CN = Begue Etienne"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.Txori.RenjuOfMyYouth/discover",
