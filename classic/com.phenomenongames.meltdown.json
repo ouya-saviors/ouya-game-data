@@ -90,6 +90,132 @@
             "localPrice": 4.99,
             "originalPrice": 4.99,
             "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "supahtroop_inapp_001",
+            "name": "Double XP Gain",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "supahtroop_inapp_002",
+            "name": "Double Coin Drop",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_003",
+            "name": "1200 Coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_004",
+            "name": "2600 Coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_005",
+            "name": "4000 Coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_006",
+            "name": "15000 Coins",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_007",
+            "name": "14 Chips",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_008",
+            "name": "30 Chips",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_009",
+            "name": "50 Chips",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_010",
+            "name": "200 Chips",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_011",
+            "name": "3 1Ups",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_012",
+            "name": "8 1Ups",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_013",
+            "name": "14 1Ups",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "supahtroop_inapp_014",
+            "name": "50 1Ups",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
         }
     ]
 }
