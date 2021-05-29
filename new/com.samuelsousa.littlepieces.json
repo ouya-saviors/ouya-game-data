@@ -28,12 +28,24 @@
             "versionCode": 40000,
             "uuid": "a76f9fea-fe6e-4b22-b5cb-0a81b4979b11",
             "date": "2020-08-31T13:18:32Z",
-            "latest": true,
+            "latest": false,
             "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/63%20Little%20Pieces_0.40.0_com.samuelsousa.littlepieces.apk",
             "size": 80615900,
             "md5sum": "CC07D28638983A2FC73896315B0A5DE2",
             "publicSize": 0,
             "nativeSize": 0,
+            "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
+            "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
+        },
+        {
+            "name": "0.42.0",
+            "versionCode": 42000,
+            "uuid": "3ba6fcfc-7fce-402b-9dba-223ef4005f08",
+            "date": "2021-05-29T19:39:10Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/com.samuelsousa.littlepieces-42000.apk",
+            "size": 81560656,
+            "md5sum": "8b17b913061a74252451d6565690671f",
             "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
             "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
         }
@@ -42,27 +54,27 @@
     "media": [
         {
             "type": "video",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/1837664779.mp4"
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/trailer2.mp4"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_01.png"
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/H0HTeh.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_02.png"
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/9y14LR.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_03.png"
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/hK51jf.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_04.png"
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/Ygdikf.png"
         },
         {
             "type": "image",
-            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.littlepieces/Screenshots_05.png"
+            "url": "http://ouya.cweiske.de/apks/com.samuelsousa.littlepieces/xR4BU3.png"
         },
         {
             "type": "image",
