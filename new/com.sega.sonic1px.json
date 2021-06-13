@@ -1,0 +1,73 @@
+{
+    "packageName": "com.sega.sonic1px",
+    "title": "Sonic The Hedgehog Classic",
+    "description": "The Sonic game that started it all is now free-to-play and optimized for mobile devices!\n\nRace at lightning speeds across seven classic zones as Sonic the Hedgehog. Run and spin through loop-de-loops as you collect rings and defeat enemies on your mission to save the world from the evil Dr. Eggman.\n\nSonic the Hedgehog joins the SEGA Forever classic games collection, a treasure trove of free SEGA console classics brought to life on mobile for the first time!\n\nFEATURES\n- OPTIMIZED FOR MOBILE Sonic The Hedgehog now plays in widescreen at a smooth 60FPS offering unrivalled performance and the game’s legendary soundtrack has been fully re-mastered.\n- GOTTA GO FAST - Challenge yourself with an all-new Time Attack mode!\n- NEW PLAYABLE CHARACTERS Play as Sonic’s friends Tails and Knuckles for the first time. Use their unique abilities to fly, climb, and glide around levels offering exciting new ways to explore.\n- CONTROLLER SUPPORT Sonic The Hedgehog on Android offers exclusive support for the Power A Moga, Nyko, XBOX, and all HID controllers.\n\n\nSEGA FOREVER FEATURES\n- PLAY FREE\n- CONTROLLER SUPPORT - HID compatible controllers\n- GAMES RELEASED EVERY MONTH - Download them all!\n\nRETRO REVIEWS\n- \"Believe the hype - this is the tidiest, smoothest and most exhilarating game you'll have ever seen.\" [97%] - Andy Smith, SEGA Power #22 (September 1991)\n- “Difficult without being frustrating, addictive without being repetitive, and altogether a joy to play.” [925/1000] - Gary Whitta, ACE #47 (August 1991)\n- \"One of the best Mega Drive games I've ever played\" [92%] - Rich Leadbetter, Mean Machines #10 (July 1991)\n\nTRIVIA\n- Sonic Jam contained the first release of Sonic The Hedgehog that gave Sonic his spin dash move, which returns again in this remake\n- Sonic The Hedgehog was also released in arcades on SEGA's Mega-Tech and Mega Play systems\n- Rabbit and armadillo characters were considered for Sonic before settling on a hedgehog design\n- While \"Eggman\" is Dr. Robotnik's nickname in the West, he has always been known as \"Eggman\" in Japan\n\nCLASSIC GAME FACTS\n- First released in the US on June 23rd, 1991\n- It took Yuji Naka almost a year to finish designing Green Hill Zone Act 1\n- Spring Yard Zone and Scrap Brain Zone were originally called Sparkling Zone and Clock Work Zone\n- Music composed by Masato Nakamura of Dreams Come True fame\n\n- - - - -\nPrivacy Policy: http://www.sega.com/mprivacy\nTerms of Use: http://www.sega.com/terms\n\nGame apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.\n\nThis game may include \"Interest Based Ads\" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)​ and may collect \"Precise Location Data\" ​(please see http://www.sega.com/mprivacy#5LocationDataDisclosure ​for more information)​\n\n© SEGA. All rights reserved. SEGA, the SEGA logo, Sonic the Hedgehog, SEGA Forever, and the SEGA Forever logo are registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Repackaged"
+    ],
+    "releases": [
+        {
+            "name": "3.0.0",
+            "versionCode": 2,
+            "uuid": "f9b91fb4-9ecb-4994-87c6-16e1f21449e2",
+            "date": "2021-06-12T19:15:09Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/Sonic%201_3.0.0_com.sega.sonic1px.apk",
+            "size": 51076782,
+            "md5sum": "5C88068E59620B9A822D945206805265",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "1E:08:A9:03:AE:F9:C3:A7:21:51:0B:64:EC:76:4D:01:D3:D0:94:EB:95:41:61:B6:25:44:EA:8F:18:7B:59:53",
+            "cert_subject": "C = US, ST = US, L = US, O = US, OU = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "https://archive.org/download/ouya_com.sega.sonic1px/ouya_icon.png",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/Sonic1.mp4"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/1.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/2.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/3.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/4.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic1px/5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-6d8d-4160-8178-6b79496149b2",
+        "name": "SEGA",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.sega.com/games/sonic-hedgehog",
+    "firstPublishedAt": "2013-05-16T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

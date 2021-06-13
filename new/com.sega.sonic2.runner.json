@@ -1,0 +1,74 @@
+{
+    "packageName": "com.sega.sonic2.runner",
+    "title": "Sonic 2",
+    "description": "One of the best selling SEGA games of all time - Sonic The Hedgehog 2 is now available for free on mobile! Rediscover SEGA’s super Sonic masterpiece!\n\nDr. Eggman is back to his old tricks, trying to find the seven Chaos Emeralds that will enable him to complete his ultimate weapon, the Death Egg. Only the triple threat of Sonic, Tails, and Knuckles can defeat him in this remaster from the team behind Sonic Mania!\n\nSonic The Hedgehog 2 joins the ever-increasing line-up of ‘SEGA Forever’, a treasure trove of free SEGA console classics brought to life on mobile for the first time!\n\nFEATURES\n- Twelve Badnik-infested zones to master, from underwater caverns to neon-lit casinos!\n- Compete online, take on the Time Attack mode, and the all-new Boss Attack mode\n- Play the secret Hidden Palace Zone stage that didn't make it into the original release!\n- Fight Dr. Eggman's creations, including the terrifying Mecha Sonic\n- Obtain all the Chaos Emeralds to transform into Super Sonic and Super Knuckles!\n\nMOBILE GAME FEATURES\n- PLAY FREE with ad-support or ad-free via In-App Purchase\n- SAVE YOUR GAMES – save your progress at any point in the game.\n- LEADERBOARDS – compete with the world for high scores\n- CONTROLLER SUPPORT: HID compatible controllers\n\nSONIC THE HEDGEHOG 2 TRIVIA\n- This is the most complete version of Sonic The Hedgehog 2 to date, complete with widescreen, 60FPS action, and a remastered soundtrack!\n- This was the first Sonic game to feature the Spin Dash move\n- The Master System version was the first game Tails appeared in, although he wasn’t playable!\n- Unlike the Mega Drive/Genesis original, you can now fly as Tails!\n\nSONIC THE HEDGEHOG 2 HISTORY\n- The game was originally released worldwide in November 1992\n- Original developer: Sonic Team & SEGA Technical Institute\n- Designer: Hirokazu Yasuhara\n- Lead Composer: Masato Nakamura\n\n- - - - -\nPrivacy Policy: http://www.sega.com/mprivacy\nTerms of Use: http://www.sega.com/terms\n\nGame apps are ad-supported and no in-app purchases are required to progress; ad-free play option available with in-app purchase.\n\nOther than for users known to be under 13, this game may include \"Interest Based Ads\" (please see http://www.sega.com/mprivacy#3IBADiscolure for more information)​ and may collect \"Precise Location Data\" ​(please see http://www.sega.com/mprivacy#5LocationDataDisclosure ​for more information)\n​\n© SEGA. All rights reserved. SEGA, the SEGA logo, Sonic The Hedgehog 2, SEGA Forever, and the SEGA Forever logo are registered trademarks or trademarks of SEGA Holdings Co., Ltd. or its affiliates.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Platformer",
+        "Repackaged"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 11,
+            "uuid": "51ce88b2-c82a-43ba-9e0e-b2f7b809ff8d",
+            "date": "2021-06-12T19:16:50Z",
+            "latest": true,
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/Sonic%202_1.0.1_com.sega.sonic2.runner.apk",
+            "size": 64485010,
+            "md5sum": "F09295689095A10F1EB58284B641302C",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "1E:08:A9:03:AE:F9:C3:A7:21:51:0B:64:EC:76:4D:01:D3:D0:94:EB:95:41:61:B6:25:44:EA:8F:18:7B:59:53",
+            "cert_subject": "C = US, ST = US, L = US, O = US, OU = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "https://archive.org/download/ouya_com.sega.sonic2.runner/ouya_icon.png",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/Sonic2.mp4"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/1.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/2.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/3.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/4.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/ouya_com.sega.sonic2.runner/5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-1488-4b9e-9901-765fa9a5bd45",
+        "name": "SEGA",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.sega.com/games/sonic-hedgehog2",
+    "firstPublishedAt": "2013-12-12T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
