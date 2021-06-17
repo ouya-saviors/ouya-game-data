@@ -1,7 +1,7 @@
 {
     "packageName": "de.x2041.games.gyrogun",
     "title": "Gyrogun",
-    "description": "Defend your space station in this 2.5D sidescrolling shooter with a ..twist.\n\nWorks on OUYA with controller. Early prototype, lots of bugs, not feature complete.\n\nMade in less than 7 days for OUYA Winter Game Jam 2020.",
+    "description": "Defend your space station in this 2.5D sidescrolling shooter with a ..twist.\n\nMade for OUYA! Post jam, pre alpha, many bugs fixed, still no boss fight.. yet! But now with autofire (self), mines (enemies), collectibles, more particle effects and better game feel in full HD.\n\nJam version made in less than 7 days for OUYA Winter Game Jam 2020.",
     "players": [
         1
     ],
@@ -15,10 +15,23 @@
             "versionCode": 3,
             "uuid": "cea3852e-e9b5-4fae-9800-b19841a700eb",
             "date": "2020-12-20T07:17:35Z",
-            "latest": true,
             "url": "http://ouya.cweiske.de/apks/2020-12-jam/de.x2041.games.gyrogun_v051.apk",
             "size": 13000858,
             "md5sum": "67aabaf30c2ebafa098c166878b676ca"
+        },
+        {
+            "name": "0.60",
+            "versionCode": 5,
+            "uuid": "b918a72f-0668-46f6-95c4-bdc09bc14a64",
+            "date": "2021-06-17T16:48:18z",
+            "latest": true,
+            "url": "http://statics.ouya.world/11111111-5b94-44e4-8933-fbaa8737fc05/de.x2041.games.gyrogun/Gyrogun_0.60_de.x2041.games.gyrogun.apk",
+            "size": 17743208,
+            "md5sum": "A7DF68CDDDDB4D2225161A1824A15D1E",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "84:DE:84:A1:17:CB:8B:17:CD:D7:4B:3D:D6:D8:7A:FD:EA:2D:FF:34:FC:CC:96:1D:AD:C5:0B:4C:0B:F7:38:5A",
+            "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/2020-12-jam/gyrogun.jpg",
