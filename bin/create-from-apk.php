@@ -16,7 +16,7 @@ if (!function_exists('uuid_create')) {
 }
 if ($argc < 2) {
     fwrite(STDERR, "Error: apk file missing\n");
-    fwrite(STDERR, "Usage: create-from-apk.php <apk> [urlBasePath] [images]\n");
+    fwrite(STDERR, "Usage: create-from-apk.php <apk> [urlBasePath] [images|.url|.txt]\n");
     exit(1);
 }
 array_shift($argv);
@@ -141,6 +141,14 @@ if ($packageName) {
 //screenshots as additional arguments to this script
 if ($argv > 2) {
     foreach ($argv as $image) {
+        if (substr($image, -4) == '.txt') {
+            $data['description'] = trim(file_get_contents($image));
+            continue;
+        } else if (substr($image, -4) == '.url') {
+            $data['website'] = trim(file_get_contents($image));
+            continue;
+        }
+
         $data['media'][] = [
             'type' => 'image',
             'url'  => $urlBasePath . basename($image),
