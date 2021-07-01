@@ -1,0 +1,49 @@
+{
+    "packageName": "de.x2041.games.mtrsgame",
+    "title": "MTRS",
+    "description": "An OUYA Anniversary Jam 2021 entry.\n\nWell.. only had very little time for this jam.. but I really wanted to test the twin stick code for Godot 2.1.4, so... I made something.. more an early tech demo than a full game, I know. More to get feedback, to see if this kind of game would appeal to anyone, really. Enjoy!\n\nMade for OUYA, plays with controller and both analogue sticks.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Dual Stick",
+        "2021 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "a68f6356-c4b2-4790-85c9-7ca5d9d36077",
+            "date": "2021-07-01T15:22:54Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/de.x2041.games.mtrsgame-1.apk",
+            "size": 11528941,
+            "md5sum": "f8364417edd4039cd4a3d56160418e9f",
+            "cert_fingerprint": "84:DE:84:A1:17:CB:8B:17:CD:D7:4B:3D:D6:D8:7A:FD:EA:2D:FF:34:FC:CC:96:1D:AD:C5:0B:4C:0B:F7:38:5A",
+            "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/mtrs1.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/mtrs2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5b94-44e4-8933-fbaa8737fc05",
+        "name": "zondarg",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://zondarg.itch.io/mtrs",
+    "firstPublishedAt": "2021-07-01T15:59:24Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

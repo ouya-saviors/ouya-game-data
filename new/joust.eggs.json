@@ -1,0 +1,46 @@
+{
+    "packageName": "joust.eggs",
+    "title": "joustingEggs",
+    "description": "A retake on the classic arcade game joust but in 3D with eggs. Use the joystick to move around. The idea is to bump into the other eggs being slightly higher and then they break releasing a smaller egg. There is also a 2 player coop mode if a second joystick is plugged in but 2 player mode is currently disabled\n\nBeta Version\n\n(joystickbuttons overview)\n\nMENU\na help\nb play\nx exit\n\nGAME\n\na toggles music\nx exits back to menu",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "2021 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1",
+            "versionCode": 1,
+            "uuid": "cf5b5fe6-4735-42f4-bc9d-7205292be9d6",
+            "date": "2021-07-01T15:24:09Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/joust.eggs/joust.eggs-1.apk",
+            "size": 10623500,
+            "md5sum": "5931fcced3f89fe921e8dac2f1674ca1",
+            "cert_fingerprint": "8D:E2:E9:7B:F0:13:ED:4E:ED:FB:09:4E:88:62:83:0E:4E:81:6B:FE:4B:4F:7C:67:B5:EF:5E:AF:0E:34:6A:20",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-06-jam/joust.eggs/joust1.jpg",
+    "media": [
+    ],
+    "developer": {
+        "uuid": "11111111-1b76-41e4-8874-ee07c6a8349f",
+        "name": "fubarpk",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://fubarpk.itch.io/jousting-eggs-ouya-anniversary-edition",
+    "firstPublishedAt": "2021-07-01T16:05:51Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

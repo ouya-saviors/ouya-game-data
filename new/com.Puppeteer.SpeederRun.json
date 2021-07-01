@@ -1,0 +1,73 @@
+{
+    "packageName": "com.Puppeteer.SpeederRun",
+    "title": "Bunny 3D Blast Bonus Stages",
+    "description": "Bunny 3D Blast Bonus Stages is a game parody of the Sega Saturn version of Sonic 3D Blast's 3D polygonal Bonus Stages.\n\nStarring Bunny the Rabbit!\n\nNew 6-27-2021 - OUYA Version Added! OUYA Controls:\n\nUse D-Pad or Joystick to Move\n\nO button to select\n\nA button to return to Menu after Game Over\n\n(note: may need to move d-pad / joystick a bit for highlight to show up for some menus)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2021 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "e0339607-9a1e-4077-ba3c-bf6c24a71108",
+            "date": "2021-07-01T15:22:35Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/com.Puppeteer.SpeederRun-1.apk",
+            "size": 19852101,
+            "md5sum": "e0e39f95f909deea480996663f7fe614",
+            "cert_fingerprint": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC",
+            "cert_subject": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny0.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny5.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny6.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny7.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.Puppeteer.SpeederRun/bunny8.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/bunny-3d-blast-bonus-stages",
+    "firstPublishedAt": "2021-07-01T15:41:30Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
