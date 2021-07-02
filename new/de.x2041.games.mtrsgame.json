@@ -15,10 +15,22 @@
             "versionCode": 1,
             "uuid": "a68f6356-c4b2-4790-85c9-7ca5d9d36077",
             "date": "2021-07-01T15:22:54Z",
-            "latest": true,
+            "latest": false,
             "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/de.x2041.games.mtrsgame-1.apk",
             "size": 11528941,
             "md5sum": "f8364417edd4039cd4a3d56160418e9f",
+            "cert_fingerprint": "84:DE:84:A1:17:CB:8B:17:CD:D7:4B:3D:D6:D8:7A:FD:EA:2D:FF:34:FC:CC:96:1D:AD:C5:0B:4C:0B:F7:38:5A",
+            "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
+        },
+        {
+            "name": "0.1.2",
+            "versionCode": 2,
+            "uuid": "b92db50e-6ca0-4487-b9b0-071e920b93a6",
+            "date": "2021-07-02T05:24:22Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/de.x2041.games.mtrsgame-2.apk",
+            "size": 11531984,
+            "md5sum": "7e5f93399971e0dfa91f273ce738560b",
             "cert_fingerprint": "84:DE:84:A1:17:CB:8B:17:CD:D7:4B:3D:D6:D8:7A:FD:EA:2D:FF:34:FC:CC:96:1D:AD:C5:0B:4C:0B:F7:38:5A",
             "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
         }
