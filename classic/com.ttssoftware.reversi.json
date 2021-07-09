@@ -3,7 +3,8 @@
     "title": "3D Reversi for OUYA",
     "description": "Play the classic Reversi game on your OUYA.  You can play against a friend or the computer at one of 3 difficulty levels.  You can also save snapshots of your game so you can load and play from that point again in the future.",
     "players": [
-        1
+        1,
+        2
     ],
     "genres": [
         "Puzzle/Trivia",
