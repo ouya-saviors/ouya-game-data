@@ -1,0 +1,65 @@
+{
+    "packageName": "com.sketche99.u5_ufe1_ouya",
+    "title": "Festive_Fighter",
+    "description": "Entry for the 2021 OUYA Winter Game Jam\n\nFestive Fighter is a Holiday Themed Fighting Game.\n\nHappy Holidays!",
+    "players": [
+        1, 2
+    ],
+    "genres": [
+        "Fight!",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "45ab796a-55e6-4400-a727-e88f4d40e800",
+            "date": "2021-12-27T09:49:37Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/com.sketche99.u5_ufe1_ouya-1.apk",
+            "size": 42823650,
+            "md5sum": "47b8212a48367a9d0689c2a5104c98c6",
+            "cert_fingerprint": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC",
+            "cert_subject": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/com.sketche99.u5_ufe1_ouya.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/festive-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/festive-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/festive-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/festive-4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.sketche99.u5_ufe1_ouya/festive-5.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/festive-fighter",
+    "firstPublishedAt": "2021-12-27T09:51:13Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
