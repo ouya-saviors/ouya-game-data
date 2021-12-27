@@ -1,0 +1,45 @@
+{
+    "packageName": "com.RobbysGames.ThreeDChristmasDefense",
+    "title": "3D Christmas Defense",
+    "description": "This is a wave defense game I made for the OUYA Winter Game Jam 2021.\n\nFeatures:\n- Infinite Waves\n- 4 Player although performance will be questionable\n- Christmas Music",
+    "players": [
+        1, 4
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "bdeda9b0-21f7-49b8-8714-b18b8161ea49",
+            "date": "2021-12-27T09:39:00Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.RobbysGames.ThreeDChristmasDefense/com.RobbysGames.ThreeDChristmasDefense-1.apk",
+            "size": 36304293,
+            "md5sum": "369c65936fb8a9b46831df8cb461ef85",
+            "cert_fingerprint": "0E:04:D2:CB:48:B1:FD:02:02:62:BE:D4:EF:2A:8B:74:99:A2:73:C9:3D:41:FC:D7:54:1C:2A:A7:91:E0:F2:7E",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.RobbysGames.ThreeDChristmasDefense/defense0.jpg",
+    "media": [
+    ],
+    "developer": {
+        "uuid": "00000000-75f5-4b50-a351-c04a5213ccb2",
+        "name": "Bobbert22",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://bobbert22.itch.io/3d-christmas-defense-for-ouya",
+    "firstPublishedAt": "2021-12-27T09:42:15Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
