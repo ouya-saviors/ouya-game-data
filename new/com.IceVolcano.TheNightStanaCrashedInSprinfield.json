@@ -1,0 +1,44 @@
+{
+    "packageName": "com.IceVolcano.TheNightStanaCrashedInSprinfield",
+    "title": "TheNightStanaCrashedInSprinfield",
+    "description": "It's Christmas night and Santa had a rough landing on his second to last stop\n\n(quite surprised that doesn't happen more often given how many landings he does)\n\nBut, the last of the presents must be delivered, and it's too late to mail them.  So you, Will the Elf, will have to deliver the last 12 gifts to the kids of Springfield.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "62da8b98-8613-496f-9f2a-6ef67e2fa2ee",
+            "date": "2021-12-27T10:35:28Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.IceVolcano.TheNightStanaCrashedInSprinfield/com.IceVolcano.TheNightStanaCrashedInSprinfield-1.apk",
+            "size": 58324089,
+            "md5sum": "8ff70b1de933bfd86a7dae8b53d4259d",
+            "cert_fingerprint": "2C:93:57:7B:58:9F:19:7D:EA:1D:7E:B3:01:3A:C6:08:BA:63:94:AC:5E:35:40:90:5D:63:1D:D7:09:15:C1:89",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        }
+    ],
+    "discover": "",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-b333-439a-bda1-ef734297792e",
+        "name": "RogueDogX",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://roguedogx.itch.io/the-night-santa-crashed-in-springfield",
+    "firstPublishedAt": "2021-12-27T10:36:27Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
