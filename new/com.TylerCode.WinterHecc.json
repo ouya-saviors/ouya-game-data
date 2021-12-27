@@ -1,0 +1,49 @@
+{
+    "packageName": "com.TylerCode.WinterHecc",
+    "title": "Projectile Hecc: Winter Wonderland",
+    "description": "Hello! Thanks for checking out my game. The good news is, I got something ready for the jam, the bad news is it's definitely not finished. However, updates have been aplenty!\n\nGet into the xmas sprit this year with Projectile Hecc: Winter Wonderland.\n\nSanta is preparing a world takeover this year, bringing tyranny instead of toys. Years and years of ingrate kids have finally set him off. He's making a list, he's checking it twice, and it doesn't matter if you've been naughty or nice.\n\nYou, well you don't care about any of that. One of those jingle jolly elves decided to take your hot chocolate and to say the least, it's cold. So, you're left with a taste for revenge.\n\nControls:\n- Right Stick: Aim\n- Left Stick: Movement\n- Right Trigger: Fire\n- Left Stick Click: Sprint",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.7.2",
+            "versionCode": 26,
+            "uuid": "e5606ea5-b58a-4aeb-a089-e6c02eb2ee72",
+            "date": "2021-12-27T10:04:01Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.TylerCode.WinterHecc/com.TylerCode.WinterHecc-26.apk",
+            "size": 22277519,
+            "md5sum": "6f1c7a8952f87480f920a5bdda81ca36",
+            "cert_fingerprint": "B2:28:22:26:77:C5:0C:8A:D1:3D:AD:E8:FF:B1:5C:F7:7D:D0:1A:15:FF:61:DA:8E:FE:2F:92:B6:47:66:53:0D",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.TylerCode.WinterHecc/com.TylerCode.WinterHecc.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.TylerCode.WinterHecc/winterhecc-1.png"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-38c9-41a0-aae4-7646cfc27735",
+        "name": "TylerCode",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://tylercode.itch.io/projectile-hecc-winter-wonderland",
+    "firstPublishedAt": "2021-12-27T10:06:08Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
