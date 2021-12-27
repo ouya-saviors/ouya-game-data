@@ -1,0 +1,57 @@
+{
+    "packageName": "com.newmoonfestival.warewolves",
+    "title": "Warewolves",
+    "description": "...",
+    "players": [
+        1, 2
+    ],
+    "genres": [
+        "Multiplayer",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "c3e05ed8-03ae-4946-a84f-f15319272658",
+            "date": "2021-12-27T10:39:46Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.newmoonfestival.warewolves/com.newmoonfestival.warewolves-1.apk",
+            "size": 9134264,
+            "md5sum": "443f486da9f34312b63ae9be538e2d03",
+            "cert_fingerprint": "E4:9A:2F:AE:2C:D3:9B:3F:C7:FD:74:4E:D8:3C:A2:58:68:0B:82:33:AC:E0:D6:8E:6A:B5:E5:91:D9:E7:F1:AB",
+            "cert_subject": "C = FI, ST = Unknown, L = Unknown, O = New Moon Festival, OU = Unknown, CN = Unknown"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.newmoonfestival.warewolves/com.newmoonfestival.warewolves.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.newmoonfestival.warewolves/warewolves-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.newmoonfestival.warewolves/warewolves-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.newmoonfestival.warewolves/warewolves-3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5dbd-468e-bfbe-51c8447b30b2",
+        "name": "newmoonfestival",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://newmoonfestival.itch.io/warewolves",
+    "firstPublishedAt": "2021-12-27T10:41:01Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
