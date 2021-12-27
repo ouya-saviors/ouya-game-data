@@ -1,0 +1,52 @@
+{
+    "packageName": "com.nachozgames.World_Forge_2D",
+    "title": "World Forge 2D",
+    "description": "",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1.0",
+            "versionCode": 1000,
+            "uuid": "c349a2db-fdf1-40b2-afd1-4f57a487d012",
+            "date": "2021-12-27T10:44:13Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.nachozgames.World_Forge_2D/com.nachozgames.World_Forge_2D-1000.apk",
+            "size": 2789275,
+            "md5sum": "0da04bb97b4bb6053e8fb0c733e4054f",
+            "cert_fingerprint": "DC:7C:20:42:FC:22:56:BC:F4:C9:48:C5:96:46:E0:7F:E9:55:6C:13:F9:72:21:FA:ED:FA:18:98:41:B6:54:9E",
+            "cert_subject": "C = GB, L = Auchtermuchty, O = Acme Ltd., OU = Development, CN = Privateer"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.nachozgames.World_Forge_2D/com.nachozgames.World_Forge_2D.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.nachozgames.World_Forge_2D/worldforge-1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.nachozgames.World_Forge_2D/worldforge-2.png"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-4323-4a42-bbc5-85e28bbc5e3b",
+        "name": "nachoz12341",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://nachoz12341.itch.io/world-forge-2d",
+    "firstPublishedAt": "2021-12-27T10:45:39Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
