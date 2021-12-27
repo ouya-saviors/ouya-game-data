@@ -1,0 +1,66 @@
+{
+    "packageName": "com.BlindsideGameStudios.SpaceChronicles",
+    "title": "Space Chronicles",
+    "description": "Space Chronicles is a game inspired by Among-Us for the OUYA.  Players exist on a space station working on various tasks whilst avoiding the Infected player.\n\nThis is a submission for the OUYA Winter game jam 2021\n\nDue to time and work constraints I didn't have much time to finish out the Infected player aspect but did manage to flesh out 2 tasks and up to 4 players can play.\n\nWhat i'll do is add up to 10 different types of tasks and online multiplayer support for the OUYA.  After it's all completed i'll do a PC Port.\n\nCurrent map is the Spaceport.\n\n\nHow to Play\n\nEach player is given an even amount of tasks. Your job is to go to each task and complete them.  You can find a name and description of the task at the top left.\n\nYou see that diamond with the numbers in it?  That is the distance to your task. The lower the number the closer to the task.",
+    "players": [
+        1, 2, 3, 4
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Multiplayer",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "69e44a77-1293-49e8-ba33-a34a26378086",
+            "date": "2021-12-27T10:15:26Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/com.BlindsideGameStudios.SpaceChronicles-1.apk",
+            "size": 98432854,
+            "md5sum": "30a8c9445a549efc3d82dc290f7dc28f",
+            "cert_fingerprint": "17:D0:FD:5E:07:2B:A7:D4:8D:30:65:88:EC:91:57:F9:F5:59:8C:BD:56:34:23:31:FD:8F:87:78:D9:51:ED:7C",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/com.BlindsideGameStudios.SpaceChronicles.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/space-1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/space-2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/space-3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/space-4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.BlindsideGameStudios.SpaceChronicles/space-5.png"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-9417-4d5c-b7f8-8b395b8cb13b",
+        "name": "Blindside Game Studio",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "Mhttps://wildcardstudios.itch.io/space-chronicles",
+    "firstPublishedAt": "2021-12-27T10:16:11Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
