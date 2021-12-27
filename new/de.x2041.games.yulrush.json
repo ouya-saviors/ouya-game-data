@@ -1,0 +1,53 @@
+{
+    "packageName": "de.x2041.games.yulrush",
+    "title": "YuletideRush",
+    "description": "HOHOHO! - Santa lost a lot of gifts from his sled, can you help him and pick them up again?\n\nInfinite runner with a Christmassy theme and simple, casual mechanics made in a few days for OUYA Winter Jam 2021. (And being a jam game way less polished and content rich than I would want it to be. But probably playable..I think..)\n\nControls with single (O) button to jump and left stick.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2021 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.5.1",
+            "versionCode": 5,
+            "uuid": "6b0df905-2d94-4ede-b766-3459dfd1e61e",
+            "date": "2021-12-27T10:48:28Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/de.x2041.games.yulrush/de.x2041.games.yulrush-5.apk",
+            "size": 11747354,
+            "md5sum": "aa7ef02a7abaecaed79503a34ed045c6",
+            "cert_fingerprint": "4B:96:58:57:71:08:19:C1:B4:9D:3D:93:C6:0B:36:B1:A4:6F:25:90:BA:BA:84:55:69:AF:F0:B5:49:78:C9:F0",
+            "cert_subject": "C = DE, ST = HE, L = Frankfurt, O = x2041Studios, OU = devTeam, CN = zondarg"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2021-12-jam/de.x2041.games.yulrush/de.x2041.games.yulrush.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/de.x2041.games.yulrush/yuletide-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-12-jam/de.x2041.games.yulrush/yuletide-2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5b94-44e4-8933-fbaa8737fc05",
+        "name": "zondarg",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://zondarg.itch.io/yuletiderush",
+    "firstPublishedAt": "2021-12-27T10:49:33Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
