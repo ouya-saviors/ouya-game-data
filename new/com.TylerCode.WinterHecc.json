@@ -15,10 +15,23 @@
             "versionCode": 26,
             "uuid": "e5606ea5-b58a-4aeb-a089-e6c02eb2ee72",
             "date": "2021-12-27T10:04:01Z",
-            "latest": true,
             "url": "http://ouya.cweiske.de/apks/2021-12-jam/com.TylerCode.WinterHecc/com.TylerCode.WinterHecc-26.apk",
             "size": 22277519,
             "md5sum": "6f1c7a8952f87480f920a5bdda81ca36",
+            "cert_fingerprint": "B2:28:22:26:77:C5:0C:8A:D1:3D:AD:E8:FF:B1:5C:F7:7D:D0:1A:15:FF:61:DA:8E:FE:2F:92:B6:47:66:53:0D",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        },
+        {
+            "name": "0.8.5",
+            "versionCode": 32,
+            "uuid": "325191f2-1762-46f8-a71b-dd76a83d6d8c",
+            "date": "2022-01-04T19:54:43z",
+            "latest": true,
+            "url": "http://statics.ouya.world/00000000-38c9-41a0-aae4-7646cfc27735/com.TylerCode.WinterHecc/Projectile%20Hecc-%20Winter%20Wonderland_0.8.5_com.TylerCode.WinterHecc.apk",
+            "size": 22338145,
+            "md5sum": "CA540C90514E702694DACEA300CE6D76",
+            "publicSize": 0,
+            "nativeSize": 0,
             "cert_fingerprint": "B2:28:22:26:77:C5:0C:8A:D1:3D:AD:E8:FF:B1:5C:F7:7D:D0:1A:15:FF:61:DA:8E:FE:2F:92:B6:47:66:53:0D",
             "cert_subject": "CN = Android Debug, O = Android, C = US"
         }
