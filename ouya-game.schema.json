@@ -476,6 +476,11 @@
                     "description": "Package name of original application (demo version if this is the unlocked version)"
                 }
             }
+        },
+
+        "notes": {
+            "description": "Technical notes on the game, e.g. how to get it working or which controllers work.",
+            "type": "string"
         }
     }
 }

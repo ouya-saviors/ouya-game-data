@@ -2,6 +2,7 @@
     "packageName": "com.square_enix.android_OUYA.FFIII",
     "title": "FINAL FANTASY III",
     "description": "Final Fantasy III -- now on OUYA! First released in 1990, Final Fantasy III was the first title in the Final Fantasy series to become a million-seller, establishing once and for all that Square Enix's classic RPG saga was here to stay. The full 3D remake released in 2006 duplicated the original's success, selling over a million copies worldwide. Final Fantasy III was a hallmark of innovation for the entire series, from the job system that lets characters change classes at any time to the ability to summon powerful creatures such as Shiva and Bahamut. When darkness falls and the land is robbed of light, four youths are chosen by the crystals to set forth on a journey to save the world.",
+    "notes": "Does not work when XPosed is enabled. Always stays in demo mode and does not unlock.",
     "players": [
         1
     ],
