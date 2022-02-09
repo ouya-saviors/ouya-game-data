@@ -1,0 +1,68 @@
+{
+    "packageName": "com.epsxe.ePSXe",
+    "title": "ePSXe",
+    "description": "ePSXe for Android is a Playstation (PSX and PSOne) emulator. It is a port of the famous ePSXe for PC.\r\n\r\nePSXe has very high compatibility (>99%), good speed and almost identical sound to the original.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Emulator"
+    ],
+    "releases": [
+        {
+            "name": "2.0.14",
+            "versionCode": 136,
+            "uuid": "7bc9e9d2-e410-451b-9604-281e5279e616",
+            "date": "2022-02-08T01:05:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/epsxe-ouya/ePSXe-v2.0.14-OUYA-signed.apk",
+            "size": 11498477,
+            "md5sum": "38f1eef9227c9d0a5323eceab9fbfe00",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "83:A9:86:4F:3E:EA:D3:AC:85:3E:9A:81:93:2C:70:AA:C5:AD:F3:89:58:DA:59:40:5D:32:A7:D2:38:1A:FE:22",
+            "cert_subject": "OU=OUYA SAVIOR, O=OUYA"
+        }
+    ],
+    "discover": "https://archive.org/download/epsxe-ouya/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/epsxe-ouya/epsxe-01.png",
+            "thumb": "https://archive.org/download/epsxe-ouya/epsxe-01-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/epsxe-ouya/epsxe-02.png",
+            "thumb": "https://archive.org/download/epsxe-ouya/epsxe-02-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/epsxe-ouya/epsxe-03.png",
+            "thumb": "https://archive.org/download/epsxe-ouya/epsxe-03-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/epsxe-ouya/epsxe-04.png",
+            "thumb": "https://archive.org/download/epsxe-ouya/epsxe-04-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-4b8b-46a8-8df7-ebc54473cf24",
+        "name": "ePSXeTeam",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.epsxe.com/index.php",
+    "firstPublishedAt": "2012-08-29T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2020 by ePSXeTeam.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
