@@ -1,8 +1,8 @@
 {
     "packageName": "org.schabi.newpipelegacy.preunified",
     "title": "NewPipe preunified",
-    "description": "The 'NewPipe preunified' is a YouTube front-end to Android versions 4.x.\r\nNewPipe doesn't use any Google framework library or YouTube API. It just parses the site to get required information. Therefore, this app can be used on devices without Google Services installed. Also, you do not need a YouTube account to use it and it is FLOSS.\r\n\r\nThis is a fork of the original 'NewPipe Legacy', which has not been updated since January 2021. This fork is called NewPipe preunified.",
-    "notes": "ATTENTION: To avoid problems, if you have the previous version called 'NewPipe Legacy' installed, first Go to 'MANAGE', 'SYSTEM', 'ADVANCED', choose 'Apps', so choose NewPipe Legacy, clear cache and data and finally uninstall it.",
+    "description": "The NewPipe preunified is a YouTube front-end to Android versions 4.x.\r\nNewPipe doesn't use any Google framework library or YouTube API. It just parses the site to get required information. Therefore, this app can be used on devices without Google Services installed. Also, you do not need a YouTube account to use it and it is FLOSS.\r\n\r\nThis is a fork of the original 'NewPipe Legacy', which has not been updated since January 2021. This fork is called NewPipe preunified.",
+    "notes": "ATTENTION: To avoid problems, if you have the previous version called 'NewPipe Legacy' installed, first go to 'MANAGE', 'SYSTEM', 'ADVANCED', choose 'Apps', so choose NewPipe Legacy, clear cache and data and finally uninstall it.",
     "players": [
         1
     ],
