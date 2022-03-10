@@ -2,6 +2,7 @@
     "packageName": "org.schabi.newpipelegacy",
     "title": "NewPipe Legacy",
     "description": "NewPipe Legacy Lightweight YouTube frontend for OS versions 4.x.\r\n\r\nATTENTION: If you installed the version 0.20.8 before, please uninstall and install again.\r\n\r\nIf you are at version 0.18.6 and want to update, you must uninstall that version first.\r\n\r\nNewPipe does not use any Google framework libraries, or the YouTube API. It only parses the website in order to gain the information it needs. Therefore this app can be used on devices without Google Services installed. Also, you don't need a YouTube account to use NewPipe, and it's FLOSS.",
+    "notes": "Google has limited the transfer/download speed to ~50 kbyte/second. This means that most videos will stutter.",
     "players": [
         1
     ],
