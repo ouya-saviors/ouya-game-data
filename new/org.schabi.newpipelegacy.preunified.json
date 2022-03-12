@@ -1,0 +1,61 @@
+{
+    "packageName": "org.schabi.newpipelegacy.preunified",
+    "title": "NewPipe preunified",
+    "description": "The NewPipe preunified is a YouTube front-end to Android versions 4.x.\r\nNewPipe doesn't use any Google framework library or YouTube API. It just parses the site to get required information. Therefore, this app can be used on devices without Google Services installed. Also, you do not need a YouTube account to use it and it is FLOSS.\r\n\r\nThis is a fork of the original 'NewPipe Legacy', which has not been updated since January 2021. This fork is called NewPipe preunified.",
+    "notes": "ATTENTION: To avoid problems, if you have the previous version called 'NewPipe Legacy' installed, first go to 'MANAGE', 'SYSTEM', 'ADVANCED', choose 'Apps', so choose NewPipe Legacy, clear cache and data and finally uninstall it.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Entertainment",
+        "Video"
+    ],
+    "releases": [
+        {
+            "name": "0.21.13",
+            "versionCode": 100,
+            "uuid": "b2b12c67-03c7-4c9f-963a-801ad5564f5d",
+            "date": "2022-02-11T00:36:00Z",
+            "latest": true,
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipepreunified-v0.21.13-OUYA-signed.apk",
+            "size": 7855388,
+            "md5sum": "7e3e69d54c4d039da0d956957ebea22a",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "8E:35:B6:10:84:BA:FA:94:83:1A:3C:93:8B:CA:27:A1:9A:5E:7E:F2:05:67:FE:DF:16:91:71:63:18:E3:16:C0",
+            "cert_subject": "C = BR, ST = Minas Gerais, L = Belo Horizonte, O = OUYA Saviors, OU = Discord, CN = Zachary Foxx"
+        }
+    ],
+    "discover": "https://archive.org/download/new-pipe-legacy-ouya-signed/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-01.jpg",
+            "thumb": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-thumb-01.jpg"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-02.jpg",
+            "thumb": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipeLegacy-thumb-02.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-c6cd-45cf-b0d2-611472f5a61c",
+        "name": "XiangRongLin",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://github.com/XiangRongLin/NewPipe-preuinified",
+    "firstPublishedAt": "2021-02-13T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2021 by XiangRongLin.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
