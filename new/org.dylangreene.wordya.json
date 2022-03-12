@@ -1,0 +1,56 @@
+{
+    "packageName": "org.dylangreene.wordya",
+    "title": "wordya",
+    "description": "The popular word-guessing game Worlde but on the OUYA!  Features a word of the day and offline play with no time limit on words.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "77629ff6-96ad-4604-8186-4f7f8aac5c59",
+            "date": "2022-03-12T17:15:45Z",
+            "latest": true,
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.wordya/org.dylangreene.wordya-1.apk",
+            "size": 9159614,
+            "md5sum": "db7be6f173f86924f28224b220cfcf4c",
+            "cert_fingerprint": "6A:73:1E:A8:7D:8E:17:21:7C:04:DA:19:BE:F6:EA:BD:10:68:D1:15:1F:32:4A:27:8F:9F:E3:DF:C1:08:C7:8E",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/org.dylangreene.wordya/org.dylangreene.wordya.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.wordya/1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.wordya/2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.wordya/3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2983-4aba-b2ac-1d6e3eca6098",
+        "name": "greeneman42",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://greeneman42.itch.io/wordya-wordle-for-ouya",
+    "firstPublishedAt": "2022-03-12T17:19:31Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
