@@ -1,9 +1,12 @@
 {
     "packageName": "com.scorpion.Mazerunner",
     "title": "Maze Runner",
-    "description": "Maze Runner\n\nConnect two gamepads, and play against your friend, because this game is two player only.\n\n- Use the d-pad or the left analog stick to move our player.\n\n- Press button O (or A) to make a smoke cloud. When your opponent walks through it, it will make him dizzy and slow. Best to drop it while he's right behind you.\n\n- Press button A (or B) to walk through walls.\n\n- After a win, the winner can be dizzy the next round.\n\nAfter each win, both players might get new items.\n\nYou can also set a handicap : this will make the better player more slow/dizzy, and he will receive less items.\n\nYou can also set the game to NOT use items.\n\nThere is also a scrambler : Can be set to NO, light, medium or heavy. This will scramble the maze after some random time.\n\nGame works on OUYA, Nvidia Shield TV and most android devices with gamepads\n\nHit F12 to change from window mode to full screen.",
+    "description": "Try to exit the maze first!\n\nThis game is for 1, 2, 3 or 4 players!\n\nYou can also add one CPU player  \n\nYou can also play alone against the CPU\n\nIt's best to invite some friends to play! :)\n\nThis game uses gamepads, but if you play alone against the CPU, you can also use a keyboard.\n\n- Use the d-pad or the left analog stick to move your player.\n\n- Press button O to make a smoke cloud. When your opponent walks through it, it will make him dizzy and slow. Best to drop it while he's right behind you.\n\n- Press button A to walk through walls.\n\n- After a win, the winner can be dizzy the next round.\n\n- After each win, players might get new items.\n\n- You can set the game to use items, or NOT to use items.\n\nThere is also a scrambler. This will scramble the maze after some random time. \n\nIf can be set to NO, +, ++ or +++. The higher the setting, the more often the maze will change.\n\nThe exit might also be moved.\n\nYou can also set a handicap for each player (1, 2, 3, 4, 5).\n\nSetting 1 means that the player is not very good, and will not receive much handicap.\n\nSetting 5 means that the player is good, and will get a huge handicap.\n\nA heavier handicap means that this player is dizzy more often, and receives fewer items.\n\nA handicap can be set for each player to even out the skill level of each player.\n\nGame works on OUYA, Nvidia Shield TV and most android devices with gamepads\n\nHit F12 to change from window mode to full screen.",
     "players": [
-        2
+        1,
+        2,
+        3,
+        4
     ],
     "genres": [
         "Arcade/Pinball",
@@ -15,10 +18,23 @@
             "versionCode": 2001000,
             "uuid": "0bf4b40e-30fa-41ff-a2f8-9e21dc529557",
             "date": "2021-07-01T15:23:25Z",
-            "latest": true,
             "url": "http://ouya.cweiske.de/apks/2021-06-jam/com.scorpion.Mazerunner/com.scorpion.Mazerunner-2001000.apk",
             "size": 9800555,
             "md5sum": "0566ae74fad1eebe18b09fe4bc9c0ed3",
+            "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
+            "name": "3.2.0",
+            "versionCode": 3002000,
+            "uuid": "6dc0364e-f80a-4112-8dbe-6f6c8b496745",
+            "date": "2022-04-15T10:00:11z",
+            "latest": true,
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Mazerunner/Maze%20Runner_3.2.0_com.scorpion.Mazerunner.apk",
+            "size": 9819503,
+            "md5sum": "80C1DA31151E538B3D17DB274AE3B9D6",
+            "publicSize": 0,
+            "nativeSize": 0,
             "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
             "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
         }
