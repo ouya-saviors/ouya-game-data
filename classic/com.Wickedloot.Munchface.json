@@ -2,6 +2,7 @@
     "packageName": "com.Wickedloot.Munchface",
     "title": "Munch Face",
     "description": "Munch Face is an arcade mash up, mixing together maze chase gameplay with other arcade favorites. Two gameplay modes are available, Arcade and Challenge, with over 100 levels for you to master. Acquire and upgrade weapons like the shockwave gun, bombs, and the portal gun to fight back against alien monsters and robotic sentries. ",
+    "notes": "Does not start because the \"www.mygamehud.com\" service is does not exist anymore. See https://github.com/ouya-saviors/ouya-game-data/issues/151",
     "players": [
         1
     ],
