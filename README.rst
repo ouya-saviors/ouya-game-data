@@ -139,3 +139,4 @@ Self-hosted OUYA servers:
 
 - https://github.com/cweiske/stouyapi/
 - https://gitlab.com/devirich/BrewyaOnOuya
+- https://github.com/cweiske/louyapi/
