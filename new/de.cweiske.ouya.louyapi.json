@@ -1,0 +1,39 @@
+{
+    "packageName": "de.cweiske.ouya.louyapi",
+    "title": "louyapi",
+    "description": "Local API server for the OUYA.\nWhen browsing the discover store on the OUYA, all meta data are delivered by the OUYA itself. The OUYA acts as an API server, so that it does not depend on an external service (except for images and .apk downloads)\n\nImages and apk files are downloaded from statics.ouya.world",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 3,
+            "uuid": "ff1d4791-fd63-4a91-9960-e65876000003",
+            "date": "2022-06-03T20:38:23Z",
+            "url": "http://ouya.cweiske.de/apks/de.cweiske.ouya.louyapi/louyapi-1.0.apk",
+            "size": 46160300,
+            "md5sum": "16bfb266de1e675bcff7077d38200bba",
+            "publicSize": 0,
+            "nativeSize": 0
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/de.cweiske.ouya.louyapi/discover.png",
+    "media": [],
+    "developer": {
+        "uuid": "e55aa066-3565-11ea-9513-f3f831557180",
+        "name": "Christian Weiske",
+        "supportEmail": "cweiske+ouya@cweiske.de",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://cweiske.de/tagebuch/louyapi.htm",
+    "firstPublishedAt": "2022-05-23T21:23:42Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false
+}
