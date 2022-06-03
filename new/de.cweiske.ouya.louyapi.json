@@ -23,7 +23,12 @@
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/de.cweiske.ouya.louyapi/discover.png",
-    "media": [],
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/de.cweiske.ouya.louyapi/sceenshot-1.png"
+        }
+    ],
     "developer": {
         "uuid": "e55aa066-3565-11ea-9513-f3f831557180",
         "name": "Christian Weiske",
