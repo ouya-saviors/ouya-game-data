@@ -1,0 +1,56 @@
+{
+    "packageName": "tv.Solirax.prototype.GapsBetweenArt",
+    "title": "Gaps Between Art",
+    "description": "A first person painting puzzle game\n\nGaps Between Art is a first person game prototype made in 8 days for the \"Kill Screen OUYA CREATE\" jam, where you solve puzzles by painting, originally for the OUYA console.",
+    "notes": "Not in the Play menu. Access it via Manage > Software",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "0.1a",
+            "versionCode": 0,
+            "uuid": "69fc6723-c839-4441-b25b-411ee696f483",
+            "date": "2022-07-01T17:47:23Z",
+            "url": "http://ouya.cweiske.de/apks/GapsBetweenArt/GapsBetweenArt_CREATE_final2.apk",
+            "size": 28621984,
+            "md5sum": "ed4103b33b0fab9ac1aa0287cd695cb0",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "latest": true
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/GapsBetweenArt/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/GapsBetweenArt/screenshot1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/GapsBetweenArt/screenshot2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "861f398a-2655-4352-a14d-2c242a4c92a8",
+        "name": "Frooxius",
+        "supportEmail": "tomas.mariancik@solirax.org",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.patreon.com/frooxius",
+    "firstPublishedAt": "2022-07-01T17:46:23Z",
+    "inAppPurchases": true,
+    "overview": "",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
