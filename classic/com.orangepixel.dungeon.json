@@ -2,6 +2,7 @@
     "packageName": "com.orangepixel.dungeon",
     "title": "Heroes of Loot",
     "description": "Our take on the rogue-like and dungeon-crawler, with a big wink to the classic Gauntlet, comes with optional 2 player coop mode!\r\n\r\nFeatures:\r\n- Unlimited amount of randomly generated dungeons\r\n- Random quests to reward you with extra loot, items, experience, and more\r\n- Four classes to choose from: Elf, Warrior, Wizard and Valkyrie \r\n- Secret areas\r\n- Special mysterious dungeon items\r\n- A large collection of loot and items to acquire and aid you in your quest\r\n- Always changing gameplay",
+    "notes": "Does not unlock by request of the developer",
     "players": [
         1,
         2
@@ -90,14 +91,5 @@
         "count": 720
     },
     "products": [
-        {
-            "promoted": true,
-            "identifier": "heroesofloot_full",
-            "name": "Heroes of Loot Full Version",
-            "description": "",
-            "localPrice": 2.99,
-            "originalPrice": 2.99,
-            "currency": "EUR"
-        }
     ]
 }
