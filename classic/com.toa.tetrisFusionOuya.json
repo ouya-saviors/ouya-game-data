@@ -2,6 +2,7 @@
     "packageName": "com.toa.tetrisFusionOuya",
     "title": "Tetris Battle Fusion",
     "description": "Tetris® Battle: Fusion is now available on OUYA!  Based on Tetris Battle, the hugely popular multiplayer game on Facebook that has been downloaded over 60 million times, Tetris Battle: Fusion introduces an all-new interactive adventure where you can battle your way through a series of challenging opponents and goals to become a Tetris Master!  Collect special Amulets that can be used to give you an added boost as you progress your way to victory.  Over 50 Amulets are ready to collect, and more will be added periodically. With the help of Amulets, don't change the way you play ... change the way you WIN!  The game also features a 1v1 local co-op mode that enables friends in the same room to go head-to-head using previously earned Amulets.\r\n\r\nPLEASE NOTE: This app contains in-app purchasing, which allows you to buy items within the app using actual money.",
+    "notes": "Does not work because the game server is down. See https://github.com/ouya-saviors/ouya-game-data/issues/154",
     "players": [
         1
     ],
