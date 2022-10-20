@@ -78,5 +78,17 @@
         "likeCount": 413,
         "average": 4.01,
         "count": 178
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "wizorbfull",
+            "name": "Unlock full game",
+            "description": "",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
