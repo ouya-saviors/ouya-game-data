@@ -77,5 +77,67 @@
         "likeCount": 606,
         "average": 3.86,
         "count": 745
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "sf_record_bundle_test",
+            "name": "???",
+            "description": "",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "sf_record_bundle_1",
+            "name": "10 records",
+            "description": "In-game money",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "sf_record_bundle_2",
+            "name": "40 records",
+            "description": "In-game money",
+            "localPrice": 6.99,
+            "originalPrice": 6.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "sf_record_bundle_3",
+            "name": "85 records",
+            "description": "In-game money",
+            "localPrice": 13.99,
+            "originalPrice": 13.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "sf_record_bundle_4",
+            "name": "160 records",
+            "description": "In-game money",
+            "localPrice": 24.99,
+            "originalPrice": 24.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "sf_record_bundle_5",
+            "name": "700 records",
+            "description": "In-game money",
+            "localPrice": 99.99,
+            "originalPrice": 99.99,
+            "currency": "EUR"
+        }
+    ]
 }
