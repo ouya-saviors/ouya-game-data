@@ -3,7 +3,10 @@
     "title": "Space Chronicles",
     "description": "Space Chronicles is a game inspired by Among-Us for the OUYA.  Players exist on a space station working on various tasks whilst avoiding the Infected player.\n\nThis is a submission for the OUYA Winter game jam 2021\n\nDue to time and work constraints I didn't have much time to finish out the Infected player aspect but did manage to flesh out 2 tasks and up to 4 players can play.\n\nWhat i'll do is add up to 10 different types of tasks and online multiplayer support for the OUYA.  After it's all completed i'll do a PC Port.\n\nCurrent map is the Spaceport.\n\n\nHow to Play\n\nEach player is given an even amount of tasks. Your job is to go to each task and complete them.  You can find a name and description of the task at the top left.\n\nYou see that diamond with the numbers in it?  That is the distance to your task. The lower the number the closer to the task.",
     "players": [
-        1, 2, 3, 4
+        1,
+        2,
+        3,
+        4
     ],
     "genres": [
         "Arcade/Pinball",

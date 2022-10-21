@@ -3,13 +3,16 @@
     "title": "Open Tyrian",
     "description": "Port of Open Tyrian from pleya's fork of Commander Genius and other LibSDL games.\n\nTyrian is an arcade-style vertical scrolling shooter. The story is set in 20,031 where you play as Trent Hawkins, a skilled fighter-pilot employed to fight MicroSol and save the galaxy.\n\nTyrian features a story mode, one- and two-player arcade modes,",
     "players": [
-        1,2
+        1,
+        2
     ],
     "genres": [
         "FPS/Shooter",
         "Retro"
     ],
-    "languages": ["en"],
+    "languages": [
+        "en"
+    ],
     "releases": [
         {
             "name": "2.1.25",
