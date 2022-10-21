@@ -163,11 +163,6 @@
                         "format": "date|datetime"
                     },
 
-                    "latest": {
-                        "description": "Marker for the latest release",
-                        "type": "boolean"
-                    },
-
                     "url": {
                         "description": ".apk download link",
                         "type": "string",
