@@ -139,6 +139,12 @@
                 "additionalProperties": false,
                 "properties": {
 
+                    "broken": {
+                        "description": "If the download URL does not work anymore",
+                        "type": "boolean",
+                        "default": false
+                    },
+
                     "name": {
                         "description": "Human readable version number",
                         "type": "string",
