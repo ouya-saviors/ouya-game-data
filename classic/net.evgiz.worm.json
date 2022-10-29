@@ -64,5 +64,17 @@
         "likeCount": 137,
         "average": 3.99,
         "count": 84
-    }
+    },
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": true,
+            "identifier": "hellworm",
+            "name": "Unlock full game",
+            "description": "",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
