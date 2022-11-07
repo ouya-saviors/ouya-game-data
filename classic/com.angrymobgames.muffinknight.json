@@ -85,6 +85,15 @@
         },
         {
             "promoted": false,
+            "identifier": "muffinknight_allcharacters",
+            "name": "Unlock All Characters",
+            "description": "You are about to unlock all characters in Muffin Knight",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
             "type": "consumable",
             "identifier": "muffinknight_5points",
             "name": "5 points",
