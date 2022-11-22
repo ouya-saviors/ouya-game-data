@@ -1,0 +1,56 @@
+{
+    "packageName": "org.dylangreene.drillgameouya",
+    "title": "Drill Game",
+    "description": "Santa needs help mining minerals at the North Pole but is short on elf miners.\n\nA clone of the flash game Motherload developed with Godot 2.1.4 for the OUYA console.\n\nOUYA Controls:\n\nLeft stick - Move/Fly/Drill\nY - Open inventory\nRight stick (click) - Pause\nLeft bumper - Use reserve fuel tank\nRight bumper - Use nanobots\nD-Pad up - Use dynamite\nD-Pad down - Use plastic explosive\nD-Pad left - Use quantum teleporter\nD-Pad right - Use matter transmitter",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "252d7c21-d0f5-4623-bb36-9eb23b9d9954",
+            "date": "2022-11-22T19:06:41Z",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.drillgameouya/org.dylangreene.drillgameouya-1.apk",
+            "size": 25113218,
+            "md5sum": "5c7e3a1821952d671ea6e2ad64a020b3",
+            "cert_subject": "C = , ST = , L = , O = , OU = , CN ="
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/org.dylangreene.drillgameouya/discover.png",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.drillgameouya/animation1.mp4"
+        },
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.drillgameouya/animation2.mp4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.dylangreene.drillgameouya/screen3.png"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2983-4aba-b2ac-1d6e3eca6098",
+        "name": "Dylan Greene",
+        "website": "https://www.dylandevs.com/",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://charminhands.itch.io/drill-game-ouya-edition",
+    "firstPublishedAt": "2022-11-22T19:09:44Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
