@@ -2,6 +2,7 @@
     "packageName": "com.krisattfield.icbm",
     "title": "The Inter-Continental Brink of Madness",
     "description": "\"The Inter-Continental Brink of Madness\" is a 2-4 player turn-based strategy board-like game that takes place in the not-too-distant future. The players are world leaders who are led by the inner circles of their societies to declare war on each other. So, they'd like nothing more than to control the other player nations. The goal of the game is not world domination, but just to dominate the other players.\n\nYou can engage in diplomacy, trade, building and conventional and nuclear warfare.\n\nThis game can be played in \"hotseat mode\" (1 controller, multiple players).\n\nIf you have comments, suggestions or bug reports, feel free to email the developer at krisa@icloud.com.\n\nNEW in version 1.5.5: Finally fixed the game so it works properly with Android TV 6.0.1 - The game no longer restarts when unwanted. When it goes down, it stays down! Added \"Exit\" button to the main menu.\nNEW in version 1.5.8: Pausing the game and pressing B on Serval and A on the OUYA controller will exit the game. Many numerous bug fixes - runs much better and smoother now.\nFINAL in version 1.6.0: Fixed offline-DRM. Fixed the limit of only 3 saves upon restarting the game -- you get the counter of saves set back to zero upon restarting the game.\n\nTHANK YOU, EVERYONE, FOR ALL THE FUN.",
+    "notes": "Version 1.6.0 does not work with the OUYA, so only 1.4.0 is served.",
     "players": [
         2,
         3,
@@ -15,6 +16,7 @@
     ],
     "releases": [
         {
+            "broken": true,
             "name": "1.6.0",
             "versionCode": 17,
             "uuid": "f42210b0-e51e-4e53-9d03-6c081134f444",
@@ -28,17 +30,6 @@
             "cert_subject": "C = 01, ST = Alberta, L = Calgary, O = Kris Attfield, OU = Individual, CN = Kristian Attfield"
         },
         {
-            "name": "1.3.2",
-            "versionCode": 9,
-            "uuid": "9f35f65a-1652-4e91-958b-a4536926e46c",
-            "date": "2016-05-23T00:00:00Z",
-            "url": "https://archive.org/download/ouya_com.krisattfield.icbm_1.3.2/The%20Inter-Continental%20Brink%20of%20Madness_1.3.2_com.krisattfield.icbm.apk",
-            "size": 29786264,
-            "md5sum": "345d684a57df0efd2d1396fd5b13d935",
-            "cert_fingerprint": "38:FE:1C:50:11:C9:42:D2:AC:A7:F6:DA:56:DD:B1:84:1B:CC:2E:97:D4:09:30:C4:B8:7B:9A:5C:E2:2E:2C:67",
-            "cert_subject": "C = 01, ST = Alberta, L = Calgary, O = Kris Attfield, OU = Individual, CN = Kristian Attfield"
-        },
-        {
             "name": "1.4.0",
             "versionCode": 11,
             "uuid": "d8ed4dd8-2fba-41c4-b3a0-5c6199f12f72",
@@ -46,6 +37,17 @@
             "url": "https://archive.org/download/ouya_com.krisattfield.icbm_1.4.0/The%20Inter-Continental%20Brink%20of%20Madness_1.4.0_com.krisattfield.icbm.apk",
             "size": 29817986,
             "md5sum": "64c1455ff2fc1dfe5c9fd577ab87e902",
+            "cert_fingerprint": "38:FE:1C:50:11:C9:42:D2:AC:A7:F6:DA:56:DD:B1:84:1B:CC:2E:97:D4:09:30:C4:B8:7B:9A:5C:E2:2E:2C:67",
+            "cert_subject": "C = 01, ST = Alberta, L = Calgary, O = Kris Attfield, OU = Individual, CN = Kristian Attfield"
+        },
+        {
+            "name": "1.3.2",
+            "versionCode": 9,
+            "uuid": "9f35f65a-1652-4e91-958b-a4536926e46c",
+            "date": "2016-05-23T00:00:00Z",
+            "url": "https://archive.org/download/ouya_com.krisattfield.icbm_1.3.2/The%20Inter-Continental%20Brink%20of%20Madness_1.3.2_com.krisattfield.icbm.apk",
+            "size": 29786264,
+            "md5sum": "345d684a57df0efd2d1396fd5b13d935",
             "cert_fingerprint": "38:FE:1C:50:11:C9:42:D2:AC:A7:F6:DA:56:DD:B1:84:1B:CC:2E:97:D4:09:30:C4:B8:7B:9A:5C:E2:2E:2C:67",
             "cert_subject": "C = 01, ST = Alberta, L = Calgary, O = Kris Attfield, OU = Individual, CN = Kristian Attfield"
         }
