@@ -1,7 +1,7 @@
 {
     "packageName": "de.cweiske.ouya.plainpurchases",
     "title": "OUYA plain purchases",
-    "description": "XPosed module that disables encryption on the OUYA.\nPurchase requests are sent unencrypted to the OUYA API server, and plain text receipt responses work.\n\nWill not appear as \"Installed\" on the OUYA!\n\nRequires XPosed framework (via XPosed installer)",
+    "description": "XPosed module that disables encryption on the OUYA.\nPurchase requests are sent unencrypted to the OUYA API server, and plain text receipt responses work.\n\nWill not appear as \"Installed\" on the OUYA!\n\nRequires XPosed framework (via XPosed installer)\n\nTo prevent \"Final Fantasy III\" from crashing, this module needs to be converted to a system app - see http://cweiske.de/tagebuch/ouya-final-fantasy3.htm#howto for instructions.",
     "players": [
         1
     ],
