@@ -1,0 +1,95 @@
+{
+    "packageName": "com.sketche99.dreamosouya",
+    "title": "DreamOS OUYA Port",
+    "description": "My attempt to back port the awesome Dream OS - Complete OS UI V1 from Unity 2019.4.31 to Unity 2019.2.21 for use on the OUYA game console.\n\nIt almost can pass as an actual OS on the OUYA!\n\nThe audio player and video players both work, a few things kinda broke in the downgrade but overall, its still very playable!\n\nAgain all credit goes to Michsky for making such an awesome asset and all I did was struggle to get it to work halfway decent on the OUYA!\n\nThe touchpad on the controller works ok, but a keyboard and mouse are recommended for true \"Computer OS\" experience!\n\nBuy Dream OS here: https://assetstore.unity.com/packages/tools/gui/dreamos-complete-os-ui-210589\n\nfor performance sake, please don't try to run every app at once, it will run slowly on the OUYA and may crash the app",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App",
+        "2022 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "a63991aa-7ca8-4a89-a64f-555a2db20b03",
+            "date": "2023-02-15T12:06:51Z",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/com.sketche99.dreamosouya-1.apk",
+            "size": 65602963,
+            "md5sum": "cdf63cffdb944998fbc068f99252faae",
+            "cert_subject": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/com.sketche99.dreamosouya.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-01.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-02.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-03.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-04.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-05.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-06.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-07.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-08.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-09.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-10.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-11.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-12.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.sketche99.dreamosouya/dreamos-13.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/dreamos-ouya-port",
+    "firstPublishedAt": "2023-02-15T12:07:18Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

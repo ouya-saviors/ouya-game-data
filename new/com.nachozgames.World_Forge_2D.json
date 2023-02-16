@@ -1,12 +1,13 @@
 {
     "packageName": "com.nachozgames.World_Forge_2D",
-    "title": "World Forge 2D",
-    "description": "",
+    "title": "World Forge",
+    "description": "Version 0.1.2 (2023-02-11):\n-Improved controller support\n-Parallax background\n-Background music\n-Better UI\n-Saving/Loading worlds",
     "players": [
         1
     ],
     "genres": [
-        "2021 Winter GameJam"
+        "2021 Winter GameJam",
+        "2022 Winter GameJam"
     ],
     "releases": [
         {
@@ -18,6 +19,16 @@
             "size": 2789275,
             "md5sum": "0da04bb97b4bb6053e8fb0c733e4054f",
             "cert_fingerprint": "DC:7C:20:42:FC:22:56:BC:F4:C9:48:C5:96:46:E0:7F:E9:55:6C:13:F9:72:21:FA:ED:FA:18:98:41:B6:54:9E",
+            "cert_subject": "C = GB, L = Auchtermuchty, O = Acme Ltd., OU = Development, CN = Privateer"
+        },
+        {
+            "name": "0.1.0-2023",
+            "versionCode": 1001,
+            "uuid": "a4696635-ccfd-4e20-af04-bdaa580021ed",
+            "date": "2023-02-15T11:58:17Z",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.nachozgames.World_Forge_2D/com.nachozgames.World_Forge_2D-1000.apk",
+            "size": 22644420,
+            "md5sum": "de99cfad6fc469f9bc0bf01db835070b",
             "cert_subject": "C = GB, L = Auchtermuchty, O = Acme Ltd., OU = Development, CN = Privateer"
         }
     ],

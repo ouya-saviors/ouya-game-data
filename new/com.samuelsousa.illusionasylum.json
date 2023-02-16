@@ -1,0 +1,64 @@
+{
+    "packageName": "com.samuelsousa.illusionasylum",
+    "title": "Illusion Asylum",
+    "description": "It was cold and dark...\nthe events leading up to that moment were blurry...\n\n...only he who can see through the devil's eye shall see the light.\n\n\nIllusion Asylum is a 1st person adventure where you explore a mysterious temple in order to find your way back home.\n\nThis version is only a prototype so features are very limited.\n\n\nFeatures:\n\n    A Couple of Puzzles;\n    Black & White pixelated 3D enviroment;\n    Music by Andrew Hind;\n    Controller support;\n\n\nCONTROLS \n\nKeyboard: W, A, S, D or Arrows, LMB or Spacebar;\nAlternatively, a controller's left and right joysticks and a button;\n\n\nCreated for the OUYA Winter Jam 2021 but did not run on it properly...",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Puzzle/Trivia",
+        "2022 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "be89831b-c3bd-4bf6-b138-839f354c61de",
+            "date": "2023-02-16T18:50:42Z",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/com.samuelsousa.illusionasylum-1000000.apk",
+            "size": 41407693,
+            "md5sum": "de065dc4357d17cdd28588d74442890f",
+            "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/com.samuelsousa.illusionasylum.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/01.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/02.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/03.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/04.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.samuelsousa.illusionasylum/05.png"
+        }
+    ],
+    "developer": {
+        "uuid": "121ea10a-540e-40ad-9e14-f490e3352fb8",
+        "name": "Samuel Sousa",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://samuelsousa.itch.io/illusion-asylum",
+    "firstPublishedAt": "2023-02-16T18:52:30Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

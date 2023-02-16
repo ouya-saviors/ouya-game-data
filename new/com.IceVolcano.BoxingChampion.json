@@ -1,0 +1,42 @@
+{
+    "packageName": "com.IceVolcano.BoxingChampion",
+    "title": "ChampionshipBoxing",
+    "description": "The start of a journey to become the Champion of Boxes!\n\nDidn't really get as finished as I would have liked during the jam.  but it should be enough of a peak to allow one to see what going on.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2022 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "c8dd7100-fe83-4f72-909e-540daa480f6c",
+            "date": "2023-02-15T12:03:20Z",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.IceVolcano.BoxingChampion/com.IceVolcano.BoxingChampion-1.apk",
+            "size": 21212200,
+            "md5sum": "b16205f2e3386f200859138c8aeb1193",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-02-jam/com.IceVolcano.BoxingChampion/bc.jpg",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-b333-439a-bda1-ef734297792e",
+        "name": "RogueDogX",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://roguedogx.itch.io/boxingchampion",
+    "firstPublishedAt": "2023-02-15T12:03:36Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
