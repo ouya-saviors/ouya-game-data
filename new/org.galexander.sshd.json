@@ -1,0 +1,63 @@
+{
+    "packageName": "org.galexander.sshd",
+    "title": "SimpleSSHD",
+    "description": "SimpleSSHD is a SSH server Android app, based on Dropbear, written by Greg Alexander.\r\n\r\nIt allows user access (user ssh).",
+    "notes": "This apk will be in the MAKE menu, under SOFTWARE.\r\n\r\nAccess the tutorial section on the forum to see some examples of use:\r\nhttps://ouya.world/t/using-ssh-to-access-and-command-ouya/784",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Utility"
+    ],
+    "releases": [
+        {
+            "name": "21",
+            "versionCode": 21,
+            "uuid": "298985c8-e5f0-4be6-96a6-c63ef4a55895",
+            "date": "2023-02-22T00:37:00Z",
+            "url": "https://archive.org/download/simplesshd-ouya-signed/SimpleSSHD-v21-OUYA-signed.apk",
+            "size": 2292218,
+            "md5sum": "1cd63632ff99ac52880063d04ae1f180",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "8E:35:B6:10:84:BA:FA:94:83:1A:3C:93:8B:CA:27:A1:9A:5E:7E:F2:05:67:FE:DF:16:91:71:63:18:E3:16:C0",
+            "cert_subject": "C = BR, ST = Minas Gerais, L = Belo Horizonte, O = OUYA Saviors, OU = Discord, CN = Zachary Foxx"
+        }
+    ],
+    "discover": "https://archive.org/download/simplesshd-ouya-signed/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://archive.org/download/simplesshd-ouya-signed/simplesshd_01.png",
+            "thumb": "https://archive.org/download/simplesshd-ouya-signed/simplesshd_01-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/simplesshd-ouya-signed/simplesshd_02.png",
+            "thumb": "https://archive.org/download/simplesshd-ouya-signed/simplesshd_02-thumb.png"
+        },
+        {
+            "type": "image",
+            "url": "https://archive.org/download/simplesshd-ouya-signed/simplesshd_03.png",
+            "thumb": "https://archive.org/download/simplesshd-ouya-signed/simplesshd_03-thumb.png"
+        }
+    ],
+    "developer": {
+        "uuid": "0e059bb2-b42d-435d-836e-6b024b057eb9",
+        "name": "Greg Alexander",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.galexander.org/software/simplesshd/",
+    "firstPublishedAt": "2019-08-17T00:00:00Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2019 by Greg Alexander.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0.0,
+        "count": 0
+    }
+}
