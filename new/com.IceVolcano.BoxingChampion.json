@@ -1,7 +1,7 @@
 {
     "packageName": "com.IceVolcano.BoxingChampion",
     "title": "ChampionshipBoxing",
-    "description": "The start of a journey to become the Champion of Boxes!\n\nDidn't really get as finished as I would have liked during the jam.  but it should be enough of a peak to allow one to see what going on.",
+    "description": "The start of a journey to become the Champion of Boxes!\n\nDidn't really get as finished as I would have liked during the jam.  but it should be enough of a peak to allow one to see what going on.\n\nv1.2 2023-02-24:\n- some sound\n- a dock\n-a windmill\n- an ending",
     "players": [
         1
     ],
@@ -18,6 +18,16 @@
             "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.IceVolcano.BoxingChampion/com.IceVolcano.BoxingChampion-1.apk",
             "size": 21212200,
             "md5sum": "b16205f2e3386f200859138c8aeb1193",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        },
+        {
+            "name": "1.2",
+            "versionCode": 2,
+            "uuid": "6ccfba76-f488-4195-adc1-fb76ce2c559d",
+            "date": "2023-02-24T06:06:00Z",
+            "url": "http://ouya.cweiske.de/apks/2023-02-jam/com.IceVolcano.BoxingChampion/com.IceVolcano.BoxingChampion-2.apk",
+            "size": 77919816,
+            "md5sum": "4b0ea9ed800c4dd72c12f1f1925a4300",
             "cert_subject": "CN = Android Debug, O = Android, C = US"
         }
     ],
