@@ -87,5 +87,16 @@
         "likeCount": 532,
         "average": 3.8,
         "count": 124
-    }
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "1-04",
+            "name": "Rush Bros whole game unlock",
+            "description": "Unlock all levels",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
