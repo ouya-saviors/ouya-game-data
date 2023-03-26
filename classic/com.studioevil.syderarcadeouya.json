@@ -69,5 +69,18 @@
         "likeCount": 434,
         "average": 3.98,
         "count": 211
-    }
+    },
+    
+    "products": [
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "syderarcade_fullgame",
+            "name": "Unlock full game",
+            "description": "Unlock to play all the fases",
+            "localPrice": 0.99,
+            "originalPrice": 0.00,
+            "currency": "EUR"
+        }
+    ]
 }
