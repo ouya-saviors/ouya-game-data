@@ -1,0 +1,17 @@
+
+unfortunately both the maintainers of the original NewPipe Legacy and the
+NewPipe-preuinified no longer supports Android versions below 5.0. The app no ​​longer loads or plays videos.
+
+        {
+            "name": "0.21.13",
+            "versionCode": 100,
+            "uuid": "b2b12c67-03c7-4c9f-963a-801ad5564f5d",
+            "date": "2022-02-11T00:36:00Z",
+            "url": "https://archive.org/download/new-pipe-legacy-ouya-signed/NewPipepreunified-v0.21.13-OUYA-signed.apk",
+            "size": 7855388,
+            "md5sum": "7e3e69d54c4d039da0d956957ebea22a",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "8E:35:B6:10:84:BA:FA:94:83:1A:3C:93:8B:CA:27:A1:9A:5E:7E:F2:05:67:FE:DF:16:91:71:63:18:E3:16:C0",
+            "cert_subject": "C = BR, ST = Minas Gerais, L = Belo Horizonte, O = OUYA Saviors, OU = Discord, CN = Zachary Foxx"
+        }
