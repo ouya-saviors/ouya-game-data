@@ -20,6 +20,19 @@
             "md5sum": "761abc146066e6fdf80fd3bd0d3b9499",
             "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
             "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
+        },
+        {
+            "name": "1.20.21",
+            "versionCode": 1020021,
+            "uuid": "2370a43b-e657-4573-bbcc-2e0c0ea5d9d3",
+            "date": "2023-04-24T11:15:32z",
+            "url": "http://statics.ouya.world/121ea10a-540e-40ad-9e14-f490e3352fb8/com.samuelsousa.dodgespree/Dodge%20Spree_1.20.21_com.samuelsousa.dodgespree.apk",
+            "size": 12693696,
+            "md5sum": "F18B4E2A1C9133D5C4BD2D5D198D132D",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "22:45:F6:69:82:AC:C5:23:B9:1F:30:F9:BD:2D:1E:7E:55:C1:F6:4E:39:A1:D3:54:5B:E3:E6:E2:1C:28:C6:01",
+            "cert_subject": "C = PT, L = Portugal, O = Samuel Sousa, OU = Development, CN = Samuel"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/2021-06-jam/com.samuelsousa.dodgespree/dodge0.png",
