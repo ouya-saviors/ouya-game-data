@@ -11,6 +11,16 @@
     ],
     "releases": [
         {
+            "name": "3.1.0",
+            "versionCode": 3001000,
+            "uuid": "34906726-235f-4d3e-aac8-42735fd4c8af",
+            "date": "2023-06-25T09:10:22Z",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.MouseTraP/com.scorpion.MouseTraP-3001000.apk",
+            "size": 11084983,
+            "md5sum": "4d769deecd75b7ed412807c7484f9ee2",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
             "name": "2.5.2017",
             "versionCode": 20052017,
             "uuid": "63a6b1ca-2d46-44bf-b9a4-094fdd52846c",

@@ -11,6 +11,16 @@
     ],
     "releases": [
         {
+            "name": "5.0.0",
+            "versionCode": 5000000,
+            "uuid": "1188231b-1e50-41f3-8d82-c2a76e6105b6",
+            "date": "2023-06-25T09:04:22Z",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Oilswell/com.scorpion.Oilswell-5000000.apk",
+            "size": 11194683,
+            "md5sum": "79ab4d4086860d81cfbca543309ab8be",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
             "name": "4.0.2020",
             "versionCode": 40002020,
             "uuid": "fcc69d79-416f-4878-bd4f-43617fcfe348",

@@ -11,6 +11,16 @@
     ],
     "releases": [
         {
+            "name": "2.5.0",
+            "versionCode": 2005000,
+            "uuid": "ef97da3b-3322-4db5-b6d5-7efbff46b264",
+            "date": "2023-06-25T09:05:23Z",
+            "url": "http://ouya.cweiske.de/apks/2020-12-jam/com.scorpion.shootout-2005000.apk",
+            "size": 10131443,
+            "md5sum": "1a7ceda84e112989f2c7d004e20d4023",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
             "name": "2.1.2020",
             "versionCode": 20012020,
             "uuid": "c4ede743-8fbe-433f-bfca-650f2c4566a9",

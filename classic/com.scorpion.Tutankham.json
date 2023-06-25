@@ -11,6 +11,16 @@
     ],
     "releases": [
         {
+            "name": "6.1.0",
+            "versionCode": 6001000,
+            "uuid": "c8462b09-4a7e-4815-a752-c6c557e05101",
+            "date": "2023-06-25T09:07:02Z",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Tutankham/com.scorpion.Tutankham-6001000.apk",
+            "size": 11184255,
+            "md5sum": "0c8be277077dd977242e10d47d96895d",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
             "name": "3.5.2015",
             "versionCode": 30052015,
             "uuid": "25c856ce-6974-4731-a454-97b7b0c7bdf5",

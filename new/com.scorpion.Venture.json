@@ -44,6 +44,16 @@
             "nativeSize": 0,
             "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
             "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
+            "name": "16.0.0",
+            "versionCode": 16000000,
+            "uuid": "616a9cf5-0a90-4f45-9710-2b134573d35b",
+            "date": "2023-06-25T09:05:47Z",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.Venture/com.scorpion.Venture-16000000.apk",
+            "size": 13368743,
+            "md5sum": "cc2b64d47322a4c93a9ea4ece9e049c6",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/com.scorpion.Venture/com.scorpion.Venture.png",

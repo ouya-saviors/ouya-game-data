@@ -11,6 +11,16 @@
     ],
     "releases": [
         {
+            "name": "3.0.0",
+            "versionCode": 3000000,
+            "uuid": "f7315235-4102-4a2c-99b8-57f97f64e765",
+            "date": "2023-06-25T09:10:51Z",
+            "url": "http://ouya.cweiske.de/apks/com.scorpion.HomzChallenge/com.scorpion.HomzChallenge-3000000.apk",
+            "size": 12702563,
+            "md5sum": "020e7aadd0cefe79531124aabd423adb",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        },
+        {
             "name": "2.3.2020",
             "versionCode": 20032020,
             "uuid": "7e8efc88-a0fa-4d43-809b-fc0cd7710a7a",
