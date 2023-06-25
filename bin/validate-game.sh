@@ -12,5 +12,4 @@ if [ ! -f "$1" ]; then
     exit 2
 fi
 
-validate-json "$1" ouya-game.schema.json
-jsonschema -i "$1" ouya-game.schema.json
+check-jsonschema --schemafile ouya-game.schema.json "$1"

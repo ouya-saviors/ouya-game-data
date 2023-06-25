@@ -3,17 +3,19 @@
 # in all the folders listed in the folders file
 set -e
 foldersToCheck=$(paste -d '|' -s folders)
+#validate recently changed first
+iparams=""
 for gamefile in `git diff --name-status HEAD~1 | grep -v -e "^D" | sed -r 's/^.\s+//' | grep -E "^$foldersToCheck"`; do
-    echo "$gamefile"
-    validate-json "$gamefile" ouya-game.schema.json
+    iparams="$iparams $gamefile"
 done
+if [ -n "$iparams" ]; then
+   check-jsonschema --schemafile ouya-game.schema.json $iparams
+fi
 
 for folder in `cat folders`; do
     iparams=""
     for gamefile in $folder/*.json; do
-        iparams="$iparams -i $gamefile"
-        echo "$gamefile"
-        validate-json "$gamefile" ouya-game.schema.json
+        iparams="$iparams $gamefile"
     done
-    jsonschema $iparams ouya-game.schema.json
+    check-jsonschema --schemafile ouya-game.schema.json $iparams
 done
