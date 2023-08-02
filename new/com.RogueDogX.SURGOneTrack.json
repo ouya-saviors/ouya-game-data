@@ -1,0 +1,47 @@
+{
+    "packageName": "com.RogueDogX.SURGOneTrack",
+    "title": "S.U.R.G. One Track",
+    "description": "testing for OUYA game.  is now ready for mild public consumption.\n\n\nIf you don't have an OUYA, this game will not work.\n\n\nLatest updates include...\n\n-instructions page\n\n-control in menu via left stick\n\n-ability to reset car\n\n-speed gates\n\n-changing track\n\n-minor car tuning adjustments",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "2023 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.9",
+            "versionCode": 1,
+            "uuid": "c6d9c685-6cbf-484e-8b1a-d25e3148fea2",
+            "date": "2023-08-02T09:02:06Z",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.RogueDogX.SURGOneTrack/com.RogueDogX.SURGOneTrack-1.apk",
+            "size": 29925887,
+            "md5sum": "882426aeed7fcd0bf99333b895c27440",
+            "cert_subject": "CN = Android Debug, O = Android, C = US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-07-jam/com.RogueDogX.SURGOneTrack/com.RogueDogX.SURGOneTrack.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.RogueDogX.SURGOneTrack/1.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-b333-439a-bda1-ef734297792e",
+        "name": "RogueDogX",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://roguedogx.itch.io/surg-ouya",
+    "firstPublishedAt": "2023-08-02T09:03:28Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

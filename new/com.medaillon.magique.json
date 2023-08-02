@@ -1,0 +1,46 @@
+{
+    "packageName": "com.medaillon.magique",
+    "title": "The Magic Locket",
+    "description": "The game was developped 9 years ago by elementray school kids.I did the english translation. I still need to fix some translation errors.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2023 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "9bba8d13-e4f3-4d6e-bf61-97ac35e1960c",
+            "date": "2023-08-02T09:07:38Z",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.medaillon.magique/com.medaillon.magique-1.apk",
+            "size": 59132993,
+            "md5sum": "e0347fdebac9fbe9945405606e4ce2da",
+            "cert_subject": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-07-jam/com.medaillon.magique/com.medaillon.magique.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.medaillon.magique/1.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-61e3-4da9-873e-5eedc2244e75",
+        "name": "ryo89",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://ryo89.itch.io/the-magic-locket",
+    "firstPublishedAt": "2023-08-02T09:07:51Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

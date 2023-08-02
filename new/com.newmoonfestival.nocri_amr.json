@@ -1,0 +1,59 @@
+{
+    "packageName": "com.newmoonfestival.nocri_amr",
+    "title": "Labyrinth of Nocri - A Mysterious Realm",
+    "description": "Babyrinth of Nocri was made in about two weeks for OUYA Winter Game Jam 2020.\n\nA card battle spin-off \"A Mysterious Realm\" was made for OUYA 10th anniversary Game Jam 2023.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2023 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "40fa4aa7-5723-4532-a244-c6b2697746c5",
+            "date": "2023-08-02T08:54:27Z",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.newmoonfestival.nocri_amr/com.newmoonfestival.nocri_amr-1.apk",
+            "size": 24821276,
+            "md5sum": "3f13491b4c436e806ec2b5f1c74ed9c3",
+            "cert_subject": "C = FI, ST = Unknown, L = Unknown, O = New Moon Festival, OU = Unknown, CN = Unknown"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-07-jam/com.newmoonfestival.nocri_amr/com.newmoonfestival.nocri_amr.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.newmoonfestival.nocri_amr/1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.newmoonfestival.nocri_amr/2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.newmoonfestival.nocri_amr/3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.newmoonfestival.nocri_amr/4.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5dbd-468e-bfbe-51c8447b30b2",
+        "name": "newmoonfestival",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://newmoonfestival.itch.io/labyrinth-of-nocri",
+    "firstPublishedAt": "2023-08-02T08:54:44Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

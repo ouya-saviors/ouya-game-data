@@ -1,0 +1,41 @@
+{
+    "packageName": "com.deskink.spellbound",
+    "title": "Spellbound",
+    "description": "Cast spells at enemies while collecting as many spellbooks as you can!\n\n\nSpellbound was designed and built for the OUYA 10th Anniversary Game Jam 2023. Development began on July 1st, 2023 and uses all original art, music, and sound.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2023 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "21c43a7c-a0d6-4607-b085-9d827ad1e263",
+            "date": "2023-08-02T08:59:04Z",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.deskink.spellbound/com.deskink.spellbound-1.apk",
+            "size": 51156144,
+            "md5sum": "0f322cc113b41d87a448acc7c7b0995e",
+            "cert_subject": "O = DESK INK"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-07-jam/com.deskink.spellbound/com.deskink.spellbound.jpg",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-9bcd-4484-9572-7e63c2e05546",
+        "name": "Desk Ink",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://desk-ink.itch.io/spellbound",
+    "firstPublishedAt": "2023-08-02T08:59:17Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "packageName": "com.sketche99.invectouyatest",
+    "title": "Invector Free OUYA Port Test",
+    "description": "An OUYA port of the free Invevtor third person controller.\n\nNot much  of a game, but a proof of concept of possibly making games with Invectorthat may be playable on Ouya.\n\ncontrols:\n\no button - jump\n\n a buton - hold to run\n\nleft stick + dpad - move player\n\n right stick - move player camera",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2023 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "e3f29859-a6a0-412f-8d1d-c211ec8cef12",
+            "date": "2023-08-02T08:49:41Z",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/com.sketche99.invectouyatest-1.apk",
+            "size": 43638520,
+            "md5sum": "14b529ea2d124f9b24f77df208cdbe2e",
+            "cert_subject": "C = US, ST = California, L = Mountain View, O = Android, OU = Android, CN = Android, emailAddress = android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/com.sketche99.invectouyatest.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.sketche99.invectouyatest/5.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/invector-free-ouya-port-test",
+    "firstPublishedAt": "2023-08-02T08:50:18Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

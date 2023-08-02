@@ -1,0 +1,51 @@
+{
+    "packageName": "com.grayslicergames.echoesoflilystory",
+    "title": "Echoes of Lily: A Short Story",
+    "description": "Return to your past and relive the memories that you made so long ago.\n\nEchoes of Lily is a short story interactive fiction game and only a few minutes long. I hope to expand the game in the future.\n\n\nA very special thanks to Demiero, who composed the credits theme in less than an hour!\n\n\nControls (Desktop):\n\nL and R Arrows: Move left and right\n\nUP Arrow: Go upstairs (when in front of stair entrance)\n\nDOWN Arrow: Go downstairs (when in front of stair entrance)\n\nX: Interact\n\nZ: Jump\n\nSPACE: Progress character dialogue/Start Game\n\nESCAPE: Exit game\n\n\nControls (OUYA):\n\nLeft Stick: Move left and right\n\nDPad Up: Go upstairs (when in front of stair entrance)\n\nDPad Down: Go downstairs (when in front of stair entrance)\n\nU Button: Interact\n\nO Button: Jump Y Button: Progress character dialogue/Start Game",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "2023 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "63b8d032-05ef-4fc3-a033-18e8c4be064b",
+            "date": "2023-08-02T08:29:06Z",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.grayslicergames.echoesoflilystory/com.grayslicergames.echoesoflilystory-1.apk",
+            "size": 7833618,
+            "md5sum": "987aac5959d13688cd25528eed1002b8",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2023-07-jam/com.grayslicergames.echoesoflilystory/com.grayslicergames.echoesoflilystory.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.grayslicergames.echoesoflilystory/1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2023-07-jam/com.grayslicergames.echoesoflilystory/2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-9dce-4a44-8765-29c194668e0b",
+        "name": "Toby Davis",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://grayslicer09.itch.io/echoes-of-lily-a-short-story",
+    "firstPublishedAt": "2023-08-02T08:30:36Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

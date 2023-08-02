@@ -1,13 +1,14 @@
 {
     "packageName": "de.x2041.games.mtrsgame",
-    "title": "MTRS",
-    "description": "An OUYA Anniversary Jam 2021 entry.\n\nWell.. only had very little time for this jam.. but I really wanted to test the twin stick code for Godot 2.1.4, so... I made something.. more an early tech demo than a full game, I know. More to get feedback, to see if this kind of game would appeal to anyone, really. Enjoy!\n\nMade for OUYA, plays with controller and both analogue sticks.\n\nUpdate: Post jam version with two playable levels.",
+    "title": "The Mechanoid Tomb (MTRS)",
+    "description": "An OUYA Anniversary Jam 2021 entry. (First post jam version)\nAnd also an OUYA 10th Anniversery Jam 2023 entry (improved post jam version V0.60)\n\nFinally - after ten years, the great tomb of The Artifex has been discovered. But many mechanical creatures and traps are hidden between the walls of this underground complex. And with what arcane forces has the creator meddled to conserve his mind? Send in your small, remote controlled robot unit and try to solve the mysteries of the Artifex!\n\nWell.. only had very little time for the original version.. but I really wanted to test the twin stick code for Godot 2.1.4, so... I made something.. more an early tech demo than a full game, I know. Also more to get feedback, to see if this kind of game would appeal to anyone, really.  For the updated 0.60 version I added a bit of backstory and VN stuff for motivation, also an orchestral soundtrack and a proper intro, weird computer generated voice acting with eastern european accent and some general amount of polishing. Still, the movement feels a bit drifty and stiff, and there is room for a lot of content too.\n\nCurrently still two small complete levels to play and many improvements compared to the original jam prototype. Still working on: More content, more levels, completing the story arc, plot twists, better models,..\n\nA tanky twinstick shooter plus steampunky maze crawler crossover made for OUYA, plays with controller and both analog sticks.  Not sure what will happen when you install this on different Android hardware with controller attached. :) (but it might even work)",
     "players": [
         1
     ],
     "genres": [
         "Dual Stick",
-        "2021 Anniversary GameJam"
+        "2021 Anniversary GameJam",
+        "2023 Anniversary GameJam"
     ],
     "releases": [
         {
@@ -57,13 +58,27 @@
             "nativeSize": 0,
             "cert_fingerprint": "84:DE:84:A1:17:CB:8B:17:CD:D7:4B:3D:D6:D8:7A:FD:EA:2D:FF:34:FC:CC:96:1D:AD:C5:0B:4C:0B:F7:38:5A",
             "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
+        },
+        {
+            "name": "0.60",
+            "versionCode": 8,
+            "uuid": "7d0e3a0b-dc69-48f2-a797-6038b13f00a0",
+            "date": "2023-08-02T09:13:02Z",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/de.x2041.games.mtrsgame-8.apk",
+            "size": 23890616,
+            "md5sum": "f90538195f836417807e379274a6c2b4",
+            "cert_subject": "C = DE, ST = HE, L = somecity, O = x2041Studios, OU = devTeam, CN = zondarg"
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/mtrs1.png",
     "media": [
         {
             "type": "image",
-            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/mtrs2.jpg"
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2021-06-jam/de.x2041.games.mtrsgame/2.jpg"
         }
     ],
     "developer": {
