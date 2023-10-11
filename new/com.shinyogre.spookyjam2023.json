@@ -1,0 +1,42 @@
+{
+    "packageName": "com.shinyogre.spookyjam2023",
+    "title": "I Dreamt of a Well",
+    "description": "In the deepest darkness strange things were possible...",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Meditative"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 30,
+            "uuid": "50ed7dbf-bcf0-4594-85a6-4b62aaab755b",
+            "date": "2023-10-09T05:34:20Z",
+            "url": "http://ouya.cweiske.de/apks/shinyogre/com.shinyogre.spookyjam2023/com.shinyogre.spookyjam2023-30.apk",
+            "size": 13483624,
+            "md5sum": "6dcd92bce959bcd49a3959138e63d528",
+            "cert_subject": "CN = Glenn Essex"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/shinyogre/com.shinyogre.spookyjam2023/discover.jpg",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-6f8f-4fe7-a3fe-bd4c53b642dc",
+        "name": "ShinyOgre",
+        "website": "https://shinyogre.com/",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2023-10-11T17:36:27Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
