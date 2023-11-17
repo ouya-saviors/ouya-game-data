@@ -1,0 +1,75 @@
+{
+    "packageName": "com.scorpion.Combat",
+    "title": "Combat",
+    "description": "A game based on the Atari 2600 game 'Combat', where you play a tank, and try to shoot your opponent!\nThis remake contains more levels, a level editor to make your own levels, and a lot of extras!\nAlso included are a couple of level maps from the Atari 2600 hack 'Combat Redux'.\n\nTHIS GAME IS TWO PLAYER ONLY!\n\nCONTROLS\n- 'UP' to move your tank forward.\n- 'DOWN' to move your tank backwards (moving backwards must be enabled in option menu).\n- 'LEFT' to rotate your tank anti-clockwise.\n- 'RIGHT' to rotate your tank clockwise.\n- Press button O to shoot a bullit.\n- Use left trigger to save a screen shot.\n\nBULLITS\nYou can choose between different kind of bullits:\n- Normal bullits : they will fly in a straight line.\n- Guided bullits : when fired, you can steer them with LEFT and RIGHT.\n- Pong bullits : they will bounce of walls.\n- Ricochet bullits : they will bounce of walls like pong bullits, however, it must bounce at least once before it can destroy a tank.\n \nWhen a bullit is fired, it will travel a while before it disappears.\n\nMINES\nThere are also mines.\nDon't run your tank over it, it will explode.\nYou can shoot a mine from a distance, where it can start a chain reaction when other mines are near. \nYour tank will explode if you are too near the explosion.\n\nPLAY FIELDS\nDifferent play fields can be chosen.\nYou can also make your own playfield!\n\nINVISIBLE TANKS\nYou can also play with invisible tanks.\nTanks will become visible for a short time when you fire your cannon.\n\nLEVEL EDITOR\nThis game also contains a level editor, so you can make your own levels!\nIn options screen hit the U button to go the editor.\nIn the editor, use the left and right shoulder button to go through the edit levels\nUse button Y to use the level in the game (\"USE PLAYFIELD\"), so it will show up in the level set.\nAlso, this new version contains a lot of options to set, including random options for more fun!\n\nGAME OPTIONS\nA lot of different options can be set. A lot of options can also be set to random. It will show a '?' in that case.\n- First to win : how many game for a win .\n- Playfield : choose your play field to play on. This can also be your own level (e.g. E01, E03, etc).\n- Bullits : choose your bullit type.\n- Mines : no mines, a few mines, many mines, etc.\n- Reverse : choose if your tank may drive backwards (DOWN on gamepad). Can be set individually per player.\n- Speed : speed of your tank. Can be set individually per player.\n- Bullit time : choose how long your bullit will fly until it disappears. Using pong bullits with this setting can be fun! \n  You can also set this to the default 'D'. The game determines the bullit time in this case. Can be set individually per player.\n- Bullits : set how many bullits you start with. Can be set individually per player.\n\nENJOY!\n",
+    "players": [
+        2
+    ],
+    "genres": [
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.5.0",
+            "versionCode": 1005000,
+            "uuid": "81e783f2-e556-4a7f-98fc-b8a6285cffd4",
+            "date": "2023-11-16T22:52:43z",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/Combat_1.5.0_com.scorpion.Combat.apk",
+            "size": 9969963,
+            "md5sum": "C3C5863A9164C7FB1DCE1B9293DA54C3",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
+        }
+    ],
+    "discover": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/1.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/2.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/3.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/4.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/5.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/6.png"
+        },
+        {
+            "type": "image",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Combat/7.png"
+        }
+    ],
+    "developer": {
+        "uuid": "041c1942-4c52-41b8-9d3b-3f0619284313",
+        "name": "Scorpion Software",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.jrxs.net/combat",
+    "firstPublishedAt": "11/17/2023 5:52:44 AM +00:00",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
