@@ -240,7 +240,7 @@
         },
 
         "media": {
-            "description": "Images and videos for the details and apps pages. Can be in any order. The first video is used for the app's 'video' field, all images for app's 'screenshots'.",
+            "description": "Images and videos for the details and apps pages. Can be in any order. The first video is used for the app's 'video' field, all images for app's 'screenshots'. Images are sized 1280x720",
             "type": "array",
             "items": {
                 "type": "object",
