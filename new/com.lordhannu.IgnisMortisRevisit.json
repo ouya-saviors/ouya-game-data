@@ -1,0 +1,66 @@
+{
+    "packageName": "com.lordhannu.IgnisMortisRevisit",
+    "title": "Ignis mortis revisited 2024",
+    "description": "Play Ignis mortis, select a knight, berserker or archer to explore a world with the guidence of a map. Find all items and advance to the final boss and you win\n\nRevisit 2024 fixed bugs and now runs at 60fps. Graphics of backgrounds and trees had to go.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer"
+    ],
+    "releases": [
+        {
+            "name": "1.3",
+            "versionCode": 3,
+            "uuid": "135bcf7a-c504-49cd-af62-e119fa5cef86",
+            "date": "2024-01-27T13:32:27Z",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/com.lordhannu.IgnisMortisRevisit-3.apk",
+            "size": 13500444,
+            "md5sum": "3112bf42f72119473bae672ecc2f0227",
+            "cert_subject": "C = US, O = Android, CN = Android Debug"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/main.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/ss01.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/ss02.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/ss03.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/ss04.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/ss05.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.lordhannu.IgnisMortisRevisit/ss06.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "f87dd95f-6fef-47ee-8a5d-c04e3461c0ac",
+        "name": "LordHannu",
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http://www.lordhannu.com",
+    "firstPublishedAt": "2024-01-27T13:55:59Z",
+    "inAppPurchases": false,
+    "overview": "Released in January 2024 by LordHannu",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
