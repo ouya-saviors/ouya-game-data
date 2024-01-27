@@ -29,6 +29,11 @@ if (!file_exists($apk)) {
 $urlBasePath = 'FIXME/';
 if (count($argv)) {
     $urlBasePath = array_shift($argv);
+} else {
+    if (strpos($apk, '/cweiske-apks/') !== false) {
+        $urlBasePath = 'http://ouya.cweiske.de/apks/'
+            . dirname(preg_replace('#^.+/cweiske-apks/#', '', $apk)) . '/';
+    }
 }
 
 $data = [
@@ -138,19 +143,31 @@ if ($packageName) {
 }
 
 //screenshots as additional arguments to this script
-if ($argv > 2) {
-    foreach ($argv as $image) {
+if ($argc > 2) {
+    $additionalFiles = $argv;
+} else {
+    $additionalFiles = glob(dirname($apk) . '/*.{txt,url,jpg,png}', GLOB_BRACE);
+}
+
+if (count($additionalFiles)) {
+    foreach ($additionalFiles as $image) {
+        $imageName = basename($image);
         if (substr($image, -4) == '.txt') {
             $data['description'] = trim(file_get_contents($image));
             continue;
         } else if (substr($image, -4) == '.url') {
             $data['website'] = trim(file_get_contents($image));
             continue;
+        } else if ($imageName == 'discover.jpg' || $imageName == 'discover.png'
+            || $imageName == 'main.jpg' || $imageName == 'main.png'
+        ) {
+            $data['discover'] = $urlBasePath . $imageName;
+            continue;
         }
 
         $data['media'][] = [
             'type' => 'image',
-            'url'  => $urlBasePath . basename($image),
+            'url'  => $urlBasePath . $imageName,
         ];
     }
 }
