@@ -1,0 +1,89 @@
+{
+    "packageName": "com.Isotope244LLC.AckysBreakoutReloaded",
+    "title": "Acky's Breakout Reloaded - Brick Breaker",
+    "description": "LAUNCH SALE!  30% OFF FOR A LIMITED TIME!!!\r\n\r\n\"I'll tell you right now, this is the best Breakout game I've ever played, and I've played them all.\" - Pocket Games Editor\r\n\"This game has to be the most developed breakout clone I've ever seen.\" - Smartphone Magazine\r\n\"True arkanoid fans will embrace this game as being easily one of the better titles available.\" - Game Tunnel\r\n\"Nothing else out there approaches its level of sophistication.\" - Smartphone Magazine\r\n\r\nCraft balls from ether, slow down time, and see inside bricks in this mesmerizing brick breaker!\r\n\r\nWHAT YOU'LL DO:\r\nUpgrade to Fun Characters\r\nTrain Comical Pets\r\nComplete Skill Missions\r\nDominate with Power Items\r\nDazzle in Retro Particles\r\nEnjoy Hundreds of Levels\r\n\r\nUNIQUE FEATURES:\r\nCraft balls while you play, no set amount\r\nCurve the ball for skill shots\r\nBuild experience and unlock special game modes\r\nHire pilots and train pets to boost your play\r\n\r\nSTATS:\r\n175 Levels\r\n32 Power Items\r\n24 Challenges\r\n28 Characters",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Kids List",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.6",
+            "versionCode": null,
+            "uuid": "5c2a6269-71ad-40e6-bc0d-c28e19a0ef31",
+            "date": "2014-12-04T00:10:13Z",
+            "url": "FIXME:4nDskQCjRAOZ6PSWdzTN_Ackys Breakout Reloaded Ouya.apk",
+            "size": 52471838,
+            "md5sum": "ed04790103cb5b475848eb402ad2884d",
+            "publicSize": 736781,
+            "nativeSize": 1074284,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/AMTbb069QQibXw2dGzOu",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/112937117"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/y72lt3_ouya-screenshot20141202-2-15bkrki.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/thumbnails/thumbnail20141202-2-l1xqak.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/7yzkk7_ouya-screenshot20141202-2-o8cru.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/thumbnails/thumbnail20141202-2-ija34m.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/g1op8k_ouya-screenshot20141202-2-91jozc.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/thumbnails/thumbnail20141202-2-buzgmx.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/c5z99e_ouya-screenshot20141202-2-3z0lkg.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/thumbnails/thumbnail20141202-2-12patgc.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/r4ggcd_ouya-screenshot20141202-2-3fdkd4.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/5c2a6269-71ad-40e6-bc0d-c28e19a0ef31/thumbnails/thumbnail20141202-2-1w59ums.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-7102-4b9e-a98e-c2a3f93738ee",
+        "name": "Isotope 244, LLC",
+        "website": "http://www.isotope244.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.isotope244.com",
+    "firstPublishedAt": "2014-12-04T00:10:13Z",
+    "inAppPurchases": false,
+    "overview": "Released in December 2014 by Isotope 244, LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 10,
+        "average": 4.2
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "acky",
+            "name": "Acky's Breakout Reloaded",
+            "description": "Craft balls from ether, slow down time, and see inside bricks in this mesmerizing brick blasting breakout game!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

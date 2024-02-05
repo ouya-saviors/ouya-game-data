@@ -1,0 +1,57 @@
+{
+    "packageName": "com.cone.tuxadventure",
+    "title": "Tux Adventure",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 10,
+            "uuid": "375c9d67-36ac-427f-8601-cdcbea777c4d",
+            "date": "2016-08-08T17:57:01Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/8P3t1u7iRHCqiQojEGDL",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-0410-4949-b646-1f9e9a35d62c",
+        "name": null,
+        "website": "http://cone.host22.com/",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "http://cone.host22.com/",
+    "firstPublishedAt": "2016-08-02T18:49:05Z",
+    "inAppPurchases": null,
+    "overview": "Released in August 2016 by Cone Inc..",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "count": 5,
+        "average": 4.8
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "shadow_world_two",
+            "name": "Titan Temple",
+            "description": "Titan Temple is the second world of  Tux Adventure. It contains 11 amazing new levels!\r\n\r\n",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}
