@@ -1,0 +1,47 @@
+{
+    "packageName": "com.deskink.spookyscape",
+    "title": "Spookyscape",
+    "description": "Controls:\n- Fly - D-Pad or Left Stick\n- UI Focus - D-Pad\n- UI Select - O\n\nCreated for the OUYA Anniversary Game Jam 2024.\nDevelopment began on September 20th, 2024 and version 1.0 was completed September 29th, 2024.\nProgramming & Design by Bradley Herdman\nArt by Bradley Herdman\nMusic by Bradley & Elizabeth Herdman",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2024 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "668d9864-0406-44b5-bb53-29514845b86d",
+            "date": "2024-10-02T10:43:58Z",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.deskink.spookyscape/com.deskink.spookyscape-1.apk",
+            "size": 15443203,
+            "md5sum": "254d06835a43b59a18e7578c5c886d81",
+            "cert_subject": "C=US, ST=Missouri, L=Kansas City, O=DESK INK, OU=DESK INK, CN=Bradley Herdman"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2024-10-jam/com.deskink.spookyscape/com.deskink.spookyscape.jpg",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.deskink.spookyscape/trailer.mp4"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-9bcd-4484-9572-7e63c2e05546",
+        "name": "Desk Ink",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://desk-ink.itch.io/spookyscape",
+    "firstPublishedAt": "2024-10-02T10:48:22Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

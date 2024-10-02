@@ -1,0 +1,59 @@
+{
+    "packageName": "com.MadmanEpic.AVENGEMYSELF",
+    "title": "Avenge Myself",
+    "description": "Reject gravity. Go fast.\n\nA high-speed physics-based speedrunning FPS inspired by Tribes, Trackmania, and Sonic the Hedgehog. Master the movement, find your own routes through stages, and move like you've never moved before. \n\n- Momentum-based movement with wall riding, loops, and more\n- 5* varied stages with flexible level design\n- Challenging medals requiring skill and planning to earn\n- Runs on virtually anything\n- Go really, REALLY fast\n\nTips\n- When skating or airborne, your input steers your velocity left or right towards the direction you're inputting. If you release all movement input, you'll continue in the direction you're already going, and if you try to steer towards the opposite direction of your velocity, you'll turn faster than you usually can.\n- It's hard to get to high speeds on flat ground. If you have a lot of momentum, do whatever it takes to keep it. \n- Boosting fully replaces all of your existing velocity, so it's best not to use it if you already have more speed than it gives you. (This is indicated by the second mark on the speed gauge.)\n- Stomping fully replaces your vertical velocity, so it'll slow you down if you're moving faster than that. It also consumes 20% of your lateral velocity, so be sure that you're actually going to end up with more speed from using it on a ramp.\n- Wall kicking sets you to a minimum upward speed no matter what, but if you're already beyond it, it'll only add to your speed. Boosters work similarly.\n- The \"Snap Boost Turn\" option in the settings makes look transitions from certain boosters instantaneous. If you aren't prone to motion sickness, this is a good choice for some levels.\n- The obvious route is almost never the fastest. A good run of the obvious route is expected to get a Silver medal, and improving your route is the best way to improve your time. Experiment with the level design and find the best route for you!\n\nCredits\n- Developed by MadmanEpic (support me on Patreon!)\n- Music by Pascal van den Bos from the album MIDNIGHT JUNGLE ACT 1.5: VERTIGO ZONE\n- Title font by Yuta ONE",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "2024 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "0.1",
+            "versionCode": 1,
+            "uuid": "bfb96a7f-2959-4b93-9431-40021d7d8f25",
+            "date": "2024-09-29T07:26:21Z",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.MadmanEpic.AVENGEMYSELF/com.MadmanEpic.AVENGEMYSELF-1.apk",
+            "size": 158030586,
+            "md5sum": "f8f30cd038cb9f412150306c56acfa88",
+            "cert_subject": "C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android, emailAddress=android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2024-10-jam/com.MadmanEpic.AVENGEMYSELF/com.MadmanEpic.AVENGEMYSELF.jpg",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.MadmanEpic.AVENGEMYSELF/trailer.mp4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.MadmanEpic.AVENGEMYSELF/screenshot-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.MadmanEpic.AVENGEMYSELF/screenshot-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.MadmanEpic.AVENGEMYSELF/screenshot-3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-e3ec-4d46-be3c-06cdfc415711",
+        "name": "MadmanEpic",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://madmanepic.itch.io/avenge-myself",
+    "firstPublishedAt": "2024-10-02T10:53:50Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

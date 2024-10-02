@@ -1,0 +1,71 @@
+{
+    "packageName": "com.yakdag.RGK",
+    "title": "RGK 1.5 Demo",
+    "description": "This is an OUYA Port of the now depreciated RGK 1.5 Demo.\n\nI did not make this Kit, it was made by Yusuf Akdag.\n\nRGK or Racing Game Kit, was a Unity Framework for making Racing Games. There were 3 license Tiers for purchase: Indie (which I had), Pro, and Source Code.\n\nThe asset was not approved for the Unity Asset Store, as the creator had an asset registration system implemented within the asset to prevent piracy. However, once the project was abandonded, it also prevented those who purchased the asset, from using the asset past a demo mode (i.e. not being able to create new cars, new race tracks, etc.) Unless you already had a project activated and saved onto your PC before the registration website was taken offline, or you had purchased the Source Code version. The Demo was \"build ready\" meaning that as long as you didn't change anything, you could build it for Windows, Mac, iPhone, and Android. Since the asset itself advertised that it was compatible with OUYA, (https://web.archive.org/web/20171118165737/http://www.unityracingkit.com/) \n\nI decided to see if I could build the demo for play on OUYA.\n\nSo, the result is yes, kinda...\n\nThe Game builds and is playable on OUYA (except for the Amplify Motion Blur Demo, which runs at 10-12 FPS and is unplayable in my opinion) but the controls (which I am unable to edit, as far as I can tell) are pretty odd...\n\nControls:\n- Left Joystick = Steering Left / Right\n- Right Joystick Left = Accelerate ( Press A button while accelerating = Nitro)\n- Right Joystick Right = Brake\n- Right Joystick Up = View Right Side of Car\n- Right Joystick Down = View Left Side of Car\n- Right Trigger = Pause / Settings Menu\n- O button = Select (in Menus)\n- U button = Respawn (in Races)\n- Tap Left D-pad = Cycle Car Camera angles\n- Hold Right D-pad = View Behind your Car \n\nYou can use either the D-Pad or the Left Joystick to control in the Game Menus\n\nAgain, Controls are not the most intuitive, but it is playable somewhat. I wish I had purchased the more expensive Source Code version instead of the lower priced Indie version, as the RGK framework really had some nice potential for making some great Racing games for the OUYA!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Racing",
+        "2024 Anniversary GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 1,
+            "uuid": "42c1947c-7c41-4e89-94e8-958f7d67d0b0",
+            "date": "2024-10-02T10:44:09Z",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/com.yakdag.RGK-1.apk",
+            "size": 27769615,
+            "md5sum": "e707dfc80d2e9d3662288f64ba0461fe",
+            "cert_subject": "C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android, emailAddress=android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/com.yakdag.RGK.jpg",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/trailer.mp4"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/screenshot-1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/screenshot-2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/screenshot-3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/screenshot-4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/screenshot-5.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2024-10-jam/com.yakdag.RGK/screenshot-6.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/rgk-15-ouya-demo",
+    "firstPublishedAt": "2024-10-02T13:33:01Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
