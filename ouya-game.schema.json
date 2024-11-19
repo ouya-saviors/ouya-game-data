@@ -33,6 +33,11 @@
             "type": "string"
         },
 
+        "blockedInWebText": {
+            "description": "Text describing why the game data are not visible in the web",
+            "type": "string"
+        },
+
         "players": {
             "description": "How many players can play this game at the same time?",
             "type": "array",
