@@ -84,6 +84,46 @@
             "localPrice": 4.99,
             "originalPrice": 4.99,
             "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_fde_avpevolution_avp_p1_0bonus",
+            "name": "40.000 Xeno points",
+            "description": "No bonus",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_fde_avpevolution_avp_p2_10bonus",
+            "name": "90.000 Xeno points",
+            "description": "10% bonus",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_fde_avpevolution_avp_p3_25bonus",
+            "name": "200.000 Xeno points",
+            "description": "25% bonus",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "com_fde_avpevolution_avp_p4_75bonus",
+            "name": "700.000 Xeno points",
+            "description": "75% bonus",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
         }
     ]
 }
