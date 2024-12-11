@@ -62,5 +62,88 @@
         "likeCount": 504,
         "average": 3.95,
         "count": 478
-    }
+    },
+
+    "products": [
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "wraithborne_consumable_1",
+            "name": "Pile of gems",
+            "description": "250",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "wraithborne_consumable_2",
+            "name": "Sack of gems",
+            "description": "600",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "wraithborne_consumable_3",
+            "name": "Cache of gems",
+            "description": "2.000",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "wraithborne_consumable_4",
+            "name": "Hoard of gems",
+            "description": "6.000",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "wraithborne_consumable_5",
+            "name": "Warchest",
+            "description": "20.000",
+            "localPrice": 19.98,
+            "originalPrice": 19.98,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "wraithborne_consumable_6",
+            "name": "Make a Donation",
+            "description": "Support indie devs",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "wraithborne_entitlement_1",
+            "name": "FIXME",
+            "description": "",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "type": "entitlement",
+            "promoted": false,
+            "identifier": "wraithborne_entitlement_2",
+            "name": "FIXME2",
+            "description": "",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        }
+    ]
 }
