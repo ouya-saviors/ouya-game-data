@@ -80,6 +80,46 @@
             "localPrice": 4.99,
             "originalPrice": 4.99,
             "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "coins_5000",
+            "name": "5.0000 coins",
+            "description": "In-game money",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "coins_10000",
+            "name": "10.000 coins",
+            "description": "In-game money",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "coins_15000",
+            "name": "15.000 coins",
+            "description": "In-game money",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "EUR"
+        },
+        {
+            "type": "consumable",
+            "promoted": false,
+            "identifier": "coins_25000",
+            "name": "25.000 coins",
+            "description": "In-game money",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "EUR"
         }
     ]
 }
