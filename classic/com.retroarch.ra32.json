@@ -10,6 +10,19 @@
     ],
     "releases": [
         {
+            "name": "1.19.1_GIT",
+            "versionCode": 1717552537,
+            "uuid": "ed26b260-00fc-46ea-8626-eee6bfdec950",
+            "date": "2024-12-15T22:21:56Z",
+            "url": "https://archive.org/download/retroarch-ouya-signed/RetroArch-v1.19.1-OUYA-signed.apk",
+            "size": 157014380,
+            "md5sum": "fb25a706a578175497ee1f0ebe01e2c2",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "8E:35:B6:10:84:BA:FA:94:83:1A:3C:93:8B:CA:27:A1:9A:5E:7E:F2:05:67:FE:DF:16:91:71:63:18:E3:16:C0",
+            "cert_subject": "C = BR, ST = Minas Gerais, L = Belo Horizonte, O = OUYA Saviors, OU = Discord, CN = Zachary Foxx"
+        },
+        {
             "name": "1.16.0_GIT",
             "versionCode": 1696272805,
             "uuid": "946afe59-b5d3-451f-91bf-9115e3bc5907",
