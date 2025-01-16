@@ -122,7 +122,7 @@ for ($n = 0; $n < $za->count(); $n++) {
         . ' | openssl x509 -noout -subject -fingerprint -sha256',
         $lines
     );
-    if (substr($lines[1], 0, 19) == 'SHA256 Fingerprint=') {
+    if (strtolower(substr($lines[1], 0, 19)) == 'sha256 fingerprint=') {
         $data['releases'][0]['cert_fingerprint'] = substr($lines[1], 19);
     }
     if (substr($lines[0], 0, 8) == 'subject=') {
