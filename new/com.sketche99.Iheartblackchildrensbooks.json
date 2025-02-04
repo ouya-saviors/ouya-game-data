@@ -1,0 +1,43 @@
+{
+    "packageName": "com.sketche99.Iheartblackchildrensbooks",
+    "title": "I Heart Black Children's Books!",
+    "description": "quick game\n\nuse the touch pad to make selections in main menu\n\nD-pad to move and O button to jump in the city level",
+    "players": [
+        1
+    ],
+    "genres": [
+        "2025 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "af14385d-02ed-4750-b810-35e81ab62bfa",
+            "date": "2025-02-04T06:16:01Z",
+            "url": "http://ouya.cweiske.de/apks/2025-01-jam/com.sketche99.Iheartblackchildrensbooks/com.sketche99.Iheartblackchildrensbooks-1.apk",
+            "size": 111674532,
+            "md5sum": "7b9e05527b0a6edb5abe25fe5828c1d2",
+            "cert_fingerprint": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC",
+            "cert_subject": "C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android, emailAddress=android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2025-01-jam/com.sketche99.Iheartblackchildrensbooks/com.sketche99.Iheartblackchildrensbooks.jpg",
+    "media": [
+    ],
+    "developer": {
+        "uuid": "11111111-03cf-4ddf-a593-9ad188093fd1",
+        "name": "sketche99",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://sketche99.itch.io/i-heart-black-childrens-books",
+    "firstPublishedAt": "2025-02-04T06:18:35Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}

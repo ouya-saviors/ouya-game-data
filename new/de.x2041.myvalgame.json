@@ -1,0 +1,48 @@
+{
+    "packageName": "de.x2041.myvalgame",
+    "title": "My Sweet Valentine",
+    "description": "A sweet and casual match-3 puzzler with colourful graphics for the OUYA microconsole.  Theme was valentine / love, so what could be better than a game with Valentine, Bob and some lovely sweets?\n\nMade in about a week for the OUYA Winter Game Jam 2025. Works on OUYA with controller support. Local two player mode not yet available - I hope to get this in for a post jam release.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "2025 Winter GameJam"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 3,
+            "uuid": "80befbda-ec96-4694-a743-eca7aeebe4a0",
+            "date": "2025-02-04T06:15:00Z",
+            "url": "http://ouya.cweiske.de/apks/2025-01-jam/de.x2041.myvalgame/de.x2041.myvalgame-3.apk",
+            "size": 18341930,
+            "md5sum": "b394bc7cbd87916719ef6705e2cc404d",
+            "cert_fingerprint": "A2:69:CD:4A:13:F5:39:F4:2C:CD:4F:BB:11:99:B6:AF:8A:00:5A:8E:8F:8C:81:66:D6:1B:9F:27:F8:42:B0:FE",
+            "cert_subject": "C=US, O=Android, CN=Android Debug"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/2025-01-jam/de.x2041.myvalgame/de.x2041.myvalgame.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/2025-01-jam/de.x2041.myvalgame/screenshot-1.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-5b94-44e4-8933-fbaa8737fc05",
+        "name": "zondarg",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://zondarg.itch.io/valentine",
+    "firstPublishedAt": "2025-02-04T06:18:45Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
