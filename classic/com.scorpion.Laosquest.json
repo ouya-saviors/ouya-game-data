@@ -47,6 +47,19 @@
             "md5sum": "9b303e1e60bb76ecaf88271532c8de62",
             "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
             "cert_subject": "C=NL, L=NA, O=Scorpion Software, OU=NA, CN=JRLS"
+        },
+        {
+            "name": "13.0.0",
+            "versionCode": 13000000,
+            "uuid": "750e3144-0c53-4634-b73d-a4394d076487",
+            "date": "2025-04-18T23:31:07z",
+            "url": "http://statics.ouya.world/041c1942-4c52-41b8-9d3b-3f0619284313/com.scorpion.Laosquest/Laos%20Quest_13.0.0_com.scorpion.Laosquest.apk",
+            "size": 16377731,
+            "md5sum": "16FE344D7DD7943E21D546E590DDD171",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "52:1A:03:FD:58:4C:E5:3B:9F:A6:EA:67:CB:EE:7C:C0:06:CC:DF:0C:04:2F:28:03:2C:D4:47:AF:9A:4A:AB:9E",
+            "cert_subject": "C = NL, L = NA, O = Scorpion Software, OU = NA, CN = JRLS"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.scorpion.Laosquest/discover",
