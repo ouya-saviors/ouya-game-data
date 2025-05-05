@@ -168,6 +168,114 @@
             "localPrice": 4.99,
             "originalPrice": 4.99,
             "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "santa",
+            "name": "Santa",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "frosty",
+            "name": "Frosty",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "tickets1",
+            "name": "500 tickets",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "tickets2",
+            "name": "1200 tickets",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "tickets3",
+            "name": "2500 tickets",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "tickets4",
+            "name": "6500 tickets",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "tickets5",
+            "name": "FIXME5 tickets",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "bundle_bones",
+            "name": "FIXME6 tickets",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "bundle_bernard",
+            "name": "Bernard bundle",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "bundle_frosty",
+            "name": "Frosty bundle",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "bundle_santa",
+            "name": "Santa bundle",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
+        },
+        {
+            "promoted": false,
+            "type": "entitlement",
+            "identifier": "pro_sale",
+            "name": "Pro sale",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "EUR"
         }
     ]
 }
