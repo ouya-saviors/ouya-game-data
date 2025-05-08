@@ -1,0 +1,57 @@
+{
+    "packageName": "uk.co.kempt.StuntWheelsTV",
+    "title": "Stunt Wheels Party!",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.10",
+            "versionCode": 10,
+            "uuid": "bdef6380-5698-4ce4-8c16-b44c1569f161",
+            "date": "2017-03-27T18:51:33Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/6cg2iUMvRSTNmfeKLQwL",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-1136-429e-8c8f-6fb04d703771",
+        "name": null,
+        "website": "www.ouya.tv",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2017-03-15T06:20:15Z",
+    "inAppPurchases": null,
+    "overview": "Released in March 2017 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 5.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "StuntWheels_unlock",
+            "name": "Stunt Wheels Full",
+            "description": "Gain access to the full version of Stuntwheels!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

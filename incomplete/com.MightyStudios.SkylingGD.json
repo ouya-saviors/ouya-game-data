@@ -1,0 +1,78 @@
+{
+    "packageName": "com.MightyStudios.SkylingGD",
+    "title": "Skyling: Garden Defense",
+    "description": "Skyling: Garden Defense is an action-packed maze game that blends classic arcade game play with blooming plants, colorful monsters and sleeping cats. Inspired my Pac-Man, Q*bert and Crystal Castles, the object of the game is to sprout every square of the garden maze while avoiding enemies. Use elevators, switches, and gates to escape capture. Pick up and move sleeping garden cats to hold down switches and block enemies - because no one will disturb a sleeping cat!\r\n\r\nSprout Plants, Fight Monsters, Move Cats. Save the Garden!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0.27",
+            "versionCode": null,
+            "uuid": "eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b",
+            "date": "2015-05-28T01:59:41Z",
+            "url": "FIXME:wib9bJIOQOIHrjCVtcbA_Skyling-Ouya-1.0.27.apk",
+            "size": 15914747,
+            "md5sum": "c0597a21e9b54fbbe589434b5647d390",
+            "publicSize": 1082315,
+            "nativeSize": 8812608,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/CGsxa2ZKSiyzl0tCzxat",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/101483492"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b/invn1z_ouya-screenshot20150525-3-1v6c4yh.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b/thumbnails/thumbnail20150525-3-jk4skw.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b/g6twj3_ouya-screenshot20150525-3-1ihr7ju.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b/thumbnails/thumbnail20150525-3-qzrsgj.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b/5edgfg_ouya-screenshot20150525-3-t76tp.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/eb98aa28-6fc6-474c-bdf8-6ed0f3b7564b/thumbnails/thumbnail20150525-3-bgtqi7.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-256f-4a34-9794-20d7a6f021a3",
+        "name": "Mighty Studios LLC",
+        "website": "www.mightystudios.com",
+        "supportEmail": "info@mightystudios.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.mightystudios.com",
+    "firstPublishedAt": "2014-05-27T03:35:06Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2015 by Mighty Studios LLC.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 34,
+        "average": 3.97
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Skyling_Ouya_Full",
+            "name": "Skyling: Garden Defense",
+            "description": "Full, unlocked game for OUYA",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

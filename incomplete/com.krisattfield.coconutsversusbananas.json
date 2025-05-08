@@ -1,0 +1,57 @@
+{
+    "packageName": "com.krisattfield.coconutsversusbananas",
+    "title": "Coconuts versus Bananas: The Invasion of Carl CocoPalm",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "96ef28c6-e983-4da5-99c5-bc0edf505bf2",
+            "date": "2016-06-09T18:22:15Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/6tWTgNviTvqzQ65Z9jZM",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-3b3d-401f-b911-33888c9eecd8",
+        "name": null,
+        "website": "http://www.krisattfield.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "9+",
+    "website": "http://www.krisattfield.com",
+    "firstPublishedAt": "2016-06-09T18:22:15Z",
+    "inAppPurchases": null,
+    "overview": "Released in June 2016 by Kris Attfield.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 5.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "coconuts_bananas_full_game",
+            "name": "Buy Coconuts versus Bananas.",
+            "description": "The full game purchase of Coconuts versus Bananas: The Invasion of Carl CocoPalm.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

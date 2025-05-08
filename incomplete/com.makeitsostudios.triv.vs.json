@@ -1,0 +1,93 @@
+{
+    "packageName": "com.makeitsostudios.triv.vs",
+    "title": "Triv-ology First-to-BUZZ!",
+    "description": "First-to-BUZZ multiplayer VS trivia game for your TV! Triv-ology™ contains 5000 quality researched questions. Up to 9 players can challenge each other.\r\n\r\nEverybody can play!\r\n- Gamepads\r\n- Keyboard\r\n- Triv Pad app for phone, tablet, iPad, etc.!\r\n\r\nGet the FREE TRIV PAD app to play using your phone or tablet! Search \"Triv Pad\" in Apple App Store, Google Play, or Amazon Appstore.\r\n\r\nWe want to support every possible input device, blutooth or usb. Let us know about any input devices that aren't yet working with Triv-ology:\r\nhttp://www.triv-ology.com\r\n\r\nThe game has 4 rounds:\r\n\r\nRound 1:\r\nFirst-To-Buzz for 8 questions. Last winner choices next category.\r\n\r\nRound 2:\r\nPlayers bid on 5 questions only seeing the category and difficulty.\r\n\r\nRound 3:\r\nFirst-To-Buzz for 8 questions with double points!\r\n\r\nRound 4:\r\nFinal round, each player (from losing to winning) choices a category and makes a wager.\r\n\r\n- 5000 quality, researched trivia questions.\r\n- Up to 9 players can play using remotes, gamepads, keyboards, phones, and tablets\r\n- NO user submitted questions.\r\n- NO multiple choice.\r\n- NO lame questions.\r\n\r\nWe love to hear feedback and ideas.\r\nhttp://www.triv-ology.com",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": null,
+            "uuid": "0c257c6f-5a0c-4ff7-9c70-242ed0e61169",
+            "date": "2015-03-04T23:13:01Z",
+            "url": "FIXME:XfoyylMwQRyEN2epEDcx_TrivVS-release.apk",
+            "size": 11328185,
+            "md5sum": "1e896276e3b395dd8633bacfc4cffd0b",
+            "publicSize": 110881,
+            "nativeSize": 3886464,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/XAb80qKFRdGGRssm0UiN",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/120026384"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/bszr7v_ouya-screenshot20150303-3-1j1tmv3.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/thumbnails/thumbnail20150303-3-191ufwu.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/w9yvxb_ouya-screenshot20150303-3-3gd2fo.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/thumbnails/thumbnail20150303-3-xg4b8e.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/dqvcvw_ouya-screenshot20150303-3-1m5e334.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/thumbnails/thumbnail20150303-3-l8voen.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/i98vvf_ouya-screenshot20150303-3-1suu0ea.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/thumbnails/thumbnail20150303-3-1yd04vj.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/565wwn_ouya-screenshot20150303-3-1cx5h8b.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/thumbnails/thumbnail20150303-3-vnd6yk.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/7ppovn_ouya-screenshot20150303-3-1wiait7.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0c257c6f-5a0c-4ff7-9c70-242ed0e61169/thumbnails/thumbnail20150303-3-1iu2nj1.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-9f95-4f15-b3f7-f41612c7ec55",
+        "name": "Make It So Studios",
+        "website": "http://www.makeitsostudios.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.makeitsostudios.com",
+    "firstPublishedAt": "2015-03-04T23:13:01Z",
+    "inAppPurchases": false,
+    "overview": "Released in March 2015 by Make It So Studios.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 3.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "triv-ology_vs_full",
+            "name": "Triv-ology Full Game",
+            "description": "Purchase Triv-ology for OUYA!\r\n\r\nThe Triv Pad app is available for FREE in mobile app stores or at triv-ology.com",
+            "localPrice": 8.99,
+            "originalPrice": 8.99,
+            "currency": "USD"
+        }
+    ]
+}
