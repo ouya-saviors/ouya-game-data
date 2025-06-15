@@ -83,6 +83,51 @@
             "localPrice": 0.99,
             "originalPrice": 0.99,
             "currency": "USD"
+        },
+        {
+            "promoted": true,
+            "type": "consumable",
+            "identifier": "one_gemma",
+            "name": "1 Gemma",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "five_gemma",
+            "name": "5 Gemma",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "twelve_gemma",
+            "name": "12 Gemma",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "twenty_four_gemma",
+            "name": "24 Gemma",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "fifty_gemma",
+            "name": "50 Gemma",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
         }
     ]
 }
