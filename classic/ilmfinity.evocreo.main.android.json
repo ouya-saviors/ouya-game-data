@@ -2,6 +2,7 @@
     "packageName": "ilmfinity.evocreo.main.android",
     "title": "EvoCreo - Console Edition",
     "description": "Embark on a journey through the world of Zenith. Become the top Evoker by capturing and battling 130+ Creo. Test yourself in the Arenas and work your way up to the Coliseum, while revealing the plot of the nefarious group, Shadow Hive. \n\n-Over 130 monsters to capture & evolve!\n-Animated monsters and characters.\n-A massive world to explore where Creo roam.\n-A 40+ hour long adventure.\n-Challenge other Evokers to become an Evoking Master!\n-Customize your Creo's moves, traits, and abilities to fit your own strategy.\n\nDo you think you have what it takes to be an Evoking Master?\n\nLike us on Facebook for more news and updates: https://www.facebook.com/ilmfinity\n\nReport any bugs or issues to bug-report@ilmfinity.com",
+    "notes": "In-app purchases do not work because the game depends on Google Play services. It probably never worked.",
     "players": [
         1
     ],
@@ -88,54 +89,54 @@
             "promoted": true,
             "type": "consumable",
             "identifier": "one_gemma",
-            "name": "1 Gemma",
-            "localPrice": 0.01,
-            "originalPrice": 0.01,
+            "name": "100 Gemma",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
             "currency": "USD"
         },
         {
             "promoted": false,
             "type": "consumable",
             "identifier": "five_gemma",
-            "name": "5 Gemma",
-            "localPrice": 0.01,
-            "originalPrice": 0.01,
+            "name": "500 Gemma",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
             "currency": "USD"
         },
         {
             "promoted": false,
             "type": "consumable",
             "identifier": "twelve_gemma",
-            "name": "12 Gemma",
-            "localPrice": 0.01,
-            "originalPrice": 0.01,
+            "name": "1.200 Gemma",
+            "localPrice": 8.99,
+            "originalPrice": 8.99,
             "currency": "USD"
         },
         {
             "promoted": false,
             "type": "consumable",
             "identifier": "twenty_four_gemma",
-            "name": "24 Gemma",
-            "localPrice": 0.01,
-            "originalPrice": 0.01,
+            "name": "2.400 Gemma",
+            "localPrice": 16.99,
+            "originalPrice": 16.99,
             "currency": "USD"
         },
         {
             "promoted": false,
             "type": "consumable",
             "identifier": "fifty_gemma",
-            "name": "50 Gemma",
-            "localPrice": 0.01,
-            "originalPrice": 0.01,
+            "name": "5.000 Gemma",
+            "localPrice": 34.99,
+            "originalPrice": 34.99,
             "currency": "USD"
         },
         {
             "promoted": false,
             "type": "consumable",
             "identifier": "one_hundred_gemma",
-            "name": "100 Gemma",
-            "localPrice": 0.01,
-            "originalPrice": 0.01,
+            "name": "10.000 Gemma",
+            "localPrice": 49.99,
+            "originalPrice": 49.99,
             "currency": "USD"
         }
     ]
