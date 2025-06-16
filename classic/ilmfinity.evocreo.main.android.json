@@ -128,6 +128,15 @@
             "localPrice": 0.01,
             "originalPrice": 0.01,
             "currency": "USD"
+        },
+        {
+            "promoted": false,
+            "type": "consumable",
+            "identifier": "one_hundred_gemma",
+            "name": "100 Gemma",
+            "localPrice": 0.01,
+            "originalPrice": 0.01,
+            "currency": "USD"
         }
     ]
 }
