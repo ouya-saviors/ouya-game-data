@@ -13,14 +13,16 @@
     "releases": [
         {
             "name": "1.0",
-            "versionCode": 1,
-            "uuid": "0a2ad5de-e81e-460a-8007-9b24716fe8bb",
-            "date": "2013-09-06T19:28:49Z",
-            "url": "https://archive.org/download/ouya_com.ludosity.ittledew_1.0/IttleDew_1.0_com.ludosity.ittledew-A161.apk",
-            "size": 112182510,
-            "md5sum": "a161a3a9f45fc853b7e6d6ef1c9cbc79",
+            "versionCode": 0,
+            "uuid": "49fcf960-41fd-47ff-a411-be56f38cdd71",
+            "date": "2013-09-06T18:35:26Z",
+            "url": "https://archive.org/download/ouya_com.ludosity.ittledew.forge_1.0/IttleDew_1.0_com.ludosity.ittledew.forge.apk",
+            "size": 120309076,
+            "md5sum": "92111937d3b3b8fde35c1367d0d8ffe7",
+            "publicSize": 0,
+            "nativeSize": 0,
             "cert_fingerprint": "11:F8:FC:6C:74:0D:1E:9A:FC:6A:D3:78:1E:64:6D:AF:CE:82:14:7F:BA:1B:60:E3:16:11:5B:A9:6A:3C:9F:04",
-            "cert_subject": "O=Ludosity"
+            "cert_subject": "O = Ludosity"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/com.ludosity.ittledew/discover",
