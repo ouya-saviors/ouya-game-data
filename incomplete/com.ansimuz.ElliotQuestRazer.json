@@ -1,0 +1,57 @@
+{
+    "packageName": "com.ansimuz.ElliotQuestRazer",
+    "title": "Elliot Quest: Cortex Edition",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.1.6",
+            "versionCode": null,
+            "uuid": "9f4255c4-d342-43f2-aa7f-b85dd0f7f05b",
+            "date": "2015-09-10T12:36:01Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/cTWCZrSyQxaw7cAPvuwA",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-7511-41ea-a0b1-99d4ec05474e",
+        "name": null,
+        "website": "http://ansimuz.com/",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "http://ansimuz.com/",
+    "firstPublishedAt": "2015-09-10T12:36:01Z",
+    "inAppPurchases": null,
+    "overview": "Released in September 2015 by Ansimuz.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 3,
+        "average": 5.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "elliot_quest_forge",
+            "name": "Elliot Quest",
+            "description": "",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

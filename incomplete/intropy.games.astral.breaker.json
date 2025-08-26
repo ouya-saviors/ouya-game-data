@@ -1,0 +1,79 @@
+{
+    "packageName": "intropy.games.astral.breaker",
+    "title": "Astral Breaker",
+    "description": "What's your sign? Harness the power of the Zodiac in this fast-paced action puzzler pitting two players against each other or a computer opponent. Build chains by combining like-colored Astral Spheres together, then smash them to space dust with a Breaker gem! Play solo or challenge a live opponent in a test of skill and speed. Shoot for the stars with Astral Breaker!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Multiplayer",
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.1",
+            "versionCode": null,
+            "uuid": "cc4fa235-19ce-4e4b-acfa-3ea54ea41147",
+            "date": "2014-09-01T21:36:51Z",
+            "url": "FIXME:go8EbsNeR36j3Ngmex7R_astralbreaker_ouya_1_1.apk",
+            "size": 21722379,
+            "md5sum": "a385db22f9d9664dd045bb7f9f1018fb",
+            "publicSize": 418843,
+            "nativeSize": 14685052,
+            "latest": true
+        }
+    ],
+    "discover": "https://www.filepicker.io/api/file/ihvazzGITYSj7sBl5olv",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/97390548"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cc4fa235-19ce-4e4b-acfa-3ea54ea41147/uxfb4c_ouya-screenshot20140621-2-181itp7.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cc4fa235-19ce-4e4b-acfa-3ea54ea41147/thumbnails/thumbnail20140621-2-qpah30.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cc4fa235-19ce-4e4b-acfa-3ea54ea41147/9fxjmx_ouya-screenshot20140621-2-nonjri.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cc4fa235-19ce-4e4b-acfa-3ea54ea41147/thumbnails/thumbnail20140621-2-v554l3.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cc4fa235-19ce-4e4b-acfa-3ea54ea41147/dsv52s_ouya-screenshot20140621-2-1srkoem.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cc4fa235-19ce-4e4b-acfa-3ea54ea41147/thumbnails/thumbnail20140621-2-1xw48e8.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-a7b8-44b2-8fb4-ac7ce9d5ec8c",
+        "name": "Intropy Games",
+        "website": "http://www.intropygames.com",
+        "supportEmail": "contact@intropygames.com",
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.intropygames.com",
+    "firstPublishedAt": "2014-06-19T00:51:40Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Intropy Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 4,
+        "average": 4.25
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "astral-breaker",
+            "name": "Astral Breaker",
+            "description": "This entitles you to the game, Astral Breaker for Ouya.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

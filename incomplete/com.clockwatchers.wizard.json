@@ -1,0 +1,88 @@
+{
+    "packageName": "com.clockwatchers.wizard",
+    "title": "Magic Hero",
+    "description": "Play Magic Hero and battle magical creatures in this turn-based match 3 game.\r\n\r\nMake matches of three or more symbols to play this fantasy puzzler. Collect magic mushrooms, or shields, to cast powerful spells. Watch out! Your opponents fight back.\r\n\r\nMagical creatures become smarter as you advance in puzzle levels. Collect gold to upgrade your hero's skills, and continue to win battles.\r\n\r\nIf you enjoy addictive match three games with a fantasy theme, install Magic Hero now.\r\n\r\nStart this match 3 adventure and battle trolls, orcs, ogres, cyclops, evil knights, and dark wizards.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Puzzle/Trivia",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": null,
+            "uuid": "cbf7deb8-bfff-4887-9030-f5a1bef1c215",
+            "date": "2014-07-17T18:37:28Z",
+            "url": "FIXME:3Opwl74fQlS3mSdl2DHZ_Wizard-ouya.apk",
+            "size": 17348068,
+            "md5sum": "041462741c485ed717fb17b56b41a753",
+            "publicSize": 482569,
+            "nativeSize": 723548,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/y6QNbDCTSNWYSQ6el5pY",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/100361241"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/ve6kre_ouya-screenshot20140717-2-xox16m.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/thumbnails/thumbnail20140717-2-1vg1cnh.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/cnkhfe_ouya-screenshot20140717-2-3081j3.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/thumbnails/thumbnail20140717-2-z9yw9h.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/um7g3_ouya-screenshot20140717-2-9mwyyz.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/thumbnails/thumbnail20140717-2-tki52m.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/se7xly_ouya-screenshot20140717-2-1swlije.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/thumbnails/thumbnail20140717-2-1620mqh.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/1mk8ok_ouya-screenshot20140717-2-1h6wcag.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/cbf7deb8-bfff-4887-9030-f5a1bef1c215/thumbnails/thumbnail20140717-2-niycjb.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-98b8-490d-bc7f-f4b4e03545f3",
+        "name": "Clockwatchers Inc",
+        "website": "http://www.cwigames.com",
+        "supportEmail": "support@cwigames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http://www.cwigames.com",
+    "firstPublishedAt": "2014-07-17T18:37:28Z",
+    "inAppPurchases": true,
+    "overview": "Released in July 2014 by Clockwatchers Inc.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 12,
+        "average": 4.17
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MagicHero",
+            "name": "Magic Hero",
+            "description": "",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

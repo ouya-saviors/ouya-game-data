@@ -1,0 +1,57 @@
+{
+    "packageName": "com.mrqwak.retroracing.forge",
+    "title": "Retro Racing: Cortex Edition",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.3.4",
+            "versionCode": 134,
+            "uuid": "cc3ed8f1-04d7-4e0c-be21-1f43f01daf2c",
+            "date": "2016-05-24T21:41:57Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/1koMXJpOTb2I2hHz8YPc",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-89d8-4140-9d2c-ee7b49cea1a8",
+        "name": null,
+        "website": "http://www.mrqwak.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.mrqwak.com",
+    "firstPublishedAt": "2015-11-30T17:06:17Z",
+    "inAppPurchases": null,
+    "overview": "Released in May 2016 by Mr Qwak.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "count": 12,
+        "average": 4.67
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "0",
+            "name": "Retro Racing",
+            "description": "Unlock the FULL game!",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}
