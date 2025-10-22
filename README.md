@@ -1,10 +1,12 @@
 # OUYA game data
 
-https://travis-ci.com/ouya-saviors/ouya-game-data.svg?branch=master<br>
-https://travis-ci.com/ouya-saviors/ouya-game-data
+> [!NOTE]
+> This repository aims at extending the ouya-game-data repository with Playjam's GameStick game files in JSON format.
+> The necessary files are located in a new folder "gamestick" along with a modified "folders" file that triggers the compilation of the new folder.
 
-Meta data of games for the OUYA console.
-Use them to populate your own "Discover" server.
+- Meta data of games for the OUYA console.<br>
+- Use them to populate your own "Discover" server.<br>
+- This is a fork of the original [ouya-game-data](https://github.com/ouya-saviors/ouya-game-data) repository.
 
 Game ``.apk`` files are hosted on [The OUYA library](https://archive.org/details/ouyalibrary) in the Internet Archive.
 
@@ -87,7 +89,7 @@ When there are no products in the game data file, we have to get them from the g
 
 There will be lines like this:
 ```
-  D/HTTP    (  604): Request 33: GET /api/v1/developers/b8b9eb6d-.../products/?auth_token=...&only=overkill2_om_1%2Coverkill2_om_2
+D/HTTP    (  604): Request 33: GET /api/v1/developers/b8b9eb6d-.../products/?auth_token=...&only=overkill2_om_1%2Coverkill2_om_2
 ```
 Everything after ``&only=`` are product IDs.
 ``%2C`` is an URL-encoded comma, so in the example we have two product IDs.
