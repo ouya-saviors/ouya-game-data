@@ -1,0 +1,49 @@
+{
+    "packageName": "com.DefiantDev.SkiSafari",
+    "title": "Ski Safari",
+    "description": "Welcome to Ski Safari!\n\nSki Safari is where Animals, Avalanches and Action come together to create a new casual gameplay experience.\nSven, as we like to call him, can use animals to aid his escape from an icey end.\n\nCompleting objectives can 'level up' Sven and increase his score multiplier. Ride animals, perform backflips and Sven will be rocketing up the highscore table with ease.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "GameStick",
+        "Casual"
+    ],
+    "releases": [
+        {
+            "name": "1.4.2",
+            "versionCode": 0,
+            "uuid": "b13b97fb4621eea4e102e962d3f77648",
+            "date": "2025-10-21T10:36",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.DefiantDev.SkiSafari/Ski%20Safari_1.4.2_com.DefiantDev.SkiSafari.apk",
+            "size": 35702811,
+            "md5sum": "27e585d2a3dfe001f13b52336e4d8f92"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/gamestick/com.DefiantDev.SkiSafari/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.DefiantDev.SkiSafari/screen1.png"
+        },
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.DefiantDev.SkiSafari/screen2.png"
+        }
+    ],
+    "developer": {
+        "name": "Defiant Development"
+    },
+    "contentRating": "Everyone",
+    "website": "https://defiantdev.com/",
+    "firstPublishedAt": "2012-12-13T12:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 5,
+        "count": 1
+    }
+}

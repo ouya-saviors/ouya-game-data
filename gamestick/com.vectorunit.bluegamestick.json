@@ -1,0 +1,54 @@
+{
+    "packageName": "com.vectorunit.bluegamestick",
+    "title": "Riptide GP",
+    "description": "Rev up your supercharged jet ski and take a wild ride through twisting canals and rivers, futuristic cityscapes, and mysterious research facilities! \n\nSkill, stunts, and speed will be your best allies as you grab massive air off huge waves, kick out death-defying tricks, and boost your jet ski to victory across a dynamic, ever-changing torrent of foam and spray.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.6.2",
+            "versionCode": 21,
+            "uuid": "a0843a0024d68c8b3511ced8e94834ad",
+            "date": "2025-10-22T09:31",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.vectorunit.bluegamestick/Riptide_1.6.2_com.vectorunit.bluegamestick.apk",
+            "size": 41195229,
+            "md5sum": "eb562ea296ed18f360da36e2c5215ad4"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/gamestick/com.vectorunit.bluegamestick/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.vectorunit.bluegamestick/screen1.png"
+        },
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.vectorunit.bluegamestick/screen2.png"
+        },
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.vectorunit.bluegamestick/screen3.png"
+        }
+    ],
+    "developer": {
+        "name": "Vector Unit"
+    },
+    "contentRating": "Everone",
+    "website": "https://www.vectorunit.com/",
+    "firstPublishedAt": "2011-12-01T12:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 3,
+        "count": 1
+    }
+}

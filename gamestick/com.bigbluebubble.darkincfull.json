@@ -1,0 +1,54 @@
+{
+    "packageName": "com.bigbluebubble.darkincfull",
+    "title": "Dark Incursion",
+    "description": "Dark Incursion is a side scrolling, hack and slash game that combines old school pixel art with a stereoscopic 3D experience. \n\nPlayers have a multitude of bio-engineered weapons at their disposal with which to eradicate the abominations from the city. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "GameStick",
+        "Action"
+    ],
+    "releases": [
+        {
+            "name": "1.0.7",
+            "versionCode": 8,
+            "uuid": "3983db084ee596baf283dbc8a2bdd055",
+            "date": "2025-10-22T09:42",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.bigbluebubble.darkincfull/Dark%20Incursion_1.0.7_com.bigbluebubble.darkincfull.apk",
+            "size": 27763311,
+            "md5sum": "94de866ca76ac3c0feb4411f705d79ea"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/gamestick/com.bigbluebubble.darkincfull/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.bigbluebubble.darkincfull/screen1.png"
+        },
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.bigbluebubble.darkincfull/screen2.png"
+        },
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.bigbluebubble.darkincfull/screen3.png"
+        }
+    ],
+    "developer": {
+        "name": "Big Blue Bubble Inc."
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.bigbluebubble.com",
+    "firstPublishedAt": "2011-12-15T12:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 3,
+        "count": 1
+    }
+}

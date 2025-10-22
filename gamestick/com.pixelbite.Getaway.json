@@ -1,0 +1,49 @@
+{
+    "packageName": "com.pixelbite.Getaway",
+    "title": "Reckless Getaway",
+    "description": "Who'd a thought robbing the bank would be the easy part? Now comes the real challenge – to escape with your hard-earned loot having the fuzz hot at your heels!\n\nWeave in and out of oncoming traffic. Dodge, outrun or ram pursuing police cars and just crash and smash your way through 28 varied levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 100,
+            "uuid": "0cdc45f63f34f0abe8f8e5182fa0c04f",
+            "date": "2025-10-22T09:50",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.pixelbite.Getaway/Reckless%20Getaway_1.0.0_com.pixelbite.Getaway.apk",
+            "size": 128273857,
+            "md5sum": "b825a7a41db9953cc411151eb02efc21"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/game-images/gamestick/com.pixelbite.Getaway/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.pixelbite.Getaway/screen1.png"
+        },
+        {
+            "type": "image",
+            "url": null,
+            "thumb": "http://ouya.cweiske.de/game-images/gamestick/com.pixelbite.Getaway/screen2.png"
+        }
+    ],
+    "developer": {
+        "name": "Pixelbyte Games"
+    },
+    "contentRating": "Everyone",
+    "website": "https://www.pixelbite.se/",
+    "firstPublishedAt": "2011-08-18T12:00",
+    "inAppPurchases": false,
+    "premium": false,
+    "rating": {
+        "likeCount": 1,
+        "average": 3,
+        "count": 1
+    }
+}
