@@ -1,0 +1,37 @@
+{
+    "packageName": "com.ast.ouyalaunch",
+    "title": "OUYAlaunch",
+    "description": "OUYAlaunch is focused on a clean UI, OUYA colors, fast and lightweight. The UI was primary designed in Photoshop with some handdrawn button graphics and logos.\n\nAt the first launch OUYAlaunch scans ALL installed apps for an ouya_icon.png file somewhere in res/ and caches them for fast loading. Per default ALL scanned apps are initially stored in the tab \"Casual\".\n\nOUYAlaunch has no specific \"Settings\" or \"Options\" menu. You control everything with the OUYA-controller-buttons:\n\nO = launch a selected app\nU = move the selected app to the next genre\nY = delete an app (you have to press the button 2 seconds or longer)\nA = set an app as \"Favorite\"\n\nL1 and R1 navigate your thru the tabs.\nL2 and R2 both pressed the same time initiate a rescan of all installed apps.\n\nDPAD or Analog sticks navigate thru the app-grid.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "App"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": 3,
+            "uuid": "376734cb-0255-3edc-a044-9e0592cde9c9",
+            "date": "2025-10-28T13:06",
+            "url": "https://ouya.cweiske.de/apks/com.ast.ouyalaunch/com.ast.ouyalaunch-3.apk",
+            "size": 5332507,
+            "md5sum": "0bd44f8c90222a2a6627307bc0bf550f"
+        }
+    ],
+    "discover": "https://ouya.cweiske.de/apks/com.ast.ouyalaunch/discover.png",
+    "media": [
+        {
+            "type": "image",
+            "url": "https://ouya.cweiske.de/apks/com.ast.ouyalaunch/screenshot.png"
+        }
+    ],
+    "developer": {
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": "https://github.com/andiweli/OUYAlaunch",
+    "firstPublishedAt": "2025-10-28T12:23",
+    "inAppPurchases": false,
+    "premium": false
+}

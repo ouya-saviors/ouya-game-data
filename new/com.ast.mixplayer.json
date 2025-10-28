@@ -1,0 +1,32 @@
+{
+    "packageName": "com.ast.mixplayer",
+    "title": "80s80s MixPlayer",
+    "description": "80s80s MixPlayer is a simple music stream player for \"80s80s In The Mix\" (https://www.80s80s.de/80s80s-in-the-mix). A well known german 80s music player.\n\nThe UI is simple. The official image and logo as well as a Spectrum analyzer.\nIf by chance there's a loss of internet connection, the app tries reconnecting 5 times with a gap of 10 seconds. If that fails you have to manually press O on the OUYA-controller to start again.\n\nSpeaking of buttons: O = play/pause and A = quit the app",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Music"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "bc717983-d8e2-3efb-90f2-50e87ee94ca5",
+            "date": "2025-10-28T16:12",
+            "url": "https://ouya.cweiske.de/apks/com.ast.mixplayer/com.ast.mixplayer-1.apk",
+            "size": 996032,
+            "md5sum": "12e141feac258aa5933ef24a35667861"
+        }
+    ],
+    "discover": "https://ouya.cweiske.de/apks/com.ast.mixplayer/discover.png",
+    "media": [],
+    "developer": {
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2025-10-28T16:12",
+    "inAppPurchases": false,
+    "premium": false
+}
