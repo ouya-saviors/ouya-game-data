@@ -10,13 +10,26 @@
     ],
     "releases": [
         {
+            "name": "1.2.1",
+            "versionCode": 4,
+            "uuid": "44406b07-d00b-42ea-8a95-0c22726a0ec5",
+            "date": "2025-10-29T05:19:38Z",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/com.ast.ouyalaunch-4.apk",
+            "size": 5332507,
+            "md5sum": "38550e9850cfebb39e026232c0380685",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        },
+        {
             "name": "1.2",
             "versionCode": 3,
             "uuid": "376734cb-0255-3edc-a044-9e0592cde9c9",
             "date": "2025-10-28T13:06",
             "url": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/com.ast.ouyalaunch-3.apk",
             "size": 5332507,
-            "md5sum": "0bd44f8c90222a2a6627307bc0bf550f"
+            "md5sum": "0bd44f8c90222a2a6627307bc0bf550f",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/discover.png",
@@ -24,9 +37,14 @@
         {
             "type": "image",
             "url": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/screenshot.png"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/screenshot2.png"
         }
     ],
     "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
         "name": "Andiweli"
     },
     "contentRating": "Everyone",

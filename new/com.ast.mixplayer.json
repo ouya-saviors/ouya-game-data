@@ -16,12 +16,20 @@
             "date": "2025-10-28T16:12",
             "url": "http://ouya.cweiske.de/apks/com.ast.mixplayer/com.ast.mixplayer-1.apk",
             "size": 996032,
-            "md5sum": "12e141feac258aa5933ef24a35667861"
+            "md5sum": "12e141feac258aa5933ef24a35667861",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
         }
     ],
     "discover": "http://ouya.cweiske.de/apks/com.ast.mixplayer/discover.png",
-    "media": [],
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.mixplayer/screenshot.png"
+        }
+    ],
     "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
         "name": "Andiweli"
     },
     "contentRating": "Everyone",
