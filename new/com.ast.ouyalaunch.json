@@ -10,6 +10,17 @@
     ],
     "releases": [
         {
+            "name": "1.3",
+            "versionCode": 5,
+            "uuid": "fd2899d4-06e0-4121-bd1d-5d05912a397f",
+            "date": "2025-10-30T15:12:37Z",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/com.ast.ouyalaunch-5.apk",
+            "size": 5332585,
+            "md5sum": "d0fe33ab2e426f55a24d22172a763097",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        },
+        {
             "name": "1.2.1",
             "versionCode": 4,
             "uuid": "44406b07-d00b-42ea-8a95-0c22726a0ec5",
