@@ -90,7 +90,9 @@
                     "2024 Anniversary GameJam",
                     "2025 Winter GameJam",
 
+                    "Launcher",
                     "Open Source",
+                    "PlayJam GameStick",
                     "Repackaged",
                     "Tutorials",
                     "Unlocked"
@@ -478,13 +480,17 @@
             "description": "Links to other OUYA applications",
             "additionalProperties": false,
             "properties": {
+                "launcher": {
+                    "type": "string",
+                    "description": "Package name of app that starts this one (for PlayJam GameStick games)"
+                },
                 "unlocked": {
                     "type": "string",
                     "description": "Package name of unlocked application (full version if this is the demo)"
                 },
                 "original": {
                     "type": "string",
-                    "description": "Package name of original application (demo version if this is the unlocked version)"
+                    "description": "Package name of original application (demo version if this is the unlocked version, unmodified GameStick game if this is the launcher)"
                 }
             }
         },
