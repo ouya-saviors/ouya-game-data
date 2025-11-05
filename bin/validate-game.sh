@@ -7,9 +7,11 @@ if [ $# -lt 1 ]; then
     exit 1
 fi
 
-if [ ! -f "$1" ]; then
-    echo Error: file does not exist
-    exit 2
-fi
+for file in "$@"; do
+    if [ ! -f "$file" ]; then
+        echo "Error: file does not exist: $file"
+        exit 2
+    fi
 
-check-jsonschema --schemafile ouya-game.schema.json "$1"
+    check-jsonschema --schemafile ouya-game.schema.json "$file"
+done
