@@ -1,0 +1,55 @@
+{
+    "packageName": "com.snowbolt.slingshotracing",
+    "title": "Slingshot Racing",
+    "description": "Slingshot Racing is an original racing game in a beautiful steampunk environment with ice tracks, grappling hooks, snowmen and more!\r\n\r\nFEATURES \r\n- Revolutionary controls, easy to pickup and difficult to master.\r\n- Stunning graphics with gorgeous 3D effects, shadows, and particle systems.\r\n\r\nMULTIPLAYER\r\n1-4 Controllers",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.3.4.1",
+            "versionCode": 15,
+            "uuid": "99588250-bd9c-4353-9a14-47577a3a831a",
+            "date": "2025-07-20T13:41:15Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.snowbolt.slingshotracing/Slingshot%20Racing_1.3.4.1_com.snowbolt.slingshotracing.apk",
+            "size": 34375898,
+            "md5sum": "0b34dacfa38a5a11d88b590c951712d8",
+            "cert_fingerprint": "9B:BD:7A:BB:81:B8:BC:A2:BF:81:3F:6E:A1:10:2B:2F:CC:BA:9D:72:D6:0B:0A:E5:6A:3C:CC:53:04:77:C8:66",
+            "cert_subject": "CN=Matthew Simper, O=Snowbolt Interactive, L=Cambridge, ST=Cambridgeshire, C=UK"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.snowbolt.slingshotracing/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.snowbolt.slingshotracing/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.snowbolt.slingshotracing/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.snowbolt.slingshotracing/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Snowbolt"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-07-30",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.snowbolt.slingshotracing.launcher"
+    }
+}
