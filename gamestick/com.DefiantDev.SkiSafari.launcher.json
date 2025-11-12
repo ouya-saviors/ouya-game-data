@@ -1,0 +1,52 @@
+{
+    "packageName": "com.DefiantDev.SkiSafari.launcher",
+    "title": "Ski Safari (Launcher)",
+    "description": "Welcome to Ski Safari!\r\n\r\nSki Safari is where Animals, Avalanches and Action come together to create a new casual gameplay experience.\r\n\r\nSven, as we like to call him, can use animals to aid his escape from an icey end.\r\n\r\nCompleting objectives can 'level up' Sven and increase his score multiplier. Ride animals, perform backflips and Sven will be rocketing up the highscore table with ease.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Arcade/Pinball"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "03e8e0a6-1e4f-4580-928e-8efdd1313cf5",
+            "date": "2025-11-12T17:32:58Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.DefiantDev.SkiSafari/com.DefiantDev.SkiSafari.launcher-1.apk",
+            "size": 106972,
+            "md5sum": "c97633c71a8aa97a5576ae57f0500e43",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.DefiantDev.SkiSafari/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.DefiantDev.SkiSafari/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.DefiantDev.SkiSafari/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.DefiantDev.SkiSafari/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-09-17",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.DefiantDev.SkiSafari"
+    }
+}
