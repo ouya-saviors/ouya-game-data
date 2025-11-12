@@ -1,7 +1,7 @@
 {
     "packageName": "com.ast.ouyalaunch",
     "title": "OUYAlaunch",
-    "description": "OUYAlaunch is focused on a clean UI, OUYA colors, fast and lightweight. The UI was primary designed in Photoshop with some handdrawn button graphics and logos.\n\nAt the first launch OUYAlaunch scans ALL installed apps for an ouya_icon.png file somewhere in res/ and caches them for fast loading. Per default ALL scanned apps are initially stored in the tab \"Casual\".\n\nOUYAlaunch has no specific \"Settings\" or \"Options\" menu. You control everything with the OUYA-controller-buttons:\n\nO = launch a selected app\nU = move the selected app to the next genre\nY = delete an app (you have to press the button 2 seconds or longer)\nA = set an app as \"Favorite\"\n\nL1 and R1 navigate your thru the tabs.\nL2 and R2 both pressed the same time initiate a rescan of all installed apps.\n\nDPAD or Analog sticks navigate thru the app-grid.",
+    "description": "OUYAlaunch is focused on a clean UI, OUYA colors, fast and lightweight. The UI was primary designed in Photoshop with some handdrawn button graphics and logos.\n\nAt the first launch OUYAlaunch scans ALL installed apps for an ouya_icon.png file somewhere in res/ and caches them for fast loading. Per default ALL scanned apps are initially stored in the tab \"Casual\".\n\nOUYAlaunch has no specific \"Settings\" or \"Options\" menu. You control everything with the OUYA-controller-buttons:\n\nO = launch a selected app\nU = move the selected app to the next genre\nY = delete an app (you have to press the button 2 seconds or longer)\nA = set an app as \"Favorite\"\n\nL1 and R1 navigate your thru the tabs.\nL2 and R2 both pressed the same time initiate a rescan of all installed apps.\n\nDPAD or Analog sticks navigate thru the app-grid.\n\nCustomize genre names in the JSON file located at sdcard/android/data/com.ast.ouyalaunch",
     "players": [
         1
     ],
@@ -9,6 +9,17 @@
         "App"
     ],
     "releases": [
+        {
+            "name": "1.5",
+            "versionCode": 7,
+            "uuid": "2c736717-491e-42ca-849f-e62b647d6f15",
+            "date": "2025-11-12T19:52:03Z",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ouyalaunch/com.ast.ouyalaunch-7.apk",
+            "size": 5336681,
+            "md5sum": "e1e6980ba424a23d42ea82ead15799fc",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        },
         {
             "name": "1.3",
             "versionCode": 5,
