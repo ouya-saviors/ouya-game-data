@@ -1,0 +1,52 @@
+{
+    "packageName": "com.bigbluebubble.darkincfull",
+    "title": "Dark Incursion",
+    "description": "Dark Incursion is a side scrolling, hack and slash game that combines old school pixel art with a stereoscopic 3D experience. \r\n\r\nPlayers have a multitude of bio-engineered weapons at their disposal with which to eradicate the abominations from the city. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "PlayJam GameStick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.7",
+            "versionCode": 8,
+            "uuid": "d5baa14e-2d43-4393-aad2-e45aa24662ff",
+            "date": "2025-07-20T13:41:00Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.bigbluebubble.darkincfull/Dark%20Incursion_1.0.7_com.bigbluebubble.darkincfull.apk",
+            "size": 27763311,
+            "md5sum": "8fc84e59187a3b80a801655b66243152",
+            "cert_fingerprint": "F0:D5:79:D7:D6:36:8C:89:3B:F9:9B:62:91:35:6D:CF:10:0C:13:D8:38:C5:38:63:F9:CF:08:ED:5B:DC:A0:93",
+            "cert_subject": "C=CA, ST=Ontario, L=London, O=Big Blue Bubble Inc., OU=Developers, CN=Test Key"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Big Blue Bubble"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2013-11-05",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.bigbluebubble.darkincfull.launcher"
+    }
+}

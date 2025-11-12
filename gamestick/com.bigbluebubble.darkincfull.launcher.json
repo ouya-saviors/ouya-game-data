@@ -1,0 +1,54 @@
+{
+    "packageName": "com.bigbluebubble.darkincfull.launcher",
+    "title": "Dark Incursion (Launcher)",
+    "description": "Dark Incursion is a side scrolling, hack and slash game that combines old school pixel art with a stereoscopic 3D experience. \r\n\r\nPlayers have a multitude of bio-engineered weapons at their disposal with which to eradicate the abominations from the city. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Launcher",
+        "PlayJam GameStick",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "d8889202-b6c5-4352-abcc-8f580e670859",
+            "date": "2025-11-12T17:14:16Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/com.bigbluebubble.darkincfull.launcher-1.apk",
+            "size": 152028,
+            "md5sum": "7cfe2e6f034c5b142ebcb0dace22553a",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.bigbluebubble.darkincfull/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2013-11-05",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.bigbluebubble.darkincfull"
+    }
+}
