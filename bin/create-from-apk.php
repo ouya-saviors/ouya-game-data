@@ -175,17 +175,22 @@ if (count($additionalFiles)) {
 $json = json_encode($data, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES | JSON_UNESCAPED_UNICODE)
     . "\n";
 
-if ($packageName) {
-    $jsonfile = realpath(__DIR__ . '/../new') . '/' . $packageName . '.json';
-    if (!file_exists($jsonfile)) {
-        file_put_contents($jsonfile, $json);
-        echo 'Wrote file ' . $jsonfile . "\n";
-    } else {
+if (!$packageName) {
+    echo $json;
+}
+
+$candidates = [
+    realpath(__DIR__ . '/../gamestick') . '/' . $packageName . '.json',
+    realpath(__DIR__ . '/../new') . '/' . $packageName . '.json',
+];
+foreach ($candidates as $jsonfile) {
+    if (file_exists($jsonfile)) {
         echo $json;
         fwrite(STDERR, 'File exists already: ' . $jsonfile . "\n");
         exit(1);
     }
-} else {
-    echo $json;
 }
+
+file_put_contents($jsonfile, $json);
+echo 'Wrote file ' . $jsonfile . "\n";
 ?>
