@@ -184,7 +184,8 @@
                     "url": {
                         "description": ".apk download link",
                         "type": "string",
-                        "format": "url"
+                        "format": "url",
+                        "pattern": "^(?!https://.*\\.cweiske\\.de)"
                     },
 
                     "size": {
@@ -246,7 +247,8 @@
         "discover": {
             "description": "Main game image. Used in the OUYA discover store. Size 732x412",
             "type": "string",
-            "format": "url"
+            "format": "url",
+            "pattern": "^(?!https://.*\\.cweiske\\.de)"
         },
 
         "media": {
@@ -271,12 +273,14 @@
                     "url": {
                         "description": "Image URL or video URL. Vimeo and Youtube URLs supported",
                         "type": "string",
-                        "format": "url"
+                        "format": "url",
+                        "pattern": "^(?!https://.*\\.cweiske\\.de)"
                     },
                     "thumb": {
                         "description": "Small preview image. Size should be 852x479.",
                         "type": "string",
-                        "format": "url"
+                        "format": "url",
+                        "pattern": "^(?!https://.*\\.cweiske\\.de)"
                     }
                 }
             }
