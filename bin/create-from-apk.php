@@ -58,7 +58,7 @@ $data = [
             'versionCode' => 'FIXME',
             'uuid'        => uuid_create(),
             'date'        => gmdate('Y-m-d\TH:i:s\Z', filectime($apk)),
-            'url'         => $urlBasePath . basename($apk),
+            'url'         => $urlBasePath . rawurlencode(basename($apk)),
             'size'        => filesize($apk),
             'md5sum'      => md5_file($apk),
         ]
