@@ -1,0 +1,56 @@
+{
+    "packageName": "com.ubisoft.princeofpersia.shadowandflame.ggp.launcher",
+    "title": "Prince of Persia: The Shadow and the Flame (Launcher)",
+    "description": "The rebirth of the legendary action-platformer, with brand-new visuals and controls redesigned for GameStick. \r\n\r\n** SlideToPlay – 4/4 – “A gorgeous and athletic blend of platforming and exploration”\r\n\r\n** TouchArcade – 4.5/5 – “Shadow and the Flame is a Prince of Persia game in every way that counts” \r\n\r\nSet after the events of Prince of Persia Classic, Prince of Persia The Shadow and the Flame continues the saga of the wanderer who was born a Prince.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Launcher",
+        "Platformer",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "dd20d8d0-f7fc-4733-bed6-59d29aceb5e0",
+            "date": "2025-11-12T17:14:16Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ubisoft.princeofpersia.shadowandflame.ggp/com.ubisoft.princeofpersia.shadowandflame.ggp.launcher-1.apk",
+            "size": 147932,
+            "md5sum": "00495806f87ff28309508bca4ec0788a",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.ubisoft.princeofpersia.shadowandflame.ggp/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ubisoft.princeofpersia.shadowandflame.ggp/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ubisoft.princeofpersia.shadowandflame.ggp/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ubisoft.princeofpersia.shadowandflame.ggp/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ubisoft.princeofpersia.shadowandflame.ggp/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Ubisoft"
+    },
+    "contentRating": "12+",
+    "website": null,
+    "firstPublishedAt": "2014-01-16",
+    "inAppPurchases": true,
+    "premium": true,
+    "relationships": {
+        "original": "com.ubisoft.princeofpersia.shadowandflame.ggp.launcher"
+    }
+}
