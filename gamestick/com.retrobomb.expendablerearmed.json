@@ -1,0 +1,55 @@
+{
+    "packageName": "com.retrobomb.expendablerearmed",
+    "title": "Expendable Rearmed",
+    "description": "AD 2463. For the last 500 years, among the bleak and barren worlds that exist in deep space, mankind has expanded its horizons. \r\n\r\nThe most suitable planets and moons near Earth have been terraformed, turning the once-inhospitable wastelands into habitable places. \r\n\r\nDeeper and deeper into the universe mankind spread itself, until only a mere handful of humans would or could survive the journey. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.1.3",
+            "versionCode": 1000103,
+            "uuid": "decce112-f42c-416a-a4ad-88eedcc29fb1",
+            "date": "2025-07-20T13:41:14Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.retrobomb.expendablerearmed/Expendable%20Rearmed_1.1.3_com.retrobomb.expendablerearmed.apk",
+            "size": 48770590,
+            "md5sum": "22d55f1bb2a63add60b26dd86457c4e2",
+            "cert_fingerprint": "11:AD:A0:06:6E:12:92:8F:78:89:37:C1:8C:E9:2A:12:5A:41:B9:E3:9D:B7:65:B2:4C:52:FE:8B:C3:F8:13:3B",
+            "cert_subject": "C=UK, ST=Durham, L=Durham, O=Retrobomb, OU=Retrobomb, CN=Ron Morginald"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.retrobomb.expendablerearmed/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrobomb.expendablerearmed/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrobomb.expendablerearmed/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrobomb.expendablerearmed/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrobomb.expendablerearmed/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Retrobomb"
+    },
+    "contentRating": "12+",
+    "website": null,
+    "firstPublishedAt": "2012-12-20",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.retrobomb.expendablerearmed.launcher"
+    }
+}

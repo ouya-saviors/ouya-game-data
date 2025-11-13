@@ -1,0 +1,52 @@
+{
+    "packageName": "com.oyatsukai.finalfwy2r",
+    "title": "Final Freeway 2R",
+    "description": "Speed through several exciting stages. Pick a character and choose your path as you drive!\r\nThe impressive sense of speed, catchy tunes and a super-retro look, will kick you back to the 80s! Beat the clock to the next checkpoint and don't let the pesky challenger beat you!\r\n\r\nFEATURES\r\n- Old-school arcade racing through 14 stages\r\n- Real-time road splits (choose as you go)\r\n- 3 selectable characters: Jess, Rico and Kate\r\n- Beat your racing rival for extra awards\r\n- 3 fantastic pop-rock tunes",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Arcade/Pinball",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.8.12.0",
+            "versionCode": 1081200,
+            "uuid": "44644b6b-91f4-4c50-97ac-668067bbf303",
+            "date": "2025-07-20T13:41:11Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.oyatsukai.finalfwy2r/Final%20Freeway%202R_1.8.12.0_com.oyatsukai.finalfwy2r.apk",
+            "size": 17017034,
+            "md5sum": "e0eccafb6e94c81044073f671daf2cfb",
+            "cert_fingerprint": "56:F0:78:84:05:95:46:43:A7:E3:F7:94:49:E0:E9:BE:3A:42:88:F3:40:DB:42:44:4D:BE:8E:07:C7:0A:E1:BE",
+            "cert_subject": "C=JA, ST=Unknown, L=Tokyo, O=oyatsukai.com, OU=Dev, CN=Duncan Tebbs"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Oyatsukai Games"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-07-04",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.oyatsukai.finalfwy2r.launcher"
+    }
+}

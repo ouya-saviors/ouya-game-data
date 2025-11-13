@@ -1,0 +1,55 @@
+{
+    "packageName": "com.vectorunit.bluegamestick",
+    "title": "Riptide",
+    "description": "Rev up your supercharged jet ski and take a wild ride through twisting canals and rivers, futuristic cityscapes, and mysterious research facilities! \r\n\r\nSkill, stunts, and speed will be your best allies as you grab massive air off huge waves, kick out death-defying tricks, and boost your jet ski to victory across a dynamic, ever-changing torrent of foam and spray.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.6.2",
+            "versionCode": 21,
+            "uuid": "503bcf8d-bf8f-4c2b-8514-dc545f5e43de",
+            "date": "2025-07-20T13:41:17Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.vectorunit.bluegamestick/Riptide_1.6.2_com.vectorunit.bluegamestick.apk",
+            "size": 41195229,
+            "md5sum": "33464112f546d8452e57257658103400",
+            "cert_fingerprint": "66:B4:6A:40:A5:64:7E:9E:51:4D:AA:AD:03:EB:94:67:60:1C:73:29:41:4F:6A:14:6D:B4:85:A8:6E:A4:D1:24",
+            "cert_subject": "C=US, ST=CA, L=San Rafael, O=Vector Unit Inc, OU=Unknown, CN=Ralf Knoesel"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.vectorunit.bluegamestick/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.vectorunit.bluegamestick/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.vectorunit.bluegamestick/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.vectorunit.bluegamestick/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.vectorunit.bluegamestick/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Vector Unit"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-10-07",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.vectorunit.bluegamestick.launcher"
+    }
+}

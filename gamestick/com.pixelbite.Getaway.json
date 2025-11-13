@@ -1,0 +1,51 @@
+{
+    "packageName": "com.pixelbite.Getaway",
+    "title": "Reckless Getaway",
+    "description": "Who'd a thought robbing the bank would be the easy part? Now comes the real challenge – to escape with your hard-earned loot having the fuzz hot at your heels!\r\n\r\nWeave in and out of oncoming traffic. Dodge, outrun or ram pursuing police cars and just crash and smash your way through 28 varied levels.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 100,
+            "uuid": "d09fa46a-41ea-4250-8a7a-77bfd51c353b",
+            "date": "2025-07-20T13:41:12Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.pixelbite.Getaway/Reckless%20Getaway_1.0.0_com.pixelbite.Getaway.apk",
+            "size": 128273857,
+            "md5sum": "6ed13d0a30777a363c20023b7b1c5764",
+            "cert_fingerprint": "4D:90:5E:B3:75:42:13:84:3F:F7:80:E3:24:36:38:CF:E8:62:E7:22:72:DF:71:69:55:DE:62:53:4D:E7:C5:D9",
+            "cert_subject": "C=46, ST=Sweden, L=Helsingborg, O=Pixelbite AB, OU=programming, CN=Tobias"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Getaway/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Getaway/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Getaway/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Getaway/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Pixelbite"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-08-27",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.pixelbite.Getaway.launcher"
+    }
+}

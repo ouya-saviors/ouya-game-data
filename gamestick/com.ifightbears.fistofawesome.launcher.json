@@ -1,0 +1,52 @@
+{
+    "packageName": "com.ifightbears.fistofawesome.launcher",
+    "title": "Fist of Awesome (Launcher)",
+    "description": "Have you ever wanted to punch a bear IN THE MOUTH?\r\n\r\nWhen Tim Burr's family disappeared and his house spontaneously burst into flames he thought his day was as about bad as it could get. That's when his hand became self-aware and broke the horrific news that the world was now ruled by bears.\r\n\r\nJoin Tim as he embarks on an epic battle across time and space. It's a bit like Quantum Leap but with more bears and lumberjacks.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Fight!",
+        "Launcher",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "2a3bf268-f8f5-4db8-9553-decea11e5594",
+            "date": "2025-11-12T17:14:16Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ifightbears.fistofawesome/com.ifightbears.fistofawesome.launcher-1.apk",
+            "size": 143836,
+            "md5sum": "206e8d7cbf951ddf6c0426ba53a13e57",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.ifightbears.fistofawesome/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ifightbears.fistofawesome/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ifightbears.fistofawesome/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ifightbears.fistofawesome/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "ifightbears"
+    },
+    "contentRating": "12+",
+    "website": null,
+    "firstPublishedAt": "2013-10-09",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.ifightbears.fistofawesome"
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "packageName": "com.namcobandaigames.gamestick.galagase.launcher",
+    "title": "Galaga Special Edition (Launcher)",
+    "description": "The legendary hit arcade shooter returns with Galaga Special Edition! Featuring a new twist on the classic gameplay, slick new graphics and devastating weapon power-ups, the fate of the galaxy lies in your hands!  \r\n\r\nTarget your enemies' critical weak spots to earn bonuses, unlock in-game achievements and rack-up an astronomical score! Blast your way through 25 unique levels and epic boss battles on your mission to defend the galaxy and prevent an intergalactic catastrophe!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Launcher",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "4625f705-04b7-40aa-8903-58aa4bb3d1d5",
+            "date": "2025-11-12T17:14:16Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.galagase/com.namcobandaigames.gamestick.galagase.launcher-1.apk",
+            "size": 135644,
+            "md5sum": "9e8a6851d9b51cb3ced0891276da869a",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.galagase/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.galagase/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.galagase/screen2.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Namco Bandai"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2014-02-11",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.namcobandaigames.gamestick.galagase"
+    }
+}

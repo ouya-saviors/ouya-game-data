@@ -1,0 +1,54 @@
+{
+    "packageName": "com.namcobandaigames.gamestick.riseofglory",
+    "title": "Sky Gamblers: Rise of Glory",
+    "description": "EXPERIENCE 3D AERIAL COMBAT AT ITS BEST!\r\n\r\nEarn your wings as a World War I Flying Ace in Sky Gamblers: Rise Of Glory!\r\n\r\nImmerse yourself in WWI combat and the dawn of aerial warfare as you pilot revolutionary flying machines. \r\n\r\nTake-off solo in mission-based Campaign Mode, or take to the skies online with up to 8 players in real-time multiplayer.\r\n\r\nMULTIPLAYER\r\n1-8 Players Online",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1,
+            "uuid": "7dd8a20d-3150-469a-9a04-3cda4cb95bb9",
+            "date": "2025-07-20T13:41:09Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.namcobandaigames.gamestick.riseofglory/RiseOfGlory_1.0.0_com.namcobandaigames.gamestick.riseofglory.apk",
+            "size": 50461030,
+            "md5sum": "5246541872554c58af5b58a220678ead",
+            "cert_fingerprint": "A3:CD:13:57:87:DF:80:E0:90:45:72:1F:F5:D3:24:CB:82:F1:68:6F:4E:FD:A7:59:CD:9E:B6:75:71:2F:78:21",
+            "cert_subject": "C=US, ST=CA, L=San Jose, O=Namco Networks America Inc., OU=Android Signing, CN=Namco Networks America Inc."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.riseofglory/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.riseofglory/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.riseofglory/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.namcobandaigames.gamestick.riseofglory/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Namco Bandai"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-03-04",
+    "inAppPurchases": true,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.namcobandaigames.gamestick.riseofglory.launcher"
+    }
+}

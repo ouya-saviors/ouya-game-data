@@ -1,0 +1,53 @@
+{
+    "packageName": "com.oyatsukai.finalfwy2r.launcher",
+    "title": "Final Freeway 2R (Launcher)",
+    "description": "Speed through several exciting stages. Pick a character and choose your path as you drive!\r\nThe impressive sense of speed, catchy tunes and a super-retro look, will kick you back to the 80s! Beat the clock to the next checkpoint and don't let the pesky challenger beat you!\r\n\r\nFEATURES\r\n- Old-school arcade racing through 14 stages\r\n- Real-time road splits (choose as you go)\r\n- 3 selectable characters: Jess, Rico and Kate\r\n- Beat your racing rival for extra awards\r\n- 3 fantastic pop-rock tunes",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Launcher",
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "ebada1ce-f9cf-451e-a53d-0e16f2fc66b1",
+            "date": "2025-11-12T17:14:16Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/com.oyatsukai.finalfwy2r.launcher-1.apk",
+            "size": 152028,
+            "md5sum": "bf93e616204fdb5b868dff60ba3a6af3",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.oyatsukai.finalfwy2r/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Oyatsukai Games"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-07-04",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.oyatsukai.finalfwy2r"
+    }
+}

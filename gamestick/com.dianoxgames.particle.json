@@ -1,0 +1,52 @@
+{
+    "packageName": "com.dianoxgames.particle",
+    "title": "Particle Arcade Shooter",
+    "description": "Particle Arcade Shooter is a fast-paced, awesome looking space shoot 'em up game with lots of fantastic particle effects and retro shooter feeling. \r\n\r\nDestroy your way through endless waves of colorful enemies, collect mighty power ups and become #1 on the global leaderboards.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "FPS/Shooter",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "2.1",
+            "versionCode": 11,
+            "uuid": "87e5d597-40b6-4465-bee8-df1255f3a1a4",
+            "date": "2025-07-20T13:41:01Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.dianoxgames.particle/Particle%20Arcade%20Shooter_2.1_com.dianoxgames.particle.apk",
+            "size": 10547329,
+            "md5sum": "6e9b979c3a11e9fafe9becd7f23c4371",
+            "cert_fingerprint": "85:55:67:C4:2E:EF:8F:ED:7B:7E:7E:4E:88:C2:BD:9E:60:56:39:57:E1:AC:0B:10:34:6B:81:3C:90:F6:F8:05",
+            "cert_subject": "CN=Stefan Hahn"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.dianoxgames.particle/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.dianoxgames.particle/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.dianoxgames.particle/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.dianoxgames.particle/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Dianox Games"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2015-06-24",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.dianoxgames.particle.launcher"
+    }
+}
