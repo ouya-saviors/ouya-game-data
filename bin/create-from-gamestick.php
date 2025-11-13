@@ -80,10 +80,12 @@ $ouyaGame = (object) [
 
 foreach ($gsGame->genres as $genre) {
     $ouyaGame->genres[] = match($genre) {
-        'Arcade' => 'Arcade/Pinball',
+        'Arcade'  => 'Arcade/Pinball',
+        'Shooter' => 'FPS/Shooter',
         default => $genre,
     };
 }
+sort($ouyaGame->genres);
 
 foreach ($gsGame->images->videos ?? [] as $gsVideo) {
     $ouyaGame->media[] = [

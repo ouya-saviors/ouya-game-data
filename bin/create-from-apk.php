@@ -33,6 +33,12 @@ if (count($argv)) {
     if (strpos($apk, '/cweiske-apks/') !== false) {
         $urlBasePath = 'http://ouya.cweiske.de/apks/'
             . dirname(preg_replace('#^.+/cweiske-apks/#', '', $apk)) . '/';
+    } elseif (str_contains($apk, '/gamestick-assets/')) {
+        $urlBasePath = 'http://ouya.cweiske.de/apks/gamestick/'
+            . dirname(preg_replace('#^.+/gamestick-assets/games/#', '', $apk)) . '/';
+    } elseif (str_contains($apk, '/gamestick/archive/')) {
+        $urlBasePath = 'http://gamestick.cweiske.de/archive/'
+            . dirname(preg_replace('#^.+/gamestick/archive/#', '', $apk)) . '/';
     }
 }
 
