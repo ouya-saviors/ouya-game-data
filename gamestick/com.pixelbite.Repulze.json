@@ -1,0 +1,51 @@
+{
+    "packageName": "com.pixelbite.Repulze",
+    "title": "Repulze",
+    "description": "This action racer puts you in the seat of experimental Repulze hovercraft working as a test pilot for the Man. Well, the Synthetic Man is more accurate. \r\n\r\nThe Synthetics run the corporations. The corporations run the world. You are way down the food chain getting pushed around to complete their \"scientific\" challenges. But you'll show 'em.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 100,
+            "uuid": "b441e79b-6a87-4d23-8787-24e42845a57f",
+            "date": "2025-07-20T13:41:12Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.pixelbite.Repulze/Repulze_1.0.0_com.pixelbite.Repulze.apk",
+            "size": 143661159,
+            "md5sum": "88c46876ee22e4e2983b29efd41500cc",
+            "cert_fingerprint": "4D:90:5E:B3:75:42:13:84:3F:F7:80:E3:24:36:38:CF:E8:62:E7:22:72:DF:71:69:55:DE:62:53:4D:E7:C5:D9",
+            "cert_subject": "C=46, ST=Sweden, L=Helsingborg, O=Pixelbite AB, OU=programming, CN=Tobias"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Repulze/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Repulze/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Repulze/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.pixelbite.Repulze/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Pixelbite"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-09-16",
+    "inAppPurchases": true,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.pixelbite.Repulze.launcher"
+    }
+}
