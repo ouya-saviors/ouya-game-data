@@ -1,0 +1,53 @@
+{
+    "packageName": "net.osaris.turbofly.launcher",
+    "title": "TurboFly HD (Launcher)",
+    "description": "TurboFly HD is a fast paced futuristic racing game.\r\n\r\nInnovative game modes, various tracks, ships and weapons make it unique:\r\n- Best possible use of accelerometer\r\n- Career mode with 22 events\r\n- 8 different tracks on beautiful 3D landscapes\r\n- 5 ships with weapons and boosts\r\n- 3 game modes (Normal race, Pursuit and Endurance)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Launcher",
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "192c9d50-9173-4c1a-b9ee-e181aafcb1d3",
+            "date": "2025-11-17T16:26:36Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/net.osaris.turbofly.launcher-1.apk",
+            "size": 164316,
+            "md5sum": "41a21295d470ba5c142fc60736873cc0",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-12-13",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "net.osaris.turbofly"
+    }
+}

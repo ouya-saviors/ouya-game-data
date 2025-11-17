@@ -1,0 +1,51 @@
+{
+    "packageName": "net.osaris.turbofly",
+    "title": "TurboFly HD",
+    "description": "TurboFly HD is a fast paced futuristic racing game.\r\n\r\nInnovative game modes, various tracks, ships and weapons make it unique:\r\n- Best possible use of accelerometer\r\n- Career mode with 22 events\r\n- 8 different tracks on beautiful 3D landscapes\r\n- 5 ships with weapons and boosts\r\n- 3 game modes (Normal race, Pursuit and Endurance)",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "2.17",
+            "versionCode": 40,
+            "uuid": "c0c8dc5a-3930-4fb1-b083-42abab24e714",
+            "date": "2025-07-20T13:41:20Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_net.osaris.turbofly/TurboFly%20HD_2.17_net.osaris.turbofly.apk",
+            "size": 18002960,
+            "md5sum": "ae1a64ce72ad9cb07a50f4fdae1c6581",
+            "cert_fingerprint": "4D:DA:16:47:23:C7:84:5A:8A:C7:C6:57:64:A1:10:42:70:42:17:5F:8E:D2:0B:B4:F3:E8:A4:DE:54:9B:1C:BB",
+            "cert_subject": "C=33, ST=France, L=France, O=PocketNew, OU=Osaris.net, CN=Marc Fortin"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/net.osaris.turbofly/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Osaris Games"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-12-13",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "net.osaris.turbofly.launcher"
+    }
+}
