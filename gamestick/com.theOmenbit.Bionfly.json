@@ -1,0 +1,55 @@
+{
+    "packageName": "com.theOmenbit.Bionfly",
+    "title": "Bionfly",
+    "description": "Help our moustache and glasses clad bionic friend to collect Onyx stones that are scattered throughout the strange Phobos Planet in the shortest possible time.\r\n\r\nControl Bionfly over a tricky terrain and overcome various obstacles and enemies, and find other secrets in many levels of increasing difficulty.\r\n\r\nDEVELOPER\r\ntheOmenbit",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Platformer",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.2.0",
+            "versionCode": 1002000,
+            "uuid": "c3d1cdf4-7214-4bf0-862a-2fc1b679162b",
+            "date": "2025-07-20T13:41:16Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.theOmenbit.Bionfly/Bionfly_1.2.0_com.theOmenbit.Bionfly.apk",
+            "size": 16054114,
+            "md5sum": "9fc39ddc844fb2484d6aa309b57fbe6b",
+            "cert_fingerprint": "A1:9A:44:BB:7A:12:C7:AA:DA:4C:71:E6:1D:D8:46:3F:F0:06:D2:F2:7C:90:19:68:FA:2C:4C:D4:7A:49:59:C1",
+            "cert_subject": "C=Spain, L=San Roque, O=theOmenbit, OU=Desarrollo, CN=Sergio Fernandez"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.theOmenbit.Bionfly/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.theOmenbit.Bionfly/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.theOmenbit.Bionfly/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.theOmenbit.Bionfly/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.theOmenbit.Bionfly/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "name": "theOmenbit"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2013-10-09",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.theOmenbit.Bionfly.launcher"
+    }
+}
