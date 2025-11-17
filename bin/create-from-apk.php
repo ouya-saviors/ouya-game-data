@@ -193,7 +193,7 @@ foreach ($candidates as $jsonfile) {
     if (file_exists($jsonfile)) {
         echo $json;
         fwrite(STDERR, 'File exists already: ' . $jsonfile . "\n");
-        exit(1);
+        exit(0);
     }
 }
 
