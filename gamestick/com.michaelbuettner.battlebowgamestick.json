@@ -1,0 +1,56 @@
+{
+    "packageName": "com.michaelbuettner.battlebowgamestick",
+    "title": "Battlebow - Shoot the Demons HD",
+    "description": "Battlebow - Shoot the Demons is a mix of RPG and shooter that pits you against hordes of demons. A gate to hell has opened. Devilish creatures are rising from the abyss, looking to clear off all life from our world. Choose from 4 classes and play alone or team up for co-op gameplay to loot over 200 items.\r\n\r\n\"It is brilliant fun\" (Rating: 83%) - TheSmartPhoneAppReview.com\r\n\r\n\"Battlebow is a cool and frenzied mix of RPG and shooter.\" (Rating: 4/5) - iPhoneGamerUK.co.uk\r\n\r\nMULTIPLAYER\r\n1-2 Controllers\r\n\r\n",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "2.1",
+            "versionCode": 6,
+            "uuid": "2777fb81-ba5b-4a1f-af67-7d7e52bd5ab9",
+            "date": "2025-07-20T13:41:09Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.michaelbuettner.battlebowgamestick/Battlebow%20-%20Shoot%20the%20Demons%20HD_2.1_com.michaelbuettner.battlebowgamestick.apk",
+            "size": 61181488,
+            "md5sum": "e7250c21ff0121bd891d11dcf0b95cc6",
+            "cert_fingerprint": "56:01:54:1F:95:0D:C9:06:FB:40:B6:88:7E:E1:12:34:C6:5A:EB:C3:35:A5:78:F5:A9:DD:6E:BF:49:C7:54:8E",
+            "cert_subject": "C=DE, L=Goettingen, O=Haybyte Studios, CN=Michael Buettner"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.michaelbuettner.battlebowgamestick/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.michaelbuettner.battlebowgamestick/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.michaelbuettner.battlebowgamestick/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.michaelbuettner.battlebowgamestick/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.michaelbuettner.battlebowgamestick/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Haybyte Studios"
+    },
+    "contentRating": "12+",
+    "website": null,
+    "firstPublishedAt": "2014-03-28",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.michaelbuettner.battlebowgamestick.launcher"
+    }
+}
