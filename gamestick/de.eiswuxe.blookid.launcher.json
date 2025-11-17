@@ -1,0 +1,54 @@
+{
+    "packageName": "de.eiswuxe.blookid.launcher",
+    "title": "Bloo Kid (Launcher)",
+    "description": "Bloo Kid is a fancy retro-style “one-screen” platformer where you jump and run your way through 84 action-packed levels spread across seven unique worlds.\r\n\r\nThe game is heavily inspired by classic platforming games like Mario Bros. and Bubble Bobble.\r\n\r\nFeaturing colorful pixel-art, a classic chiptune soundtrack and boss monsters, Bloo Kid has all that your retro-loving heart can desire!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Launcher",
+        "Platformer",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "45a2f3fe-7904-4b38-bdc1-48b77ccea158",
+            "date": "2025-11-17T17:22:18Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/de.eiswuxe.blookid/de.eiswuxe.blookid.launcher-1.apk",
+            "size": 123356,
+            "md5sum": "27d39fba751849e1bf9a4c87f253aae8",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/de.eiswuxe.blookid/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/de.eiswuxe.blookid/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/de.eiswuxe.blookid/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/de.eiswuxe.blookid/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-04-03",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "de.eiswuxe.blookid"
+    }
+}
