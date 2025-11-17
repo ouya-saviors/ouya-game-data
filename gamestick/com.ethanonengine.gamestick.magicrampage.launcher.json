@@ -1,0 +1,55 @@
+{
+    "packageName": "com.ethanonengine.gamestick.magicrampage.launcher",
+    "title": "Magic Rampage (Launcher)",
+    "description": "Magic Rampage is an addictive platformer that combines the action-RPG genre with the hack 'n' slash gameplay experience! Magic Rampage features character customization, dozens of weapons to choose, from knives, swords, maces, hammers and axes to magical staves. Explore dungeons filled with threatening creatures based on a medieval fantasy set, and loot all the gold you can.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Launcher",
+        "Platformer",
+        "PlayJam GameStick",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "673306b4-baf7-44fe-a8f9-ba046910bb02",
+            "date": "2025-11-17T16:26:36Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/com.ethanonengine.gamestick.magicrampage.launcher-1.apk",
+            "size": 184796,
+            "md5sum": "a25bd43c5929a9532118882bebc779e6",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2015-04-16",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.ethanonengine.gamestick.magicrampage"
+    }
+}

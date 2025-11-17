@@ -1,0 +1,53 @@
+{
+    "packageName": "com.ethanonengine.gamestick.magicrampage",
+    "title": "Magic Rampage",
+    "description": "Magic Rampage is an addictive platformer that combines the action-RPG genre with the hack 'n' slash gameplay experience! Magic Rampage features character customization, dozens of weapons to choose, from knives, swords, maces, hammers and axes to magical staves. Explore dungeons filled with threatening creatures based on a medieval fantasy set, and loot all the gold you can.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "PlayJam GameStick",
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.8.5",
+            "versionCode": 5,
+            "uuid": "483f4399-dcf2-4442-a056-e3cab58f3066",
+            "date": "2025-07-20T13:41:02Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.ethanonengine.gamestick.magicrampage/Magic%20Rampage_1.8.5_com.ethanonengine.gamestick.magicrampage.apk",
+            "size": 109366392,
+            "md5sum": "94b1be13ec95d55d4040691cdef57068",
+            "cert_fingerprint": "8B:76:11:C9:31:94:79:75:14:3B:D8:DD:A8:D3:6B:80:49:38:FA:AD:30:9E:7E:40:01:E5:82:29:33:51:62:64",
+            "cert_subject": "C=79100600, ST=MS, L=Campo Grande, O=ASANTEE, OU=ASANTEE GAMES, CN=Andre Santee"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.ethanonengine.gamestick.magicrampage/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Asantee Games"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2015-04-16",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.ethanonengine.gamestick.magicrampage.launcher"
+    }
+}
