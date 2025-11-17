@@ -1,0 +1,57 @@
+{
+    "packageName": "com.citizen12.cromag.launcher",
+    "title": "Cro-Mag Rally (Launcher)",
+    "description": "It's kart racing with cavemen!\r\n\r\nCro-Mag Rally gives you classic kart-racing action against computer opponents.  The 9 historically-inaccurate tracks include settings like the Great Pyramids, the Great Wall of China and Atlantis.\r\n\r\nYou get your choice of 12 vehicles with different stats, plenty of power-ups to blow away the competition, and of course tons of weapons for maximum mayhem.\r\n\r\nCro-Mag Rally is the wildest kart racer since Man invented the wheel!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Launcher",
+        "PlayJam GameStick",
+        "Racing"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "dbfb9d66-afca-47d5-86e7-8948e2712628",
+            "date": "2025-11-17T16:26:36Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.citizen12.cromag/com.citizen12.cromag.launcher-1.apk",
+            "size": 147932,
+            "md5sum": "834655f20d223a0e1732e229d3e05b76",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.citizen12.cromag/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.citizen12.cromag/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.citizen12.cromag/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.citizen12.cromag/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.citizen12.cromag/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-07-13",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.citizen12.cromag"
+    }
+}
