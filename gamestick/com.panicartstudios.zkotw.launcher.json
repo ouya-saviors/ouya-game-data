@@ -1,0 +1,53 @@
+{
+    "packageName": "com.panicartstudios.zkotw.launcher",
+    "title": "Zombie Kill of the Week (Launcher)",
+    "description": "In Zombie Kill of the Week you play as a badass dude who tries to survive as long as possible shooting his way through various stages full of new weapons, secrets and waves of deadly flesh eating zombies! The game is spiced up with awesome and very manly metal music!\r\n\r\nYou can customize your character with clothing, hats, pants and more. Unlock achievements, perks and get bots to help you destroy the undead!\r\n",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Launcher",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "980ed771-9c12-4559-abdc-8c2aa8cc9d46",
+            "date": "2025-11-17T16:26:36Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.panicartstudios.zkotw/com.panicartstudios.zkotw.launcher-1.apk",
+            "size": 115164,
+            "md5sum": "c0dd07d3c50fb7afe43cc69de994b5fb",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.panicartstudios.zkotw/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.panicartstudios.zkotw/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.panicartstudios.zkotw/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.panicartstudios.zkotw/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "12+",
+    "website": null,
+    "firstPublishedAt": "2013-12-05",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.panicartstudios.zkotw"
+    }
+}
