@@ -10,6 +10,19 @@
     ],
     "releases": [
         {
+            "name": "1.22.1_GIT",
+            "versionCode": 1763226255,
+            "uuid": "ddd0af34-012e-458d-b6b9-20543f56ed9f",
+            "date": "2025-11-22T00:55:56Z",
+            "url": "https://archive.org/download/retroarch-ouya-signed/RetroArch-v1.22.1-OUYA-signed.apk",
+            "size": 183263051,
+            "md5sum": "b2813414d249c4166735f3b751c607d8",
+            "publicSize": 0,
+            "nativeSize": 0,
+            "cert_fingerprint": "8E:35:B6:10:84:BA:FA:94:83:1A:3C:93:8B:CA:27:A1:9A:5E:7E:F2:05:67:FE:DF:16:91:71:63:18:E3:16:C0",
+            "cert_subject": "C = BR, ST = Minas Gerais, L = Belo Horizonte, O = OUYA Saviors, OU = Discord, CN = Zachary Foxx"
+        },
+        {
             "name": "1.19.1_GIT",
             "versionCode": 1717552537,
             "uuid": "ed26b260-00fc-46ea-8626-eee6bfdec950",
