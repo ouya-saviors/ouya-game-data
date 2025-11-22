@@ -1,0 +1,51 @@
+{
+    "packageName": "com.freelunchdesign.icytowerclassic",
+    "title": "Icy Tower",
+    "description": "*** 40 MILLION PLAYERS CAN'T BE\r\nWRONG! ***\r\nThe #1 jumping game of all time: IcyTower!\r\n\r\nHelp Harold jump up the tower. Perform amazing combos without falling down.\r\nCan you make it to the top?",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.2.8",
+            "versionCode": 5,
+            "uuid": "735ea8c2-5a88-4355-9edb-e4a33af9e096",
+            "date": "2025-07-20T13:41:04Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.freelunchdesign.icytowerclassic/Icy%20Tower_1.2.8_com.freelunchdesign.icytowerclassic.apk",
+            "size": 11716774,
+            "md5sum": "31aa0c267c6980dd45c078bff9dfc79a",
+            "cert_fingerprint": "7D:F1:0B:5F:B2:12:3E:7B:63:E1:F3:08:55:5F:26:F7:5E:FA:88:22:15:00:CA:E9:03:4B:2A:41:DB:BA:32:05",
+            "cert_subject": "O=Free Lunch Design AB"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.freelunchdesign.icytowerclassic/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.freelunchdesign.icytowerclassic/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.freelunchdesign.icytowerclassic/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.freelunchdesign.icytowerclassic/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "freelunchdesign"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-07-05",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.freelunchdesign.icytowerclassic.launcher"
+    }
+}
