@@ -1,0 +1,55 @@
+{
+    "packageName": "com.wonosoft.foxtalestheskeletonking",
+    "title": "Fox Tales: The Skeleton King",
+    "description": "Imagine sneaking around a haunted palace avoiding skeletons and ghosts. Enter a dark evil forest filled with zombies and wolves. Why would anyone be foolish enough to do this, you might ask? It's all because our little fox is a self styled hero, who thinks that every damsel in distress needs rescuing.\r\n\r\nConsisting of 30 levels, a unique stamina system, cute cartoony graphics, and lots of catchy tunes. The gameplay mixes crafty strategy, patience and skilled reflexes.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.03",
+            "versionCode": 3,
+            "uuid": "eb384d20-124f-4563-aca6-10f48bb8cdeb",
+            "date": "2025-07-20T13:41:18Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.wonosoft.foxtalestheskeletonking/Fox%20Tales_1.03_com.wonosoft.foxtalestheskeletonking.apk",
+            "size": 108409047,
+            "md5sum": "aa7ff4086bcda37e19d9ddee19bca6c9",
+            "cert_fingerprint": "A1:BD:94:E1:BF:85:4E:A7:6C:F7:35:89:CA:80:A2:20:B9:FC:47:CC:FA:0D:DB:5D:E3:AE:6C:18:D6:82:95:7C",
+            "cert_subject": "CN=Donald Wono, OU=Won-O-Soft, O=Won-O-Soft, L=Jakarta, ST=DKI Jakarta, C=62"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.wonosoft.foxtalestheskeletonking/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.wonosoft.foxtalestheskeletonking/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.wonosoft.foxtalestheskeletonking/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.wonosoft.foxtalestheskeletonking/screen3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.wonosoft.foxtalestheskeletonking/screen4.jpg"
+        }
+    ],
+    "developer": {
+        "name": "Won-O-Soft"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2014-05-09",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.wonosoft.foxtalestheskeletonking.launcher"
+    }
+}
