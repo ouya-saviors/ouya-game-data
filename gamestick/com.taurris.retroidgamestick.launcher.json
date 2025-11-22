@@ -1,0 +1,53 @@
+{
+    "packageName": "com.taurris.retroidgamestick.launcher",
+    "title": "Retroid (Launcher)",
+    "description": "Cool arkanoid arcade game in RETRO style !\r\nCan you break all the bricks ? This task needs some lighting reflexes !\r\n\r\n* Different Episodes for you to choose\r\n* 16 levels per Episode (15 + one endless)\r\n* Endless level for each Episode\r\n* Every episode has unique look and gameplay\r\n* Cheerful graphics and effects\r\n* Groovy music",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Launcher",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "238bd2a0-1688-4615-9d0c-615bce474643",
+            "date": "2025-11-22T17:13:53Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.taurris.retroidgamestick/com.taurris.retroidgamestick.launcher-1.apk",
+            "size": 156124,
+            "md5sum": "ab930309bb5933b42315ce4b5768750c",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.taurris.retroidgamestick/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.taurris.retroidgamestick/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.taurris.retroidgamestick/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.taurris.retroidgamestick/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-04-23",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.taurris.retroidgamestick"
+    }
+}
