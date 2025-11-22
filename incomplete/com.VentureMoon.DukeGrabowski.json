@@ -1,0 +1,57 @@
+{
+    "packageName": "com.VentureMoon.DukeGrabowski",
+    "title": "Duke Grabowski",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "3e31c5a0-7e66-4db7-bd02-1a7fc7297cad",
+            "date": "2016-12-12T22:14:28Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/9LI4piAcTEORZ9iOjKGl",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-631b-4d10-a6b9-168c87e9a95b",
+        "name": null,
+        "website": "",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "9+",
+    "website": "",
+    "firstPublishedAt": "2016-12-12T22:14:28Z",
+    "inAppPurchases": null,
+    "overview": "Released in December 2016 by Venture Moon Industries.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 2,
+        "average": 4.5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "d223a9f3-11ca-4482-835a-b54a2abd5f21",
+            "name": "Duke Grabowski, Mighty Swashbuckler!",
+            "description": "A thrilling point-and-click adventure introducing the Azurbbean's unlikeliest hero. From the creators of \"A Vampyre Story\".",
+            "localPrice": 6.99,
+            "originalPrice": 6.99,
+            "currency": "USD"
+        }
+    ]
+}

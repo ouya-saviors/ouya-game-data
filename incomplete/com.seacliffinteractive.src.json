@@ -1,0 +1,57 @@
+{
+    "packageName": "com.seacliffinteractive.src",
+    "title": "Super Roman Conquest",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "384a0c39-dd33-4e99-bfe5-ede718a3bcf8",
+            "date": "2017-12-30T18:46:45Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/hLO2wJL6RDGzXkFOkSYi",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-575d-41da-b9e0-14c8e6e5b74b",
+        "name": null,
+        "website": "www.SuperRomanConquest.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "12+",
+    "website": "www.SuperRomanConquest.com",
+    "firstPublishedAt": "2017-12-30T18:46:45Z",
+    "inAppPurchases": null,
+    "overview": "Released in December 2017 by SeaCliff Interactive.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 5.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SRC",
+            "name": "Super Roman Conquest",
+            "description": "Super Roman Conquest is a side-scrolling strategy game that gives you full control of your troops within a multi-layered, 3D landscape.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,100 @@
+{
+    "packageName": "com.fredwood.LoveAndroid",
+    "title": "LOVE",
+    "description": "Love is a reductive platforming game with a retro aesthetic and a focus on a challenging difficulty. It has an custom respawn system, 16 levels, 12 track soundtrack, and competitive scoring.\r\n\r\nThe challenging levels are balanced with the inclusion of a simple yet unique respawn system wherein the player can leave a checkpoint at any location at any point, as long as they are on solid ground. Players have a number of gameplay modes to choose from, whether they want it easy, normal, or they want to try their hand at a mode designed specifically for Speed Running. \r\n\r\nBeyond the visual aesthetic, the challenging level design, and the abundance of features, there is the fantastic soundtrack composed by James Bennett, which brings the simple 3-color atmospheres to life. \r\n\r\nFeatures \r\n16 Levels \r\n7-Level Remix Mode \r\nSpeedrun Mode for intense competition \r\nMulti-faceted scoring system for competitive play \r\nUnique Respawn Mechanic",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Arcade/Pinball",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": null,
+            "uuid": "44586187-807a-47d1-b7f0-5a454d494f89",
+            "date": "2015-04-20T21:05:32Z",
+            "url": "FIXME:pFZ4qJ8qSVq7H1vUrzWo_Love-Ouya.apk",
+            "size": 115630627,
+            "md5sum": "86ffc6afc9d4216056f04d7da39b32cb",
+            "publicSize": 716638,
+            "nativeSize": 8812608,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/qmbQBsvyQjGhR1lYOSDE",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/91001632"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/vc7cwx_ouya-screenshot20150416-3-1sp6otn.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-1baj5vf.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/r8inhm_ouya-screenshot20150416-3-1r3f9sg.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-1gtfwrp.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/mk4m4y_ouya-screenshot20150416-3-1hmqurn.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-qr8fn3.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/l6lxjd_ouya-screenshot20150416-3-180n29c.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-1pu7j3n.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/ucplhs_ouya-screenshot20150416-3-1pos2mi.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-1v6nh9b.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/xaztdu_ouya-screenshot20150416-3-1barwn9.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-1vzildv.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/vms4mp_ouya-screenshot20150416-3-g86xc9.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/44586187-807a-47d1-b7f0-5a454d494f89/thumbnails/thumbnail20150416-3-12r2ymg.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-0356-4d94-b38b-2cf55bc1e8a0",
+        "name": "Fred Wood",
+        "website": "thebancast.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": true
+    },
+    "contentRating": "Everyone",
+    "website": "thebancast.com",
+    "firstPublishedAt": "2015-04-20T21:05:32Z",
+    "inAppPurchases": false,
+    "overview": "Released in April 2015 by Fred Wood.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 79,
+        "average": 4.41
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "LoveFull",
+            "name": "Love (Full)",
+            "description": "Full Game Unlock for Love",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}
