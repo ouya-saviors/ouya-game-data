@@ -1,0 +1,57 @@
+{
+    "packageName": "com.BoidaeGames.MitchBerryChallenge",
+    "title": "Mitch: Berry Challenge",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "2.1",
+            "versionCode": 1,
+            "uuid": "bc4ac96d-a19c-4df5-b866-4468a2203116",
+            "date": "2016-08-26T01:13:40Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/xWqy0qS1QDO4raBNb0nY",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-27cf-422b-804c-4463246b7860",
+        "name": null,
+        "website": "www.boidaegames.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "www.boidaegames.com",
+    "firstPublishedAt": "2015-02-25T05:01:59Z",
+    "inAppPurchases": null,
+    "overview": "Released in August 2016 by Boidae Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 15,
+        "average": 3.93
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "mitch_berryChallenge",
+            "name": "Mitch: Berry Challenge",
+            "description": "Control a Green Iguana and save its tribe from starving in this 2D Adventure!",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "USD"
+        }
+    ]
+}

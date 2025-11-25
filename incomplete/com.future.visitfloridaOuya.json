@@ -1,0 +1,57 @@
+{
+    "packageName": "com.future.visitfloridaOuya",
+    "title": "Visit Florida",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "c80a710f-518e-4d55-9a87-9e71317a604c",
+            "date": "2016-08-05T21:28:15Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/UrNjZmJQRna2eABhqkiy",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-723d-47b7-ae23-b47323077d58",
+        "name": null,
+        "website": "www.futuretodayinc.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "www.futuretodayinc.com",
+    "firstPublishedAt": "2016-08-05T21:28:15Z",
+    "inAppPurchases": null,
+    "overview": "Released in August 2016 by Future Today Inc.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "count": 0,
+        "average": 0.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": null,
+            "name": null,
+            "description": null,
+            "localPrice": null,
+            "originalPrice": null,
+            "currency": null
+        }
+    ]
+}

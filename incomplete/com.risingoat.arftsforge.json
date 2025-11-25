@@ -1,0 +1,57 @@
+{
+    "packageName": "com.risingoat.arftsforge",
+    "title": "A Rite From The Stars - ForgeTV",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0.3",
+            "versionCode": 2,
+            "uuid": "9c260bae-60b6-4b64-9208-d297af2159e6",
+            "date": "2017-12-30T11:35:14Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/oEbb9cBfQgO6iAP9hOM8",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-f805-4a49-b9a0-49795e745c5a",
+        "name": null,
+        "website": "",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "9+",
+    "website": "",
+    "firstPublishedAt": "2017-12-30T11:35:14Z",
+    "inAppPurchases": null,
+    "overview": "Released in December 2017 by Risin' Goat.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 1.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "arftsforge",
+            "name": "A Rite From The Stars",
+            "description": "A Rite from the Stars is a 3D point & click adventure that poses an incredibly terrifying challenge to its protagonist... Becoming an adult!",
+            "localPrice": 14.99,
+            "originalPrice": 14.99,
+            "currency": "USD"
+        }
+    ]
+}

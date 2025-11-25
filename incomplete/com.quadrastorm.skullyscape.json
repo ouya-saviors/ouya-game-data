@@ -1,0 +1,57 @@
+{
+    "packageName": "com.quadrastorm.skullyscape",
+    "title": "Skully Scape",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0.2",
+            "versionCode": 1,
+            "uuid": "51bd01a0-d744-43fd-9cc2-8ce91e86135b",
+            "date": "2017-03-09T22:53:15Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/5jZ6SSZpQ1KySJGhCOVv",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-425d-44af-aad7-8f9b4cbd1dbc",
+        "name": null,
+        "website": "www.quadrastorm.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "12+",
+    "website": "www.quadrastorm.com",
+    "firstPublishedAt": "2017-03-09T22:53:15Z",
+    "inAppPurchases": null,
+    "overview": "Released in March 2017 by Douglas Grillet.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 4.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "skully_scape",
+            "name": "Skully Scape",
+            "description": "Skully Scape full game unlock",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

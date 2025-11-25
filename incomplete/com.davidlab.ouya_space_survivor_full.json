@@ -1,0 +1,94 @@
+{
+    "packageName": "com.davidlab.ouya_space_survivor_full",
+    "title": "Space Survivor Full",
+    "description": "Remembering old times! \r\nA classic game arcade. Now available in the palm of your hand! \r\n-Different ships \r\n-Different mode\r\n-Lots of fun!\r\n\r\nCONTROLS:\r\n-Left stick -> spin.\r\n-A -> Shoot/Join Game\r\n\r\nCAN YOU GET THE BEST SCORE?\r\nEXCEEDS MAXIMUM PUNCTUATION!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Retro",
+        "Sim/Strategy"
+    ],
+    "releases": [
+        {
+            "name": "1.0.6",
+            "versionCode": null,
+            "uuid": "f335e28a-6ad8-44ab-9488-f0f737ea2472",
+            "date": "2015-07-14T21:31:54Z",
+            "url": "FIXME:QQQC4qy5TlnD4jvVikdw_ouya_space_survivor_full-Default-1.0.6.apk",
+            "size": 10995902,
+            "md5sum": "f0bfbc3e1852d251e898e9282e0f4e59",
+            "publicSize": 582690,
+            "nativeSize": 8169028,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/WYYn6mfKQBSNuMYJmsRr",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/95729093"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/nXUmr3dRQZyppxtpCsTi",
+            "thumb": "https://www.filepicker.io/api/file/nXUmr3dRQZyppxtpCsTi"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/w26FR1X0Tt6D946oPIPj",
+            "thumb": "https://www.filepicker.io/api/file/w26FR1X0Tt6D946oPIPj"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/J6r0vFstSvyAIBX56je9",
+            "thumb": "https://www.filepicker.io/api/file/J6r0vFstSvyAIBX56je9"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/UoiT5af6RTyupWaJmAwC",
+            "thumb": "https://www.filepicker.io/api/file/UoiT5af6RTyupWaJmAwC"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/F8Q6ryaWRCOUetiXMu8T",
+            "thumb": "https://www.filepicker.io/api/file/F8Q6ryaWRCOUetiXMu8T"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/W3Y5gvkFTFyVA38KK4Hu",
+            "thumb": "https://www.filepicker.io/api/file/W3Y5gvkFTFyVA38KK4Hu"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-7a7a-41c4-ae27-3905f711fd70",
+        "name": "DavidLabs",
+        "website": "http://www.davidlab.es/2013/07/23/betaspace-survivor/",
+        "supportEmail": "admin@davidlab.es",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.davidlab.es/2013/07/23/betaspace-survivor/",
+    "firstPublishedAt": "2015-07-14T21:31:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in July 2015 by DavidLabs.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 2,
+        "average": 3.5
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Space_survivor",
+            "name": "Space survivor",
+            "description": "Remembering old times! \r\nA classic game arcade. Now available in the palm of your hand! ",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}
