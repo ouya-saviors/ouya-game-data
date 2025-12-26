@@ -1,0 +1,53 @@
+{
+    "packageName": "com.room247studio.magnetoid.gamestick.launcher",
+    "title": "MAGNETOID HD - Robo Runner (Launcher)",
+    "description": "Magnetoid is a super­fast endless runner powered by magnetism with retro pixel graphics.\r\n\r\nLet's face it. We all are bored by flapping birds, cutting the rope or fighting off zombies with plants. Why don't you try something a bit more exciting, like... destroying the world?\r\n\r\nToo much effort? Puh­lease!Your evil robot rises to the top, while humanity is going the hell down! Switch polarity and avoid obstacles in an ever accelerating danger zone and see how fit you are for world domination. ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Launcher",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "ce8c08b0-0497-4af3-810d-5bd4a33d9d0a",
+            "date": "2025-12-26T18:26:12Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.room247studio.magnetoid.gamestick/com.room247studio.magnetoid.gamestick.launcher-1.apk",
+            "size": 33244,
+            "md5sum": "af9eede6b206f38e7420e7a5add08937",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.room247studio.magnetoid.gamestick/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.room247studio.magnetoid.gamestick/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.room247studio.magnetoid.gamestick/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.room247studio.magnetoid.gamestick/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-11-06",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.room247studio.magnetoid.gamestick"
+    }
+}
