@@ -1,0 +1,53 @@
+{
+    "packageName": "com.retrorevolution.metaloid.launcher",
+    "title": "Metaloid Reactor Guardian  (Launcher)",
+    "description": "Metaloid Reactor Guardian mixes shooting with tower defense action. \r\n\r\nPlayers must survive enemy waves using both arcade skill and and strategy, which comes into play when positioning your defensive turrents.\r\n\r\nPlayers must protect themselves and most importantly the vital \"Reactor\" that stands at the bottom of the screen.\r\n\r\nYou can collect coins to unlock new levels, weapons and characters!! ",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Launcher",
+        "PlayJam GameStick"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "a9f9259f-7c8d-4fcd-8f7e-d957bb0277a9",
+            "date": "2025-12-26T18:26:12Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrorevolution.metaloid/com.retrorevolution.metaloid.launcher-1.apk",
+            "size": 164316,
+            "md5sum": "163a31c55512a4ba75970ee03d70048f",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.retrorevolution.metaloid/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrorevolution.metaloid/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrorevolution.metaloid/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.retrorevolution.metaloid/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "9+",
+    "website": null,
+    "firstPublishedAt": "2014-11-02",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.retrorevolution.metaloid"
+    }
+}
