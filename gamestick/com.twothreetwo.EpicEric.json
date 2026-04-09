@@ -1,0 +1,51 @@
+{
+    "packageName": "com.twothreetwo.EpicEric",
+    "title": "Epic Eric",
+    "description": "** LAUNCH SALE **\r\n\r\nSwing, bounce, bump, slide or bash your way through the enchanting levels to snatch the stars!\r\n\r\n** Develop Indie Finalist 2013 **\r\n** Top 50 most anticipated game for 2014 - Pocket Gamer **\r\n** Stand-out Game - Pocket Gamer Big Indie Pitch 2013 **\r\n\r\nChoose to be the hero or the heroine in this never-ending quest to reach the top of the tower and save the day.\r\n\r\n\"A clever idea that turns a typical fairytale on its ear\" - Pocket Gamer",
+    "players": [
+        1
+    ],
+    "genres": [
+        "PlayJam GameStick",
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "099d08fb-ada6-4138-873b-71d1012fdd9b",
+            "date": "2025-07-20T13:41:17Z",
+            "url": "http://gamestick.cweiske.de/archive/gamestick_com.twothreetwo.EpicEric/Epic%20Eric_1.0_com.twothreetwo.EpicEric.apk",
+            "size": 23757774,
+            "md5sum": "9cdd1cc086e413a6a7752e56450551d2",
+            "cert_fingerprint": "E7:3F:85:70:E1:88:5C:3D:55:9D:DD:44:00:8C:62:A9:EC:DD:0C:F9:B3:76:E9:BF:76:67:9E:3A:3A:BD:11:B8",
+            "cert_subject": "C=UK, ST=London, L=London, O=232 Studios, OU=232 Studios, CN=Neil Glenister"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.twothreetwo.EpicEric/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.twothreetwo.EpicEric/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.twothreetwo.EpicEric/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.twothreetwo.EpicEric/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "name": "232 Studios Ltd"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2014-06-08",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "launcher": "com.twothreetwo.EpicEric.launcher"
+    }
+}
