@@ -1,0 +1,53 @@
+{
+    "packageName": "com.Tribloos2.launcher",
+    "title": "The Tribloos 2 (Launcher)",
+    "description": "Trey and the gang return with an exciting new story! - Putting your time management and strategy skills to the test.\r\n\r\nTerrible storms are approaching and Matilda, Trey's Dragon friend, is getting very tired of blowing them away each time.\r\n\r\nTribloos 2 features 75 brand new campaign levels, 5 completely different bonus levels and if you're bonkers for building you'll love the 15 additional challenge levels!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Launcher",
+        "PlayJam GameStick",
+        "Puzzle/Trivia"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "ab697f68-4dac-4573-9bd8-8f16ac9c4303",
+            "date": "2026-04-09T16:32:55Z",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.Tribloos2/com.Tribloos2.launcher-1.apk",
+            "size": 152028,
+            "md5sum": "ac3866e3596e4a35c712286237a0ca9a",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/gamestick/com.Tribloos2/discover",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.Tribloos2/screen1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.Tribloos2/screen2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/gamestick/com.Tribloos2/screen3.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "Everyone",
+    "website": null,
+    "firstPublishedAt": "2013-10-22",
+    "inAppPurchases": false,
+    "premium": true,
+    "relationships": {
+        "original": "com.Tribloos2"
+    }
+}
