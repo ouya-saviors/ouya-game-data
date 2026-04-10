@@ -1,0 +1,59 @@
+{
+    "packageName": "ryo.ouya.quetedumagicien",
+    "title": "La quête du magicien",
+    "description": "Someone has stolen your father's magical items. Set out on an adventure to find them all.\nExplore mysterious places, and face unexpected challenges along the way.\nEvery object you recover brings you closer to uncovering the truth behind the theft.\n\nThis game was created by children aged 9 to 11 during the 2014–2015 school year.\n\nExport your own RPG Maker MV game to the Ouya : https://github.com/RyoSaeba89/RPG-Maker-Plugins-For-Ouya",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Role-Playing"
+    ],
+    "releases": [
+        {
+            "name": "1.0.1",
+            "versionCode": 132,
+            "uuid": "8dc3f430-350f-46cc-af70-ebb5170e43de",
+            "date": "2026-04-10T14:25:27Z",
+            "url": "http://ouya.cweiske.de/apks/ryo.ouya.quetedumagicien/ryo.ouya.quetedumagicien-132.apk",
+            "size": 67971891,
+            "md5sum": "b59578e73fb9c2d0b2ee557c939af12c",
+            "cert_fingerprint": "A4:0D:A8:0A:59:D1:70:CA:A9:50:CF:15:C1:8C:45:4D:47:A3:9B:26:98:9D:8B:64:0E:CD:74:5B:A7:1B:F5:DC",
+            "cert_subject": "C=US, ST=California, L=Mountain View, O=Android, OU=Android, CN=Android, emailAddress=android@android.com"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/ryo.ouya.quetedumagicien/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/ryo.ouya.quetedumagicien/screenshot_1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/ryo.ouya.quetedumagicien/screenshot_2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/ryo.ouya.quetedumagicien/screenshot_3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/ryo.ouya.quetedumagicien/screenshot_4.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-61e3-4da9-873e-5eedc2244e75",
+        "name": "ryo89",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2026-04-10T14:27:32Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
