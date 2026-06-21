@@ -1,0 +1,66 @@
+{
+    "packageName": "org.teeworlds.ouya",
+    "title": "Teeworlds",
+    "description": "Teeworlds is a free online multiplayer game, available for all major operating systems. Battle with up to 16 players in a variety of game modes, including Team Deathmatch and Capture The Flag. You can even design your own maps!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Multiplayer",
+        "Platformer",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "0.7.5",
+            "versionCode": 2,
+            "uuid": "492fe60e-c254-4d3d-a972-2998bcd4f23e",
+            "date": "2026-06-21T15:18:33Z",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/org.teeworlds.ouya-2.apk",
+            "size": 30982011,
+            "md5sum": "9ec19141d3daebbe2a3578569c51c551",
+            "cert_fingerprint": "10:C0:9E:50:C2:1D:2F:6B:74:1B:AA:23:3A:8E:27:CD:35:C2:B9:D4:44:A1:80:6E:99:FF:C8:65:0D:B9:54:0F",
+            "cert_subject": "CN=Android Debug, O=Android, C=US"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/official_tw_01.720.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/official_tw_02.720.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/official_tw_03.720.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/official_tw_04.720.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/official_tw_05.720.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-61e3-4da9-873e-5eedc2244e75",
+        "name": "ryo89",
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "https://www.teeworlds.com/",
+    "firstPublishedAt": "2026-06-21T15:25:09Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
