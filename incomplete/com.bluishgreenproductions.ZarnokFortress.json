@@ -1,0 +1,57 @@
+{
+    "packageName": "com.bluishgreenproductions.ZarnokFortress",
+    "title": "Robo's World: The Zarnok Fortress",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": 1000000,
+            "uuid": "a42560de-982f-4b87-a98e-40537bc70c28",
+            "date": "2016-06-02T17:33:35Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/Z56EGYaRVaDsotKLD63i",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-3aee-49e5-9fc5-dc90e1736845",
+        "name": null,
+        "website": "http://www.bluishgreenproductions.com/",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "9+",
+    "website": "http://www.bluishgreenproductions.com/",
+    "firstPublishedAt": "2016-06-02T17:33:35Z",
+    "inAppPurchases": null,
+    "overview": "Released in June 2016 by Bluish-Green Productions.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 3,
+        "average": 4.33
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Zarnok_Fortress",
+            "name": "Robo's World: The Zarnok Fortress",
+            "description": "Save Robo's home-world from the evil Zarnok Robots in their massive Fortress in this action-platformer.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

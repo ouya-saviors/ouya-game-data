@@ -1,0 +1,57 @@
+{
+    "packageName": "com.bitbanditsgames.rapidrabbit",
+    "title": "Rapid Rabbit",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": null,
+            "uuid": "146eb2f5-3731-46ae-9c6c-5e5d020dd7f3",
+            "date": "2017-04-11T18:37:03Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/GH6Znn5QT56gfhwlhfIA",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-7555-42b1-a10d-5ee606a0468d",
+        "name": null,
+        "website": "",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2017-03-29T20:30:59Z",
+    "inAppPurchases": null,
+    "overview": "Released in April 2017 by Bit Bandits Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 4.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Rapid_Rabbit",
+            "name": "Rapid Rabbit",
+            "description": "",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

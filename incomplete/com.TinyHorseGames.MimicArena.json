@@ -1,0 +1,57 @@
+{
+    "packageName": "com.TinyHorseGames.MimicArena",
+    "title": "Mimic Arena",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": 1,
+            "uuid": "fcb09f03-7163-41e0-8bdb-f0d896ebfc59",
+            "date": "2016-05-18T17:35:08Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/KhiMKErsTMyxbECGpXZ2",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-ca7b-4f15-b197-bad662513804",
+        "name": null,
+        "website": "",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "",
+    "firstPublishedAt": "2016-05-18T16:24:19Z",
+    "inAppPurchases": null,
+    "overview": "Released in May 2016 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 4,
+        "average": 4.25
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MimicArena-FullGame",
+            "name": "Mimic Arena",
+            "description": "Full game license of Mimic Arena.",
+            "localPrice": 7.99,
+            "originalPrice": 7.99,
+            "currency": "USD"
+        }
+    ]
+}

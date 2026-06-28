@@ -1,0 +1,57 @@
+{
+    "packageName": "com.AdventureMob.BoltRileyChapter1OUYA",
+    "title": "Bolt Riley",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.00",
+            "versionCode": null,
+            "uuid": "b801ff27-1863-415f-ac8f-d4a1bdb10709",
+            "date": "2016-09-26T22:15:43Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/0UxDwFHfQVabE6zNtGhh",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-84f1-4939-94aa-6b89b35afcaf",
+        "name": null,
+        "website": "http://corbomitegames.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "17+",
+    "website": "http://corbomitegames.com",
+    "firstPublishedAt": "2016-09-23T07:45:27Z",
+    "inAppPurchases": null,
+    "overview": "Released in September 2016 by Corbomite Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 5,
+        "average": 3.8
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "BoltRileyCh1",
+            "name": "Bolt Riley - Chapter 1",
+            "description": "Bolt Riley is a a 2D point and click adventure game where you play a poor boy from 1970s Trenchtown, Jamaica, on his pathway to stardom. \r\n",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,77 @@
+{
+    "packageName": "com.clockwatchers.blackjack",
+    "title": "Blackjack 21",
+    "description": "What happens in Vegas, stays in Vegas... except this Blackjack game! \r\n\r\nOur blackjack game offers the sights, sounds, and thrills of the casino all for FREE. With our lush graphics and sleek game design, you'll feel like the blackjack table is your throne. \r\n\r\nBest of all? You can enjoy the gambling adventure of a high roller without betting a dime. Receive FREE CHIPS every two hours and exciting bonuses daily!\r\n\r\nIf you have what it takes, join our high stakes Tournament mode. If you win, (lucky) - collect the prize money equal to 3 times the entry fee!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card/Casino"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": null,
+            "uuid": "8a3b3f64-321a-43c9-a99d-e52e8109303d",
+            "date": "2015-03-24T20:43:24Z",
+            "url": "FIXME:Tg2EHozuRzyxxs0dBB4G_Blackjack-ouya.apk",
+            "size": 7286022,
+            "md5sum": "bef6b53b5158c4242e9c1e6d55196562",
+            "publicSize": 454352,
+            "nativeSize": 723548,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/NzKnLad2RdqDyuLw38BC",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/115032743"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/8a3b3f64-321a-43c9-a99d-e52e8109303d/r8yyat_ouya-screenshot20150122-3-gkzd9v.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/8a3b3f64-321a-43c9-a99d-e52e8109303d/thumbnails/thumbnail20150122-3-1ae9p1t.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/8a3b3f64-321a-43c9-a99d-e52e8109303d/av66kj_ouya-screenshot20150122-3-1nspn08.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/8a3b3f64-321a-43c9-a99d-e52e8109303d/thumbnails/thumbnail20150122-3-1xcwrdc.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/8a3b3f64-321a-43c9-a99d-e52e8109303d/ukv5v7_ouya-screenshot20150122-3-kb129i.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/8a3b3f64-321a-43c9-a99d-e52e8109303d/thumbnails/thumbnail20150122-3-1q8zff4.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-e986-4e58-bea1-e9c03db361dd",
+        "name": "Clockwatchers Inc",
+        "website": "http://www.cwigames.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "12+",
+    "website": "http://www.cwigames.com",
+    "firstPublishedAt": "2015-03-24T20:43:24Z",
+    "inAppPurchases": true,
+    "overview": "Released in March 2015 by Clockwatchers Inc.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 3,
+        "average": 4.67
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Blackjack",
+            "name": "Blackjack",
+            "description": "Blackjack",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "packageName": "com.clockwatchers.crazyeights",
+    "title": "Crazy Eights",
+    "description": "Prepare to go bananas with this popular card game - CRAZY EIGHTS! \r\n\r\nYou've seen variations on this game in other playing card diversions, such as: UNO, Last One, and Rummy. While the concept of CRAZY8s has assumed many other names one thing is certain - THIS VERSION is as fresh as they come!\r\n\r\nFEATURES:\r\n- Play crazy eights online or offline - Internet is not required!\r\n- No squinting! Graphics of cards and game table are large and clear.\r\n- Simple rules - suitable for kids and family-friendly.\r\n- Multiple game variations - Crazy Jacks and Crazy Aces!\r\n- Two player or four player games (vs. computer).\r\n- See how you rank in the list of crazies on the Leaderboard.\r\n- Go bonkers with the Achievements based on number of victories.\r\n- Scoring is set. No number crunching required.\r\n- Compatible with Android phones and tablets. \r\n\r\nHOW TO PLAY CRAZY EIGHTS\r\n- Choose from two or four players (CPU play).\r\n- Each player is dealt 8 cards.\r\n- The remaining cards are placed face down on the gaming table. This is the \"stockpile.\"\r\n- One card is revealed face-up and game play begins! \r\n- Shed your cards, matching the rank or suit of the revealed card...\r\n- ...if you CANNOT discard a card during your turn, then draw a card from the stockpile.\r\n\r\nHOW TO SCORE?\r\nPoints are totaled at the end of the game. CRAZY EIGHTS app automatically calculates the final score based on the remaining cards in your opponent(s) hands.\r\n\r\nCards are worth as follows:\r\n- CRAZY EIGHT = 50 points \r\n- FACE CARD = 10 points\r\n- SPOT CARD = points equal to face value",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Card/Casino"
+    ],
+    "releases": [
+        {
+            "name": "1.2",
+            "versionCode": null,
+            "uuid": "d698b87f-828e-4a07-b551-3e78968262a6",
+            "date": "2015-02-04T14:21:23Z",
+            "url": "FIXME:9aDO1yIXSQOmWrFqebbh_CrazyEights-ouya.apk",
+            "size": 5441018,
+            "md5sum": "a1bfc732f3be436b00da37d0cfbc37d0",
+            "publicSize": 436114,
+            "nativeSize": 489932,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/UZCgBrg6SvaJemZioHc9",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/116768583"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/g19rb_ouya-screenshot20150122-3-bpmrar.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/thumbnails/thumbnail20150122-3-ytj5ef.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/hv973y_ouya-screenshot20150122-3-1hwry6y.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/thumbnails/thumbnail20150122-3-1tow6tp.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/8rg3vo_ouya-screenshot20150122-3-1nekzae.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/thumbnails/thumbnail20150122-3-vily46.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/7it6z5_ouya-screenshot20150122-3-14esz9g.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/d698b87f-828e-4a07-b551-3e78968262a6/thumbnails/thumbnail20150122-3-1hkuofb.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-eead-421e-840e-de8f3028e108",
+        "name": "Clockwatchers Inc",
+        "website": "http://www.cwigames.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http://www.cwigames.com",
+    "firstPublishedAt": "2015-02-04T14:21:23Z",
+    "inAppPurchases": false,
+    "overview": "Released in February 2015 by Clockwatchers Inc.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 3,
+        "average": 4.33
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "crazyeights",
+            "name": "Crazy Eights",
+            "description": "Crazy Eight - The popular card game.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "packageName": "com.ludosity.ittledew.forge",
+    "title": "ittle Dew: Cortex Edition",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": null,
+            "uuid": "01694025-b288-483a-9c8b-3b84d3ebc62d",
+            "date": "2015-11-30T17:04:59Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/eK5aOhwDQ3qoADZqSBEP",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-928a-42bd-a199-fd820be5876f",
+        "name": null,
+        "website": "http://www.ludosity.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.ludosity.com",
+    "firstPublishedAt": "2015-11-30T17:04:59Z",
+    "inAppPurchases": null,
+    "overview": "Released in November 2015 by Ludosity.",
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "count": 5,
+        "average": 4.4
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "ittledew_unlock",
+            "name": "Unlock Ittle Dew",
+            "description": "Unlock the demo to gain access to the full game!",
+            "localPrice": 3.99,
+            "originalPrice": 3.99,
+            "currency": "USD"
+        }
+    ]
+}

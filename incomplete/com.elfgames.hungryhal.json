@@ -1,0 +1,88 @@
+{
+    "packageName": "com.elfgames.hungryhal",
+    "title": "Hungry Hal",
+    "description": "Hal have been infected with the zombie virus.  It wasn't his fault, just in the wrong place at the wrong time.  All he wants to do is survive and it's your goal to help him do that.  Consume the brains and collect bones to buy powerups in your attempt to get Hal to the end. \n\nJust in time for Halloween, do you have what it takes to help Hal in this infinite zombie runner?  Move Hal between one of 3 paths to help him avoid obstacles and collect bones to buy new upgrades.  Compete for high score in 3 different leader boards, and be the first of your friends to unlock all of the achievements.  Hungry Hal may be undead and have a craving for brains, but at the end of the day, he just wants to survive the apocalypse just like everyone else.  Help the friendliest zombie you ever met reach the end.  Team Hal!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.1.4",
+            "versionCode": null,
+            "uuid": "dd262d57-bd8e-4975-9277-5881dd293440",
+            "date": "2014-11-13T16:30:05Z",
+            "url": "FIXME:jwJUOKblSc6ltSryNLzM_hh_ouya_v114.apk",
+            "size": 28348035,
+            "md5sum": "d69d1e9426259be4dd059309ebde98db",
+            "publicSize": 634298,
+            "nativeSize": 20106476,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/3XuotlSlagywVFZBj3Cw",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/109100966"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/s8r180_ouya-screenshot20141112-2-bbmxwv.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/thumbnails/thumbnail20141112-2-kkisat.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/62l43c_ouya-screenshot20141112-2-88w758.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/thumbnails/thumbnail20141112-2-bc4125.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/26z9pg_ouya-screenshot20141112-2-2iiu4x.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/thumbnails/thumbnail20141112-2-1epqmro.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/6olc6w_ouya-screenshot20141112-2-g9dn2s.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/thumbnails/thumbnail20141112-2-b8nk1i.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/inbtjq_ouya-screenshot20141112-2-y4q5kn.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/dd262d57-bd8e-4975-9277-5881dd293440/thumbnails/thumbnail20141112-2-1lnxc49.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-b62e-46d5-9ec2-1b38a8e5dfa9",
+        "name": "Arcade-in-a-Box",
+        "website": "www.elf-games.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "www.elf-games.com",
+    "firstPublishedAt": "2014-10-24T02:38:24Z",
+    "inAppPurchases": false,
+    "overview": "Released in November 2014 by Arcade-in-a-Box.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 7,
+        "average": 3.57
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "hungryhal",
+            "name": "Hungry Hal",
+            "description": "Hal have been infected with the zombie virus.  It wasn't his fault, just in the wrong place at the wrong time.",
+            "localPrice": 0.99,
+            "originalPrice": 0.99,
+            "currency": "USD"
+        }
+    ]
+}

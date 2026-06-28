@@ -1,0 +1,57 @@
+{
+    "packageName": "com.tribute.mercenarykings",
+    "title": "Mercenary Kings",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.25",
+            "versionCode": 25,
+            "uuid": "2150cad9-947f-4406-91d9-e4fcb413e7bc",
+            "date": "2016-09-08T14:05:52Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/EYY7uRdRyo960D0u99Wg",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-1ea4-412b-853c-2745b28670e9",
+        "name": null,
+        "website": "www.ouya.tv",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "12+",
+    "website": "www.ouya.tv",
+    "firstPublishedAt": "2016-09-08T14:05:52Z",
+    "inAppPurchases": null,
+    "overview": "Released in September 2016 by OUYA Publishing.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 5.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "MercenaryKingsFull",
+            "name": "MercenaryKingsFull",
+            "description": "Mercenary Kings full game unlock.",
+            "localPrice": 9.99,
+            "originalPrice": 9.99,
+            "currency": "USD"
+        }
+    ]
+}

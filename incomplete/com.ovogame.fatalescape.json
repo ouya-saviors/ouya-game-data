@@ -1,0 +1,79 @@
+{
+    "packageName": "com.ovogame.fatalescape",
+    "title": "Fatal Escape",
+    "description": "Fatal Escape is an extremely addictive platformer. It’s simple to play, but don’t get it wrong, it’s a very hard game to master. You’ll need to avoid all the pitfalls and collect all the yellow stars to fully complete a level. Trust me, you’ll need to become an expert. You’ll probably scream a lot at your screen but you’ll love this game. There are 4 different levels to enjoy, each one introducing more difficulties or new game elements. Now, download and play it if you think you can beat it.\r\n\r\n• Addictive gameplay.\r\n• Simple to play, hard to master.\r\n• 4 great levels",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Kids List",
+        "Platformer",
+        "Short on Time?"
+    ],
+    "releases": [
+        {
+            "name": "1.0.0",
+            "versionCode": null,
+            "uuid": "f5a260e1-8d2f-44ef-bea4-5d7b79409edc",
+            "date": "2015-10-16T06:29:53Z",
+            "url": "FIXME:ezJ0PMeBSzSMl9wkmzSs_package.apk",
+            "size": 4934370,
+            "md5sum": "4aff92d9fb238043809b2a852cd450da",
+            "publicSize": 215801,
+            "nativeSize": 827212,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ieNBE10JQpmnfffQMzzD",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/121535525"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/f5a260e1-8d2f-44ef-bea4-5d7b79409edc/fkt1d7_ouya-screenshot20151003-3-1ychdpe.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/f5a260e1-8d2f-44ef-bea4-5d7b79409edc/thumbnails/thumbnail20151003-3-hbvsq9.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/f5a260e1-8d2f-44ef-bea4-5d7b79409edc/gd8t1s_ouya-screenshot20151003-3-iz40dw.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/f5a260e1-8d2f-44ef-bea4-5d7b79409edc/thumbnails/thumbnail20151003-3-14zrbk3.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/f5a260e1-8d2f-44ef-bea4-5d7b79409edc/tpeh7q_ouya-screenshot20151003-3-1llghxb.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/f5a260e1-8d2f-44ef-bea4-5d7b79409edc/thumbnails/thumbnail20151003-3-zlmrxg.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-abca-4d33-b486-891d3989d0c3",
+        "name": "Jean-Claude Cottier",
+        "website": "www.ovogame.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.ovogame.com",
+    "firstPublishedAt": "2015-03-11T17:39:35Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Jean-Claude Cottier.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 9,
+        "average": 4.22
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "fatalescapepaid",
+            "name": "Fatal Escape",
+            "description": "Fatal Escape is a simple game to play but it's hard to master.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

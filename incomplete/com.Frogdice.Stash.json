@@ -1,0 +1,57 @@
+{
+    "packageName": "com.Frogdice.Stash",
+    "title": "Stash",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "0.99b_17.03.30",
+            "versionCode": 1,
+            "uuid": "d3014d27-dbb0-4973-9743-4374c6aa7760",
+            "date": "2017-03-31T19:14:26Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ru7BJT2RD2mw2DIr4gfQ",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-fdea-436d-9cff-2997a51f9b48",
+        "name": null,
+        "website": "http://www.frogdice.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "12+",
+    "website": "http://www.frogdice.com",
+    "firstPublishedAt": "2017-03-31T19:14:26Z",
+    "inAppPurchases": null,
+    "overview": "Released in March 2017 by Frogdice.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 0,
+        "average": 0.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "Stash_17_03_30",
+            "name": "Stash",
+            "description": "Stash is an MMO with turn based combat, highly customizable housing, a tabletop art style, & more loot than you can fit in a portable hole.",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}

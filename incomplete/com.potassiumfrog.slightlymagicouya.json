@@ -1,0 +1,84 @@
+{
+    "packageName": "com.potassiumfrog.slightlymagicouya",
+    "title": "Slightly Magic",
+    "description": "He's back! Slightly returns in an authentic remake of the original classic arcade adventure.\r\n\r\n‘Slightly Magic does what few other games do. It takes a garbage truck full of fun and makes daily deliveries!’\r\n89% Sinclair User\r\n\r\n‘The graphics and presentation are excellent too – full of colour and some nice bits of animation… All in all, Slightly Magic is, well, absolutely ‘magic” Your Sinclair 94%\r\n\r\nYour Sinclair Readers voted Slightly Magic one of their Top 100 Games of All Time!!!",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Adventure",
+        "Platformer",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.0",
+            "versionCode": null,
+            "uuid": "0b65b884-f117-448d-a6ac-41ac3a5b3645",
+            "date": "2014-09-30T07:27:21Z",
+            "url": "FIXME:LUvu78fSWqpPdUPLGV3i_Slightly_Magic_OUYA_release_ready.apk",
+            "size": 121237658,
+            "md5sum": "bce0872436500deeb08b88088a0a4fc1",
+            "publicSize": 41901,
+            "nativeSize": 22264940,
+            "latest": true
+        }
+    ],
+    "discover": "https://www.filepicker.io/api/file/Cx5dQDQrTJ6pClH4N8fg",
+    "media": [
+        {
+            "type": "video",
+            "url": "http://vimeo.com/99760766"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/6c6pde_ouya-screenshot20140812-2-icq9zd.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/thumbnails/thumbnail20140812-2-z50xj2.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/ae3iwt_ouya-screenshot20140812-2-1lfma2l.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/thumbnails/thumbnail20140812-2-9lgf3j.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/7yytr7_ouya-screenshot20140812-2-71vsdm.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/thumbnails/thumbnail20140812-2-s0p5lf.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/l411yx_ouya-screenshot20140812-2-z3kkqb.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/0b65b884-f117-448d-a6ac-41ac3a5b3645/thumbnails/thumbnail20140812-2-1qf65pi.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-a2b8-46c5-aebc-db2e8f54a608",
+        "name": "Potassium Frog Ltd",
+        "website": "http://www.potassiumfrog.com",
+        "supportEmail": "hello@potassiumfrog.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "9+",
+    "website": "http://www.potassiumfrog.com",
+    "firstPublishedAt": "2014-09-30T07:27:21Z",
+    "inAppPurchases": false,
+    "overview": "Released in September 2014 by Potassium Frog Ltd.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 7,
+        "average": 4.71
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "SLIGHTLYMAGICFULLGAME",
+            "name": "Slightly Magic",
+            "description": "Slightly Magic Full Game",
+            "localPrice": 5.99,
+            "originalPrice": 5.99,
+            "currency": "USD"
+        }
+    ]
+}

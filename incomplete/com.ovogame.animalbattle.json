@@ -1,0 +1,86 @@
+{
+    "packageName": "com.ovogame.animalbattle",
+    "title": "Animal Battle",
+    "description": "Who’s going to be the king of the jungle? Fight your way to victory in this addictive puzzle fighting game. Pick up your preferred animal and start firing colored blocks at a ceiling of more blocks. When a stared block hit another block of the same color, they’ll all blown-up. Sound easy? Think again.\r\nIn solo mode, Animal Battle is an awesome game, but link up against a friend in 2 players versus mode and it becomes a true master piece. \r\n\r\n•Mind-blowing, seriously addictive gameplay.\r\n•Enjoy heated matches with friends.\r\n•Or play versus the computer.\r\n•20 fun characters to choose from.\r\n•Three difficulty levels.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Kids List",
+        "Multiplayer",
+        "Puzzle/Trivia",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "1.1.0",
+            "versionCode": null,
+            "uuid": "65941921-2c8a-4c6a-84c3-c952f4b543ac",
+            "date": "2015-10-16T06:29:48Z",
+            "url": "FIXME:uyuoy5URAy4BvItMDbgH_package.apk",
+            "size": 6078221,
+            "md5sum": "8bd08c478fea0c66e8cc4e819e880395",
+            "publicSize": 435461,
+            "nativeSize": 835400,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/lwtNFDOGST68EqwqnKps",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/93127186"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/myddam_ouya-screenshot20151003-3-2oq9ip.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/thumbnails/thumbnail20151003-3-1m8usbc.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/djsdno_ouya-screenshot20151003-3-1vl8svy.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/thumbnails/thumbnail20151003-3-zedto6.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/gvitq3_ouya-screenshot20151003-3-1nytfsp.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/thumbnails/thumbnail20151003-3-5btm0m.jpeg"
+        },
+        {
+            "type": "image",
+            "url": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/lutffx_ouya-screenshot20151003-3-1mr0wbk.jpeg",
+            "thumb": "https://s3.amazonaws.com/ouya-screenshots/65941921-2c8a-4c6a-84c3-c952f4b543ac/thumbnails/thumbnail20151003-3-nazrj7.jpeg"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-9ac3-4b3e-ac93-bdc2e31ceb12",
+        "name": "Jean-Claude Cottier",
+        "website": "www.ovogame.com/android/googleplay",
+        "supportEmail": "ouya@ovogame.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "www.ovogame.com/android/googleplay",
+    "firstPublishedAt": "2014-07-17T06:34:54Z",
+    "inAppPurchases": false,
+    "overview": "Released in October 2015 by Jean-Claude Cottier.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 11,
+        "average": 4.18
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "animalbattlepaid",
+            "name": "Animal Battle",
+            "description": "Fight your way to victory in this addictive puzzle fighting game.",
+            "localPrice": 1.99,
+            "originalPrice": 1.99,
+            "currency": "USD"
+        }
+    ]
+}

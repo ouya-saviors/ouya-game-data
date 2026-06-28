@@ -1,0 +1,102 @@
+{
+    "packageName": "com.RockingPocketGames.iFishing3",
+    "title": "iFishing 3",
+    "description": "iFishing 3 is a realistic freshwater fishing simulator with full motion video backgrounds.  Compete in 50 tournaments for different species of fish, earn cash, and buy new fishing gear.  \r\n\r\nFreshwater game fish include largemouth bass, smallmouth bass, walleye, pike, and musky.  \r\n\r\nOver 30 types of lures and various rods and lines can be purchased to customize your fishing experience.\r\n\r\niFishing 3 is the perfect game to bring the great outdoors to you, no matter where you are.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Sports"
+    ],
+    "releases": [
+        {
+            "name": "2",
+            "versionCode": null,
+            "uuid": "89e005d8-d6d0-47ac-b355-46dfe5f1ff5b",
+            "date": "2014-05-23T17:08:20Z",
+            "url": "FIXME:eZ3sb1f9R82MIWQkKX0q_iFishing3Ouya.apk",
+            "size": 86008920,
+            "md5sum": "a15ac9d512496d22adfe540666210962",
+            "publicSize": 85749360,
+            "nativeSize": 0,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/DSzt6lwsSSOFODBnyu7T",
+    "media": [
+        {
+            "type": "video",
+            "url": "https://vimeo.com/95906041"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/DM7FXNRh2kIUD9PZT1zw",
+            "thumb": "https://www.filepicker.io/api/file/DM7FXNRh2kIUD9PZT1zw"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/8Fq0DbTZKK0YAVvoRBog",
+            "thumb": "https://www.filepicker.io/api/file/8Fq0DbTZKK0YAVvoRBog"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/T3ZMIcPKTDeWAzBe5VLZ",
+            "thumb": "https://www.filepicker.io/api/file/T3ZMIcPKTDeWAzBe5VLZ"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/sGrPQJczQ4GRbC1NUZtC",
+            "thumb": "https://www.filepicker.io/api/file/sGrPQJczQ4GRbC1NUZtC"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/ZEZxpw9LSqCmdpJLzLD1",
+            "thumb": "https://www.filepicker.io/api/file/ZEZxpw9LSqCmdpJLzLD1"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/KaQzLQxSt6JOKLaTDGUr",
+            "thumb": "https://www.filepicker.io/api/file/KaQzLQxSt6JOKLaTDGUr"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/GtKYTz6tQrGfrPckNg6Z",
+            "thumb": "https://www.filepicker.io/api/file/GtKYTz6tQrGfrPckNg6Z"
+        },
+        {
+            "type": "image",
+            "url": "https://www.filepicker.io/api/file/tpszwrypQJGQ3DYuqrVI",
+            "thumb": "https://www.filepicker.io/api/file/tpszwrypQJGQ3DYuqrVI"
+        }
+    ],
+    "developer": {
+        "uuid": "00000000-d744-479a-a53a-32bf525c1532",
+        "name": "Rocking Pocket Games",
+        "website": "http://www.RockingPocketGames.com",
+        "supportEmail": "support@rockingpocketgames.com",
+        "supportPhone": null,
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.RockingPocketGames.com",
+    "firstPublishedAt": "2014-05-23T17:08:20Z",
+    "inAppPurchases": false,
+    "overview": "Released in May 2014 by Rocking Pocket Games.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 23,
+        "average": 4.22
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "iFishing3",
+            "name": "iFishing3",
+            "description": "iFishing 3 fishing simulator",
+            "localPrice": 2.99,
+            "originalPrice": 2.99,
+            "currency": "USD"
+        }
+    ]
+}

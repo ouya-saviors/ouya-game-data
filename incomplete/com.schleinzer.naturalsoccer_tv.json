@@ -1,0 +1,57 @@
+{
+    "packageName": "com.schleinzer.naturalsoccer_tv",
+    "title": "Natural Soccer",
+    "description": null,
+    "players": [
+        null
+    ],
+    "genres": null,
+    "releases": [
+        {
+            "name": "1.4.1",
+            "versionCode": 3,
+            "uuid": "f7aeb316-7103-4df8-9e49-0f5eb8695a6c",
+            "date": "2016-07-01T07:14:57Z",
+            "url": "FIXME:",
+            "size": null,
+            "md5sum": null,
+            "publicSize": null,
+            "nativeSize": null,
+            "latest": true
+        }
+    ],
+    "discover": "https://d3e4aumcqn8cw3.cloudfront.net/api/file/ZwU6cO9Rt6n0Efj1vFxQ",
+    "media": [
+        1
+    ],
+    "developer": {
+        "uuid": "00000000-36ec-446c-a3db-046e6a934066",
+        "name": null,
+        "website": "http://www.schleinzer.com",
+        "supportEmail": null,
+        "supportPhone": null,
+        "founder": null
+    },
+    "contentRating": "Everyone",
+    "website": "http://www.schleinzer.com",
+    "firstPublishedAt": "2016-06-18T11:11:28Z",
+    "inAppPurchases": null,
+    "overview": "Released in July 2016 by www.schleinzer.com.",
+    "premium": true,
+    "rating": {
+        "likeCount": 0,
+        "count": 1,
+        "average": 5.0
+    },
+    "products": [
+        {
+            "promoted": true,
+            "identifier": "naturalSoccer_fullVersion",
+            "name": "Natural Soccer - Unlock Full Version",
+            "description": "Unlocks full version:\r\n\r\n* Matches don't end after 3 goals scored\r\n\r\n* Change match length\r\n\r\n* Play full leagues",
+            "localPrice": 4.99,
+            "originalPrice": 4.99,
+            "currency": "USD"
+        }
+    ]
+}
