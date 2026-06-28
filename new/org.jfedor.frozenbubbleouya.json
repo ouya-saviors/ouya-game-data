@@ -1,0 +1,54 @@
+{
+    "packageName": "org.jfedor.frozenbubbleouya",
+    "title": "Frozen Bubble",
+    "description": "Frozen Bubble is a free software clone of Puzzle Bobble. Frozen Bubble's protagonist is a penguin a la Tux, the mascot of Linux and popular feature in many free software/open-source games. In this game, Tux has to shoot colored frozen bubbles to form groups of the same color.",
+    "players": [
+        1,
+        2
+    ],
+    "genres": [
+        "Arcade/Pinball",
+        "Multiplayer",
+        "Puzzle/Trivia",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "4.14",
+            "versionCode": 65,
+            "uuid": "62c86530-36f4-44fc-a1d4-a765c67d52cd",
+            "date": "2026-06-28T05:51:34Z",
+            "url": "http://ouya.cweiske.de/apks/org.jfedor.frozenbubbleouya/org.jfedor.frozenbubbleouya-65.apk",
+            "size": 9485169,
+            "md5sum": "1068deacaa065b196f9413fed5149aa6",
+            "cert_fingerprint": "56:E3:09:7C:82:77:0F:07:CC:A6:CB:05:57:C6:A6:BC:DA:F1:34:90:36:33:FA:5E:1B:47:FE:54:09:2F:9D:84",
+            "cert_subject": "C=US, ST=, L=, O=FrozenBubble OUYA, OU=OUYA Port, CN=RyoSaeba89"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/org.jfedor.frozenbubbleouya/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.jfedor.frozenbubbleouya/screenshot1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/org.jfedor.frozenbubbleouya/screenshot2.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-61e3-4da9-873e-5eedc2244e75",
+        "name": "ryo89"
+    },
+    "contentRating": "Everyone",
+    "website": "https://github.com/RyoSaeba89/frozenbubble-ouya",
+    "firstPublishedAt": "2026-06-28T05:54:50Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
