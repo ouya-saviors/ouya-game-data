@@ -1,0 +1,67 @@
+{
+    "packageName": "com.ast.gloomcollection",
+    "title": "Gloom Collection",
+    "description": "ZGloom brings the classic Amiga FPS experience to OUYA with a modern Android port of the Gloom engine.\n\nPlay Gloom, Gloom Deluxe, Gloom 3 and Zombie Massacre in a TV-friendly version built for controller gameplay. This port features an improved renderer, widescreen support, optional visual overlays, save/load position support and a launcher for multiple supported Gloom-based games.\n\nDesigned for OUYA and Android gamepad devices, ZGloom keeps the gritty 90s Amiga shooter atmosphere while making it easier to enjoy from the couch.\n\nWhat is Gloom?\n\nGloom was a 1995 Doom-like first-person shooter from Black Magic Software for the Commodore Amiga. It featured very messy and meaty graphics and required a powerful Amiga at the time (an A1200 with 030 CPU was still on the low end). The engine later powered several related games and successors, including:\n- Gloom Deluxe / Ultimate Gloom – enhanced graphics and effects\n- Gloom 3\n- Zombie Massacre\n- Various full-game conversions of other 90’s Amiga titles\n\nZGloom is a modern reimplementation of this engine.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "05.2026",
+            "versionCode": 8,
+            "uuid": "58174e7f-421f-45c0-a8e5-d4e2b79edfd4",
+            "date": "2026-06-28T05:25:24Z",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/com.ast.gloomcollection-8.apk",
+            "size": 26445887,
+            "md5sum": "62c3ee0bb2fd83c07af560b08c2c9e07",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/gloom1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/gloom2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/gloom3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/gloom4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/gloom5.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.gloomcollection/gloom6.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "17+",
+    "website": "https://github.com/Andiweli/ZGloom-Android",
+    "firstPublishedAt": "2026-06-28T05:27:35Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
