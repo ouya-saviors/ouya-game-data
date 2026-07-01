@@ -1,0 +1,67 @@
+{
+    "packageName": "com.ast.ut99",
+    "title": "Unreal Tournament '99 (UT99)",
+    "description": " Bring classic arena action to your OUYA with Unreal Tournament. Jump into fast-paced bot matches, iconic weapons, classic maps and competitive first-person gameplay adapted for gamepad controls and optimized for Android/OUYA devices.\n\nThis is an unofficial community port designed to make the original Unreal Tournament playable on OUYA. Original Unreal Tournament game data files are required and get downloaded when starting the first time.",
+    "players": [
+        1,
+        2,
+        3,
+        4
+    ],
+    "genres": [
+        "FPS/Shooter",
+        "Multiplayer",
+        "Open Source"
+    ],
+    "releases": [
+        {
+            "name": "1.7.3",
+            "versionCode": 1,
+            "uuid": "446251bc-d3d5-4c85-b0e1-d412b50506c4",
+            "date": "2026-06-29T04:12:27Z",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/com.ast.ut99-1.apk",
+            "size": 4760936,
+            "md5sum": "446ceeb4f16cb896fbc4fc6237062cd6",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.ast.ut99/discover.jpg",
+    "media": [
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/ut99_1.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/ut99_2.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/ut99_3.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/ut99_4.jpg"
+        },
+        {
+            "type": "image",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/ut99_5.jpg"
+        }
+    ],
+    "developer": {
+        "uuid": "11111111-2590-4f1f-b4ad-7a3ea00edfd6",
+        "name": "Andiweli"
+    },
+    "contentRating": "17+",
+    "website": "https://github.com/Andiweli/UT99-Android",
+    "firstPublishedAt": "2026-07-01T19:26:56Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
