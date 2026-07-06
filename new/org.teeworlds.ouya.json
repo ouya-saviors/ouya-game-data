@@ -13,6 +13,17 @@
     ],
     "releases": [
         {
+            "name": "0.7.5.3",
+            "versionCode": 4,
+            "uuid": "b88b221e-ca7c-462f-b05e-6351b73f6e69",
+            "date": "2026-07-06T15:06:50Z",
+            "url": "http://ouya.cweiske.de/apks/org.teeworlds.ouya/org.teeworlds.ouya-4.apk",
+            "size": 30985489,
+            "md5sum": "d0ae0fcad7badd00c4d08d8a822b4b90",
+            "cert_fingerprint": "10:C0:9E:50:C2:1D:2F:6B:74:1B:AA:23:3A:8E:27:CD:35:C2:B9:D4:44:A1:80:6E:99:FF:C8:65:0D:B9:54:0F",
+            "cert_subject": "CN=Android Debug, O=Android, C=US"
+        },
+        {
             "name": "0.7.5-2",
             "versionCode": 3,
             "uuid": "a934d7a8-0685-4822-aeac-23bb92d7e3cc",
