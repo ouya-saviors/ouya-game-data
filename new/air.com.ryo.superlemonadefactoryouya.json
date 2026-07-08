@@ -1,8 +1,8 @@
 {
-    "packageName": "air.com.initialsgames.SLF",
-    "title": "Super Lemonade Factory",
+    "packageName": "air.com.ryo.superlemonadefactoryouya",
+    "title": "Super Lemonade Factory (Fixed)",
     "description": "Post World War II, a region in political turmoil. Andre’s father offers to give him his lemonade factory – but on one condition; he and his wife, Liselot, must journey through the entire factory, a task that is easier said than done. Andre and Liselot must combine their unique abilities to make it through each room together. Along the way they’ll meet a cast of characters including the foreman, the chef, a food inspector and a general who wants the factory to supply drinks to the military, now engaged in a new war.",
-    "notes": "Starts and hangs on a white screen. We have a fixed version available to install.",
+    "notes": "This is a bug fix version made by Ryo.",
     "players": [
         1
     ],
@@ -13,17 +13,15 @@
     ],
     "releases": [
         {
-            "name": "1.9",
-            "versionCode": 0,
-            "uuid": "1fceb9ba-38f3-4d54-ab5d-ec59fa2be44a",
-            "date": "2014-01-30T22:14:23Z",
-            "url": "https://archive.org/download/ouya_air.com.initialsgames.SLF_1.9/Super%20Lemonade%20Factory_1.9_air.com.initialsgames.SLF.apk",
-            "size": 23595124,
-            "md5sum": "7bf3bcc19efda79047c709d074689a38",
-            "publicSize": 440047,
-            "nativeSize": 19368691,
-            "cert_fingerprint": "8C:FF:55:35:88:45:DB:86:A8:F8:24:DB:B9:B4:48:3F:99:A1:2E:32:05:F1:62:4B:E3:9D:F1:EE:FD:DC:86:77",
-            "cert_subject": "CN = Super Lemonade Factory"
+            "name": "1.9.2",
+            "versionCode": 1009002,
+            "uuid": "8f2ebdf7-e094-4c98-8fbe-93056dbb2d2b",
+            "date": "2026-07-08T14:23:05Z",
+            "url": "http://ouya.cweiske.de/apks/air.com.ryo.superlemonadefactoryouya/air.com.ryo.superlemonadefactoryouya-1009002.apk",
+            "size": 23716900,
+            "md5sum": "a5917493f01711bbdbd63f7d4084c667",
+            "cert_fingerprint": "F3:0E:9C:CE:3D:A2:04:69:5D:5C:CC:A7:3E:07:98:F4:D8:58:7E:7F:84:F2:D5:17:16:AB:F4:15:35:6E:85:CB",
+            "cert_subject": "CN=Super Lemonade Factory"
         }
     ],
     "discover": "http://ouya.cweiske.de/game-images/air.com.initialsgames.SLF/discover",
@@ -72,10 +70,10 @@
         "website": "https://twitter.com/initials_games"
     },
     "contentRating": "Everyone",
-    "website": "http://superlemonadefactory.initialsgames.com",
-    "firstPublishedAt": "2013-11-26T20:48:41Z",
-    "inAppPurchases": true,
-    "overview": "Released in January 2014 by Initials.",
+    "website": "https://github.com/RyoSaeba89/SuperLemonadeFactoryOUYA",
+    "firstPublishedAt": "2026-07-08T14:24:27Z",
+    "inAppPurchases": false,
+    "overview": null,
     "premium": false,
     "rating": {
         "likeCount": 124,
@@ -83,17 +81,6 @@
         "count": 133
     },
     "relationships": {
-        "fixed": "air.com.ryo.superlemonadefactoryouya"
-    },
-    "products": [
-        {
-            "promoted": true,
-            "identifier": "SLF",
-            "name": "Super Lemonade Factory",
-            "description": "Buy Super Lemonade Factory",
-            "localPrice": 4.99,
-            "originalPrice": 4.99,
-            "currency": "EUR"
-        }
-    ]
+        "original": "air.com.initialsgames.SLF"
+    }
 }
