@@ -484,6 +484,10 @@
             "description": "Links to other OUYA applications",
             "additionalProperties": false,
             "properties": {
+                "fixed": {
+                    "type": "string",
+                    "description": "Package name of fixed application (if this here has a bug)"
+                },
                 "launcher": {
                     "type": "string",
                     "description": "Package name of app that starts this one (for PlayJam GameStick games)"
