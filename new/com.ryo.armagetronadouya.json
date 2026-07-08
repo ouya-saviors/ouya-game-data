@@ -1,0 +1,44 @@
+{
+    "packageName": "com.ryo.armagetronadouya",
+    "title": "Armagetron Advanced",
+    "description": "Armagetron is a multiplayer game in 3d that attempts to emulate and expand on the lightcycle sequence from the movie Tron. It's an old school arcade game slung into the 21st century. Highlights include a customizable playing arena, HUD, unique graphics, and AI bots. For the more advanced player there are new game modes and a wide variety of physics settings to tweak as well.\n\nControls:\n- O: Open/close in‑game menu\n- U: Camera mode\n\nLAN and online multiplayer supported.",
+    "players": [
+        1
+    ],
+    "genres": [
+        "Multiplayer",
+        "Racing",
+        "Retro"
+    ],
+    "releases": [
+        {
+            "name": "0.4.5-ouya",
+            "versionCode": 8,
+            "uuid": "53aeff84-ad7c-4239-9b0d-a4681a74a8dc",
+            "date": "2026-07-08T15:38:15Z",
+            "url": "http://ouya.cweiske.de/apks/com.ryo.armagetronadouya/com.ryo.armagetronadouya-8.apk",
+            "size": 8407003,
+            "md5sum": "225935064dacc49200781c131b976999",
+            "cert_fingerprint": "01:EE:A6:77:E1:26:72:AA:7F:8E:2E:6C:C3:C2:6C:0C:D5:B5:0C:3E:E1:2C:B6:73:F2:94:A3:8D:3D:C0:9D:10",
+            "cert_subject": "C=FR, O=Ryo, CN=Armagetron Advanced OUYA Port"
+        }
+    ],
+    "discover": "http://ouya.cweiske.de/apks/com.ryo.armagetronadouya/discover.jpg",
+    "media": [],
+    "developer": {
+        "uuid": "11111111-61e3-4da9-873e-5eedc2244e75",
+        "name": "ryo89",
+        "founder": false
+    },
+    "contentRating": "Everyone",
+    "website": "https://github.com/RyoSaeba89/armagetronad-ouya",
+    "firstPublishedAt": "2026-07-08T15:42:40Z",
+    "inAppPurchases": false,
+    "overview": null,
+    "premium": false,
+    "rating": {
+        "likeCount": 0,
+        "average": 0,
+        "count": 0
+    }
+}
