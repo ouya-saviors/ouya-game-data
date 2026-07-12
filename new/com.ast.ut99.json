@@ -15,6 +15,17 @@
     ],
     "releases": [
         {
+            "name": "1.7.4",
+            "versionCode": 2,
+            "uuid": "268928c9-b486-45cf-b443-47ef1472de58",
+            "date": "2026-07-12T20:03:00Z",
+            "url": "http://ouya.cweiske.de/apks/com.ast.ut99/com.ast.ut99-2.apk",
+            "size": 4761965,
+            "md5sum": "890b8b59b49a94f10f3cdd57c10258a4",
+            "cert_fingerprint": "A3:81:0C:7A:E7:20:11:83:33:F6:8C:55:F4:9C:D4:14:5F:D4:A0:2E:C0:11:27:F8:CC:62:56:D6:A5:07:F4:1A",
+            "cert_subject": "C=AT, OU=CEO, CN=Andreas St."
+        },
+        {
             "name": "1.7.3",
             "versionCode": 1,
             "uuid": "446251bc-d3d5-4c85-b0e1-d412b50506c4",
